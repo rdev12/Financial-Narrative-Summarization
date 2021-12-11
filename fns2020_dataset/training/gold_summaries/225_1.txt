@@ -1,0 +1,508 @@
+ 06 Accumuli plc Annual report and accounts 2014
+Strategic report
+Strategic report 
+(incorporating the CEO’s strategic and operational review)
+Business overview
+Companies are more dependent than ever 
+on IT to run their businesses and as a result 
+their IT infrastructures are exposed to an 
+unprecedented level of risk. IT risk is typically 
+introduced through significant IT trends 
+(external factors) or when delivering against 
+specific business objectives or projects 
+(internal factors). 
+Examples of external IT trends include cybercrime, 
+consumerisation, cloud computing, social 
+media technology integration and the “internet 
+of things”. Examples of specific internal business 
+objectives or projects include reducing costs, 
+doing more with less, adhering to compliance 
+and enhancing customer experience. 
+The most widely reported external IT trend tends 
+to be cybercrime because it presents a 
+significant risk and has affected a number of 
+high profile organisations. Recently reported 
+industry figures (source: hackmageddon.com 
+and Deloitte) show that: 
+  cybercrime continues to grow at an 
+unprecedented level with a 118% increase 
+in the number of new malware samples 
+created in 2013;
+  62% of attacks on organisations were 
+motivated by cybercrime;
+  the UK consistently appears in the top 
+five countries receiving cyber attacks; 
+  in a survey of specific UK companies, 
+93% were attacked and had on average 
+62 attacks per annum; and 
+  the annualised cost of cybercrime to the 
+companies surveyed in 2013 was just 
+under £3m and ranged from £378k to 
+£17m – an increase of 42% on 2012. 
+Whether IT risk is introduced via an external 
+or internal factor the issues that need to be 
+managed can be broken down into six 
+broad categories: 
+  availability – ensuring core systems and 
+network services are always up and running;
+  performance and visibility – ensuring resources 
+are optimised and centralised platforms are 
+in place for rapid response and investigation 
+in the event of a problem;
+  security – ensuring that bad things are kept 
+out and important things are kept in;
+  compliance and governance – ensuring 
+adequate controls and evidence collection 
+are in place for auditors and internal 
+risk registers;
+  in-house expertise – ensuring that there 
+is access to knowledgeable and rare 
+resources; and 
+  supply chain – assurances that the company 
+supply chains have an appropriate level 
+of protection and compliance in place.
+Our results reiterate the strength of our business, 
+strategy and the market we operate in.
+Accumuli is no ordinary company – we are real 
+experts at what we do with highly skilled people 
+and premium services.”
+Highlights in 2014
+  Record sales in Big Data 
+Platforms and Performance 
+Analytics (Eqalis acquisition) 
+in the final quarter of the 
+year which reflects the 
+strong market opportunity
+  Six figure managed service 
+contract win for SIEM with a 
+leading bank, replacing one 
+of our key competitors
+  Named as one of the UK’s 
+1,000 most exciting and 
+inspirational companies 
+in research compiled 
+on behalf of the London 
+Stock Exchange www.accumuli.com Accumuli plc Annual report and accounts 2014 07
+Strategic report
+How do we help?
+It is becoming increasingly difficult for 
+organisations to manage IT risks due to volume 
+and variety – consequently organisations are 
+increasingly turning to an independent specialist, 
+such as Accumuli, to help them understand, 
+design and implement the right levels of 
+protection and management. 
+Accumuli is a leading, UK-based independent 
+specialist in IT Security and risk management 
+– we help organisations manage IT risk by 
+ensuring their IT infrastructure is available, 
+performing and visible whilst always being 
+compliant, resourced and secure. Accumuli 
+delivers this outcome through a portfolio of 
+premium solutions and services and a culture 
+that is focused on our customers and teamwork. 
+Accumuli is no ordinary company – we are 
+real experts at what we do with highly skilled 
+people and premium services. We offer true 
+end to end solutions for our customers who 
+are looking for a technically and commercially 
+advanced partner that will truly help them – our 
+value add is reflected in our high levels of gross 
+profit, recurring revenues and customer renewals.
+Our portfolio 
+The “Accumuli Security Framework” explains 
+our approach to working with our customers. 
+In simple terms it can be broken down into 
+three parts: Support and Managed Services, 
+Professional Services and Technology Solutions.
+1 Support and Managed Services 
+We provide value added vendor support 
+and a managed service platform that enables 
+companies to outsource the management 
+of their security technologies. In the areas of 
+managed and hosted services the acquisition 
+of Signify significantly enhanced our capability. 
+Additionally the steps we have been taking to 
+adopt best practice through the ITIL framework 
+and the recruitment of Andrew Cooke as director 
+of operations continued to demonstrate our 
+commitment to the importance of this part of 
+the business. Andrew Cooke was appointed 
+as director of operations in October 2013 
+and has a background of over 20 years in 
+operational IT management with particular focus 
+on service delivery of managed services. Andrew 
+recently fulfilled the same role for a managed 
+security services business in the UK and has 
+had an immediate impact since joining us. 
+2 Professional Services
+To ensure that technologies are implemented 
+correctly our customers require assistance 
+with the scoping, design, implementation 
+and training of technology solutions. Our 
+customers call upon the skills, knowledge 
+and expertise of the Accumuli team valuing 
+the professionalism and insight we provide. 
+Whilst the smallest, but with growing revenues, 
+of our three segments this is the most important 
+in terms of our credibility as a business.
+3 Technology Solutions 
+We currently represent 27 leading technology 
+vendors which means that we can provide 
+truly independent advice to our customers and 
+recommend the most appropriate technologies 
+to meet their risk and budget objectives. The 
+technology vendors are split into strategic, 
+tactical and emerging partners with the majority 
+of our revenue coming from those in the 
+strategic vendor category. 
+From a customer perspective, our solutions 
+are split into four areas (“Centres of Excellence”): 
+  core network services and network 
+automation;
+  Big Data platforms and performance analytics;
+  defence in depth; and
+  security analytics and threat intelligence.
+In each of these areas we are focused on 
+ensuring we retain thought leadership on the 
+technologies and business drivers. With each 
+of the acquisitions we have made in the last 
+four years, the acquired business was very 
+clearly the expert in its niche. We continue to 
+aim to identify the “right” third party technologies 
+for our clients, whilst also supplementing them 
+with some of our own.
+The market and competitive landscape
+We continue to operate in a market with good 
+growth prospects and significant historical 
+spend. Gartner report that the worldwide 
+IT Security market is worth in excess of $62bn 
+per year with the UK valued at $3.6bn a year. 
+However, the sector is highly fragmented in 
+terms of products and services so we look at 
+the growth projections (compound actual and 
+future annual growth rates) of the areas that 
+are relevant to our offerings – quite often the 
+projections are global rather than just the UK: 
+  General IT Security services  7% 
+and products
+  Managed and hosted IT 13% 
+Security services
+  Core network services  15% 
+and network control 
+  Big Data platform and  20% 
+performance analytics
+The growth of Big Data is unsurprising given 
+the ability to now access and analyse large 
+quantities of data in real time across an 
+organisation’s entire IT assets. This level of 
+intelligence and visibility enables companies 
+to proactively monitor and manage threats 
+to their business and leverage value from 
+machine data. 
+The competitive landscape is typically made 
+up of three types of companies: 
+  small/niche specialists that specialise in 
+one particular solution or service but with 
+limited scope to expand due to cash flow 
+or people;
+  mid-range independents who differentiate 
+based on breadth of portfolio, capability 
+and customer base; and
+  large system integrators and service 
+providers (typically an operating division 
+or a large outsourcer) that tend to be 
+generalists by nature and focus on 
+servicing needs of large multi-national 
+customers – they quite often require a 
+sub-contractor to obtain specific expertise. 08 Accumuli plc Annual report and accounts 2014
+Strategic report
+Strategic report continued
+(incorporating the CEO’s strategic and operational review)
+The market and competitive landscape 
+continued
+There was, and remains, a market opportunity 
+for a specialist to become the sub-contractor 
+of choice to large systems integrators and 
+service providers and be the strategic supplier 
+of choice to organisations with more than 
+3,000 employees, something that is certainly 
+part of our goal. 
+Our strategy
+Our strategy is made up of three key 
+components: 
+1  identify, acquire and integrate acquisitions 
+that add both strategic and financial value;
+2  achieve organic growth through selling 
+existing solutions and services to existing 
+customers; and
+3  partner with strategic alliances for 
+mutual benefit. 
+1 Acquisitions 
+A further two acquisitions were made in the year 
+taking the total to six acquisitions and one 
+disposal since the group’s inception. The 
+acquisitions made during the year contributed 
+23% of group revenues and 29% of gross profit 
+reflecting the service-rich mix of revenues in 
+the acquisitions we made.
+  Signify was acquired in June 2013. 
+The business was attractive to us due to 
+its high levels of recurring revenues and 
+customer retention, a customer base of 
+282 organisations, a highly skilled team 
+of people and a proposition that added 
+value to our overall solutions and 
+services framework. 
+  Given the growing mobility of today’s 
+workforce, it is becoming increasingly 
+important for all organisations to offer 
+employees secure remote access to 
+systems and information. Therefore, adding 
+two-factor authentication to our managed 
+services offering represented the next 
+logical step in our value proposition to help 
+customers secure their business and 
+reduce operating costs.
+  Eqalis was acquired in December 2013. 
+The business was attractive to us as its 
+portfolio complemented our security and 
+incident management (SIEM) solutions; it 
+is Splunk’s leading partner having won the 
+UK, Africa and Ireland partner of the year 
+award for the last two years; and it is the 
+only Splunk authorised training provider 
+in the UK with a customer base of over 
+150 well-known brands. 
+  Big Data analytics is now intrinsically linked 
+with security and operational excellence 
+and Eqalis has been addressing these 
+challenges and delivering great results to 
+its customers for the last six years. The key 
+to successfully mitigating IT Security threats, 
+detecting incidents and responding to 
+breaches is the ability to access and analyse 
+large quantities of data in real time across 
+an organisation’s entire IT assets. This level 
+of intelligence and visibility enables companies 
+to prioritise actions, respond to incidents, 
+improve processes and enhance controls. 
+Since the year end we have completed a small, 
+bolt-on, tactical acquisition of a specialised 
+reseller of IT security, ArmstrongAdams Limited, 
+which was done to enhance our product offering 
+in this area. The net initial cash consideration 
+for this deal was nil and there is contingent 
+consideration payable over two years based 
+on the trading performance of the business. 
+The vendor will remain with the business and 
+we anticipate that we will pay £0.8m of contingent 
+consideration in total which will be payable 
+half yearly.
+Acquisition integration
+Accumuli is one company with one strategy 
+and one team. In order to ensure that 
+acquisitions are integrated properly and that 
+there is no duplication of activities, the entire 
+company has been organised around four 
+key disciplines which enables us to align 
+resources, systems and processes. 
+The core disciplines are: 
+  customer intimacy; 
+  product and thought leadership;
+  operational excellence; and
+  financial power.
+There is one executive responsible for each 
+core discipline and together they make up 
+the management team, namely Rick Wilkinson 
+(customer intimacy), Jon Inns (product and 
+thought leadership), Andrew Cooke (operational 
+excellence) and Ian Winn (financial power). 
+In addition to the core disciplines there is 
+great importance placed on the Accumuli 
+culture and values during and after an 
+acquisition. Having a strong sense of identity 
+and being able to assess whether a company 
+will fit into that environment is a critical factor 
+for ensuring ongoing performance. 
+Experience has taught us that driving the right 
+company culture can have a dramatic effect 
+on our experience as employees, customer 
+satisfaction and business performance. It is 
+important for Accumuli to understand (and 
+state) the type of culture that we want to 
+have so that we can recruit and retain the 
+right individuals and establish an appropriate 
+balance between delivering company growth 
+and looking after our employees. 
+Values underpin any culture and they are a 
+promise to each other (and our customers) 
+as to how we will work together as a team – 
+the interaction between all parties is crucial 
+to a constructive environment. Having clear 
+values also helps us to recruit and retain 
+the right individuals. 
+The Accumuli culture and values are openly 
+stated and assessed every six months. 
+Three core pillars of our business: Technology Solutions, 
+Professional Services and Managed Services. www.accumuli.com Accumuli plc Annual report and accounts 2014 09
+Strategic report
+2 Organic growth strategy
+Accumuli focuses its sales and technical 
+resources on selling existing solutions and 
+services to existing customers. Accumuli 
+currently has 704 customers of all sizes which 
+span a range of industry sectors including 
+financial services, utilities, telecommunications, 
+manufacturing and government. At present 
+85% of customers take only one product from 
+Accumuli, indicating the potential to “retain 
+and penetrate” the existing customer base. 
+Our primary focus on selling to the existing 
+customer base is supported by research 
+which indicates: 
+  it costs five times more to acquire new 
+customers than it does to keep current ones;
+  reducing churn by 5% can increase profits 
+by between 25 and 125% over four years;
+  80% of future revenue will come from just 
+20% of customers; and
+  the probability of selling to an existing 
+customer is 60–70% versus 5–20% for 
+a new prospect.
+There are currently 19 people focused on 
+retaining and penetrating customers which 
+represents 23% of the employee base. 
+3 Strategic alliances
+There are three types of strategic partners that 
+Accumuli works collaboratively with: 
+  value added resellers that promote and sell 
+the Signify hosted two-factor authentication 
+solution for which they receive a margin 
+in return; 
+  system integrators that sub-contract 
+professional services work to Accumuli 
+due to our expert resources; and 
+  service providers that sub-contract managed 
+services to Accumuli so that they can utilise 
+our 24x7 Security Operation Centre.
+Accumuli currently has 36 strategic alliances 
+with partners and we are seeing more 
+demand in this area due to our levels of 
+expertise and reputation in the market. 
+Accumuli acquired Signify Solutions Limited, a managed service 
+provider of secure authentication in June 2013. 
+Signify fits closely with Accumuli’s existing portfolio of helping customers 
+secure their business through a combination of technology, professional 
+services and managed services whilst adding 2FA capability. This synergy 
+will allow Accumuli to promote and cross-sell Signify’s authentication 
+services to its wider client base and vice versa. 
+Accumuli acquired Splunk’s leading UK partner Eqalis in December 2013 to 
+complement the company’s security incident and event management (SIEM) 
+solutions and strengthen its Big Data monitoring and analytics capabilities. 
+Eqalis provides solutions that enable organisations to gain visibility 
+of data across the complete IT estate, including monitoring, managing 
+and delivering actionable intelligence on security and operational risks. 
+The company is the UK’s leading Splunk partner, having won the UK, 
+Africa and Ireland partner of the year award twice, and the only Splunk 
+authorised training provider in the UK. In addition, Eqalis is a leading 
+partner for Prelert, Puppet Labs and App Dynamics, which assist 
+enterprises with anomaly detection, system change, application 
+and infrastructure performance management. 
+Both acquisitions are in line with Accumuli’ s strategy of acquiring organisations 
+that complement the group’ s existing expertise and capabilities.
+Signify and Eqalis acquisitions 10 Accumuli plc Annual report and accounts 2014
+Strategic report
+Strategic report continued
+(incorporating the CEO’s strategic and operational review)
+Operational performance
+In reporting on the year it is useful to consider 
+not just the quantitative analysis, which is 
+detailed elsewhere within this report, but to 
+look at some of the operational highlights 
+during the year.
+Operational highlights
+  Strong sales in Core Network Services, 
+including two deals worth in excess of £1m, 
+one with a leading mobile service provider 
+and one with a leading gaming business
+  Large managed service contract win 
+with a major high street bank for Core 
+Network Services 
+  Record sales in Big Data Platforms and 
+Performance Analytics (Eqalis acquisition) 
+in the final quarter of the year which reflects 
+the strong market opportunity 
+  Largest quarter in a 13 year history in Q4 
+for the two-factor hosted authentication 
+platform for Signify 
+  Substantial cross-sell achieved into a 
+leading gaming business which means 
+they now take solutions and services from 
+all of our centres of excellence, demonstrating 
+the potential for cross-selling
+  Six figure managed service contract win for 
+SIEM with a leading bank, replacing one of 
+our key competitors
+  Largest number of professional services 
+days sold in the company’s history with 
+our bank of days now sitting at 1,000 
+versus 600 at this time last year
+  Continued investment in and development 
+of our technical staff with over 35% of the 
+workforce securing a professional 
+accreditation or qualification in the year
+  Continued levels of high customer retention
+  ISO27001 audits successfully passed 
+across all offices in Basingstoke, 
+Cambridge and Leeds
+Public recognition
+Finally, in reflecting on the financial year, 
+Accumuli received and was nominated 
+for several awards including: 
+  named as one of the finalists in the Best 
+Managed Security Service category for 
+SC awards Europe;
+  named as one of the UK’s 1,000 most 
+exciting and inspirational companies in 
+research compiled on behalf of the 
+London Stock Exchange;
+  shortlisted for Tech Achievement 
+of the Year at the UK tech awards; 
+  shortlisted for Specialist Reseller of the 
+Year at the CRN channel awards;
+  nominated and deemed eligible for the 
+Deloitte UK Fast 50 programme;
+  winner of the Best Remote Access 
+Security Solution at the SC Magazine 
+awards Europe; and 
+  CEO named in the CRN A-list of top 
+industry executives. 
+It is always flattering to receive any nomination or 
+award and is further affirmation that the business 
+continues to move in the right direction.
+Summary
+As with last year, our challenge is to continue 
+to develop and accelerate at the pace we 
+have achieved for the first 40 months of our 
+existence as Accumuli Security. 
+We are in a growth market with a growing 
+reputation and a premium value proposition that 
+continues to meet our customers’ needs. Our 
+success will be down to our ability to execute 
+against our strategy and to scale, recruit and 
+retain our staff and maintain our culture. 
+We have a truly great team at Accumuli and 
+I am proud of the company we have built 
+so far. I look forward to building on our solid 
+foundations and delivering continued success 
+in the current year.
+Gavin Lyons
+Chief executive officer
+23 June 2014
+The Strategic report set out on pages 6 to 15, 
+has been prepared by the board of directors 
+and signed on their behalf by Gavin Lyons.
+Our challenge is to continue to develop and accelerate 
+at the pace we have achieved for the first 40 months 
+of our existence as Accumuli Security.

@@ -1,0 +1,2396 @@
+ ANNUAL REPORT 2016
+ECSC GROUP PLC A PROVEN PROVIDER OF 
+CYBER SECURITY 
+SERVICES
+ECSC has  over  15  years’  experience  in  the  design,  implementation  and  
+management of  cyber  security  solutions.  Our  consultancy-led  approach,  
+and  our combination  of  custom methodologies   and   in-house   proprietary   
+technologies,   enables   us  to   provide individually  tailored  services  to  our  
+clients.  We have  significant  intellectual  property, including  bespoke  
+products  delivering  remotely  managed  cyber  security  services  and  
+custom-made internal support and delivery systems.
+FINANCIAL HIGHLIGHTS
+Revenue for the 15 months 
+ended December 2016
+(12 months 2015: £2.65m)
+£4.51m
+Adjusted EBITDA
+*
+ for the 15 months 
+ended December 2016
+£630k
+(12 months 2015: £455k
+#
+)
+£458k
+(12 months 2015: £542k
+#
+)
+Adjusted profit before 
+tax
+**
+ for the 15 months 
+ended December 2016
+£(345)k
+EBITDA for the 15 months 
+ended December 2016
+(12 months 2015: £542k profit
+#
+) 
+Loss before tax for
+ the 15 months 
+ended December 2016
+£(517)k
+Adjusted basic earnings
+per share
+***
+11.14 
+pence
+(2015: profit of 9.00 pence) (2015: profit of 9.00 pence)
+Basic earnings per share loss of
+£5m
+IPO in December 2016 raised 
+new funds for the Company
+(before IPO expenses) (12 months 2015: £518k profit)
+(7.72) 
+pence ECSC Group plc
+Annual Report and Accounts 2016 01
+IFC Financial Highlights
+01 Operational Highlights
+02 Business Overview
+STRATEGIC REPORT
+05 Chairman’s Statement
+06 Chief Executive Officer’s Statement
+08 Financial Review
+09 Principal Risks and Uncertainties
+DIRECTORS’ REPORT
+14 Board of Directors
+16  Directors’ Report
+19 Directors’ Remuneration Report
+20 Directors’ Responsibility Statement
+FINANCIAL STATEMENTS
+21 Independent Auditor’s Report
+22  Statement of Comprehensive Income
+23  Statement of Financial Position
+24 Statement of Changes in Equity
+25  Cash Flow Statement
+26  Notes to the Financial Statements
+46 Corporate Information
+IBC Notice of AGM
+*  stated before charging IPO costs of £975k (see page 08)
+**  adjusted profi t before tax (see note 25)
+***  adjusted earnings per share (see note 9)
+****like for like revenue growth has been calculated by taking 2016 revenue pro-rated for 12 months as opposed to 15 months
+# 2015 excludes £63k R&D tax credit adjustment
+OPERATIONAL HIGHLIGHTS
+Strong organic revenue growth 
+across all operating divisions
+Scaling of business post-IPO 
+proceeding well 
+All targeted new staff in 
+place and operational
+LIKE FOR LIKE REVENUE 
+GROWTH
+***
+CONSULTANCY MANAGED
+SERVICES
+NEW VENDOR 
+SALES DIVISION 
+CREATED
+HEADCOUNT INCREASED 
+FROM 57 AT IPO  
+( 14 DECEMBER 201 6)...
+... TO 98 (AT 20 MARCH 201 7)
+NEW LEEDS FACILITY 
+OPERATIONAL
+AUSTRALIAN AND 
+LONDON FACILITIES 
+ON COURSE TO OPEN 
+SUMMER 201 7
+35%
+24% ECSC Group plc
+Annual Report and Accounts 2016 02
+BUSINESS OVERVIEW
+MANAGED SERVICES
+Our Managed Services division delivers outsourced cyber security 
+management and threat intelligence from the PCI DSS certifi ed Security 
+Operations Centre (SOC).  
+ECSC managed security solutions break down into two main areas:
+Protection – the eff ective blocking of cyber security attacks.  This may start 
+with a correctly confi gured fi rewall device, and move through to custom 
+confi gured intrusion prevention devices protecting e-commerce systems.
+Detection – the discovery and alerting of cyber security breaches.  This 
+usually involves the management of data collection and analysis devices, 
+such as network intrusion detection systems, and the collection of IT 
+system logs and alerts.
+Each of the above can be achieved with a wide range of ECSC developed 
+technology and selected vendor solutions.
+Our Divisions
+ 
+CONSULTANCY
+The Consultancy division provides a wide range of consultancy and testing 
+services. The primary function of this division is to help clients assess and 
+develop their own internal cyber security capability and to meet the 
+requirements of UK and international standards, such as the Payment Card 
+Industry Data Security Standard (PCI DSS), ISO 27001 (Information Security 
+Management), and Cyber Essentials.
+This division also houses our cyber security penetration testing team, 
+helping clients to uncover technical weaknesses in their network, 
+applications and coding systems.  
+In addition, our consultants deliver assessments against the ECSC Cyber 
+Security Review methodology, giving board-level managers clear  
+risk-based information regarding their current protection levels and ability 
+detect cyber security breaches. ECSC Group plc
+Annual Report and Accounts 2016 03
+ECSC  has developed a cyber security  service  
+model  using a consultancy-led approach, 
+which is   summarised   by   our   philosophy   
+of   ‘listen, understand,   and   deliver’ .  
+VENDOR PRODUCTS
+The Vendor Products division supports client procurement of cyber 
+security vendor products and services, either for client management or 
+client outsourced to the ECSC SOC.  In order to help our clients obtain the 
+best cyber security vendor, and open source, solutions, the Vendor 
+Products division is dedicated to product selection, and solution design 
+and implementation. Our Vendor Products portfolio consists of carefully 
+chosen vendor solutions that meet our exacting standards.  
+Selection of products is based upon rigorous criteria, including:
+1. Feedback from ECSC consultants regarding the real success of solutions 
+within our clients.
+2. An established track record, including vulnerability management by 
+the vendor.
+3. Results from ECSC penetration testing engagements.
+RESEARCH AND DEVELOPMENT
+The ECSC Research and Development division is our technical centre of 
+excellence (COE), focused on the development and evaluation of cyber 
+security technologies.  Our Research and Development work can be 
+categorised under three main areas:
+Threat Intelligence – Working with our SOC, the research and development 
+team is constantly monitoring the global risk environment, analysing the 
+latest vulnerabilities, and understanding each attack vector.
+Architecting Solutions – Designing protection solutions involves  
+a combination of open source components, bespoke ECSC solution 
+development, and the careful selection of suitable vendor products.
+Security Maintenance – Each component of our managed service security 
+architecture is constantly monitored and updated to protect our clients 
+from the latest threats.
+Revenue and segment information pages 30 - 31 ECSC Group plc
+Annual Report and Accounts 2016 04
+BUSINESS OVERVIEW CONTINUED
+Our History
+2000
+2001
+2002
+2003
+2006
+2007
+2009
+2010
+2012
+2014
+2016
+2017
+ECSC is founded by Ian Mann and Lucy Sharp
+Creation of the ECSC Secure Platform to enable us to develop 
+key innovations in IT security
+ECSC starts its Managed Services off ering
+ECSC wins ‘Best New Technology’ Award at the Yorkshire 
+Internet Awards
+Certifi cation of our whole operation to BS 7799
+Achieved certifi cation to ISO 27001 within a month of its release
+Certifi cation to ISO 9001, covering our consulting and security  
+management systems
+Payment Card Industry (PCI) Qualifi ed Security Assessor  
+(QSA) accreditation
+Certifi cation to ISO 20000, covering our managed security services
+PCI DSS Level-1 Certifi ed Managed Security Service Provider
+CREST
+*
+ 
+Member Company
+ECSC releases the fi rst method of blocking the Heartbleed Bug  
+to the security community, enabling protection to organisations  
+who have not yet carried out patching
+ECSC Vendor Products division launched
+Cardiff Offi ce opened
+ECSC Group plc is admitted to the London Stock Exchange’s AIM market
+ECSC wins a PCI Award for Excellence
+Leeds Offi ce opened
+* CREST is a not-for-profi t organisation that serves the needs of a technical information security marketplace 
+that requires the services of a regulated professional services industry. ECSC Group plc
+Annual Report and Accounts 2016 05
+Financial statements Strategic report Directors’ report
+CHAIRMAN’S STATEMENT
+I am pleased to report that the Company  
+is making first class progress in scaling  
+its business.
+I am pleased to present this maiden set of results to 
+our shareholders following the Company’s admission 
+to AIM in December 2016. 
+2016 was a transformational year for ECSC, which saw the 
+Company deliver record revenues and be admitted to AIM on  
+14 December 2016, raising £5.0m (excluding IPO expenses). The 
+response to our admission has been very positive. The listing has 
+provided us with an excellent register of new shareholders and a 
+heightened industry profi le which has helped facilitate the 
+recruitment of a fi rst-class group of new employees. I believe this 
+demonstrates confi dence in both the Company’s strategic plan, 
+centred on strong organic growth and expansion of its business, 
+together with the management team’s ability to deliver and 
+generate returns for shareholders in what we see as an attractive 
+and buoyant cyber security market. The Board joins me in 
+welcoming all our new stakeholders to the Company. 
+We believe there is an opportunity to substantially increase the 
+scale of ECSC’s business to meet current demand and predicted 
+market growth within the UK cyber security sector. The UK cyber 
+security sector was worth approximately £3.3 billion in 2016, with 
+the global opportunity predicted to grow to US$202 billion by 
+2021. Our vision and strategy is to build signifi cantly upon our 
+organic growth to date and blue-chip client base. Our listing 
+provides us with working capital to execute our growth strategy. 
+In this regard, I am pleased to report that the Company is making  
+fi rst-class progress in scaling its business. Since admission to AIM: 
+headcount has increased from 57 to 98; all of the new sales and 
+delivery employees targeted for this stage of our growth plan 
+have been employed; all new sales staff have successfully 
+completed their training and assessments; our new Leeds facility 
+is already operational, having opened in January 2017; our new 
+Australian support centre to help 24-hour service provision and 
+our new London base are both targeted to open in the summer of 2017 .  
+The Board continues to believe that the market opportunity is 
+robust, with the proliferation of cyber security breaches enhancing 
+the importance of cyber security at board level and serving to 
+increase our growth prospects. Furthermore, new legislation 
+under consideration by the Information Commissioner’s Offi ce will, we 
+believe, bring cyber security prevention into even sharper focus. The 
+European General Data Protection Regulations (“GDPR”) directive 
+(expanded upon in the Business Review) intended to harmonise data 
+protection regulations throughout the EU and to strengthen the 
+enforcement regime is confi rmed to become law in the UK in 2018. This 
+legislation will make breach reporting mandatory and provide for fi nes of 
+up to 4% of global turnover or up to $20m (whichever is the greater) for 
+cases of serious non-compliance.
+With our expansion plans underway and with strong organic revenue 
+growth, we believe that we are well positioned to increase our market 
+share of the UK cyber security services market, a market which is presently 
+somewhat fragmented. We believe that many of our peers only provide a 
+small portion of what is required to meet clients’ needs and that, in 
+contrast, ECSC provides a wide range of cyber and information security 
+solutions, enabling us to capitalise on a buoyant market opportunity. Our 
+fi rst full year as a public company will see us tackle the many tasks involved 
+in scaling up the business and delivering very signifi cant revenue growth. 
+The quality of our people and established momentum are good initial 
+indicators that ECSC is well equipped to take advantage of the 
+opportunities available to us in our chosen market.
+On behalf of the Board, I would like to thank all our employees and 
+shareholders for their continued support over the last year. The Board 
+looks forward to the forthcoming year with confi dence.
+Nigel Payne
+Chairman
+21 March 2017
+Nigel Payne
+Chairman
+Directors’ Report pages 16 - 17 ECSC Group plc
+Annual Report and Accounts 2016 06
+Building on its 16-year record of consistent organic growth and 
+leveraging its reputation for quality and innovation, ECSC Group 
+plc is transforming into a substantial cyber and information security 
+service provider. Our strong organic revenue growth for the  
+15 months ended December 2016 is a further stepping stone on 
+this journey. Our IPO facilitates the next step in our growth plan, 
+enabling an accelerated recruitment and training plan to be put in 
+place and a further and significant expansion of our infrastructure 
+and facilities.
+The key mission of ECSC is to help secure networks and protect 
+sensitive information. We do this through consultancy services and 
+outsourced managed IT security services. In this regard, people are 
+key to the ongoing success of the Company, particularly in our 
+market sector, which is highly specialised. 
+Over the past two years, ECSC has developed its own internal 
+recruitment function, which continues to perform above our 
+expectations. We are delighted with the volume and calibre of 
+talented individuals, sourced by this department, who are looking 
+to enhance their career through the training and support given to 
+all ECSC employees. The Company’s aim is to establish ECSC as the 
+employer of choice for all cyber and information security professionals.
+Strong Market for ECSC Services
+Extensive media coverage of cyber security incidents, both organisational 
+and governmental, continues to raise awareness of the need for a 
+developed cyber security plan at board level. This brings new 
+opportunities for established and proven providers, such as ECSC. 
+These opportunities are likely to be further augmented by the forthcoming 
+EU GDPR, confi rmed by the Information Commissioner’s Offi ce (“ICO”) to 
+become UK law in May 2018. GDPR signifi cantly increases the legal 
+backdrop concerning the security of personal data that businesses may 
+process or store:
+•  The maximum fi ne for non-compliance with GDPR increases from  
+the current £500,000, up to 4% of global turnover. This change is  
+likely to elevate cyber security to a key strategic risk for all boards.
+•  Reporting a breach will become mandatory under GDPR as  
+compared with the current voluntary reporting. GDPR also requires 
+reporting to be made within 72 hours of any incident, placing  
+signifi cant challenges on organisations’ incident detection, analysis 
+and reporting systems.
+Whilst the ICO accepts that a post-Brexit government could change this 
+legislation, the Directors believe the continuing requirement to share 
+personal data with the European Union as part of the United Kingdom’s 
+ongoing trading relationship would make any signifi cant change to GDPR 
+very unlikely. ECSC is ideally placed to support organisations of all sizes in 
+both their preparations for GDPR and their ongoing cyber security 
+strategic requirements, whether through incident response, testing and 
+assessment, standards compliance, or outsourced services.
+The Board believes that, as the cyber security market continues to expand, 
+the need for businesses to focus their own internal IT resources on their 
+own products and services will mean that organisations are likely to 
+continue to outsource their technical requirements in this highly 
+specialised fi eld, and will increasingly gravitate towards outsourced 
+managed service environments.
+Summary
+• Aim to establish ECSC as the employer  
+of choice for cyber and information 
+security professionals
+• Extensive media coverage of cyber 
+security incidents continues to raise 
+awareness of cyber security at board level
+• Incident Response Retainers introduced
+• Newly refurbished UK Security 
+Operations Centre formally opened  
+in March 2017
+Ian Mann
+Chief Executive Officer
+CHIEF EXECUTIVE OFFICER’S STATEMENT ECSC Group plc
+Annual Report and Accounts 2016 07
+Financial statements Strategic report Directors’ report
+Growing Range of ECSC Services
+ECSC’s range of services continues to evolve to meet the changing cyber 
+and information security threat environment. Our experience derived 
+from 16 years of growth in the sector has demonstrated the need for ECSC 
+to provide a broad range of cyber security services, enabling clients to 
+migrate over time from initial consulting services to a fully outsourced 
+managed IT security environment with recurring revenues. 
+Incident Response services are growing in importance and the Board 
+believes that this may increase further still as we approach the GDPR 
+implementation date. In 2016, ECSC introduced incident response 
+retainers, enabling clients to benefi t from a 24/7/365 guaranteed response 
+from the ECSC Security Operations Centre (SOC), by retaining ECSC as 
+their designated incident responder. In many cases, incident responses 
+lead to requests for additional services.
+Cyber Security Reviews are designed, using ECSC’s own methodology,  
+to give board directors a high-level overview of their current protection 
+and detection capability from external cyber attack. This service is 
+expanding as board members look for expert third-party assurance 
+beyond the traditional technical testing services.
+Technical Penetration Testing remains a fundamental pillar of cyber 
+security management, with most global standards requiring at least 
+annual third-party testing. Backed by its CREST accreditation, ECSC is  
+a proven provider of this service.
+The global standards of ISO 27001 (information security management) 
+and the Payment Card Industry Data Security Standard (PCI DSS) (payment 
+card security) remain key organisational compliance requirements. ECSC 
+has an expanding team of industry experts with many years of experience 
+in the design and implementation of eff ective approaches to compliance. 
+Key elements of these global standards are directly related to other ECSC 
+services, such as testing and the provision of technologies delivered 
+through our managed services. We continue to see extensive cross-selling 
+opportunities in each of these engagements.
+Cyber Essentials is a UK government-led initiative to promote basic cyber 
+security good practice into small to medium sized organisations.  
+As a certifying organisation, ECSC supports organisations across all sectors.
+2016 saw ECSC launch a new division to resell a range of vendor security 
+solutions. Included within this portfolio are a range of solutions already 
+integrated into the ECSC managed services support service, giving 
+enhanced opportunities to provide fully managed services.
+The newly refurbished ECSC UK Security Operations Centre (“SOC”) was 
+formally opened in March 2017; this enhanced infrastructure provides 
+both new client-facing presentation facilities, together with signifi cantly 
+augmented technical capabilities. The planned opening of the Australian 
+SOC extension in summer 2017 will further enhance our 24/7/365 
+capabilities, both for ongoing managed services and incident response.
+Outlook
+Following on from a strong 2016, our ongoing plan is to signifi cantly scale 
+the business in 2017. The Board assesses the readiness of our clients to buy 
+our services and this, together with the growth in the sector generally, 
+make scaling the business at this time the right approach for ECSC. We are 
+mindful, however, of the degree of change being executed within the 
+business and we are approaching these signifi cant scale changes with 
+appropriate care and attention. We have made a good start on our plan 
+following the IPO, and we have well worked out plans to carry through our 
+objectives. I would like to pass on my thanks to the capable and loyal staff 
+of the Company for their support, which has enabled the Company to 
+achieve the success it has to date.
+Ian Mann
+Chief Executive Offi cer
+21 March 2017
+I would like to pass on my thanks to the capable and loyal 
+staff of the Company for their support, which has enabled  
+the Company to achieve the success it has to date.   ECSC Group plc
+Annual Report and Accounts 2016 08
+FINANCIAL REVIEW
+Summary
+• Total revenue of £4.51 million
+• Strong organic revenue growth across all 
+operating divisions
+• Like for like revenue growth of 35%
+*
+ in 
+Managed Services and 24%
+*
+  in 
+Consultancy and T esting
+• Adjusted EBITDA was £630k  
+(2015: £542k
+#
+)
+During 2016, ECSC Group plc changed its accounting year end from  
+30 September to 31 December. The trading results therefore cover the 
+period of 15 months ended 31 December 2016. 
+During the period, the Company delivered total revenue of £4.51m  
+(2015: £2.65m). There was strong organic revenue growth across all 
+operating divisions, with like for like revenue growth of 35%* in Managed 
+Services (£1.33m) and 24%* in Consultancy and Testing (£2.80m).
+Growth in operating costs, now £3.2m (2015: £1.8m), has been mainly 
+driven by the Board continuing to invest in the future of the business 
+through staff recruitment and associated infrastructure.
+Adjusted EBITDA was £630k (2015: £542k
+#
+). Adjusted numbers are stated 
+after excluding IPO costs of £975k.
+EBITDA for the 15 months ended December 2016 shows a loss of £(345)k 
+(2015: £542k profi t
+#
+). 
+A reconciliation is set out below. 
+Earnings per share
+Basic earnings per share was minus (7.72p) (2015: 9.00p), and adjusted 
+basic earnings per share was 11.14p (2015: 9.00p), stated before charging 
+IPO costs of £975k.
+Balance sheet
+As at 31 December 2016, the Company had net cash of approximately 
+£5.0m, providing the Company with a sound fi nancial platform to support 
+its future investment plans.
+Reconciliation
+By order of the Board
+Keith Kelly
+Chief Financial Offi cer
+21 March 2017
+* like for like revenue growth has been calculated by taking 2016 revenue pro-rated for  
+12 months as opposed to 15 months
+# 2015 excludes £63k R&D tax credit adjustment
+Keith Kelly
+Chief Financial Officer
+15 months ended Year ended
+31 December 2016 30 September 2015
+£k £k
+#
+Adjusted operating profi t 453 455
+Depreciation 65 32
+Amortisation 11 2 55
+Total 177 87
+Adjusted EBITDA 630 542
+Exceptional IPO costs (975) —
+EBITDA (345) 542 ECSC Group plc
+Annual Report and Accounts 2016 09
+Financial statements Strategic report Directors’ report
+PRINCIPAL RISKS AND UNCERTAINTIES
+The Company is exposed to a number of operational, 
+reputational and financial risks.  The Directors take a proactive 
+approach to the identification and management of these risks.
+Principal Risks and Uncertainties
+The summary below lists the principal risks to the Company.  They do not include all the potential risks associated with the Company’s 
+activities and are not in any order of priority.
+     
+Risk Mitigation
+Ability to recruit and retain skilled personnel Ongoing development of a wide range of employee benefits, 
+together with enhanced career progression and support
+Reliance on key systems ISO 27001 certification, including business continuity provision
+Cyber security breach
+Certifi cations to ISO 27001, PCI DSS and Cyber Essentials.   
+Avoidance of technologies associated with most security breaches
+Funding continued growth IPO proceeds
+Client acquisition New sales academy training to support 2017 sales team expansion
+Client retention Expanded service delivery function and service management layer
+Key client dependency No single client representing more the 10% of revenue
+Litigation following client breach
+Use of ECSC terms of engagement combined with professional 
+indemnity insurance
+Dependence on key personnel
+Continued expansion, particularly within the management team, 
+reduces the risks associated with any single person ECSC Group plc
+Annual Report and Accounts 2016 10
+Risks specifi c to the Company’s activities 
+Dependence on key executives and personnel
+The Company’s performance is substantially dependent on 
+the continued services and performance of its Directors and 
+senior management and its ability to attract and retain 
+suitably skilled and experienced personnel. 
+Although certain key executives and personnel have entered 
+into service agreements or letters of appointment with the 
+Company, there can be no assurance that the Company will 
+retain their services. The loss of the services of any of the key 
+executives or personnel may have a material adverse effect 
+on the business, operations, relationships and/or prospects of 
+the Company. Keyman insurance has been put in place in 
+respect of Ian Mann.
+Ability to recruit and retain skilled personnel
+The Company believes that it has the appropriate 
+incentivisation structures to attract and retain the calibre of 
+employees necessary to ensure the efficient management 
+and development of the Company. However, any difficulties 
+encountered in hiring appropriate employees and the failure 
+to do so may have a detrimental effect upon the trading 
+performance of the Company. The ability to attract new 
+employees with the appropriate expertise and skills cannot 
+be guaranteed. 
+Reliance on key systems
+The Company’s dependency upon technology exposes it to 
+signifi cant risk in the event that such technology or the 
+Company’s systems experience any form of damage, interruption 
+or failure. Any malfunctioning of the Company’s technology and 
+systems, or those of key third parties, even for a short period of 
+time, could result in a lack of confi dence in the Company’s 
+services, the termination of customer contracts and potential 
+claims for damages, with a consequential material adverse eff ect 
+on the Company’s operations and results.
+The Company’s systems are vulnerable to damage or 
+interruption from events including:
+•  natural disasters;
+•  power loss; 
+•  telecommunication failures;
+•  computer hacking activities; and
+•  acts of war or terrorism. 
+Any interruption in the availability of the Company’s website, 
+core cloud-based software solution, support site or telephone 
+systems would create a business interruption and a large 
+volume of customer complaints. The Company has a well 
+considered, certified and regularly rehearsed business 
+continuity plan. 
+The Company’s products and the software on which they are 
+based are complex and may contain undetected defects when 
+first introduced and problems may be discovered from time to 
+time in existing, new or enhanced products. Undetected 
+defects could damage the Company’s reputation, ultimately 
+leading to an increase in the Company’s costs or reduction in 
+its revenues. 
+Cyber security breach
+As with all providers in this sector, the potential embarrassment 
+of a major cyber security breach for ECSC itself is significant. 
+However, ECSC manages this risk in a number of ways:
+• External certification to international security standards, 
+such as ISO 27001 and PCI DSS. 
+• Avoidance of technologies commonly targeted for attack. 
+ECSC makes extensive use of Linux-based technologies, 
+including all operational desktop PCs and laptops. ECSC 
+does not support Bring Your Own Device (BYOD) policies 
+for any company business, including for Associate Consultants. 
+• Integration of ECSC security with that of our clients. The 
+Company directs the same level of security expertise at its 
+own security as to that of its clients, avoiding the common 
+issue with IT companies that their own internal IT is 
+managed by a less capable internal team than their client-
+facing delivery team.
+Business strategy
+The value of an investment in the Company is dependent, inter 
+alia, upon the Company achieving its strategy and aims. 
+Although the Company has a clearly defined strategy, there 
+can be no guarantee that its objectives will be achieved or that 
+the Company will achieve the level of success that the Directors 
+expect. The Company’s ability to implement its business 
+strategy successfully may be adversely impacted by factors 
+that the Company cannot currently foresee, such as 
+unanticipated costs and expenses or technological changes. 
+Should it be unsuccessful in implementing its strategy or 
+should it take longer than expected to implement, the future 
+financial results of the Company could be negatively impacted. 
+PRINCIPAL RISKS AND UNCERTAINTIES CONTINUED ECSC Group plc
+Annual Report and Accounts 2016 11
+Financial statements Strategic report Directors’ report
+Future funding requirements
+Although not presently anticipated by the Directors, the Company 
+may in the future (more than twelve months hence), need to raise 
+equity or debt to fund any future acquisitions, expansion, activity 
+and/or business development. There can be no guarantee that the 
+necessary funds will be available on a timely basis, on favourable 
+terms, or at all, or that such funds, if raised, would be sufficient. 
+Debt funding may require assets of the Company to be secured in 
+favour of the lender, which security may be exercised if the 
+Company were to be unable to comply with the terms of the 
+relevant debt facility agreement. If the Company is not able to 
+obtain additional capital on acceptable terms, or at all, it may be 
+forced to curtail or abandon such planned acquisition opportunities, 
+expansion, activity and/or business development. The above could 
+have a material adverse effect on the Company.
+Attracting new customers and retaining existing customers
+The Company’s future success depends on its ability to increase 
+sales of its services and products to new end customers, increase 
+sales of additional products to its existing end customers and 
+maintain historical subscription rates. The rate at which new and 
+existing end customers purchase products and existing customers 
+renew subscriptions depends on a number of factors, including the 
+efficacy of the Company’s products and the utility of the Company’s 
+new offerings, as well as factors outside of the Company’s control, 
+such as end customers’ perceived need for security solutions, the 
+introduction of products by the Company’s competitors that are 
+perceived to be superior to the Company’s products, end customers’ 
+IT budgets and general economic conditions. A failure to increase 
+sales as a result of any of the above could materially adversely affect 
+the Company’s financial condition, operating results and prospects. 
+The Company’s success depends on its ability to maintain 
+relationships and renew contracts with existing customers and to 
+attract and be awarded contracts with new customers. A substantial 
+portion of the Company’s future revenues will be directly or 
+indirectly derived from existing contractual relationships as well as 
+new contracts driven at least in part by the Company’s ability to 
+penetrate new verticals and territories. The loss of key contracts 
+and/or an inability to successfully penetrate new verticals or deploy 
+its skill sets into new territories could have a significant impact on 
+the future performance of the Company. 
+Key customer dependency
+The Company currently generates a significant proportion of its 
+revenue from certain customers. In the 15 month period ended  
+31 December 2016 no single customer accounted more than 10% 
+of total revenue. The loss of all or a substantial proportion of the 
+business provided by one or more of the Company’s top customers 
+could have a material adverse effect on the Company’s business.
+Litigation
+Whilst the Company has taken such precautions as it regards as 
+appropriate to avoid or minimise the likelihood of any legal 
+proceedings or claims, or any resulting financial loss to the 
+Company, the Directors cannot preclude the possibility of litigation 
+being brought against the Company. 
+There can be no assurance that claimants in any litigation 
+proceedings will not be able to devote substantially greater 
+financial resources to any litigation proceedings or that the 
+Company will prevail in any such litigation. Any litigation, whether 
+or not determined in the Company’s favour or settled by the 
+Company, may be costly and may divert the efforts and attention of 
+the Company’s management and other personnel from normal 
+business operations.
+Reputation
+The Company’s reputation, in terms of the service it provides, the 
+way in which it conducts its business and the financial results which 
+it achieves, are central to the Company’s success. 
+The Company’s products and the software on which they are based 
+are complex and may contain undetected defects when first 
+introduced, and problems may be discovered from time to time in 
+existing, new or enhanced products. Undetected defects could 
+damage the Company’s reputation, ultimately leading to an 
+increase in the Company’s costs or reduction in its revenues. 
+Other issues that may give rise to reputational risk include, but are not 
+limited to, failure to deal appropriately with legal and regulatory 
+requirements in any jurisdiction (as may result in the issuance of a 
+warning notice or sanction by a regulator or an off ence (whether civil, 
+criminal, regulatory or other) being committed by a member of the 
+Company or any of its employees or directors), money-laundering, 
+bribery and corruption, factually incorrect reporting, staff diffi culties, 
+fraud (including on the part of customers), technological delays or 
+malfunctions, the inability to respond to a disaster, privacy, record-
+keeping, sales and trading practices, the credit, liquidity and market 
+risks inherent in the Company’s business.
+Also, failure to meet the expectations of the customers, operators, 
+suppliers, employees and shareholders and other business partners 
+may have a material adverse effect on the Company’s reputation.
+Intellectual property
+In order to maximise its competitive advantage, the Company 
+needs to protect its intellectual property. Much of the Company’s 
+intellectual property is not of a nature that is capable of registration, 
+so protection of intellectual property relies on maintaining the 
+confidentiality of know-how, methodologies and processes which, 
+in turn, are largely dependent on people. There is a risk that if the  ECSC Group plc
+Annual Report and Accounts 2016 12
+Risks specifi c to the Company’s activities continued 
+ 
+Intellectual property continued 
+confidentiality of the Company’s intellectual property were 
+compromised, this could lead to a loss of competitive 
+advantage. 
+The Company’s software is largely created in house. However, 
+some aspects of it are based on open-source licences such as 
+the General Public Licence (a widely used form of licence 
+within the free and open-source code software domain), 
+which oblige ECSC to provide access to the source code of the 
+relevant software package if a client requests it. There is a 
+limited risk that ECSC could be pursued for enforcement 
+action in this way, which could result in repercussions for the 
+Company if practices are openly challenged.
+Current operating results as an indication of future results
+The Company’s operating results may fluctuate significantly 
+in the future due to a variety of factors, many of which are 
+outside its control. Factors that may affect the Company’s 
+operating results include increased competition, an increased 
+level of expenses, technological change necessitating 
+additional capital expenditure, slower than expected sales 
+and changes to the statutory and regulatory regime in which 
+it operates. It is possible that, in the future, the Company’s 
+operating results may fall below the expectations of market 
+analysts or investors. If this occurs, the trading price of the 
+Ordinary Shares may decline significantly.
+Sales and Marketing
+The Company intends to continue investing in marketing and 
+distribution channels and its own sales functions to grow the 
+business. Success of the Company’s business will require the 
+continuation of existing, and establishment of additional, sales 
+channels. There is no certainty that the Company will be able to 
+attract new channel partners and retain existing channel 
+partners.
+Penetration of new markets can be slow, expensive and 
+subject to delays, and ultimately may not be successful. 
+Significant delays in new contracts will result in working 
+capital strain for the Company. The Company is likely to incur 
+costs in these areas before anticipated benefits materialise. 
+The return on these investments may be lower or develop 
+more slowly than expected. There can be no guarantee that 
+the Company will be able to maintain, or increase its sales and 
+market share.
+Technology
+The markets in which the Company operates are characterised 
+by rapid technological change, changes in use and customer 
+requirements and preferences, frequent product and service 
+introductions employing new technologies and the emergence 
+of new industry standards and practices that could render the 
+Company’s existing technology and products obsolete. 
+In order to compete successfully, the Company will need to 
+continue to improve its products, and to develop and market 
+new products that keep pace with technological change. This 
+may place excess strain on the Company’s capital resources, 
+which may adversely impact the revenues and profitability of 
+the Company. 
+The success of the Company depends on its ability to anticipate 
+and respond to technological changes and customer 
+preferences in a timely and cost-effective manner. There can be 
+no assurance that the Company will be able to effectively 
+anticipate and respond to technological changes and customer 
+preferences in the future.
+Failure to develop, launch and market new products
+The Company’s long-term growth and profitability is dependent 
+on its ability to develop and successfully launch and market 
+new products. The Company’s revenues and market share may 
+suffer if it is unable to successfully introduce new products in a 
+timely fashion or if any new or enhanced products or services 
+are introduced by its competitors that its customers find more 
+advanced and/or better suited to their needs. 
+While the Company continuously invests in research and 
+development to develop products in line with customer 
+demand and expectations, if it is not able to keep pace with 
+product development and technological advances, including 
+also shifts in technology in the markets in which it operates, or 
+to meet customer demands, this could have a material adverse 
+effect on the Company’s business, results of operations and 
+financial condition. 
+Competition
+There can be no guarantee that the Company’s current 
+competitors or new entrants to the market will not bring 
+superior technologies, products or services to the market, or 
+equivalent products at a lower price which may have an 
+adverse effect on the Company’s business. Such companies 
+may also have greater financial and marketing resources than 
+the Company. Even if the Company is able to compete 
+PRINCIPAL RISKS AND UNCERTAINTIES CONTINUED ECSC Group plc
+Annual Report and Accounts 2016 13
+Financial statements Strategic report Directors’ report
+successfully, it may be forced to make changes in one or more of its 
+products or services in order to respond to changes in customers’ 
+needs which may impact negatively on the Company’s financial 
+performance.
+General risks 
+Economic conditions
+The Company could be affected by unforeseen events outside its 
+control including economic and political events and trends, 
+inflation and deflation, terrorist attacks or currency exchange 
+fluctuation. Any economic downturn either globally or locally in 
+any area in which the Company operates may have an adverse 
+effect on the demand for the Company’s products. A more 
+prolonged economic downturn may lead to an overall decline in 
+the volume of the Company’s activities and sales, restricting the 
+Company’s ability to realise a profit. The markets in which the 
+Company offers its services are directly affected by many national 
+and international factors that are beyond the Company’s control. 
+Market risks
+The Company may be affected by general market trends which  
+are unrelated to the performance of the Company itself, including 
+without limitation the general market impact of the United Kingdom’s 
+decision to leave the European Union. The Company’s success will 
+depend on market acceptance of the Company’s products and 
+there can be no guarantee that this acceptance will be forthcoming. 
+Market opportunities targeted by the Company may change and 
+this could lead to an adverse effect upon its revenue and earnings. 
+ 
+Tax risk
+Any change in the Company’s or its subsidiaries’ tax status (including 
+its EIS and/or VCT status) or a change in tax legislation could affect 
+the Company’s ability to provide returns to shareholders. 
+Enterprise investment scheme
+The Company satisfies the conditions for being a qualifying 
+company for the purposes of the EIS provisions. The actual 
+availability of the relief under the EIS provisions will be contingent 
+upon certain conditions being met by the Company. Circumstances 
+may arise (which may include the sale of the company) where the 
+Board believes that the interests of the Company are not best 
+serviced by acting in a way that preserves EIS tax relief. In such 
+circumstances, the Company cannot undertake to conduct its 
+activities in a way designed to secure or preserve any EIS relief. 
+If the Company does not employ the proceeds of an EIS share issue 
+for qualifying purposes within two years of issue, the EIS shares 
+would cease to be eligible and all of the EIS tax reliefs of investors in 
+respect of the EIS shares would be withdrawn.
+If the Company ceases to carry on an EIS qualifying business  
+or acquires or commences a business which is not insubstantial  
+to the Company’s activities and which is a non-qualifying trade for  
+EIS purposes, this could prejudice the qualifying status of the 
+Company under the EIS provisions, if this occurred during the 
+three-year period from the last issue of shares to the EIS investors.
+Venture capital trust
+Company Shares are eligible for the purposes of section 258(3A) of 
+the Income Tax Act 2007 (the ‘‘ITA’’) and are ‘‘qualifying holdings’’ for 
+the purposes of Chapter 4, Part 6, ITA. In order for Shares to be 
+‘‘qualifying holdings’’ for VCT purposes the Company must satisfy 
+and continue to satisfy the relevant requirements. Circumstances 
+may arise where the Board believe that the interests of the Company 
+are not best served by acting in a way which preserves its VCT-
+related status. In such circumstances, the Company cannot 
+undertake to conduct its activities in a way designed to secure or 
+preserve any such relief or status.
+Exchange rate risk
+As the Company grows and expands in both current and new 
+territories, it will be increasingly exposed to exchange rate 
+fluctuations which could have a material adverse effect on the 
+Company’s profitability or the price competitiveness of its products 
+and services. In addition, the likelihood of significant exchange rate 
+fluctuations may be increased by factors related to the United 
+Kingdom’s decision to leave the European Union. There can be no 
+guarantee that the Company would be able to compensate or 
+hedge against such adverse effects and therefore negative 
+exchange rate effects could have a material adverse effect on the 
+Company’s business and prospects, and its financial performance.
+Force Majeure
+The Company’s operations now or in the future may be adversely 
+affected by risks outside the control of the Company including 
+labour unrest, civil disorder, war, subversive activities or sabotage, 
+fires, floods, explosions or other catastrophes, epidemics or 
+quarantine restrictions.
+Related Parties are considered to be related if one party has the 
+ability (directly or indirectly) to control the other party or exercise 
+significant influence over the other party in making financial and 
+operating decisions. Parties are also considered related if they are 
+subject to common control or common significant influence. 
+Related parties may be individuals or corporate entities. ECSC Group plc
+Annual Report and Accounts 2016
+14
+BOARD OF DIRECTORS
+The Board currently comprises a Non-Executive Chairman, three 
+Executive Directors and two other Non-Executive Directors.
+Nigel Payne
+Non-Executive Chairman 
+Nigel has considerable experience as a 
+director of both publicly listed and 
+private companies. He has extensive 
+experience of listing companies and 
+fund raising, notably in his current 
+roles as non-executive chairman of 
+AIM traded Gateley plc, non-executive 
+chairman of AIM traded Stride Gaming 
+plc and non-executive chairman of 
+AIM traded EG Solutions plc. Nigel was 
+previously CEO of Sportingbet plc, one 
+of the world’s largest internet gambling 
+companies which made a number of 
+acquisitions whilst listed on the 
+London Stock Exchange (both Main 
+Market listed and AIM traded), and was 
+later bought by GVC plc. Nigel holds an 
+executive MBA from the IMD Business 
+School (Lausanne, Switzerland) and a 
+degree in Economics and Accounting 
+from Bristol University. 
+Ian Mann
+Chief Executive Offi cer 
+Ian has over 15 years of experience in 
+the cyber-security sector having 
+founded ECSC. He was previously an 
+advisor for GCHQ, and established a 
+Cisco Networking Academy for Dixons 
+City Technology College. Ian’s 
+professional certifi cations include 
+CISSP , PCI QSA, and ISO Lead Auditor. 
+Ian holds a B.Eng. in Electrical and 
+Electronic Engineering from the 
+University of Nottingham, and an 
+MBA from the Open University.
+Lucy Sharp
+Chief Operating Offi cer 
+Lucy has over 15 years of experience in 
+the cyber-security sector, having joined 
+ECSC at its inception. Lucy worked as an 
+ISO 27001 consultant, leading this area 
+prior to taking the position of Operations 
+Director in 2012. Lucy has held a number 
+of professional certifi cations, including 
+CISSP , PCI QSA, and ISO Lead Auditor. 
+Whilst working at ECSC, Lucy completed 
+a Masters in Business Management at 
+Leeds Metropolitan University. ECSC Group plc
+Annual Report and Accounts 2016 15
+Financial statements Strategic report Directors’ report
+Keith Kelly
+Chief Financial Offi cer
+Keith joined ECSC in 2012. Keith has 
+over 30 years of experience in fi nancial 
+management and accounting and 
+prior to joining ECSC, Keith was 
+fi nance director at Pet Plas Packaging, 
+part of the Alcan Group. He is an ACCA 
+and FCCA qualifi ed accountant. 
+David Mathewson
+Non-Executive Director
+David is a Chartered Accountant who 
+has spent most of his career in 
+merchant banking and as a  
+non-executive director. He was an 
+Executive Director of Noble Grossart 
+Limited, Scotland’s premier merchant 
+bank, for many years. Previous  
+non-executive roles include Chairman 
+of Sportech plc and he was a director 
+of Playtech Group plc. During his 
+tenure at Playtech he was appointed 
+chief fi nancial offi cer and oversaw the 
+company move from AIM to the Main 
+Market of the London Stock Exchange. 
+He is currently a non-executive 
+director of AIM traded SEC SPA plc, an 
+Italian company, and Chairman of 
+Veltyco Group plc, also traded on AIM.
+Steve Vaughan 
+Non-Executive Director
+Stephen has considerable experience 
+over the last 15 years as a director of 
+publicly listed and private companies. 
+He is currently a non-executive director 
+of Progressive Equity Research Limited 
+and was previously group chief 
+executive of publicly listed companies 
+Phoenix IT plc, Communisis plc and 
+Synstar plc as well as being chairman 
+of Charteris plc.  ECSC Group plc
+Annual Report and Accounts 2016
+16
+Principal activities and review of the business
+The principal activity of the company during the period continued 
+to be the supply of information security professional services. 
+Future developments of the Company have been reviewed as part 
+of the Strategic Report.
+Principal risks and uncertainties
+For information on the principal risks and uncertainties of the 
+Company, please see pages 9 to 13 of the strategic report. 
+Results and dividends
+The loss for the period, after taxation, amounted to £399,006   
+(2015: profit of £423,197). A dividend of £253,884 was paid out in 
+the year.
+Research and development
+Research and development activities are grouped into three broad areas: 
+• core business systems;
+• technology for our managed service product lines; and
+• IT tools to support our consulting activities.
+Key developments for core business systems involved new 
+functions for our CRM/Client Management system, new internal 
+and external web sites to support marketing functions. Tools to 
+assist consultants with the development of reports were developed. 
+For the management services, developments range from new Web 
+Application Firewall systems, mechanisms for automated analysis 
+and prioritisation of security events, to innovating functions to 
+support digital marketing functions through the development of a 
+system to perform transparent data acquisition of mobile user 
+browsing habits.
+Corporate governance
+There is no compulsory regime of corporate governance to which 
+the directors of a UK company admitted to AIM must adhere to over 
+and above the general duties imposed on such directors under 
+English law. However, the Directors acknowledge the importance of 
+the principles set out in the QCA Code. Although the QCA Code is 
+not compulsory for AIM quoted companies, the Directors apply its 
+principles to the Company, as far as they consider appropriate for  
+a company of its size and nature. 
+The Board comprises six directors, three of whom are Executive 
+Directors and three of whom are Non-Executive Directors, reflecting 
+a blend of different experience and backgrounds. The Board 
+considers Nigel Payne, David Mathewson and Stephen Vaughan to 
+be independent Non-Executive Directors under the criteria 
+identified in the UK Corporate Governance Code (September 2014). 
+The Board meets regularly and is responsible for strategy, 
+performance, approval of any major capital expenditure and the 
+framework of internal controls. 
+To enable the Board to discharge its duties, all directors receive 
+appropriate and timely information. Briefing papers are distributed 
+to all directors in advance of Board meetings. The Board has 
+established audit, remuneration, nomination and disclosure 
+committees with formally delegated duties and responsibilities and 
+with written terms of reference. Each of these committees meet 
+regularly and at least twice a year. From time to time, separate 
+committees may be set up by the Board to consider specific issues 
+when the need arises. 
+Audit Committee
+The duties of the Audit Committee are to consider the appointment, 
+re-appointment and terms of engagement of, and keep under 
+review the relationship with, the Company’s auditor, to review the 
+integrity of the Company’s financial statements, to keep under 
+review the consistency of the Company’s accounting policies and to 
+review the effectiveness and adequacy of the Company’s internal 
+financial controls. In addition, it will receive and review such reports 
+as it from time to time requests from the Company’s management 
+and auditor. 
+The Audit Committee meets at least twice a year and  has 
+unrestricted access to the Company’s auditor. The Audit Committee 
+comprises David Mathewson and Steve Vaughan and is chaired by 
+David Mathewson.
+The Directors present their report 
+and financial statements for the 
+period ended 31 December 2016.
+DIRECTORS’ REPORT
+for the 15 months ended 31 December 2016 ECSC Group plc
+Annual Report and Accounts 2016 17
+Financial statements Strategic report Directors’ report
+Remuneration Committee 
+The Remuneration Committee has responsibility for reviewing and 
+determining, within agreed terms of reference, the Company’s 
+policy on the remuneration of senior executives, directors and 
+other key employees and specific remuneration and benefits 
+packages for executive directors, including pension rights and 
+compensation payments. It is also to be responsible for making 
+recommendations for grants of options under the New Share 
+Option Scheme. It meets not less than twice a year. The remuneration 
+of Non-Executive Directors is a matter for the Board and no Director 
+may be involved in any discussions as to his or her own remuneration. 
+The Remuneration Committee comprises Steve Vaughan and  
+Nigel Payne and is chaired by Steve Vaughan. 
+Nomination Committee 
+The duties of the Nomination Committee are to consider the 
+structure, size and composition of the board and make 
+recommendations to the Board with regard to any changes. It is 
+also responsible for identifying and nominating candidates to fill 
+Board vacancies as and when they arise. The Nomination Committee 
+also makes recommendations to the Board concerning, among 
+other things, plans for succession for both executive and  
+Non-Executive directors. It meets at least twice a year. The 
+Nomination Committee comprises Nigel Payne and  
+David Mathewson and is chaired by Nigel Payne. 
+Disclosure Committee
+The Disclosure Committee is the first point of contact with the 
+NOMAD for all routine and non-routine matters which the NOMAD 
+wishes to discuss with the Board and shall carry out duties to ensure 
+the Company’s compliance with the AIM Rules and MAR.  
+The Disclosure Committee meets twice a year and comprises   
+David Mathewson and Keith Kelly, and is chaired by David Mathewson.
+Directors and Directors’ interests
+The Directors who held office during the period were as follows:
+Nigel Payne
+Ian Mann
+Lucy Sharp
+Keith Kelly
+David Mathewson
+Stephen Vaughan
+The  following  Directors at  31  December  2016  had  interests in 
+the Ordinary Shares of  1p each as follows:
+Number of % of 
+Name of holder Ordinary Shares Ordinary Shares
+Nigel Payne 29,940 0.3%
+Ian Mann 1,698,690 18.9%
+Lucy Sharp 301,560 2.6%
+Keith Kelly 20,068 0.2%
+Stephen Vaughan 29,940 0.3%
+ECSC Group plc Board
+Chairman: Nigel Payne
+Independent NEDs:  Steve Vaughan,  
+David Mathewson
+CEO: Ian Mann
+COO: Lucy Sharp
+CFO: Keith Kelly
+Audit Committee
+Chairman: David Mathewson
+Steve Vaughan
+Remuneration Committee
+Chairman:  Steve Vaughan
+Nigel Payne
+Nomination Committee
+Chairman: Nigel Payne
+David Mathewson ECSC Group plc
+Annual Report and Accounts 2016
+18
+Directors and Directors’ interests continued 
+Substantial Interests
+At 31 December 2016, the Company had been notifi ed under the Disclosure 
+and Transparency Rules of the following major shareholdings and the 
+percentages of voting rights represented by such holdings, excluding the 
+shareholdings and associated voting rights of the Directors noted above.
+Number of % of
+Name of holder Ordinary Shares Ordinary Shares
+Ravinder Mann 1,719,068 19.1%
+Unicorn AIM VCT plc 1,526,946 17 .0%
+Artemis Investment Management LLP 508,983 5.7%
+Phil McLear 472,290 5.3%
+Hargreave Hale Limited 407,186 4.5%
+Malcolm Hoare 300,300 3.3%
+John Leach 282,920 3.2%
+Annual General Meeting
+The next Annual General Meeting will take place on 22nd June 2017.
+Statement of disclosure of information to Auditors
+The Directors of the Company who held offi ce at the date of approval of this 
+Annual Report as set out above each confi rm that:
+• so far as each Director is aware, there is no relevant audit information of 
+which the Company’s auditors are unaware; and
+• each  Director  has taken all  the steps that  they ought  to have taken as a 
+Director in order to make themselves  aware  of  any  relevant  audit  
+information  and  to  establish that  the Company’s auditors are aware of 
+that information.
+Auditors
+BDO LLP has indicated its willingness to continue as auditor. Accordingly a 
+resolution proposing  its  reappointment  as  auditor  will  be  put  to  the  
+members  at  the  next  Annual  General Meeting.
+By order of the Board
+Nigel Payne
+Chairman
+21 March 2017
+DIRECTORS’ REPORT CONTINUED
+for the 15 months ended 31 December 2016 ECSC Group plc
+Annual Report and Accounts 2016 19
+Financial statements Strategic report Directors’ report
+Directors’ service agreements and letters of appointment
+Nigel Payne
+Mr Payne has entered into a letter of appointment with the Company 
+dated 30 November 2016 for his appointment as a Non-Executive Director 
+and Chairman.  The appointment is terminable by either party giving 
+three months’ notice and summarily by the Company in certain limited 
+circumstances.  The letter provides for appointment as Non-Executive 
+Director of the Company for an initial term of two years to be reviewed 
+thereafter.  The letter provides for payment of a director’s fee of £40,000 
+per annum.  Mr Payne has given certain non-compete undertakings which 
+apply during his engagement.
+Ian Mann
+Mr Mann has entered into a service agreement with the Company dated 
+30 November 2016 for his appointment as full time Chief Executive Offi cer.  
+The appointment is terminable on six months’ notice given by either party 
+and summarily by the Company in certain limited circumstances.   
+Mr Mann’s annual salary is £225,000 and he is entitled to various customary 
+benefi ts.  Mr Mann has given certain non-compete and non-solicitation 
+undertakings which apply during his engagement and in respect of the 
+period of eighteen months post termination.
+Lucy Sharp
+Ms Sharp has entered into a service agreement with the Company dated 
+30 November 2016 for her appointment as full time Executive Director.  
+The appointment is terminable on six months’ notice given by either party 
+and summarily by the Company in certain limited circumstances.   
+Ms Sharp’s annual salary is £100,000 and she is entitled to various 
+customary benefi ts.  Ms Sharp has given certain non-compete and  
+non-solicitation undertakings which apply during her engagement and in 
+respect of the period of eighteen months post termination.
+Keith Kelly
+Mr Kelly has entered into a service agreement with the Company  dated  
+30 November 2016 for his appointment as full time Executive Director.  
+The appointment is terminable on six months’ notice given by either party 
+and summarily by the Company in certain circumstances.  Mr Kelly’s 
+annual salary is £80,000 and he is entitled to various customary benefi ts.  
+Mr Kelly has given certain non-compete and non-solicitation undertakings 
+which apply during his engagement and in respect of the period of 
+eighteen months post termination.  
+David Mathewson
+Mr Mathewson has entered into a letter of appointment with the Company 
+dated 30 November 2016 for his appointment as a Non-Executive Director.  
+The appointment is terminable by either party giving three months’ 
+notice and summarily by the Company in certain limited circumstances.  
+The letter provides for appointment as non-executive director of the 
+Company for an initial term of two years to be reviewed annually 
+thereafter.  The letter provides for payment of a director’s fee of £32,000 
+per annum.  Mr Mathewson has given certain non-compete undertakings 
+which apply during his engagement.
+ 
+ 
+Stephen Vaughan
+Mr Vaughan has entered into a letter of appointment with the Company 
+dated 7 December 2016 for his appointment as a Non-Executive Director 
+for an initial term of two years unless the appointment is terminated 
+sooner by either party.  The appointment is terminated by either party 
+giving three months’ notice and summarily by the Company in certain 
+limited circumstances.  The letter provides for payment of a director’s fee 
+of £32,000 per annum.  Mr Vaughan has given certain non-compete 
+undertakings which apply during his engagement.
+All of the aforementioned service agreements and letters of appointment 
+are governed by English law.
+There are no existing or proposed service contracts between any Director 
+and the Company.
+There are no existing or proposed arrangements which provide for benefi ts 
+or additional payment upon any Director’s termination of employment.
+There are no existing or proposed arrangements under which any Director 
+has agreed to waive further emoluments nor has there been any waiver of 
+emoluments during the fi nancial period ended 31st December 2016.
+Remuneration and share incentives in the 15 months 
+ended 31 December 2016 
+Period ended
+ 31 December 2016
+Period ended 
+31 December 2016
+Performance 
+Period ended 
+31 December 2016
+Year ended 30 
+September 2015
+Name of Director Salary or fees related bonuses Total emoluments Total emoluments
+Nigel Payne 2,000 — 2,000 —
+Ian Mann 64,483 50,000 114,483 27,480
+Lucy Sharp 130,474 17 ,500 147 ,974 61,191
+Keith Kelly 111,596 49,583 161,179 41,593
+David Mathewson 2,941 — 2,941 —
+Steve Vaughan 2,667 — 2,667 —
+DIRECTORS’ REMUNERATION REPORT ECSC Group plc
+Annual Report and Accounts 2016
+20
+DIRECTORS’ RESPONSIBILITY STATEMENT
+The  Directors  are  responsible  for  preparing  the  annual  report  and  the  
+fi nancial  statements  in accordance with applicable law and regulations.
+Company law requires the Directors to prepare fi nancial statements for 
+each fi nancial year. Under that law the  Directors have  elected  to  prepare 
+the fi nancial  statements in accordance with International Financial  
+Reporting  Standards  as  adopted  by  the  EU.  Under  company  law  the  
+Directors  must  not approve the fi nancial  statements unless they are 
+satisfi ed that they give a true and fair view of  the state of aff airs of the 
+Company and of the profi t or loss of the Company for that period. In 
+preparing these fi nancial statements, the Directors are required to:
+• select suitable accounting policies and then apply them consistently;
+• make judgements and estimates that are reasonable and prudent;
+• state   whether   applicable   accounting   standards   have   been 
+followed,  subject   to   any material  departures  disclosed  and  
+explained  in  the fi nancial statements; and
+• prepare  the  fi nancial  statements  on  a  going  concern  basis  unless  it  
+is  inappropriate  to presume that the Company will continue in business.
+The Directors are responsible for keeping adequate accounting records 
+that are suffi cient to show and explain the Company’s transactions and 
+disclose with reasonable accuracy at any time the fi nancial position  of  the  
+Company  and  enable  them  to  ensure  that  the  fi nancial  statements 
+comply  with  the Companies  Act  2006.  They  are  also  responsible  for  
+safeguarding  the  assets  of  the  Company  and hence for taking reasonable 
+steps for the prevention and detection of fraud and other irregularities.
+Financial information is published on the Company’s website. The 
+maintenance and  integrity  of  this website is the responsibility of  the 
+Directors;   the   work   carried   out   by   the   Company’s auditors does not  
+involve  consideration   of   these   matters   and,   accordingly,   the   auditors   
+accept   no responsibility  for  any  changes  that  may  occur  to  the  
+fi nancial  statements  after  they  are  initially presented on the website.
+It should be noted that legislation in the United Kingdom governing the 
+preparation and dissemination of fi nancial statements may diff er from 
+legislation in other jurisdictions.
+By order of the Board
+Keith Kelly  David Mathewson
+Chief Financial Offi cer Non-Executive Director
+21 March 2017 ECSC Group plc
+Annual Report and Accounts 2016 21
+Financial statements Strategic report Directors’ report
+INDEPENDENT AUDITOR’S REPORT
+to the members of ECSC Group plc
+We have audited the financial statements of ECSC Group plc for the 
+15 month period ended 31 December 2016 which comprise the 
+statement of financial position, the statement of comprehensive 
+income, the cash flow statement, the statement of changes in 
+equity and the related notes.  The financial reporting framework 
+that has been applied in their preparation is applicable law and 
+International Financial Reporting Standards (IFRSs). 
+This report is made solely to the company’s members, as a body, in 
+accordance with Chapter 3 of Part 16 of the Companies Act 2006. 
+Our audit work has been undertaken so that we might state to the 
+company’s members those matters we are required to state to them 
+in an auditor’s report and for no other purpose. To the fullest extent 
+permitted by law, we do not accept or assume responsibility to 
+anyone other than the company and the company’s members as a 
+body, for our audit work, for this report, or for the opinions we have formed.
+Respective responsibilities of directors and auditors 
+As explained more fully in the statement of directors’ responsibilities, 
+the directors are responsible for the preparation of the parent 
+company financial statements and for being satisfied that they give 
+a true and fair view. Our responsibility is to audit and express an 
+opinion on the parent company financial statements in accordance 
+with applicable law and International Standards on Auditing (UK 
+and Ireland). Those standards require us to comply with the 
+Financial Reporting Council’s (FRC’s) Ethical Standards for Auditors. 
+Scope of the audit of the fi nancial statements
+A description of the scope of an audit of financial statements is 
+provided on the FRC’s website at: 
+www.frc.org.uk/auditscopeukprivate.
+Opinion on fi nancial statements
+In our opinion the parent company financial statements: 
+• give a true and fair view of the state of the company’s aff airs as at  
+31 December 2016 and of its profi t for the 15 month period 
+then ended;
+• have been properly prepared in accordance with IFRSs as 
+adopted by the European Union; and 
+• have been prepared in accordance with the requirements of 
+the Companies Act 2006.
+ 
+ 
+ 
+ 
+Opinion on other matters prescribed by the Companies  
+Act 2006
+In our opinion:
+• the information given in the strategic report and directors’ report for 
+the fi nancial period for which the fi nancial statements are prepared 
+is consistent with the parent company fi nancial statements. 
+Matters on which we are required to report by exception
+We have nothing to report in respect of the following matters where 
+the Companies Act 2006 requires us to report to you if, in our opinion;
+• adequate accounting records have not been kept by the 
+parent company, or returns adequate for our audit have not 
+been received from branches not visited by us; or
+• the financial statements are not in agreement with the 
+accounting records and returns; or
+• certain disclosures of directors’ remuneration specified by law 
+are not made; or
+• we have not received all the information and explanations we 
+require for our audit.
+Mark Langford (Senior Statutory Auditor)
+for and on behalf of BDO LLP, Statutory Auditor
+Leeds
+United Kingdom
+21 March 2017
+BDO LLP is a limited liability partnership registered in England and Wales 
+(with registered number OC305127). ECSC Group plc
+Annual Report and Accounts 2016 22
+STATEMENT OF COMPREHENSIVE INCOME
+for the 15 months ended 31 December 2016
+15 months ended Year ended
+31 December 2016 30 September 2015
+Note £ £
+Revenue 4 4,510,419 2,650,395
+Cost of sales (1,014,688) (453,583)
+Gross profi t 3,495,731 2,196,812
+Other income 5 157 ,660 89,973
+Selling and distribution costs (380,098) (176,381)
+Administrative expenses (2,820,699) (1,592,230)
+Operating profi t 6 452,594 518,174
+Finance income 5,146 —
+Exceptional items – IPO costs 26 (974,876) —
+(Loss)/profi t before taxation (517,136) 518,174
+Taxation 8 118,130 (94,977)
+(Loss)/profi t for the period (399,006) 423,197
+Other comprehensive income — —
+Total comprehensive income for the period (399,006) 423,197
+Attributable to equity holders of the Company (399,006) 423,197
+Earnings per share
+Basic earnings per share 9 (0.08) 0.09
+Diluted earnings per share 9 (0.08) 0.09 ECSC Group plc
+Annual Report and Accounts 2016 23
+Financial statements Strategic report Directors’ report
+As at As at As at
+31 December 2016 30 September 2015 1 October 2014
+Note £ £ £
+ASSETS
+Non-current assets
+Intangible assets 10 363,244 253,964 166,507
+Property, plant and equipment 11 297,946 67,086 84,451
+Total non-current assets 661,190 321,050 250,958
+Current assets
+Inventory 12 304 1,038 603
+Trade and other receivables 13 1,032,883 695,698 602,976
+Corporation tax recoverable 181,928 35,998 —
+Cash and cash equivalents 14 4,986,596 323,543 238,367
+Total current assets 6,201,711 1,056,277 841,946
+TOTAL ASSETS 6,862,901 1,377 ,327 1,092,904
+Current liabilities
+Trade and other payables 15 1,262,887 620,198 517 ,762
+Corporation tax payable — — 27,290
+Total current liabilities 1,262,887 620,198 545,052
+Non-current liabilities
+Deferred tax 16 49,342 58,293 43,301
+Total non-current liabilities 49,342 58,293 43,301
+TOTAL LIABILITIES 1,312,229 678,491 588,353
+NET ASSETS 5,550,672 698,836 504,551
+EQUITY
+Equity attributable to owners of the Parent:
+Share capital 17 89,941 22,381 22,381
+Share premium account 5,512,175 75,009 75,009
+Retained earnings (51,444) 601,446 407,161
+TOTAL EQUITY 5,550,672 698,836 504,551
+The fi nancial statements were approved and authorised for issue by the Board of Directors on 21 March 2017 and were signed on its behalf by:
+Keith Kelly
+Director
+ECSC Group plc          Registered number: 03964848
+STATEMENT OF FINANCIAL POSITION
+as at 31 December 2016 ECSC Group plc
+Annual Report and Accounts 2016 24
+STATEMENT OF CHANGES IN EQUITY
+for the 15 months ended 31 December 2016
+Share Retained
+Share capital premium earnings Total
+£ £ £ £
+Balance at 30 September 2014 22,381 75,009 407,161 504,551
+Profi t and total comprehensive income for the year — — 423,197 423,197
+Transactions with owners:
+Dividends — — (228,912) (228,912)
+Balance at 30 September 2015 22,381 75,009 601,446 698,836
+Profi t and total comprehensive income for the period (399,006) (399,006)
+Transaction with owners:
+Issue of shares 1,569 83,188 — 84,757
+Bonus issue 26,345 (26,345) — —
+Issue of shares at IPO 29,940 4,970,058 — 4,999,998
+Exercise of share options 9,706 723,470 — 733,176
+Share issue costs — (313,205) — (313,205)
+Dividends — — (253,884) (253,884)
+Balance at 31 December 2016 89,941 5,512,175 (51,444) 5,550,672 ECSC Group plc
+Annual Report and Accounts 2016 25
+Financial statements Strategic report Directors’ report
+15 months ended Year ended
+31 December 2016 30 September 2015
+£ £
+Cash fl ow from operating activities
+(Loss)/profi t for the period/year before taxation (517,136) 518,174
+Exceptional items – IPO listing costs 974,876 —
+Adjustment for:
+Amortisation of intangibles 112,458 54,873
+Depreciation of property, plant and equipment 64,816 32,774
+Cash from operating activities before changes in working capital 635,014 605,821
+Change in inventory 734 (435)
+Change in trade and other receivables including tax (410,395) (159,860)
+Change in trade and other payables 642,689 102,436
+Cash generated from operating activities 868,042 547,962
+Income tax received/(paid) 36,459 (76,136)
+Net cash fl ow from operations 904,501 471,826
+Acquisition of property, plant and equipment (295,676) (15,409)
+Development costs capitalised (221,738) (142,330)
+Net cash fl ow used in investing activities (517,414) (157 ,739)
+Dividends paid (253,884) (228,911)
+Proceeds from issuance of shares 5,817,931 —
+Exceptional items – IPO listing costs (1,288,081) —
+Net cash used in fi nancing activities 4,275,966 (228,911)
+Net increase in cash & cash equivalents 4,663,053 85,176
+Cash and equivalent at beginning of period 323,543 238,367
+Cash and equivalent at end of period 4,986,596 323,543
+CASH FLOW STATEMENT
+for the 15 months ended 31 December 2016 ECSC Group plc
+Annual Report and Accounts 2016 26
+The financial statements of ECSC Group plc for the 15 months ended 31 December 2016 were authorised for issue in accordance with a 
+resolution of the directors on 21 March 2017. ECSC Group plc was incorporated in England and Wales on 5 April 2000, with the registered 
+number 03964848. The address of the registered office is 28 Campus Road, Listerhills Science Park, Bradford, West Yorkshire, BD7 1HR.
+For years up to and including 30 September 2015, the Company has prepared its financial statements under UK GAAP . These financial 
+statements for the 15 months ended 31 December 2016 are the first that the Company has prepared in accordance with International 
+Financial Reporting Standards (IFRS) as issued by the International Accounting Standards Board (IASB). Note 24 explains how the Company 
+has applied IFRS on transition. The Board made the decision to change the year end to 31 December 2016. These financial statements 
+therefore present a fifteen month period, meaning the two periods are not entirely comparable.
+The principal activity of ECSC Group plc is the supply of information security professional services.
+1. Presentation of fi nancial statements
+The financial statements have been prepared in accordance with International Financial Reporting Standards, International Accounting 
+Standards and Interpretations (collectively “IFRSs”) issued by the International Accounting Standards Board (“IASB”) as adopted by the 
+European Union (“adopted IFRSs”). Consolidated financial statements are not prepared as the subsidiary of the company, ECSC Australia 
+Limited, is dormant and immaterial.
+The financial statements have been presented in Pound Sterling (£, GBP) as this is the currency of the primary economic environment that 
+the Company operates in.
+2. Accounting policies
+The principal accounting policies applied in the preparation of the fi nancial statements are set out below. These policies have been consistently 
+applied to all periods presented, unless otherwise stated. 
+Basis of Accounting
+The financial statements have been prepared on the historical cost basis except as stated. The results presented are for those of the parent 
+only. Consolidated financial statements have not been prepared on the grounds of immateriality.
+New standards, amendments to and interpretations to published standards not yet eff ective
+A number of new standards and amendments to standards and interpretations have been issued but are not yet effective and in some 
+cases have not yet been adopted by the EU.
+The Directors do not expect that the adoption of these standards will have a material impact on the financial statements of the Company 
+in future periods, except that IFRS 9 may impact both the measurement and disclosures of financial instruments, IFRS 15 may have an 
+impact on revenue recognition and related disclosures and IFRS 16 will have an impact on the recognition of operating leases. At this point 
+it is not practicable for the Directors to provide a reasonable estimate of the effect of these standards as their detailed review of these 
+standards is still ongoing.
+Going concern
+The financial statements have been prepared on the basis that the Company will continue as a going concern. 
+After making enquiries, the Directors consider that the Company has adequate resources and committed borrowing facilities to continue 
+in operational existence for the foreseeable future. Consequently, they have adopted the going concern basis in preparing the fi nancial statements.
+Revenue
+Revenue comprises revenue recognised by the Company in respect of goods and services supplied during the year, exclusive of Value 
+Added Tax and trade discounts. Revenue from the sale of products is recognised when the significant risks and rewards of ownership have 
+been transferred, which is considered to occur when title passes to the customer. Revenue from provision of consultancy services is 
+recognised as services are rendered, generally based on the negotiated daily rate in the consulting arrangement and the number of days 
+worked during the period. Revenue from management and support services is deferred and recognised on a straight line basis over the 
+service period.
+NOTES TO THE FINANCIAL STATEMENTS
+for the 15 months ended 31 December 2016 ECSC Group plc
+Annual Report and Accounts 2016 27
+Financial statements Strategic report Directors’ report
+Interest income
+Interest income is accrued on a time basis, by reference to the principal outstanding and at the applicable eff ective interest rate.
+Government grants
+Government Grants are recognised in the Statement of Comprehensive Income on a systematic basis over periods in which the entity 
+recognises expenses for the related costs for which the grants are intended to compensate.
+Operating profi t
+Operating profit is stated after all expenses, including those considered to be exceptions, but before finance income or expenses. 
+Exceptional items are items of income or expense which because of their nature or size require separate presentation to allow shareholders 
+to better understand the financial performance of the period and allow comparison with prior years.
+Foreign currencies
+Assets and liabilities in foreign currencies are translated into sterling at the rates of exchange ruling at the balance sheet date. Transactions 
+in foreign currencies are translated into sterling at the rate of exchange ruling at the date of the transaction. Exchange differences are 
+taken into account in arriving at the operating profit.
+Employee benefi ts
+(i) Short-term benefits
+Wages, salaries, paid annual leave and sick leave, bonuses and non-monetary benefits are accrued in the period in which the associated 
+services are rendered by employees of the Company. 
+(ii) Defined Contribution plans
+The Company operates a defined contribution pension scheme for employees. The assets of the scheme are held separately from those  
+of the Company. The annual contributions are charged to the Statement of Comprehensive Income. The Company also contributes to the 
+personal pension plans of the Directors at the Company’s discretion.
+(iii) Employee share incentive plans
+The Company issues equity-settled share-based payments to certain employees (including Directors). These payments are measured at 
+fair value at the grant date by use of a Black-Scholes model.
+Operating lease agreements
+Rentals applicable to operating leases where substantially all of the benefits and risks of ownership remain with the lessor are charged 
+against profits on a straight line basis over the full period of the lease. Any lease incentives are spread on a straight line basis over the full 
+period of the lease.
+Property, plant and equipment
+All additions are initially recorded at cost.
+Depreciation is calculated so as to write off the cost of an asset, less its estimated residual value, over the useful economic life of that asset 
+as follows:
+Leasehold property  – 20% reducing balance
+Office furniture and equipment  – 20% reducing balance
+Computer equipment  – 33% straight line
+Motor vehicles  – 20% straight line ECSC Group plc
+Annual Report and Accounts 2016 28
+2. Accounting policies continued 
+Research and development expenditure
+Expenditure on research activities is recognised as an expense in the period in which it is incurred. 
+An internally-generated intangible asset arising from development (or from the development phase of an internal project) is recognised if 
+all of the criteria set out in IAS 38 are met. Once the criteria are met, the development expenditure is capitalised and amortised over its 
+useful life, included in the administrative costs in Statement of Comprehensive Income.
+The useful life of development costs is considered to be five years.
+Inventories
+Inventories are carried at the lower of cost or net realisable value. 
+Net realisable value is calculated based on the revenue from sale in the normal course of business less any costs to sell. Due allowance is made for 
+obsolete and slow moving items. 
+Financial instruments
+A financial instrument is any contract that gives rise to a financial asset of one entity and a financial liability or equity instrument of 
+another entity.
+Financial assets
+• Initial recognition and measurement
+Financial assets are classified, at initial recognition, as financial assets on loans and receivables, or derivatives designated as hedging 
+instruments in an effective hedge, as appropriate. All financial assets are recognised initially at fair value plus, in the case of financial assets 
+not recorded at fair value through profit or loss, transaction costs that are attributable to the acquisition of the financial asset.
+The Company’s financial assets include cash and cash equivalents, trade and other receivables and non-derivative financial assets.  
+The Company’s financial assets include cash and cash equivalents, trade and other receivables and non-derivative financial assets.
+• Subsequent measurement
+Loans and receivables
+Trade receivables, loans and other receivables that have fixed or determinable payments that are not quoted in active market are classified 
+as loans and receivables. Loans and receivables are measured at amortised cost, using the effective interest method less impairment. 
+Interest is recognised by applying the effective interest method, except for short-term receivables when the recognition of interest would 
+be immaterial.
+• Derecognition of financial assets
+The Company derecognises a financial asset only when the contractual rights to the cash flows from the asset expire, or it transfers the 
+financial asset and substantially all the risks and rewards of ownership of the asset to another entity. If the Company neither transfers nor 
+retains substantially all the risks and rewards of ownership of the financial asset and continues to control the transferred asset, the 
+Company recognises its retained interest in the asset and an associated liability for amounts it may have to pay. If the Company retains 
+substantially all the risks and rewards of ownership of a transferred financial asset, the Company continues to recognise the financial asset 
+and also recognises a collateralised borrowing for the proceeds receivables.
+Financial liabilities and equity instruments
+• Classification as debt or equity
+Financial liabilities and equity instruments issued by the Company are classified according to the substance of the contractual arrangements 
+entered into and the definitions of a financial liability and an equity instrument.
+• Equity instruments
+An equity instrument is any contract that evidences a residual interest in the assets of the Company after deducting all of its liabilities. 
+NOTES TO THE FINANCIAL STATEMENTS CONTINUED
+for the 15 months ended 31 December 2016 ECSC Group plc
+Annual Report and Accounts 2016 29
+Financial statements Strategic report Directors’ report
+Equity instruments are recorded at the proceeds received, net of direct issue costs.
+• Financial liabilities
+Financial liabilities are classifi ed as either fi nancial liabilities at fair value through profi t or loss or fi nancial liabilities measured at amortised cost.
+• Trade and other payables 
+Trade and other payables are initially measured at fair value, net of transaction costs, and are subsequently measured at amortised cost, 
+where applicable, using the effective interest method, with interest expense recognised on an effective yield basis.
+• Derecognition of financial liabilities
+The Company derecognises financial liabilities when, and only when, the Company’s obligations are discharged, cancelled or they expire.
+Off setting of fi nancial instruments
+Financial assets and financial liabilities are offset and the net amount reported in the statement of financial position if there is a currently 
+enforceable legal right to offset the recognised amounts and there is an intention to settle on a net basis, or to realise the assets and settle 
+the liabilities simultaneously.
+Cash and cash equivalents
+Cash and cash equivalents comprise cash on hand and demand deposits, and other short-term highly liquid investments which are readily 
+convertible to known amounts of cash and are subject to insignifi cant risk of changes in value.
+Impairment of assets 
+Financial assets
+A fi nancial asset is assessed at each reporting date to determine whether there is any objective evidence that it is impaired. A fi nancial asset is 
+considered to be impaired if objective evidence indicates that one or more events have had a negative eff ect on the estimated future cash fl ows of 
+that asset.
+An impairment loss in respect of a fi nancial asset measured at amortised cost is calculated as the diff erence between its carrying amount, and present 
+value of the estimated future cash fl ows discounted at the original eff ective interest rate. An impairment loss in respect of an available-for-sale fi nancial 
+asset is calculated by reference to its fair value. 
+Individually signifi cant fi nancial assets are tested for impairment on an individual basis. The remaining fi nancial assets are assessed collectively in 
+groups that share similar credit risk characteristics.
+An impairment loss is recognised in the profi t or loss. Any cumulative loss in respect of an available-for-sale fi nancial asset recognised previously in 
+equity is transferred to the statement of comprehensive income. 
+An impairment loss is reversed if the reversal can be related objectively to an event occurring after the impairment loss was recognised. For fi nancial 
+assets measured at amortised cost and available-for-sale fi nancial assets that are debt securities, the reversal is recognised in the profi t or loss. For 
+available-for-sale fi nancial assets that are equity securities, the reversal is recognised directly in equity.
+Non-fi nancial assets
+The carrying amounts of the Company’s non-fi nancial assets, other than deferred tax assets, are reviewed at each reporting date to determine 
+whether there is any indication of impairment. If any such indication exists, then the asset’s recoverable amount is estimated.
+The recoverable amount of an asset or cash-generating unit is the greater of its value in use and its fair value less costs to sell. In assessing 
+value in use, the estimated future cash fl ows are discounted to their present value using a pre-tax discount rate that refl ects current market 
+assessments of the time value of money and risk specifi c to the asset. For the purpose of impairment testing, assets are grouped together into 
+the smallest group of assets that generates cash infl ows from continuing use that are largely independent of the cash infl ows of other assets 
+or groups of assets. The goodwill acquired in a business combination, for the purpose of impairment testing, is allocated to cash-generating 
+units that are expected to benefi t from the synergies of the combination.   An impairment loss is recognised if the carrying amount of an asset 
+or its cash generating unit exceeds its estimated recoverable amount. Impairment losses are recognised in the profi t or loss. Impairment 
+losses recognised in respect of cash generating units are allocated fi rst to reduce the carrying amount of any goodwill allocated to the units 
+and then to reduce the carrying amount of the other assets in the unit (or group of units) on a pro rata basis. ECSC Group plc
+Annual Report and Accounts 2016 30
+2. Accounting policies continued  
+Impairment of assets continued 
+Non-fi nancial assets continued
+An impairment loss in respect of goodwill is not reversed. In respect of other assets, impairment losses recognised in prior periods are assessed at 
+each reporting date for any indications that the loss has decreased or no longer exists. An impairment loss is reversed if there has been a change in 
+the estimates used to determine the recoverable amount. An impairment loss is reversed only to the extent that the asset’s carrying amount does 
+not exceed the carrying amount that have been determined, net of depreciation or amortisation, if no impairment loss had been recognised.
+Income tax
+Income tax expense represents the sum of the tax currently payable and deferred tax. 
+The tax currently payable is based on taxable profi t for the year. Taxable profi t diff ers from profi t as reported in the statement of comprehensive 
+income because it excludes items of income or expense that are taxable or deductible in other years and it further excludes items that are not taxable 
+or tax deductible. 
+The Company’s liability for current tax is calculated using tax rates (and tax laws) that have been enacted or substantively enacted by the end of the 
+fi nancial period.
+Credit available on eligible Research and Development expenditure and not reclaimable through other means is included within Grant income. 
+Deferred tax is recognised in respect of all timing diff erences that have originated but not reversed at the balance sheet date where transactions or 
+events have occurred at that date that will result in an obligation to pay more, or a right to pay less or to receive more tax.
+Deferred tax assets are recognised only to the extent that the directors consider that it is more likely than not that there will be suitable taxable profi ts 
+from which the future reversal of the underlying timing diff erences can be deducted.
+Deferred tax is measured on an undiscounted basis at the tax rates that are expected to apply in the periods in which timing diff erences reverse, 
+based on tax rates and laws enacted or substantively enacted at the balance sheet date.
+Contingent liabilities and contingent assets
+A contingent liability is a possible obligation that arises from past events and whose existence will only be confi rmed by the occurrence or  
+non-occurrence of one or more uncertain future events not wholly within the control of the Company. It can also be a present obligation arising from 
+past events that is not recognised because it is not probable that outfl ow of economic resources will be required or the amount of obligation cannot 
+be measured reliably.
+A contingent liability is not recognised but is disclosed in the notes to the accounts. When a change in the probability of an outfl ow occurs so that 
+the outfl ow is probable, it will then be recognised as a provision. 
+A contingent asset is a possible asset that arises from past events and whose existence will be confi rmed only by the occurrence or non-occurrence 
+of one or more uncertain events not wholly within the control of the Company. Contingent assets are not recognised but are disclosed in the notes 
+to the accounts when an infl ow of economic benefi ts is probable. When infl ow is virtually certain, an asset is recognised.
+Share capital
+Ordinary Shares are recorded at nominal value and proceeds received in excess of nominal value of shares issued, if any, are accounted for as share 
+premium. Both Ordinary Shares and share premium are classifi ed as equity. Costs incurred directly to the issue of shares are accounted for as a 
+deduction from share premium, otherwise they are charged to the Statement of Comprehensive Income.
+Operating segments
+An operating segment is a component of the Company that engages in business activities from which it may earn revenues and incur expenses, 
+including revenues and expenses that relate to transactions with any of the Company’s other components. 
+An operating segment’s operating results are reviewed regularly by the Chief Operating Decision Maker (“CODM”) (which takes the form of the 
+directors of the Company) to make decisions about resources to be allocated to the segments and assess its performance, and for which discrete 
+fi nancial information is available. 
+The Board considers that the Company’s activity now constitutes three operating and three reporting segments, as defi ned under IFRS 8. 
+ 
+NOTES TO THE FINANCIAL STATEMENTS CONTINUED
+for the 15 months ended 31 December 2016 ECSC Group plc
+Annual Report and Accounts 2016 31
+Financial statements Strategic report Directors’ report
+Parties are considered to be related if one party has the ability (directly or indirectly) to control the other party or exercise signifi cant infl uence over 
+the other party in making fi nancial and operating decisions. Parties are also considered related if they are subject to common control or common 
+signifi cant infl uence. Related parties may be individuals or corporate entities.
+3. Critical accounting estimates and sources of estimation uncertainty
+In applying the accounting policies, the directors may at times require to make critical accounting judgements and estimates about the carrying 
+amount of assets and liabilities. These estimates and assumptions, when made, are based on historical experience and other factors that the directors 
+considers are relevant.
+The key estimates and assumptions concerning the future and other key sources of estimation uncertainty at the end of the fi nancial year, that have 
+signifi cant risk of causing a material adjustment to the carrying amounts of assets and liabilities within the next fi nancial year are as stated below.
+Revenue recognition
+Management considers the nature of the Company’s contracts with customers and recognise revenue on an appropriate basis in accordance with 
+IFRS. This process involves the use of judgements and estimates. Revenue is recognised when the service is completed or the goods delivered to the 
+customer.  Appropriate deferrals are made to revenue when services are being delivered over time.
+Development costs – capitalised
+Management estimate the percentage of development staff time used to enhance and improve the Company’s software asset/process to capitalise 
+a proportion of salary costs each period.
+Research and development tax claim
+A credit has been recognised as a result of an R&D tax credit claim being made in 2016 in respect of the FY14, FY15 and FY16 periods.
+4. Revenue and segment information
+The Company’s principal revenue is derived from the supply of information security professional services. 
+During this period, the CODM received information on fi nancial performance on a divisional basis. The Directors consider that there are three 
+reportable operating segments: Consultancy, Managed Services, and Vendor Products.  There were a small number of other transactions recorded 
+during each period which are not considered to be part of either of the three reportable operating segments.  These are presented below within the 
+‘Other’ caption and are not signifi cant.
+The CODM does not receive any information on the fi nancial position of each segment, including information on assets and liabilities. Accordingly, 
+such information has not been presented.  The Company’s revenue and gross profi t by operating segment for the year ended 30 September 2015 
+and the 15 months ended 31 December 2016 were as follows:
+15 months ended Year ended
+31 December 2016 30 September 2015
+£ £
+Revenue
+Consultancy 2,803,611 1,806,838
+Managed services 1,330,372 787,749
+Vendor products 376,136 55,808
+Other 300 —
+4,510,419 2,650,395
+Gross profit
+Consultancy 2,211,541 1,454,768
+Managed services 1,241,187 738,161
+Vendor products 42,704 3,883
+Other 299 —
+ 3,495,731 2,196,812
+For the purpose of financial reporting, certain operating expenses were allocated to cost of sales at each period end.  The way that these 
+costs are recorded is such that it was not possible to allocate them to a reporting segment, and as a result these are all shown within the  ECSC Group plc
+Annual Report and Accounts 2016 32
+4. Revenue and segment information  continued
+‘Other’ caption above.  The above presentation shows that gross margin per reportable segment was 100% in each period.  Whilst gross 
+margins are high in these segments (see 2016 information later) it should be noted that some relevant cost of sales to these reportable 
+segments is included in the ‘Other’ caption as explained above. 
+The Company’s results by segment for the period ended 31 December 2016 were as follows:
+Consultancy Managed services Vendor products Other Total
+£ £ £ £ £
+Revenue – external 2,803,611 1,330,372 376,136 300 4,510,419
+Gross profi t 2,211,541 1,241,187 42,704 299 3,495,731
+Operating expenses (2,009,940) (1,163,548) (90,199) 220,550 (3,043,137)
+Segment result – operating profi t 201,601 77,639 (47,495) 220,849 452,594
+The Vendor Products revenue above represents the only revenue of the sale of goods in any of the periods.
+All the non-current assets of the Company are located in the United Kingdom. 
+The Company had the following customer who contributed more than 10% of revenue:
+15 months ended Year ended
+31 December 2016 30 September 2015
+£ £
+Customer 1 — 256,000
+Revenue by country was as follows:
+15 months ended Year ended
+31 December 2016 30 September 2015
+£ £
+Channel Islands 15,130 13,675
+Egypt 15,187 14,523
+France 32,199 22,449
+Ireland 58,380 102,290
+USA 91,166 100,068
+South Africa 64,786 —
+United Kingdom 4,233,571 2,397,390
+4,510,419 2,650,395
+5. Other income
+15 months ended Year ended
+31 December 2016 30 September 2015
+£ £
+Grant income 157 ,660 89,973
+A credit has been recognised within grant income as a result of an R&D tax credit claim being made in 2016 in respect of the FY14, FY15 and 
+FY16 periods. A credit of £134,745 (2015: £63,404) is included within grant income in respect of these claims.
+ 
+ 
+ 
+ 
+ 
+NOTES TO THE FINANCIAL STATEMENTS CONTINUED
+for the 15 months ended 31 December 2016 ECSC Group plc
+Annual Report and Accounts 2016 33
+Financial statements Strategic report Directors’ report
+6. Operating profi t 
+ 
+Operating profit is stated after charging:
+15 months ended Year ended
+31 December 2016 30 September 2015
+£ £
+Depreciation of owned assets 64,816 32,774
+Amortisation of intangibles – development costs 112,458 54,873
+Expenditure on research activities 323,738 103,505
+Allowance provision on trade receivables 5,011 8,384
+Auditors’ remuneration – audit services 23,000 —
+   – Non-audit services:
+           –  Taxation compliance services 5,450 —
+           –  Other taxation services 13,650 —
+           –  Other non-audit services 11 2,435 —
+Operating lease charge
+– Property 56,250 40,500
+– Other 78,144 39,018
+Inventories expensed 234,739 —
+The statutory financial statements for previous periods were unaudited. These figures have been subject to audit for the purpose  
+of preparing these financial statements and therefore all audit fees have been incurred in the current period.
+7. Employee benefi t expense 
+ 
+Employee costs (including Directors) during the periods amounted to:
+15 months ended Year ended
+31 December 2016 30 September 2015
+£ £
+Wages and salaries 2,385,511 1,213,697
+Social security costs 249,652 143,712
+Pension contributions 70,265 48,505
+ 2,705,428 1,405,914
+Directors’ and key management remuneration is as follows (and is included above also):
+15 months ended Year ended
+31 December 2016 30 September 2015
+£ £
+Wages and salaries 596,080 306,993
+Social security costs 74,250 35,590
+Pension contributions 70,265 31,656
+ 740,595 374,239
+Key Management are considered to be the directors and senior management disclosed in The Board section on pages 18 and 19. Details 
+of total directors’ remuneration can be found in the Remuneration Report on page 20. Amounts paid to the highest paid director in the 
+period were as follows:
+15 months ended Year ended
+31 December 2016 30 September 2015
+£ £
+Wages and salaries 155,277 60,000
+Pension contributions 9,100 1,200
+ 164,377 61,200 ECSC Group plc
+Annual Report and Accounts 2016 34
+7. Employee benefi t expense continued
+The average number of employees during the year was:
+15 months ended Year ended
+31 December 2016 30 September 2015
+£ £
+Directors 7 7
+Operational 34 27
+8. Taxation
+Recognised in the Statement of Comprehensive Income
+15 months ended Year ended
+31 December 2016 30 September 2015
+£ £
+UK corporation tax – current tax on profi t for the year (127 ,164) 79,999
+Over/under provision in prior period 83 (14)
+Deferred tax 8,951 14,992
+ (1 18,130) 94,977
+Reconciliation of eff ective tax rate 
+15 months ended Year ended
+31 December 2016 30 September 2015
+£ £
+(Loss)/profit before tax (517,136) 518,174
+Tax at the UK corporation tax rate of 20.0%/20.5% (1 1,687) 93,228
+Expenses not deductible for tax purposes 77,245 1,581
+Exercise of share options (174,981) —
+Marginal relief and tax rate adjustment — (1,315)
+Ineligible depreciation — 1,070
+Adjust closing deferred tax to average rate of 20% (8,707) —
+Over/under provision in prior period — (14)
+Other — 427
+ (1 18,130) 94,977
+Deferred tax
+15 months ended Year to
+31 December 2016 30 September 2015
+£ £
+Origination and reversal of timing differences 8,951 14,992
+8,951 14,992
+ 
+ 
+NOTES TO THE FINANCIAL STATEMENTS CONTINUED
+for the 15 months ended 31 December 2016 ECSC Group plc
+Annual Report and Accounts 2016 35
+Financial statements Strategic report Directors’ report
+9. Earnings per share 
+ 
+Basic earnings per share amounts are calculated by dividing the profit for the year attributable to equity holders of the Company by the 
+weighted average number of Ordinary Shares outstanding during the period.
+Diluted earnings per share amounts are calculated by dividing the profit for the year attributable to equity holders of the Company by 
+the weighted average number of Ordinary Shares outstanding during the period plus the weighted average number of Ordinary Shares 
+that would be issued on conversion of all the dilutive potential Ordinary Shares into Ordinary Shares.  
+ 
+The following reflects the income and share data used in the basic and diluted earnings per share computations:
+15 months ended Year ended
+31 December 2016 30 September 2015
+£ £
+Net profi t attributable to equity holders of the Company (399,006) 423,197
+Add back exceptional items – IPO costs 974,876 —
+Adjusted profi t 575,870 423,197
+Initial weighted average number of Ordinary Shares 22,381 22,381
+Adjusted to refl ect Split into 100 1p shares 2,238,100 2,238,100
+Bonus Issue 2,461,910 2,461,910
+Weighted average of shares issued in period 445,217 —
+Adjusted weighted average number of Ordinary Shares 5,167,608 4,700,010
+Basic earnings per share (0.08) 0.09
+Diluted earnings per share (0.08) 0.09
+Adjusted earnings per share 0.11 0.09
+On 28 October 2016 the Company passed a resolution to re-designate all the Ordinary Shares of £1 each in issue as a single class of shares. 
+A resolution was then passed to sub-divide every existing Ordinary Share of £1 each in issue into 100 Ordinary Shares.  The Company then 
+passed a resolution to issue 110 Ordinary Shares of £0.01 each by way of a bonus issue pro rata to the Shareholders.  In accordance with 
+IFRS this has been reflected in weighted average number of Ordinary Shares above.
+The dilution arising as a result of the share options in the prior year is considered to be immaterial and so therefore no adjustment has 
+been made.
+Adjusted earnings per share are stated before charging IPO costs of £975k.  ECSC Group plc
+Annual Report and Accounts 2016 36
+10. Intangible assets
+Goodwill
+The Company made an acquisition in the year ended 30 September 2003 and goodwill of £20,250 was recognised in accordance with UK GAAP at 
+that time. The goodwill was fully amortised under UK GAAP as at 1 October 2012, the date of transition to IFRS. As permitted by IFRS 1, the carrying 
+value of goodwill has not been restated on transition to IFRS. In addition, IFRS 3 has not been retrospectively applied to acquisitions prior to the 
+transition date. 
+Development costs
+£
+Cost
+As at 1 October 2014 203,201
+Additions 142,330
+As at 30 September 2015 345,531
+As at 1 October 2015 345,531
+Additions 221,738
+As at 31 December 2016 567,269
+Amortisation
+As at 1 October 2014 36,694
+Amortisation charge for the year 54,873
+As at 30 September 2015 91,567
+As at 1 October 2015 91,567
+Amortisation charge for the period 112,458
+As at 31 December 2016 204,025
+Net book value
+As at 1 October 2014 166,507
+As at 30 September 2015 253,964
+As at 31 December 2016 363,244
+NOTES TO THE FINANCIAL STATEMENTS CONTINUED
+for the 15 months ended 31 December 2016 ECSC Group plc
+Annual Report and Accounts 2016 37
+Financial statements Strategic report Directors’ report
+11. Property, plant and equipment
+Leasehold Offi ce furniture and Computer Motor
+property equipment equipment vehicles Total
+£ £ £ £ £
+Cost
+At 1 October 2014 45,947 19,381 79,356 — 144,684
+Additions — — 15,409 — 15,409
+At 30 September 2015 45,947 19,381 94,765 — 160,093
+Additions — 32,743 181,457 81,476 295,676
+Disposals — — (27,212) — (27,212)
+At 31 December 2016 45,947 52,124 249,010 81,476 428,557
+Depreciation
+At 1 October 2014 9,952 5,203 45,078 — 60,233
+Charge for the year 7,199 2,836 22,739 — 32,774
+At 30 September 2015 17 ,151 8,039 67,817 — 93,007
+Charge for the period 7,199 3,767 45,313 8,537 64,816
+Disposals — — (27,212) — (27,212)
+At 31 December 2016 24,350 11,806 85,918 8,537 130,61 1
+Net book value
+At 1 October 2014 35,995 14,178 34,278 — 84,451
+At 30 September 2015 28,796 11,342 26,948 — 67,086
+At 31 December 2016 21,597 40,318 163,092 72,939 297,946
+12. Inventory
+31 December 2016 30 September 2015 1 October 2014
+£ £ £
+Inventory 304 1,038 603
+13. Trade and other receivables
+31 December 2016 30 September 2015 1 October 2014
+£ £ £
+Trade receivables 928,020 598,954 522,813
+Other receivables 8,300 8,300 9,300
+Prepayments and accrued income 96,563 88,444 70,863
+1,032,883 695,698 602,976
+The carrying amount of trade and other receivables approximates to their fair value.
+14. Cash and cash equivalents
+31 December 2016 30 September 2015 1 October 2014
+£ £ £
+Cash and bank balance 4,986,596 323,543 238,367 ECSC Group plc
+Annual Report and Accounts 2016 38
+15. Trade and other payables
+31 December 2016 30 September 2015 1 October 2014
+£ £ £
+Trade payables 483,948 93,513 89,233
+Corporation tax — — 27,290
+Other taxation and social security 21 1,381 137 ,278 141,557
+Other payables 567,558 389,407 286,972
+ 1,262,887 620,198 545,052
+The carrying amount of trade and other payables approximates to their fair value due to their short-term nature.
+16. Deferred tax
+Deferred tax Total
+£ £
+As at 1 October 2014 43,301 43,301
+Movement through income statement for the period 14,992 14,992
+As at 30 September 2015 58,293 58,293
+Movement through income statement for the period (8,951) (8,951)
+As at 31 December 2016 49,342 49,342
+Deferred tax
+The deferred tax liabilities arose on the timing difference between the carrying values of the certain the Company’s assets for financial 
+reporting purposes and for income tax purposes. These will be released to the income statement as the fair value of the related assets are 
+depreciated or amortised.
+17. Share capital 
+ 
+Allotted, called up and fully paid:
+Ordinary A Shares:
+Authorised number Number of Ordinary Share
+of shares shares issued capital Total
+and fully paid £ £
+At 1 October 2014 16,178 16,178 16,178 16,178
+At 30 September 2015 16,178 16,178 16,178 16,178
+Ordinary B Shares:
+Authorised number Number of Ordinary Share
+of shares shares issued capital Total
+and fully paid £ £
+At 1 October 2014 6,203 6,203 6,203 6,203
+At 30 September 2015 6,203 6,203 6,203 6,203
+Total A and B Shares as at 14 October 2015 22,381 22,381 22,381 22,381
+The A and B Shares were split on 30 March 2011 and rank equally in all respects. Subsequently it was identifi ed by the Company that this share split 
+was not transacted correctly.  This has subsequently been rectifi ed in October 2016 and has been presented throughout as though this was treated 
+correctly at the initial date. 
+On 14 October 2015, 1,569 shares were issued for £84,757, resulting in the recognition of share premium of £83,188.
+On 28 October 2016 the Company passed a resolution to re-designate all the Ordinary Shares of £1 each in issue as a single class of shares.
+NOTES TO THE FINANCIAL STATEMENTS CONTINUED
+for the 15 months ended 31 December 2016 ECSC Group plc
+Annual Report and Accounts 2016 39
+Financial statements Strategic report Directors’ report
+Ordinary Shares
+Authorised number Number of Ordinary Share
+of shares shares issued capital Total
+and fully paid £ £
+Issued 1,569 1,569 1,569 1,569
+Ordinary Shares after re-designation as per table above 22,381 22,381 22,381 22,381
+23,950 23,950 23,950 23,950
+Sub-division into 100 shares 2,395,000 2,395,000 23,950 23,950
+Bonus issue 2,634,500 2,634,500 26,345 26,345
+IPO issue 3,964,631 3,964,631 39,646 39,646
+At 31 December 2016 8,994,131 8,994,131 89,941 89,941
+The Ordinary Shares have a par value of £0.01 (2015: £1) per Ordinary Share and are fully paid. These Ordinary Shares carry no right to fixed 
+income and have no preferences or restrictions attached to them. Consideration of £5,817,931 was received in respect of the above 
+transactions in the period ended 31 December 2016.
+On 28 October 2016 the Company passed a resolution to sub-divide every existing Ordinary Share of £1 each in issue into 100 Ordinary Shares. The 
+Company then passed a resolution to issue 110 Ordinary Shares of £0.01 per 100 shares held each by way of a bonus issue pro rata to the shareholders.
+On 14 December 2016, 970,620 new Ordinary Shares were issued immediately prior to Admission to satisfy the exercise of share options. 
+Then, as part of the Placing (and in accordance with the terms of the Placing Agreement) 299,401 shares were allotted and issued.
+Share premium account
+The balance on the share premium account represents the amounts received in excess of the nominal value of Ordinary Shares.
+Retained earnings
+The balance held on this reserve is the accumulated retained profits of the Company. 
+18. Financial instruments and fi nancial risk management 
+ 
+The Company’s principal financial instruments comprise cash and cash equivalents, trade and other receivables and trade and other 
+payables. The Company’s accounting policies and method adopted, including the criteria for recognition, the basis on which income  
+and expenses are recognised in respect of each class of financial asset, financial liability and equity instrument are set out in note 3 to 
+the financial statements. The Company does not use financial instruments for speculative purposes.
+The principal financial instruments used by the Company, from which financial instrument risk arises, are as follows:
+31 December 2016 30 September 2015 1 October 2014
+£ £ £
+Financial assets
+Loans and receivables:
+Trade receivables 928,020 598,954 522,813
+Other receivables 8,300 8,300 9,300
+Cash and cash equivalents 4,986,596 323,543 238,367
+Total fi nancial assets 5,922,916 930,797 770,480
+Financial liabilities measured at amortised cost
+Trade and other payables 663,613 350,212 231,035
+ Total fi nancial liabilities 663,613 350,212 231,035
+There are no fair value adjustments to assets or liabilities through profi t and loss. ECSC Group plc
+Annual Report and Accounts 2016 40
+18. Financial instruments and fi nancial risk management continued  
+Capital management
+The Company manages its capital to ensure that it will be able to continue as a going concern while attempting to maximise the return to stakeholders 
+through the optimisation of the debt and equity balance. The capital structure of the Company consists of issued capital and retained earnings.
+The Company’s fi nancial instruments, which are recognised in the statement of fi nancial position, comprise cash and cash equivalents, receivables 
+and payables. The accounting policies and methods adopted, including the basis of measurement applied are disclosed above, where relevant. The 
+information about the extent and nature of these recognised fi nancial instruments, including signifi cant terms and conditions that may aff ect the 
+amount, timing and certainty of future cash fl ows are disclosed in the respective notes above, where applicable.
+The Company does not generally enter into derivative transactions (such as interest rate swaps and forward foreign currency contracts) and it is, and 
+has been throughout the period covered by these fi nancial statements, the Company’s policy that no trading in fi nancial derivative instruments shall 
+be undertaken.
+Credit risk
+Credit risk is the risk that a counter-party will cause a financial loss to the Company by failing to discharge its obligations to the Company. 
+The Company manages its exposure to this risk by applying limits to the amount of credit exposure to any one counterparty and employs 
+strict minimum credit worthiness criteria as to the choice of counterparty. The maximum exposure to credit risk for receivables and other 
+financial assets is represented by their carrying amount. The company considers credit risk to be low due to its processes and the nature 
+of its customers, being mainly large corporates.
+The Company establishes an allowance for impairment that represents its estimate of incurred losses in respect of the trade and other 
+receivables as appropriate. The allowance comprises a provision against individually significant exposures. 
+Ageing analysis
+The ageing analysis of the Company’s trade receivables is as follows:
+31 December 2016 30 September 2015 1 October 2014
+£ £ £
+Current 499,479 278,510 248,239
+Up to 30 days 228,256 144,689 215,290
+30 to 60 days 113,492 96,469 36,495
+90 days and older 91,804 79,286 45,842
+Bad debt provision (5,011) — (23,053)
+928,020 598,954 522,813
+These receivables are not secured by any collateral or credit enhancement. Normal credit terms are 30 days.
+Receivables past due total £205,296 (2015: £175,755, 2014: £82,337), of which £5,011 (2015: £Nil, 2014: £23,053) have been impaired.
+The Company only holds cash at banks with a credit rating of A to mitigate the credit risk on cash deposits.
+Fair values
+The directors have assessed that the fair values of cash and short-term deposits, trade receivables, trade payables and other current 
+liabilities approximate to their carrying amounts largely due to the short-term maturities of these instruments.
+Interest rate risk
+The Company’s policy is to fund its operations through the use of retained earnings and equity.
+The Company’s exposure to changes in interest rates relates primarily to cash at bank. Cash is held either on current or short term deposits 
+at a floating rate of interest determined by the relevant bank’s prevailing base rate. 
+NOTES TO THE FINANCIAL STATEMENTS CONTINUED
+for the 15 months ended 31 December 2016 ECSC Group plc
+Annual Report and Accounts 2016 41
+Financial statements Strategic report Directors’ report
+Interest rate sensitivity
+When reviewing the sensitivity to movement in interest rates it is noted that the majority of the cash as at 31 December 2016 was 
+received as a result of listing in the year. An average taken throughout the year would be significantly lower than this and it is therefore 
+considered that even if interest rates increased 1% there would be no material impact.
+Market risk
+Market risk is the risk that the fair value of future cash flows of a financial instrument will fluctuate because of changes in market prices. 
+Market risk comprises three types of risk:
+• commodity price risk;
+• interest rate risk; and
+• foreign currency risk.
+Financial instruments affected by market risk include deposits, trade receivables, trade payables and accrued liabilities.
+Foreign currency exchange risk
+Foreign currency risk is the risk that the fair value or future cash flows of an exposure will fluctuate because of the changes in foreign 
+exchange rates. The Company’s exposure to the risk of changes in foreign exchange rates relates primarily to the Company’s operating 
+activities when revenue or expense is denominated in a foreign currency.
+The Company does not hedge its foreign currencies. Transactions with customers are mainly denominated in GBP . 
+The Company has suppliers that invoice in US dollars. The balances exposed to credit risk at year end are as follows:
+31 December 2016 30 September 2015 1 October 2014
+$ $ $
+US Dollars 13,932 84,882 26,319
+A sensitivity analysis has not been presented as the potential impact is not considered to be material.
+Liquidity risk
+Liquidity risk arises from the Company’s management of working capital. It is the risk that the Company will encounter difficulty in 
+meeting its financial obligations as they fall due.
+The Company’s policy is to ensure that it will always have sufficient cash to allow it to meet its liabilities when they become due. 
+The maturity profile of the Company’s financial liabilities at the reporting dates, based on contractual undiscounted payments, are 
+summarised below:
+31 December 2016 30 September 2015 1 October 2014
+£ £ £
+Due within 3 months
+Trade and other payables 1,045,339 563,756 448,742
+19. Related party transactions
+Directors and key management personnel compensation has been disclosed in note 7.
+In addition to the related party information disclosed elsewhere in the financial statements, the following were significant related party 
+transactions during the year/period under review and at terms and rates agreed between the parties: ECSC Group plc
+Annual Report and Accounts 2016 42
+19. Related party transactions 
+During the years, dividends were paid to directors and their close family members as follows:
+15 months ended Year ended
+31 December 2016 30 September 2015
+£ £
+Dividends paid to Directors and their close family members 253,885 220,367
+Total 253,885 220,367
+Bank facilities of up to £250,000 are secured personally by one of the directors. 
+In October 2015, loans amounting to £84,757 were granted to two directors to enable them to exercise share options. The loans are 
+interest free and are repayable on a sale or flotation of the Company or earlier, at the borrowers’ discretion. The loans were discounted to 
+£79,611 and were fully repaid in the period ended 31 December 2016. 
+An additional loan of £12,547 was made to a director in the period ended 31 December 2016. This loan is interest free and was repaid in 
+the period ended 31 December 2016.
+20. Share based payments 
+Equity-settled share based payments 
+The Company operates an Enterprise Management Incentive Share Scheme. At the end of the previous period seven employees and 
+directors held options.
+Unapproved options have also been granted to non-qualifying individuals and at the end of the previous period one employee held these options.
+The options are subject to criteria set by the Board, including the option holder’s continuing employment. The options are not transferable 
+and have a life of ten years.
+Details of the number of share options and the weighted average exercise price (WAEP) outstanding during each period are as follows:
+Exercise price 2015 Expired Granted Bonus Exercised 2016
+£ No. No. No. No.* No. No.
+Expiry date
+31 October 2015 54.02 1,569 (1,569) — — — —
+30 March 2018 75.24 536 — — 590 (1,126) —
+31 March 2019 97.09 676 — — 743 (1,419) —
+31 March 2020 103.54 134 — — 146 (280) —
+28 February 2021 133.94 418 — — 460 (878) —
+31 March 2021 163.06 218 — — 240 (458) —
+31 March 2023 179.35 615 — — 677 (1,292) —
+19 November 2025 197 .00 — — 1,400 1,540 (2,940) —
+12 September 2026 233.0 — — 625 688 (1,313) —
+Outstanding at end of period 4,166 (1,569) 2,025 5,084 (9,706) —
+2016 2015
+£ £
+Weighted average exercise price — 97.56
+* On 28 October 2016, the Company passed a resolution to issue to shareholders 110 Ordinary Shares of £0.01 each for every 100 existing 
+Ordinary Shares of £0.01 each held by them by way of a bonus issue.
+In accordance with the requirements of IFRS 2, the Company calculated the fair value of the share options at the date of grant using a Black 
+Scholes option pricing model. 
+NOTES TO THE FINANCIAL STATEMENTS CONTINUED
+for the 15 months ended 31 December 2016 ECSC Group plc
+Annual Report and Accounts 2016 43
+Financial statements Strategic report Directors’ report
+The following inputs were made into the model for each grant of options:
+• Share price – estimated based on a multiple of adjusted earnings
+• Risk free rate – based on 10 year UK Government Bond yields
+• Volatility – estimated at 20% 
+• Option life and vesting period – 10 years
+Based on these calculations, the fair value of the share options at each grant date was not material and therefore no share based payment 
+charge has been recorded. 
+All share options were exercised on listing, with none carried forward into 2017.
+21. Dividends
+15 months ended Year ended
+31 December 2016 30 September 2015
+£ £
+Dividends paid
+A shares 166,796 205,091
+B shares 87,089 23,820
+Total 253,885 228,911
+Dividend per share (unadjusted)
+A shares 10.31 12.68
+B shares 14.04 3.84
+Dividend per share (adjusted to refl ect the subdivision and bonus issues described in Note 17)
+A shares 0.48 0.06
+B shares 0.48 0.02
+22. Commitments
+The Company had not entered into any material capital commitments as at 31 December 2016.
+The Company’s future minimum lease payments under non-cancellable operating leases are as follows:
+15 months ended Year ended
+31 December 2016 30 September 2015
+£ £
+Not later than one year 140,732 110,826
+Later than one year and not later than fi ve years 207,718 346,903
+More than fi ve years 72,099 218,860
+420,549 676,589
+23. Control
+There is no overall controlling party. ECSC Group plc
+Annual Report and Accounts 2016 44
+Financial statements Strategic report Corporate governance
+24. Transition to IFRS
+The financial statements prepared for the period ended 31 December 2016 is the first the Company has prepared in accordance with IFRS. 
+For periods up to and including the year ended 30 September 2015, the Company prepared its financial statements in accordance with 
+generally accepted accounting principles in the United Kingdom (UK GAAP), and under the Financial Reporting Standard for Smaller 
+Entities (“FRSSE”). 
+Accordingly, the Company has prepared financial statements which complies with IFRS applicable for periods ending on or after  
+31 December 2016, as described in the summary of significant accounting policies. In preparing the financial statements, the Company’s 
+opening statement of financial position was prepared as at 1 October 2014, the date of transition to IFRS. 
+In restating its UK GAAP financial statements, the Company has made adjustments to: 
+• Recognise operating lease incentives over the full lease term, 
+• Discount interest free loans to amortised cost; and 
+• Capitalise and amortise development costs. 
+Although the date of transition to IFRS was 1 October 2014 the opening balance sheet has been restated to capitalise development costs 
+from 1 October 2012. This is the earliest point at which reliable data on development activities was available and prior to this date 
+development costs/effort was minimal. Software development costs have been capitalised on a consistent basis from this point onwards.
+A summary of the impact of transition to the statement of financial position is as follows:
+30 September 2015 1 October 2014
+£ £
+Equity reported in accordance with UK GAAP and FRSSE 508,041 379,220
+Transition adjustments:
+Operating lease incentives (12,375) (7,875)
+Capitalisation of development costs 345,531 203,201
+Amortisation of development costs (91,568) (36,694)
+Capitalisation and amortisation (50,793) (33,301)
+ Equity reported in accordance with IFRS 698,836 504,551
+ A summary of the impact of transition to the Statement of Comprehensive Income is as follows:
+Year ended Year ended
+30 September 2015 30 September 2014
+£ £
+Profi t after tax reported in accordance with UK GAAP 357,732 326,185
+Transition adjustments:
+Operating lease incentives (4,500) (4,500)
+Capitalisation of development costs 142,330 121,330
+Amortisation of development costs (54,874) (28,507)
+Capitalisation and amortisation (17 ,491) (18,565)
+Total comprehensive income reported in accordance with IFRS 423,197 395,943
+NOTES TO THE FINANCIAL STATEMENTS CONTINUED
+for the 15 months ended 31 December 2016 ECSC Group plc
+Annual Report and Accounts 2016 45
+Financial statements Strategic report Directors’ report
+25. Adjusted profi t before tax
+15 months ended Year ended
+31 December 2016 30 September 2015
+£ £
+(Loss)/profi t before taxation (517,136) 518,174
+Exceptional IPO costs 974,876 —
+Adjusted profi t before taxation 457,740 518,174
+26. Exceptional costs
+As part of the costs of the admission to trading on AIM for the first time, costs of £1,288,081 were incurred. Costs of £313,205 have been 
+allocated against share premium, being the costs associated with share listing. The remaining £974,876 has been expensed in the year.
+27. Subsidiary undertakings
+The Company currently has the following wholly-owned subsidiary, which is incorporated and registered in England and Wales, of which 
+ECSC Group plc holds 100% of the £1 share capital:
+Name of Subsidiary Registered Offi ce Date of Incorporation Principal Activity
+ECSC Australia Limited
+28 Campus Road
+Listerhills Science Park
+Bradford
+BD7 1HR 29 September 2016 Dormant ECSC Group plc
+Annual Report and Accounts 2016 46
+CORPORATE INFORMATION
+ECSC Group plc
+Registered number 03964848
+Registered Offi ce
+28 Campus Road
+Listerhills Science Park
+Bradford
+BD7 1HR
+Company Secretary
+Keith Kelly
+Nominated Adviser & Broker
+Stockdale Securities Ltd
+Beaufort House
+15 St Botolph Street
+London
+EC3A 7BB
+Registrar
+Equiniti Limited
+Aspect House
+Spencer Road
+Lancing Business Park
+West Sussex
+BD99 6DA
+Financial PR
+Yellow Jersey PR
+7th Floor, 22 Upper Ground
+London
+SE1 9PD
+Auditors
+BDO LLP
+1 Bridgewater Place
+Water Lane
+Leeds
+LS11 5RU
+Solicitors
+Freeths LLP
+One Vine Street
+Mayfair
+London
+W1J 0AH NOTICE OF AGM
+As a Board, we believe that the delivery of our strategy, particularly through the aggressive scaling of our business that we are presently embarking on, 
+should be based on strong governance. We also believe that good governance is essential to the way in which we run our business on a day-to-day 
+basis, and we aim to operate to the governance standards required of much larger listed companies, where appropriate.
+Annual General Meeting
+This year, our Annual General Meeting will be held at 2.00pm on 22 June 2017 at the Company’s Head Offi ce; 28 Campus Road, Listerhills Science Park, 
+Bradford, BD7 1HR. I would like to invite all our shareholders to attend; myself and the rest of the Board look forward to meeting you.
+Nigel Payne
+Chairman
+21 March 2017
+Eff ectiveness
+The Company continues to evolve 
+and expand its scale of operations. The 
+Board recognises that managing such 
+growth requires clear oversight by the Board, 
+and our evaluation of eff ectiveness of the 
+Board and its Committees is rigorous to 
+ensure that we identify those areas for 
+continued focus and development for 
+the year ahead. 
+Accountability
+The Board recognises its 
+responsibility to present a fair, 
+balanced and understandable 
+assessment of the Company’s position 
+and prospects in this Annual Report, to 
+assess the principal risks of the business, to 
+ensure that reliable systems of risk 
+management and internal control are in 
+place, and to provide a statement as 
+to the Company’s long-term 
+viability. 
+Relations with 
+shareholders
+The Board recognises and values the 
+importance of maintaining healthy and open 
+communication with our shareholders to 
+ensure mutual understanding of our strategy, 
+objectives, governance and performance. The 
+Board receives regular investor reports which 
+detail the feedback from investor meetings. 
+This helps inform Board discussion on 
+the views of investors and analysts 
+on strategy.
+Remuneration
+Whilst the Board recognises that its 
+employees are working in a sector that 
+demonstrates both high demand for talent 
+and associated rising labour costs, the Board’s 
+remuneration policy will seek at all times to be 
+within acceptable boundaries. One of the 
+Remuneration Committee’s principal areas of 
+focus for this year will be to review the policies 
+put in place as part of our recent admission 
+to AIM and to engage with stakeholders 
+to consider changes should they be 
+required.
+Leadership
+An eff ective Board is essential to a 
+successfully run company. We have a strong 
+group of Directors with a broad range of 
+relevant public company, fi nance and information 
+technology experience, a balance that results in 
+eff ective collective decision making.  The balance 
+between Executive and Independent Directors was 
+considered during the formation of the Board, with 
+appointments made based on management’s 
+desire to add complementary skills and 
+independent perspective to the Board. Brief 
+biographies of all Directors can be 
+found on pages 18 to 19.
+Culture
+The Board closely monitors developments 
+in corporate governance and assesses how 
+these can be applied to ECSC and how we can 
+embed them within the culture of the Company. The 
+Board believes that sound governance is essential to 
+protecting shareholder value and the sustainable growth of 
+the business. Strong governance is also a foundation stone 
+for a healthy corporate culture of values, attitudes and 
+behaviours, not only within an organisation’s daily 
+operations, but also in its relations with its all of its 
+stakeholders. As a Board, we recognise that standards 
+are set from the top and that the Directors must lead 
+by example to ensure that excellent standards 
+permeate throughout all levels of the 
+Company. @

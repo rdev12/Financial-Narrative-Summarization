@@ -1,0 +1,240 @@
+ CEO’s statement 04 
+ 
+CEO’s statement 
+ 
+In line with Bango's strategy to focus on smartphones, a key 
+development for the year has been the success and momentum 
+we are experiencing in enabling mobile operator payments for 
+‘mobile applications’ (apps) for smartphone users.  
+Bango is now selling content to BlackBerry users in many 
+countries by enabling them to buy applications in the 
+BlackBerry App Store (called ‘BlackBerry App World’) using 
+their mobile phone bill. This increases the value of sales 
+through BlackBerry App World, giving developers a stronger 
+motivation to target the BlackBerry platform. Bango is 
+expanding this capability across dozens of new mobile 
+operators around the world.  
+The ability of the Bango system to provide a common 
+connection point to dozens of diverse billing systems from 
+mobile operators around the world, coupled with the automated 
+settlement, currency and tax management, risk management 
+and reporting systems to deliver payments to thousands of 
+content providers is a powerful tool for any business building an 
+app store. 
+End user spend from the smartphone and app store sector grew 
+during the year, but not enough to offset the decline in the 
+feature phone market over the year. Correspondingly, total end 
+user spending and the gross margin on that revenue declined 
+over the year. However, as app store revenues continued to 
+accelerate, total end user spend returned to growth in May and 
+has continued to grow since then. 
+Bango relationship with BlackBerry and additional 
+app stores  
+Bango provides mobile network operator (''carrier'') billing for 
+BlackBerry App World. The first mobile operator, AT&T, went 
+live towards the end of the first half, enabling BlackBerry 
+application developers to benefit from increased revenues. 
+During the second half, Bango connected and commissioned 
+many new mobile operators, both in its pool of existing 
+connections, such as Vodafone UK and T-Mobile USA and new 
+connections, and a small number of these were active at the 
+year end.  
+In January 2011 the overall value of sales through the 
+BlackBerry App World surpassed any one of Bango's traditional 
+content providers. As of June 2011 they have grown to more 
+than our top three traditional content providers combined.  
+Shortly after the year end, Bango announced its second major 
+app store agreement - providing operator billing for the Opera 
+Mobile Store. This is provided as part of Opera’s browser to 
+more than 100 million users around the world. 
+App stores can use any of the active Bango mobile operator 
+billing integrations and Bango connects new mobile operators 
+as required for our app store customers. More than 60 
+additional mobile operator integrations are now in progress. The 
+integrations involve not only technical connection, but also may 
+involve three way commercials involving the operator, Bango 
+and the app store. The processes for cash collection, tax 
+treatments and reconciliation are also set up in Bango's 
+automatic systems to ensure high volumes of transactions can 
+be processed at low cost.  
+Bango is actively progressing significant opportunities with 
+additional app store providers, which will also have benefits for 
+our other customers, including RIM and traditional content 
+providers, as Bango scales out into other territories with these 
+new prospects. Bango payment technology will soon appear in 
+new markets such as Indonesia, Mexico and the Middle East, 
+markets where mobile content is a passion for the young mobile 
+customer base. 
+We have been extremely encouraged by the quick uptake of 
+Bango's payment platform by BlackBerry app developers, the 
+success that BlackBerry developers are seeing on this important 
+smartphone platform, and the interest in Bango technology 
+from other large industry players. 
+A wide range of applications are being sold. These include 
+business tools and services, communications and time 
+management utilities and a broad range of eBooks and audio 
+books, alongside a wide selection of games. 
+Bango looks forward to being able to update the market as 
+these relationships develop. 
+Sales of content for feature phones 
+The sales of mobile content and services to primarily feature 
+phone users has, as previously discussed, been impacted by 
+industry factors - primarily relating to consumer refund policies 
+of US mobile operators. Bango believes that the opportunity for 
+growth in this market is limited, and therefore action has been 
+taken to reduce costs in this area while still retaining the 
+capacity to support our largest content providers. This will 
+ensure that this sector of the business generates cash and 
+profit going forward. 
+Bango's largest traditional content providers in the feature 
+phone sector are also consolidating and shifting to address the 
+smartphone opportunity. The ‘long tail’ of smaller content 
+providers is being directed towards the app stores where 
+Bango's payment services are usable indirectly at lower cost to 
+Bango.  
+The growth of Android 
+Canalys reported that in Q4 2010, Android powered 
+smartphones became the fastest selling with 33% share of 
+smartphone shipments, ahead of Nokia (31%) iPhone (16%) 
+and BlackBerry (14%). Google provides an app store called 
+Android Market for Android, but there are other app stores 
+being developed to target the fast growing Android user base. 
+iPhone users are restricted by Apple in their choice of content 
+and apps, and how they can be marketed and sold, but Android 
+enables much more choice and innovation. This represents a 
+significant opportunity for Bango. App stores using mobile 
+operator billing provided by Bango demonstrate significant 
+extra sales volume.  05 CEO’s statement  
+ 
+ 
+ 
+Product development  
+There have been three areas of activity for Bango product 
+development during the year: 
+(1) Operational scalability in the payment network 
+With increasing numbers of mobile operators connecting to 
+Bango, the technology used to manage risk and ensure 
+transactions can be processed in volume at very low cost has 
+been developed significantly over the year. 
+ 
+(2) New Bango Payment and Analytics services 
+New services include innovative ways to identify and 
+authenticate Android and other devices to enable secure mobile 
+payments and the provision of ‘in-application toolkits’ to enable 
+the collection of detailed analytical data from within running 
+applications across smartphones including iPhone, Android, 
+BlackBerry, Windows Phone 7 and Nokia. In addition, the 
+technology has been adapted to better serve larger screen 
+‘tablet’ devices such as Apple iPad and BlackBerry Playbook. 
+In addition to payments collected by mobile websites, Bango 
+has also introduced products to support payment collection 
+from within mobile applications (apps). The popularity of 
+mobile applications is driving more developers and content 
+providers to commit resources to developing mobile 
+applications, as another channel to engage with consumers and 
+generate revenue. According to Juniper Research, mobile 
+application revenues will be worth £25 billion in 2014. 
+(3) R&D to support growing transaction volumes and 
+numbers of customers 
+Bango has deployed new hardware and data-warehouse 
+technologies to support increasing usage volumes. New services 
+were developed to allow partners, such as RIM, to create 
+customer accounts in the Bango system using their sign-up 
+processes, to enable rapid on-boarding of thousands of new 
+customers to the Bango system without manual involvement at 
+Bango. 
+Bango regularly reviews procedures, capabilities and scalability 
+plans with larger partners and content providers to be able to 
+meet their present and future needs. 
+As well as expecting considerable growth in revenue from 
+smartphones, Bango has seen rapid growth in volumes of 
+analytics transactions from our largest customers, with volume 
+in March 2011 being 4.3 times higher than in March 2010.  
+The current system architecture and data centres are scalable 
+to sustained transaction volumes more than ten times those 
+being seen today. At the end of 2010 a project was initiated to 
+design and plan a transition to a next generation platform that 
+will enable Bango to quickly and economically further scale up 
+capacity which may be required.  
+Financial performance 
+Gross revenue in FY2011 reduced by 26% to £19.3m 
+compared with the previous year, with revenue in the second 
+half of the year at £8.72m compared with £10.6m in the first 
+half year. Revenue from outside the UK accounted for 83.5% 
+(£16.1m) of total revenue for the year, up from 83.2% 
+(£21.7m) in the previous year. 
+Gross profit in the second half grew 7% compared with the first 
+half, to give a gross profit for the year of £2.49m.  
+End user revenue reduced by 29% year on year, 22% half on 
+half. Gross profit on end user activity reduced by 48% to 
+£0.64m from £1.23m, whilst margin percentage reduced from 
+5.0% to 3.7% because the costs of providing connections to 
+payment providers, charged to cost of sales, are fixed even if 
+sales volumes decrease.  
+Gross profit from other fees increased by £0.4m to £1.85m 
+reflecting app store revenues and growth in analytics revenues, 
+which increased from £0.13m to £0.33m. 
+During the second half of the year and after the year end, 
+Bango reduced certain sales, marketing and technical support 
+functions related to the feature phone business. One time costs 
+associated with some of these reductions, recognized in the 
+year ending 31 March 2011 amounted to approximately 
+£0.12m. The cost saving in the following financial year is 
+expected to be £0.3m, ensuring that the legacy feature phone 
+business continues to be cash and margin generative. 
+The increase in gross profit in the second half and the return to 
+an underlying profit - after allowing for the expenses associated 
+in acceleration of the transition, recognition of £0.11m of 
+profit from mobile operator connections, and a slightly faster 
+depreciation rate - demonstrates progress with our newer, larger 
+customers. 
+Administrative expenses increased by £0.37m (12.3%) to 
+£3.22m from £2.85m in the previous year with increased 
+depreciation and amortization accounting for £0.15m of the 
+increase. 
+The loss before tax was £0.84m, compared with the loss of 
+£0.25m in FY10, with £0.46m arising in the first half of the 
+year and £0.38m in the second half year.  
+After an R&D tax credit of £0.22m and payment of US taxes of 
+£0.08m, the loss after tax £0.696m.  
+The cash used by operating activities for the year was £1.16m 
+(£0.04m) broadly in line with the loss for the year plus some 
+consumption of positive working capital arising from the 
+reduction in end user spend. 
+Expenditure on assets totaled £1.11m (£1.04m), including 
+£1.03m (£0.88m) on internal R&D mainly on projects relating 
+to operational scalability in future periods. 
+In January 2011 the Company raised £2.4m before expenses 
+by the issue of new ordinary shares at a price of 135 pence per 
+share.  
+At 31 March 2011 Bango had cash balances of £2.71m 
+(£2.74m).  CEO’s statement 06 
+ 
+ 
+ 
+Strategy and outlook for FY ending March 2012  
+Bango's strategy is to leverage its central position as a 
+payments network in the smartphone marketplace and the 
+Board believes it is well positioned to benefit from the 
+increased level of business activity in this space. With 
+considerable technical and commercial investment made to 
+date, the Bango platform can handle significant increases in 
+transaction volumes without the need for major additional 
+capital or operational expenditure.  
+Bango expects to see continued revenue growth in both end 
+user activity and other fees, driven by an increasing number of 
+content providers and a growing volume of transactions from 
+existing content providers.  
+Bango is supporting RIM to drive the success of the BlackBerry 
+App World. Enabling success for thousands of BlackBerry app 
+developers brings many benefits to RIM, mobile operators and 
+Bango. It is Bango's intention to support Android, iPhone and 
+Nokia developers, as well as those on other platforms, either 
+directly or through the major app stores. 
+On behalf of the Board, I would like to express my gratitude to 
+Bango's partners and employees for their continued support. 
+Working with mobile operators, content providers, billing 
+companies and other commercial partners and investors, Bango 
+looks forward to increasing success in the year ahead.  
+Ray Anderson  
+Chief Executive Officer 

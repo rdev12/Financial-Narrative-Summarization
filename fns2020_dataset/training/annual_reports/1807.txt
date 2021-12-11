@@ -1,0 +1,3379 @@
+ Annual Report 2011  
+ 
+ 
+ 
+ 
+Bango is the leading provider of mobile payment and 
+analytics technology for businesses targeting users of 
+internet enabled mobile devices.  
+ 
+Bango’s unique technology and operator relationships, 
+plus millions of consumer profiles worldwide, enable 
+businesses and developers to market and sell digital 
+content more effectively to mobile device users. 
+ 
+With over 5 billion mobile phones worldwide, Bango 
+Payment technology leverages operator billing, credit 
+cards, PayPal plus unique ‘social payment’ 
+functionality, enabling any phone user to purchase 
+content and services from their device using the 
+optimum payment method available to them. 
+ 
+Bango Analytics provides website owners and app 
+developers with the most accurate and detailed 
+information available. The technology delivers business 
+critical insights into how customers visit mobile sites 
+and use mobile applications.  
+ 
+Content and services are becoming digitized at an ever 
+increasing rate and the internet usage model is 
+becoming dominated by mobile devices. Bango is a 
+key technology provider in this evolving, fast growing, 
+global industry. 
+  01 Contents  
+ 
+ 
+ Contents ………………………………………………………………… 1 
+ Highlights ………………………………………………………………. 2 
+ Chairman’s statement ……………………………………………..…. 3 
+ CEO’s statement …………………………………………………….... 4 
+ Success stories ……………………………………………………….. 7 
+ Products ………………………………………………………………... 9 
+ Business model ……………………………………………………..... 9 
+ Key market developments ……………………………………………. 9 
+ Directors ………………………………………………………………... 11 
+ Company information …………………………………………………. 13 
+ Directors’ report ……………………………………………………….. 14 
+ Corporate governance statement ………………………………......... 17 
+ Remuneration Committee report …………………………………….. 18 
+ Independent auditor’s report to the members of Bango PLC ..……. 19 
+ Consolidated balance sheet …..………………………………………. 20 
+ Consolidated statement of comprehensive income ………………… 21 
+ Consolidated cash flow statement …………………………………… 22 
+ Consolidated statement of changes in equity ………………………. 23 
+ Notes to the financial statements ……………………………………. 24 
+ Independent auditor’s report to the members of Bango PLC …… 40 
+ Company balance sheet ……………………………………………..... 41 
+ Notes to the financial statements ……………………………………. 42   
+Highlights 02 
+ 
+Highlights  
+Financial highlights 
+• Gross profit grew 7% to £1.29m in second half (H2) from 
+£1.21m in H1, giving a total for the year of £2.49m 
+(£2.67m) 
+• EBITDA for the year showed a deficit of £0.5m (£0.1m) 
+with the deficit reduced from £0.3m in H1 to £0.2m in 
+H2 
+• H2 underlying positive EBITDA (before share-based 
+payments) after adjusting for £0.12m costs to accelerate 
+sales model transition and £0.11m additional profit 
+recognition for operator integrations 
+• Loss after tax £0.70m (£0.01m profit) with H2 loss of 
+£0.27m improved from H1 loss of £0.43m  
+• Cash balance of £2.71m as at 31 March 2011 (£2.74m 
+at 31 March 2010) 
+• Revenue for the year of £19.3m (£26.1m) with low 
+margin end user activity down 29% to £17.46m 
+(£24.69m) and high margin revenues up 29% to £1.86m 
+(£1.44m) 
+ 
+(comparative data for FYE 31 March 2010 except where indicated) 
+Operational highlights 
+• Business re-focused on high growth, higher margin 
+smartphone market 
+• Agreement with RIM to provide billing and settlement 
+for BlackBerry App World  
+• More than 60 new, direct carrier integrations now 
+underway 
+• Announced second major app store agreement – Opera - 
+in June 2011 
+• Successful launch of operator billing for BlackBerry App 
+World in multiple markets 
+• Further app store business won with global mobile 
+content providers 
+• Major Bango Analytics customers, including Turner, 
+extend use of technology and deepen commitment 
+• New operator engagements including Vodafone Global 
+Payments gateway, Telefónica O2 for analytics and 
+Telecom New Zealand for payments and age verification 
+services 
+• Major new users including McDonalds, Sears, 
+PlayPhone and Glu Mobile 
+Bango Analytics growth Content provider growth  03 Chairman’s statement  
+ 
+Chairman’s statement 
+ 
+This is my first report as Bango's Chairman, having been 
+appointed on 1 April 2011, following the retirement of Lindsay 
+Bury. The Board would like to thank Lindsay for his contribution to 
+Bango over the past 10 years and wishes him well in his 
+retirement. 
+The year was one of transition for both Bango and the market it 
+serves. Since inception, Bango has applied its technology and 
+marketing across all internet enabled phones. To date, the 
+majority of these were so called ‘feature phones’ which had 
+limited local processing power and therefore the most common 
+content types were relatively low value items such as ringtones, 
+short videos and simple games.  
+Traditionally, smartphones, with much richer capabilities, touch 
+interfaces and a powerful operating system, such as the iPhone, 
+occupied a smaller niche due to their high price. However, during 
+the last year or so, with the increasing success of Apple, 
+BlackBerry and Android powered devices, and lower prices for 
+entry level models it is becoming clear that smartphones are set to 
+be a major, if not the dominant, segment of the market.  
+According to IDC, the global smartphone market will grow by 55 
+percent in 2011 to 472 million units as people upgrade from 
+feature phones to smartphones. Gartner reported that in Q1 2011, 
+smartphones accounted for 23.6 percent of overall sales of 428 
+million mobile phones, an increase of 85 percent year-on-year. 
+During the year Bango began a transition in its business to focus 
+on this smartphone opportunity. It focused on providing its 
+technology and relationships to major ‘app stores’ providing 
+applications for smartphones and to major publishers targeting 
+smartphones with valuable services and applications.  
+Bango serves a large and growing market. The worldwide mobile 
+content market is expected to surpass $64 billion by 2012, up 
+from $20 billion in 2007, according to Juniper Research. In 
+2009, mobile application download revenue exceeded $4.2 
+billion, reports Gartner, with a prediction of revenue growing to 
+$29.5 billion by the end of 2013. Major mobile phone 
+manufacturers, mobile operators and internet businesses are 
+driving the uptake of the mobile internet. 
+Bango has unique and proven technology which is at the heart of 
+its payment network. Unlike some ‘mobile payment’ companies, 
+which focus on payment for content delivered to a PC from a 
+user’s phone bill, Bango focuses on services and apps purchased 
+on and delivered to the mobile device.   
+Coupled with mobile operator relationships and traction with the 
+largest players in the industry, this gives Bango, a competitive 
+advantage. Bango technology handles the current generation of 
+downloadable apps, with charging for download during the use of 
+the application and subscription based services. Bango technology 
+also works with newer HTML5 web technology which is expected 
+to become more important in the coming years. 
+With major players such as Apple, Google and Microsoft battling to 
+gain a position in this key marketplace, the competitive pressures 
+on app stores to perform effectively should drive more 
+opportunities for Bango. 
+During the year, Bango appointed Rudy Berger as a Non-Executive 
+Director. He has extensive relevant experience in strategic 
+planning and international business development, and is based in 
+Silicon Valley. Rudy's experience and independent perspective has 
+already proved valuable as Bango's relationships with larger 
+companies on the US west coast become increasingly significant. 
+I would like to thank Bango's employees and partners for their 
+unswerving efforts to make Bango a key player in this exciting, 
+fast-growing, global industry. 
+David Sear 
+Chairman CEO’s statement 04 
+ 
+CEO’s statement 
+ 
+In line with Bango's strategy to focus on smartphones, a key 
+development for the year has been the success and momentum 
+we are experiencing in enabling mobile operator payments for 
+‘mobile applications’ (apps) for smartphone users.  
+Bango is now selling content to BlackBerry users in many 
+countries by enabling them to buy applications in the 
+BlackBerry App Store (called ‘BlackBerry App World’) using 
+their mobile phone bill. This increases the value of sales 
+through BlackBerry App World, giving developers a stronger 
+motivation to target the BlackBerry platform. Bango is 
+expanding this capability across dozens of new mobile 
+operators around the world.  
+The ability of the Bango system to provide a common 
+connection point to dozens of diverse billing systems from 
+mobile operators around the world, coupled with the automated 
+settlement, currency and tax management, risk management 
+and reporting systems to deliver payments to thousands of 
+content providers is a powerful tool for any business building an 
+app store. 
+End user spend from the smartphone and app store sector grew 
+during the year, but not enough to offset the decline in the 
+feature phone market over the year. Correspondingly, total end 
+user spending and the gross margin on that revenue declined 
+over the year. However, as app store revenues continued to 
+accelerate, total end user spend returned to growth in May and 
+has continued to grow since then. 
+Bango relationship with BlackBerry and additional 
+app stores  
+Bango provides mobile network operator (''carrier'') billing for 
+BlackBerry App World. The first mobile operator, AT&T, went 
+live towards the end of the first half, enabling BlackBerry 
+application developers to benefit from increased revenues. 
+During the second half, Bango connected and commissioned 
+many new mobile operators, both in its pool of existing 
+connections, such as Vodafone UK and T-Mobile USA and new 
+connections, and a small number of these were active at the 
+year end.  
+In January 2011 the overall value of sales through the 
+BlackBerry App World surpassed any one of Bango's traditional 
+content providers. As of June 2011 they have grown to more 
+than our top three traditional content providers combined.  
+Shortly after the year end, Bango announced its second major 
+app store agreement - providing operator billing for the Opera 
+Mobile Store. This is provided as part of Opera’s browser to 
+more than 100 million users around the world. 
+App stores can use any of the active Bango mobile operator 
+billing integrations and Bango connects new mobile operators 
+as required for our app store customers. More than 60 
+additional mobile operator integrations are now in progress. The 
+integrations involve not only technical connection, but also may 
+involve three way commercials involving the operator, Bango 
+and the app store. The processes for cash collection, tax 
+treatments and reconciliation are also set up in Bango's 
+automatic systems to ensure high volumes of transactions can 
+be processed at low cost.  
+Bango is actively progressing significant opportunities with 
+additional app store providers, which will also have benefits for 
+our other customers, including RIM and traditional content 
+providers, as Bango scales out into other territories with these 
+new prospects. Bango payment technology will soon appear in 
+new markets such as Indonesia, Mexico and the Middle East, 
+markets where mobile content is a passion for the young mobile 
+customer base. 
+We have been extremely encouraged by the quick uptake of 
+Bango's payment platform by BlackBerry app developers, the 
+success that BlackBerry developers are seeing on this important 
+smartphone platform, and the interest in Bango technology 
+from other large industry players. 
+A wide range of applications are being sold. These include 
+business tools and services, communications and time 
+management utilities and a broad range of eBooks and audio 
+books, alongside a wide selection of games. 
+Bango looks forward to being able to update the market as 
+these relationships develop. 
+Sales of content for feature phones 
+The sales of mobile content and services to primarily feature 
+phone users has, as previously discussed, been impacted by 
+industry factors - primarily relating to consumer refund policies 
+of US mobile operators. Bango believes that the opportunity for 
+growth in this market is limited, and therefore action has been 
+taken to reduce costs in this area while still retaining the 
+capacity to support our largest content providers. This will 
+ensure that this sector of the business generates cash and 
+profit going forward. 
+Bango's largest traditional content providers in the feature 
+phone sector are also consolidating and shifting to address the 
+smartphone opportunity. The ‘long tail’ of smaller content 
+providers is being directed towards the app stores where 
+Bango's payment services are usable indirectly at lower cost to 
+Bango.  
+The growth of Android 
+Canalys reported that in Q4 2010, Android powered 
+smartphones became the fastest selling with 33% share of 
+smartphone shipments, ahead of Nokia (31%) iPhone (16%) 
+and BlackBerry (14%). Google provides an app store called 
+Android Market for Android, but there are other app stores 
+being developed to target the fast growing Android user base. 
+iPhone users are restricted by Apple in their choice of content 
+and apps, and how they can be marketed and sold, but Android 
+enables much more choice and innovation. This represents a 
+significant opportunity for Bango. App stores using mobile 
+operator billing provided by Bango demonstrate significant 
+extra sales volume.  05 CEO’s statement  
+ 
+ 
+ 
+Product development  
+There have been three areas of activity for Bango product 
+development during the year: 
+(1) Operational scalability in the payment network 
+With increasing numbers of mobile operators connecting to 
+Bango, the technology used to manage risk and ensure 
+transactions can be processed in volume at very low cost has 
+been developed significantly over the year. 
+ 
+(2) New Bango Payment and Analytics services 
+New services include innovative ways to identify and 
+authenticate Android and other devices to enable secure mobile 
+payments and the provision of ‘in-application toolkits’ to enable 
+the collection of detailed analytical data from within running 
+applications across smartphones including iPhone, Android, 
+BlackBerry, Windows Phone 7 and Nokia. In addition, the 
+technology has been adapted to better serve larger screen 
+‘tablet’ devices such as Apple iPad and BlackBerry Playbook. 
+In addition to payments collected by mobile websites, Bango 
+has also introduced products to support payment collection 
+from within mobile applications (apps). The popularity of 
+mobile applications is driving more developers and content 
+providers to commit resources to developing mobile 
+applications, as another channel to engage with consumers and 
+generate revenue. According to Juniper Research, mobile 
+application revenues will be worth £25 billion in 2014. 
+(3) R&D to support growing transaction volumes and 
+numbers of customers 
+Bango has deployed new hardware and data-warehouse 
+technologies to support increasing usage volumes. New services 
+were developed to allow partners, such as RIM, to create 
+customer accounts in the Bango system using their sign-up 
+processes, to enable rapid on-boarding of thousands of new 
+customers to the Bango system without manual involvement at 
+Bango. 
+Bango regularly reviews procedures, capabilities and scalability 
+plans with larger partners and content providers to be able to 
+meet their present and future needs. 
+As well as expecting considerable growth in revenue from 
+smartphones, Bango has seen rapid growth in volumes of 
+analytics transactions from our largest customers, with volume 
+in March 2011 being 4.3 times higher than in March 2010.  
+The current system architecture and data centres are scalable 
+to sustained transaction volumes more than ten times those 
+being seen today. At the end of 2010 a project was initiated to 
+design and plan a transition to a next generation platform that 
+will enable Bango to quickly and economically further scale up 
+capacity which may be required.  
+Financial performance 
+Gross revenue in FY2011 reduced by 26% to £19.3m 
+compared with the previous year, with revenue in the second 
+half of the year at £8.72m compared with £10.6m in the first 
+half year. Revenue from outside the UK accounted for 83.5% 
+(£16.1m) of total revenue for the year, up from 83.2% 
+(£21.7m) in the previous year. 
+Gross profit in the second half grew 7% compared with the first 
+half, to give a gross profit for the year of £2.49m.  
+End user revenue reduced by 29% year on year, 22% half on 
+half. Gross profit on end user activity reduced by 48% to 
+£0.64m from £1.23m, whilst margin percentage reduced from 
+5.0% to 3.7% because the costs of providing connections to 
+payment providers, charged to cost of sales, are fixed even if 
+sales volumes decrease.  
+Gross profit from other fees increased by £0.4m to £1.85m 
+reflecting app store revenues and growth in analytics revenues, 
+which increased from £0.13m to £0.33m. 
+During the second half of the year and after the year end, 
+Bango reduced certain sales, marketing and technical support 
+functions related to the feature phone business. One time costs 
+associated with some of these reductions, recognized in the 
+year ending 31 March 2011 amounted to approximately 
+£0.12m. The cost saving in the following financial year is 
+expected to be £0.3m, ensuring that the legacy feature phone 
+business continues to be cash and margin generative. 
+The increase in gross profit in the second half and the return to 
+an underlying profit - after allowing for the expenses associated 
+in acceleration of the transition, recognition of £0.11m of 
+profit from mobile operator connections, and a slightly faster 
+depreciation rate - demonstrates progress with our newer, larger 
+customers. 
+Administrative expenses increased by £0.37m (12.3%) to 
+£3.22m from £2.85m in the previous year with increased 
+depreciation and amortization accounting for £0.15m of the 
+increase. 
+The loss before tax was £0.84m, compared with the loss of 
+£0.25m in FY10, with £0.46m arising in the first half of the 
+year and £0.38m in the second half year.  
+After an R&D tax credit of £0.22m and payment of US taxes of 
+£0.08m, the loss after tax £0.696m.  
+The cash used by operating activities for the year was £1.16m 
+(£0.04m) broadly in line with the loss for the year plus some 
+consumption of positive working capital arising from the 
+reduction in end user spend. 
+Expenditure on assets totaled £1.11m (£1.04m), including 
+£1.03m (£0.88m) on internal R&D mainly on projects relating 
+to operational scalability in future periods. 
+In January 2011 the Company raised £2.4m before expenses 
+by the issue of new ordinary shares at a price of 135 pence per 
+share.  
+At 31 March 2011 Bango had cash balances of £2.71m 
+(£2.74m).  CEO’s statement 06 
+ 
+ 
+ 
+Strategy and outlook for FY ending March 2012  
+Bango's strategy is to leverage its central position as a 
+payments network in the smartphone marketplace and the 
+Board believes it is well positioned to benefit from the 
+increased level of business activity in this space. With 
+considerable technical and commercial investment made to 
+date, the Bango platform can handle significant increases in 
+transaction volumes without the need for major additional 
+capital or operational expenditure.  
+Bango expects to see continued revenue growth in both end 
+user activity and other fees, driven by an increasing number of 
+content providers and a growing volume of transactions from 
+existing content providers.  
+Bango is supporting RIM to drive the success of the BlackBerry 
+App World. Enabling success for thousands of BlackBerry app 
+developers brings many benefits to RIM, mobile operators and 
+Bango. It is Bango's intention to support Android, iPhone and 
+Nokia developers, as well as those on other platforms, either 
+directly or through the major app stores. 
+On behalf of the Board, I would like to express my gratitude to 
+Bango's partners and employees for their continued support. 
+Working with mobile operators, content providers, billing 
+companies and other commercial partners and investors, Bango 
+looks forward to increasing success in the year ahead.  
+Ray Anderson  
+Chief Executive Officer  07 Success stories  
+ 
+Success stories 
+ 
+With our unique technology and key partnerships we have helped leading app stores, mobile businesses and brands become successful 
+on mobile. Our mobile billing and analytics solutions enable them to market and sell more mobile content and services. Here are some of 
+our success stories. 
+ 
+ 
+ 
+ 
+ 
+ 
+GoSpoken 
+GoSpoken is an innovative digital bookshop offering e-books and 
+audio books designed for mobile phones and tablets. Customers 
+are able to make purchases from the extensive catalogue of 
+bestseller titles and download them straight to their mobile 
+device. The business started in 2007 and counts former British 
+special services soldier and best selling author Andy McNab 
+amongst its founders. 
+GoSpoken use Bango to provide customers with a quick and easy 
+way to purchase e-books and audio books by placing a charge on 
+their mobile phone bill. This click-to-pay consumer experience is 
+seamless and secure, maximizing conversion rates and delivering 
+a marked increase in sales for GoSpoken. 
+Telefónica UK 
+Telefónica UK is a leading communications company for 
+consumers and businesses in the UK, with over 22 million 
+mobile customers through the O2 brand. Through its O2 Active 
+mobile site, O2 offers subscribers a personalized service with fast 
+access to a wide range of leading content including Facebook, 
+Twitter, BBC news and Sky Sports, among others.  
+Bango provides Telefónica UK with advanced, real-time mobile 
+analytics to deliver insights into customer interactions across all 
+of their mobile websites. Powerful filtering tools enable fast and 
+flexible analysis, supporting a wide variety of viewpoints into the 
+data. Telefónica UK gains visibility into both their own 
+subscribers and prospective customers coming from different 
+networks and over Wi-Fi. With Bango Analytics Telefónica UK 
+can quickly and easily optimize the content and services across 
+each mobile site, delivering a much improved user experience. 
+Dada 
+Dada Entertainment is an international leader in community and 
+entertainment services for web and mobile. Dada’s latest 
+MusicBox mobile application gives users access to a massive 
+library of content containing over 100,000 of the hottest 
+ringtones and wallpapers, updated on a daily basis. 
+Dada use Bango mobile billing within their MusicBox application 
+to present customers with a seamless in-app payment experience. 
+Android customers on AT&T and T-Mobile are able to place a 
+charge on their mobile phone bill and download the latest 
+ringtones and wallpapers directly to their mobile device from the 
+application. 
+ 
+ 
+ 
+ 
+ 
+ 
+Opera 
+The Opera Mobile Store is one of the top ten app stores for 
+mobile phone users available worldwide today. The store is 
+quickly and easily accessed through a single-click from the 
+Opera Mini or Opera Mobile browsers, making it immediately 
+accessible to more than 100 million customers. The Opera 
+Mobile Store is also accessible through any other mobile 
+browser by going to mobilestore.opera.com. Every Opera 
+Mobile Store user will discover apps and content targeting 
+their specific mobile device, local market and currency. 
+Bango enables Opera Mobile Store customers to purchase 
+apps and pay for content within apps on their mobile phone 
+bill or through a credit card. Bango delivers the optimal 
+payment experience for each individual customer wherever 
+they are, maximizing revenues for developers.  
+RIM (Research in Motion) 
+BlackBerry App World is one of the largest global app stores 
+providing over 40 million BlackBerry smartphone users with 
+access to all the latest mobile applications for their devices. 
+Many apps are pay to use, customers can either pay to 
+download the app or download for free and then pay to unlock 
+specific features and content.  
+RIM chose to partner with Bango to enable customers to 
+apply charges for apps directly to their mobile phone bill. 
+Bango provides all operator billing, using the Bango mobile 
+payments platform to activate new connections in BlackBerry 
+markets worldwide.   
+In addition, Bango acts as the merchant of record for 
+BlackBerry App World content sales. All connection, 
+collection, reporting and settlement tasks are performed by 
+Bango as RIM’s payments global partner for operator-billed 
+payments.    
+ 
+ 
+ 
+         Success stories 08 
+ 
+ 
+  09 Products, Business model, Key market developments  
+ 
+Products 
+ 
+Bango delivers a complete billing and analytics solution for app 
+stores, mobile apps and websites.  
+Bango Payment delivers everything from simple pay-to-
+download solutions through to advanced subscription services. 
+We provide the latest direct operator billing technology 
+worldwide, along with credit card, debit card and PayPal 
+connections designed to exceed even the most demanding, 
+large-scale app store, in-app and web payment requirements. 
+Bango takes care of all the merchant of record, taxation and 
+settlement complexities, handles large-scale developer on-
+boarding with automatic account creation and mass out 
+payment of earnings.  
+We deliver detailed real-time reporting to app store owners and 
+developers, covering payments, refunds and app or website use, 
+as well as comprehensive marketing campaign measurement. 
+Detailed customer care tools allow fast transaction lookup from 
+mobile number, with easy refund and subscription 
+management, everything you need to give your customers the 
+best possible experience. 
+Bango Analytics provides a complete end-to-end measurement 
+solution designed to excel in today’s world of mobile internet, 
+smartphones and tablets. It delivers accurate, independent 
+customer insights from the initial point of contact within 
+marketing campaigns through website navigation and app 
+usage to specific goals. 
+Bango leverages unique relationships with mobile network 
+operators, handset manufacturers and browser developers to 
+deliver over 8 times greater accuracy than traditional PC 
+analytics solutions. Our server-based user identification 
+technology returns an anonymous, persistent User ID for all 
+customers each time they visit any website or application – 
+giving you a consistent view across all your properties.  
+Real-time, ad-hoc reporting with advanced filtering and 
+segmentation of data, allows you to quickly get to the important 
+facts in the way you want.  
+Bango Analytics makes it easy to understand customer’s paths 
+and behavior across all your websites or applications, while our 
+unique mobile data delivers precise details about each 
+customer’s carrier, including virtual network operators such as 
+Virgin Mobile, and their connections, including Wi-Fi. 
+Business model 
+Bango sells content to end users. Bango pays the variable costs 
+charged by payment providers and pays a pre-agreed amount to 
+the content provider for each sale. The remaining part of each 
+transaction is retained by Bango. Fixed percentages are not 
+earned on each transaction – on average 2% is retained for 
+high volume customers, while 5% is retained at low volume 
+levels. 
+Bango also charges monthly fees for the platform functionality 
+along with custom integration and consultancy fees. Fees vary 
+from a few dollars to thousands of dollars a month depending 
+on the range and flexibility of services required. Integration and 
+consultancy fees are priced to meet specific customer 
+requirements. 
+ 
+With Bango Analytics, a monthly fee is paid depending on the 
+volume of data being recorded, stored and analyzed. 
+Additionally a fee for advanced functionality and user accounts 
+is applied. Typical monthly fees start from £29 ($49) per 
+month, while enterprise customers pay upwards of £3,000 - 
+£6,000 ($5,000 - $10,000) per month depending on data 
+volumes and specific requirements.  
+A range of Bango services are available without charge for 
+testing or for small scale users. Most services are purchased on 
+a recurring monthly basis, but annual contracts are available for 
+our larger scale offerings where service level agreements and 
+long form contracts are required. 
+Key market 
+developments 
+The battle to establish the mobile smartphone standard has 
+been the defining feature of this last year. The market 
+opportunity – there are now over 5 billion mobile phone users 
+worldwide (source: GSMA) – is driving significant investment in 
+devices and services that increase mobile phone usage, 
+including mobile commerce services. Significant developments 
+include: 
+• The ascendency of Google’s Android smartphone operating 
+system. The rate of growth in North America now exceeds the 
+iPhone 
+• The popularity of RIM BlackBerry devices in emerging 
+markets. The overall decline in the popularity of Nokia 
+devices, the company has yet to deliver a competitive 
+smartphone product 
+• More mobile content ‘app stores’ are being rolled-out as 
+device makers present a package of services around their 
+smartphone products 
+• Device independent app stores are attractive for developers, 
+offering a cross-platform channel to market and better 
+merchandizing support than manufacturers can provide. App 
+store vendors include Amazon and mobile browser maker 
+Opera Software provide these 
+• M&A activity in the mobile payments sector, as big payment 
+processors including Visa, American Express and PayPal look 
+for positioning and know-how in the sector 
+• Nokia shake-up steps up a gear through closer alignment with 
+the Windows Phone 7 platform. Expect further downsizing 
+during the current year 
+• Mobile web adopted as a strategic differentiator by Google, 
+Yahoo, HP, RIM, Opera and others. Outside of Apple iOs, 
+more browser based service delivery to mobile devices is 
+happening 
+• The return of paid mobile content after a period in which 
+advertising-funding was positioned as the business model for 
+content   
+ 
+ 
+Products, Business model, Key market developments 10  
+11 Directors  
+ 
+Directors             
+ 
+ 
+ 
+ 
+Ray has over 25 years experience in starting, growing and selling
+businesses. He was named ‘Technology Entrepreneur of the Year’ 
+in February 2006. Ray co-founded Bango in 1999 after realizing 
+that the convergence of the internet with the ubiquity of mobile 
+phones could open up huge opportunities for content and service 
+providers. In 1988, Ray established IXI which created the industry 
+standard network GUI - X.desktop. IXI was an early leader in the 
+creation of the web. It sponsored the first ever WWW conference at 
+CERN and shipped the world’s first commercial web browser. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anil is a highly experienced, senior marketing and business 
+development manager, with over 20 years experience in building 
+entrepreneurial, fast-growth start-up businesses in the internet, 
+software publishing and technology sectors. He co-founded Bango 
+with Ray Anderson in 1999 and was formerly with IXI, where Anil 
+won worldwide deals with US, Japanese and European industry 
+giants including IBM, Digital and Sun Microsystems. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Peter provides the financial leadership, direction and policy 
+guidance to the Company as it continues to grow rapidly. He has 
+over 25 years experience in all financial disciplines including 
+accounting, fund-raising and acquisitions. From 1996 to 2001 he 
+was Finance Director at PayPoint, the UK’s leading branded utility 
+bill payment Company. From start-up, Peter was responsible for 
+all finance activity and enabled the Company to profitably process 
+more than £2 billion of payments per year. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ray Anderson 
+CEO 
+Anil Malhotra 
+SVP Marketing & Alliances 
+Peter Saxton 
+CFO 
+   
+Directors 12 
+ 
+             
+ 
+ 
+ 
+ 
+Rudy Burger 
+Non-executive Director 
+Martin Rigby 
+Non-executive Director 
+David Sear 
+Non-executive Director 
+David Sear is Divisional Managing Director at Travelex Global 
+Business Payments, a company which provides international 
+payment services to 35,000 businesses across 14 countries. David 
+joined Travelex in March 2006 from Voca Ltd (previously BACS), 
+where he helped to transform the company at the centre of the UK's 
+payments industry. Prior to Voca, David was Chief Operating Officer 
+at WorldPay Group plc. Earlier in his career David spent seven years 
+at Equifax Cheque Services, the world's largest cheque guarantee 
+company, becoming European Managing Director. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Martin is founder and joint managing Director of ET Capital 
+Limited, a shareholder in the Company. He has been a venture 
+capital investor for over 20 years making and managing 
+investments in innovative technology businesses, principally in 
+network services, software and hardware. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rudy is the Managing Partner of Woodside Capital, an investment 
+bank for emerging growth companies. Rudy has founded five 
+companies, all in the digital media technologies sector. He is a 
+leading expert in digital technologies and international business 
+development. Dr.Burger serves on the boards of several US and 
+European companies. He has a BSc and MSc from Yale University 
+and a PhD from Cambridge University. 
+ 
+ 
+ 
+ 
+   
+13 Company information  
+ 
+Company information 
+ 
+Company registration number 05386079 
+ 
+Registered office 5 Westbrook Centre 
+ Milton Road 
+ Cambridge 
+ CB4 1YG 
+ Tel:  +44 (0)1223 472 777 
+ Fax:  +44 (0)1223 472 778 
+ 
+Directors Mr D Sear - Non-executive Chairman (appointed Director 20 August 2010,  
+ appointed Chairman 1 April 2011) 
+  
+ Mr R Anderson - CEO 
+  
+ Mr A Malhotra - SVP Marketing & Alliances 
+  
+ Mr P Saxton - CFO 
+  
+ Mr M Rigby – Non-executive Director  
+  
+ Dr R Burger – Non-executive Director (appointed 3 June 2010) 
+  
+ Mr L C N Bury – Non-executive Chairman (resigned as Chairman 31 March 2011, 
+ resigned as Director 31 May 2011) 
+ 
+Company Secretary Mr H Goldstein 
+  
+Bankers HSBC Bank Plc 
+ Vitrum 
+ St Johns' Innovation Park 
+ Cambridge 
+ CB4 0DS 
+ 
+Solicitors Taylor Wessing 
+ 24 Hills Road 
+ Cambridge 
+ CB2 1JW 
+ 
+Independent auditor Grant Thornton UK LLP 
+ Chartered Accountants and Registered Auditors 
+ 101 Cambridge Science Park 
+ Milton Road 
+ Cambridge 
+ CB4 0FY 
+ 
+Nominated adviser and broker Cenkos Securities Ltd 
+ 6.7.8 Tokenhouse Yard 
+ London 
+ EC2R 7AS 
+ 
+Public relations advisor Threadneedle Communications 
+ 3rd Floor, Aldermary House 
+ 10-15 Queen Street 
+ London 
+ EC4N 1TX 
+ 
+US office 20 West 22
+nd
+ Street 
+Suite 906 
+New York, NY 10010 
+ Tel:  +1 866 528 6897 
+ Fax:  +1 646 349 3023 
+ 
+ 
+ www.bango.com 
+ sales@bango.com   
+ Directors’ report 14 
+ 
+Directors’ report 
+ 
+The Directors present the Annual Report and audited financial 
+statements of Bango PLC for the year ended 31 March 2011. 
+ 
+Principal activities and business review 
+The principal activity of the Company during the year was as 
+investment holding company for Bango.net Limited and other 
+subsidiaries. 
+ 
+The principal activity of the Group during the year was the 
+development, marketing and sale of technology to enable mobile 
+phone users to easily choose and purchase services, games, 
+pictures, videos, music and ringtones on their mobile phones and 
+the sale of such mobile content to end users via this technology 
+platform.  
+ 
+Bango enables businesses of all sizes to quickly and easily benefit 
+from the expansion of the worldwide web to mobile phones. Bango 
+technology and services have been used by many leading brands.  
+ 
+A review of the Group’s performance for the year ended 31 March 
+2011 and future developments is contained in the Chairman’s 
+statement and the CEO’s statement on pages 5 and 6.  The key 
+financial performance indicators are gross margin, net profit and 
+cash balances. 
+ 
+The Directors have reviewed the appropriateness of adopted 
+accounting policies, with particular focus on revenue recognition 
+in compliance with IAS 18.  After taking account of the variety of 
+processes adopted by payment providers, together with the range 
+of contractual arrangements in place with content providers and 
+the terms and conditions operated with end users, the Directors 
+have continued to recognise revenue on end user activity as 
+principal and not as agent. 
+ 
+Key performance indicators 
+Key performance indicators are used to control and measure 
+financial and operational performance and reviewed to ensure that 
+plans are achieved and corrective action taken where necessary. 
+ 
+Relationships with content providers are fundamental to the Bango 
+business model.  During the year, the number of active content 
+provider relationships for payment and/or analytic services showed 
+an encouraging increase from about 300 to about 1,400 mainly as 
+a result of activity within the BlackBerry AppWorld.          
+ 
+Analytics events grew during the year and by March 2011 had 
+increased four-fold compared with the level one year before. 
+ 
+A review of product development, financial performance and 
+strategy and outlook for FY2012 is contained in the CEO’s 
+Statement on pages 5 and 6. 
+ 
+The Directors do not recommend payment of a dividend. 
+ 
+The Directors and their interests 
+The Directors who served the company throughout the year, 
+together with their beneficial interests in the shares of the 
+Company were as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ordinary shares Ordinary shares 
+ of 20p each  of 20p each 
+ At 31 March 2011 At 31 March 2010 
+Mr D Sear - - 
+Mr R Anderson 6,624,036 6,624,036 
+Mr A Malhotra 3,887,000 3,887,000 
+Mr P Saxton 225,000 225,000 
+Mr L C N Bury 865,000 1,160,000 
+Mr M Rigby  17,934 18,684 
+Dr R Burger - - 
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+ 
+The Directors did not exercise any share options during the year.   
+ 
+The Directors interests in share options of the company were as 
+follows: 
+Options to buy ordinary shares of 20p each 
+Date of grant Option 
+price 
+At 31 
+March 
+2011 
+At 31 
+March 
+2010 
+Mr P Saxton    
+1 March 2005 £0.500 200,000 200,000 
+21 September 2005 £2.020 50,000 50,000 
+25 May 2006 £1.400 50,000 50,000 
+22 March 2007 £0.500 76,250 76,250 
+31 January 2008 £0.230 91,250 91,250 
+19 February 2009 £0.440 62,500 62,500 
+1 October 2009 £0.445 31,250 31,250 
+25 March 2010  £0.595 31,250 31,250 
+10 December 2010 £1.315 31,250 - 
+17 March 2011 £0.825 31,250 - 
+Total  655,000 592,500 
+Mr D Sear    
+7 February 2011 £1.530 100,000 - 
+ 
+The share options were granted at market price and vest over a 
+three year period in twelve equal quarterly instalments.  Vested 
+options will lapse unless exercised within ten years of the date of 
+grant. 
+ 
+Creditor payment policy and practice 
+It is the Group’s policy that payments to suppliers are made in 
+accordance with those terms and conditions agreed between the 
+Group and its suppliers, provided that there has been compliance 
+with all trading terms.  Content providers are the main suppliers to 
+the Group.  At 31 March 2011, the Group had an average of 46 
+days (2010: 56 days) creditors outstanding in trade payables, 
+accruals and deferred income.  The average days for the company 
+was 37 (2010: 33) 
+ 
+Share capital 
+Details of changes in the share capital of the Company during the 
+year are given in note 7 to the financial statements.  
+ 
+Directors’ indemnity arrangements 
+The Company has purchased and maintained throughout the year 
+Directors’ & Officers’ liability insurance in respect of itself and its 
+Directors. 
+ 
+Financial risk management objectives and policies 
+The Group’s activities expose it to some financial risks.  The 
+Group monitors these risks but does not consider it necessary to 
+use any derivative financial instruments to hedge these risks.  See 
+notes 6, 19 and 21 for further information.   
+15 Directors’ report  
+ 
+Directors’ report 
+ 
+Liquidity risk 
+The Company seeks to manage financial risk by ensuring sufficient 
+liquidity is available to meet foreseeable needs and to invest in 
+cash assets safely and profitably.  See note 20 for further 
+information. 
+ 
+Credit risk 
+Credit risk arises from exposure to outstanding receivables.  
+Potential new customers are assessed for credit risk before credit 
+is given, to minimize credit exposure.  See note 19 for further 
+information 
+ 
+Currency risk 
+Overseas currency sales are largely offset by costs in the same 
+currency and hence exposure to currency risk and impact on 
+margin is considered relatively small.  See note 21 for further 
+information.  The group manages its foreign exchange exposure on 
+a net basis.  No forward exchange or other such financial 
+instruments have been used in the period. 
+  
+Principal risks and uncertainties 
+The key business risks affecting the group are set out below: 
+ 
+Financial 
+See financial risk management and policies section above. 
+ 
+Technology 
+The Group’s revenue is dependent on its technology keeping pace 
+with developments in mobile phone technology, including volumes 
+of data and growth in applications.  The Group manages this risk 
+by a commitment to research and development combined with 
+ongoing dialogue with trading partners and sector specialists to 
+ensure that market developments are understood.   
+ 
+Payment Providers 
+The current business model is dependent on payment providers.  
+These are therefore key trading relationships to the Group and 
+Bango’s access and revenue from the end-user is subject to 
+influence by the payment providers.  The Group manages access 
+risk by investment in relationships and regular dialogue with 
+payment providers and content providers who are actual or 
+potential users of those payment providers.  The Group manages 
+payment risk by undertaking regular credit risk analysis using third 
+parties combined with other sources of market intelligence, 
+together with monitoring of payment performance.    
+ 
+Retention of staff 
+The Group’s performance depends largely on its ability to recruit 
+and retain key individuals with the right experience and skills. To 
+ensure that the Group retains the highest calibre staff, a number 
+of schemes have been implemented linked to the group results, 
+including bonus and share option schemes.   
+  
+Employment policies 
+The Group is committed to following the applicable employment 
+laws in each territory in which it operates.  The Group is 
+committed to fair employment practices including the prohibition 
+of all forms of discrimination and attempts as far as possible to 
+give equal access and fair treatment to all employees on the basis 
+of merit.  Wherever possible we provide the same opportunities for 
+disabled people as for others.  If employees become disabled we 
+would make reasonable effort to keep them in our employment, 
+with appropriate training where necessary.     
+ 
+Health and safety policies 
+The Group is committed to conducting its business in a manner 
+which ensures high standards of health and safety for its 
+employees, visitors and the general public.  It complies with all 
+applicable and regulatory requirements. 
+ 
+Directors’ responsibility 
+The following statement, which should be read in conjunction with 
+both reports of the auditor set out on pages 18 and 39, is made in 
+order to distinguish for shareholders the respective responsibilities 
+of the Directors and of the auditors in relation to the financial 
+statements. 
+ 
+The Directors are responsible for preparing the Annual Report and 
+the financial statements in accordance with applicable law and 
+regulations. 
+ 
+Company law requires the Directors to prepare financial 
+statements for each financial year.  Under that law the Directors 
+have elected to prepare the Group financial statements in 
+accordance with International Financial Reporting Standards as 
+adopted by the European Union (IFRSs) and separate parent 
+company financial statements under United Kingdom Generally 
+Accepted Accounting Practice (United Kingdom Accounting 
+Standards and applicable laws).  Under Company Law the 
+directors must not approve the financial statements unless they 
+are satisfied that they give a true and fair view of the state of 
+affairs and profit or loss of the Company and the Group for that 
+period.  In preparing these financial statements, the Directors are 
+required to: 
+ 
+• Select suitable accounting policies and then apply them 
+consistently. 
+ 
+• Make judgments and estimates that are reasonable and 
+prudent. 
+ 
+• State that the Group financial statements comply with 
+IFRSs and that the parent financial statements are 
+prepared under UK Accounting Standards. 
+ 
+• Prepare the financial statements on the going concern 
+basis unless it is inappropriate to presume that the 
+Company will continue in business. 
+ 
+The Directors are responsible for keeping adequate accounting 
+records that are sufficient to show and explain the company’s 
+transactions and disclose with reasonable accuracy at any time the 
+financial position of the company and enable them to ensure that 
+the financial statements comply with the Companies Act 2006.  
+They are also responsible for safeguarding the assets of the 
+company and hence for taking reasonable steps for the prevention 
+and detection of fraud and other irregularities. 
+ 
+In so far as the Directors are aware: 
+ 
+• There is no relevant audit information of which the 
+Company's auditors are unaware. 
+ 
+• The Directors have taken all steps that they ought to 
+have taken to make themselves aware of any relevant 
+audit information and to establish that the auditors are 
+aware of that information. 
+ 
+The Directors are responsible for the maintenance and integrity of 
+the corporate and financial information included on the Group's 
+website.  Legislation in the United Kingdom governing the 
+preparation and dissemination of financial statements may differ 
+from legislation in other jurisdictions. 
+   
+Directors’ report 16 
+ 
+Directors’ report 
+ 
+ 
+Auditor 
+A resolution to re-appoint Grant Thornton UK LLP as auditor for 
+the ensuing year will be proposed at the Annual General Meeting 
+in accordance with section 489 of the Companies Act 2006. 
+ 
+ 
+BY ORDER OF THE BOARD 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Company Secretary 
+Mr H Goldstein 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+17 Corporate governance statement  
+ 
+Corporate governance statement 
+ 
+Audit Committee 
+The Audit Committee comprises the Chairman and all other Non-
+executive Directors. 
+ 
+The Committee’s main role and responsibilities are to: 
+ 
+• Monitor the integrity of the financial statements of the 
+Group. 
+• Review the Group’s internal financial controls and risk 
+management systems. 
+• Make recommendations to the Board, for it to put to the 
+shareholders for their approval in relation to the 
+appointment of the external auditor and to approve the 
+remuneration and terms of reference of the external 
+auditor. 
+• Discussion of the nature, extent and timing of the 
+external auditor’s procedures and discussion of the 
+external auditor’s findings. 
+• Review and monitor the external auditor’s independence 
+and objectivity and the effectiveness of the audit 
+process. 
+• Develop and implement policy on the engagement of the 
+external auditor to supply non-audit services. 
+• Report to the Board, identifying any matters in respect of 
+which it considers that action or improvement is 
+required. 
+• Ensure a formal channel is available for employees and 
+other stakeholders to express any complaints in respect 
+of financial accounting and reporting. 
+ 
+The Group does not currently have an internal audit function, 
+which the Board considers appropriate for a Group of Bango’s size. 
+The Committee is scheduled to meet twice each year and at other 
+times if necessary. The Audit Committee will review risk 
+assessments and the need for an internal audit function on a 
+periodic basis. 
+ 
+Internal control procedures 
+The Board is responsible for the Group’s system of internal 
+controls and risk management, and for reviewing the effectiveness 
+of these systems. These systems are designed to manage, rather 
+than eliminate, the risk of failure to achieve business objectives,  
+ 
+The key features of the Group’s internal controls are described 
+below: 
+ 
+• A clearly defined organizational structure with 
+appropriate delegation of authority. 
+• The approval by the Board of a one year budget, 
+including monthly income statements, balance sheets 
+and cash flow statements. The budget is prepared in 
+conjunction with senior managers to ensure targets are 
+feasible. 
+• The business plan is updated on a periodic basis to take 
+into account the most recent forecasts. On a monthly 
+basis, actual results are compared to the latest forecast 
+and market expectations and presented to the Board on 
+a timely basis. 
+• Regular reviews by the Board and by the senior 
+management team of key performance indicators. 
+• A limited number of senior management are able to sign 
+cheques and authorize payments. Payments are not 
+permitted without an approved invoice. 
+• Reconciliations of key balance sheet accounts are 
+performed and independently reviewed by the finance 
+team. 
+• A disaster recovery plan and back-up system is 
+documented and in place. 
+ 
+The Board in conjunction with the Audit Committee keeps under 
+review the Group’s internal control system on a periodic basis.  
+ 
+Communications with shareholders 
+The Board recognizes the importance of regular and effective 
+communication with shareholders. The primary forms of 
+communication are: 
+ 
+• The annual and interim statutory financial reports and 
+associated investor and analyst presentations and 
+reports. 
+• Announcements relating to trading or business updates 
+released to the London Stock Exchange. 
+• The Annual General Meeting provides shareholders with 
+an opportunity to meet the Board of Directors and to ask 
+questions relating to the business. 
+ 
+Going concern 
+After making enquiries, at the time of approving the financial 
+statements, the Directors have a reasonable expectation that the 
+Company and the Group have adequate resources to continue in 
+operational existence for the foreseeable future. The Directors 
+expect the current level of investing activities to continue but 
+expect to see a substantial reduction in the net cash used by 
+operating activities as a result of improvements in the key 
+performance areas.  For these reasons, the Directors continue to 
+adopt the going concern basis in preparing the financial 
+statements and to provide reasonable, but not absolute assurance 
+against material misstatement or loss. 
+ 
+   
+Remuneration Committee report 18 
+ 
+Remuneration Committee report 
+ 
+The Remuneration Committee comprises the Chairman and all 
+other Non-executive Directors. 
+  
+The Committee’s main role and responsibilities are as follows: 
+ 
+• To review, and determine on behalf of the Board, the 
+specific remuneration and incentive packages for each of 
+the Group’s Executive Directors. 
+ 
+• To review, and make recommendations to the Board in 
+respect of, the design of remuneration structures and 
+levels of pay and other incentives for employees of the 
+Group, including share option awards and any 
+adjustments to the terms of share ownership and share 
+option schemes. 
+ 
+• To be responsible for reporting to the Group’s 
+shareholders in relation to remuneration policies 
+applicable to the Group’s Executive Directors. 
+ 
+The Committee may invite the Chief Executive Officer and Chief 
+Finance Officer to attend meetings of the Remuneration 
+Committee. The Chief Executive Officer is consulted on proposals 
+relating to the remuneration of the Chief Finance Officer and of 
+other senior executives of the Group. The Chief Executive Officer 
+is not involved in setting his own remuneration. 
+ 
+The Committee may use remuneration consultants to advise it in 
+setting remuneration structures and policies. The Committee is 
+exclusively responsible for appointing such consultants and for 
+setting their terms of reference. 
+ 
+The Committee’s terms of reference are reviewed and approved by 
+the Board. These are available for inspection at the Group’s 
+registered office. 
+ 
+Remuneration policy 
+The Group’s policy on remuneration is to provide a package of 
+benefits, including salary, performance-related bonuses and share 
+options, which reward success and individual contributions to the 
+Group’s overall performance appropriately, while avoiding paying 
+more than is necessary for this purpose. In addition, the 
+Remuneration Committee takes into account remuneration 
+packages of comparable companies when making 
+recommendations to the Board. 
+ 
+Performance-related elements of remuneration are designed to 
+align the interests of Executive Directors with those of 
+shareholders and accordingly are set as a significant proportion of 
+total remuneration. 
+ 
+Share options 
+The Group considers that active participation in a share option 
+plan is an effective means of incentivizing and retaining high 
+quality people. Directors and employees are eligible to participate 
+in the scheme. Further details of the option plan and outstanding 
+options as at 31 March 2011 are given in note 7 to the financial 
+statements. 
+ 
+Service agreements 
+The Executive Directors have service agreements with Bango PLC. 
+The agreements include restrictive covenants which apply during 
+employment and for a period of twelve months after termination. 
+ 
+ 
+ 
+The agreements can be terminated on twelve months’ notice in 
+writing by either the Company or by the Executive Director. 
+ 
+Non–executive Directors 
+The remuneration of the Non-executive Directors is determined by 
+the Executive Directors.  Their appointments can be terminated on 
+six months’ notice in writing by the Company. 
+ 
+Directors’ emoluments 
+Details of remuneration in respect of the Directors is provided in 
+note 13. 
+   
+19 Report of the independent auditor to the members of Bango PLC  
+ 
+Independent auditor’s report to the 
+members of Bango PLC 
+ 
+We have audited the group financial statements of Bango plc for 
+the year ended 31 March 2011 which comprise the consolidated 
+balance sheet, the consolidated statement of comprehensive 
+income, the consolidated cash flow statement, the consolidated 
+statement of changes in equity and the related notes. The 
+financial reporting framework that has been applied in their 
+preparation is applicable law and International Financial Reporting 
+Standards (IFRSs) as adopted by the European Union. 
+ 
+This report is made solely to the company’s members, as a body, 
+in accordance with Chapter 3 of Part 16 of the Companies Act 
+2006. Our audit work has been undertaken so that we might state 
+to the company’s members those matters we are required to state 
+to them in an auditor’s report and for no other purpose. To the 
+fullest extent permitted by law, we do not accept or assume 
+responsibility to anyone other than the company and the 
+company’s members as a body, for our audit work, for this report, 
+or for the opinions we have formed. 
+ 
+Respective responsibilities of directors and auditors 
+As explained more fully in the Directors’ Responsibilities 
+Statement set out on page 15, the directors are responsible for the 
+preparation of the group financial statements and for being 
+satisfied that they give a true and fair view. Our responsibility is to 
+audit and express an opinion on the group financial statements in 
+accordance with applicable law and International Standards on 
+Auditing (UK and Ireland). Those standards require us to comply 
+with the Auditing Practices Board’s (APB’s) Ethical Standards for 
+Auditors. 
+Scope of the audit of the financial statements 
+A description of the scope of an audit of financial statements is 
+provided on the APB's website at 
+www.frc.org.uk/apb/scope/private.cfm 
+Opinion on financial statements 
+In our opinion the group financial statements: 
+ give a true and fair view of the state of the group's affairs as 
+at 31 March 2011 and of its loss for the year then ended;  
+ have been properly prepared in accordance with IFRSs as 
+adopted by the European Union; 
+ have been prepared in accordance with the requirements of 
+the Companies Act 2006 
+ 
+Opinion on other matter prescribed by the Companies Act 
+2006 
+In our opinion the information given in the Directors' Report for 
+the financial year for which the group financial statements are 
+prepared is consistent with the group financial statements. 
+Matters on which we are required to report by exception 
+We have nothing to report in respect of the following matters 
+where the Companies Act 2006 requires us to report to you if, in 
+our opinion: 
+ certain disclosures of directors’ remuneration specified by 
+law are not made; or 
+ we have not received all the information and explanations 
+we require for our audit. 
+ 
+Other matter 
+We have reported separately on the parent company financial 
+statements of Bango Plc for the year ended 31 March 2011.  
+ 
+ 
+ 
+ 
+ 
+Alison Seekings, Senior Statutory Auditor 
+for and on behalf of Grant Thornton UK LLP 
+Statutory Auditor, Chartered Accountants 
+Cambridge 
+26 August 2011 
+   
+ 
+Consolidated balance sheet 20 
+ 
+Consolidated balance sheet 
+ 
+ 2011 2010
+Note £  £ 
+ 
+ASSETS 
+Non-current assets 
+Property, plant and equipment 5 240,620 315,792 
+Intangible assets 5 2,030,918 1,163,591 
+ - --- --- --- --- --- --- --- --- --- --- -- - --- --- --- --- --- --- --- --- --- --- ---
+  2,271,538 1,479,383 
+ 
+Current assets 
+Trade and other receivables 6 3,354,033 4,018,967 
+Cash and cash equivalents 2,713,226 2,735,460 
+ - --- --- --- --- --- --- --- --- --- --- -- - --- --- --- --- --- --- --- --- --- --- ---
+ 6,067,259 6,754,427 
+- --- --- --- --- --- --- --- --- --- --- -- - --- --- --- --- --- --- --- --- --- --- ---
+Total assets 8,338,797 8,233,810 
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+ 
+EQUITY 
+Capital and reserves attributable to equity holders of the parent company 
+Share capital  7 7,580,482 7,176,989 
+Share premium account  8,917,009 7,005,012 
+Merger reserve  1,236,225 1,236,225 
+Other reserve  1,098,802 981,236 
+Accumulated losses  (13,071,120) (12,375,035) 
+ 
+  --------------------------------- - --- --- --- --- --- --- --- --- --- --- ---
+Total equity  5,761,398 4,024,427 
+  = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+ 
+LIABILITIES    
+Current liabilities    
+Trade and other payables 8 2,577,399 4,209,383 
+  --------------------------------- - --- --- --- --- --- --- --- --- --- --- ---
+Total liabilities 2,577,399 4,209,383 
+   
+- --- --- --- --- --- --- --- --- --- --- -- - --- --- --- --- --- --- --- --- --- --- ---
+Total equity and liabilities 8,338,797 8,233,810 
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+ 
+These financial statements were approved by the Directors on 26 August 2011 and are signed on their behalf by: 
+ 
+ 
+ 
+ 
+ 
+Mr R Anderson Mr P Saxton 
+Director Director  
+ 
+ 
+Company registration number 05386079 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The notes on pages 24 to 39 are an integral part of these consolidated financial statements. 
+   
+21 Consolidated statement of comprehensive income  
+ 
+Consolidated statement of 
+comprehensive income 
+ 
+ 2011 2010 
+Note £  £ 
+ 
+Gross revenue 4 19,324,857 26,133,109 
+Cost of sales (16,829,874) (23,465,448) 
+ - --- --- --- --- --- --- --- --- --- --- - - --- --- --- --- --- --- --- --- --- --- - 
+Gross profit 2,494,983 2,667,661 
+    
+Administrative expenses before share based payment   (3,215,195) (2,845,417) 
+Share based payments   (117,566) (64,845) 
+  -------------------------------- - --- --- --- --- --- --- --- --- --- --- - 
+Total administrative expenses    (3,332,761) (2,910,262) 
+  -------------------------------- - --- --- --- --- --- --- --- --- --- --- - 
+Operating loss  (837,778) (242,601) 
+    
+Interest payable  (103) (8,834) 
+Investment income 14 516 1,165 
+  -------------------------------- - --- --- --- --- --- --- --- --- --- --- -- 
+Loss before taxation (837,365) (250,270) 
+    
+Income tax 15 141,280 260,311 
+  -------------------------------- --------------------------------- 
+(Loss) / profit and total comprehensive income for the financial year  (696,085) 10,041 
+  = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+Attributable to equity holders of the parent  (696,085) 10,041 
+  = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+ 
+Earnings / (loss) per share attributable to the equity holders of the parent 
+Basic earnings / (loss) per share 16 (1.90)p 0.03p 
+  
+Diluted earnings / (loss) per share 16 (1.90)p 0.03p 
+ 
+All of the activities of the Group are classed as continuing. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The notes on pages 24 to 39 are an integral part of these consolidated financial statements  
+Consolidated cash flow statement 22 
+ 
+Consolidated cash flow statement 
+ 
+ 2011 2010 
+Note £  £ 
+ 
+ 
+Net cash used by operating activities 17 (1,228,970) (51,465) 
+ 
+Cash flows used by investing activities 
+Purchases of property, plant and equipment (77,767) (159,489) 
+Addition to intangible assets (1,031,400) (875,740) 
+Interest received 516 1,165 
+ -------------------------------- -------------------------------- 
+Net cash generated from/used by investing activities (1,108,651) (1,034,064) 
+ 
+Cash flows generated from financing activities 
+Proceeds from issuance of ordinary shares 2,315,490 3,003,540 
+Interest payable (103) (8,834) 
+ -------------------------------- -------------------------------- 
+Net cash generated from financing activities 2,315,387 2,994,706 
+ 
+  -------------------------------- -------------------------------- 
+Net (decrease) / increase in cash and cash equivalents    (22,234) 1,909,177 
+Cash and cash equivalents at beginning of year  2,735,460 826,283 
+-------------------------------- -------------------------------- 
+Cash and cash equivalents at end of year  2,713,226 2,735,460 
+  = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The notes on pages 24 to 39 are an integral part of these consolidated financial statements.  
+ 
+23 Consolidated statement of changes in equity  
+ 
+Consolidated statement of changes  
+in equity 
+ 
+ 
+ Share Share Merger Other Retained Total 
+ capital premium reserve reserve earnings  
+Group  account     
+ £ £ £ £ £  £ 
+ 
+Balance at 1 April 2009 5,673,712 5,504,749 1,236,225 916,391 (12,385,076) 946,001 
+Share based payments - - - 64,845 - 64,845 
+Exercise of share options 5,603 4,121 - - - 9,724 
+Issue of new shares 1,497,674 1,496,142 - - - 2,993,816 
+Transactions with owners 7,176,989 7,005,012 1,236,225 981,236 (12,385,076) 4,014,386 
+       
+Profit for the period - - - - 10,041 10,041 
+Total comprehensive income      
+for the period - - - - 10,041 10,041 
+Balance at 31 March 2010 7,176,989 7,005,012 1,236,225 981,236 (12,375,035) 4,024,427 
+       
+       
+Balance at 1 April 2010 7,176,989 7,005,012 1,236,225 981,236 (12,375,035) 4,024,427 
+Share based payments - - -   117,566 -    117,566 
+Exercise of share options 43,649 39,547 - - - 83,196 
+Issue of shares 359,844 1,872,450 - - - 2,232,294 
+Transactions with owners 7,580,482 8,917,009 1,236,225 1,098,802 (12,375,035) 6,457,483 
+       
+Loss for the period - - - - (696,085) (696,085) 
+Total comprehensive income      
+for the period - - - - (696,085) (696,085) 
+Balance at 31 March 2011 7,580,482 8,917,009 1,236,225 1,098,802 (13,071,120) 5,761,398 
+       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The notes on pages 24 to 39 are an integral part of these consolidated financial statements.   
+ 
+Notes to the financial statements 24 
+ 
+Notes to the financial statements 
+ 
+1  General information 
+Bango PLC (“the Company”) was incorporated on 8 March 2005 
+in the United Kingdom. The Company is domiciled in the United 
+Kingdom. The address of the registered office of the Company, 
+which is also its principal place of business, is given on page 13. 
+The Company’s shares are listed on the Alternative Investment 
+Market of the London Stock Exchange ("AIM"). 
+ 
+The financial statements for the year ended 31 March 2011 
+(including the comparatives for the year ended 31 March 2010) 
+were approved by the Board of Directors on 26 August 2011. 
+ 
+2  Basis of preparation 
+The consolidated financial statements have been prepared under 
+the historical cost convention. 
+ 
+The Group has prepared its Annual Report in accordance with 
+International Financial Reporting Standards (“IFRS”) as adopted 
+in the European Union and as applied in accordance with the 
+provisions of the Companies Act 2006.  IFRS requires the use of 
+certain critical accounting estimates. It also requires management 
+to exercise its judgement in the process of applying the Group’s 
+accounting policies. The areas involving a high degree of 
+judgement or complexity, or areas where assumptions and 
+estimates are significant to the consolidated financial statements 
+are disclosed in note 3.17. 
+ 
+These financial statements are presented in pounds sterling (GBP) 
+because that is the presentation currency of the group.  Every 
+entity within the group has its own functional currency.  The US 
+subsidiary only performs a sales and support function for services 
+provided by Bango.net Limited.  Due to the nature and set up of 
+the US operation as a support centre for the UK, the functional 
+currency of Bango Inc has to date been considered to be sterling.  
+Foreign operations are included in accordance with the policies 
+set out in notes 3.13. 
+ 
+3  Principal accounting policies 
+The principal accounting policies applied in the preparation of 
+these consolidated financial statements are set out below. These 
+policies have been consistently applied to all the years presented. 
+ 
+3.1  Basis of consolidation 
+On 9 June 2005 Bango PLC acquired the entire issued share 
+capital of Bango.net Limited by way of a share for share exchange.  
+As the shareholders were the same before and after this 
+transaction, the share for share exchange qualifies as a common 
+control transaction and falls outside of the scope of IFRS 3, 
+Business Combinations.  
+ 
+No goodwill has been recorded and the difference between the 
+parent company's cost of investment and Bango.net Limited's 
+share capital and share premium is presented as a merger reserve 
+within equity on consolidation.  
+ 
+The consolidated financial statements incorporate the financial 
+statements of the Company and all entities controlled by it after 
+eliminating internal transactions. Control is achieved where the 
+Group has the power to govern the financial and operating policies 
+of a Group undertaking so as to obtain economic benefits from its 
+activities. Subsidiary undertakings’ results are adjusted, where 
+appropriate, to conform to group accounting policies. 
+ 
+3.2  Property, plant and equipment 
+Property, plant and equipment is stated at historical cost less 
+accumulated depreciation. Residual values and useful economic 
+lives are assessed annually.  Depreciation is provided to write off 
+the cost of all property, plant and equipment to its residual value 
+on a straight-line basis over its expected useful economic lives, 
+which are as follows: 
+ 
+Leasehold improvements              20% straight-line
+  
+Office equipment                           20% straight-line 
+ 
+Computer equipment                    10% - 33.3% straight-line 
+ 
+3.3  Intangible assets 
+Intangible assets are measured initially at historical cost and are 
+amortized on a straight-line basis over the expected useful 
+economic lives: 
+ 
+Domain names                             33.3% straight-line 
+ 
+Internal Development                   20% straight line 
+ 
+3.4  Research and development 
+Expenditure on research activities is recognized as an expense in 
+the period in which it is incurred.  An internally-generated 
+intangible asset arising from the Group's development activities is 
+recognized only if all of the following conditions are met: 
+ 
+• Completion of the intangible asset is technically feasible 
+so that it will be available for use or sale. 
+• The Group intends to complete the intangible asset and 
+use or sell it. 
+• The Group has the ability to use or sell the intangible 
+asset. 
+• The intangible asset will generate probable future 
+economic benefits.  Among other things, this requires 
+that there is a market for the output from the intangible 
+asset or for the intangible asset itself, or, if it is to be 
+used internally, the asset will be used in generating such 
+benefits. 
+• There are adequate technical, financial and other 
+resources to complete the development and to use or sell 
+the intangible asset. 
+• The expenditure attributable to the intangible asset 
+during its development can be measured reliably. 
+ 
+Internally-generated intangible assets are amortised on a straight-
+line basis over their useful economic lives. Where no internally-
+generated intangible asset can be recognized, development 
+expenditure is recognized as an expense in the period in which it 
+is incurred. 
+ 
+The cost of an internally generated intangible asset comprises all 
+direct attributable costs necessary to create, produce and prepare 
+the intangible asset to be capable of operating in the manner 
+intended by management.  Directly attributable costs comprise 
+employee salary and other employment costs incurred, on a time 
+apportioned basis, on the project development.  These costs are 
+recognized as intangible assets.  Development costs previously 
+recognized as an expense are not included in the amount 
+recognized as an asset.  Until completion of the project, these 
+assets are subject to impairment testing only.  Amortisation 
+commences upon completion of the asset, and is shown within 
+administrative expenses in the statement of comprehensive 
+income.     
+ 
+25 Notes to the financial statements  
+ 
+Notes to the financial statements 
+ 
+3.5  Impairment of property, plant and equipment and 
+intangible assets 
+At each balance sheet date, the Group reviews the carrying 
+amounts of its property, plant and equipment and intangible 
+assets for any indication that those assets have suffered an 
+impairment loss. Until completion of the development project, 
+when amortisation can be charged on the intangible asset, the 
+assets are subject to an annual impairment test.  If any such  
+indication exists, the recoverable amount of the asset is estimated 
+in order to determine the extent of the impairment loss, if any. 
+The recoverable amount is the higher of the fair value less costs to 
+sell and value in use. 
+ 
+3.6  Loans and receivables 
+a) Cash and cash equivalents 
+Cash and cash equivalents comprise cash in hand and bank 
+deposits available on demand. 
+ 
+b) Trade and other receivables 
+Trade and other receivables are recognized initially at fair value 
+and are measured subsequent to initial recognition at amortised 
+cost using the effective interest method, less provision for 
+impairment.  Any change in their value through impairment or 
+reversal of impairment is recognized in profit or loss. 
+ 
+Provision against trade receivables is made when there is objective 
+evidence that the Group will not be able to collect all amounts due 
+to it in accordance with the original terms of those receivables. 
+The amount of the write-down is determined as the difference 
+between the asset's carrying amount and the present value of 
+estimated future cash flows discounted at the original effective 
+interest rate. 
+ 
+3.7  Trade and other payables 
+Trade and other payables are initially measured at fair value, and 
+are subsequently measured at amortized cost, using the effective 
+interest rate method. 
+ 
+3.8 Income taxes 
+Current income tax liabilities comprise those obligations to fiscal 
+authorities relating to the current or prior reporting period, that are 
+unpaid at the balance sheet date. They are calculated according to 
+the tax rates and tax laws applicable to the fiscal periods to which 
+they relate, based on the taxable profit for the year. All changes to 
+current tax assets or liabilities are recognized as a component of 
+tax expense in the income statement, except where it relates to 
+items recognised outside profit or loss.  Tax relating to items 
+recognised in other comprehensive income is recognised in other 
+comprehensive income, and tax relating to items recognised 
+directly in equity is recognised directly in equity. 
+ 
+Deferred income taxes are calculated using the liability method on 
+temporary differences. This involves the comparison of the 
+carrying amounts of assets and liabilities in the consolidated 
+financial statements with their respective tax bases. In addition, 
+tax losses available to be carried forward as well as other income 
+tax credits to the Group are assessed for recognition as deferred 
+tax assets. However, deferred tax is not provided on the initial 
+recognition of goodwill, nor on the initial recognition of an asset or 
+liability unless the related transaction is a business combination 
+or affects tax or accounting profit.  Deferred tax on temporary 
+differences associated with shares in subsidiaries and joint 
+ventures is not provided if reversal of these temporary differences 
+can be controlled by the Group and it is probable that reversal will 
+not occur in the foreseeable future.  In addition, tax losses available 
+to be carried forward as well as other income tax credits to the 
+Group are assessed for recognition as deferred tax assets.  
+ 
+Deferred tax liabilities are always provided for in full. Deferred tax 
+assets are recognized to the extent that it is probable that the 
+underlying deductible temporary differences will be able to be 
+offset against future taxable income. Deferred tax assets and 
+liabilities are calculated, without discounting, at tax rates that are 
+expected to apply to their respective period of realization, provided 
+they are enacted or substantively enacted at the balance sheet date. 
+ 
+Deferred tax is recognized as a component of tax expense in the 
+income statement, except where it relates to items charged or 
+credited directly to other comprehensive income, when it is 
+recognised in other comprehensive income.  Deferred tax relating to 
+items recognised directly in equity is recognised directly in equity. 
+ 
+3.9  Operating lease agreements 
+Rentals applicable to operating leases where the risks and rewards 
+or ownership are not transferred are charged to profit or loss net of 
+any incentives received from the lessor on a straight-line basis over 
+the period of the lease. 
+ 
+3.10  Revenue recognition 
+End user activity arises from the provision of mobile internet 
+content to end users facilitated through mobile network operators 
+and other payment providers. End users make a prepayment to the 
+Group prior to accessing chargeable mobile internet content. 
+ 
+End user activity is recognised as gross revenue at the time at 
+which end users access chargeable mobile internet content.  In 
+some cases, third party payment processors elect to refund their 
+customers without returning content to the content provider and 
+this is treated as an additional payment provider cost included in 
+cost of sale.      
+ 
+Where there has been no activity on an end user account for a 
+period of 60 days, the balance remaining is released to revenue in 
+accordance with the end user terms and conditions, because of 
+operating policies of mobile network operators relating to number 
+reissue. 
+ 
+Other fees includes revenue from the sale of access licences to 
+content providers and is recognised evenly over the period of the 
+contract since the services are provided evenly over this period. 
+ 
+Other fees also includes revenue from service contracts and is 
+recognized in the financial statements over the period of the 
+contract. 
+ 
+Other fees also includes revenue from services provided to mobile 
+phone operators and content providers and is recognized in the 
+financial statements over the period of the contract in proportion to 
+the element of the services provided at the balance sheet date. 
+ 
+Revenue is measured by reference to the fair value of consideration 
+receivable by the Group for services provided, excluding VAT. 
+ 
+3.11  Employee benefits 
+All accumulating employee-compensated absences that are unused 
+at the balance sheet date are recognized as a liability. 
+ 
+Payments to defined contribution retirement benefit schemes are 
+charged as an expense in the period to which they relate.     
+ 
+Notes to the financial statements 26 
+ 
+Notes to the financial statements 
+ 
+3.12  Share-based payment transactions 
+The Group issues equity settled share-based compensation to 
+certain employees (including Directors). Equity settled share-
+based payments are measured at fair value at the date of grant. 
+The fair value determined at the grant date of the equity-settled 
+share-based payment is expensed on a straight-line basis over 
+the vesting period, together with a corresponding increase in 
+equity, based upon the Group’s estimate of the shares that will 
+eventually vest. These estimates are subsequently revised if 
+there is any indication that the number of options expected to 
+vest differs from previous estimates. Any cumulative adjustment 
+prior to vesting is recognized in the current period. No 
+adjustment is made to any expense recognized in prior periods. 
+ 
+Fair value is measured by an external valuer using the Black-
+Scholes option pricing model. The expected life used in the 
+model has been adjusted, based on management’s best 
+estimate, for the effects of non-transferability, exercise 
+restrictions and behavioural considerations. 
+ 
+Where the terms of an equity-settled transaction are modified, 
+as a minimum an expense is recognized as if the terms had not 
+been modified. In addition, an expense is recognized for any 
+increase in the value of the transaction as a result of the 
+modification, as measured by the date of modification, over the 
+remaining vesting period. 
+ 
+Where an equity-settled transaction is cancelled, it is treated as 
+if it had vested on the due date of the cancellation, and any 
+expense not yet recognized for the transaction is recognized 
+immediately. However, if a new transaction is substituted for the 
+cancelled transaction, and designated as a replacement 
+transaction on the date that it is granted, the cancelled and new 
+transactions are treated as if they were a modification of the 
+original transaction, as described in the previous paragraph. 
+ 
+Share-based payment transactions are shown separately in the 
+statement of comprehensive income.   
+ 
+3.13  Foreign currencies 
+Monetary assets and liabilities in foreign currencies are 
+translated into sterling at the rates of exchange prevailing at the 
+balance sheet date. Transactions in foreign currencies are 
+translated into sterling at the rate of exchange prevailing at the 
+date of the transaction. Exchange gains and losses are included 
+in the profit or loss for the period. 
+ 
+3.14  Segment reporting 
+In identifying its operating segments, management recognise 
+two service lines – the provision of a mobile payment platform 
+allowing end users to purchase content, and the provision of 
+services, including licence fees and analytics technology to 
+provide accurate information about users, to content providers 
+and other organisations.  The revenue and margin generated 
+from each of these segments is separately reported but where 
+costs and assets are managed and utilised on a group basis, 
+these are not allocated to a segment. 
+ 
+3.15  Financial instruments/liabilities 
+Financial liabilities and equity instruments are classified 
+according to the substance of the contractual arrangements 
+entered into. An equity instrument is any contract that 
+evidences a residual interest in the assets of the entity after 
+deducting all of its financial liabilities. 
+ 
+Where the contractual obligations of financial instruments 
+(including share capital) are equivalent to a similar debt 
+instrument, those financial instruments are classed as financial 
+liabilities. Financial liabilities are presented as such in the 
+balance sheet. Finance costs and gains or losses relating to 
+financial liabilities are included in profit or loss. Finance costs 
+are calculated so as to produce a constant rate of return on the 
+outstanding liability. 
+ 
+Where the contractual terms of share capital do not have any 
+terms meeting the definition of a financial liability then this is 
+classed as an equity instrument. Dividends and distributions 
+relating to equity instruments are debited direct to equity. 
+ 
+Interest income and expenses are reported on an accrual basis 
+using the effective interest method. 
+ 
+3.16 Share capital and reserves 
+ 
+Share Capital 
+Ordinary shares are classified as equity. Equity instruments 
+issued by the Company are recorded at the proceeds received, 
+net of direct issue costs. 
+ 
+Share premium 
+Share premium represents the excess over nominal value of the 
+fair value of consideration received for equity shares, net of 
+expenses of the share issue. 
+ 
+Merger reserve 
+The merger reserve represents the difference between the parent 
+company's cost of investment and a subsidiary’s share capital 
+and share premium where a group reorganisation qualifies as a 
+common control transaction. 
+ 
+Other reserve 
+The other reserve represents equity-settled share-based 
+employee remuneration until such share options are exercised. 
+ 
+Retained earnings 
+Retained earnings include all current and prior period retained 
+profits. 
+ 
+3.17  Significant accounting estimates and judgements 
+ 
+Revenue recognition 
+Based on the status Bango plays within transactions and 
+consistent with the prior year, revenue has been reported gross 
+consistent with Bango being the principal in the transaction.  In 
+arriving at this judgement the Directors have considered the 
+risks the group faces from the variety of processes adopted by 
+payment providers, together with the range of contractual 
+arrangements in place with content providers and the terms and 
+conditions operated with end users.  See note 4 for further 
+details.   
+ 
+ 
+ 
+ 
+   
+ 
+27 Notes to the financial statements  
+ 
+Notes to the financial statements 
+ 
+Share options 
+Share options are granted on a discretionary basis and vest 
+evenly over a three year period.  The fair value of options 
+granted is determined using the Black-Scholes valuation model, 
+which requires a number of estimates and assumptions.  The 
+significant inputs into the model are share price at grant date, 
+exercise price, expected option life, expected volatility and the 
+risk free rate.  Volatility is measured as the standard deviation of 
+expected share price returns based on a statistical analysis of 
+competitors’ share prices.  See note 7 for further details. 
+ 
+Trade receivables 
+Trade receivables are stated net of a provision for bad and 
+doubtful debts, based on the Group’s best estimate of the 
+likelihood of recovery on a specific basis.  Details of the bad 
+debt provision and trade receivables is provided in note 6.   
+ 
+Deferred tax 
+A deferred tax asset is recognized where the Group considers it 
+probable that a tax credit will be received in the future.  This 
+specifically applies to tax losses and to outstanding vested share 
+options at the balance sheet date.  No deferred tax asset is 
+currently being recognised due to the unpredictability of future 
+taxable trading profits from which these differences may be 
+deducted (note 15). 
+ 
+Development costs 
+Judgement is applied when deciding whether the recognition 
+requirements for development costs have been met.  
+Judgements are based on the information available at each 
+balance sheet date.  Economic success of any product 
+development is uncertain at the time of recognition as it may be 
+subject to future technical problems.  The carrying value of 
+capitalised development costs is £2,030,918 (2010 : 
+£1,163,591). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+Notes to the financial statements 28 
+ 
+Notes to the financial statements 
+ 
+4  Segment reporting 
+(a)  The Group identifies two operating segments.  Management reporting is based principally on the type of customer and strategic 
+decisions are made on the basis of the gross profit generated from each segment.  The segments are not separately managed and 
+therefore the Group’s headquarters and its research and development activity are considered group operations and are not allocated to 
+any operating segment.  Segment information can be analysed as follows for the reporting periods under review.   
+ 
+Year ended 31 March 2011 
+ End user Other Group Total 
+ activity fees   
+     
+ £ £ £ £ 
+     
+Segment revenue 17,461,790 1,863,067 - 19,324,857 
+  
+Segment gross profit 643,316 1,851,667 - 2,494,983 
+    
+Segment assets 2,095,037 508,221 5,735,539 8,338,797 
+ 
+Segment liabilities (2,136,865) (35,116) (405,418) (2,577,399) 
+--------------------------------- ---------------------------------- ----------------------------------- ---------------------------------- 
+Net assets (41,828) 473,105 5,330,121 5,761,398 
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+ 
+Year ended 31 March 2010 
+ End user Other Group Total 
+ activity fees   
+     
+ 
+£ £ £ £ 
+     
+Segment revenue 24,691,741 1,441,368 - 26,133,109 
+   
+Segment gross profit 1,226,293 1,441,368 - 2,667,661 
+     
+Segment assets 2,891,751 248,601 5,093,458 8,233,810 
+     
+Segment liabilities (3,539,876) (35,038) (634,469) (4,209,383) 
+---------------------------------- ---------------------------------- ---------------------------------- ---------------------- --- --- --- --- 
+Net assets (648,125) 213,563 4,458,989 4,024,427 
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+ 
+End user activity arises from revenues paid to Bango by end users for accessing chargeable content provided by content providers.  Cost 
+of sales for this segment includes both content provider and payment provider charges.  Assets for this segment are amounts due from 
+payment providers.  Liabilities for this segment are mainly fees payable to payment providers for provision of services and fees payable to 
+content providers for provision of content sold by Bango to end users. 
+ 
+Other fees are the amounts paid to Bango by content providers and others for package fees and other services including analytics.  
+Assets for this segment are amounts due for package fees and other services.  Liabilities for this segment represent deferred income for 
+package fees.  
+ 
+Group assets include non-current assets and cash and cash equivalents.  Group liabilities relate to administrative expenses. 
+ 
+(b)  The Group’s revenue from external customers is divided into the following geographical areas.  All non-current assets are based in 
+the UK. 
+ 2011 2010 
+ £   £ 
+United Kingdom (country of domicile) 3,185,826 4,397,990 
+EU 452,077 606,252 
+USA 15,120,714 20,843,390 
+Rest of World 566,240 285,477 
+ ------------------------------------------------------------- -------------------------------------------------------------- 
+ 19,324,857 26,133,109 
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+Segment revenue is based on the location of the customers.   
+ 
+29 Notes to the financial statements  
+ 
+Notes to the financial statements 
+ 
+5  Non-current assets 
+ 
+5.1 Property, plant and equipment  
+ 
+ 
+ Leasehold 
+improvements
+Office 
+equipment
+Computer 
+equipment Total 
+ £ £ £ £  
+ 
+Cost 
+At 1 April 2009   176,679 71,859 734,430 982,968 
+Additions         - - 159,489 159,489 
+ ----------------------------------------- ----------------------------------- ----------------------------------------------- - ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- 
+At 31 March 2010 176,679 71,859 893,919 1,142,457 
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+ 
+Depreciation 
+At 1 April 2009 109,703 56,502 557,386 723,591 
+Charge for the year 35,336 8,790 58,948 103,074 
+ ----------------------------------------- ----------------------------------- ----------------------------------------------- - ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- -- 
+At 31 March 2010 145,039 65,292 616,334 826,665 
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+ 
+Net book value 
+At 31 March 2010 31,640 6,567 277,585 315,792 
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+ 
+ Leasehold 
+improvements
+Office 
+equipment
+Computer 
+equipment Total 
+ £ £ £ £  
+ 
+Cost 
+At 1 April 2010   176,679  71,859 893,919 1,142,457 
+Additions         14,243 11,756 51,768 77,767 
+ ----------------------------------------- ----------------------------------- ----------------------------------------------- - ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- - 
+At 31 March 2011 190,922 83,615 945,687 1,220,224 
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+ 
+Depreciation 
+At 1 April 2010 145,039 65,292 616,334 826,665 
+Charge for the year 28,846 7,951 116,142 152,939 
+ ----------------------------------------- ----------------------------------- ----------------------------------------------- - ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- -- 
+At 31 March 2011 173,885 73,243 732,476 979,604 
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+ 
+Net book value 
+At 31 March 2011 17,037 10,372 213,211 240,620 
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+   
+ 
+Notes to the financial statements 30   
+ 
+Notes to the financial statements 
+ 
+5.2 Intangible assets 
+ 
+     Domain Names Internal 
+Development
+Total 
+ £££ 
+ 
+Cost 
+At 1 April 2009  32,887 352,471 385,358 
+Additions         - 875,740 875,740 
+ ----------------------------------------- ----------------------------------------- ----------------------------------------- 
+At 31 March 2010 32,887 1,228,211 1,261,098 
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+ 
+Depreciation 
+At 1 April 2009 32,620 - 32,620 
+Charge for the year 267 64,620 64,887 
+ ------------------------------------- ------------------------------------- ------------------------------------- 
+At 31 March 2010 32,887 64,620 97,507 
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+ 
+Net book value 
+At 31 March 2010 - 1,163,591 1,163,591 
+       = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+    
+ 
+ Domain NamesInternal 
+Development
+Total 
+ £££ 
+ 
+Cost 
+At 1 April 2010   32,887 1,228,211 1,261,098 
+Additions         - 1,031,400 1,031,400 
+ ----------------------------------------- ----------------------------------------- ----------------------------------------- 
+At 31 March 2011 32,887 2,259,611 2,292,498 
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =              = = = = = = = = = = = = = = = = = = = = = = = = 
+ 
+Depreciation 
+At 1 April 2010 32,887 64,620 97,507 
+Charge for the year - 164,073 164,073 
+ ------------------------------------- ------------------------------------- ------------------------------------- 
+At 31 March 2011 32,887 228,693 261,580 
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+ 
+Net book value 
+At 31 March 2011 - 2,030,918 2,030,918 
+       = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+    
+ 
+ Amortisation is shown within administrative expenses in the income statement. 
+  
+ 6  Trade and other receivables 
+ 2011 2010 
+ £ £ 
+ 
+Trade receivables 1,268,337 1,145,601 
+Other receivables 935,896 471,804 
+Prepayments and accrued income 1,222,408 2,475,876 
+ ------------------------------------ ------------------------------------ 
+Total 3,426,641 4,093,281 
+Impairment of trade and other receivables (72,608) (74,314) 
+ - --- --- --- --- --- --- --- --- --- --- ---- - - --- --- --- --- --- --- --- --- --- --- ---- - 
+ 3,354,033 4,018,967 
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+31 Notes to the financial statements  
+ 
+Notes to the financial statements 
+ 
+At 31 March 2011, some of the unimpaired trade receivables are past their due date.  The age of financial assets past due but not 
+impaired is as follows:   
+ 2011 2010 
+ £ £ 
+ 
+Not more than one month  97,300 54,513 
+One to two months 187,427 38,850 
+Three to twelve months 92,874 126,044 
+More than twelve months 33,901 26,033 
+ ------------------ ------------------ 
+ 411,502 245,440 
+ = = = = = = = = = = = = = = = = = = = = = = = = = 
+ 
+Trade and other receivables are usually due within 30-60 days and do not bear any effective interest rate.  All trade receivables are 
+subject to credit risk exposure.   
+Trade receivables from content providers consist of numerous accounts with no significant individual balances.  Provision for impairment 
+has been made where the debt is not considered likely to be recoverable, although successful recovery can take over twelve months 
+where a debtor has agreed a payment plan with Bango. 
+The fair value of these short term financial assets is not individually determined as the carrying amount is a reasonable approximation of 
+fair value.  There is no material difference between fair value and book value. 
+A reconciliation of bad debt provision for trade receivables is provided below: 
+ 2011 2010 
+ £ £ 
+ 
+Brought forward provision 74,314 79,227 
+Debts written off in the year (63,902) (80,464) 
+Increase in provision  62,196 75,551 
+ ------------------ ------------------- 
+Carry forward provision 72,608 74,314 
+ = = = = = = = = = = = = = = = = = = = = = = = = = 
+ 
+ 7  Share capital and employee share options 
+Allotted, called up and fully paid: 
+ 
+Ordinary shares of 20p each in Bango PLC No  £ 
+ 
+As at 1 April 2009 28,368,557 5,673,712 
+   
+Issue of new shares 7,488,372 1,497,674 
+Exercise of share options 28,018 5,603 
+ -------------------------- ---------------------- 
+As at 31 March 2010 35,884,947 7,176,989 
+   
+Issue of new shares 1,799,220 359,844 
+Exercise of share options 218,242 43,649 
+ ------------------------- ----------------------- 
+As at 31 March 2011 37,902,409 7,580,482 
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+ 
+During the year 1.799m new shares were issued at 135.0 pence per share.  The total proceeds were £2,232,294 (net of issue costs of 
+£196,653) of which £359,844 was recognised as share capital and £1,872,450 as share premium. 
+ 
+During the year 218,242 share options were exercised at exercise prices between 23 pence and 106.5 pence and a par value of 20 
+pence per share.  The total proceeds were £83,196 of which £43,649 was recognised as share capital and £39,547 as share premium. 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+Notes to the financial statements 32 
+ 
+Notes to the financial statements 
+ 
+The Group issues share options to Directors and to employees under either an HM Revenue and Customs approved Enterprise 
+Management Incentive (EMI) scheme or an unapproved scheme. Employees resident overseas are eligible to participate in the scheme 
+but their options do not qualify as HM Revenue and Customs approved.  
+ 
+The grant price for share options is equal to the average quoted market price of the Company shares on the date of grant. Options vest 
+evenly over a period of one to three years following grant date. If share options remain unexercised after a period of ten years from the 
+date of grant, the options expire. Share options are forfeited if the employee leaves the Group before the options vest. 
+ 
+Movements in the number of share options outstanding and their related weighted average exercise prices are as follows: 
+ 
+ Year ended 31 March 2011 Year ended 31 March 2010 
+ Average Options Average Options 
+ exercise price  exercise price  
+ per share  per share  
+ p No p No 
+Outstanding at 1 April 2010 64 3,455,635 67 2,902,074 
+Granted 131 502,800 51 661,157 
+Lapsed 42 (159,486) 64 (79,620) 
+Exercised 39 (218,242) 30 (28,018) 
+Expired - - - 42 
+ ----------------------------------- ----------------------------------- ----------------------------------- ------------------ - --- --- --- --- ---- 
+Outstanding at 31 March 2011 75 3,580,707 64 3,455,635 
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+Exercisable at 31 March 2011 70 2,662,746 69 2,407,662 
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+ 
+ The weighted average share price at date of exercise of options exercised during the year was 125.11 pence (2010: 47.55 pence). 
+ 
+ The fair value of options granted during the year was determined using the Black-Scholes valuation model. Significant inputs into the 
+model include a weighted average share price of 130.64 pence (2010: 50.71 pence) at the grant date, the exercise prices, weighted 
+average volatility of 48.7% (2010: 49.3%), dividend yield of nil, an expected option life of five years and an annual risk-free interest 
+rate of 2.32% (2010: 2.72%). 
+  
+ For the share awards there was sufficient share price data for Bango plc to calculate the company's volatility. 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+33 Notes to the financial statements  
+ 
+Notes to the financial statements 
+ 
+At 31 March 2010, the Group had the following outstanding options and exercise prices: 
+ 
+  2011 2010 
+ Average Options Remaining Average Options Remaining 
+ exercise  contractual exercise  contractual 
+ price per share  life price per share life 
+       
+Expiry date Pence Number Months Pence Number  Months 
+       
+2 May 2010 - - - 50.00 60,000 1 
+19 May 2010 - - - 50.00 40,000 2 
+2 April 2012 - - - 31.00 40,000 24 
+2 May 2012 - - - 31.00 15,000 25 
+25 August 2012 31.00 20,000 17 31.00 40,000 29 
+24 February 2013 31.00 45,000 23 31.00 45,000 35 
+27 August 2013 29.00 15,000 29 29.00 15,000 41 
+27 February 2014 29.00 298,500 35 29.00 346,500 47 
+27 May 2014 31.00 40,000 38 31.00 40,000 50 
+27 July 2014 29.00 40,000 40 29.00 40,000 52 
+28 August 2014 50.00 46,000 41 50.00 46,000 53 
+18 February 2015 50.00 106,000 47 50.00 106,000 59 
+1 March 2015 50.00 230,000 47 50.00 230,000 59 
+22 June 2015 50.00 24,500 51 50.00 24,500 63 
+21 September 2015 202.00 190,000 54 202.00 190,000 66 
+1 March 2016 177.50 116,000 59 177.50 146,000 71 
+25 May 2016 140.00 210,000 62 140.00 210,000 74 
+9 October 2016 106.50 87,335 66 106.50 99,085 78 
+22 March 2017 50.00 76,250 72 50.00 76,250 84 
+23 March 2017 50.50 170,626 72 50.50 182,126 84 
+19 September  2017 41.00 171,565 78 41.00 187,940 90 
+31 January 2018 23.00 251,622 82 23.00 276,027 94 
+15 October 2018 53.50 126,957 91 53.50 139,050 102 
+19 February 2019 44.00 191,020 95 44.00 204,655 107 
+19 January 2019 44.00 115,377 94 44.00 125,377 106 
+11 August 2019 46.50 25,000 101 46.50 25,000 113 
+1 October 2019 44.50 219,265 103 44.50 231,375 115 
+17 March 2020 59.50 263,640 108 59.50 274,750 120 
+24 September   2020 167.00 183,125 114 - - - 
+10 December    2020 131.50 31,250 116 - - - 
+7 February   2021 153.00 100,000 118 - - - 
+17 March   2021 82.50 186,675 120 - - - 
+ 
+  - --- --- --- --- --- --- --- --- --- --   ------------------------------  
+At 31 March  3,580,707 76  3,455,635 79 
+  
+ 
+= = = = = = = = = = = = = = = = = = = = = = = = =  = = = = = = = = = = = = = = = = = = = = = = = = = 
+ 
+ 8  Trade and other payables 
+ 2011 2010 
+ £ £ 
+ 
+Trade payables 2,373,998 3,921,538 
+Social security and other taxes 45,082 89,256 
+Accruals and deferred income 158,319 198,589 
+ ------------------------------ - --- --- --- --- --- --- --- --- --- -- 
+ 2,577,399 4,209,383 
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+ 
+Trade and other payables are due within one year and are non-interest bearing. There is no material difference between book value and 
+fair value. 
+ 
+ 
+   
+ 
+Notes to the financial statements 34 
+ 
+Notes to the financial statements 
+ 
+ 9  Commitments 
+  
+The Group leases two offices under a non-cancellable operating leases for which the future aggregate minimum lease payments are as 
+follows: 
+ 
+ 2011 2010 
+ £ £ 
+ 
+No later than 1 year 193,787 171,775 
+Later than 1 but no later than 5 years 314,222 370,771 
+More than 5 years - - 
+ ------------------------------ - --- --- --- --- --- --- 
+ 508,009 542,546 
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+ 
+The UK lease expires on 14 November 2013.  The US office lease expires on 30 September 2013. 
+ 
+10  Expenses by nature 
+ 2011 2010 
+ £ £ 
+Employee benefit expense 2,421,696 2,156,286 
+Depreciation & amortisation 317,012 167,961 
+Other expenses 17,423,927 24,051,463 
+ ------------------------- ------------------------- 
+ 20,162,635 26,375,710 
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+Analysed as:   
+Cost of sales 16,829,874 23,465,448 
+Administrative expenses 3,215,195 2,845,417 
+Share based payments 117,566 64,845 
+ ------------------------ ------------------------ 
+ 20,162,635 26,375,710 
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+ 
+ 11  Profit or loss before taxation 
+ 
+Profit or loss before taxation is stated after charging: 
+ 
+ 2011 2010 
+ £ £ 
+Auditor's remuneration: 
+Fees payable to the Company’s auditor for the audit of the financial statements  2,500 2,500 
+Fees payable to the company’s auditors for other services: audit of company’s subsidiaries 27,500 27,500 
+Other services relating to tax 45,690 29,375 
+Other services 12,561 7,500 
+ 
+Operating lease expenses: 
+Land and buildings 186,263 159,676 
+ 
+Finance charges – bank interest payable  103 8,834 
+ 
+Exchange rate variances  148,182 (86,073) 
+ 
+Depreciation on property, plant and equipment 152,939 103,074 
+Amortization of intangible assets  164,073 64,887 
+Research and development costs 365,138 234,840 
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+35 Notes to the financial statements  
+ 
+Notes to the financial statements 
+ 
+12  Employee benefit expense 
+The average number of staff employed by the Group during the financial year amounted to: 
+ 2011 2010 
+ No No 
+ 
+Administrative staff 6 5 
+Marketing staff 6 5 
+Sales staff 5 4 
+Technical staff 13 13 
+Executive Directors 3 3 
+Support staff 10 12 
+ -------- ------- 
+ 43 42 
+ = = = = = = = = = = = 
+ 
+The aggregate payroll costs of the above were: 
+ 2011 2010 
+ £ £ 
+ 
+Wages and salaries 2,046,505 1,864,999 
+Social security costs 194,416 166,538 
+Other pension costs 63,209 59,904 
+Share based remuneration 117,566 64,845 
+ ----------------------- ----------------------- 
+ 2,421,696 2,156,286 
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+ 
+Included in the above payroll costs is £772,500 (2010 : £605,575 ) capitalised within internal development (note 5.2) 
+The Directors have identified nine  (2010: seven) key management personnel, including Directors. Compensation to key management is 
+set out below: 
+ 2011 2010 
+ £ £ 
+Wages and salaries 446,447 496,585 
+Social security costs 48,460 39,298 
+Pension 28,494 30,155 
+Share based compensation 57,268 52,753 
+ ------------------ ----------------- 
+ 580,669 618,791 
+ = = = = = = = = = = = = = = = = = = = = = = = = = 
+ 
+13 Directors 
+Remuneration in respect of Directors was as follows: 
+ 2011 2010 
+ £ £ 
+ 
+Emoluments 317,378 268,904 
+ = = = = = = = = = = = = = = = = = = = = = = = = 
+ 
+2011 Wages and 
+salaries 
+Pension and other 
+benefits 
+Sums paid to 
+third parties for 
+directors services 
+Fees Total 
+ £ £ £ £ £ 
+R Anderson 72,389 - - - 72,389 
+A Malhotra 103,550 1,929 - - 105,479 
+P Saxton 83,507 - - - 83,507 
+L Bury 18,617 - - - 18,617 
+M Rigby - - 15,750 - 15,750 
+R Burger   - - - 11,813 11,813 
+D Sear - - - 9,823 9,823 
+ ----------------- ------------ -------------- -------------- ----------------- 
+ 278,063 1,929 15,750 21,636 317,378 
+     = === === =     = === ==      == === =     = === ==     = === === = 
+ 
+ 
+ 
+   
+ 
+Notes to the financial statements 36 
+ 
+Notes to the financial statements 
+ 
+2010 Wages and salaries Pension and other 
+benefits 
+Sums paid to third 
+parties for directors 
+services 
+Fees Total 
+ ££ £ £ £ 
+R Anderson 43,875 - - - 43,875 
+A Malhotra 100,557 4,652 - - 105,209 
+P Saxton 77,682 - - - 77,682 
+L Bury 26,388 - - - 26,388 
+M Rigby - - 15,750 - 15,750 
+ ----------------- ----------- -------------- -------------------- ------------------ 
+ 248,502 4,652 15,750 - 268,904 
+      = = = = = = = = = = = =      = = = = = = = =      = = = = = = = = = = = = = = = = = = = = = = = = =      = = = = = = = = = = = =
+ 
+The highest paid director received total salary of £103,550 (2010: £100,557), pension contributions of £1,929 (2010 : £4,652), and 
+share based compensation of £nil (2010 : £nil). 
+ 
+The number of directors who accrued benefits under pension schemes was one (2010 : one). 
+ 
+The total share based compensation for directors was £28,514 (2010 : £8,908) 
+ 
+During the year no share options were exercised by the Directors.  For details of directors shareholdings please see directors report. 
+ 
+ 14  Investment income 
+ 2011 2010 
+ £ £ 
+Bank interest receivable 516 1,165 
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+ 
+15  Income tax expense 
+ 2011 2010 
+ £ £ 
+Current tax - overseas 78,151 - 
+Deferred tax - - 
+R&D tax credits receivable (219,431) (260,311) 
+------------------------------ - --- --- --- --- --- --- --- --- --- --- 
+ (141,280) (260,311) 
+============== === == == == == == == 
+ 
+Income tax expense for the year differs from the standard rate of taxation as follows: 
+  
+Loss on ordinary activities before taxation (837,365) (250,270) 
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+Loss on ordinary activities multiplied by standard rate of tax of 28% (2010: 28%) (234,462) (70,076) 
+Effect of :   
+Expenses not deductible for tax purposes 35,674 (41,093) 
+Differences between capital allowances and depreciation (6,010) 7,798 
+Unutilised tax losses 204,798 114,196 
+Other temporary differences - (10,825) 
+Overseas tax 78,151 - 
+ R&D tax credits receivable (219,431) (260,311) 
+------------------------------ - --- --- --- --- --- --- --- --- --- --- 
+Total tax  (141,280) (260,311) 
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+ 
+At 31 March 2011 the unutilised tax losses carried forward amounted to £11.9 million (2010: £11.3 million). 
+ 
+Unrecognized deferred tax assets: 
+ 2011 2010 
+ £ £ 
+ 
+Share option deduction 96,739 118,055 
+Tax losses 3,088,542 3,171,829 
+Other temporary differences  2,052 2,212 
+Accelerated capital allowances (422,200) (335,920) 
+------------------------------ - --- --- --- --- --- --- --- --- --- --- 
+ 2,765,133 2,956,176 
+============== === == == == == == == 
+ 
+   
+ 
+37 Notes to the financial statements  
+ 
+Notes to the financial statements  
+ 
+No deferred tax asset has been recognized in respect of the above temporary differences due to the unpredictability of future taxable 
+trading profits from which these differences may be deducted.  
+  
+ 16 Earnings per share 
+  
+(a) Basic 
+Basic earnings per share are calculated by dividing the (loss) / profit attributable to equity holders of the Company by the weighted 
+average number of ordinary shares in issue during the year. 
+ 
+ 2011 2010 
+ £ £ 
+(Loss) / profit attributable to equity holders of the Company (696,085) 10,041 
+   
+Weighted average number of ordinary shares in issue 36,564,487 30,113,120 
+  
+Earnings (basic) per share (1.90) p 0.03 p 
+ 
+ (b) Diluted 
+Diluted earnings per share is calculated by adjusting the weighted average number of shares outstanding to assume conversion of all 
+dilutive potential ordinary share options.  
+ 
+ 2011 2010 
+ £ £ 
+(Loss) / profit attributable to equity holders of the company (696,085) 10,041 
+   
+Weighted average number of ordinary shares (as adjusted for dilutive options in the prior year) 36,564,487 32,542,820 
+   
+Earnings (diluted) per share (1.90) p 0.03 p 
+ 
+At 31 March 2011 options over 3,580,707 (2010: 3,455,635) ordinary shares were outstanding.    
+ 
+There were no actual or potential share transactions occurring after the balance sheet date that would have significantly changed the 
+number of ordinary shares or potential ordinary shares outstanding at the end of the year if those transactions had occurred before the 
+end of the reporting period.  
+ 
+17  Cash generated/used by operations 
+ 2011 2010 
+ £ £ 
+(Loss) / profit for the financial year (696,085) 10,041 
+Depreciation and amortization 317,012 167,961 
+Taxation in income statement (141,280) (260,311) 
+Investment income (516) (1,165) 
+Interest payable 103 8,834 
+Share-based payment expense 117,566 64,845 
+Decrease in receivables 884,365 445,111 
+Decrease in payables  (1,631,984) (595,303) 
+ - --- --- --- --- --- --- --- --- --- --- --- - --- --- --- --- --- --- --- --- --- --- --- 
+ 
+(1,150,819) (159,987) 
+Corporation tax (paid) / rebate (78,151) 108,522 
+ ---------------------------------- ---------------------------------- 
+Net cash used by operations (1,228,970) (51,465) 
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+Notes to the financial statements 38 
+ 
+Notes to the financial statements 
+ 
+18  Financial assets and liabilities 
+ 
+Financial assets included in the balance sheet relate to the following IAS 39 categories:   
+ 2011 2010 
+ £ £ 
+ 
+Loans and receivables 5,450,671 5,608,636 
+------------------------------ - --- --- --- --- --- --- --- --- --- --- 
+Total financial assets 5,450,671 5,608,636 
+============= === == == == == == == 
+ 
+These financial assets are included in the balance sheet within the following headings: 
+ 2011 2010 
+ £ £ 
+Current assets 
+Trade and other receivables 2,737,445 2,873,176 
+Cash and cash equivalents 2,713,226 2,735,460 
+------------------------------ - --- --- --- --- --- --- --- --- --- --- 
+Total financial assets 5,450,671 5,608,636 
+============== === == == == == == == 
+ 
+Financial liabilities included in the balance sheet relate to the following IAS 39 categories: 
+ 2011 2010 
+ £ £ 
+ 
+Financial liabilities measured at amortized cost  2,532,317 4,120,127 
+---------------------- - --- --- --- --- --- --- -- 
+Total financial liabilities 2,532,317 4,120,127 
+========== === == == == = 
+ 
+These financial liabilities are included in the balance sheet within the following headings: 
+ 2011 2010 
+ £ £ 
+Current liabilities 
+Trade payables 2,373,998 3,921,538 
+Accruals and deferred income 158,319 198,589 
+--------------------- - --- --- --- --- --- --- --- --- --- --- 
+Total financial liabilities 2,532,317 4,120,127 
+========== === == == == == == == 
+ 
+19  Credit risk analysis 
+The Group’s exposure to credit risk is limited to the carrying amount of financial assets and cash and cash equivalents recognized at the 
+balance sheet date, as summarized in note 18. 
+ 
+The Group continuously monitors defaults of customers and other counterparties, identified individually or by group, and incorporates 
+this information into its credit risk controls.  Where available at reasonable cost, external credit ratings and/or reports on customers and 
+other counterparties are obtained and used.  The Group’s policy is to deal only with creditworthy counterparties. 
+ 
+The Group’s management considers that all the financial assets that are not impaired for each of the reporting dates under review are of 
+good credit quality including those that are past due.  See note 6 for further information on financial assets that are past due. 
+ 
+None of the Group’s financial assets are secured by collateral or other credit enhancements. 
+ 
+In respect of trade and other receivables, the Group is not exposed to any significant credit risk exposure to any single counterparty or 
+any group of counterparties having similar characteristics.  The Group completes regular credit checks on those payment providers 
+accounting for significant individual balances.  In addition, the terms and conditions of trade with content providers allow the group to 
+withhold payment of the relevant part of the content provider earnings until payment is received from the payment provider.  
+ 
+The credit risk for liquid funds and other short-term financial assets is considered negligible, since the counterparties are reputable 
+banks with high quality external credit ratings.     
+ 
+ 
+ 
+ 
+ 
+   
+ 
+39 Notes to the financial statements  
+ 
+Notes to the financial statements 
+ 
+20  Liquidity risk analysis and capital management 
+The Group manages its liquidity needs by carefully monitoring cash outflows due in day-to-day business.  Liquidity needs are monitored 
+in various time bands, on a day-to-day and week-to-week basis, as well as on a monthly basis.  Long-term liquidity needs are identified 
+on a quarterly basis, taking account of operating activities and investing activities.   
+ 
+At 31 March 2011 the Group’s trade and other payables had contractual maturities which are summarized below: 
+ 2011 2010 
+ £ £ 
+ 
+Current within 6 months 2,567,490 4,203,053 
+Current 6 to 12 months 9,909 6,330 
+ --------------------- -- -- -- -- -- -- -- -- -- -- 
+Trade and other payables 2,577,399 4,209,383 
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+ 
+The Group’s capital management objectives are to ensure the Group’s ability to continue as a going concern and to provide an adequate 
+return to shareholders, via sufficient cash resources, through profitable trading and equity issues to mitigate liquidity risk.   
+ 
+During the year the Group successfully issued new shares on the AIM market and raised £2.2m (2010 :£3.0m) and the Directors 
+consider that the capital management objectives have been satisfied. 
+ 
+At 31 March 2011 the Group had no borrowings. 
+ 
+Capital for the reporting period under review is summarised as follows: 
+ 2011 2010 
+ £ £ 
+ 
+Total equity 5,761,398 4,024,427 
+Less cash and cash equivalents (2,713,226) (2,735,460) 
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 3,048,172 1,288,967 
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+ 
+21  Market risk analysis 
+ 
+21.1 Interest risk sensitivity  
+The Group has no borrowings on which it is subject to interest rate risk.  The risk associated with interest earned on cash balances is low, 
+given the low level of interest currently being earned. 
+ 
+21.2 Foreign currency sensitivity 
+Exposure to currency exchange rates arise from the Group’s overseas sales and purchases, which are primarily denominated in US Dollars 
+and Euros.   
+ 
+The amounts to be paid and received in a specific currency are expected to largely offset one another, so no hedging activity is undertaken. 
+ 
+Foreign currency denominated financial assets and liabilities, translated into Sterling at the closing rate, are as follows. 
+ 2011 2010 
+ £ £ £ £ £ £ 
+Nominal amounts Financial 
+assets 
+Financial 
+liabilities 
+Net assets/ 
+(liabilities) 
+Financial 
+assets 
+Financial 
+liabilities 
+Net assets/ 
+(liabilities) 
+US $                    
+USD 
+2,134,242 1,636,140 498,102 3,326,912 3,590,933 (264,021) 
+Euro                    
+EUR 
+167,719 97,958 69,761 83,137 350,618 (267,481) 
+Australian $         
+AUD 
+8,644 2,477 6,167 - - - 
+Canadian $         CAD 170,855 3,693 167,162 - - - 
+New Zealand $    NZD 101,715 - 101,715 - - - 
+ - --- --- --- --- --- --- --- -- ------------------------ -------------------- - --- --- --- --- --- --- --- -- ------------------------ ---------------------- 
+Short term exposure 2,583,175 1,740,268 842,907 3,410,049 3,941,551 (513,502) 
+ =========== =========== ========= =========== =========== ========== 
+   
+ 
+Report of the independent auditor to the members of Bango PLC 40 
+ 
+Independent auditor’s report to the 
+members of Bango PLC 
+ 
+We have audited the parent company financial statements of 
+Bango Plc for the year ended 31 March 2011 which comprise 
+the company balance sheet, and the related notes. The 
+financial reporting framework that has been applied in their 
+preparation is applicable law and United Kingdom Accounting 
+Standards (United Kingdom Generally Accepted Accounting 
+Practice). 
+This report is made solely to the company’s members, as a 
+body, in accordance with Chapter 3 of Part 16 of the 
+Companies Act 2006. Our audit work has been undertaken so 
+that we might state to the company’s members those matters 
+we are required to state to them in an auditor’s report and for 
+no other purpose. To the fullest extent permitted by law, we do 
+not accept or assume responsibility to anyone other than the 
+company and the company’s members as a body, for our audit 
+work, for this report, or for the opinions we have formed. 
+ 
+Respective responsibilities of directors and auditors 
+As explained more fully in the Directors’ Responsibilities 
+Statement, the directors are responsible for the preparation of 
+the parent company financial statements and for being satisfied 
+that they give a true and fair view. Our responsibility is to audit 
+and express an opinion on the parent company financial 
+statements in accordance with applicable law and International 
+Standards on Auditing (UK and Ireland). Those standards 
+require us to comply with the Auditing Practices Board’s 
+(APB’s) Ethical Standards for Auditors. 
+ 
+Scope of the audit of the financial statements 
+A description of the scope of an audit of financial statements is 
+provided on the APB's website at 
+www.frc.org.uk/apb/scope/private.cfm 
+ 
+Opinion on financial statements 
+In our opinion the parent company financial statements: 
+ give a true and fair view of the state of the company's 
+affairs as at 31 March 2011; 
+ have been properly prepared in accordance with United 
+Kingdom Generally Accepted Accounting Practice; and 
+ have been prepared in accordance with the requirements 
+of the Companies Act 2006. 
+ 
+Opinion on other matter prescribed by the Companies Act 
+2006 
+In our opinion the information given in the Directors' Report for 
+the financial year for which the financial statements are 
+prepared is consistent with the parent company financial 
+statements. 
+ 
+Matters on which we are required to report by exception 
+We have nothing to report in respect of the following matters 
+where the Companies Act 2006 requires us to report to you if, 
+in our opinion: 
+• adequate accounting records have not been kept by the 
+parent company, or returns adequate for our audit have not 
+been received from branches not visited by us; or 
+• the parent company financial statements are not in 
+agreement with the accounting records and returns; or 
+• certain disclosures of directors’ remuneration specified by 
+law are not made; or 
+• we have not received all the information and explanations 
+we require for our audit. 
+ 
+Other matter 
+We have reported separately on the group financial statements 
+of Bango Plc for the year ended 31 March 2011.  
+ 
+ 
+  
+Alison Seekings  
+Senior Statutory Auditor 
+for and on behalf of Grant Thornton UK LLP 
+Statutory Auditor, Chartered Accountants 
+Cambridge  
+26 August 2011   
+ 
+41 Company balance sheet  
+ 
+Company balance sheet 
+ 
+ 2011 2010 
+Note £  £ 
+ 
+Fixed assets 
+Investment in subsidiary 4 5,303,088 5,185,522 
+  --------------------- --------------------- 
+    
+ 
+Current assets 
+Debtors due within one year 5 5,005 20,559 
+Debtors due after one year 5 11,874,398 9,707,205 
+Cash at bank  - - 
+ ------------------------ --------------------- 
+ 11,879,403 9,727,764 
+Creditors falling due within one year                                                                            6     53,525 28,828 
+------------------------ -------------------- 
+Net current assets                                                                                11,825,878 9,698,936 
+  = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+ 
+Total assets less current liabilities 17,128,966 14,884,458 
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+ 
+Capital and reserves 
+Share capital  7 7,580,482 7,176,989 
+Share premium account 8 8,917,009 7,005,012 
+Other reserve 8 1,098,802 981,236 
+Retained earnings 8 (467,327) (278,779) 
+ 
+  ----------------------- ----------------------- 
+Shareholders’ funds  17,128,966 14,884,458 
+  = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+ 
+ 
+ 
+These financial statements were approved by the Directors on 26 August 2011 and are signed on their behalf by: 
+ 
+ 
+ 
+ 
+Mr R Anderson Mr P Saxton 
+Director Director 
+ 
+Company registration number 05386079   
+ 
+Notes to the financial statements 42 
+ 
+Notes to the financial statements 
+ 
+1  Accounting policies 
+ 
+Basis of accounting 
+The separate financial statements of the Company are 
+presented as required by the Companies Act 2006. They have 
+been prepared under the historical cost convention and in 
+accordance with applicable United Kingdom accounting 
+standards and law. 
+ 
+The principal accounting policies are summarised below. They 
+have all been applied consistently throughout the year. 
+ 
+Investments 
+Fixed asset investments are shown at cost less provision for 
+impairment. 
+ 
+Share based payments 
+The Company issues equity settled share-based compensation 
+to certain employees (including Directors). Equity settled share-
+based payments are measured at fair value at the date of grant. 
+The fair value determined at the grant date of the equity-settled 
+share-based payment is credited to reserves on a straight-line 
+basis over the vesting period, together with a corresponding 
+increase in the book value of the Company’s investment in 
+subsidiaries, based upon the Company’s estimate of the shares 
+that will eventually vest. These estimates are subsequently 
+revised if there is any indication that the number of options 
+expected to vest differs from previous estimates. Any 
+cumulative adjustment prior to vesting is recognized in the 
+current period. No adjustment is made to any expense 
+recognized in prior periods. 
+ 
+Fair value is measured by an external valuer using the Black-
+Scholes option pricing model. The expected life used in the 
+model has been adjusted, based on management’s best 
+estimate, for the effects of non-transferability, exercise 
+restrictions and behavioural considerations. 
+ 
+Where the terms of an equity-settled transaction are modified, 
+as a minimum an expense is recognized as if the terms had not 
+been modified. In addition, an expense is recognized for any 
+increase in the value of the transaction as a result of the 
+modification, as measured by the date of modification over the 
+remaining vesting period. 
+ 
+Where an equity-settled transaction is cancelled, it is treated as 
+if it had vested on the due date of the cancellation, and any 
+expense not yet recognized for the transaction is recognized 
+immediately. However, if a new transaction is substituted for 
+the cancelled transaction, and designated as a replacement 
+transaction on the date that it is granted, the cancelled and 
+new transactions are treated as if they were a modification of 
+the original transaction, as described in the previous paragraph. 
+ 
+ 
+Related party transactions 
+In accordance with Financial Reporting Standard Number 8: 
+Related Party Disclosures, the company is exempt from 
+disclosing transactions with wholly owned entities that are part 
+of the Group headed by Bango PLC as it is a parent company 
+publishing consolidated financial statements. 
+2  Profit for the year 
+The Company has made full use of the exemptions as permitted 
+by Section 408(1) of the Companies Act 2006 and accordingly 
+the profit and loss account of the Company is not presented as 
+part of the accounts. The parent company loss for the year 
+ended 31 March 2011 of £188,548 (2010: £98,446) is 
+included in the Group result for the financial year. 
+ 
+The auditor’s remuneration for audit and non-audit services to 
+the Company was borne entirely by Bango.net Limited, a wholly 
+owned subsidiary. 
+ 
+3  Directors and employees 
+Details of Directors’ interests in the shares and options of the 
+Company are provided in the Directors’ report on page 14. 
+ 
+There are no employees employed directly by the Company. 
+ 
+Details of Directors’ remuneration are disclosed on page 35 of 
+the Group accounts.  A charge of £26,154 (2010 : £4,460) 
+has been recognised within the parent company’s own figures 
+relating to wages and salaries. 
+ 
+   
+ 
+43 Notes to the financial statements 
+ 
+Notes to the financial statements 
+ 
+4  Investments 
+ £ 
+Cost 
+Shares in subsidiary undertakings at 1 April 2010  5,185,522 
+Share based payments 117,566 
+ - --- --- --- --- --- --- --- --- --- --- --- 
+Shares in subsidiary undertakings at 31 March 2011 5,303,088 
+ = = = = = = = = = = = = = = = = = = = = = = = 
+ 
+Net book amount 
+At 31 March 2011 5,303,088 
+  
+ 
+= = = = = = = = = = = = = = = = = = = = = = = 
+At 31 March 2010 5,185,522 
+ = = = = = = = = = = = = = = = = = = = = = = = 
+ 
+Details of subsidiary undertakings at 31 March 2011 are as follows: 
+ 
+ Country of 
+incorporation 
+Class of 
+share capital 
+held 
+Held by the 
+company 
+Nature of business 
+    
+Bango.net Limited England & Wales Ordinary 100% Development, marketing and sale 
+of technology for mobile phone 
+users to purchase services for 
+their mobile phones 
+     
+Bango GmbH Germany Ordinary 100% Non-trading 
+     
+Bango Inc Delaware, USA Common 100% Sales office for Bango.net 
+Limited services in USA 
+     
+ 
+5  Debtors 
+ 2011 2010 
+ £ £ 
+ 
+Amounts due from Group undertakings 11,874,398 9,707,205 
+Other debtors 5,005 20,559 
+ ------------------------ - --- --- --- --- --- --- -- 
+ 11,879,403 9,727,764 
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+ 
+6  Creditors 
+ 2011 2010 
+ £ £ 
+ 
+Trade creditors 26,041 10,142 
+Accruals and deferred income 10,098 1,300 
+Amounts owed to group undertakings 17,386 17,386 
+ -------------- - --- --- --- --- - 
+ 53,525 28,828 
+ = = = = = = = = = = = = = = = = = = = = = = 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+Notes to the financial statements 44 
+ 
+Notes to the financial statements 
+ 
+7  Share capital 
+ 
+Allotted, called up and fully paid: 
+ 
+Ordinary shares of 20p each in Bango PLC No  £ 
+ 
+As at 1 April 2009 28,368,557 5,673,712 
+   
+Issue of new shares 7,488,372 1,497,674 
+Exercise of share options 28,018 5,603 
+   
+ ---------------------------------- ---------------------------------- 
+As at 31 March 2010 35,884,947 7,176,989 
+   
+Issue of new shares 1,799,220 359,844 
+Exercise of share options 218,242 43,649 
+ ---------------------------------- ---------------------------------- 
+As at 31 March 2011 37,902,409 7,580,482 
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+ 
+During the year 1.799m new shares were issued at 135.0 pence per share.  The total proceeds were £2,232,294 (net of issue costs of 
+£196,653) of which £359,844 was recognised as share capital and £1,872,450 as share premium. 
+ 
+During the year 218,242 share options were exercised at exercise prices between 23 pence and 106.5 pence and a par value of 20 
+pence per share.  The total proceeds were £83,196 of which £43,649 was recognised as share capital and £39,547 as share premium. 
+ 
+During the year 502,800 options were granted to employees, including 62,500 to Peter Saxton, a Director and 100,000 to David Sear, a 
+non-executive Director. 
+ 
+At the period end, 3,580,707 options were outstanding. 
+ 
+ 
+8  Reserves 
+  Share Other Retained 
+  Premium reserve earnings 
+  Account £ £ 
+  £ 
+ 
+At 1 April 2010  7,005,012 981,236 (278,779) 
+   
+Issue of new shares  1,872,450 - - 
+Exercise of share options  39,547 - - 
+Share based payments  - 117,566 - 
+Loss for the year  - - (188,548) 
+  -------------------------------------- -------------------------------- ------------------------------- 
+At 31 March 2011  8,917,009 1,098,802 (467,327) 
+  = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+ 

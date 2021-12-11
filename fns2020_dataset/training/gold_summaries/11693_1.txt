@@ -1,0 +1,236 @@
+  
+This has been an exciting and challenging year, as we took the Company back into proﬁ t and grew the North American 
+contribution to our business: today our North American presence drives over half our revenues. Most importantly, we have 
+made fundamental operational improvements to our business, and we have begun to see tangible beneﬁ ts across the Group. 
+Over the last year we have developed our global position to count more major leading operators as customers than our 
+competition, making us the leading force in digital TV technology. In fact by revenue and market capitalisation we are the UK’s 
+largest consumer electronics company. 
+Putting Customers First
+The Customer Account Team structure and methodology we put in place in 2006, placing customers at the heart of 
+our business, is delivering improvements. From sales to engineering, service and support, each customer has a team 
+focused on their business and technology requirements. This new highly targeted philosophy is now stabilising and 
+delivering results as well as creating a scalable platform for future growth and development.
+The Pace Vision, introduced earlier this year - Great products to our customers every time - encapsulates our focus. 
+We are measuring progress against our Vision through three critical success factors: On Margin, On Time and On 
+Quality. These targets have acted as a catalyst, inspiring and empowering our people to improve how we create 
+products and deliver them to our customers. Already our ofﬁ cial independent measure of customer satisfaction has 
+shown some of the best results in our history, and we expect further improvement.
+Current Trading
+Over the last year the balance of our global shipments has shifted, with over 50% of the Group’s revenues now coming 
+from the North American market, the result of our strategy to target the world’s largest payTV operators and our early 
+investment in new technology platforms. 
+This year we have returned to proﬁ t, with proﬁ t before tax and exceptional items of £6.1m (2006: loss £15.6m) 
+on revenues that more than doubled to £386.5m (2006: £178.1m). Product execution is getting better, quality is 
+increasing and margins are improving. We expect to see the full beneﬁ ts over the next 12 months as improvements 
+pass through the typical set-top box development cycle. 
+Regional Performance
+During the ﬁ rst half of the year we successfully worked through some challenges faced by the entire industry in the 
+transition to MPEG-4-based high deﬁ nition (HD) platforms, which had impacted deliveries of some of our new and 
+highly complex set-top box products. The resolution of these issues, combined with changes put in place by the new 
+management team, is enabling the business to move forward. 
+Americas
+The US is the world’s largest market for digital television technology and we saw a six-fold increase in our shipments 
+to 1.2m units from 200,000 in 2006, as we commenced new product shipments to DirecTV and Comcast, two of 
+the world’s largest payTV operators. For DirecTV we are delivering an MPEG-4 HD personal video recorder (PVR) 
+and have order visibility through to mid-2008. We are also delivering standard deﬁ nition (SD) PVR to Comcast and 
+have committed orders in place for the rest of 2007. At the same time our North American cable customer base has 
+expanded to over 30, selling a broad range of SD and HD products. 
+04 Pace Micro Technology plc Report & Accounts 2007
+Chief Executive Ofﬁ cer’s Review
+Neil Gaydon CHIEF EXECUTIVE OFFICER
+In my ﬁ rst full year as Pace’s CEO 
+I am pleased to report that the 
+important changes we have 
+made to the business are making 
+a signiﬁ cant difference to our 
+performance. 
+3111_PACE_AnnualReport_V10.indd   6 8/8/07   13:29:26 05 Pace Micro Technology plc Report & Accounts 2007
+As of 1 July 2007 US cable set-top boxes must, under Federal Communications Commission (FCC) regulations, 
+incorporate ‘separable security’, similar to the card-based conditional access systems used by many European 
+payTV operators. To meet the new market requirements we have developed a full range of CableCARD
+TM
+ 
+products (it includes SD, SD PVR, HD, HD PVR and analogue options). The CableCARD
+ 
+boxes are also fully 
+OpenCable
+TM
+ Application Platform (OCAP
+TM
+) compatible. 
+OCAP is a software layer many operators intend to introduce over the next few years to improve software 
+compatibility among various set-top box vendors. Unlike other potential new entrants into the US cable market, 
+we have the necessary licenses and software assets to sell boxes running today’s applications and OCAP 
+applications in the future.
+The CableCARD
+ 
+range was launched in June 2007 and all products are now commercially available and 
+shipping to multiple customers. Our ability to launch CableCARD
+ 
+products so quickly to multiple operators 
+with varying software requirements, was enabled by a core asset that took over three years to develop, a Pace 
+middleware called Engineware
+TM
+. The switch to CableCARD
+ 
+has infuenced operator buying patterns across the 
+market. This was anticipated and factored into our forecasts as there will be a lower level of box orders during 
+the third calendar quarter of 2007. 
+Overall I am very pleased with the progress that has been made in the Americas given the particularly high 
+barriers to market entry. Progress has been both in terms of the breadth and depth of customer relationships 
+and the product range, which addresses a wide range of customer needs. 
+EMEA and APAC
+Pace has achieved long-term strong performance in these markets and this year we enjoyed solid revenue 
+and volume growth as additional business was secured with new and existing customers. Shipments into 
+the EMEA region increased by over 37% from 1.6m in 2006 to 2.2m set-top boxes, with APAC shipments 
+increasing slightly from 401,000 to 432,000 units.
+In EMEA our customers comprise a large number of the major payTV operators, including BSkyB, Sky Italia, 
+Viasat and UPC. In Australia and New Zealand we work with the majority of signiﬁ cant players, Foxtel, Optus 
+and Sky New Zealand. We are Foxtel’s lead supplier and recently celebrated our one millionth box shipment. 
+During the year we won new business with the majority of our customers for both basic boxes and SD PVRs, with 
+an increasing number also ordering HD PVR designs for 2007 and 2008. Of the new HD PVR business that has 
+been signed, Digiturk, a major T urkish operator, will be the ﬁ rst to market toward the end of 2007. The product 
+range for Digiturk introduced a new technical integration challenge through its use of the Irdeto conditional access 
+platform and OpenTV middleware. We expect that a number of other payTV operators will want to utilise a similar 
+combined solution.
+We have a proud history of leading new technology developments in these markets and have created a strong 
+product range. In addition to the growing demand for HD and HD PVR, there is a new trend for integrated 
+satellite and IP enabled hybrid products and we have showcased our product capability at European trade 
+shows during the year. The market dynamics remain attractive with the prospect of analogue switch-off in 
+some countries and increasing competition between operators in some key markets for subscribers. 
+Chief Executive Ofﬁ cer’s Review
+continued
+3111_PACE_AnnualReport_V10.indd   7 8/8/07   13:29:41 Market trends & technology evolution
+Our strategy is to build long term relationships with the world’s leading payTV operators 
+and to identify and make early investments in technologies that will support and drive 
+their long-term success. Consequently we are well placed to serve our markets and deliver 
+returns for shareholders.
+Change within our business has positioned us to take full advantage of change within our 
+markets. We are in the midst of a signiﬁ cant phase of technology evolution, with global 
+consumer demand for HD and PVR products and services, one of the most important market 
+drivers. HD ﬂ at panel TVs have captured the eye of consumers keen for enhanced picture 
+quality and have become a ‘must have’ product. 
+Flat panels are evolving into high quality display devices, as it becomes clearer that there is 
+little economic or technological logic building advanced set-top box functionality into the TV 
+due to the different rates of change between TV and set-top box technologies. According to 
+Screen Digest there will be over 228m homes by 2010 with HD-ready ﬂ at panel TVs and 
+over 200 HD channels. HD demand is driving a complete replacement chain from TV camera 
+through to encoder and production technology and of course set-top boxes. 
+There is also strong competition between payTV operators and new market entrants such as 
+telephone operators providing video services over broadband. This adds to the demand for 
+HD and PVR services and other new advanced and specialist products as operators use the 
+technology to differentiate their product offers to win and retain subscribers. 
+HD would not be commercially viable in many markets without MPEG-4 compression; a 
+highly complex technology that enables more information to be transmitted in the same 
+broadcast space than MPEG-2 compression. MPEG-2, used for the last 12 years, can deliver 
+two HD channels against four or ﬁ ve using MPEG-4. We understand how to turn this into 
+easy-to-use consumer products. 
+Next generation
+Our early technology investment has enabled some of the world’s largest payTV operators to 
+launch and develop new HD services. Television is evolving into a new world and we are 
+constantly working on next generation set-top boxes: as part of our programme of ‘managed 
+innovation’ we have identiﬁ ed several key trends requiring solutions we are now working on.
+For many of our payTV customers, PVR is a core element of their service offering as it helps 
+retain customers by improving the consumer TV experience, allowing them to watch what 
+they want, when they want. The logical conclusion of digital recording capability is the 
+desire to move content around the home, known as Multiroom technology. Developing this 
+concept has not been easy and we have been working with operators for a number of years 
+to devise a solution that works not only technologically but also economically with the right 
+business model. Many of our customers believe wireless will provide the ultimate solution 
+and while a robust secure technology is yet to be established, we are investing in research 
+that will put us in a leading position.
+06 Pace Micro Technology plc Report & Accounts 2007
+3111_PACE_AnnualReport_V10.indd   8 8/8/07   13:29:44 Chief Executive Ofﬁ cer’s Review 
+continued
+Another signiﬁ cant gap in the market is the ability to provide interactive digital services in apartment blocks and 
+other ‘gated’ communities. Again Pace has invested in the trend ahead of the market and later this year we will 
+move into ﬁ eld trials for our multi-dwelling technology. 
+Wherever possible we seek to register our intellectual property and today have over 100 granted patents, with another 
+200 applications pending. 
+Operational improvements
+Some important operational improvements have been made to ensure our customers beneﬁ t from a world-class 
+manufacturing and operating strategy. 
+We have consolidated our global manufacturing locations, with the major facilities now being centres of excellence 
+in Asia Paciﬁ c and have made operating efﬁ ciencies and improvements in delivery performance. At the same time 
+we have maintained ﬂ exibility and options within our operating model to ensure we mitigate and manage business 
+risk. We have excellent relationships with our manufacturing partners and will continue to develop our operating 
+model to satisfy customer needs.
+Working with our strategic commodity partners we have implemented signiﬁ cant improvements to sourcing, 
+qualiﬁ cation, availability and supply of critical components. Where appropriate, we have qualiﬁ ed multiple sources 
+for critical commodities and implemented speciﬁ c commercial strategies to ensure we do not run unnecessary 
+shortage risks in the supply chain.
+Through greater collaboration between our engineering and supply chain teams we have taken a more focused 
+approach and developed a proven methodology to address all elements of product cost. This is enabling us to 
+provide customers with world class, competitively priced products. 
+We have also continued to work closely with selected design partners in collaborative design manufacture (CDM) 
+projects. The CDM partners we have selected complement our own expertise and give us greater ﬂ exibility in 
+meeting customer requirements. In addition we have developed our offshore design capability at the Pace ofﬁ ce in 
+Bangalore, India. 
+These strategies are providing beneﬁ ts in ﬂ exibility, responsiveness and efﬁ ciencies, allowing a rapid response to 
+our customers’ needs. 
+Investing in our people
+Alongside organisational and process improvements, we have also invested in the performance of our people. 
+Our initial focus has been on building leadership skills, developing individuals who have the capability to make a 
+direct and signiﬁ cant difference to our progress. This work has involved the Executive Team and a new grouping 
+within Pace, the Leadership Group. This group comprises senior managers from across the business, empowered 
+to drive performance against our strategic goals with the support of a tailored development programme.
+07 Pace Micro Technology plc Report & Accounts 2007
+3111_PACE_AnnualReport_V10.indd   9 8/8/07   13:29:50 08 Pace Micro Technology plc Report & Accounts 2007
+At Pace, all of our employees, including the Leadership Group, are incentivised through reward schemes that are both 
+meaningful and attainable. At the heart of how we reward people is a new performance management scheme that assesses 
+individuals both in terms of their success against agreed deliverables and how they work within our behaviours framework. 
+Behaviours were introduced during our restructure to help establish a new framework and philosophy around working 
+with each other on a day-to-day basis at Pace. We have six behaviour themes, including Customer Focus and Teamwork 
+and they have been embedded into our performance management scheme.
+We have also developed our communications programme. I believe it is vitally important our people are well informed 
+and have the information and understanding they need to be effective in their roles. The latest development is my 
+monthly Chief Executive Update where employees from across the Group’s ofﬁ ces worldwide come together for a regular 
+update on performance against our On Margin, On Time and On Quality critical success factors. 
+Community and the environment
+At Pace we have chosen to support local community groups based around our global ofﬁ ces through the work of our 
+charitable donations committee and employees. In this way we can support a wide range of smaller organisations that 
+are making a difference around where we work and the majority of our employees live. We intend to develop our activity 
+in this area.
+Over the last year we have supported Adopt a Family, a charity based close to our US ofﬁ ce, which helps impoverished 
+local children and their families. The Pace Americas team raised funds, which were matched by the Company, through 
+recycling their ofﬁ ce waste and re-selling used test disk drives, to support several projects including an after school project 
+for homeless children. Elsewhere I personally supported the ﬁ rst ever Bradford Rotary Club Technology Tournament, 
+which brought together schoolchildren to promote just how much fun engineering and technology can be. Meanwhile 
+our people in France became involved in the Restos du Coeur organisation, which distributes food packages and hot 
+meals to the needy.
+3111_PACE_AnnualReport_V10.indd   10 8/8/07   13:30:02 09 Pace Micro Technology plc Report & Accounts 2007
+Chief Executive Ofﬁ cer’s Review 
+continued
+Looking to the environment, the focus on the high technology sector has never been so great. Building on the 
+introduction and implementation of the RoHs directive on hazardous materials, Pace is well prepared and fully 
+compliant with the WEEE directive regulating the environmentally sound disposal of electrical goods. Not only is 
+the sector facing regulatory pressure but there is an increasing global spotlight on climate change and energy use. 
+We welcome these challenges and recognise our responsibility goes beyond just compliance with regulations. 
+As leaders in our sector, we have continued to engage with government and trade bodies to ensure we remain 
+at the forefront of new environmental developments. Although we can be pleased with our performance to 
+date, we should not become complacent. The sector must respond positively to forthcoming regulation and our 
+customers’ demands for energy efﬁ cient and environmentally sustainable products. Pace will continue to be an 
+industry leader on these issues.
+The Pace difference
+Digital television is a growing market and we are working with some of the world’s largest and most successful 
+operators to capitalise on it. Our products and technological skills enable our customers to deliver new and 
+exciting television services at a price and quality that make payTV attractive to consumers. 
+The complexity of the products we develop, the long-term customer relationships, the deep understanding of 
+their networks and business models create high barriers to market entry. As we continue to drive innovation 
+and focus on world-class execution, I believe we can retain our leadership position and deliver great products 
+to our customer every time. 
+Outlook 
+I am pleased that this year we have already shown signiﬁ cant improvements against our key metrics and achieved 
+our short-term goals for the business in North America. Going forward, senior management is working with a highly 
+motivated and accountable organisation, one that is focused on delivering and innovating leading products for our 
+customers. Through this focus on our strategy and structure, we are better placed to address our key Company 
+targets of margin performance, product execution, technology innovation and operational excellence. 
+While signiﬁ cant progress has been made, we are not complacent as there remains much to do, given that this 
+is a highly competitive and difﬁ cult market for all suppliers to predict. Pace is working hard to deliver against our 
+critical success factors in an effort to try and deliver a more predictable business within this market. 
+I am pleased with the progress we have made over the last year, and I am conﬁ dent that Pace is on track to meet 
+expectations for the shortened ﬁ nancial year ending 31 December 2007. 
+Neil Gaydon
+Chief Executive Ofﬁ cer
+24 July 2007
+3111_PACE_AnnualReport_V10.indd   11 9/8/07   10:46:29

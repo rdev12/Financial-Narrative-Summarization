@@ -1,0 +1,549 @@
+ Chief Executive Officer’s review of operations
+6 ARM Annual report and accounts 2005
+Technology is now influencing lifestyle rather than simply reflecting 
+it: the Blackberry device, for example, has fundamentally changed 
+the work-life balance for large numbers of professionals worldwide; 
+the merging of mainstream media with our everyday lives is made
+possible by easy access to the internet, any time and anywhere, and 
+in turn makes that access critical. We expect our household appliances
+to have an increasing number of features, our cars to be safe and
+reliable, our cameras to react automatically to prevailing light
+conditions, and our mobile telephones to incorporate myriad 
+features. A silent revolution in the way ordinary people interact 
+with technology is underway.
+This is a revolution which ARM has foreseen and, indeed, has
+pioneered. In recent years we have transformed our business,
+organically and by acquisition, from one which was primarily focused
+on the development of microprocessor intellectual property (IP), to one
+which is now capable of delivering a total solution – from beginning 
+to end of the design process – to our customers. Our 2004 acquisitions
+of California-based companies Artisan Components, which designs
+physical IP , and Axys, which provides electronic system-level (ESL)
+design tools, were augmented in October this year by the acquisition
+of Keil. Based in Munich, Germany, and in Plano, Texas, Keil is a 
+leading provider of 8/16-bit software development tools for the
+microcontroller market; bringing it into the ARM fold enables our 
+silicon Partners’ customers to develop intelligent and low-cost 
+32-bit microcontroller-based products more easily.
+Our strategic priorities
+It is our ambition for all digital products to be powered by ARM
+technology – and we are well on the way to becoming the architecture
+for the digital world. In the future, digital products will contain
+increasing amounts of our technology, including processor and physical
+IP , other systems IP and embedded software. In addition, we will
+continue to provide the software development tools that enable
+designers to build innovative ARM Powered products: in 2005 our
+Partners shipped 1.7 billion of these, up 31% on 2004, and in May
+2005, we announced that we expect total shipments to increase to
+approximately 4.5 billion by 2010.
+We use the analogy of a human body to describe how ARM technology
+brings digital products to life: our processor IP is the brain controlling
+and driving the system; our data engine IP forms the specialist organs,
+such as the lungs; fabric IP makes up the nervous system which
+enables the brain to communicate with the other parts of the body;
+and our physical IP – the libraries and memories – are the cells from
+which the entire body is made. Our tools are the parents and teachers
+which shape the body and develop its thoughts; and our software IP
+are the thoughts that go through the brain and provide the intelligence
+and character of the product. 
+A year of execution and delivery
+In 2005, we made significant progress in executing on our strategic
+priorities. At the beginning of the year we set ourselves an objective:
+to take ARM into the next phase of its growth. Looking back, we have
+done just that. We have positioned our enlarged group to capitalise on
+Our industry is one which changes constantly, 
+but in the past year the shift has been particularly
+noticeable  ARM Annual report and accounts 2005 7
+the huge potential benefits which accrue from the combination of ARM
+and Artisan; we have delivered a number of new products which
+underpin the proliferation of our IP; and we have delivered meaningful
+earnings growth for our shareholders.
+Building on the combination of ARM and Artisan
+We completed the acquisition of Artisan Components in December
+2004. One year on, we have successfully integrated Artisan, now our
+Physical IP Division (PIPD), into the Group. The PIPD management team
+is a blend of senior executives from ARM and Artisan. The unified ARM
+sales team is a combination of the former ARM and Artisan sales
+teams; based on an account management structure, it uses technical
+specialists from across the group.
+During the year, we began to see good progress in effecting the
+strategic plan for the acquisition. This was, first, to outsource physical
+IP to traditional ARM Partners; second, to create optimised products
+from the combination of physical IP and processor IP; and, third, to use
+the Artisan sales channel to create broader access to processor IP .
+We plan to build on the success Artisan achieved in selling its physical
+IP to small fabless semiconductor companies, which account for
+approximately 10% of the world’s semiconductor industry revenue, by
+expanding the customer base to include large fabless semiconductor
+companies and integrated device manufactures (IDMs). These not only
+account for the other 90%, but represent ARM’s traditional customer
+base. We made progress on this and exceeded our expectations by
+completing seven deals – encouraging early indications of our Partners’
+willingness to outsource the development of physical IP when it makes
+economic sense to do so, and when we have the right products. As the
+cost and complexity of developing physical IP increases, we anticipate
+that an increasing number of our Partners will realise the commercial
+and technical wisdom of outsourcing it from us. 
+During the year, we also developed our first optimised products
+through the combination of physical IP and processor IP . Developing
+processor and physical IP concurrently has enabled us to create faster,
+smaller, and more power-efficient processors. In October, at the second
+annual ARM Developers’ Conference in California, we introduced 
+the Cortex™-A8 processor; at the same time, we introduced the
+Advantage™ CE libraries which increase the processor’s performance
+and efficiency. Our Partners will be able to license optimised physical
+IP to maximise the Cortex-A8 processor’s performance while, at the
+same time, minimising size and power consumption. A number of
+other optimised products, including the introduction of an
+implementation of the ARM1176JZF-S™ processor, were delivered
+through collaborative technology design: advanced physical IP , and
+process technology delivery will provide 40% more performance
+without increasing size or power consumption.
+Delivering new technologies 
+At the beginning of 2005 we had a strong portfolio of products for
+licensing. During the year, we increased licence revenues in the
+Processor Division (PD) by 19% – building on 27% growth in 2004 – and
+signed 71 new licences, including 12 for ARM11 family products which
+are now increasingly being licensed for use outside the mobile sector. Chief Executive Officer’s review of operations/continued
+8 ARM Annual report and accounts 2005
+During the year, PIPD had sold 20 platform licences to its foundry and
+IDM Partners, and a further 42 end-user licences to IDMs and fabless
+semiconductor companies. At the year end the cumulative total for
+PIPD licensing reached 67 platform licences and 143 end-user licences.
+The year was an outstanding one for the development of the new
+products that will drive future revenue growth. The Cortex-A8 processor
+is the industry’s fastest embedded processor and our first complete
+processing solution to comprise a wide range of ARM technology to
+reduce time-to-market. Its performance and power consumption
+characteristics make it ideal for consumer products which run multi-
+channel video, audio and gaming applications. We expect it to
+revolutionise consumer and low-power mobile devices, and to enable
+even more innovative product features to be delivered to end users to
+provide higher levels of functionality and entertainment. The Cortex-A8
+processor’s attributes were recognised by the winning of four high-
+profile industry awards: Electronic Products magazine’s “Product of the
+Year”; Portable Design magazine’s “Editor’s Choice”; Electronic Design
+magazine’s “Best of Embedded 2005” and Microprocessor Report’s
+“Analysts’ Choice Award for the Best Processor-IP Core of 2005”. In
+October, we announced that there were already five lead licensees for
+the product, including Freescale, Matsushita, Samsung and Texas
+Instruments. We expect the Cortex-A8 processor to be available for
+general licensing by mid-2006.
+We continued the development of our other products in the Cortex
+family, including the Cortex-M3 processor, which was available for
+general release by early 2006. We licensed it to four lead licensees in 
+2005 and had made initial deliveries to them by the middle of the year. 
+Test silicon for the Cortex-M3 processor is revealing higher performance
+and smaller size characteristics than we initially visualised and creates
+a significant opportunity for licensing growth in 2006. The latest addition
+to the Cortex family, code named “Serval-E”, was licensed to two lead
+Partners and is expected to be available for general licensing during 2006.
+We also made significant advances in technology in PIPD with the
+acceleration of the development of leading-edge products. This will
+ensure that we have the ability to support large IDMs and fabless
+companies which, as a result of rapid increases in the cost and
+complexity of physical IP arising from the continuing advances in silicon
+process technology, are increasingly looking to us to provide third-party
+physical IP . To this end we have successfully developed 90nm and,
+more recently, 65nm physical IP products, enabling us to sell leading-
+edge physical IP to a number of major foundries, including Chartered
+Semiconductor and IBM. 
+ARM IP in digital products 
+When we updated our estimate of future shipments of ARM Powered
+products, we also rationalised our application-oriented approach to
+target markets in line with the changing nature of the electronic
+industry: we now focus on solutions for the mobile, home, enterprise,
+embedded and emerging applications markets.
+By the final quarter of the year, our Partners had shipped a record 
+499 million units – the equivalent of approximately 5.5 million each
+day. The mobile market continued to grow strongly: we shipped more  ARM Annual report and accounts 2005 9
+than 1 billion units into mobile for the first time and also increased
+penetration by attaining an average of 1.4 ARM processors per
+handset. The first shipments of ARM11 family-based phones were
+made in Japan from the FOMA N902i; with multiple versions now
+shipping. We expect this strong growth in mobile (up 23% from 2004),
+to continue in 2006, driven by shipments of ultra-low-cost handsets
+(ULCH) in emerging markets and by the increased popularity of smarter
+phones.
+We also achieved significant growth (46% over 2004) in non-mobile
+markets: our Partners shipped 600 million units in 2005 –
+approximately the same number as was achieved for mobile
+shipments in 2003. This was over a broad base of applications,
+particularly hard disk drives, games consoles, smartcards, printers, DVD
+players, flash memory products, digital still cameras, Wi-Fi chipsets and
+automotive products.
+We continued to make strategic investments to speed our growth in
+non-mobile areas. The microcontroller sector promises particular
+potential and we expect this to reach approximately 1 billion units by
+2010. Our acquisition of Keil maximises the opportunity for success in
+the microcontroller market; we are aiming to provide an easy transition
+for developers from their older 8- and 16-bit technologies to new ARM
+32-bit microcontrollers. We believe we can accelerate this by providing
+a consistent development system platform for building applications. 
+We introduced our first combined development product, the RealView
+®
+Microcontroller Development Kit, in January 2006.
+Looking ahead
+Our extensive portfolio of technology for licensing, increasing
+momentum in royalties, the growth in sales of development systems,
+and the prospect of more revenues arising from the combination of
+processor IP and physical IP , gives us confidence for another strong
+performance in 2006. We enter the year in an excellent position to
+continue to build on our market leadership.
+Warren East Chief Executive Officer Operating and financial review/IFRS
+10 ARM Annual report and accounts 2005
+Notwithstanding the 20% increase in R&D expenditure to drive
+expected strong revenue growth, an increase in earnings per share of
+more than 20% has enabled us to return more cash to shareholders
+through a progressive dividend policy and the ongoing share buyback
+programme that we introduced during the year.
+The business, its objectives and strategy
+ARM's comprehensive product offer includes 16/32-bit RISC
+microprocessors, data engines, 3D processors, digital libraries,
+embedded memories, peripherals, software and development tools, 
+as well as analogue functions and high-speed connectivity products.
+The Group licenses this technology to semiconductor companies which,
+in turn, manufacture, market and sell microprocessors and related
+products. ARM has developed an innovative, intellectual property-
+centred and market-driven business model in which it neither
+manufactures nor sells the products incorporating ARM technology, but
+concentrates on the research and development, design and support of
+the ARM architecture and supporting development tools and software.
+Together with our broad Partner community, we provide a total 
+system solution that offers a fast, reliable path to market for leading
+electronics companies.
+In 2005, as well as growing profitability, the Company was robustly
+cash generative (before investing activities), with net cash inflows
+from operating activities of £41.7 million, giving rise to a year-end
+cash, cash equivalents, short-term investments and marketable
+securities balance of £160.9 million.
+Performance
+Revenues
+Total revenues for the year ended 31 December 2005 amounted 
+to £232.4 million. Total revenues comprised £182.3 million from 
+the Processor division, an increase of 19% over total revenues 
+of £152.7 million in the year ended 31 December 2004, and 
+£50.1 million for PIPD (2004: £0.2 million). 
+The actual average dollar exchange rate in 2005 was $1.80 compared
+with $1.78 in 2004 for ARM standalone. This had the effect of
+decreasing total reported revenues by approximately £2.8 million.
+Total licensing revenues in 2005 were £104.2 million, being 45% 
+of total revenues, compared with £59.4 million or 39% of total revenues
+in the year to 31 December 2004. Total licensing revenues in 2005
+comprised £69.4 million from the Processor division, compared with
+£59.4 million in 2004 and £34.8 million from PIPD (2004: £nil). 
+Royalty revenues in 2005 were £87.8 million, representing 38% 
+of total revenues, compared with £59.6 million or 39% of total
+revenues in the year to 31 December 2004. Royalty revenues in 
+2005 comprised £72.5 million from the Processor division, compared
+with £59.6 million in 2004, and £15.3 million from PIPD (2004: 
+£0.2 million). 
+Sales of development systems in 2005 were £25.7 million, being 
+11% of total revenues, compared with £19.7 million, or 13% of total
+revenues in 2004. Service revenues, which include consulting services
+and revenues from support, maintenance and training, were 
+£14.7 million in 2005, representing 6% of total revenues, compared
+with £14.2 million, or 9% of total revenues in 2004.
+In 2005, ARM increased revenues at twice the rate 
+of the semiconductor industry, achieved operating
+margins healthily in excess of 30%* and saw volumes 
+of ARM Powered products grow by more than 30% 
+year-on-year to 1.7 billion units
+* Operating margin after add back of share-based compensation charges and intangible
+amortisation charges. ARM Annual report and accounts 2005 11
+Royalty revenues and unit shipments
+Total royalty revenues for 2005 were £87.8 million, comprising 
+£72.5 million from the Processor division and £15.3 million from PIPD.
+Royalties from the Processor division came from record unit shipments 
+of 1,662 million compared with £59.6 million and 1,272 million units
+in 2004. Dollar royalty revenues earned in the Processor division were
+$131.1 million, up 22% on 2004 compared with the increase in year-
+on-year unit shipments of 31%. The average royalty rate in 2005 was
+7.9 cents. The average royalty rate in a given period is based on a
+number of variables, including the average selling prices of the chips
+being shipped, the applicable royalty rate payable to ARM and the mix
+of unit shipments by ARM product family.
+In 2005, the proportion of total unit shipments accounted for by the
+mobile segment was 65%. Unit shipments in the mobile segment
+grew by 23% year-on-year with unit shipments in the non-mobile
+segments growing by 46%. Growth in the non-mobile segments was
+achieved across a broad range of product applications, including hard
+disk drives, games consoles, smart cards, printers, DVD players, flash
+memory products, digital still cameras, Wi-Fi chipsets and automotive
+products.
+There were 68 Partners shipping ARM technology-based products at
+the end of 2005; 19 companies were paying royalties for physical IP
+products at the end of the year. Royalties within PIPD demonstrated
+market share growth against a backdrop of lower year-on-year revenue
+for the foundries as a whole.
+Gross margin
+Gross margins for the year to 31 December 2005 were 89% compared
+with 92% for the ARM standalone business in 2004. Cost of sales in 2005
+included compensation charges in respect of share-based payments of
+£1.3 million (2004: £0.4 million). The reduction reflects the higher
+margin achieved in the Processor division offset by the lower margins
+achieved in the Physical IP Division.
+Operating expenses
+The comparability of costs between 2004 and 2005 is affected by 
+the acquisitions of Artisan Components Inc. on 23 December 2004 
+and Axys Design Automation Inc. on 16 August 2004. On acquisition,
+significant values of intangible assets other than goodwill were
+recognised and these amounts are amortised over the expected useful
+lives of the assets acquired, with the cost recorded against research
+and development, sales and marketing or general and administrative
+expenses as appropriate. To aid comparability, these costs have been
+separately identified as “acquisition-related charges” in the narrative
+below. In addition, the issuance of ARM share options to the
+employees of Artisan on its acquisition gives rise to significant non-
+cash share-based compensation charges. These, together with the
+share option compensation costs arising on options granted to existing
+ARM employees, are separately identified in the narrative below.
+Total operating expenses in the year to 31 December 2005 were
+£170.7 million compared with £112.3 million in 2004. Average headcount
+increased from 774 in 2004 to 1,234 in 2005. Operating expenses in
+2005 included total acquisition-related charges of £17.9 million (2004:
+£0.5 million) and compensation charges in respect of share-based
+payments and related payroll taxes of £20.2 million (2004: £7.5 million). Operating and financial review/IFRS/continued
+12 ARM Annual report and accounts 2005
+Excluding acquisition-related charges and compensation charges in respect
+of share-based payments and related payroll taxes, total operating
+expenses in 2005 were £132.6 million in 2005, compared with 
+£99.8 million in 2004 after excluding a further £4.5 million in respect
+of a non-recurring charge for a technology licence agreement. 
+Research and development (R&D) expenses at £80.3 million in 2005,
+represented 35% of revenues. This compares with £54.7 million, 36%
+of revenues, in 2004. Average headcount in this area increased from
+464 in 2004 to 783 in 2005. R&D expenses included total acquisition-
+related charges of £8.1 million (2004: £0.3 million) and compensation
+charges in respect of share-based payments and related payroll taxes of
+£12.3 million (2004: £4.3 million). Excluding acquisition-related charges
+and compensation charges in respect of share-based payments and
+related payroll taxes, R&D expenses in 2005 were £59.9 million and 
+£50.1 million in 2004, representing 26% and 33% of revenues respectively . 
+Sales and marketing costs in 2005 were £47.4 million or 20% of
+revenues, compared with £25.5 million or 17% of revenues in 2004.
+Average headcount in this area increased from 204 in 2004 to 286 
+in 2005. Sales and marketing costs in 2005 include total acquisition-
+related charges of £9.1 million (2004: £0.2 million) and compensation
+charges in respect of share-based payments and related payroll taxes
+of £4.3 million (2004: £1.5 million). Excluding acquisition-related
+charges and compensation charges in respect of share-based payments
+and related payroll taxes, sales and marketing costs in 2005 were
+£34.0 million and £23.8 million in 2004, representing 15% and 16% 
+of revenues respectively. 
+General and administration expenses in 2005 were £43.0 million or
+19% of revenues, compared with £32.1 million or 21% of revenues 
+in 2004. Average headcount in this area increased from 106 in 2004 
+to 165 in 2005. General and administration expenses in 2005 included
+total acquisition-related charges of £0.7 million (2004: £nil) and
+compensation charges in respect of share-based payments and related
+payroll taxes of £3.6 million (2004: £1.7 million). Excluding acquisition-
+related charges and compensation charges in respect of share-based
+payments and related payroll taxes, general and administration
+expenses in 2005 were £38.7 million, compared with £25.9 million in
+2004 after excluding a further £4.5 million in respect of a non-recurring
+charge for a technology licence agreement, representing 17% of
+revenues in both years. 
+Operating margin
+The operating margin in 2005 was 15.1% compared with 18.5% 
+in 2004. The operating margin in 2005, excluding acquisition-related
+charges of £17.9 million and compensation charges in respect 
+of share-based payments and related payroll taxes of £21.5 million
+was 32.1% compared with 27.0%, before acquisition-related charges
+of £0.5 million, compensation charges in respect of share-based
+payments of £7.9 million and £4.5 million in respect of a non-
+recurring charge for a technology licence agreement, in 2004. 
+Earnings and taxation
+Profit before tax in 2005 was £40.5 million compared with 
+£35.3 million in 2004. Profit before tax in 2005, excluding acquisition-
+related charges of £17.9 million and compensation charges in respect
+of share-based payments and related payroll taxes of £21.5 million, 
+Selected financial data/IFRS
+2005 2004** 2003* 2002* 2001*
+£000 £000 £000 £000 £000
+Turnover 232,439 152,897 128,070 150,922 146,274 
+Cost of sales (26,610) (12,240) (11,022) (13,185) (17,289)
+Gross profit 205,829 140,657 117,048 137,737 128,985 
+Total operating expenses (170,672) (112,328) (98,609) (96,608) (83,203)
+Group operating profit 35,157 28,329 18,439 41,129 45,782
+Net gain on disposals of trade investments – ––– 314
+Interest receivable, net 5,317 6,944 4,801 4,373 4,470
+Profit before tax 40,474 35,273 23,240 45,502 50,566
+Tax (10,827) (9,398) (7,977) (13,031) (15,874)
+Profit after tax 29,647 25,875 15,263 32,471 34,692
+Equity minority interest – – (105) (232) (303)
+Profit for the year 29,647 25,875 15,158 32,239 34,389
+Dividends paid 10,436 8,975 – – –
+Capital expenditure 6,064 5,036 3,605 15,616 17,349
+Research and development expenditure 80,273 54,674 48,131 48,674 38,920
+Cash, short- and long-term investments 160,902 142,817 159,786 130,304 104,467
+Shareholders’ equity 746,847 642,538 180,435 172,140 135,723
+Employees at end of year (number) 1,324 1,171 740 721 722
+* Figures for the years 2003, 2002 and 2001 are shown under UK GAAP and are not directly comparable with 2005 and 2004 prepared under IFRS.
+** Figures for 2004 have been restated from UK GAAP to IFRS. ARM Annual report and accounts 2005 13
+was £79.9 million or 34.4% of revenues. This compares with 
+£48.2 million, before acquisition-related charges of £0.5 million,
+compensation charges in respect of share-based payments of 
+£7.9 million and £4.5 million in respect of a non-recurring charge 
+for a technology licence agreement, or 31.5% of revenues in 2004.
+The Group’s effective taxation rate in 2005 was 26.8%, compared with
+26.6% in 2004. In 2005, there was an increase compared with 2004 
+in the level of disallowable items, but this was offset by tax benefits
+arising from the structuring of the Artisan acquisition and increased
+R&D tax credits and deferred tax adjustments.
+Fully diluted earnings per share in 2005 were 2.1 pence compared 
+with 2.5 pence in 2004. Earnings per fully diluted share in 2005, before
+acquisition-related charges of £17.9 million, compensation charges 
+in respect of share-based payments and related payroll taxes of 
+£21.5 million and related estimated tax adjustments thereon of 
+£9.1 million, were 4.2 pence, compared with 3.5 pence before acquisition-
+related charges of £0.5 million, compensation charges in respect 
+of share-based payments of £7.9 million, £4.5 million in respect 
+of a non-recurring charge for a technology licence agreement and
+related estimated tax adjustments thereon of £2.1 million, in 2004.
+Balance sheet and cash flow
+Goodwill at 31 December 2005 was £474.4 million, compared with
+£419.2 million at 31 December 2004. The increase in goodwill 
+in 2005 is due primarily to foreign exchange movements, given 
+the strengthening of the US dollar against sterling from $1.92 at 
+31 December 2004 to $1.72 at the end of 2005. Goodwill arising 
+on the Keil acquisitions amounted to £5.8 million. Goodwill is not
+amortised under IFRS but is subject to impairment review on at least
+an annual basis. A regular review of the carrying value of the assets
+arising on the acquisition of Artisan was performed as at 31 December
+2005 and it was concluded that no impairment charge was required. 
+Other intangible assets at 31 December 2005 were £79.7 million,
+compared with £84.0 million at 31 December 2004. The movement 
+in other intangible assets in 2005 reflects the amortisation in the year
+of the intangible assets arising on the acquisitions of Artisan and Axys
+of £17.5 million and an additional £8.7 million arising on the Keil
+acquisitions in October 2005. The other intangible assets will be
+amortised through the profit and loss account over a weighted average
+period of five years. 
+Accounts receivable at 31 December 2005 were £55.5 million, 
+compared with £34.3 million at 31 December 2004. The allowance
+against receivables was £2.2 million at 31 December 2005, compared
+with £1.5 million at 31 December 2004. Deferred revenues were 
+£20.4 million at 31 December 2005, compared with £21.4 million 
+at the end of 2004.
+Resources available
+The consolidated cash, cash equivalents, short-term investments 
+and marketable securities balance was £160.9 million at 31 December
+2005 compared with £142.8 million at 31 December 2004. Operating and financial review/IFRS/continued
+14 ARM Annual report and accounts 2005
+Interest receivable
+Interest receivable was £5.3 million for the year to 31 December 2005
+compared with £6.9 million in 2004. 
+Returns to shareholders
+Dividend 
+The directors recommend payment of a final dividend in respect of
+2005 of 0.5 pence per share which, taken together with the interim
+dividend of 0.34 pence per share paid in October 2005, gives a total
+dividend in respect of 2005 of 0.84 pence per share, an increase of
+20% over 0.7 pence per share in 2004. Subject to shareholder
+approval, the final dividend will be paid on 5 May 2006 to
+shareholders on the register on 31 March 2006.
+Total dividends actually paid in 2005 amounted to £10.4 million 
+(2004: £9.0 million).
+Share buyback programme
+During 2005, the Group initiated a share buyback programme to
+supplement dividends in returning surplus funds to shareholders.
+During 2005, the Company bought back over 13.9 million shares at 
+a total cost of £16.2 million. This programme is on-going and further
+repurchases are expected to be made in 2006 and beyond.
+Capital structure
+The authorised share capital of the Company is 2,200,000,000 ordinary
+shares of 0.05 pence each (2004: 2,200,000,000). The issued share
+capital at 31 December 2005 was 1,386,102,680 ordinary shares of
+0.05 pence each (2004: 1,350,786,975).  
+Treasury policies and objectives and liquidity
+The Group has established treasury policies aimed both at mitigating
+the impact of foreign exchange fluctuations on reported profits and
+cash flows, and at ensuring appropriate returns are earned on the
+Group’s cash resources.
+With approximately 95% of Group revenues earned in US dollars and
+approximately 45% of Group costs being incurred in US dollars, the
+Group has a significant exposure to movements in the exchange rate
+between the US dollar and sterling. This exposure is partially mitigated
+by an ongoing hedging programme, involving forward contracts and
+low-risk option contracts where appropriate. 
+Principal risks and uncertainties
+In line with the guidance for the preparation of an operating and
+financial review, certain risk factors faced by the Group are identified
+below. A more detailed description is included in the Group's annual
+report on Form 20-F. Details of the Group's internal control and risk
+management procedures are included in the corporate governance
+report on pages 18 to 20.
+ARM’s quarterly results may fluctuate significantly and be
+unpredictable which could adversely affect the market price 
+of ARM ordinary shares
+ARM has experienced, and may in the future experience, significant
+quarterly fluctuations in its results of operations. Quarterly results may
+fluctuate because of a variety of factors. Such factors include: 
+— the timing of entering into agreements with new licensees;
+— the mixture of licence fees, royalties, revenues from the sale 
+of development systems and fees from services;
+— the introduction of new technology by us, our licensees or our
+competition;
+— the timing of orders from, and shipments to, systems companies 
+of ARM technology-based microprocessors from our semiconductor
+Partners;
+— sudden technological or other changes in the microprocessor
+industry; and
+— new litigation or developments in current litigation. ARM Annual report and accounts 2005 15
+In future periods, ARM’s operating results may not meet the
+expectations of public market analysts or investors. In such an event
+the market price of our shares could be materially adversely affected. 
+General economic conditions may reduce ARM’s revenues and
+harm ARM’s business
+ARM is subject to risks arising from adverse changes in global
+economic conditions. Because of economic uncertainties in many of 
+our key markets, many industries may delay or reduce technology
+purchases and investments. The impact of this on ARM is difficult to
+predict, but if businesses defer licensing our technology, require less
+services or development tools, or if consumers defer purchases of 
+new products which incorporate ARM’s technology, revenue could
+decline. A decline in revenue would have an adverse effect on the
+results of operations and could have an adverse effect on ARM’s
+financial condition. 
+ARM competes in the intensely competitive semiconductor market
+The semiconductor market is intensely competitive and characterised
+by rapid technological change. ARM cannot give assurance that it will
+have the financial resources, technical expertise, or marketing or
+support capabilities to compete successfully in the future. 
+Competition is based on a variety of factors including price,
+performance, product quality, software availability, marketing and
+distribution capability, customer support, name recognition and
+financial strength. Further, given ARM’s reliance on our semiconductor
+Partners, its competitive position is dependent on their competitive
+position. In addition, ARM’s semiconductor Partners do not license
+ARM’s architecture exclusively, and several of them also design,
+develop, manufacture and market microprocessors based on their 
+own architectures or on other non-ARM architectures. 
+ARM may not develop or operate systems which comply fully with
+the requirements of the Sarbanes-Oxley Act
+Preparations for attestation under section 404 of the Sarbanes-Oxley
+Act as at 31 December 2006 are relatively well-advanced. There can
+be no guarantee, however, that the detailed testing of internal controls
+required as part of the attestation process will not identify significant
+control deficiencies or material weaknesses that impact on the
+auditors’ opinion on internal controls over financial reporting and/or
+require disclosure on Form 20-F.
+Other risks include ARM's inability to manage the significant changes 
+in the number of its employees and the size of its operations in the
+United States, dependence on semiconductor Partners and systems
+companies, availability of development tools, systems software and
+operating systems compatible with ARM’s architecture, dependence on
+a small number of customers and products, ARM’s inability to develop
+new products on a timely basis, unanticipated costs due to products
+that could have technical difficulties or undetected design errors, the
+ARM architecture not being continued to be accepted by the market,
+risks associated with any strategic investments or acquisitions,
+dependence on senior management personnel and on hiring and
+retaining qualified engineers, exposure from international operations,
+litigation and threats of litigation and protection of ARM’s intellectual
+property, unavailability of debt financing or additional equity funding to
+satisfy future capital needs, adverse affects resulting from changes in
+stock option accounting rules adversely impacting ARM’s reported
+operating results and its competitiveness in the marketplace. 
+Tim Score Chief Financial Officer

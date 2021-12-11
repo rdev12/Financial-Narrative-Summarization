@@ -1,0 +1,330 @@
+ 24357.04    1 February 2016 6:24 AM    PROOF 14
+Why does this matter?
+Businesses across the world are 
+increasingly digital. Digital products and 
+services are provided to employees to 
+make them more productive whether 
+they are in the office, on the road or in 
+the home. Likewise, customers interact 
+with businesses in an increasingly 
+digital way through apps or browsers, 
+and from anywhere.
+As a result, business leaders are 
+realising that they need to take digital 
+quality seriously. More specifically, they 
+are taking digital experience quality 
+seriously.
+Why?
+Take brand for example. Some 
+businesses have spent many years 
+and huge resources establishing a 
+brand for their physical products (e.g. 
+groceries) and services (e.g. hotel 
+rooms). Increasingly, customers are 
+engaging to procure these products 
+and services through a business’ digital 
+products such as websites and mobile 
+apps. Consequently, customers that 
+experience frustration with a business’ 
+digital products will be less likely to buy, 
+and continued frustration will harm the 
+brand.
+Like physical products, digital customer 
+experience and brand is largely built 
+upon design and quality. 
+In the digital world, design relates to 
+the customer journey – the steps a 
+customer must take to conclude a 
+bank transaction online, or purchase 
+a product, or to order a new driving 
+licence, and so on. 
+Quality relates to the consistency and 
+repeatability of the customer journey. 
+If images don’t load, or explanatory 
+videos don’t run, or if click-to-talk is 
+unintelligible, or forms stop working, 
+this is poor digital quality.
+Even if the digital design is excellent, 
+a variable and inconsistent customer 
+journey will wreck customer experience 
+and digital brand.
+Today, without Actual Experience, 
+business leaders have no way to 
+manage and improve digital quality.
+How come?
+In the manufacture of physical products 
+and services, business have for 
+decades used quality management 
+techniques such as Six Sigma, Kaizen 
+and others. At the heart of these 
+methods is the so-called Voice of the 
+Customer. Simply put, customers 
+are asked what they think of a 
+product, and their feedback is used 
+by the manufacturer to improve the 
+manufacturing process. Today, most 
+manufacturing processes involve global 
+supply chains, so the reality is that the 
+manufacturer uses the feedback to 
+help manage and improve its supply 
+chains.
+However, in the digital world, these 
+quality management techniques cannot 
+be used.
+Why not?
+Simply put, talking to people, asking for 
+their feedback, is much too slow. 
+In the digital world, the glitches that 
+cause videos to freeze, or forms and 
+images to stop loading, or audio 
+to sound inaudible, happen in tiny 
+fractions of a second. They are fleeting 
+and transient. Not only that, but they 
+occur somewhere in a global digital 
+supply chain made up of thousands of 
+businesses and technologies. 
+Therefore, asking customers what 
+they think, even if it could be done 
+continuously, is on a completely 
+different timescale to the digital world, 
+and there is consequently very little 
+possibility for correlating customer 
+feedback with the underlying cause of 
+customer frustration. 
+This means that there is no way to 
+connect digital experience quality 
+with a quality management process 
+to improve digital business. This is 
+also the explanation for why digital 
+experience quality in the home, on the 
+phone or in the office is so inconsistent.
+ACTUAL EXPERIENCE AT A GLANCE 
+Leader and innovator of digital experience quality.
+Our patent-pending analytics are the missing link between digital 
+experience quality and improvements in the digital business. 
+www.actual-experience.com  Stock code: ACT 8
+Actual Experience AR2015-Front.indd   8 01/02/2016   12:11:04 24357.04    1 February 2016 6:24 AM    PROOF 14
+The growth of digital
+Digital revenues will double to 41% by 
+2019. A third of CEOs expect to attribute 
+more than half their revenues to digital 
+within five years. Nearly 50% of all 
+business-to-business purchases will be 
+made on digital platforms by the end of 
+2015 and $2 trillion in retail sales will be 
+influenced by digital by 2016. 
+T o move in that direction, this year, CEOs 
+have technology-related change as a 
+top priority, even higher than in 2014. 
+Sixty-three per cent of CEOs intend to 
+increase IT and digital investment in 2015. 
+Research shows that companies have lofty 
+ambitions: they expect digital initiatives to 
+deliver annual growth and cost efficiencies 
+of 5-10% or more in the next three to five 
+years.
+At the same time, board members at large 
+companies estimated that 32% of their 
+company’ s revenue would be under threat 
+from digital disruption in the next five years; 
+60% of board members felt their boards 
+should spend significantly more time on this 
+issue in 2016. 
+Digital quality increasingly will determine 
+which companies create or lose valuable 
+brand share with their customers, 
+members, subscribers, employees, 
+contractors, partners and suppliers. 
+50%
+2015
+Business-to-Business purchases made on digital platforms
+Six building blocks for creating a high performing digital enterprise, 
+McKinsey, 2015
+41%
+2019
+Digital revenue by 2019 
+2015 Gartner CEO Survey Committing to Digital
+63%
+2015
+Percentage of CEOs intending to increase digital investment 
+2015 Gartner CEO Survey Committing to Digital
+9 Actual Experience Annual Report and Accounts for the year ended 30 September 2015
+STRATEGIC REPORT
+OVERVIEW
+Actual Experience AR2015-Front.indd   9 01/02/2016   12:11:04 24357.04    1 February 2016 6:24 AM    PROOF 14
+10 www.actual-experience.com  Stock code: ACT
+So what do we do?
+We provide digital quality analytics to 
+businesses that provide digital products 
+and services to their customers and 
+employees.
+Our patent-pending analytics are able 
+to link digital experience quality with a 
+digital quality improvement process, 
+which will help make the digital 
+business of our customers better  
+and better. 
+Continuous quality improvement 
+is something that has been taken 
+for granted in manufacturing for 
+decades. Now it can be applied to the 
+manufacturing of digital products and 
+services.
+How do we do this?
+Small pieces of software called Digital 
+Users are situated amongst real human 
+users in, for example, the home or the 
+office. They run on laptops, PCs and 
+small devices like Raspberry Pi and 
+Intel sticks.
+The Digital Users make continuous 
+measurements of the most important 
+digital products and services that our 
+customer provides to its customers 
+and employees (applications in 
+illustration). The Digital Users 
+also simultaneously measure the 
+behaviour of the many businesses and 
+technologies in our customer’s global 
+digital supply chain seeking the glitches 
+that impact customer experience. 
+The Digital Users immediately send 
+the results of these measurements to 
+data centres, which host our cloud 
+analytics-as-a-service platform.
+“CEOs are coming in 
+to MIT and saying 
+I’m spending so 
+much money on IT 
+and technology and 
+I feel like it’s a black 
+hole with nothing 
+coming out.”
+The value of the customer  
+experience quantified
+Peter Kriss, HBR
+ACTUAL EXPERIENCE AT A GLANCE 
+Continued
+Digital User (DU) software makes measurements 
+(cannot be done from browsers) 
+•	 End-to-end
+•	 Gently exercises IP network nodes and application layers to understand behaviour in every part of 
+user supply chain
+•	 Metrics are: network (loss, delay, delay variation); application (goodput, throughput, RTT)
+In the data centre
+•	 End-to-end measurements are combined in algorithms to calculate End-user Experience score
+•	 Algorithms adapt for video, audio, interactive, protocols, etc.
+•	 Node/layer behaviour is continuously correlated with Voice of the People variation to establish 
+cause and effect 
+www.actual-experience.com  Stock code: ACT 10
+Actual Experience AR2015-Front.indd   10 01/02/2016   12:11:04 24357.04    1 February 2016 6:24 AM    PROOF 14
+11 Actual Experience Annual Report and Accounts for the year ended 30 September 2015
+STRATEGIC REPORT
+“One of the hardest  
+things we have with 
+technology is  
+user perception. 
+Is it working well?  
+Is it not working well?”
+Customer 
+Our cloud analytics platform transforms 
+the measurements of the digital 
+product and service into real-time 
+digital Voice of the Customer quality 
+scores. These scores represent the 
+actual experience of a person and act 
+as the lens through which we analyse 
+the behaviour of the digital supply 
+chain.
+In our cloud, the Actual Experience 
+lens allows us to correlate poor quality 
+that frustrates customers or employees 
+and harms brand or productivity, with 
+the transient, fleeting glitches in the 
+supply chain that cause poor quality. 
+Since this is done continuously and 
+very quickly – in fractions of seconds 
+– our analytics are able to locate the 
+source of quality problems in the 
+numerous businesses and technologies 
+of our customers’ global digital supply 
+chain and hence provide actionable 
+data in order for our customers to:
+1.  Reduce the number of quality 
+problems by continuously improving 
+the performance of the global digital 
+supply chain by:
+a. more targeted and efficient 
+investment; and
+b. better management and 
+collaboration with their digital 
+suppliers.
+2. Resolve quality problems within 
+  important digital products and 
+  services in hours, not days, 
+  weeks or months, and do this in a 
+  substantially more automated way 
+  that reduces cost.
+How do customers get their 
+analytics?
+Our customers buy a service from us 
+called Actual Work (formerly Digital 
+Supply Chain Director). They access 
+the results of the Actual Work service in 
+three ways:
+1. Through web browsers and mobile  
+ apps
+2. Via emails for alerting of predefined  
+ events or regular reports
+3. Via electronic interfaces between  
+ the Group’s systems and customer 
+  or partner systems.
+Who do we do it for?
+Actual Experience’s analytics-as-a-
+service is of potential use to every 
+business in every industry. 
+Any business that provides digital 
+products and services to its customers 
+or employees, or both, will need to 
+continuously improve digital quality 
+or risk losing out to competitors with 
+better digital quality and hence better 
+digital brand and productivity.
+How do you address such a 
+large market?
+We will service this vast global market 
+primarily through channel partnerships, 
+with an important component of 
+our business strategy focused on 
+building relationships with selected 
+direct enterprise customers. These 
+relationships continue to accrue 
+valuable intelligence on service use by 
+business type, department, role, and 
+other factors. 
+The value derived from our direct 
+involvement with customers actively 
+consuming this digital experience 
+quality data to drive new and improved 
+continuous improvement processes is 
+realised in our channel relationships, 
+where our learned best practices will 
+improve the performance of all channel 
+partners.
+Current customers include channel 
+partners Verizon and direct customers 
+Condé Nast, Charles Stanley and 
+Harrods.
+A fundamental component of our 
+strategy, particularly for this year, is 
+the expansion of our customer-facing 
+teams in the US and the UK. This 
+is an important use of the £15.2m 
+investment in June 2015. Global 
+coordination of these activities will be 
+considerably enhanced by our recent 
+addition of Robin Young as COO. 
+11 Actual Experience Annual Report and Accounts for the year ended 30 September 2015
+STRATEGIC REPORT
+OVERVIEW
+Actual Experience AR2015-Front.indd   11 01/02/2016   12:11:04

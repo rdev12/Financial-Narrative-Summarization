@@ -1,0 +1,479 @@
+ ARM has, for some years, defined itself as being the architecture
+for the digital world and in last year’s report I wrote that we were
+well on the way to achieving that. What progress have we made
+during 2006?
+A large number of products in everyday use, from personal organisers
+to cars, and from televisions to washing machines, are already likely
+to have ARM IP (intellectual property) embedded within them. We are
+at the point in the digital revolution where intelligent microelectronics
+have made their way out of the workplace – where they have
+been transforming technology for a number of years – into people’s
+everyday lives.
+Our products (our IP) enable companies to design and market their
+electronic devices more quickly and more economically and, what is
+most important to end consumers, to make them more “intelligent”,
+secure and reliable. In my view, we are still only part way through the
+digital revolution and we do not really know when we will reach the
+end. Therein lie the opportunities for ARM. By enabling innovative
+products to be designed and brought to market, our architecture
+ensures that the digital revolution will continue to transform our lives.
+The digital world
+Advances in technology, particularly over the past 20 years, have made
+people’s lives more productive and saved them time – man’s most
+finite, and therefore most valuable, commodity. People in the developed
+world, for example, work approximately 17% fewer hours than they
+did in 1950, work itself tends to be more rewarding because many
+routine tasks have been taken over by technology, and a huge number
+of labour-saving devices at home have removed much of the time-
+consuming drudgery traditionally associated with housework. The digital
+world not only provides access to hitherto unprecedented levels of
+communication, information creation, storage and retrieval, but also
+makes life that little bit easier.
+The widespread use of ARM processors and technology in mobile
+telephony and digital communications is well known, but they
+are increasingly permeating other aspects of our everyday lives.
+Electronics have, for example, driven more than 90% of the innovation
+in the automotive industry. Features which, only a few years ago, were
+exclusive to luxury cars are now commonplace: mid-range vehicles now
+incorporate up to 70 embedded processors which have improved safety,
+added convenience and increased functionality. Our microprocessors
+improve braking systems by enabling the wheels to “talk” to one
+another; airbags to “read” the size and weight of the person they
+are there to protect; engines to start at one turn of the key, no matter
+ARM Annual report and accounts 2006 7
+Business review/Chief Executive Officer’s review of operations Business review/Chief Executive Officer’s review of operations/continued
+how cold the weather; car interiors quickly to reach a comfortable
+temperature; and sound systems to entertain passengers while GPS
+(Global Positioning Systems) help find the way. Perhaps most important,
+however, in a world in which car use is growing exponentially,
+technology has enabled manufacturers to reduce fuel consumption
+by as much as 40% and, as a result, to reduce pollution. Safety and
+environmental regulations will undoubtedly continue to become more
+onerous for manufacturers, and the need to replace expensive
+mechanical parts in vehicles with more economical electro-mechanical
+and electronic systems will increase. The performance and power-
+consumption characteristics of our processors, together with the
+unparalleled scope of the design environment we facilitate for the
+automotive manufacturers and their semiconductor suppliers, means
+that the automotive industry continues to be an exciting growth market
+for ARM technology.
+There is, however, more to the digital world than making life easier
+and more enjoyable for those who live in developed countries.
+Advanced technology is playing a leading role in fuelling growth in the
+developing world. Its contribution to education, one of the principal
+means of lifting people out of poverty, is immense. Equally it contributes
+to saving lives, worldwide, by making it possible to predict accurately
+natural disasters, such as earthquakes and tsunamis; and plays an
+important role in drug research and delivery.
+Technology will continue to evolve. ARM’s digital architects are a vital
+part of that evolution – they create products that are, and will continue
+to be, fundamental to the implementation of the digital world.
+Our role in the industry
+In any industry progress comes at a cost; in the digital world, this is
+because of the significantly increased complexity of the underlying
+technology. While consumers (you and I) will be prepared to pay
+some premium for new intelligence in a product, they will not pay
+significantly more; as a result, manufacturers – and their suppliers –
+are under huge pressure to find less expensive ways to produce ever
+more intelligent devices. This is where ARM comes into the picture:
+our technology makes it easier and more cost effective for companies
+to design and make advanced digital products. Our role is not only to
+innovate, but also to take structural cost out of the process: we enable
+the retail cost of electronic devices to be reduced. Through our licensing
+business model, semiconductor companies can effectively share the cost
+of the design of our products; they can use our microprocessors at a
+fraction of the cost of in-house design. This process applies across our
+technology portfolio of microprocessors (the brains of a digital device)
+and physical and fabric IP (the bricks and mortar); in the future, it will
+also apply to other new products, including graphics, security, and digital
+signal processing technology.
+8 ARM Annual report and accounts 2006
+We estimate that in 2006, 1.5 billion people, a quarter of
+the world’s estimated 6 billion population, bought an ARM
+Powered product. The IP we sell to our customers enables end users to operate their
+devices for long periods without recharging, to connect people more
+easily to one another, and to access information whenever and wherever
+they want to. I believe it is true to say that without ARM IP , which
+balances power with performance and cost, consumer electronics
+would not have reached the point they are at today.
+When we, our customers, and the other companies which play a part in
+bringing digital electronics to the market “get it right”, consumers barely
+notice that there is a digital revolution taking place; products quickly
+become “must-haves” because of the impact they have on peoples’
+lives. It is hard to believe that MP3 players were conceived as recently
+as 1991; that the all-in-one Blackberry wireless device was introduced
+only seven years ago; and that flat-screen televisions were first available
+to the public as recently as 1997. Digital cameras have become so
+commonplace that Kodak stopped selling film cameras in North America
+and Western Europe in 2004.
+The opportunity
+The semiconductor industry in which ARM operates is huge – in 2006
+it was worth approximately $260 billion, of which IP was approximately
+$1.6 billion. We occupy a leading position in the semiconductor market
+and expect not only to benefit from the overall growth of the IP
+industry, but also to continue to expand our market share by continuing
+to bring industry-leading technology to the market. We have already
+built a consistently successful business by establishing the world’s
+leading microprocessor technology in digital electronic products – now
+we are on our way to achieving the same result with physical IP , which
+we believe is the next wave of opportunity for optimising structural
+costs in the semiconductor industry.
+Our future success lies, however, in more than simply seizing the
+opportunity to licence technology to our partners; a bigger opportunity
+lies in the ubiquity of our technologies in digital products used by
+consumers. We estimate that in 2006, 1.5 billion people, a quarter
+of the world’s estimated 6 billion population, bought an ARM Powered
+product. Approximately 90% of the mobile phones manufactured
+today contain at least one ARM product; our goal is for our technology
+to penetrate the billions of other products – from washing machines
+to printers, and from cars to exercise bicycles – that are bought by the
+other three-quarters of the world’s population. The more people who
+use our technology in their daily lives, the more benefit we will accrue
+from the royalty revenue stream which forms the cornerstone of our
+business model and strategy.
+During 2006, we implemented and delivered the highest quality
+technology to our partners, the industry, and end consumers. I am
+confident that we have a bright future as we continue to benefit from
+the digital revolution: we are, indeed, well on the way to becoming
+the architecture for the digital world.
+Warren East Chief Executive Officer
+ARM Annual report and accounts 2006 9 Business review/Financial review/IFRS
+2006 was another year of consistent execution and significant
+investment in our business, and we are encouraged to have grown
+revenues and maintained operating margins despite the weakened
+dollar as well as seeing volumes of ARM Powered products growing
+47% year-on-year to 2.45 billion units
+Performance
+Certain revenue key performance indicators appear on page 3.
+Other cost and profit indicators are discussed as part of this review.
+Revenues
+Total revenues for the year ended 31 December 2006 amounted to
+£263.3 million (2005: £232.4 million). In US dollar terms, revenues
+grew from $418.7 million in 2005 to $483.6 million in 2006, an
+increase of 16%. The actual average dollar exchange rate for ARM
+in 2006 was $1.84 compared with $1.80 in 2005, which had
+the effect of reducing total reported revenues by approximately
+£5.2 million based on 2005 rates.
+Total licensing revenues in 2006 were £110.6 million, being 42%
+of total revenues, compared with £104.3 million or 45% of total
+revenues in 2005. In US dollars, total licensing revenues in 2006
+were $202.5 million compared with $187.0 million in 2005, an
+increase of 8%.
+Royalty revenues in 2006 were £107.8 million, representing 41%
+of total revenues in the year, compared with £87.8 million or 38%
+of total revenues in 2005. Total royalty revenues in US dollars in
+2006 were $199.0 million, up 25% from $158.7 million in 2005.
+Sales of development systems in 2006 were up 13% to £28.8 million,
+being 11% of total revenues, compared with £25.6 million, or 11%
+of total revenues in 2005. Service revenues, which include consulting
+services and revenues from support, maintenance and training, were
+up 10% to £16.1 million in 2006, representing 6% of total revenues,
+compared with £14.7 million, or 6% of total revenues in 2005.
+Royalty revenues and unit shipments
+Total royalty revenues for 2006 were £107.8 million, comprising
+£88.7 million from the Processor Division (“PD”) and £19.1 million from
+the Physical IP Division (“PIPD”). Royalties in PD came from record unit
+shipments of 2.45 billion compared with £72.5 million and 1.67 billion
+units in 2005. Dollar royalty revenues earned in PD were $164.1 million,
+up 25% on 2005 compared with the increase in year-on-year unit
+shipments of 47%. Unit volume growth more than compensated for
+the lower average royalty rates and, as all royalty revenue is earned
+effectively at 100% margin, represents incremental returns on the
+development cost of the ARM technology on which the royalty is earned. ARM continued to benefit from significant growth in the mobile
+segment (which includes mobile handsets, Bluetooth devices and
+portable media players, such as the Apple iPod), which accounted
+for 66% of the units shipped by the ARM Partnership. We also saw
+significant growth across a myriad of applications outside the mobile
+segment, including smartcards, microcontrollers, automotive, connectivity
+devices, hard disk drives and many others. Total non-mobile shipments
+which, at 838 million units in 2006 were higher than total shipments
+into all applications as recently as 2003, illustrates ARM’s increasing
+penetration across the full range of consumer electronics products.
+The total number of partners shipping ARM technology-based products
+at the end of 2006 was 76 after taking into account corporate activity
+within the ARM Partnership. 29 companies were paying royalties for
+physical IP products at the end of the year. Strong momentum in PIPD
+royalties continued, with a 26% growth in both total and underlying
+royalties. Sales of the 130nm and 90nm process nodes continued to
+be the fastest-growing segments for PIPD, although more than half of
+royalties received in 2006 came from older geometries. The growth in
+royalties within PIPD demonstrates the increasing penetration of ARM
+physical IP in chip designs.
+Gross margin
+Gross margins for the year to 31 December 2006 were 88.3%
+compared with 88.6% in 2005. Cost of sales in 2006 includes
+compensation charges in respect of share-based payments of
+£1.0 million (2005: £1.3 million). Excluding compensation charges
+in respect of share-based payments, gross margins for the year
+to 31 December 2006 were 88.7% (2005: 89.1%).
+Operating expenses
+Over the past several years, ARM has acquired various companies
+with significant values of intangible assets other than goodwill being
+recognised; these amounts are amortised over the expected useful lives
+of the assets acquired, with the cost recorded against research
+and development, sales and marketing or general and administrative
+expenses, as appropriate. In order to aid comparability, these costs
+have been separately identified as “acquisition-related charges” in the
+narrative below. In addition, the issuance of ARM share options to the
+employees of Artisan on acquisition, as well as to the ongoing share-
+based compensation to employees of the Group, gives rise to significant
+non-cash share-based compensation charges. These are also separately
+identified in the narrative below.
+Total operating expenses in the year to 31 December 2006 were
+£182.5 million compared with £170.7 million in 2005, with the increase
+primarily attributable to the increase in average headcount from
+1,234 in 2005 to 1,472 in 2006. Operating expenses in 2006 include
+acquisition-related charges relating to amortisation of intangibles of
+£19.3 million (2005: £17.9 million), other acquisition-related charges
+of £1.1 million (2005: £nil) and compensation charges in respect of
+share-based payments and related payroll taxes of £16.4 million (2005:
+£20.3 million). Excluding acquisition-related charges and compensation
+charges in respect of share-based payments and related payroll taxes,
+total operating expenses in 2006 were £145.7 million in 2005,
+compared with £132.5 million in 2005.
+Research and development expenses in 2006 were £84.5 million,
+representing 32% of revenues. This compares with £80.3 million or 35%
+of revenues in 2005. Average headcount in this area increased from
+ARM Annual report and accounts 2006 11 Business review/Financial review/IFRS/continued
+12 ARM Annual report and accounts 2006
+Selected financial data/IFRS
+2006 2005 2004** 2003* 2002*
+£000 £000 £000 £000 £000
+Revenues 263,254 232,439 152,897 128,070 150,922
+Cost of revenues (30,825) (26,610) (12,240) (11,022) (13,185)
+Gross profit 232,429 205,829 140,657 117,048 137,737
+Total net operating expenses (182,531) (170,672) (112,328) (98,609) (96,608)
+Profit from operations 49,898 35,157 28,329 18,439 41,129
+Investment income 6,758 5,317 6,944 4,801 4,373
+Profit before tax 56,656 40,474 35,273 23,240 45,502
+Tax (8,068) (10,827) (9,398) (7,977) (13,031)
+Profit after tax 48,588 29,647 25,875 15,263 32,471
+Equity minority interest ––– (105) (232)
+Profit for the year 48,588 29,647 25,875 15,158 32,239
+Dividends paid 12,367 10,436 8,975 ––
+Capital expenditure 8,559 6,064 5,036 3,605 15,616
+Research and development expenditure 84,494 80,273 54,674 48,131 48,674
+Cash, short- and long-term investments 128,494 160,902 142,817 159,786 130,304
+Shareholders’ funds 663,204 746,847 642,538 180,435 172,140
+Employees at end of year (number) 1,659 1,324 1,171 740 721
+* Figures for the years 2003 and 2002 are shown under UK GAAP and are not comparable with 2004 to 2006 prepared under IFRS.
+** Figures for 2004 have been restated from UK GAAP to IFRS 783 in 2005 to 961 in 2006. Research and development expenses
+in 2006 include total acquisition-related charges of £10.6 million
+(2005: £8.1 million) and compensation charges in respect of
+share-based payments and related payroll taxes of £10.1 million
+(2005: £12.3 million). Excluding acquisition-related charges and
+compensation charges in respect of share-based payments and related
+payroll taxes, research and development expenses in 2006 were
+£63.8 million and £59.9 million in 2005, representing 24% and 26%
+of revenues respectively.
+Sales and marketing costs in 2006 were £53.2 million or 20% of
+revenues, compared with £47.4 million or 20% of revenues in 2005.
+Average headcount in this area increased from 286 in 2005 to 302 in
+2006. Sales and marketing costs in 2006 include total acquisition-related
+charges of £9.1 million (2005: £9.1 million) and compensation charges
+in respect of share-based payments and related payroll taxes of
+£3.5 million (2005: £4.3 million). Excluding acquisition-related charges and
+compensation charges in respect of share-based payments and related
+payroll taxes, sales and marketing costs in 2006 were £40.6 million
+and £34.0 million in 2005, representing 15% of revenues in both years.
+General and administrative expenses in 2006 were £50.1 million or
+19% of revenues, compared with £43.0 million or 19% of revenues
+in 2005. Average headcount in this area increased from 165 in 2005 to
+209 in 2006. General and administrative expenses in 2006 include total
+acquisition-related charges of £0.7 million (2005: £0.7 million) and
+compensation charges in respect of share-based payments and related
+payroll taxes of £2.8 million (2005: £3.6 million). Excluding acquisition-
+related charges and compensation charges in respect of share-based
+payments and related payroll taxes, general and administrative
+expenses in 2006 were £46.6 million, compared with £38.7 million
+in 2005 representing 18% and 17% of revenues respectively.
+Additionally in 2006, the Group sold its investment in CSR plc, resulting
+in a profit of £5.3 million.
+Operating margin
+The operating margin in 2006 was 19.0% compared with 15.1% in
+2005. The operating margin in 2006, excluding acquisition-related
+charges of £20.4 million and compensation charges in respect of
+share-based payments and related payroll taxes of £17.4 million,
+was 33.3% compared with 32.1%, before acquisition-related charges
+of £17.9 million and compensation charges in respect of share-based
+payments of £21.5 million, in 2005.
+Earnings and taxation
+Profit before income tax in 2006 was £56.7 million compared with
+£40.5 million in 2005. Profit before income tax in 2006, excluding
+acquisition-related charges of £20.4 million and compensation charges
+in respect of share-based payments and related payroll taxes of
+£17.4 million, was £94.5 million or 35.9% of revenues. This compares
+with £79.9 million, before acquisition-related charges of £17.9 million
+and compensation charges in respect of share-based payments of
+£21.5 million, or 34.4% of revenues in 2005.
+ARM Annual report and accounts 2006 13 14 ARM Annual report and accounts 2006
+Business review/Financial review/IFRS/continued
+The Group’s effective taxation rate in 2006 was 14.2%, compared with
+26.8% in 2005. This reduction was primarily due to a non-recurring tax
+credit in the year arising from a tax-deductible foreign exchange loss.
+Fully-diluted earnings per share in 2006 were 3.5 pence compared
+with 2.1 pence in 2005. Earnings per fully diluted share in 2006, before
+acquisition-related charges of £20.4 million, compensation charges
+in respect of share-based payments and related payroll taxes of
+£17.4 million and related estimated tax adjustments thereon of
+£9.2 million, were 5.5 pence, compared with 4.2 pence before
+acquisition-related charges of £17.9 million, compensation charges
+in respect of share-based payments of £21.5 million and related
+estimated tax adjustments thereon of £8.9 million, in 2005.
+Balance sheet and cash flow
+Goodwill at 31 December 2006 was £428.4 million, compared with
+£474.4 million at 31 December 2005. The decrease in goodwill in 2006
+is primarily due to foreign exchange movements, given the weakening
+of the US dollar against sterling, from $1.72 at 31 December 2005 to
+$1.96 at the end of 2006. Goodwill arising on the Falanx acquisition
+amounted to £9.4 million and on Soisic to £2.2 million. Goodwill is not
+amortised under IFRS but is subject to impairment review on at least
+an annual basis. The review performed in 2006 concluded that no
+impairment was required.
+Other intangible assets at 31 December 2006 were £62.9 million,
+compared with £79.7 million at 31 December 2005. The movement
+in other intangible assets in 2006 reflects the amortisation in the year
+of the intangible assets arising on acquisitions of £19.3 million, the
+addition of £10.5 million arising on the acquisitions of Falanx and Soisic
+and certain assets of PowerEscape during the year and the revaluation
+of the currency denominated intangibles, predominantly those in US
+dollars. The other intangible assets will be amortised through the
+income statement over their estimated useful lives to the Group.
+Accounts receivable at 31 December 2006 were £69.6 million, compared
+with £55.5 million at 31 December 2005. The allowance against
+receivables was £2.6 million at 31 December 2006, compared with
+£2.2 million at 31 December 2005. Deferred revenues were £31.5 million
+at 31 December 2006, compared with £20.4 million at the end of 2005.
+Resources available
+The consolidated cash, cash equivalents, short-term investments and
+marketable securities balance was £128.5 million at 31 December 2006
+compared with £160.9 million at 31 December 2005. This reduction is
+as a result of the continued share buyback programme and payment
+of dividends (see below), as well as the acquisitions of Falanx and
+Soisic. Excluding these outflows, the Group generated £73.7 million
+of cash in the year (2005: £65.0 million). ARM Annual report and accounts 2006 15
+Interest receivable
+Interest receivable was £6.8 million for the year to 31 December 2006
+compared with £5.3 million in 2005.
+Returns to shareholders
+Dividends
+The directors recommend payment of a final dividend in respect of 2006
+of 0.6 pence per share which, taken together with the interim dividend
+of 0.4 pence per share paid in October 2006, gives a total dividend
+in respect of 2006 of 1.0 pence per share, an increase of 19% over the
+0.84 pence per share in 2005. Subject to shareholder approval, the final
+dividend will be paid on 21 May 2007 to shareholders on the register
+on 4 May 2007.
+Total dividends actually paid in 2006 amounted to £12.4 million
+(2005: £10.4 million).
+Share buyback programme
+In 2006, the Group continued its rolling share-buyback programme
+to supplement dividends in returning surplus funds to shareholders.
+During the year, the Company bought back 63.6 million shares
+(2005: 13.9 million) at a total cost of £76.5 million (2005: £16.2 million).
+Since introducing dividend payments in 2004 and commencing the
+Company’s share buyback programme in July 2005, £125 million has
+been returned to shareholders and 77.5 million shares, 5.6% of issued
+share capital, have been bought back. This has contributed to a net
+reduction in the average fully diluted shares in issue from 1,424 million
+in 2005 to 1,402 million in 2006. This programme will continue during
+2007 and beyond.
+Capital structure
+The authorised share capital of the Company is 2,200,000,000 ordinary
+shares of 0.05 pence each (2005: 2,200,000,000). The issued share
+capital at 31 December 2006 was 1,389,907,834 ordinary shares
+of 0.05 pence each (2005: 1,386,102,680). As a result of the buyback
+programme, the Company held 49,500,000 of its own shares at
+31 December 2006 (2005: 12,751,107).
+Treasury policies and objectives and liquidity
+The Group has established treasury policies aimed both at mitigating
+the impact of foreign exchange fluctuations on reported profits and
+cash flows and at ensuring appropriate returns are earned on the
+Group’s cash resources.
+With more than 95% of Group revenues earned in US dollars and
+approximately 45% of Group costs being incurred in US dollars, the
+Group has a significant exposure to movements in the exchange rate
+between the US dollar and sterling. This exposure is partially mitigated
+by an ongoing hedging programme, involving forward contracts and
+low-risk option contracts where appropriate. Business review/Financial review/IFRS/continued
+Principal risks and uncertainties
+In line with the guidance for the preparation of an operating and
+financial review, certain risk factors faced by the Group are identified
+below. A more detailed description is included in the Group’s annual
+report on Form 20-F. Details of the Group’s internal control and risk
+management procedures are included in the corporate governance
+report on pages 20 to 23.
+ARM’s quarterly results may fluctuate significantly and be
+unpredictable which could adversely affect the market price
+of ARM ordinary shares
+ARM has experienced, and may in the future experience, significant
+quarterly fluctuations in its results of operations. Quarterly results
+may fluctuate because of a variety of factors. Such factors include:
+– the timing of entering into agreements with new licencees;
+– the mixture of licence fees, royalties, revenues from the sale of
+development systems and fees from services;
+– the introduction of new technology by us, our licencees or
+our competition;
+– the timing of orders from, and shipments to, systems
+companies of ARM technology-based microprocessors from
+our semiconductor partners;
+– sudden technological or other changes in the microprocessor
+industry; and
+– new litigation or developments in current litigation.
+In future periods, ARM’s operating results may not meet the expectations
+of public market analysts or investors. In such an event the market price
+of our shares could be materially adversely affected.
+General economic conditions may reduce ARM’s revenues and harm
+ARM’s business
+ARM is subject to risks arising from adverse changes in global economic
+conditions. Because of economic uncertainties in many of our key
+markets, many industries may delay or reduce technology purchases
+and investments. The impact of this on ARM is difficult to predict,
+but if businesses defer licensing our technology, require less services
+or development tools, or if consumers defer purchases of new products
+which incorporate ARM’s technology, revenue could decline. A decline
+in revenue would have an adverse effect on the results of operations
+and could have an adverse effect on ARM’s financial condition.
+ARM competes in the intensely competitive semiconductor market
+The semiconductor market is intensely competitive and characterised
+by rapid technological change. ARM cannot give assurance that it will
+have the financial resources, technical expertise, or marketing or support
+capabilities to compete successfully in the future.
+Competition is based on a variety of factors including price, performance,
+product quality, software availability, marketing and distribution capability,
+customer support, name recognition and financial strength. Further,
+given ARM’s reliance on our semiconductor partners, its competitive
+position is dependent on their competitive position. In addition, ARM’s
+16 ARM Annual report and accounts 2006 semiconductor partners do not license ARM’s architecture exclusively,
+and several of them also design, develop, manufacture and market
+microprocessors based on their own architectures or on other
+non-ARM architectures.
+ARM may not operate systems which comply fully with the
+requirements of the Sarbanes-Oxley Act
+Attestation under section 404 of the Sarbanes-Oxley Act as at
+31 December 2006 has been successfuly completed. Full details appear
+in the Group’s annual report on Form 20-F. There can be no guarantee,
+however, that in future the detailed testing of internal controls required
+as part of the attestation process will not identify significant control
+deficiencies or material weaknesses that impact on the auditors’ opinion
+on internal controls over financial reporting and/or require disclosure
+on Form 20-F for future years.
+Other risks include ARM’s inability to manage the significant changes
+in the number of its employees and the size of its operations in the
+United States, dependence on semiconductor Partners and systems
+companies, availability of development tools, systems software and
+operating systems compatible with ARM’s architecture, dependence on
+a small number of customers and products, ARM’s inability to develop
+new products on a timely basis, unanticipated costs due to products that
+could have technical difficulties or undetected design errors, the ARM
+architecture not being continued to be accepted by the market, risks
+associated with any strategic investments or acquisitions, dependence
+on senior management personnel and on hiring and retaining qualified
+engineers, exposure from international operations, litigation and threats
+of litigation and protection of ARM’s intellectual property, unavailability
+of debt financing or additional equity funding to satisfy future capital
+needs, adverse effects resulting from changes in stock option accounting
+rules adversely impacting ARM’s reported operating results and its
+competitiveness in the marketplace.
+Tim Score Chief Financial Officer
+ARM Annual report and accounts 2006 17

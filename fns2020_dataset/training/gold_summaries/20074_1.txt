@@ -1,0 +1,448 @@
+ CEO’s statement
+Opportunities and challenges in  
+an increasingly connected world
+Fundamentally, we create technology that helps 
+to make consumer and industrial electronics 
+smarter, more capable and more energy-
+efficient. We provide cost-effective processor 
+technology that is deployed into the products 
+that many consumers and businesses use every 
+day. As these products sell in increasingly high 
+volumes, they help drive ARM’s revenues. 
+We can then invest in the development of 
+new technology in order to generate superior 
+returns for shareholders over the long term.
+The ﬁrst ARM-based chips started to ship in 
+1991, and by 2001, 1 billion ARM-based chips 
+had been shipped. Today that cumulative 
+number stands at over 60 billion, with 12 billion 
+shipped in 2014 alone, up 16% on the previous 
+year. Just under half of the chips sold by our 
+customers last year went into mobile devices, 
+and the remainder into a vast array of other 
+end markets: digital TVs, cameras, white 
+goods, WiFi routers, printers, disk drives and 
+safety systems in cars.
+08 ARM Holdings plc  Strategic Report 2014
+One of the most asked questions by investors is: ARM has seen many 
+years of fantastic growth, so how is it going to continue to grow from 
+here? I believe that we have many opportunities ahead of us as mobile 
+products become more capable; as more people in the world gain 
+access to smarter devices; and also as ARM technology is increasingly 
+used in a widening range of digital products from sensors to servers.
+Today ARM has 1,198 processor licences signed 
+with our Partners. Of the 163 that were signed 
+in 2014, about a quarter are intended for use 
+in mobile devices, so the other three quarters 
+are helping to expand our opportunity into 
+markets beyond mobile.
+The past year was not without challenges. 
+Sales of ARM-based chips into mobile devices 
+and consumer electronics were impacted by an 
+inventory correction, so our royalty revenue 
+growth was less than we would normally have 
+expected. These industry-wide inventory 
+corrections occur from time to time, and this 
+is the ﬁfth we have seen in the past decade. 
+They have been relatively short-term, and 
+it is important not to be diverted from our 
+strategy. Careful management of our costs 
+ensured that we were able to maintain our 
+R&D investment plans whilst increasing proﬁts 
+and cash returns to shareholders.
+Over the next few pages I review some of 
+ARM’s main opportunities and challenges 
+and how we are responding to them.
+2001: 1 billion ARM-based 
+chips shipped
+1 bn
+2014: Over 60 billion  
+ARM-based chips shipped
+60bn
+1991: 1st ARM-based  
+chips started to ship 09
+We develop technology 
+that makes consumer and 
+industrial products smarter , 
+more capable and more 
+energy-efficient.
+Simon Segars 
+Chief Executive Officer
+Overview Vision Performance Commitment Financials ARM Holdings plc  Strategic Report 2014 10
+T oday there are about 2 billion 
+people who own a smartphone, 
+and each of those smartphones 
+contains at least one ARM-
+based chip. 
+CEO’s statement continued...
+Mobile computing
+Over the past decade the market for mobile 
+phones has been transformed. The key 
+selling point behind a mobile phone used to 
+be the hardware, the physical phone itself. 
+Consumers wanted to replace phones that 
+use a grey-scale screen with a colour screen. 
+They wanted phones which were thinner or 
+lighter or had a longer battery life. Then, as 
+mobile phones became smartphones, software 
+and apps became the key differentiator. 
+We now see apps stores with millions of apps 
+from gaming to photography to productivity; 
+there is an app for almost everything. Now, it is 
+the service that is enabled by the smartphone 
+that is important to many: improving ﬁtness, 
+providing directions, ordering a meal, or 
+booking a taxi.
+We are already at the start of the next wave 
+of mobile technology. In advanced economies, 
+the smartphone is connecting to other devices 
+such as smart watches and thermostats. 
+This will extend the information and services 
+available to you via your smart mobile device. 
+Also, we are seeing the growth of LTE/4G 
+networks which are dramatically increasing 
+the bandwidth of network connectivity, and 
+reducing the lag in communications. We expect 
+that faster and more responsive networks will 
+change the way we use smartphones, giving 
+these devices the potential to be an even more 
+essential part of our lives.
+Of the 7 billion mobile subscriptions globally, 
+only 2 billion are for smartphones. This is a 
+huge opportunity for the industry as more 
+people are choosing to upgrade from a 
+basic phone to a smartphone. Many of the 
+people using basic phones are located in the 
+developing world, where only one in three 
+people has access to the internet.* However, 
+with lower-cost smartphones becoming more 
+widely available, more people are now able to 
+connect for the ﬁrst time.
+Low-cost smartphones are being used in 
+new and innovative ways to help alleviate 
+local problems: 
+ In countries where many people don’t have 
+bank accounts, mobile phones are used to 
+transfer money from phone to phone
+ Low-cost peripherals can be used as a 
+medical diagnostic tool that can help with 
+health care in remote regions
+ Educational material can be distributed 
+electronically, either in written or spoken 
+form, lowering the barriers to knowledge. 
+We have seen examples where farmers 
+have learnt how to improve the productivity 
+of their crops and livestock, and parents 
+have learnt how to prevent and treat 
+childhood disease
+The ongoing revolution in the use of mobile 
+technology, in developed and emerging 
+economies, is bringing new opportunities 
+for creativity and innovation, based on ARM 
+technology, which will help to shape a more 
+connected world. 
+* ITU Report “The World in 2014”
+Xiaomi Smartphone 
+The Xiaomi Redmi 1S smartphone is promoting 4G 
+uptake in China by bringing Chinese consumers cost-
+effective phones that are comparable to the world’s 
+top smartphones. It is based on MediaTek
+®
+ MT6582 
+SoC integrating an ARM
+ 
+Cortex
+®
+-A7 CPU and an 
+ARM Mali™-400 GPU. It was manufactured using a 
+leading-edge 28nm processor, and has ARM TrustZone
+®
+ 
+technology support for system-level security.  11 Overview Vision Performance Commitment Financials
+With smartphones as an open 
+platform, apps developers don’t 
+need scale to start a business; 
+they don’t need factories, 
+distribution channels or global 
+logistics. With mobile computing, 
+you just need an idea. And we 
+are seeing a similar trend in the 
+Internet of Things (Io T).
+In the same way that connecting mobile 
+phones to the internet transformed how we 
+communicate with each other and interact 
+with our data, connecting other devices to the 
+internet could further improve our lives and 
+experiences. And this is the concept of the 
+Internet of Things.
+An IoT device may consist of several sensors, 
+a microcontroller to monitor the sensors 
+and a wireless chip to connect the device to a 
+network. Today, the computer power needed 
+to create an IoT device can be found in chips 
+that are small enough to ﬁt into the dimple of a 
+golf ball, cost only a few tens of cents and have 
+a battery life that can last for months.
+This has created the opportunity for truly 
+ubiquitous computing. Many of the things 
+around us can be connected to the internet, 
+enabling us to control and interact with our 
+environment in entirely new ways. Some of the 
+ﬁrst IoT applications include:
+ Managing irrigation systems to increase crop 
+yields using less water .
+ Remote medical monitoring for patients 
+whilst allowing them greater freedom.
+ Smarter cities supporting larger populations 
+with less congestion. 
+ Factories creating a greater variety of 
+end products at a lower cost than mass 
+manufacturing could ever achieve.
+We are also seeing embedded intelligence 
+enabling products to be used in entirely new 
+ways. For example, footballs and basketballs 
+are having location and spin sensors 
+embedded within them to help athletes of 
+all abilities improve their game – to bend the 
+football into the goal, or hit the basket at the 
+optimum angle.
+The Internet of Things
+The Arduino™ Zero is a simple and powerful ARM-
+based Arduino development board. This board is based 
+on the low-power and high efficiency of a 32-bit ARM 
+Cortex-M0+ microcontroller powered by Atmel
+®
+ 
+SAMD21 MCU. The Zero board expands the Arduino 
+family by providing increased performance to fuel the 
+creativity of the maker community and beyond.
+A new IoT product or service can be 
+inexpensive to design and quick to bring to 
+market. ARM and its Partners have worked 
+together to create a suite of development 
+boards, which can be combined with 
+sensors and motors, to detect, control 
+and communicate with almost anything. 
+Combined with free software tools, and 
+easy connectivity to a smartphone and 
+cloud computing services, a prospective 
+inventor can build a prototype for less than 
+$100. This is encouraging a new generation 
+of entrepreneurship and innovation that will 
+change the world for all of us.
+Connecting millions of IoT devices can be 
+challenging and so in 2014 we announced the 
+ARM mbed
+TM
+ IoT Device Platform that can 
+connect and manage global networks of smart 
+connected embedded computers. We will 
+continue to invest in new technologies that 
+enable the deployment of ARM-based chips. ARM Holdings plc  Strategic Report 2014 12
+Enterprise infrastructure 
+At the end of 2014, more than 15 companies had licensed 
+ARMv8-A technology for enterprise infrastructure 
+applications. This market is a key growth area for ARM.
+With more smartphones and 
+tablets allowing everyone to 
+create and access more data, 
+faster and with lower latency, and 
+with more Io T devices connecting 
+and communicating across the 
+network, we are witnessing a 
+huge increase in the demands on 
+mobile and wired networking 
+infrastructure, all the way to the 
+servers within data centres all 
+over the world.
+To meet these increasing demands, network 
+operators are building a new generation of 
+infrastructure with much greater capacity. 
+To avoid an associated increase in electricity 
+usage, they are choosing to use more 
+energy-efficient chips for their base stations, 
+switches and routers. This is creating 
+opportunities for chips built using ARM’s 
+most advanced technology, which can help 
+deliver high performance with less energy than 
+previous approaches.
+We have already licensed our technology to 
+nearly all the major semiconductor companies 
+who are making chips for this market, and 
+some of these chips are just beginning to 
+ship into 4G and small-cell base stations. 
+With our Partners, we are now working to 
+ensure that there is an optimised software 
+ecosystem to enable carriers and network 
+operators to deploy their services easily on 
+ARM-based networking equipment. Over the 
+next few years we expect our market share in 
+networking infrastructure to grow as more of 
+our Partners start to ship ARM-based chips 
+for networking infrastructure.
+The ARMv8-A architecture has been the 
+key technology to enable our Partners to 
+gain share in servers. Processors based on 
+ARMv8-A are able to manage very large 
+amounts of data, can scale to a great many 
+cores in a single chip, and support key server 
+functionality such as error correction and 
+acceleration for encryption. We started work 
+on ARMv8-A in 2007, signed our ﬁrst licence 
+in 2009 and saw the ﬁrst commercial chips ship 
+into server applications in 2014. During 2015 
+we expect several more companies will start to 
+ship ARM-based server chips, and we may also 
+see the ﬁrst large-scale server systems built. 
+Competition
+Our competition continued to be active in 
+2014. There were new processors and chips 
+announced by competitors, and they had 
+new design wins and started new strategic 
+initiatives. Some competitors are trying to win 
+share in smartphones and tablets, and also to 
+defend their share in markets where ARM’s 
+technology is challenging them, such as in 
+networking infrastructure and servers. 
+ARM welcomes this competition – together 
+with our Partners, we work hard to make 
+our products as competitive as possible. 
+During 2014, we saw our Partners introduce 
+new technology based on ARM processors 
+from the highest performance chips into 
+servers and smartphones to low-cost, low- 
+power chips for IoT. We have now signed 63 
+licences with 38 companies for ARMv8-A 
+technology, and in 2014 we started licensing 
+two new ARMv8-A processors.
+CEO’s statement continued...
+Servers and networking infrastructure
+ations. This market is a key growth area for ARM. 13 Overview Vision Performance Commitment Financials
+Collectively, the ARM ecosystem is the 
+strongest in the industry.
+Developing the organisation
+ARM has always taken a long-term view, as 
+it can take many years for technology to go 
+from an idea being discussed by one of our 
+engineering teams to a design licensed to our 
+Partners, and then to a chip, and then to an 
+end-market product being shipped in millions. 
+This long-term view inﬂuences how we invest 
+in the business and how we develop the 
+capability of the people who are at the heart 
+of this business, and the tools and processes 
+that support them. 
+This long-term view does not prevent us from 
+being nimble when new opportunities present 
+themselves. For example, as we identiﬁed 
+an opportunity to develop new products for 
+the IoT, we formed a new team by combining 
+a newly acquired company with parts of 
+existing engineering and marketing teams. 
+We were able to ensure that we had the right 
+skills, technology, partnerships and industry 
+connections to enable ARM to become the 
+primary technology used in all of the IoT 
+end markets.
+Developing the ecosystem
+ARM, its customers and a broader partnership 
+of companies create an ecosystem of 
+innovation and invention. It is critical to ARM’s 
+long-term success that this ecosystem thrives 
+and grows and adapts for the next generation 
+of ARM-based technologies. For an original 
+equipment manufacturer (OEM) to build 
+a smartphone or a server or an internet-
+connected sensor, they need technology from 
+multiple companies to integrate together into 
+a single end product. ARM and its ecosystem 
+provide this technology from processor 
+designs, to chip designs and manufacturing, 
+to software tools and operating systems, to 
+training and design services. 
+As ARM technology enters new markets, we 
+invest a lot of time and resources into bringing 
+new companies into the ecosystem, and we 
+help ensure that the relevant technology 
+within the ecosystem works well together. 
+We work with others within the ecosystem 
+to establish standard speciﬁcations; we create 
+not-for-proﬁt entities to enable technology 
+collaboration to solve common problems; 
+we use technology from multiple companies 
+to build test chips and example products; 
+and we share our technology plans with 
+companies so we can align our plans for 
+developing technology. 
+ARM is continually investigating new markets 
+and experimenting with new technologies to 
+discover new opportunities to grow. Some of 
+these new technologies will be extensions of 
+our existing product portfolios, or we may 
+be able to take our existing technology into 
+new market areas. We may even get the 
+opportunity to create a new technology in 
+a brand new market.
+We are now preparing for the next ten 
+years of ARM’s growth. At the beginning 
+of 2014 we reorganised the business, and 
+combined all the divisions together into a 
+single product development team. This is led 
+by the President of Product Groups, who is 
+responsible for developing all of our current 
+product roadmaps. We have also recruited 
+new executives into the positions of CIO, 
+EVP People and General Counsel, and with 
+the retirement of Tim Score, we will soon 
+welcome Chris Kennedy as our new CFO.
+I believe these changes will signiﬁcantly 
+strengthen the ability of the business to 
+deliver our current roadmap, and give us the 
+ﬂexibility to explore new prospects and new 
+directions, and together these will drive ARM’s 
+opportunities for many years to come.
+In addition, the whole company has placed 
+emphasis on improving our agility and speed, 
+and the effectiveness of the entire organisation. 
+We have been asking: “How can this task 
+be done faster and with higher quality?” and 
+applying our culture of innovation to the way 
+we do things.
+Together we are creating an environment 
+where it is easier to get things done, where 
+information ﬂows and is easier to ﬁnd and 
+share; where repetitive tasks are automated 
+and where our collective brain power can 
+be applied to the most value-add activities – 
+innovating, thinking, listening, collaborating, 
+learning from each other and partnering 
+to build the most successful and strongest 
+ecosystem the technology world has ever seen, 
+and that will drive growth for years to come. 14 Overview Vision Performance Commitment Financials 14 ARM Holdings plc  Strategic Report 2014 Supporting 
+creativity 
+everywhere
+ARM is lowering the barriers to entrepreneurship by 
+providing tools to create the next generation of ARM-
+based devices. 
+One of ARM’s undergraduate engineers designed a 
+message board that connects wirelessly to a smartphone. 
+This prototype took a few days to develop, and the 
+components (excluding the phone) cost less than $100.
+Visit www.mbed.org for  
+low-cost development  
+boards and libraries of  
+free software.
+15 Overview Vision Performance Commitment Financials
+In this section:
+Our marketplace 00 
+Our business model 00 
+How we create value 00 
+Strategy 00 
+Key performance indicators 00 
+Risk management 00
+In this section:
+Our marketplace 16 
+Our business model 20 
+Strategy 22 
+Key performance indicators 24 
+Risk management 31

@@ -1,0 +1,2755 @@
+ Fusionex International Plc
+Annual report 2013
+Fusionex International Plc Annual report 2013  Fusionex is a multi-award 
+winning international provider 
+of enterprise software solutions.
+Fusionex specialises in Big Data Analytics. 
+We focus on helping people manage and 
+derive business value and insights from  
+their data. 
+ REVIEW OF THE YEAR
+01 Highlights of the Year
+02 Chairman’s Statement
+03 CEO’s Review
+05 Financial Review
+CORPORATE GOVERNANCE
+07 Board of Directors
+08 Directors’ Report
+10 Remuneration Committee Report
+12 Corporate Governance Report
+14 Independent Auditor’s report
+FINANCIAL STATEMENTS
+15 Consolidated Statement of Financial Position
+16 Consolidated Statement of Comprehensive Income
+17 Consolidated Statement of Changes in Equity
+18 Consolidated Statement of Cash Flows
+19 Notes to the Financial Statements
+42 Notice of Annual General Meeting
+43 Explanatory Notes to the Notice of Annual General Meeting
+FIND OUT MORE ONLINE AT
+FUSIONEX-INTERNATIONAL.COM  REVIEW OF THE YEAR
+ Highlights of the Year
+Revenue 
+RM (Malaysian Ringgit)
+44.4m (2012: 31.3m)
+
+ 42%
+Cash and cash equivalents 
+RM (Malaysian Ringgit)
+62.4m (2012: 10.3m)
+
+ 505%
+Gross profit  
+RM (Malaysian Ringgit)
+34.3m (2012: 23.2m)
+
+ 48%
+EBITDA 
+RM (Malaysian Ringgit)
+22.1m (2012: 16.4m)
+
+ 35%
+MAJOR MILESTONES MET
+ › Significantly oversubscribed IPO in December 
+2013 on LSE AIM
+ › Expanded into Hong Kong serving as 
+a gateway to the Greater China Region, 
+Indonesia and Australia
+ › Ended FY2013 on a strong note with double 
+digit growth financially
+ › Won numerous awards including the Asia 
+Pacific ICT Alliance (APICTA) Award for Best 
+Application Tool and Business Intelligence 
+Award for Asia Pacific
+OPERATIONAL HIGHLIGHTS
+ › Launch of GIANT, the Company’s Big Data 
+Analytics software solution, in December 2013
+ › Strategic partnerships signed with Cloudera 
+and Hortonworks, 2 leading Hadoop distribution 
+platform providers, which in conjunction with 
+GIANT provide a complete enterprise Big Data 
+offering to organisations
+ › Investment in R&D fuelling innovation and 
+customer traction
+ › Strategy to broaden geographical reach showing 
+positive results, products being particularly well 
+received in Asia Pacific, Europe and Americas
+ › Plans to invest and develop indirect channel 
+(partner channel network) to capitalise on 
+market opportunities and to reach out to a 
+wider audience, in a scalable way
+Our first year as a listed company has 
+proven to be a period of significant 
+development for Fusionex; not only 
+have we had a strong year financially, 
+we have also taken the business 
+through a period of significant 
+development and expansion.
+We have consistently delivered on 
+our promises, serving as a strong 
+testimony towards Fusionex’s ability 
+to achieve strong double digit yet 
+sustainable growth.
+Ivan Teh 
+CEO and Managing Director
+01
+Fusionex International Plc
+Annual report 2013
+REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL ST A TEMENTS  REVIEW OF THE YEAR
+Fusionex International Plc
+Annual report 2013
+ Chairman’s Statement
+2013 has been a very significant year in the Company’s history, marked 
+in the first quarter by the Company’s highly successful IPO in London 
+and culminating in a very strong financial performance reflected in the 
+Company’s share price, which has more than doubled since admission. 
+The Company’s success has also been widely recognised through a 
+number of prestigious awards won during the year.
+Following its successful listing on the Alternative Investment Market 
+(AIM) in London on 18 December 2012, with gross proceeds of 
+GBP12  million raised through its significantly oversubscribed share 
+placement, Fusionex’s business has continued to show strong revenue 
+and profit growth, supported by many significant and prestigious new 
+business wins in key markets. During the year the Company also made 
+good progress in expanding its geographic coverage, opening new 
+offices in Hong Kong and Australia.
+During the year the Company has invested heavily in product 
+development, with a particular focus on Big Data, and has further 
+strengthened and widened the features and functionalities of its suite 
+of software solutions, namely its core transactional engine (CTE) as well 
+as its multi-award winning business intelligence and analytics software 
+(BI Centre). The recently announced launch of the Company’s flagship 
+Big Data Analytics software, GIANT, in December 2013, is proof of the 
+Company’s determination to deliver on its IPO promises. GIANT can be 
+used anywhere, anyhow (whether via an on-premise, “cloud” or hybrid 
+approach) and rendered over any form (smartphone, PC, laptop, tablet, 
+etc.). It is already one of the most comprehensive, if not the most 
+comprehensive, Big Data Analytics software available on the market, 
+and further feature releases and product upgrades planned by the team 
+will elevate its status as the top Big Data Analytics software in terms of 
+features and user-experience.
+Big Data is seen as the new wave of opportunity to organisations in that 
+the information that can be harnessed from such data is immensely 
+valuable. Fusionex has developed GIANT to help organisations transform 
+raw data into useful information for the much needed insights to run 
+their businesses.
+Fusionex has exceeded expectations for 2013 and we look forward to 
+an exciting 2014. With continued investments in sales, R&D and product 
+development, your Board remains confident that Fusionex will be 
+in a strong position to continue to deliver profitable growth and take 
+advantage of the rapidly expanding market for its products and services 
+on an expanding geographical footprint.
+John Croft
+Non-Executive Chairman
+15 January 2014
+Fusionex’s business 
+has continued to show 
+strong revenue and profit 
+growth, and has exceeded 
+expectations for 2013.
+SUMMARY
+ › Fusionex made good progress expanding 
+its geographical coverage
+ › The Company has invested heavily in 
+product development with a particular 
+focus on Big Data
+ › Fusionex has developed GIANT to 
+help organisations transform data 
+into useful information
+02
+Fusionex International Plc
+Annual report 2013 REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL ST A TEMENTS
+Fusionex International Plc
+Annual report 2013 03
+ CEO’s Review
+Overview
+The first quarter of Fusionex’s financial year of 2013 bore witness to 
+Fusionex’s IPO being significantly oversubscribed on 18 December 2012. 
+This has since provided us with a strong platform to accelerate Fusionex’s 
+research and development initiatives, as well as execute its strategic 
+growth goals and targets towards the development and further 
+expansion of the Group. 
+For the financial year of 2013, we have consistently delivered on our 
+promises in terms of corporate and business achievements, product 
+development and enhancements, as well as the all-important financial 
+milestones, serving as a solid testimony towards the Group’s ability to 
+achieve strong double digit, but at the same time, sustainable growth. 
+Achievements and expansion
+Following the IPO, Fusionex has increased its sales by cross-selling 
+products and solutions, and has expanded its geographical footprint to 
+Hong Kong, Greater China Region, Indonesia and Australia. Despite these 
+initiatives occurring towards the middle and later part of the financial 
+year, the results and potential for further sales growth are evident by the 
+42% growth in the Group’s revenue as well as the 48% growth in gross 
+profit. In addition, the Group’s profit after tax (PAT) increased by 45%. 
+This underlines the Group’s strong management capabilities and growth 
+strategy, alongside its transition as a public listed company.
+Fusionex has been consistently recognised by the IT industry for the 
+quality of its products and offerings; 2013 was no different as Fusionex 
+once again recorded numerous award wins in the area of product 
+excellence. Our multinational presence and recognition is reflected by 
+the variety of awards received at different levels, from the international 
+Microsoft awards won for consecutive years running, to awards won in 
+the ASEAN region (such as the SiTF Awards for both best application as 
+well as best emerging technology and the MSC Malaysia award for Best 
+General Application), and even awards won on a wider regional basis 
+such as the prestigious Asia Pacific ICT Alliance (APICTA) award for the 
+Best Application Tools/Platform category. Winning these awards not only 
+serves as an endorsement towards the high quality of our products and 
+offerings, but also provides the recognition due to our team for their 
+efforts to continuously stay ahead of the curve in terms of technology.
+Moving forward, the Group intends to establish a partner channel 
+network to widen our reach and to further grow our business. It is our 
+belief that this approach will propel Fusionex towards accelerating its 
+expansion plans in a scalable manner. 
+Fusionex remains focused 
+towards becoming a leading 
+provider in Big Data Analytics. 
+The hugely positive reception 
+received for GIANT provides 
+us with strong conviction to 
+scale further heights in our 
+organisational growth.
+SUMMARY
+ › The IPO has provided Fusionex with a strong 
+platform to accelerate its R&D initiatives, 
+strategic growth goals and targets
+ › Fusionex is consistently recognised for 
+the quality of its products and offerings, 
+and has recorded numerous award wins 
+in 2013
+ › Strategic partnerships with Cloudera and 
+Hortonworks established
+ › Asia Pacific continues to be the Group’s 
+main geographical focus where market 
+and demand for Analytics and Big Data 
+continues to rise  REVIEW OF THE YEAR
+Fusionex International Plc
+Annual report 2013 04
+ CEO’s Review (continued)
+GIANT and technology
+Following its IPO, the Group has initiated the development and 
+enhancements to the Group’s suite of software products to cater to an 
+even wider audience across different verticals. The Group places a strong 
+focus on Business Intelligence and Analytics, identified for the past few 
+years consecutively by leading marker researcher Gartner as the number 
+one technology priority for CIOs.
+The recent launch of Fusionex’s flagship Big Data Analytics product, 
+GIANT, shortly before the end of the first quarter of our financial year of 
+2014, fuels additional growth potential for the Group. Independent 
+analyst firm Wikibon has opined that the Big Data market is on the verge 
+of a rapid growth trajectory that will see it top the $50 billion mark 
+worldwide within the next 5 years. It also opines that this growth is fuelled 
+by increased interest and awareness in the power of Big Data capabilities 
+to gain competitive advantage and improve operational efficiencies.
+Fusionex GIANT stands apart from the competition due to its unique 
+differentiators, where GIANT performs a “Connect & Collect” activity over 
+and above the standard “store, process and access” (SPA) for Big Data. 
+Many players in the market wrongly assume that organisations already 
+have the tools and know-how to “Connect & Collect” raw data, and that 
+these organisations already have Big Data or Hadoop capabilities, which 
+is more often than not a wrong assumption. With GIANT, end-users will 
+be able to leverage on our platform and tools to “Connect & Collect” the 
+requisite data (including complex data), before carrying out the “SPA” 
+activity. In other words, it is an end-to-end Big Data Analytics product 
+which addresses the issue of organisations looking for Big Data Analytics 
+without planning to learn about complex Big Data technologies.
+In conjunction with GIANT’s release, we also established strategic 
+partnerships with both Cloudera and Hortonworks, 2 of the most 
+established distribution platform providers. The complementary and 
+synergistic nature of these partnerships will provide the ideal platforms 
+for Fusionex GIANT to function as the last-mile business solution to 
+organisations via Big Data Analytics.
+Outlook
+Fusionex remains focused on becoming a leading provider in Big Data 
+Analytics. Asia Pacific continues to be the Group’s main geographical 
+focus, where we see market and demand for Analytics and Big Data rising 
+in line with growth trends but in the absence of established world-class 
+ICT players originating from this region, apart from Fusionex. This presents 
+a unique business opportunity for Fusionex, and its know-how for the 
+Asian market remains a key competitive advantage. 
+Our strong presence in this region, coupled with the hugely positive 
+reception received for GIANT from existing clients and new clients alike, 
+provides us with strong conviction to scale further heights in our 
+organisational growth. 
+As we sum up the end of a hugely successful year, we turn our sights 
+towards the horizon with confidence as Fusionex – the “Falcon of Asia” – 
+spreads its wings and soars towards new heights. 
+Ivan Teh
+CEO and Managing Director
+15 January 2014 REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL ST A TEMENTS
+Fusionex International Plc
+Annual report 2013 05
+Financial Review
+The Group has been progressing well for the year under review following 
+the Company’s admission to AIM in London on 18 December 2012, with 
+double digit percentage increases in key revenue and profitability metrics.
+The Group enjoys profits after tax, generating a net profit of 
+RM19 million on revenue of RM44.4 million for the financial year ended 
+30 September 2013.
+Revenue 
+Group revenue increased by 42% to RM44.4 million (2012: RM31.3 million) 
+with 83% of the Group’s total revenue contributed from sale of products. 
+The Asia Pacific region, being a burgeoning economic region, was the 
+main contributor to the Group’s revenue and its contribution amounted 
+to 78% of the total revenue. In addition to the Malaysia, Singapore and 
+Thailand markets, the Group has expanded to Greater China, Indonesia 
+and Australia as planned during the Group’s admission, culminating in 
+further opportunities in new markets.
+Gross profit
+Gross profit of the Group has increased by 48% over the year to 
+RM34.3 million (2012: RM23.2 million). The amortisation cost for the year 
+has increased to RM1.1 million (2012: RM0.63 million) with product 
+enhancements costs that had been capitalised being charged out as 
+amortisation over the years when the relevant product enhancements 
+were commercialised in the year. 
+EBITDA and profitability
+EBITDA for the period was RM22.1 million (2012: RM16.4 million) 
+representing an increase of RM5.7 million (35%). Even with the increase 
+in depreciation expenses for the year – due to higher computer 
+equipment and peripherals being purchased for the increase in staffing 
+and sales and implementation activities, and amortisation expenses for 
+commercialisation of the product enhancements – the Group has been 
+able to increase its profit before tax by RM5.4 million to RM20.5 million 
+(2012: RM15.1 million) representing an increment of 36%. 
+Profit after tax for the year has increased by 45% from last year to RM19.0 
+million (2012: RM13.1 million). 
+Notwithstanding the increase in the costs and expenses of the Group, 
+net margin improved marginally to 43% (2012: 42%).
+Taxation
+The Group operates in certain geographical areas in which the income 
+generated has been exempted from taxation or subject to tax allowances. 
+As a result, the Group was subject to minimal taxation which resulted in 
+the effective tax rate of the Group being in the region of 7% (2012: 13%).
+Fusionex has been progressing 
+well for the year under review 
+with double digit percentage 
+increases in key revenue as 
+well as profitability metrics.
+SUMMARY
+ › The Asia Pacific region was the main 
+contributor to the Group’s revenue
+ › Profit After Tax increased by 45%
+ › EBITDA saw an increase by 35%
+ › Strong cash balance standing at 
+RM 62.4 million  REVIEW OF THE YEAR
+Fusionex International Plc
+Annual report 2013 06
+Income Statement extract
+(RM’ million)
+30 September 
+2013
+30 September 
+2012
+Increase/
+(decrease)
+Revenue 44.4 31.3 42%
+By: type
+Products 36.9 21.8 69%
+Services 7.5 9.5 (21%)
+By: region
+Asia Pacific 40.4 23.9 69%
+U.K. & Europe 10.7 8.3 29%
+U.S. 3.7 2.8 32%
+Consolidation elimination (10.4) (3.7) 181%
+Gross profit 34.3 23.2 48%
+EBITDA 22.1 16.4 35%
+Profit before tax 20.5 15.1 36%
+Profit after tax 19.0 13.1 45%
+EPS (RM) 0.45 0.36 24%
+Cash flow
+Flotation of the Group in December 2012 resulted in the Group raising 
+GBP12 million gross profit. The net proceeds were being used principally 
+to fund product development, expand the Group’s sales capabilities and 
+provide additional working capital for the Group’s operation. 
+The Group continued to generate strong cash flows from its operations 
+with stronger inflows in the second half of the year. In March 2013, 
+the Group acquired a Grade A MSC status office unit of 38,000 sq ft 
+at Plaza 33, for the Group’s head office in Malaysia, for a consideration 
+of RM27.4 million. The MSC status head office will be used to support 
+the  key operational initiatives of the Group, which includes R&D for 
+the  new products and enhancements, sales and marketing and 
+geographical expansion. 
+With the strengthening of the Group’s continuing operations, cash 
+generated from operations for the year has improved and is standing 
+at RM62 million for the financial year of 30 September 2013.
+The principal movements in the net cash were as follows:
+(RM’ million)
+30 September 
+2013
+30 September 
+2012
+Cash flows from operating activities 19.8 15.8
+Acquisition of property, plant and 
+equipment and software (28.6) (0.4)
+Development costs incurred on intangible assets (6.64) (3.5)
+Net drawdown of term loan 21.4 0.4
+Net proceeds raised from IPO 52.8 —
+Dividend paid (6.0) (10.6)
+Change in net cash and cash equivalent 
+in the financial year 51.8 1.4
+Cash and cash equivalent at the beginning 
+of the financial year 10.3 8.9
+Effects of foreign exchange rate changes, net 0.3 0.0
+Cash and cash equivalent at the end 
+of the financial year 62.4 10.3
+Borrowings and bank facilities
+Total borrowings of the Group have increased by RM21 million to 
+RM27 million (2012: RM6 million), principally from the drawdown of 
+the mortgage loan to acquire the MSC status Grade A office unit for 
+the Group’s head office in Malaysia. The acquisition of the office unit was 
+funded by internal funds of RM6 million and bank borrowings 
+of RM21 million.
+Equity
+The equity of the Group was strong for the year and the equity balance 
+stands at RM86.5 million (2012: RM18.7 million) with the continuous 
+profit improvement of the Group and strengthening of the Group’s 
+balance sheet. Earnings per share (EPS) of the Group has increased 
+to RM0.45 (2012: RM0.36).
+Financial Review (continued)
+2013 2013 2013 2012 2012 2012
+20.5m 19.0m 0.45
+15.1m
+13.1m
+0.36
+Profit before tax 
+RM (Malaysian Ringgit)
+20.5m 
+(2012: 15.1m)
+Profit after tax 
+RM (Malaysian Ringgit)
+19.0m 
+(2012: 13.1m)
+Earnings per share 
+RM (Malaysian Ringgit)
+0.45 
+(2012: 0.36)
+
+ 36%
+
+ 45%
+
+ 25% REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL ST A TEMENTS
+Fusionex International Plc
+Annual report 2013 07
+Board of Directors
+Yuen Choong Lai 
+Chief Financial Officer
+Yuen has more than 20 years of experience in 
+finance and investment. He is a Chartered 
+Accountant with the Malaysia Institute of 
+Accountants (MIA) and a Certified Practising 
+Accountant of CPA Australia. He also holds 
+the  Corporate Finance qualification from 
+the  Institute of Chartered Accountants in 
+England and Wales.
+Yuen holds various directorships in private 
+and public listed companies.
+John Croft 
+Non-Executive Chairman
+John has extensive experience working with 
+technology companies, including multinational 
+organisations as well as  with early stage 
+companies. John has advised and been 
+a director of multiple AIM quoted companies 
+and is currently a Director of China Private 
+Equity Holdings Ltd. John is also a former 
+Chairman of e-pay Asia Limited, the largest 
+e-payments company in South East Asia, and 
+was previously a Director of Racal Electronics 
+and NCR Corporation.
+Ivan Teh
+Chief Executive Officer and Managing Director
+Ivan was the driving force behind the foundation 
+of the Group in 2005. With over 15 years of 
+experience working in the information technology 
+sector, including managerial positions at Hewlett 
+Packard, Intel and Accenture, Ivan has a strong 
+network of contacts within the enterprise IT space, 
+especially in Asia. Ivan is actively involved in 
+various large scale IT initiatives and events across 
+the Asia Pacific region.
+He has been, and continues to be, invited by 
+various companies and institutions to present IT 
+related talks and seminars, as well as to provide his 
+insights on the industry. Ivan has trained and 
+worked in the United States, Europe, Hong Kong, 
+Singapore and Malaysia.
+Calvin Chun 
+Non-Executive Director
+Calvin has more than 18 years of 
+experience  in  the finance industry and is a 
+Chartered  Accountant registered with the 
+Malaysian Institute of Accountants and a 
+Certified Practising Accountant of CP A Australia. 
+He is a Non-Executive and non-independent 
+Director of Superlon Holdings Berhad, 
+a company listed on the Main Market of Bursa 
+Malaysia Securities Berhad, as well as a Director 
+of cfSolutions Sdn Bhd, a corporate finance 
+advisory company registered with the 
+Malaysian Securities Commission.
+Calvin is also a Licensed Corporate Finance 
+Advisory Representative under the Malaysian 
+Capital Market & Services Act, 2007. 
+Alan Lim 
+Non-Executive Director
+Alan has more than 10 years of experience 
+working in the insurance and financial planning 
+sector. Alan is a member of the prestigious Million 
+Dollar Round Table association and a certified 
+agency trainer working for Prudential Assurance 
+Malaysia Berhad. Prior to this, Alan worked 
+previously at Frost & Sullivan, Malaysia, and before 
+that, at Lotus Engineering.
+Robin was CFO of Intel T elecom Systems PLC from 
+2007 to 2011, having previously held CFO 
+positions at ITNET PLC and JBA Holdings PLC. 
+Throughout his career, Robin has helped deliver 
+improved profit, cash flow and shareholder value 
+for global software and services companies. 
+Robin is now an active Non-Executive Director 
+and joined EMIS plc as a senior independent 
+Non-Executive Director prior to its initial public 
+offering on AIM in March 2010. In addition, he is 
+a Non-Executive Director of CMS SupaTrak Ltd 
+and  was formerly a Non-Executive Director of 
+Covalent Software Ltd. Robin is a member of the 
+Institute of Chartered Accountants of Scotland.
+Robin Taylor 
+Non-Executive Director CORPORATE GOVERNANCE
+Fusionex International Plc
+Annual report 2013 08
+Directors’ Report
+The Directors present their report and the audited financial statements 
+for the year ended 30 September 2013.
+Principal activity
+The principal activity of the Group is the development and provision 
+of  enterprise software solutions and related services specialising in 
+Analytics, and Core Transactional Systems.
+Business review and future developments
+A review of the Group’s business operations, including key performance 
+indicators and future developments, is set out in the Chairman’s 
+Statement and CEO’s Review together with the Financial Review. 
+Financial results
+The financial results of the Group are set out in the Consolidated 
+Statement of Comprehensive Income and other components of the 
+financial statements with the accompanying notes to the statements.
+Dividends
+The Directors have adopted a dividend policy that fundamentally 
+takes into account the Group’s profitability and growth and availability of 
+cash  and distributable reserves after the requirement to finance 
+the  development and expansion of business. An interim dividend 
+of RM4.3 million (amounting to 2 pence per share) was paid by the 
+Company on 28 January 2013. The Board intends to announce an interim 
+dividend for the financial year ending 30 September 2014.
+Directors and Directors’ shareholding
+The Directors who served on the Board and Board Committees during 
+the year ended 30 September 2013 are set out in the profile of the Board 
+of Directors on page 7.
+At each AGM as stated in the Articles of Association of the Company, 
+one‑third of the Directors who are subject to retirement by rotation shall 
+retire from office and such directors may stand for re‑ election subject 
+to any rules or law to the contrary.
+The Directors’ beneficial interests in the share capital of the Company 
+and remuneration are set out in the Directors’ Remuneration Report 
+on pages 10 to 11.
+Directors’ and Officers’ insurance policy cover has been put in place 
+to indemnify the Directors against any legal actions by third parties. 
+Research and development
+The Company has carried out research and development programs to 
+increase the functionality and features for the Company’s core products, 
+namely CTE and BI Centre, as well as the development of the Company’s 
+Big Data Analytics software solution, Fusionex GIANT. The Group has 
+capitalised RM6.63 million of the development costs as the intangible 
+assets of the Group.
+With the commercialisation of the additional functionality and features 
+of the Group’s core products, an amortisation expense of RM1.15 million 
+has been charged for the financial year.
+Employees
+It has been the policy of the Group to involve the employees with the 
+Group’s development and performance by way of continuous updates 
+to the staff. In terms of employees’ welfare, health and advancement, the 
+Group’s policy is to have a competitive remuneration and benefits 
+provision for the employees. The Group is committed to ensuring 
+that equal opportunities are accorded to all of its employees irrespective 
+of age, gender and nationality in training, career development 
+and advancement.
+Political and charitable donations
+During the year ended 30 September 2013 the Group made political 
+donations of RMnil and charitable donations of RMnil.
+Supplier payment policy and practice
+The normal practice of the Group is to make payments to suppliers 
+according to the agreed terms and conditions of the transaction.
+Payables as at 30 September 2013 represents an average of 46 days 
+of suppliers’ supplies. 
+Risks relating to the Group and its business
+Technological evolution
+The Group is in the software industry and its business and prospects may 
+be impacted by continual technology evolution, introduction of new 
+products, changing industry standards and customers’ needs. Substantial 
+investments in technology may be required by the Group to keep ahead 
+in the competition.
+The Group needs to continually develop and enhance its products 
+to meet the requirements of its customers and to be in the position 
+to offer technologically advanced software products.
+Competition risk
+The Group operates in a competitive software market with many larger 
+competitors with significant financial resources as well as new entrants. 
+There is no assurance that these competitors have not developed 
+products that are competitive to the products of the Group in terms 
+of  technology or pricing or that the financial resources to promote 
+and  market the products to the market are ahead of the Group. 
+These  intense competitions may adversely affect the Group’s 
+business and prospects. 
+Dependence on key executives and technical personnel
+The Group’s business success is dependent on retaining and attracting its 
+key executives in management and sales and marketing, and on technical 
+personnel as the performance of the Group depends on the abilities and 
+continued efforts of its senior management and members of the sales 
+and marketing teams. The Group has entered into contractual 
+arrangements to secure the services of the senior management and 
+key  personnel; however, the retention of these personnel cannot 
+be guaranteed.
+Failure to retain and attract the services of these personnel may adversely 
+affect the business and growth prospects of the Group. Fusionex International Plc
+Annual report 2013 09
+REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL ST A TEMENTS
+Protection of intellectual property
+The Group’s proprietary rights in its software and systems are not protected 
+by patents. The Group is reliant on the internal processes and systems to 
+protect such rights. Whilst the Directors believe that the Group’s efforts to 
+protect its proprietary rights in its proprietary systems, processes and 
+software are adequate, there is a risk that they may not suffice to prevent 
+misappropriation of its intellectual property and it may not be able to 
+detect unauthorised use of or take appropriate steps to enforce, its 
+intellectual property rights.
+The Group has registered its key brand, “Fusionex” , as a trademark in the 
+U.K., and the U.S., Thailand, Hong Kong, Singapore and Malaysia. As the 
+Group expands into new territories in which the Group has not yet 
+registered the trademark, there is no guarantee that the Group is able to 
+protect the trademark in the new jurisdictions.
+Products risk
+The Group is in the business of providing sophisticated and highly reliable 
+software products to its customers. The products when first introduced 
+or enhanced may contain undetected defects that may fail to meet the 
+customers’ performance requirements or satisfy the contract specifications, 
+which may damage the Group’s reputation and lead to an adverse effect 
+on the Group’s business, financial condition and results of the operations.
+Foreign currency risk
+The Group may experience fluctuations in exchange rate that may 
+have a material adverse effect on the Group’s profitability or pricing 
+competitiveness for its products and services. There can be no guarantee 
+that the Group would be able to compensate or hedge against such 
+adverse effects and negative exchange rate effects could have a material 
+adverse effect on the Group’s business and financial performance.
+Market risks
+The Group may be affected by the general market trends that are 
+unrelated to the performance of the Group. The success of the Group 
+is dependent on the market acceptance of its products and there can be 
+no guarantee that the market is accepting the Group’s products. Market 
+opportunities targeted by the Group may change and this could lead to 
+an adverse effect on its revenue and earnings.
+Reliance on key systems
+The Group’s reliance on certain key systems and technologies for its 
+continuing operations exposes the Group to significant risk as the systems 
+are vulnerable to damage or interruption. The damage or interruption of 
+the Group’s system can be due to events that are beyond the control of 
+the Group, despite having the proper control procedures; which include: 
+natural disasters; telecommunications failure; power loss; computer viruses 
+and terrorist attacks. The Group’s system may be subjected to break in, 
+sabotage or vandalism by the Group’s internal employees and contractors 
+as well as third parties. The downtime or malfunction of the Group’s 
+systems and technologies may have material detrimental effect to the 
+Group’s business and results.
+Political, economic and legislative risks
+The Group may be affected by the adverse developments in the political, 
+economic and regulatory environment in which the Group operates. 
+Uncertainties in the political and economic environment include: 
+expropriation; nationalisation; inflation and deflation; changes in interest 
+rates and taxation regime and currency exchange control. 
+Any deterioration in the economic climate could result in the delay 
+or  cancellation of customers’ technology investment projects and 
+in a more prolonged economic downturn, it may lead to the overall 
+decline in the sales of the Group that restrict the growth and profitability of 
+the Group. Whilst the Group strives to continue to take effective measures 
+to protect it against such risks with prudential financial management 
+and efficient operating procedures, there is no assurance that adverse 
+political, economic and regulatory environments will not adversely affect 
+the Group.
+Going concern
+The Company’s activities and developments of its products, services and 
+markets are set out in the Chief Executive’s Review on pages 3 to 4. The 
+performance of the Company in terms of revenue, profitability and cash 
+flows is explained in the Financial Review on pages 5 to 6. The financial 
+risks management is set out in the notes to the financial Statements – 
+note 31. 
+After the assessment of the available financial information, and taking 
+into account the nature of the business that has recurring revenue 
+with high cash conversion that generates sufficient cash resources as 
+reflected in the current financial position of the Group with cash position 
+of RM62 million as at 30 September 2013, the Directors believe that 
+the  Group has adequate resources to continue to operate for the 
+foreseeable future. Therefore it is appropriate to continue to adopt 
+the going concern basis of accounting in the preparation of the company 
+consolidated financial statements.
+Annual General Meeting
+The notice for the convening of the AGM on 10 February 2014 together 
+with the proposed resolutions are contained in the Notice of AGM 
+attached to this annual report.
+Auditor and disclosure of information to auditor
+The Directors who held office on the date of approval of this 
+Directors’  Report confirm that, so far as they are aware, there is no relevant 
+audit information of which the Company’s auditor is unaware. The 
+Directors have confirmed that they have taken all steps that they ought 
+to have taken as Directors in order to make themselves aware of any 
+relevant audit information and to establish that the Company’s auditor is 
+aware of that information.
+Crowe Clark Whitehill LLP has been appointed as the auditor of the 
+Company during the year and indicated their willingness to be re‑appointed. 
+A resolution for the re‑appointment of Crowe Clark Whitehill LLP as 
+auditor of the Company is to be proposed at the forthcoming Annual 
+General Meeting.  CORPORATE GOVERNANCE
+Fusionex International Plc
+Annual report 2013 10
+As an AIM quoted company, Fusionex International Plc has adopted 
+many of the best practices as proposed in the Remuneration Committee 
+Guide for Smaller Quoted Companies of The Quoted Companies Alliance. 
+Remuneration Committee
+The Remuneration Committee comprises Robin Taylor (Non‑Executive 
+Director), John Croft (Non‑Executive Chairman) and Alan Lim (Non‑Executive 
+Director). The terms of reference of the Committee are available on the 
+Company’s website and are reviewed annually by the Board.
+The Remuneration Committee is responsible for determining the Group’s 
+policy on the remuneration of senior executives and specific 
+remuneration packages for Executive Directors, including pension rights 
+and compensation payments.
+The Remuneration Committee met twice in the period under review. 
+Details of attendance are shown in the corporate governance statement 
+on page 12. 
+Remuneration policy
+The objective of the remuneration policy is to attract, retain and motivate 
+high calibre executives to deliver outstanding shareholder returns and at 
+the same time maintain an appropriate compensation balance with the 
+other employees of the Group. 
+Directors’ remuneration
+The normal remuneration arrangements for Executive Directors consist 
+of base salary, annual performance‑related bonuses and other benefits 
+as determined by the Board. Each of the Executive Directors has a service 
+agreement that can be terminated at any time after the first anniversary 
+of admission onto AIM by either party giving to the other 6 months’ 
+written notice. Compensation for loss of office is restricted to base salary 
+and benefits only.
+Detailed below are the remuneration packages for the Executive Directors:
+Base salary – annual review of the base salaries of the Executive Directors 
+are conducted after taking into account the Executive Directors’ roles, 
+responsibilities and contributions to the Group performance.
+Benefits – benefits include payments for provident, funds that are 
+mandatory and statutory pension payments as required by laws of 
+the  resident countries of the Executive Directors, health insurance 
+and other benefits. 
+Performance bonus – bonus arrangements are discretionary and are 
+payable depending on the performance of the Executive Directors in 
+meeting their key performance indicators and in the wider context 
+with the performance of the Group. 
+Non‑Executive Directors
+Remuneration of the Non‑Executive Directors is currently solely in the 
+form of director fees determined by the Board. Non‑Executive Directors 
+are not entitled to pensions, annual bonuses or employee benefits. 
+They are entitled to participate in share option arrangements relating 
+to the Company’s shares but no such share option arrangements are 
+in place at this time. Each of the Non‑Executive Directors has a letter of 
+appointment stating his annual fee and that the appointments are to 
+continue unless terminated by the Company by giving 3 months’ written 
+notice or by the Non‑Executive Directors giving 6 months’ notice. 
+Directors are not involved in specific discussions on their own remuneration.
+TSR performance
+The graph below sets out for the period from IPO, 18 December 2012, to 30 September 2013 the Total Shareholder Return of Fusionex International Plc 
+and the performance of FTSE AIM All Shares and the FTSE 100.
+Remuneration Committee Report
+TSR chart to be drawn
+18 Dec 2012
+Fusionex International plc
+18 Jan 2013 18 Feb 2013 18 Mar 2013 18 Apr 2013 18 May 2013 18 June 2013 18 July 2013 18 Aug 2013 30 Sept 2013
+60%
+80%
+100%
+120%
+140%
+160%
+180%
+200%
+220%
+240%
+FTSE 100 FTSE AIM All Shares Fusionex International Plc
+Annual report 2013 11
+REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL ST A TEMENTS
+Directors’ interests
+The interests of Directors (and their immediate family) over the ordinary shares of the Company are as follows:
+Director
+Number of shares 
+at 30 September
+2013
+John Croft
+(1)
+10,000
+Ivan Teh
+(2)
+22,050,000
+Yuen Choong Lai
+(2)
+700,000
+Robin Taylor 12,827
+Calvin Chun 6,666
+Alan Lim 20,000
+Note:
+(1) T he shares of John Croft are held by the Streets Online Employee Benefit Trust on trust for John Croft.
+(2)  In addition to holding their respective legal and beneficial shares as indicated in the above table, both Ivan Teh and Yuen Choong Lai jointly hold 333,333 ordinary shares on trust for certain of 
+the Group’s employees pursuant to the Employee Share Scheme as detailed under the Company’s Admission Document. 
+(3)  There have been no change in Directors’ shareholdings between 30 September 2013 and 15 January 2014.
+Directors’ Remuneration
+Salary/fees
+(RM’000)
+Bonus
+(RM’000)
+Benefits
+(RM’000)
+30 September
+2013
+total
+(RM’000)
+Executive
+Ivan Teh 475 56 52 583
+Yuen Choong Lai 150 — — 150
+Non‑Executive
+John Croft 167 — — 167
+Robin Taylor 125 — — 125
+Calvin Chun 40 — — 40
+Alan Lim 40 — — 40
+Total 997 56 52 1,105
+Approved by the Board and signed on its behalf
+Robin Taylor
+Chairman of the Remuneration Committee
+15 January 2014 Fusionex International Plc
+Annual report 2013 12
+CORPORATE GOVERNANCE
+Corporate Governance Report
+As the Company is listed on AIM, it is not mandatory for the Company 
+to adopt the provisions of the 2012 U.K. Corporate Governance Code. 
+The  Board, however, recognises the importance of sound corporate 
+governance and has adopted many best practices of the Corporate 
+Governance Guidelines by QCA, an alternative corporate governance 
+code, to the extent appropriate for the Company of its nature and size. 
+Board of Directors and Board Committees
+The Board of Directors consists of 2 Executive and 4 Non‑Executive 
+members, which includes a Non‑Executive Chairman, commencing from 
+10 December 2012. The respective appointments of the Board members 
+provides an appropriate balance of skills and experience for the Board to 
+lead the Group in the interests of all shareholders.
+The roles of Chairman and Chief Executive are separate and clear. 
+The  Chairman leads the Board in board meetings and ensures the 
+effectiveness of the Board. The role of the Chief Executive is to ensure that 
+the Group’s long term strategic and financial objectives are achieved with 
+the Group’s resources and in accordance to the risk level of the Group. 
+The Board is responsible to shareholders by providing leadership and 
+direction to the Group. The role of the Board is to set the strategic direction 
+and goals of the Group within its risk and control framework. The Board 
+has a schedule of matters reserved for its decision which include, but are 
+not limited to, decisions on strategy and risk management, approval of 
+financial budgets, major capital expenditure, material acquisitions and 
+disposals, the interim and annual results and the interim and final 
+dividend recommendations. The 4 Board Committees that were formed 
+to assume some of the responsibilities of the Board with clearly defined 
+terms of reference are the Audit, Nomination, Remuneration and 
+Compliance Committees.
+The Board has had regular board meetings from the date of Admission to 
+AIM, 18 December 2012, to the Group’s financial year end on 
+30  September 2013. In that period, 5 board meetings have been 
+conducted by the Company. Formal agendas and reports are provided to 
+the Board for the board meetings and all Directors are properly briefed 
+on the matters to be discussed and deliberated. All Directors in carrying 
+out their duties as members of the Board are able to obtain further advice 
+and information from within the Company or from independent 
+professional advisers. The Company maintains an appropriate Directors’ 
+and Officers’ insurance policy cover in respect of any legal actions against 
+the Directors.
+The performance of the Board is currently assessed by the Chairman with 
+respect to the various operations of the Board that include, among 
+others, the appropriate skill level of the members, the conduct of board 
+meetings and the decisions achieved, the guidance with regard to the 
+Group’s strategy and objectives, and the effectiveness of the 4 standing 
+Board Committees in carrying out their responsibilities in accordance 
+to the set terms of reference.
+Table of board meetings and Audit Committee and Remuneration 
+Committee meetings held by the Company for the period from the 
+Admission to AIM on 18 December 2012 to the financial year end 
+on 30 September 2013 and attendance of each Director:
+Board meetings
+Audit 
+Committee
+meetings
+Remuneration
+Committee
+meetings
+Executive Directors
+Ivan Teh 5/5 — —
+Yuen Choong Lai 5/5 — —
+Non‑Executive 
+Directors
+John Croft 5/5 — 2/2
+Robin Taylor 5/5 2/2 2/2
+Calvin Chun 5/5 2/2 —
+Alan Lim 5/5 2/2 2/2
+Board Committees
+The Board has established 4 Committees with clearly defined terms 
+of reference. The members of the Committees and their duties and 
+responsibilities are outlined below.
+Audit Committee
+The Audit Committee is chaired by Calvin Chun. The other members 
+of the Committee are Robin Taylor and Alan Lim. The members have 
+relevant financial, regulatory and risk management experience. The 
+Committee is expected to meet at least twice a year.
+The main responsibilities of the Audit Committee are detailed below:
+ › Ensure the proper reporting and monitoring of the financial 
+performance of the Company. This includes the reviews of the annual 
+and interim accounts and results announcements to be in compliance 
+with the regulatory rules and procedures and approved accounting 
+standards and policies before recommending the same to the Board 
+for their approval.
+ › Monitor and review the effectiveness of the Group’s internal control 
+and risk management system, taking into account the practicality 
+of measures introduced to the extent appropriate for the Company 
+of its nature and size.
+ › Monitor and review the effectiveness of the external audit processes 
+and plans with the external auditor.
+ › Review and assess the independence and effectiveness of the external 
+auditor and the terms of their engagements including the  other 
+non‑audit services provided by the external auditor.
+ › Review and assess material transactions of the Company.
+The Audit Committee meets with the external auditor without 
+the Executive Directors being present at least once a year. 
+In the year under review, the Audit Committee met twice. The Committee 
+met to deliberate on the acquisition of the Company’s new head office 
+and the other meeting was scheduled to coincide with the 
+announcement of the interim results of the Group in May 2013.  Fusionex International Plc
+Annual report 2013 13
+REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL ST A TEMENTS
+Remuneration Committee
+The Remuneration Committee is chaired by Robin Taylor, with its other 
+members comprising John Croft and Alan Lim. The Committee is 
+expected to meet at least twice in a full year and for the period from 
+18 December 2012 to 30 September 2013. The Committee met twice 
+to discuss remuneration best practices and policies for the Company. 
+The Remuneration Committee has responsibility for determining the 
+Group’s policy on the remuneration of Executive Directors, including 
+pension rights and compensation payments.
+The full details of the work and remuneration policy of the Committee 
+is set out in the Directors’ Remuneration Report.
+Nomination Committee
+Alan Lim is the chairman of the Nomination Committee, with John Croft 
+and Yuen Choong Lai as the other members of the Committee.
+The Committee is responsible for the selection and appointment of 
+Directors and the regular review of the structure, size and composition of 
+the Board in relation to the requisite skills, knowledge and experience of 
+the Board.
+Compliance Committee
+The Compliance Committee has the primary responsibility to ensure 
+compliance with the AIM Rules, in particular concerning disclosure of 
+information required under the AIM Rules. The Committee will function 
+closely with the Board to ensure that the Company’s Nominated Adviser 
+(NOMAD) is provided with the information required by the NOMAD 
+to carry out their responsibilities under the AIM Rules. The Compliance 
+Committee is chaired by Yuen Choong Lai and the other members are 
+John Croft and Alan Lim. 
+There is no formal meeting set for the Compliance Committee as the 
+functions of the Compliance Committee are carried out in conjunction 
+with the proceedings in the board meetings wherein compliance with 
+the AIM Rules and the release of information and communications with 
+the Company’s NOMAD and the market are highlighted and informed to 
+the Board.
+Investor relations
+The Chief Executive Officer and Chief Financial Officer meet up 
+with  the  analysts and institutional shareholders of the Company 
+following the interim and annual results announcements and on an  
+as‑needed basis to update the shareholders on the progress of the Group 
+in terms of its business, financial performance and strategic objectives 
+to promote alignment of interests between shareholders. The annual 
+report and accounts is published on the Company’s website,  
+www.fusionex‑international.com, and can be accessed by the shareholders. 
+Internal control and risk management 
+The Board is responsible for the Group’s systems of internal controls 
+and for reviewing the effectiveness of the systems. The systems are put in 
+place to manage and minimise the risks but not to eliminate them, so the 
+systems can only provide reasonable but not absolute assurance against 
+material misstatements or losses.
+Executive Directors of the Company are actively involved in the daily 
+operations and management of the Group and with regular meetings 
+with the staff of the Group. Business risks are identified which enables 
+appropriate control systems to be implemented to manage the risks. 
+The effectiveness of the control systems are reviewed and updated.
+The Group has quality assurance processes in place for the development, 
+of software and delivery of software products to its customers as evidenced 
+by the Group’s certification and registration for ISO 9001 – Quality Assurance 
+and CMMI Level 3. 
+The Group’s internal financial control procedures and monitoring systems 
+are in place which include:
+ › financial policies and approval procedures with proper authorisation 
+level and segregation of duties for financial management;
+ › maintenance of proper records for the production of accurate and 
+timely financial management information;
+ › annual budgetary process to set the appropriate target for monitoring 
+of the progress of the Group;
+ › detailed monthly financial reporting system that reports on operating 
+results, cash flow, assets and liabilities with comparisons against budgets; 
+ › reporting on any non‑compliance with internal financial controls 
+and procedures; and
+ › review of Audit Committee report issued by external auditor.
+The Audit Committee on behalf of the Board reviews reports from 
+the external auditor together with management’s response regarding 
+proposed actions. Via such review, they have reviewed the effectiveness 
+of the internal control systems for the period covered by the accounts. Fusionex International Plc
+Annual report 2013 14
+FINANCIAL STATEMENTS
+We have audited the financial statements of Fusionex International Plc 
+for the period ended 30 September 2013, which comprise the Consolidated 
+Statement of Financial Position, Consolidated Statement of Comprehensive 
+Income, Consolidated Statement of Change in Equity, Consolidated 
+Statement of Cash flows, and the related notes.
+The financial reporting framework that has been applied in their preparation is 
+applicable law and International Financial Reporting Standards (“IFRS”) as 
+adopted by the European Union. This report is made solely to the 
+Company’s members, as a body, in accordance with the Companies 
+(Jersey) Law, 1991. Our audit work has been undertaken so that we might 
+state to the Company’s members those matters we are required to state 
+to them in an Auditor’s report and for no other purpose. To the fullest 
+extent permitted by law, we do not accept or assume responsibility to 
+anyone other than the Company and the Company’s members as a body, 
+for our audit work, for this report, or for the opinions we have formed.
+Respective responsibilities of Directors and auditor
+As explained more fully in the statement of Directors’ Responsibilities, the 
+Directors are responsible for the preparation of the financial statements 
+and for being satisfied that they give a true and fair view. Our responsibility 
+is to audit and express an opinion on the financial statements in 
+accordance with applicable law and International Standards on Auditing 
+(U.K. and Ireland). Those standards require us to comply with the Auditing 
+Practices Board’s Ethical Standards for Auditors.
+Scope of the audit of the financial statements
+An audit involves obtaining evidence about the amounts and disclosures 
+in the financial statements sufficient to give reasonable assurance that 
+the financial statements are free from material misstatement, whether 
+caused by fraud or error. This includes an assessment of whether the 
+accounting policies are appropriate to the Company’s circumstances 
+and have been consistently applied and  adequately disclosed; the 
+reasonableness of significant accounting estimates made by the 
+directors; and the overall presentation of the financial statements.
+We read all the information in the Chairman’s Statement, the CEO’s 
+Review, the Financial Review, the Corporate Governance Report, the 
+Remuneration Committee Report and the Directors’ Report to identify 
+material inconsistencies with the audited financial statements and to 
+identify any information that is apparently materially incorrect based on, 
+or materially inconsistent with, the knowledge acquired by us in the 
+course of performing the audit. If we become aware of any apparent 
+material misstatements or inconsistencies we consider the implications 
+for our audit.
+Opinion 
+In our opinion:
+ › the financial statements give a true and fair view of the state of the 
+Group’s affairs as at 30 September 2013 and of the Group’s profit for 
+the period then ended;
+ › the financial statements have been properly prepared in accordance 
+with IFRS’s as adopted by the European Union; and
+ › the financial statements have been prepared in accordance with the 
+requirements of the Companies (Jersey) Law 1991.
+Matter on which we are required to report by exception 
+Under Companies (Jersey) Law 1991 we are required to report to you if, 
+in our opinion:
+ › adequate accounting records have not been kept by the parent 
+company, or returns adequate for our audit have not been received 
+from branches not visited by us; or 
+ › the parent company financial statements are not in agreement with 
+the accounting records and returns; or
+ › we have not received all the information and explanations we require 
+for our audit.
+Leo Malkin (Senior Statutory Auditor)
+For and on behalf of Crowe Clark Whitehill LLP
+(Statutory Auditors)
+St Bride’s House
+10 Salisbury Square
+London EC4Y 8EH
+15 January 2014
+Independent Auditor’s report 
+to the members of Fusionex International Plc Fusionex International Plc
+Annual report 2013 15
+REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL ST A TEMENTS
+Note
+2013
+RM
+Proforma 
+2012
+RM
+Assets
+Non‑current assets
+Property, plant and equipment 4 35,434,770 7,361,339
+Goodwill on consolidation 5 549,572 549,572
+Intangible assets 6 13,092,656 7,565,837
+Deferred tax assets 7 — —
+49,076,998 15,476,748
+Current assets
+Trade receivables 8 6,626,987 3,840,642
+Other receivables, deposits and prepayments 9 824,188 1,038,490
+Amounts owing by contract customers 10 2,742,394 2,391,025
+Tax recoverable 93,343 2,955
+Fixed deposits with licensed banks 12 25,203,613 931,700
+Cash and bank balances 37,187,913 9,381,686
+72,678,438 17,586,498
+Total assets 121,755,436 33,063,246
+Equity and liabilities
+Share capital 13 71,457,058 —
+Merger reserve 14(a) (17,668,186) 1,000,000
+Foreign exchange translation reserve 14(b) 690,121 383,090
+Retained profits 32,037,486 17,285,096
+Total equity attributable to owners 86,516,479 18,668,186
+Non‑current liabilities
+Long term borrowings 15 26,776,464 5,921,362
+Deferred tax liabilities 18 1,117,157 1,162,126
+27,893,621 7,083,488
+Current liabilities
+Other payables and accruals 19 5,521,382 4,973,803
+Amount owing to related parties 11 — 1,224,486
+Short term borrowings 20 968,783 239,125
+Provision for taxation 855,171 874,158
+7,345,336 7,311,572
+Total liabilities 35,238,957 14,395,060
+Total equity and liabilities 121,755,436 33,063,246
+Consolidated Statement of Financial Position
+as at 30 September 2013 Fusionex International Plc
+Annual report 2013 16
+FINANCIAL STATEMENTS
+Consolidated Statement of Comprehensive Income
+for the year ended 30 September 2013
+Note
+2013
+RM
+Proforma
+2012
+RM
+Revenue 21 44,423,206 31,314,706
+Cost of sales (10,090,185) (8,084,838)
+Gross profit 34,333,021 23,229,868
+Other income 2,183,063 1,065,912
+36,516,084 24,295,780
+Administrative and other operating expenses (15,676,003) (8,915,447)
+Finance costs (340,115) (280,828)
+Profit before taxation 22 20,499,966 15,099,505
+Income tax expense 23 (1,488,168) (1,994,846)
+Profit after taxation 19,011,798 13,104,659
+Other comprehensive income (currency translation differences) 307,031 250,968
+Total comprehensive income for the financial year 19,318,829 13,355,627
+Profit after tax attributable to:
+Owners of the Group 19,011,798 12,739,649
+Non‑controlling interests — 365,010
+19,011,798 13,104,659
+Total comprehensive income attributable to:
+Owners of the Group 19,318,829 12,964,241
+Non‑controlling interests — 391,386
+19,318,829 13,355,627
+Earnings per share attributable to owners of the Group
+Basic, sen 24 45.30 36.40
+Diluted, sen 24 45.30 36.40 Fusionex International Plc
+Annual report 2013 17
+REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL ST A TEMENTS
+Consolidated Statement of Changes in Equity
+as at 30 September 2013
+Non‑ distributable Distributable
+Note
+Share 
+capital 
+RM
+Merger 
+reserve
+RM
+Foreign
+exchange
+translation
+reserve
+RM
+Retained 
+profits
+RM
+Attributable 
+to owners of
+the Group 
+RM
+Non‑controlling 
+interests
+RM
+Total equity 
+RM
+Balance at 1 October 2011 (Proforma) — 1,000,000 158,498 11,702,653 12,861,151 976,770 13,837,921
+Profit after taxation — — — 12,739,649 12,739,649 365,010 13,104,659
+Other comprehensive expenses, net of tax
+–  Foreign currency translation 
+differences for foreign operations — — 224,592 — 224,592 26,376 250,968
+Total comprehensive income for the 
+financial year — — 224,592 12,739,649 12,964,241 391,386 13,355,627
+Dividend 25 — — — (7,300,000) (7,300,000) — (7,300,000)
+Dividend paid by a subsidiary 
+to non‑controlling interest — — — — — (876,505) (876,505)
+Changes in ownership of interest 
+in subsidiary that do not result in a loss 
+of control: 
+– Acquisition of interest in a subsidiary — — — 142,794 142,794 (491,651) (348,857)
+Balance at 30 September 2012 
+(Proforma) — 1,000,000 383,090 17,285,096 18,668,186 — 18,668,186
+Non‑ distributable Distributable
+Note
+Share 
+capital 
+RM
+Merger 
+reserve
+RM
+Foreign
+exchange
+translation
+reserve
+RM
+Retained 
+profits
+RM
+Attributable 
+to owners of
+the Group 
+RM
+Total equity 
+RM
+Balance at 30 September 2012 — 1,000,000 383,090 17,285,096 18,668,186 18,668,186
+Profit after taxation
+— — — 19,011,798 19,011,798 19,011,798
+Other comprehensive income, net of tax
+–  Foreign currency translation differences 
+for foreign operations — — 307,031 — 307,031 307,031
+Total comprehensive income for the financial year
+— — 307,031 19,011,798 19,318,829 19,318,829
+Dividend 25
+— — — (4,259,408) (4,259,408) (4,259,408)
+Issuance of shares, net of issue costs 13,14(b) 71,457,058 (18,668,186) — — 52,788,872 52,788,872
+Balance at 30 September 2013
+71,457,058 (17,668,186) 690,121 32,037,486 86,516,479 86,516,479 Fusionex International Plc
+Annual report 2013 18
+FINANCIAL STATEMENTS
+Consolidated Statement of Cash Flows
+as at 30 September 2013
+Note
+2013
+RM
+Proforma
+2012
+RM
+Cash flow from operating activities
+Profit before taxation 20,499,966 15,099,505
+Adjustments for:
+– amortisation of intangible assets 1,152,029 634,382
+– depreciation of property, plant and equipment 485,744 349,680
+– interest expenses 340,115 280,828
+– interest income (343,021) (12,391)
+– reversal of allowance of impairment loss on receivables  — (783,750)
+Operating profit before working capital changes 22,134,833 15,568,254
+(Increase)/decrease in trade and other receivables (2,572,043) 1,956,253
+Increase in other payables and accruals 2,247,579 1,485,384
+Increase in amount owing from contract customers (351,369) (1,637,371)
+Cash flow from operations 21,459,000 17,372,520
+Interest paid (340,115) (280,828)
+Interest received 343,021 12,391
+Income tax paid (1,642,512) (1,277,747)
+Net cash flow from operating activities 19,819,394 15,826,336
+Cash flow used in investing activities
+Purchase of property, plant and equipment (28,559,175) (410,316)
+Development costs on intangible assets (6,625,462) (3,509,024)
+Net cash flow used in investing activities (35,184,637) (3,919,340)
+Cash flow from/(used in) financing activities
+Repayment to related parties (1,224,486) —
+Dividends paid (5,959,408) (10,565,000)
+Drawndown of term loans 21,440,000 371,900
+Drawdown/(repayment) of hire purchase payables, net 326,018 (76,576)
+Repayment of term loans (181,258) (216,739)
+Proceeds from issuance of share capital, net of issue cost 52,788,872 —
+Net cash flow from/(used in) financing activities 67,189,738 (10,486,415)
+Net increase in cash and cash equivalents 51,824,495 1,420,581
+Cash and cash equivalent at beginning of the financial year 10,313,386 8,865,949
+Effects of foreign exchange rate changes, net 253,645 26,856
+Cash and cash equivalent at end of the financial year 26 62,391,526 10,313,386 Fusionex International Plc
+Annual report 2013 19
+REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL ST A TEMENTS
+Notes to the Financial Statements
+for the year ended 30 September 2013
+1. General information
+(a) Basis of preparation 
+Fusionex International Plc was incorporated in Jersey on 1 October 2012 with registration number 111533. The registered office of the Company is 
+12 Castle Street, St Helier, Jersey JE2 3RT, Channel Islands. On 14 November 2012, the businesses transferred to Fusionex International Plc were not 
+previously held by a single legal entity. However, these entities were ultimately controlled and managed by the same parties before and after the 
+transfer to Fusionex International Plc and that control was not transitory (common control). 
+The consolidated financial statements have been prepared in accordance with International Financial Reporting Standards (“IFRS”) as adopted by the 
+European Union (“EU”) issued by the International Accounting Standards Board (“IASB”), including related interpretations issued by the International 
+Financial Reporting Interpretations Committee (“IFRIC”). 
+IFRS does not provide specific guidance on accounting for common control transactions. Therefore, the Directors have selected an accounting policy 
+using the “hierarchy” described in paragraphs 10–12 of IAS 8 Accounting Policies, Changes in Accounting Estimates and Errors. The hierarchy permits 
+the consideration of pronouncement of other standard‑setting bodies. The Directors have adopted a policy of accounting for business combinations 
+between entities under common control in accordance with guidance under US GAAP 805‑10‑15. This guidance produces a result that is similar to 
+pooling. The consolidated accounts have therefore been prepared as if each of the entities within the Group at 30 September 2012 had been held by 
+Fusionex International Plc from the earlier of 1 October 2011 or date of incorporation. The difference between the carrying value of the investment and 
+nominal value of the shares of subsidiaries upon consolidation under the merger accounting principles is disclosed in note 14(a).
+The individual financial information of each entity is measured and presented in the currency of the primary economic environment in which the 
+entity operates (its functional currency). The consolidated financial statements of the Group are presented in Ringgit Malaysia (“RM”), which is the 
+presentation currency for the consolidated financial statements. The functional currency of each of the individual entity is the local currency of each 
+individual entity.
+The consolidated financial statements have been prepared on the historical cost basis. The principal accounting policies adopted, which have been 
+applied consistently in the financial year, are outlined below.
+(b) Standards, amendments and interpretations to published standards not yet effective
+The Group has not applied in advance the following accounting standards and interpretations (including the consequential amendments) that have 
+been issued but are not yet effective. The transfer to these new or revised standards and interpretation is not expected to have a material impact on 
+the combined financial statements.
+At the date of this report, the following standards and interpretations were in issue but not yet effective:
+IAS 1 – Amendment – Presentation of items of other comprehensive income
+IAS 19 – Amendment – Employee Benefits
+IAS 27 – Separate Financial Statements
+IAS 28 – Investments in Associates and Joint Ventures
+IFRS 1 – Amendments – Government Loans
+IFRS 7 and IAS 32 – Offsetting financial assets and financial liabilities
+IFRS 9 – Financial Instruments (not yet EU adopted)
+IFRS 10 – Consolidated Financial Statements
+IFRS 11 – Joint Arrangements
+IFRS 12 – Disclosure of Interests in Other Entities 
+IFRS 13 – Fair Value Measurement
+IFRIC 20 – Stripping Costs in the Production Phase of a Surface Mine Fusionex International Plc
+Annual report 2013 20
+FINANCIAL STATEMENTS
+Notes to the Financial Statements (continued)
+for the year ended 30 September 2013
+2. Principal activities of subsidiaries
+The principal activities of the subsidiaries are as follows:
+Name
+Place of incorporation/ 
+establishment Principal activities
+Issued and 
+paid‑up/
+registered capital
+Effective 
+interests 
+%
+Fusionex Corp. Sdn. Bhd. Malaysia IT solutions, software development and consultancy services RM500,000 100
+Adv Fusionex Sdn. Bhd. Malaysia Software development and other services RM500,000 100
+Fusionex Solutions Inc. Sdn. Bhd.
+(1)
+Malaysia IT solutions, management and consultancy services RM2 100
+Fusionex Pte. Ltd.
+(1)
+Singapore IT solutions, management and consultancy services S$200,000 100
+ADV Fusionex Limited
+(1)
+United Kingdom Development and commercialisation of software solutions GBP1,000 100
+Fusionex Limited
+(2)
+United Kingdom Software development and other services GBP100 100
+Fusionex Co. Ltd. Thailand IT solutions, software development and consultancy services THB3,000,000 100
+FXA Holdings Sdn. Bhd.
+(2)
+Malaysia Investment holding RM2 100
+Fusionex Limited
+(3)
+Macau Software development and other services MOP25,000 100
+Fusionex Limited Hong Kong Software development and other services HKD10,000 100
+Note: 
+(1) Interest held by Fusionex Corp. Sdn. Bhd. 
+(2) Interest held by Adv Fusionex Sdn. Bhd. 
+(3) Interest held by Fusionex Limited (Hong Kong). 
+RM: Malaysia Ringgit. 
+S$: Singapore Dollar. 
+GBP: Great British Pound. 
+THB: Thai Baht. 
+MOP: Macau Pataca. 
+HKD: Hong Kong Dollar.
+3. Summary of significant accounting policies 
+(a) Critical accounting estimates and judgments
+Estimates and judgments are continually evaluated by the Directors and management and are based on historical experience and other factors, 
+including expectations of future events that are believed to be reasonable under the circumstances. 
+The key assumptions concerning the future, and other key sources of estimation uncertainty at the statement of financial position date, that have a 
+significant risk of causing a material adjustment to the carrying amounts of assets and liabilities within the next financial period are as stated below.
+(i) Intangible assets
+Amortisation
+Development costs are amortised over 5 years. Useful lives are based on management’s estimates of the period that the assets will generate revenue, 
+with such periods being periodically reviewed for continued appropriateness.
+The Group assesses the impairment of intangible assets subject to amortisation whenever events or changes in circumstances indicate that the 
+carrying value may not be recoverable. Factors considered important that could trigger an impairment review include the following:
+ › significant underperformance relative to historical or projected future operating results;
+ › significant changes in the manner of the use of the acquired assets or the strategy for the overall business; and
+ › significant negative industry or economic trends.
+The complexity of the estimation process and issues related to the assumptions, risks and uncertainties inherent in the application of the Group’s 
+accounting estimates in relation to intangible assets affect the amounts reported in the financial statements, especially the estimates of the expected 
+useful economic lives and the carrying values of those assets. If business conditions were different, or if different assumptions were used in the 
+application of this and other accounting estimates, it is likely that materially different amounts could be reported in the Group’s financial statements.
+The net book value of intangible assets at 30 September 2013 is determined to be RM13.1 million (2012: RM7.6 million).
+Uncertainty exists due to the early stage of development of these intangible assets. An impairment of the intangible fixed assets would result 
+in an expense in the next financial year. 
+Furthermore, should the development costs be amortised over 3 years instead of 5 years, a further charge of RM0.8 million would be recognised in the 
+year ended 30 September 2013 (30 September 2012: RM0.5 million) and the net book value would become RM12.3 million as at 30 September 2013 
+(30 September 2012: RM7.1 million). Fusionex International Plc
+Annual report 2013 21
+REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL ST A TEMENTS
+3. Summary of significant accounting policies (continued) 
+(a) Critical accounting estimates and judgments (continued)
+Other judgments that affect the application of the Group’s accounting policies and disclosures, and have a significant risk of causing a material 
+adjustment to the carrying amounts of assets, liabilities, income and expenses are discussed below:
+(ii) Impairment of trade and other receivables
+An impairment loss is recognised when there is objective evidence that a financial asset is impaired. Management specifically reviews its loans and 
+receivables and financial assets and analyses historical bad debts, customer concentrations, customer creditworthiness, current economic trends and 
+changes in the customer payment terms when making a judgment to evaluate the adequacy of the allowance for impairment losses. Where there is 
+objective evidence of impairment, the amount and timing of future cash flows are estimated based on historical loss experience for assets with similar 
+credit risk characteristics. If the expectation is different from the estimation, such difference will impact the carrying value of receivables.
+(iii) Impairment of non‑financial assets
+When the recoverable amount of an asset is determined based on the estimate of the value‑in‑use of the cash‑ generating unit to which the asset 
+is allocated, the management is required to make an estimate of the expected future cash flows from the cash‑ generating unit and also to apply 
+a suitable discount rate in order to determine the present value of those cash flows. 
+(iv) Depreciation of plant and equipment
+The estimates for the residual values, useful lives and related depreciation charges for the plant and equipment are based on commercial factors 
+which could change significantly as a result of technical innovations and competitors’ actions in response to the market conditions.
+The Group anticipates that the residual values of its plant and equipment will be insignificant. As a result, residual values are not being taken into 
+consideration for the computation of the depreciable amount. 
+Changes in the expected level of usage and technological development could impact the economic useful lives and the residual values of these 
+assets; therefore, future depreciation charges could be revised.
+(v) Income taxes
+There are certain transactions and computations for which the ultimate tax determination may be different from the initial estimate. The Group 
+recognises tax assets/liabilities based on their understanding of the prevailing tax laws and estimates of whether such taxes will be recovered due in 
+the ordinary course of business. Where the final outcome of these matters is different from the amounts that were initially recognised, such difference 
+will impact the income tax and deferred tax provisions in the year in which such determination is made. 
+(b) Basis of consolidation
+Except for the transactions described in note 1(a), the consolidated financial statements include the financial statements of the Company and its 
+subsidiaries made up to 30 September each year. 
+A subsidiary is defined as a company in which the parent company has, directly or indirectly, the power to exercise control over its financial and 
+operating policies so as to obtain benefits from its activities.
+Where the company has the power, either directly or indirectly, to govern the financial and operating policies of another entity or business so 
+as to obtain benefits from its activities, it is classified as a subsidiary. The consolidated financial statements present the results of the Company 
+and its subsidiaries (“the Group”) as if they formed a single entity. Intercompany transactions and balances between Group companies are 
+therefore eliminated in full. 
+(i) Purchases method
+Under the purchase method, the results of the subsidiaries acquired or disposed of are included from the date of acquisition or up to the date 
+of disposal. At the date of acquisition, the fair values of the subsidiaries’ net assets are determined and these values are reflected in the combined 
+consolidated financial statements. The cost of acquisition is measured at the aggregate of the fair values, at the date of exchange, of assets given, 
+liabilities incurred or assumed, and equity instruments issued by the Group in exchange for control of the acquiree, plus any costs directly attributable 
+to the business combination. 
+Intragroup transactions, balances and unrealised gains on transactions are eliminated; unrealised losses are also eliminated unless cost cannot 
+be recovered. Where necessary, adjustments are made to the financial statements of subsidiaries to ensure consistency of accounting policies 
+with those of the Group.
+Non‑controlling interests in the combined consolidated statement of financial position consist of the non‑controlling interests’ share of fair values 
+of the identifiable assets and liabilities of the acquiree as at the date of acquisition and the non‑controlling interests’ share of movements in the 
+acquiree’s equity.
+Non‑controlling interests are presented within equity in the combined consolidated statement of financial position, separately from the Group’s 
+shareholders’ equity, and are separately disclosed in the combined Consolidated Statement of Comprehensive Income. Transactions with non‑controlling 
+interests are accounted for as transactions with owners. Gain or loss on disposal to non‑controlling interests is recognised directly in equity. Fusionex International Plc
+Annual report 2013 22
+FINANCIAL STATEMENTS
+Notes to the Financial Statements (continued)
+for the year ended 30 September 2013
+3. Summary of significant accounting policies (continued)
+(c) Intangible assets
+(i) Goodwill
+Goodwill represents the excess of the fair value of the purchase consideration over the Group’s share of the fair values of the identifiable assets, 
+liabilities and contingent liabilities of the subsidiaries at the date of acquisition. 
+Goodwill is measured at cost less accumulated impairment losses, if any. The carrying value of goodwill is reviewed for impairment annually. 
+The impairment value of goodwill is recognised immediately in profit or loss. An impairment loss recognised for goodwill is not reversed in 
+a subsequent period.
+If, after reassessment, the Group’s interest in the fair values of the identifiable net assets of the subsidiaries exceeds the cost of the business 
+combinations, the excess is recognised as income immediately in profit or loss.
+(ii) Research and development expenditure
+Research expenditure is recognised as an expense when it is incurred.
+Development expenditure is recognised as an expense except that costs incurred on development projects are capitalised as long term assets to the 
+extent that such expenditure is expected to generate future economic benefits. Development expenditure is capitalised if, and only if, an entity can 
+demonstrate all of the following:
+(i) its ability to measure reliably the expenditure attributable to the asset under development;
+(ii) the product or process is technically and commercially feasible;
+(iii) its future economic benefits are probable;
+(iv) its ability to use or sell the developed asset; and
+(v) the availability of adequate technical, financial and other resources to complete the asset under development.
+Capitalised development expenditure is measured at cost less accumulated amortisation and impairment losses, if any. Development expenditure 
+initially recognised as an expense is not recognised as assets in the subsequent year.
+The development expenditure is amortised on a straight‑line method over a period of 5 years when the products are ready for sale or use. In the event 
+that the expected future economic benefits are no longer probable of being recovered, the development expenditure is written down to its 
+recoverable amount.
+(d) Functional and foreign currencies
+(i) Functional and presentation currency
+The individual financial statements of each entity in the Group are presented in the currency of the primary economic environment in which the entity 
+operates, which is the functional currency. 
+The consolidated financial statements are presented in RM, which is the Group’s presentation currency. 
+(ii) Transactions and balances
+Transactions in foreign currencies are converted into the respective functional currencies on initial recognition, using the exchange rates approximating 
+those ruling at the transaction dates. Monetary assets and liabilities at the end of the reporting period are translated at the rates ruling as of that date. 
+Non‑monetary assets and liabilities are translated using exchange rates that existed when the values were determined. All exchange differences 
+are recognised in profit or loss.
+(iii) Foreign operations
+Assets and liabilities of foreign operations are translated to RM at the rates of exchange ruling at the end of the reporting period. Revenues and 
+expenses of foreign operations are translated at exchange rates ruling at the dates of the transactions. All exchange differences arising from translation 
+are taken directly to other comprehensive income and accumulated in equity under the translation reserve. On the disposal of a foreign operation, 
+the cumulative amount recognised in other comprehensive income relating to that particular foreign operation is reclassified from equity to profit 
+or loss.
+Goodwill and fair value adjustments arising from the acquisition of foreign operations are treated as assets and liabilities of the foreign operations and 
+are recorded in the functional currency of the foreign operations and translated at the closing rate at the end of the reporting period. Fusionex International Plc
+Annual report 2013 23
+REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL ST A TEMENTS
+3. Summary of significant accounting policies (continued)
+(e) Financial instruments
+Financial instruments are recognised in the statements of financial position when the Group has become a party to the contractual provisions 
+of the instruments.
+Financial instruments are classified as liabilities or equity in accordance with the substance of the contractual arrangement. Interest, dividends and 
+gains and losses relating to a financial instrument classified as a liability are reported as an expense or income. Distributions to holders of financial 
+instruments classified as equity are charged directly to equity.
+Financial instruments are offset when the Group has a legally enforceable right to offset and intends to settle either on a net basis or to realise 
+the asset and settle the liability simultaneously.
+A financial instrument is recognised initially, at its fair value plus, in the case of a financial instrument not at fair value through profit or loss, transaction 
+costs that are directly attributable to the acquisition or issue of the financial instrument.
+Financial instruments recognised in the statements of financial position are disclosed in the individual policy statement associated with each item.
+(i) Financial assets 
+On initial recognition, financial assets are classified as either financial assets at fair value through profit or loss, held‑to ‑maturity investments, loans and 
+receivables financial assets, or available‑for ‑sale financial assets, as appropriate. 
+Financial assets at fair value through profit or loss
+As at the end of the reporting year, there were no financial assets classified under this category.
+Held‑to ‑maturity investments
+As at the end of the reporting year, there were no financial assets classified under this category.
+Loans and receivables financial assets
+Trade receivables and other receivables that have fixed or determinable payments that are not quoted in an active market are classified as loans and 
+receivables financial assets. Loans and receivables financial assets are measured at amortised cost using the effective interest method, less any 
+impairment loss. Interest income is recognised by applying the effective interest rate, except for short term receivables when the recognition of 
+interest would be immaterial.
+Available‑for ‑sale financial assets
+As at the end of the reporting year, there were no financial assets classified under this category.
+(ii) Financial liabilities
+All financial liabilities are initially at fair value plus directly attributable transaction costs and subsequently measured at amortised cost using the 
+effective interest method, other than those categorised as fair value through profit or loss.
+Fair value through profit or loss category comprises financial liabilities that are either held for trading or are designated to eliminate or significantly 
+reduce a measurement or recognition inconsistency that would otherwise arise. Derivatives are also classified as held for trading unless they are 
+designated as hedges.
+(iii) Equity instruments
+Ordinary shares are classified as equity. Incremental costs directly attributable to the issue of new shares or options are shown in equity as a deduction, 
+net of tax, from proceeds.
+Dividends on ordinary shares are recognised as liabilities when approved for appropriation.
+(f) Property, plant and equipment 
+Property, plant and equipment are stated at cost less accumulated depreciation and impairment losses, if any. 
+Depreciation is calculated under the straight‑line method to write off the depreciable amount of the assets over their estimated useful lives. Depreciation 
+of an asset does not cease when the asset becomes idle or is retired from active use unless the asset is fully depreciated. The principal annual rates 
+used for this purpose are:
+Computers 20% 
+Furniture and fittings 10% 
+Motor vehicles 20% 
+Office equipment 10% 
+Leasehold improvements 20% 
+Leasehold office premises 2%
+The depreciation method, useful lives and residual values are reviewed, and adjusted if appropriate, at the end of each reporting year to ensure that 
+the amounts, method and periods of depreciation are consistent with previous estimates and the expected pattern of consumption of the future 
+economic benefits embodied in the items of the property, plant and equipment. Fusionex International Plc
+Annual report 2013 24
+FINANCIAL STATEMENTS
+Notes to the Financial Statements (continued)
+for the year ended 30 September 2013
+3. Summary of significant accounting policies (continued)
+(f) Property, plant and equipment (continued)
+Subsequent costs are included in the asset’s carrying amount or recognised as a separate asset, as appropriate, only when the cost is incurred and it is 
+probable that the future economic benefits associated with the asset will flow to the Group and the cost of the asset can be measured reliably. The 
+carrying amount of parts that are replaced is derecognised. The costs of the day‑to ‑ day servicing of property, plant and equipment are recognised in 
+profit or loss as incurred. Cost also comprises the initial estimate of dismantling and removing the asset and restoring the site on which it is located for 
+which the Group is obligated to incur when the asset is acquired, if applicable.
+An item of property and equipment is derecognised upon disposal or when no future economic benefits are expected from its use. Any gain 
+or loss arising from derecognition of the asset is recognised in profit or loss. The revaluation reserve included in equity is transferred directly to retained 
+profits on retirement or disposal of the asset.
+Construction in progress represents assets under construction which are not ready for commercial use at the end of the reporting period. Construction 
+in progress is stated at cost, and is transferred to the relevant category of assets and depreciated accordingly when the assets are completed and 
+ready for commercial use.
+Construction in progress includes direct cost, related expenditure and interest cost on borrowings taken to finance the acquisition of the assets to the 
+date that the assets are completed and put into use.
+(g) Impairment 
+(i) Impairment of financial assets
+All financial assets (other than those categorised at fair value through profit or loss) are assessed at the end of each reporting year whether there is any 
+objective evidence of impairment as a result of one or more events having an impact on the estimated future cash flows of the asset. 
+An impairment loss in respect of loans and receivables financial assets is recognised in profit or loss and is measured as the difference between 
+the asset’s carrying amount and the present value of estimated future cash flows, discounted at the financial asset’s original effective interest rate.
+In a subsequent period, the amount of the impairment loss decreases and the decrease can be related objectively to an event occurring after the 
+impairment was recognised. The previously recognised impairment loss is reversed through profit or loss to the extent that the carrying amount 
+of the investment at the date the impairment is reversed does not exceed what the amortised cost would have been had the impairment not 
+been recognised. 
+(ii) Impairment of non‑financial assets
+The carrying values of assets, other than those to which IAS 36 ‑ Impairment of Assets does not apply, are reviewed at the end of each reporting year 
+for impairment when there is an indication that the assets might be impaired. Impairment is measured by comparing the carrying values of the assets 
+with their recoverable amounts. The recoverable amount of the assets is the higher of the assets’ fair value less costs to sell and their value‑in‑use, 
+which is measured by reference to discounted future cash flow.
+An impairment loss is recognised in profit or loss immediately.
+In respect of assets other than goodwill, and when there is a change in the estimates used to determine the recoverable amount, a subsequent 
+increase in the recoverable amount of an asset is treated as a reversal of the previous impairment loss and is recognised to the extent of the carrying 
+amount of the asset that would have been determined (net of amortisation and depreciation) had no impairment loss been recognised. The reversal 
+is recognised in profit or loss immediately. 
+(h) Assets under hire purchase
+Assets acquired under hire purchase are capitalised in the financial statements and are depreciated in accordance with the policy set out in note 3(f ) 
+above. Each hire purchase payment is allocated between the liability and finance charges so as to achieve a constant rate on the finance balance 
+outstanding. Finance charges are recognised in profit or loss over the period of the respective hire purchase agreements.
+Hire purchases are classified as finance leases as the terms of the lease transfer substantially all the risk and rewards of ownership to the lessee.
+(i) Income taxes
+Income tax for the year comprises current and deferred tax.
+Current tax is the expected amount of income tax payable in respect of the taxable profit for the year and is measured using the tax rates that have 
+been enacted or substantively enacted at the end of the reporting period.
+Deferred tax is provided in full, using the liability method, on temporary differences arising between the tax bases of assets and liabilities and their 
+carrying amounts in the financial statements. 
+Deferred tax liabilities are recognised for all taxable temporary differences other than those that arise from goodwill or excess of the acquirer’s interest 
+in the net fair value of the acquiree’s identifiable assets, liabilities and contingent liabilities over the business combination costs or from the initial 
+recognition of an asset or liability in a transaction which is not a business combination and at the time of the transaction, affects neither accounting 
+profit nor taxable profit. Fusionex International Plc
+Annual report 2013 25
+REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL ST A TEMENTS
+3. Summary of significant accounting policies (continued)
+(i) Income taxes (continued)
+Deferred tax assets are recognised for all deductible temporary differences, unused tax losses and unused tax credits to the extent that it is probable 
+that future taxable profits will be available, against which the deductible temporary differences, unused tax losses and unused tax credits can be 
+utilised. The carrying amounts of deferred tax assets are reviewed at the end of each reporting period and reduced to the extent that it is no longer 
+probable that sufficient future taxable profits will be available to allow all or part of the deferred tax assets to be utilised.
+Deferred tax assets and liabilities are measured at the tax rates that are expected to apply in the period when the asset is realised or the liability 
+is settled, based on the tax rates that have been enacted or substantively enacted at the end of the reporting period.
+Deferred tax assets and liabilities are offset when there is a legally enforceable right to set off current tax assets against current tax liabilities and when 
+the deferred income taxes relate to the same taxation authority.
+Deferred tax relating to items recognised outside profit or loss is recognised outside profit or loss. Deferred tax items are recognised in correlation 
+to the underlying transactions either in other comprehensive income or directly in equity and deferred tax arising from a business combination 
+is included in the resulting goodwill or excess of the acquirer’s interest in the net fair value of the acquiree’s identifiable assets, liabilities and contingent 
+liabilities over the business combination costs. 
+(j) Cash and cash equivalents
+Cash and cash equivalents comprise cash in hand, bank balances, deposits with financial institutions and short term, highly liquid investments 
+that are readily convertible to known amounts of cash and which are subject to an insignificant risk of changes in value.
+(k) Employee benefits
+(i) Short term benefits
+Wages, salaries, paid annual leave and sick leave, bonuses and non‑monetary benefits are accrued in the period in which the associated services 
+are rendered by employees of the Group.
+(ii) Defined contribution plans
+The Group’s contributions to defined contribution plans are recognised in profit or loss in the period to which they relate. Once the contributions have 
+been paid, the Group has no further liability in respect of the defined contribution plans. 
+(l) Contracts 
+Where the outcome of a contract can be reliably estimated, contract revenue and contract costs are recognised as revenue and expenses respectively 
+by using the stage of completion method. The stage of completion is measured by reference to the proportion of cost of work accepted by the 
+customers to date to the estimated total contract cost.
+Where the outcome of a contract cannot be reliably estimated, contract revenue is recognised to the extent of contract costs incurred that are likely to 
+be recoverable. Contract costs are recognised as expenses in the period in which they are incurred.
+When it is probable that total contract costs will exceed total contract revenue, the expected loss is recognised as an expense immediately.
+Contract revenue comprises the initial amount of revenue agreed in the contract and variations in contract work to the extent that it is probable that 
+they will result in revenue and they are capable of being reliably measured.
+When the total of costs incurred on contracts plus recognised profits (less recognised losses) exceeds progress billings, the balance is classified 
+as amount due from customers on contracts. When progress billings exceed costs incurred plus recognised profits (less recognised losses), the 
+balance is classified as amount due to customers on contracts. 
+(m) Provisions, contingent liabilities and contingent assets
+Provisions are recognised when the Group has a present or constructive obligation as a result of past events, when it is probable that an outflow 
+of resources embodying economic benefits will be required to settle the obligation, and when a reliable estimate of the amount can be made. 
+Provisions are reviewed at the end of each financial reporting period and adjusted to reflect the current best estimate. Where effect of the time value 
+of money is material, the provision is the present value of the estimated expenditure required to settle the obligation.
+A contingent liability is a possible obligation that arises from past events and whose existence will only be confirmed by the occurrence of one or more 
+uncertain future events not wholly within the control of the Group. It can also be a present obligation arising from past events that is not recognised 
+because it is not probable that outflow of economic resources will be required or the amount of obligation cannot be measured reliably.
+A contingent liability is not recognised but is disclosed in the notes to the financial statements. When a change in the probability of an outflow occurs 
+so that the outflow is probable, it will then be recognised as a provision.
+A contingent asset is a probable asset that arises from past events and whose existence will be confirmed only by the occurrence or non‑occurrence 
+of one or more uncertain events not wholly within the control of the Group. The Group does not recognise contingent assets but discloses their 
+existence where inflows of economic benefits are probable, but not virtually certain. Fusionex International Plc
+Annual report 2013 26
+FINANCIAL STATEMENTS
+Notes to the Financial Statements (continued)
+for the year ended 30 September 2013
+3. Summary of significant accounting policies (continued)
+(n) Borrowing costs
+Borrowing costs, directly attributable to the acquisition and construction of plant and equipment, are capitalised as part of the cost of those assets, 
+until such time as the assets are ready for their intended use or sale. Capitalisation of borrowing costs is suspended during extended periods in which 
+active development is interrupted.
+All other borrowing costs are recognised in profit or loss as expenses in the period in which they incurred.
+(o) Related parties
+A party is related to an entity if:
+(i) directly, or indirectly through one or more intermediaries, the party: 
+ › controls, is controlled by, or is under common control with the entity (this includes parents, subsidiaries and fellow subsidiaries);
+ › has an interest in the entity that gives it significant influence over the entity; or
+ › has joint control over the entity;
+(ii) the party is an associate of the entity;
+(iii) the party is a joint venture in which the entity is a venturer;
+(iv) the party is a member of the key management personnel of the entity or its parent;
+(v) the party is a close member of the family of any individual referred to in (i) or (iv);
+(vi)  the party is an entity that is controlled, jointly controlled or significantly influenced by, or for which significant voting power in such entity resides 
+with, directly or indirectly, any individual referred to in (iv) or (v); or
+(vii) the party is a post‑ employment benefit plan for the benefit of employees of the entity, or of any entity that is a related party of the entity.
+Close members of the family of an individual are those family members who may be expected to influence, or be influenced by, that individual in their 
+dealings with the entity.
+(p) Revenue and other income
+(i) Sale of goods
+Revenue is recognised upon delivery of goods and customers’ acceptance and, where applicable, net of returns and trade discounts.
+(ii) Services
+Revenue is recognised on the percentage of completion method as disclosed in note 3(l) above. 
+(iii) Maintenance and enhancement
+Revenue on maintenance and enhancement is recognised over the contractual period or performance of services.
+(iv) Dividend income
+Dividend income is recognised when the right to receive payment is established.
+(v) Interest income
+Interest income is recognised as other income on an accrual basis.
+(q) Operating segments
+An operating segment is a component of the Group that engages in business activities from which it may earn revenues and incur expenses, 
+including revenues and expenses that relate to transactions with any of the Group’s other components. An operating segment’s operating results are 
+reviewed regularly by the chief operating decision maker to make decisions about resources to be allocated to the segment and assess its performance, 
+and for which discrete financial information is available. Fusionex International Plc
+Annual report 2013 27
+REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL ST A TEMENTS
+4. Property, plant and equipment
+Computers
+RM
+Furniture
+and
+fittings
+RM
+Motor
+vehicles
+RM
+Office 
+equipment
+RM
+Leasehold
+improvements
+RM 
+Construction
+in progress
+RM
+Leasehold 
+office 
+premises
+RM
+Total
+RM
+Cost
+At 1 October 2011 729,910 231,316 541,416 110,371 193,212 6,871,173 — 8,677,398
+Additions 33,208 5,020 — 188 — 371,900 — 410,316
+Reclassification — — — — — (7,243,073) 7,243,073 —
+At 30 September 2012 763,118 236,336 541,416 110,559 193,212 — 7,243,073 9,087,714
+Additions 410,073 40,638 630,728 57,785 48,495 — 27,371,456 28,559,175
+At 30 September 2013 1,173,191 276,974 1,172,144 168,344 241,707 — 34,614,529 37,646,889
+Accumulated depreciation
+At 1 October 2011 474,287 77,261 493,116 42,849 87,272 201,910 — 1,376,695
+Charge for the year 105,190 23,275 34,094 11,055 38,643 — 137,423 349,680
+Reclassification — — — — — (201,910) 201,910 —
+At 30 September 2012 579,477 100,536 527,210 53,904 125,915 — 339,333 1,726,375
+Charge for the year 122,914 27,275 123,173 16,168 43,915 — 152,299 485,744
+At 30 September 2013 702,391 127,811 650,383 70,072 169,830 — 491,632 2,212,119
+Net book value
+At 30 September 2012 183,641 135,800 14,206 56,655 67,297 —  6,903,740 7,361,339
+At 30 September 2013 470,800 149,163 521,761 98,272 71,877 — 34,122,897 35,434,770
+Included in the property, plant and equipment of the Group at the end of the reporting period are the following assets acquired under hire purchase terms.
+2013 
+RM
+Proforma 
+2012 
+RM
+Motor vehicles 521,761 14,206
+The office premises have been pledged to financial institutions as security for banking facilities of the Group as disclosed in note 17 to the 
+financial statements.
+5. Goodwill on consolidation
+2013 
+RM
+Proforma 
+2012 
+RM
+At cost 558,887 558,887
+Less: impairment losses (9,315) (9,315)
+Carrying value 549,572 549,572
+During the financial year, the Group assessed the recoverable amount of the goodwill and determined that no additional impairment is required. 
+This assessment of goodwill was done by comparing the gross profit to the value of goodwill for the entity whose acquisition gave rise to the goodwill. Fusionex International Plc
+Annual report 2013 28
+FINANCIAL STATEMENTS
+Notes to the Financial Statements (continued)
+for the year ended 30 September 2013
+6. Intangible assets
+2013 
+RM
+Proforma 
+2012 
+RM
+Development expenditure
+At cost:
+At 1 October – brought forward 8,421,582 4,896,287
+Addition during the financial years 6,625,462 3,509,024
+Translation differences 63,541 16,271
+15,110,585 8,421,582
+Accumulated amortisation
+At 1 October – brought forward (855,745) (218,627)
+Addition for the financial years (1,152,029) (634,382)
+Translation differences (10,155) (2,736)
+(2,017,929) (855,745)
+At 30 September – carried forward 13,092,656 7,565,837
+The intangible assets mainly consist of staff costs.
+7. Deferred tax assets
+2013 
+RM
+Proforma 
+2012 
+RM
+At 1 October – brought forward — 104,214
+Recognised in profit or loss (note 23) — (104,214)
+At 30 September – carried forward — —
+8. Trade receivables
+2013 
+RM
+Proforma 
+2012 
+RM
+Trade receivables 6,626,987 3,840,642
+Impairment losses:
+At 1 October — (783,750)
+Writeback during the financial year — 783,750
+At 30 September — —
+The Group’s normal trade credit term is 30 to 60 days. Other credit terms are assessed and approved on a case‑by‑ case basis.
+9. Other receivables, deposits and prepayments
+2013 
+RM
+Proforma 
+2012 
+RM
+Sundry receivables 206,135 318,871
+Deposits 430,661 328,355
+Prepayments 187,392 391,264
+824,188 1,038,490 Fusionex International Plc
+Annual report 2013 29
+REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL ST A TEMENTS
+10. Amount owing by contract customers
+2013 
+RM
+Proforma 
+2012 
+RM
+Cost incurred to date 2,770,655 2,358,966
+Attributable profits 3,743,097 2,766,195
+6,513,752 5,125,161
+Progress billings (3,771,358) (2,734,136)
+2,742,394 2,391,025
+Represented by:
+Amount owing by contract customers 2,742,394 2,391,025
+Amount of contract revenue recognised as revenue during the financial years (note 21) 6,513,752 5,125,161
+Amount of contract costs recognised as expenses during the financial years 2,770,655 2,358,966
+11. Amounts owing by/(to) related parties
+2013 
+RM
+Proforma 
+2012 
+RM
+Amount owing by/(to):
+Current
+Non‑trade balances — (1,224,486)
+The amounts owing by/(to) related parties are unsecured, interest‑free and repayable on demand. The amounts owing are to be settled in cash.
+Details of related party transactions are set out in note 27.
+12. Fixed deposits with licensed banks
+The weighted average effective interest rates and the maturity periods of the fixed deposits at the end of reporting periods are as follows:
+2013 
+Proforma 
+2012 
+Weighted average effective interest rates 1.41% 2.60%
+Maturity periods 8 – 388 days 30 – 365 days
+Included in the fixed deposits with licensed banks of the Group at the end of the reporting period was an amount of RM900,107 (2012: RM793,890) which 
+has been pledged to a licensed bank as security for banking facilities granted to the Group.
+13. Share capital
+2013 
+RM
+Proforma 
+2012 
+RM
+Balance brought forward — —
+New shares issued pursuant to:
+Share swap 18,668,186 —
+Admission onto AIM (net of issue costs) 52,788,872 —
+Non‑trade balances 71,457,058 —
+The Fusionex International Plc was incorporated on 1 October 2012 with an authorised share capital of £1,000 divided into 1,000 ordinary shares 
+of £1.00 each, of which 2 ordinary shares of £1.00 each were subscribed by the shareholders.
+On 15 October 2012, the Company passed a special resolution to convert to a no par value company with an unlimited share capital which is divided 
+into ordinary shares with no par value. Fusionex International Plc
+Annual report 2013 30
+FINANCIAL STATEMENTS
+Notes to the Financial Statements (continued)
+for the year ended 30 September 2013
+13. Share capital (continued)
+On 14 November 2012, the Board approved the allotment and issue by the Company on the date of completion of the Share Swap Agreement of an 
+aggregate of 34,999,998 ordinary shares, to certain of the holders of the share capital of Fusionex Corp Sdn. Bhd. and Adv Fusionex Sdn. Bhd. in 
+consideration for the transfer of the entire issued share capital of Fusionex Corp Sdn. Bhd. and Adv Fusionex Sdn. Bhd. to the Company. 
+The aforementioned 34,999,998 ordinary shares were allotted and issued on 3 December 2012.
+On 10 December 2012, the Board approved the allotment and issue by the Company by no later than 1.00 p.m. on 17 December 2012 of 866,947 
+placing shares at the placing price (being the First Tranche Placing Shares and the Second Tranche Placing Shares) and the allotment, conditional 
+on Admission, by no later than 1.00 p.m. on 17 December 2012 of 7,133,053 placing shares (being the remaining placing shares) and the issue of these 
+7,133,053 Placing Shares on 18 December by no later than 8.00 a.m., in each case, at the placing price.
+On 10 December 2012, the Board approved the allotment and issue by the Company, conditional on Admission of 333,333 ordinary shares 
+at the placing price to certain employees of the Group pursuant to the Employees’ Share Scheme. The number of issued ordinary shares immediately 
+following Admission amounted to 43,000,000.
+The expenses in relation to the above corporate exercise amounting to RM6.6 million have been recognised in equity.
+14(a). Merger reserve
+The merger reserve arose from the difference between the carrying value of the investment and nominal value of the shares of subsidiaries upon 
+consolidation under the merger accounting principles.
+14(b). Foreign exchange translation reserve
+The foreign exchange translation reserves arose from the translation of the financial statements of foreign subsidiaries and are not distributable 
+by way of dividends.
+15. Long term borrowings
+2013 
+RM
+Proforma 
+2012 
+RM
+Hire purchase payables (note 16) 298,064 48,233
+Term loans (note 17) 26,478,400 5,873,129
+26,776,464 5,921,362
+16. Hire purchase payables
+2013 
+RM
+Proforma 
+2012 
+RM
+Minimum hire purchase payments:
+– not later than 1 year 115,284 26,040
+– later than 1 year and not later than 2 years 110,941 49,907
+– later than 2 years and not later than 5 years 208,214 —
+434,439 75,947
+Less: future finance charges (36,580) (4,213)
+Present value of hire purchase payables 397,859 71,734
+Current portion (note 20):
+– not later than 1 year 99,795 23,501
+Non‑current portion (note 15):
+– later than 1 year and not later than 2 years 100,100 24,539
+– later than 2 years and not later than 5 years 197,964 23,694
+298,064 48,233
+397,859 71,734 Fusionex International Plc
+Annual report 2013 31
+REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL ST A TEMENTS
+17. Term loans
+2013 
+RM
+Proforma 
+2012 
+RM
+Current portion (note 20):
+– not later than 1 year 868,988 215,624
+Non‑current portion (note 15):
+– later than 1 year and not later than 2 years 908,737 224,866
+– later than 2 years and not later than 5 years 2,990,534 700,145
+– after 5 years 22,579,129 4,948,118
+26,478,400 5,873,129
+27,347,388 6,088,753
+Details of the repayment terms are as follows:
+Amount outstanding
+Term loan
+Number of
+instalments
+Monthly
+instalment
+RM
+ Date of
+commencement
+of repayment
+2013
+RM
+Proforma 
+2012
+RM
+1 300 21,285 3.10.2011 3,286,538 3,371,107
+2 240 20,160 5.10.2011 2,620,850 2,717,646
+3 240 66,666 1.10.2013 10,720,000 —
+4 240 66,666 1.10.2013 10,720,000 —
+27,347,388 6,088,753
+The term loans 1 to 4 are secured by: 
+(i) legal charges over the office premises of the Fusionex Group; and 
+(ii) a guarantee of Adv Fusionex Sdn. Bhd.
+The term loans 1 and 2 are secured by:
+(i) fixed deposits of the Fusionex Corp. Sdn. Bhd. as disclosed in note 12.
+Note:
+Term loan 1 held under a former director of Fusionex Corp. Sdn. Bhd. The director was granted a Flexi Business Financing – i loan from CIMB Islamic Bank Berhad (“CIMB”) for the purpose of part 
+financing and purchase of Fusionex Corp. Sdn. Bhd.’s office premises. The monthly repayments under the CIMB loan have always been paid by Fusionex Corp. Sdn. Bhd. to CIMB.
+18. Deferred tax liabilities
+2013 
+RM
+Proforma
+2012 
+RM
+At 1 October – brought forward 1,162,126 756,753
+Recognised in the profit or loss (note 23)
+Translation differences (46,414) 402,196
+At 30 September – carried forward 1,445 3,177
+1,117,157 1,162,126
+The deferred tax liabilities are attributable to the following:
+2013 
+RM
+Proforma
+2012 
+RM
+Accelerated capital allowances 109,320 45,486
+Software development expenditure 1,007,837 1,116,640
+1,117,157 1,162,126 Fusionex International Plc
+Annual report 2013 32
+FINANCIAL STATEMENTS
+Notes to the Financial Statements (continued)
+for the year ended 30 September 2013
+19. Other payables and accruals
+2013 
+RM
+Proforma
+2012 
+RM
+Dividend payable — 1,700,000
+Deferred income 2,241,491 866,299
+Sundry payables 260,031 58,941
+Accruals 3,019,860 2,348,563
+5,521,382 4,973,803
+The deferred income mainly relates to revenue billed in advance and the income to be recognised upon delivery of goods and completion of services.
+20. Short term borrowings
+2013 
+RM
+Proforma
+2012 
+RM
+Hire purchase payables (note 16) 99,795 23,501
+Term loans (note 17) 868,988 215,624
+968,783 239,125
+21. Revenue
+2013 
+RM
+Proforma
+2012 
+RM
+Products 36,939,340 21,778,950
+Services 7,483,866 9,535,756
+44,423,206 31,314,706
+Included in the revenue of products and services of the Group is an amount of RM6,513,752 and RM5,125,161 relates to contract revenue for the 
+financial year ended 30 September 2013 and 2012.
+22. Profit before taxation
+Profit before taxation is arrived at after charging/(crediting):
+2013 
+RM
+Proforma 
+2012 
+RM
+Amortisation of intangible assets 1,152,029 634,382
+Audit fees 300,000 119,329
+Depreciation of plant and equipment 485,744 349,680
+Directors’ remuneration 1,105,166 382,317
+Interest expense:
+– hire purchase 13,832 4,414
+– term loans 326,283 276,414
+(Gain)/loss on foreign exchange:
+– realised (98,359) 7,306
+– unrealised (1,007,853) 305,729
+Staff costs:
+– salaries, allowances and bonuses 11,191,321 8,180,027
+– defined contribution plan 1,424,849 1,124,699
+Rental of office 650,926 558,429
+Rental of equipment 43,627 117,567
+Interest income (343,021) (12,391)
+Reversal of allowance of impairment loss on receivable — (783,750) Fusionex International Plc
+Annual report 2013 33
+REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL ST A TEMENTS
+23. Income tax expense
+2013 
+RM
+Proforma 
+2012 
+RM
+Current tax expense
+– for the financial year 1,279,483 1,506,509
+– under/(over)provision in the previous financial year 255,099 (18,073)
+1,534,582 1,488,436
+Deferred tax assets (note 7):
+– for the financial year — 104,214
+Deferred tax liabilities (note 18):
+– for the financial year (46,414) 402,196
+(46,414) 402,196
+1,488,168 1,994,846
+A reconciliation of income tax expense applicable to the profit before taxation at the statutory tax rate to the income tax expense at the effective tax 
+rate of the Group are as follows:
+2013 
+RM
+Proforma 
+2012 
+RM
+Profit before taxation 20,499,966 15,099,505
+Tax at the applicable statutory tax rate of 25% 5,124,992 3,774,876
+Tax effects of:
+– differences in tax rates (290,083) (361,574)
+– non‑deductible expenses 332,451 103,875
+– income not subject to tax (3,614,670) (1,281,558)
+– deferred tax assets not recognised 165,049 —
+– tax relief (484,670) (222,700)
+Under/(over)provision in the previous financial year:
+– current tax 255,099 (18,073)
+Income tax expenses for the financial year 1,488,168 1,994,846
+24. Earnings per share
+The calculation for earnings per share, based on the weighted average number of shares, is shown in the table below:
+Year ended 30 September
+2013 
+RM
+2012 
+RM
+Profit after tax attributable to owners of the Group 19,011,798 12,739,649
+Weighted average number of shares:
+Basic 41,940,639 34,999,998*
+Diluted 41,940,639 34,999,998*
+Earnings per share:
+Basic 45.30 36.40
+Diluted 45.30 36.40
+Note:
+* Based on the number of ordinary shares issued pursuant to the corporate exercise in relation to admission onto AIM. Fusionex International Plc
+Annual report 2013 34
+FINANCIAL STATEMENTS
+Notes to the Financial Statements (continued)
+for the year ended 30 September 2013
+25. Dividends
+2013 
+RM
+Proforma 
+2012 
+RM
+Interim dividend for 30.9.2013: RM0.099 per ordinary share 4,259,408 —
+Interim dividend 1 for 30.9.2012: RM13.60 per ordinary share — 6,800,000
+Interim dividend 2 for 30.9.2012: RM1.00 per ordinary share — 500,000
+4,259,408 7,300,000
+26. Cash and cash equivalents
+For the purpose of the statement of cash flows, cash and cash equivalents comprise the following:
+2013 
+RM
+Proforma 
+2012 
+RM
+Fixed deposits with licensed banks (note 12) 25,203,613 931,700
+Cash and bank balances 37,187,913 9,381,686
+62,391,526 10,313,386
+27. Related party disclosures
+The Group carried out the following transactions with related parties during the financial years:
+Key management personnel
+Short term employee benefits
+2013 
+RM
+Proforma 
+2012 
+RM
+Ivan Teh 583 —
+Yuen Choong Lai 150 —
+John Croft 167 —
+Robin Taylor 125 —
+Calvin Chun 40 —
+Alan Lim 40 —
+Babe Quek @ Lily Quek — 27
+Quek Yin Ting — 337
+Tan Soon Lin — 18
+Total 1,105 382
+At 30 September 2012 RM1.2 million was owed to Quek Yin Ting.
+Key management personnel comprised Executive and Non‑Executive Directors.
+28. Other income
+2013 
+RM
+Proforma 
+2012 
+RM
+Interest income 340,200 12,391
+Gain on foreign exchange 1,365,584 —
+Reversal of allowance of impairment loss on receivables — 783,750
+Sundry income 477,279 269,771
+2,183,063 1,065,912 Fusionex International Plc
+Annual report 2013 35
+REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL ST A TEMENTS
+29. Capital commitment
+Authorised capital expenditure contracted but not provided for in the consolidated financial statements is analysed as follows:
+2013 
+RM
+Proforma 
+2012 
+RM
+Property renovation 1,127,438 —
+30. Segment analysis
+IFRS 8 requires operating segments to be identified on the basis of internal reports about components of the Group that are regularly reviewed by the 
+chief operating decision maker as defined in IFRS 8, in order to allocate resources to the segment and to assess its performance. 
+All other segments primarily comprise income and expenses relating to the Group’s administrative functions. Interest income and interest expense 
+are not allocated to segments, as this type of activity is driven by the central treasury function which manages the cash position of the Group. 
+Accordingly, this information is not separately reported to the Board for each reportable segment.
+Operating segments are prepared in a manner consistent with the internal reporting provided to the Executive Directors as its chief operating 
+decision maker in order to allocate resources to segments and to assess their performance. For management purposes, the Group is organised 
+into business units based on their products and services provided. 
+Operating segments
+Product
+RM
+Services 
+RM
+Total
+RM
+At 30 September 2013
+Revenue 36,939,240 7,483,966 44,423,206
+At 30 September 2012
+Revenue 21,778,950 9,535,756 31,314,706
+Geographical location
+Asia Pacific
+RM
+Europe
+RM
+Americas
+RM
+Elimination
+^
+ 
+RM
+Total
+RM
+At 30 September 2013
+Revenue 40,381,223 10,751,802 3,711,241 (10,421,060) 44,423,206
+Result
+Segment result before financing result and tax 17,138,052 6,362,788 1,575,075 (4,235,834) 20,840,081
+Finance costs (340,115)
+Income tax (1,488,168)
+Profit for the year 19,011,798
+Assets and liabilities
+Segmental assets 119,608,436 69,340,899 — — 188,949,335
+Non‑allocated assets 549,573
+Consolidation adjustments (67,743,472)
+Total assets 121,755,436
+Segmental liabilities 48,014,421 11,833,611 — — 59,848,032
+Non‑allocated liabilities 43,134,397
+Consolidation adjustments (67,743,472)
+Total liabilities 35,238,957
+# Segment assets comprise total current and non‑current assets less unallocated assets.
+* Segment liabilities comprise total current liabilities and non‑current liabilities less unallocated liabilities.
+^ Mainly related to Asia Pacific intercompany sales. Fusionex International Plc
+Annual report 2013 36
+FINANCIAL STATEMENTS
+Notes to the Financial Statements (continued)
+for the year ended 30 September 2013
+30. Segment analysis (continued)
+Other segmental reporting
+Asia Pacific
+RM
+Europe
+RM
+Americas
+RM
+Elimination
+^
+ 
+RM
+Total
+RM
+At 30 September 2013
+Capital expenditure:
+– tangible assets 28,559,175 — — — 28,559,175
+– intangible assets 6,625,462 — — — 6,625,462
+Depreciation 485,744 — — — 485,744
+Other non‑cash expenses
+Unrealised foreign exchange gain (1,007,853) — — — (1,007,853)
+Amortisation of intangible assets 1,152,029 — — — 1,152,029
+144,176 — — — 144,176
+Geographical location
+Asia Pacific
+RM
+Europe
+RM
+Americas
+RM
+Elimination
+^
+ 
+RM
+Total
+RM
+At 30 September 2012
+Revenue 23,890,120 8,343,693 2,796,838 (3,715,945) 31,314,706
+Result
+Segment result before financing result and tax 6,479,408 7,595,947 1,304,978 — 15,380,333
+Finance costs (280,828)
+Income tax (1,994,846)
+Profit for the year 13,104,659
+Assets and liabilities
+Segmental assets 36,045,958 3,213,358 — — 39,259,316
+Non‑allocated assets 549,572
+Consolidation adjustments (6,745,642)
+Total assets 33,063,246
+Segmental liabilities 15,853,744 5,286,958 — — 21,140,702
+Consolidation adjustments (6,745,642)
+Total liabilities 14,395,060
+Other segmental reporting
+Asia Pacific
+RM
+Europe
+RM
+Americas
+RM
+Elimination
+^
+ 
+RM
+Total
+RM
+At 30 September 2012
+Capital expenditure:
+– tangible assets 410,316 — — — 410,316
+– intangible assets 3,509,024 — — — 3,509,024
+Depreciation 349,680 — — — 349,680
+Other non‑cash expenses
+Unrealised foreign exchange loss 305,729 — — — 305,729
+Amortisation of intangible assets 634,382 — — — 634,382
+940,111 — — — 940,111
+# Segment assets comprise total current and non‑current assets less unallocated assets. 
+* Segment liabilities comprise total current liabilities and non‑current liabilities less unallocated liabilities. 
+^ Mainly related to Asia Pacific intercompany sales. Fusionex International Plc
+Annual report 2013 37
+REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL ST A TEMENTS
+30. Segment analysis (continued)
+Major customers
+The following table outlines the number of customers in each year who individually represent in excess of 10% of the Group’s revenue for that year:
+2013 
+Proforma 
+2012 
+Number of customers exceeding 10% of the Group’s revenue 2 3
+2013 
+RM’000
+Proforma 
+2012 
+RM’000
+Aggregate revenue for customers exceeding 10% of the Group’s revenue 11,335 13,504
+31. Financial instruments
+The Group’s activities are exposed to a variety of market risks (including foreign currency risk, interest rate risks and equity price risk), credit risks and 
+liquidity risks. The Group’s overall financial risk management policy focuses on the unpredictability of financial markets and seeks to minimise potential 
+adverse effects on the Group’s financial performance. 
+(a) Financial risk management policies
+The Group’s policies in respect of the major areas of treasury activity are as follows:
+(i) Market risk 
+Foreign currency risk
+The Group is exposed to foreign currency risk on transactions and balances that are denominated in currencies other than Ringgit Malaysia. 
+The currencies giving rise to this risk are primarily Great British Pound and United States Dollar. Foreign currency risk is monitored closely on an ongoing 
+basis to ensure that the net exposure is at an acceptable level. 
+The Group maintains a natural hedge whenever possible, by matching the cash inflows (revenue stream) and cash outflows used for purposes such as 
+capital expenditure, operational expenditure and debt service requirements in the respective currencies.
+The Group’s exposure to foreign currency is as follows:
+2013
+Great British 
+Pound
+RM
+Singapore 
+Dollar
+RM
+United States 
+Dollar
+RM
+Thai 
+Baht
+RM
+Others
+RM
+Total
+RM
+Financial assets
+Trade receivables 2,480,114 2,186,458 — 159,897 — 4,826,469
+Other receivables and deposits 49,742 154,751 — 33,462 — 237,955
+Fixed deposits — 104,684 — — — 104,684
+Cash and bank balances 16,644,621 1,400,551 2,762,608 1,309,654 63,034 22,180,468
+19,174,477 3,846,444 2,762,608 1,503,013 63,034 27,349,576
+Financial liabilities
+Other payables and accruals 531,354 939,206 — 51,651 — 1,522,211
+Net financial assets 18,643,123 2,907,238 2,762,608 1,451,362 63,034 25,827,365
+Less: net financial assets denominated in the 
+respective entities’ functional currencies (7,728,526) (2,907,238) — (1,451,362) (35,921) (12,123,047)
+Currency exposure 10,914,597 — 2,762,608 — 27,113 13,704,318 Fusionex International Plc
+Annual report 2013 38
+FINANCIAL STATEMENTS
+Notes to the Financial Statements (continued)
+for the year ended 30 September 2013
+31. Financial instruments (continued)
+(a) Financial risk management policies (continued)
+(i) Market risk (continued)
+Foreign currency risk (continued)
+2012 (Proforma)
+Great British 
+Pound
+RM
+Singapore 
+Dollar
+RM
+United States 
+Dollar
+RM
+Thai 
+Baht
+RM
+Total
+RM
+Financial assets
+Trade receivables 1,440,038 744,080 59,631 — 2,243,749
+Other receivables and deposits 383,499 349,086 11,525 28,192 772,302
+Fixed deposits — 57,541 — — 57,541
+Cash and bank balances 1,320,413 582,241 330,075 1,376,727 3,609,456
+3,143,950 1,732,948 401,231 1,404,919 6,683,048
+Financial liabilities
+Other payables and accruals 370,469 780,634 — 577,329 1,728,432
+Amounts due to related parties — 875,630 — — 875,630
+370,469 1,656,264 — 577,329 2,604,062
+Net financial assets 2,773,481 76,684 401,231 827,590 4,078,986
+Less: net financial assets denominated  
+in the respective entities’ functional currencies (2,770,329) (76,684) — (827,590) (3,674,603)
+Currency exposure 3,152 — 401,231 — 404,383
+Foreign currency risk sensitivity analysis
+The following table details the sensitivity analysis to a reasonably possible change in the foreign currencies as at the end of the reporting period, with 
+all other variables held constant:
+2013
+Increase/
+(decrease)
+RM
+Proforma
+2012
+Increase/
+(decrease)
+RM
+Effects on profit after taxation/equity
+Great British Pound:
+– strengthened by 10% 1,091,000 —*
+– weakened by 10% (1,091,000) —*
+United States Dollar:
+– strengthened by 10% 276,000 40,000
+– weakened by 10% (276,000) (40,000)
+Hong Kong Dollar:
+– strengthened by 10% —* —
+– weakened by 10% —* —
+Note:
+* The amount is less than RM1,000.
+Interest rate risk
+Interest rate risk is the risk that the fair value or future cash flows of a financial instrument will fluctuate because of changes in market interest rates. 
+The Group’s exposure to interest rate risk arises mainly from interest‑bearing financial assets and liabilities. The Group’s policy is to obtain the most 
+favourable interest rates available. Any surplus funds of the Group will be placed with licensed financial institutions to generate interest income.
+Interest rate risk sensitivity analysis 
+A 100 basis points strengthening/weakening of the interest rate as at the end of the reporting period would have immaterial impact on profit after 
+taxation and/or equity. This assumes that all other variables remain constant.
+Equity price risk
+The Group does not have any quoted investments and hence is not exposed to equity price risk. Fusionex International Plc
+Annual report 2013 39
+REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL ST A TEMENTS
+31. Financial instruments (continued)
+(a) Financial risk management policies (continued)
+(ii) Credit risk
+The Group’s exposure to credit risk, or the risk of counterparties defaulting, arises mainly from trade and other receivables. The Group manages its exposure 
+to credit risk by the application of credit approvals, credit limits and monitoring procedures on an ongoing basis. For other financial assets (including quoted 
+investments and cash and bank balances), the Group minimises credit risk by dealing exclusively with high credit rating counterparties.
+The Group establishes an allowance for impairment that represents its estimate of incurred losses in respect of the trade and other receivables as 
+appropriate. The main components of this allowance are a specific loss component that relates to individually significant exposures, and a collective 
+loss component established for groups of similar assets in respect of losses that have been incurred but not yet identified. Impairment is estimated 
+by management based on prior experience and the current economic environment.
+Credit risk concentration profile
+The Group’s major concentration of credit risk relates to the amounts owing by 2 customers which constituted approximately 58% of its trade 
+receivables as at the end of the reporting period.
+Exposure to credit risk
+As the Group does not hold any collateral, the maximum exposure to credit risk is represented by the carrying amount of the financial assets as at the 
+end of the reporting period.
+The exposure of credit risk for trade receivables by geographical region is as follows:
+2013 
+RM
+Proforma 
+2012 
+RM
+Malaysia 1,823,270 1,596,893
+United Kingdom 2,457,362 1,499,670
+Singapore 2,186,458 744,079
+Thailand 159,897 —
+6,626,987 3,840,642
+Ageing analysis
+The ageing analysis of the Group’s trade receivables as at each of the 3 years ended 30 September 2013 is as follows:
+2013
+Gross
+amount
+RM
+Individual
+impairment
+RM
+Carrying
+value
+RM
+Not past due 4,142,619 — 4,142,619
+Past due:
+– less than 3 months 2,161,286 — 2,161,286
+– 3 to 6 months 323,082 — 323,082
+6,626,987 — 6,626,987
+2012 (Proforma)
+Gross
+amount
+RM
+Individual
+impairment
+RM
+Carrying
+value
+RM
+Not past due 1,373,643 — 1,373,643
+Past due:
+– less than 3 months 2,428,905 — 2,428,905
+– 3 to 6 months 38,094 — 38,094
+3,840,642 — 3,840,642
+At the end of the reporting period, trade receivables that are individually impaired were those in significant financial difficulties and have defaulted 
+on payments. These receivables are not secured by any collateral or credit enhancement.
+The collective impairment allowance is determined based on estimated irrecoverable amounts from the sale of goods, determined by reference 
+to past default experience.
+Trade receivables that are past due but not impaired
+The Group believes that no impairment allowance is necessary in respect of these trade receivables. They are substantially companies with good 
+collection track record and no recent history of default.  Fusionex International Plc
+Annual report 2013 40
+FINANCIAL STATEMENTS
+Notes to the Financial Statements (continued)
+for the year ended 30 September 2013
+31. Financial instruments (continued)
+(a) Financial risk management policies (continued)
+(iii) Liquidity risk
+Liquidity risk is the risk that the Group will not be able to meet its financial obligations as they fall due. The Group exposure to liquidity risk arises 
+primarily from mismatches of the maturities of financial assets and liabilities.
+The Group maintains a level of cash and cash equivalents and bank facilities deemed adequate by the management to ensure as far as possible that 
+it will have sufficient liquidity to meet its liabilities when they fall due.
+The following table sets out the maturity profile of the financial liabilities as at the end of the reporting period based on contractual undiscounted 
+cash flows (including interest payments computed using contractual rates or, if floating, based on the rates at the end of the reporting period):
+Weighted 
+average 
+effective 
+rate
+%
+Carrying
+amount 
+RM
+Contractual 
+undiscounted
+cash flows 
+RM
+Within 
+1 year
+RM
+1 – 5 years
+RM
+> 5 years
+RM
+2013
+Term loans 4.75 27,347,388 41,587,715 2,073,576 8,294,304 31,219,835
+Hire purchase payables 4.45 397,859 434,441 115,284 319,157 —
+Other payables and accruals — 5,521,382 5,521,382 5,521,382 — —
+33,266,629 47,543,538 7,710,242 8,613,461 31,219,835
+2012 (Proforma)
+Term loans 4.79 6,088,753 9,467,222 473,592 1,894,368 7,099,262
+Hire purchase payables 4.33 71,734 75,947 26,040 49,907 —
+Other payables and accruals — 4,973,803 4,973,803 4,973,803 — —
+Amount owing to related parties — 1,224,486 1,224,486 1,224,486 — —
+12,358,776 15,741,458 6,697,921 1,944,275 7,099,262
+(b) Capital risk management
+The Group defines capital as the total equity of the Group. The Group’s objectives when managing capital are to safeguard the Group’s ability to 
+continue as a going concern in order to provide returns for shareholders and benefits for other stakeholders and to maintain an optimal capital 
+structure to reduce the cost of capital. In order to maintain or adjust the capital structure, the Group may adjust the amount of dividends paid 
+to shareholders, return capital to shareholders, issue new shares or sell assets to reduce debt.
+The Group manages its capital based on debt‑to ‑ equity ratio. The Group’ s strategies were unchanged from the previous financial year. The  debt‑to‑equity 
+ratio is calculated as net debt divided by total equity. Net debt is calculated as borrowings plus trade and other payables less cash and cash equivalents. 
+The debt‑to ‑ equity ratio of the Group as at the end of the reporting period was as follows:
+2013 
+RM
+Proforma 
+2012 
+RM
+Hire purchase payables 397,859 71,734
+Term loans 27,347,388 6,088,753
+Other payables and accruals 5,521,382 4,973,803
+Amount owing to related parties — 1,224,486
+Net debt 33,266,629 12,358,776
+Total equity 53,788,872 18,668,186
+Debt‑to ‑ equity ratio 0.62 0.66 Fusionex International Plc
+Annual report 2013 41
+REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL ST A TEMENTS
+31. Financial instruments (continued)
+(c) Classification of financial instruments
+Financial assets
+2013 
+RM
+Proforma 
+2012 
+RM
+Loans and receivables financial assets
+Trade receivables 6,626,987 3,840,642
+Other receivables and deposits 636,796 647,226
+Fixed deposits with licensed banks 25,203,613 931,700
+Cash and bank balances 31,187,913 9,381,686
+63,655,309 14,801,254
+Financial liabilities
+2013 
+RM
+Proforma 
+2012 
+RM
+Other financial liabilities
+Hire purchase payables 397,859 71,734
+Term loans 27,347,388 6,088,753
+Other payables and accruals 5,521,382 4,973,803
+Amount owing to related parties — 1,224,486
+33,266,629 12,358,776
+(d) Fair values of financial instruments
+The carrying amounts of the financial assets and financial liabilities reported in the combined financial statements approximated their fair values.
+2013 Proforma 2012
+Carrying amount
+RM
+Fair value
+RM
+Carrying amount
+RM
+Fair value
+RM
+Hire purchase payables 397,859 * 71,734 69,564
+Note:
+* The carrying amounts of the hire purchase payables are approximated their fair values.
+The following summarises the methods used to determine the fair values of the financial instruments:
+(i)  the financial assets and financial liabilities maturing within the next 12 months approximated their fair values due to the relatively short term 
+maturity of the financial instruments;
+(ii)  the fair value of hire purchase payables is determined by discounting the relevant cash flows using current interest rates for similar instruments 
+as at the end of the reporting period; and
+(iii) the carrying amounts of the term loans approximated their fair values as these instruments bear interest at variable rates.
+32. Comparative Information
+The following figures have been reclassified to conform with the presentation of the current financial year:
+As restated 
+RM
+As previously
+reported
+RM
+Consolidated Statement of Comprehensive Income (Extract):
+Cost of sales 8,084,838 11,296,133
+Administrative and other operating expenses 8,915,447 —
+Administrative expenses — 5,122,313
+Distribution expenses — 98,877
+Other expenses — 482,962 Fusionex International Plc
+Annual report 2013 42
+FINANCIAL STATEMENTS
+Notice of Annual General Meeting 
+Fusionex International Plc 
+(Incorporated and registered in Jersey with registered number 111533)
+NOTICE OF ANNUAL GENERAL MEETING
+Notice is hereby given that the Annual General Meeting of the Shareholders of Fusionex International Plc (the “Company”) will be held at 
+Club Boardroom 2, The Club, Saujana Resort Kuala Lumpur, Jalan Lapangan Terbang SAAS, 40150 Shah Alam, Selangor, Malaysia on Friday, 7 March 2014 
+at 9.00a.m. GMT/5.00p.m. MYT for the following purposes:
+Ordinary business
+1.  To receive and adopt the Company’s Audited Financial Statements, together with the Reports of the Directors and the Auditor for the period from 
+incorporation, 1 October 2012, to 30 September 2013.
+2.  That Ivan Teh, who retires in accordance with Article 33.1 of the Articles of Association and, being eligible, offers himself for re‑ election as a 
+director at the AGM, be re‑ elected.
+3.  That John Croft, who retires in accordance with Article 33.1 of the Articles of Association and, being eligible, offers himself for re‑ election as a 
+director at the AGM, be re‑ elected.
+4.  That Yuen Choong Lai, who retires in accordance with Article 33.1 of the Articles of Association and, being eligible, offers himself for re‑ election 
+as a director at the AGM, be re‑ elected.
+5.  That Robin Taylor, who retires in accordance with Article 33.1 of the Articles of Association and, being eligible, offers himself for re‑ election as a 
+director at the AGM, be re‑ elected.
+6.  That Alan Lim, who retires in accordance with Article 33.1 of the Articles of Association and, being eligible, offers himself for re‑ election as a 
+director at the AGM, be re‑ elected.
+7.  That Calvin Chun, who retires in accordance with Article 33.1 of the Articles of Association and, being eligible, offers himself for re‑ election as a 
+director at the AGM, be re‑ elected.
+8.  To re‑appoint Crowe Clark Whitehill LLP as Auditor to hold office from the conclusion of this meeting until the conclusion of the next annual 
+general meeting of the Company. 
+9.  To authorise the Directors to determine the Auditor’s remuneration.
+by order of the Board of Directors of Fusionex International Plc
+John Croft 
+Non-Executive Chairman
+10 February 2014
+Registered Office Address: 12 Castle Street, St. Helier, Jersey, JE2 3RT, Channel Islands Fusionex International Plc
+Annual report 2013 43
+REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL ST A TEMENTS
+Explanatory Notes 
+to the Notice of Annual General Meeting
+1. Definitions
+“AIM” the Alternative Investments Market operated by the London Stock Exchange plc
+“Annual General Meeting” or “AGM” the annual general meeting of the Company convened for 9.00a.m. GMT/5.00p.m. MYT, 7 March 2014
+“Articles of Association” the articles of association of the Company
+“Auditor” the auditor of the Company
+“Board” or “Directors” 
+the directors of the Company, whose names are set out in paragraph 4 of this document, and “Director” shall 
+mean any of them
+“Business Day”
+a day (excluding Saturdays and Sundays and public holidays in England and Wales) on which the banks are 
+generally open for business in London for the transaction of normal banking business
+“Chairman” the Non‑Executive Chairman of the Company, as set out in paragraph 4 of this document
+“Company” Fusionex International Plc
+“Companies Law”
+the Companies (Jersey) Law 1991 (as amended), and every order, regulation or other subordinate legislation 
+made under it
+“Notice of AGM” the notice convening the AGM which is included with this document
+“Register of Members” the register of members of the Company
+“Resolutions” the resolutions set out in the Notice of AGM and “Resolution” shall mean any of them
+“Shareholders” the holders of the Shares
+“Shares” ordinary shares of no par value in the capital of the Company
+2. Proxy Information
+2.1.    Only Shareholders, or their duly appointed representatives, are entitled to attend and vote at the Annual General Meeting. A Shareholder so 
+entitled may appoint one or more proxies (whether they are Shareholders or not) to attend and, on a poll, to vote in place of the Shareholder.
+2.2.  A form of proxy is enclosed with this notice.
+2.3.   The form of proxy and the power of attorney or other authority, if any, under which it is executed, or a copy of it notarially certified, shall be 
+delivered to the registered office of the Company being 12 Castle Street, St. Helier, Jersey, JE2 3RT, Channel Islands not less than 24 hours before 
+the time appointed for holding the Annual General Meeting or adjourned meeting or the taking of a poll (as the case may be) at which the 
+person named in such form of proxy.
+2.4.  Completed proxy forms may be delivered to the registered office either:
+  – in hard copy form, by post or courier;
+  – in electronic form, by email attaching a clear scanned copy to sophie.lemee@capita.je; or 
+  – by fax to 0044 1534 847001.
+2.5.   Delivery of a form of proxy shall not preclude a Shareholder from attending and voting in person at the Annual General Meeting or poll 
+concerned and, in such event, the form of proxy shall be deemed to be revoked.
+2.6.   Any corporation which is a Shareholder may, by resolution of its directors or other governing body or in accordance with its governing law 
+or constitutional documents, authorise such person as it thinks fit to act as its representative at the Annual General Meeting, and the persons 
+so authorised shall be entitled to exercise the same powers on behalf of the corporation which they represent as that corporation could 
+exercise if it were a natural person who is a Shareholder. A Director, the Secretary or other person authorised for the purpose by the Secretary 
+may require a representative to produce a certified copy of the resolution of authorisation before permitting him to exercise his powers. 
+3. Closure of Register
+3.1.   The Company specifies that only those Shareholders registered in the Register of Members of the Company as of 9.00a.m. GMT/5.00p.m. MYT 
+on 5 March 2014 (being 48 hours before the Annual General Meeting in accordance with Article 40 of the Companies (Uncertificated Securities) 
+(Jersey) Order 1999) are entitled to attend or vote at the Annual General Meeting in respect to the number of Shares registered in their name 
+at that time.
+3.2.   Changes to entries on the Register of Members after that time shall be disregarded when determining the rights of any person to attend 
+or vote in the Annual General Meeting. Fusionex International Plc
+Annual report 2013 44
+FINANCIAL STATEMENTS
+4. Directors
+4.1.  As at the date of the Notice of AGM, the Directors of the Company are:
+  4.1.1. John Michael Croft (Non‑Executive Chairman) (aged 61)
+  4.1.2. Ivan Teh (Chief Executive Officer and Managing Director) (aged 38)
+  4.1.3. Yuen Choong Lai (Chief Financial Officer) (aged 49)
+  4.1.4. Robin Taylor (Non‑Executive Director) (aged 62)
+  4.1.5. Calvin Chun (Non‑Executive Director) (aged 41)
+  4.1.6. Alan Lim (Non‑Executive Director) (aged 38)
+4.2.   Article 33.1 of the Articles of Association states that any Director appointed by the Board may hold office only until the dissolution of the next 
+annual general meeting after his appointment, unless he is re‑appointed during that meeting. Such a Director is not required, and is not taken 
+into account in determining the number of Directors who are, to retire by rotation at the meeting. Being the Company’s first Annual General 
+Meeting, all directors have submitted themselves for election by the Shareholders.
+4.3.    Article 37.1 of the Articles states that at each Annual General Meeting one third of the Directors who are subject to retirement by rotation or, if 
+their number is not 3 or a multiple of 3, the number nearest to but not less than one third, shall retire from office. Article 38.1 of the Articles of 
+Association states that the Directors to retire by rotation at an any general meeting shall include, first, a Director who wishes to retire and not to 
+offer himself for re‑appointment and, second, those Directors who have been longest in office since their last appointment or re ‑appointment. 
+As between 2 or more who have been in office an equal length of time, the Director to retire shall, in default of agreement between them, be 
+determined by lot. A Director who retired at an Annual General Meeting (whether by rotation or otherwise) may, if willing to act, be re‑appointed. 
+4.4.   Directors retiring at the AGM shall retain office until the dissolution of such meeting and accordingly a retiring Director who is re‑ elected shall 
+continue in office without a break.
+5. Auditor and Auditor’s Remuneration
+5.1.   In relation to agenda item No. (8) in the Notice of AGM regarding the re‑appointment of the Auditor, under Article 113(3) of the Companies 
+(Jersey) Law 1991 (as amended), the Company shall at each Annual General Meeting appoint an auditor to hold office from the conclusion 
+of that meeting to the conclusion of the next Annual General Meeting.
+5.2.  In relation to agenda item No. (9) in the Notice of AGM regarding the authorisation of Directors to determine the Auditor’s remuneration:
+  5.2.1.  Shareholders should note that, in practice, the amount of auditor’s remuneration for the year 2014 audit cannot be determined at the 
+beginning of the financial year. This is because auditor’s remuneration for any given year varies, in particular by reference to the scope 
+and extent of the audit work which is undertaken during that year.
+  5.2.2.  In order to be able to charge the amount of Auditor’s remuneration as operating expenses for the year ending 30 September 2014, 
+Shareholders’ approval to delegate the authority to the Directors to fix the Auditor’s remuneration for the year ending 30 September 2014 is 
+required at the AGM.
+6. Right to demand a poll
+6.1.   Article 22.1 of the Articles of Association provides that at any general meeting, a resolution put to the vote of the meeting shall be decided on 
+a show of hands unless, before or on the declaration of the result of the show of hands, a poll is duly demanded. Subject to the provisions of 
+the Law, a poll may be demanded: 
+  6.1.1. by the Chairman; or
+  6.1.2. by not less than 5 Shareholders present in person or by proxy and entitled to vote; or
+  6.1.3.  by a Shareholder or Shareholders present in person or by proxy and representing not less than one‑tenth of the total voting rights 
+of all the Shareholders having the right to vote on the resolution; or
+  6.1.4.  by a Shareholder or Shareholders present in person or by proxy and holding Shares conferring a right to vote on the resolution 
+being Shares on which an aggregate sum has been paid up equal to not less than one‑tenth of the total sum paid up on all the 
+Shares conferring that right and a demand by a person as proxy for a Holder shall be the same as a demand the Shareholder. 
+6.2.   Article 22.2 of the Articles of Association further provides that unless a poll is so demanded (and the demand is not duly withdrawn), 
+a declaration by the Chairman that a resolution has been carried or carried by a particular majority, or lost, or not carried by a particular majority 
+and an entry to that effect in the minutes of the meeting shall be conclusive evidence of the fact without proof of the number or proportion 
+of the votes recorded in favour of or against such resolution. 
+6.3.   Article 22.3 of the Articles of Association provides that the demand for a poll may, before the poll is taken, be withdrawn but only with the 
+consent of the Chairman and a demand so withdrawn shall not be taken to have invalidated the result on a show of hands declared before the 
+demand was made. If a poll is demanded before the declaration of the result of a show of hands and the demand is duly withdrawn, the meeting 
+shall continue as if the demand had not been made.
+Explanatory Notes (continued) 
+to the Notice of Annual General Meeting  Fusionex International Plc Annual report 2013
+Fusionex International Plc
+12 Castle Street
+St Helier
+Jersey JE2 3RT 
+Channel Islands 
+Tel:  +44 (0)207 0388 207
+Email: uk.info@adv-fusionex.com 
+Web: www.fusionex-international.com

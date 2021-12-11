@@ -1,0 +1,525 @@
+ 6 Changing the way the world connects
+Chief Executive Officer’ s review
+2005 was another strong year for CSR with our
+revenue of $486.5 million dollars representing an
+increase of over 90% compared with 2004 as we
+shipped (directly and under manufacturing licence)
+over 150 million single chip Bluetooth devices.
+Our pre-tax profits nearly doubled to $114.4 million
+dollars and at year end the share price closed at 
+more than four and a half times the IPO price of 200p.
+In early 2006 we entered the list of the top 200
+companies on the London Stock Exchange.
+Highlights of the year included;
+• continued strong growth of the Bluetooth market
+with the first products for the consumer segment
+such as stereo headsets being offered on the market
+and the adoption of cellular products by consumers 
+in the USA. 
+• growth in CSR’ s share of the Bluetooth market 
+from 45% to over 50% and the release of
+BlueCore5, our fifth generation Bluetooth solution.
+• successful completion of the design of our UniFi
+solution for the embedded Wi-Fi market.
+• the successful acquisition and integration of Clarity
+T echnologies, Inc. providing noise and echo
+suppression technology with ‘Clear Voice Capture’
+software and establishing CSR Detroit as an audio
+engineering centre.
+• the acquisition and integration of UbiNetics’
+software business which will play a key role in
+securing Bluetooth and UniFi design wins in mobile
+phones and enabling the convergence of fixed 
+and mobile services.
+• aggressive cost reduction programs allowing us
+to maintain our gross margins as we continued 
+to drive down the cost of Bluetooth solutions to
+enable further adoption of the technology in our
+customer’ s products.
+• building our organisation to almost 700 people
+in 11 locations worldwide.
+Leading in Bluetooth designs
+CSR continues to lead the Bluetooth market. 
+Over the lifetime of the Bluetooth standard, we have
+secured more than 60% of the total recorded design
+wins. We maintained that level in 2005 with a
+particularly strong performance in GSM (global
+system for mobile communications) handsets. 
+We continued to secure more design wins than all 
+our competitors combined, not just overall but in
+every application sector. At year end, CSR had won
+70% of the designs for the new v2.0 specification 
+with EDR (Enhanced Data Rate) with our fourth
+generation BlueCore4 product family. This design
+performance enabled CSR to achieve unit market
+share of over 50% of all Bluetooth devices shipped 
+2005 was another strong year for CSR…
+with our pre-tax profits nearly doubling.
+T he combination of a fast gr owing Bluetooth
+market and our continued leadership in
+design wins, make us confident for the
+outlook for 2006 as a whole. CSR plc Annual Report and Financial Statements 2005 7
+in the year, a significant increase on the 45% unit
+share achieved during 2004. 
+An expanding Bluetooth market
+We believe the Bluetooth market is still early in 
+its growth phase. Major customers using our
+products are undertaking significant consumer
+marketing programmes around the world, including
+television advertising. 
+Mobile phones and headsets are currently the
+largest markets for Bluetooth, and at the end of 2005 
+we believe that only about 25% of all mobile phones
+shipped were Bluetooth enabled. We see this attach
+rate increasing. For example a leading European
+specialist mobile phone chain now offers Bluetooth 
+in 80% of their models, and major retail chains in the
+USA and Europe are increasingly offering their own
+branded low cost Bluetooth headsets. We expect 
+the rate at which Bluetooth is adopted into mobile
+phones to increase to around 35% at the end of 2006,
+significantly increasing the volume demand 
+in 2006 and continuing to grow beyond there. 
+The use of Bluetooth in PCs has lagged that in
+mobile phones but emerging use of the technology 
+in wireless stereo headphones is now increasing the
+attach rates with applications for music streaming,
+gaming playing, and VoIP (Voice over Internet
+Protocol) phone calls. CSR’ s strengths in EDR
+technology provides a further stimulus to both the 
+PC and consumer Bluetooth market segments.
+Bluetooth for automobiles is a market that continues
+to develop for both OEM and aftermarket products as
+legislation requiring ‘hands on’ driving continues to
+spread around the world. Volume vehicle
+manufacturers are now following the lead of prestige
+brands in embedding Bluetooth capability into the
+dashboard with a number of product qualifications 
+in the year. 
+The evolution of the Bluetooth specification is also
+opening up the consumer market segment. Bluetooth
+specification additions such as the AV (audio visual)
+Profile and EDR enable new applications such as
+streaming stereo audio over a Bluetooth link. Multi-
+function stereo headphones became available in
+2005 which can stream music from MP3 players and
+FM radio receivers and pause the music to take calls
+from a mobile phone on the stereo headset. Stereo
+headsets can be used with PCs, mobile phones and
+other portable devices such as MP3 players. Wireless
+consoles and controllers were announced in 2005 by
+the leading manufacturers of gaming products. Acquisitions
+During the year our resources were strengthened 
+with two acquisitions and we are delighted with the
+progress made in integrating our organisations.
+In March 2005, we acquired Clarity T echnologies
+based in Detroit, USA. Its leading technology for 
+noise and echo suppression in wireless headsets 
+and automotive ‘handsfree’ systems is marketed 
+as CVC (Clear Voice Capture) and has already been
+incorporated into CSR’ s BlueCore devices in products
+sold by a number of our major customers.
+In August 2005, the acquisition of the Cambridge
+headquartered software business of UbiNetics was
+completed. UbiNetics provides CSR with a strong
+R&D team who developed an industry leading 
+multi-mode wireless communications software. 
+This adds significant capability to enable us to
+design our BlueCore and UniFi devices into mobile
+phones and to independently develop software for
+FMC (Fixed and Mobile Convergence).
+Lowering cost, improving performance
+A fundamental belief at CSR is that we must
+continuously drive down the cost of the solutions we
+offer and increase their performance, thereby both
+encouraging further adoption of the technology and
+maintaining our competitive position. Beyond the
+traditional cost reduction activities focusing on silicon,
+package and test, we offer continuously higher levels
+of integration to reduce the bill of materials of the end
+application and provide increased functionality. 
+Our successful BlueCore3-MM (multi-media)
+device for stereo headphones, for example, provides
+added value by integrating onto the device a CSR
+developed DSP (digital signal processor), a stereo 
+Hi-Fi quality CODEC (coder-decoder) and battery
+charging and power management functions. These
+reduce the physical size, power requirements and
+cost of the solution. 
+Chief Executive
+Officer’ s review
+continued
+Automotive applications benefit 
+from CSR’ s CVC technology through 
+the suppression of noise and echo,
+giving improved sound quality
+8 Changing the way the world connects T otal shipments into the Bluetooth Market
+Millions of units
+64
+1
+2003 2004 2005 2006E
+142
+1
+317
+1
+c500*
+1
+source IMS 
+*CSR estimate 
+Wi-Fi and Bluetooth brings new
+connectivity solutions to mobile devices
+CSR continues to dominate both stereo 
+and mono headset qualified design wins
+Our headset solutions also offer a licence for 
+our added-value CVC software from CSR Detroit 
+that suppresses echo and noise for much improved
+audio quality. CVC is being used on a broad range 
+of headset and automotive products which our
+customers are developing.
+CSR’ s fifth generation Bluetooth solution,
+BlueCore5, was announced in 2005 and will be
+available for design in and production this year.
+Included in the family of devices is BlueCore5-MM
+offering an improved DSP , lower power requirements
+and reduced cost of the bill of materials. CVC software 
+is available with the device for next generation designs.
+In 2006 CSR intends to build on the very strong
+base we have in Bluetooth and broaden our market
+position with our UniFi device which we announced 
+at the end of 2004. The highly integrated UniFi device
+is the first single chip Wi-Fi product for the embedded
+marketplace. T wo on-chip radios enable it to meet 
+the IEEE 802.11 a/b/g specifications. UniFi solutions
+are now being offered by our partners as completed
+modules. At the Consumer Electronics Show in 
+CSR plc Annual Report and Financial Statements 2005 9 Las Vegas in the first week of 2006, the first product
+was shown using CSR’ s reference design with UniFi
+and BlueCore4 on a single circuit board. We are the
+first to be able to provide the silicon for this combined
+solution solving the co-existence issues for 
+our customers. 
+The number of broadcast radios and the
+complexity of connectivity within the modern mobile
+phone are increasing. This makes it increasingly
+difficult for equipment manufacturers to make new,
+very small form factor designs. Connectivity has now
+expanded from Bluetooth to include Wi-Fi and will 
+add UWB (ultra wideband) in the future. GPS (global
+positioning systems) is established today and new
+broadcast receivers such as FM radio and Digital TV
+broadcast will be added in the next few years. 
+This trend has led to the emergence of ‘non-cellular
+wireless’ as an increasing value centre in personal
+portable devices. Integration of more than one 
+‘non-cellular wireless’ technology onto one IC is the
+best way of meeting our customers’ time-to-market
+and size requirements. CSR’ s proven competence 
+in wireless systems integration positions us well to
+exploit this opportunity. 
+Our research and development organisation
+expanded further in 2005 and in particular our
+software resources grew significantly with the
+acquisitions of Clarity T echnologies and UbiNetics 
+in addition to organic growth as we expanded existing
+teams. The investment in R&D more than doubled
+year on year and we expect it to continue to increase. 
+In addition to the UniFi product line, announcements
+have been made on the integration of an FM radio
+receiver into the BlueCore5 family and the planned
+development of a UWB radio to meet the Bluetooth
+SIG (special interest group) Seattle specification. 
+Other standards are being considered and worked on. 
+As a fabless supplier of semiconductor chips 
+we rely on our manufacturing partners and enjoy 
+close relationships with two industry leaders; TSMC
+for wafer fabrication and ASE for assembly and test. 
+On 1 May 2005 a major fire at ASE’ s Chung Li facility
+disrupted production but the effects on our customers
+were minimised with close co-operation throughout
+the supply chain. The incident underlined the value of
+the ongoing detailed review of our supply chain being
+undertaken in order to improve our delivery capability
+and further reduce risk. Our devices are now
+produced at three separate wafer fabs in T aiwan with
+one more being added in T aiwan in the second half of
+2006 and a fifth currently being brought on line in the
+USA. Assembly and test has been expanded from 
+two sites in T aiwan, with the addition of a further facility
+in South Korea and two others planned for later in the
+Chief Executive
+Officer’ s review
+continued
+10 Changing the way the world connects year of which one will be in China. This in a year when
+we increased unit shipments to more than 150 million
+which was more than double the prior year, whilst
+maintaining high quality levels and further driving unit
+costs down.
+At the close of 2005, the headcount at CSR had
+doubled from the beginning of the year and we now
+occupy 12 sites in 11 different locations worldwide.
+During the year new design centres were opened in
+Lund, Sweden and Sophia Antipolis, France. The
+acquisitions of Clarity T echnologies and UbiNetics
+added Detroit USA, Shenzhen China, and Bangalore
+India. Approximately 70% of our staff have technical
+qualifications and over 60% are in R&D.
+We believe that 2006 will be another year of 
+strong growth and CSR is well positioned to expand
+from the current business base to exploit both existing
+and emerging wireless communications markets.
+We expect the Bluetooth market to continue
+growing strongly in 2006 and estimate the year on
+year growth in unit shipments to be around 60%.
+Whilst the market is highly competitive, CSR’ s share 
+of design wins remains strong. We will continue to
+drive down the average selling price of our products 
+by between 15 and 20% in 2006 with the units
+shipped under manufacturing licence diminishing.
+The combination of a fast growing Bluetooth
+market, our continued leadership in design wins 
+and our knowledge of our customers’ development
+programmes, make us confident for the outlook for
+2006 as a whole.
+As previously announced, I retired at the end 
+of February. My successor John Scarisbrick, has 
+been closely involved with CSR and its business
+strategy since June 2004 when he joined the Board 
+as a non-executive director. He brings a wealth of
+successful semiconductor experience both developing
+new product lines and running very large worldwide
+businesses. I believe I am indeed very fortunate to
+have him take over the significant responsibility of
+further developing CSR. 
+It has been an exhilarating experience and privilege
+to manage such a vibrant company as CSR and I would
+like to thank our employees and customers, suppliers
+and investors for their support over the last six years. 
+I wish the Board and all CSR stakeholders the best of
+fortune in the exciting years ahead. Thank you.
+John Hodgson
+Chief Executive Officer
+CSR plc Annual Report and Financial Statements 2005 11 CSR’ s markets and opportunities
+CSR’ s business is expanding rapidly from its roots 
+in Bluetooth. Our vision is based on our core strengths 
+of developing software-rich system-on-chip wireless
+modem solutions combining analogue and logic
+circuits on the same chip. Our technology targets
+personal or local area elements of the evolving 
+wireless network, particularly those applications that
+need to operate in power-sensitive environments.
+CSR is now sampling the fifth generation of our
+BlueCore single-chip solution for Bluetooth applications.
+Five generations of improved performance, tripling 
+the data rate supported and providing lower power
+and lower cost variants. We have entered a new
+market with a single-chip solution for Wi-Fi 
+(802.11 a/b/g) applications, called UniFi. Last year , 
+we announced our support for integrating UWB 
+(ultra wideband) technology with the Bluetooth
+specification, and acquired Clarity T echnologies 
+and UbiNetics. Here, we look at where our evolving
+capability is taking us.
+12 Changing the way the world connects CSR plc Annual Report and Financial Statements 2005  13 As the global leader in the Bluetooth segment 
+of the wireless communications market, we
+continuously invest in product development. 
+CSR’ s silicon solutions integrate circuits often left 
+off the chip. These solutions include providing
+complex battery management and power supply
+management circuits which prolong battery life and
+lower customer manufacturing costs. Our solutions
+also integrate the memory on the same chip which
+lowers costs for our customers and allows them 
+to build the smallest possible Bluetooth devices. 
+This enables them to create innovative, appealing,
+product designs. 
+We have created Bluetooth solutions with
+advanced functionality, even offering variants with 
+an advanced Kalimba Digital Signal Processor.
+Kalimba technology means DSP software can be
+added to the chip for superior voice and music quality .
+CSR is the only company to provide such advanced
+features, which are critical to our headset customers.
+But we go much further than just supplying 
+the silicon chip. We create system solutions for
+Bluetooth applications. This takes two forms. First is
+vital software support and integrated components
+that reduce the cost and effort required to build
+products. This makes CSR chips fast and easy for 
+our customers to use. Secondly we develop unique
+solutions for specific application areas like mobile
+phones, headsets and automotive handsfree kits. 
+Our Clear Voice Capture technology running on the
+Kalimba DSP in the Bluetooth chip is an example,
+providing superior audio quality in demanding
+environments. In a mobile phone application, it can
+run on the phone’ s processor, providing flexibility 
+for our customers to tailor their solution.
+As the adoption of Bluetooth proliferates, 
+more and more complex user modes are emerging.
+T oday’ s predominant single connection applications
+such as the Bluetooth headset and in-car handsfree
+systems are being augmented by multiple connection
+PANs (personal area networks). These include
+simultaneous printing, mouse and keyboard control
+and mobile phone synchronisation from the PC and
+multi-user consumer games consoles featuring both
+wireless controllers and wireless audio feeds. This
+increases the demand for the most robust and secure
+radio solution and CSR is well placed to deliver this
+next wave of Bluetooth solutions.
+Bluetooth – from cable replacement 
+to personal area network
+CSR’ s markets and opportunities continued
+14 Changing the way the world connects In the future, CSR will introduce other
+improvements to drive Bluetooth forward. We will 
+add ‘sniffing modes’ to our Bluetooth solutions to
+further improve battery consumption. And we will 
+add an ‘extended enquiry’ feature to allow Bluetooth
+devices to link up faster, so headsets will hook up 
+to phones faster. We will be introducing enhanced
+quality of service features, which will further improve
+voice and music quality and the user’ s experience.
+Driving Bluetooth performance and features is
+CSR’ s core mission. Better, smaller, faster Bluetooth
+products will increase the rate that Bluetooth is built
+into mobile phones and other devices – the so called
+attach rate. It will drive innovative accessory development
+for personal audio, music and video applications. 
+Importantly CSR will integrate an ultra wideband
+(UWB) capability into its Bluetooth chips. T oday’ s EDR
+(extended data rate) CSR Bluetooth chips are 
+already available and are up to three times faster 
+than most of the devices being shipped by 
+our competitors. UWB will increase this by up to a
+hundred times. This will drive compelling applications
+like fast downloads of music to phones, or the super-
+fast transfer of tomorrow’ s high resolution digital
+camera or camera-phone images to printers. 
+And by re-using the well established and rich 
+software already developed for Bluetooth, it will be
+easier to use and therefore be adopted faster than
+other schemes. UWB opens up enormous potential.
+Mobile phones are incorporating more and more
+consumer services such as cameras and music
+players. UWB-based Bluetooth will enable the
+uploading and downloading of large multi-media 
+data files with ease. It also opens up many new
+applications in areas such as home entertainment, 
+for example, streaming video from a set top box to 
+an on the wall flat screen – without unsightly wires 
+or expensive installations. It may enable wireless
+docking stations, so notebook and laptop PCs can
+connect with office networks with ease and security.
+While we’re busy painting the world blue we’re
+also expanding into other wireless communications
+areas where our core competence in integrated
+CMOS chip and systems design can bring real value.
+First among them is Wi-Fi.
+CSR plc Annual Report and Financial Statements 2005  15 Bluetooth
+CSR’ s markets and opportunities continued
+16 Changing the way the world connects Automotive is a growth opportunity for wireless
+technology . Bluetooth is already used for headset to
+mobile phone voice links to allow handsfree driving. 
+It is also increasingly being installed in the car itself as
+part of a standard handsfree capability with the addition 
+of smart features like linking to your mobile phone’ s
+address book and displaying it on the car’ s dashboard
+and providing voice recognition satellite navigation
+equipment for added safety and convenience. It’ s only 
+a short step from there to provide a wireless pathway to
+the vehicle diagnostics unit for service calls or roadside
+assistance, eliminating bulky and expensive cables.
+CSR plc Annual Report and Financial Statements 2005  17 We have a distinctive position in Wi-Fi. Originally
+developed for the PC market, Wi-Fi chips have not 
+been well suited for use where power consumption 
+or operating near other wireless communication
+devices is a prime consideration. Our UniFi device
+family offers extremely low power consumption and 
+is designed to co-exist with other wireless systems
+such as mobile phones and Bluetooth. This makes
+UniFi particularly suitable for emerging high-volume
+applications for Wi-Fi in the embedded environment,
+such as mobile phones and other portable battery-
+powered products.
+Wi-Fi is already seen as a valuable feature for 
+high level converged phones, which are targeting
+business users with features such as high speed web
+browsing. However , what will drive UniFi attach rates
+is the ability to design a phone which will work as a
+normal mobile phone much of the time, but when near
+a “hot spot” or wireless access point will be able to
+connect to it using VoIP (Voice over Internet Protocol).
+Such access points could well be in our homes too.
+These “converged phones” will be able to take
+advantage of the different costs that normal and 
+hot spot connections may offer.
+Such handsets, switching between mobile 
+phone and Wi-Fi communications channels, will need 
+a high performance, lower power Wi-Fi solution which
+is happy co-existing with mobile phone and Bluetooth
+wireless systems – such as UniFi. They will also 
+need considerably more software to manage the
+communication. This was one of the driving reasons 
+for our acquisition of UbiNetics.
+This is an exciting opportunity. The mobile 
+handset market is already 700 to 800 million units a
+year and a large part of the broadband infrastructure
+for ‘converged’ handsets is already in place, with
+approaching 100 million homes in Western Europe
+and North America now having broadband internet
+connections. Many of these homes have also installed
+Wi-Fi access points to provide the added flexibility of
+wireless connectivity.
+Wi-Fi – increasingly important within 
+the mobile phone and other battery 
+powered devices
+CSR’ s markets and opportunities continued
+18 Changing the way the world connects With Bluetooth and Wi-Fi solutions – and UWB in
+development – CSR is emerging as a broad supplier
+of wireless communications solutions for shorter-
+range applications on power-sensitive client devices.
+We operate in standards-driven marketplaces and
+have pioneered the technology that has proved to be
+the catalyst for these fields: the use of the low-cost
+CMOS process for radio-frequency applications. 
+We possess an enormous amount of know-how in 
+this area, and our future value will be driven by our
+exploitation of this and related design principles: 
+• We will continue to offer complete system solutions
+for wireless applications including software, as well
+as silicon building blocks that demand a lot of
+integration effort. 
+• We have a gifted design team with a proven track
+record of making the right architectural decisions,
+greatly benefiting all our customers and particularly
+those who rely on our radio know-how. 
+• Our portfolio and roadmap now encompasses 
+a range of wireless technologies for personal and
+local area networking. With each addition we make,
+we become a more valuable partner to our OEM 
+and ODM customers. 
+Moreover, the highly integrated nature of our offering
+means that we eliminate much of the challenging
+design and manufacturing work that would otherwise
+be required to create and build a radio-based product.
+It is this that has allowed – and continues to allow – us
+to support many new manufacturers wishing to enter
+exciting product markets.
+We believe the foundations that we have built 
+and the rich set of future market opportunities give 
+us the potential to grow from being the largest fabless
+semiconductor company in Europe to being in the top
+tier of worldwide fabless semiconductor suppliers in 
+a few years time.
+Our evolving vision
+CSR plc Annual Report and Financial Statements 2005  19 V oIP (V oice over Internet Protocol) is coming soon,
+enabling low-cost global voice and data
+communications. CSR’ s UniFi chips are the first
+specifically designed for the battery-powered mobile
+environment and provide low power , small size and
+high performance. CSR’ s investment in software 
+means that our Bluetooth and UniFi applications will 
+work smoothly and seamlessly .
+Wi-Fi
+CSR’ s markets and opportunities continued
+20 Changing the way the world connects CSR plc Annual Report and Financial Statements 2005  21

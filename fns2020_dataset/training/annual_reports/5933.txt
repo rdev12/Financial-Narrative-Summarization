@@ -1,0 +1,2902 @@
+ Fibernet Group plc Annual Report 2003
+Communicating our business…
+Fibernet Group plc Annual Report 2003
+Fibernet Group plc
+Rosalind House, Jays Close
+Viables, Basingstoke
+Hampshire RG22 4BS
+United Kingdom
+T +44 (0)1256 858685
+F +44 (0)1256 858601
+info@fibernet.co.uk
+www.fibernet.co.uk
+Fibernet GmbH
+Gutleutstr . 175
+60327 Frankfurt am Main
+Germany
+T +49 (0) 69 238 05 90
+F +49 (0)69 238 05 926
+info@fibernet.de
+www.fibernet.de 03
+02
+7.3
+5.0
+EBITDA**
+£m
+03
+02
+5.0
+92.4
+Loss before tax
+£m
+Revenue*
+£m
+03
+02
+36.3
+36.7
+* From continuing operations
+** EBITDA is shown pre exceptional from continuing operations and is reconciled to operating loss in note 7 to the Financial Statements
+01 At a glance
+02 Chairman’s Statement
+04 Chief Executive’s Strategy Review
+08 A Consultative Approach
+10 Technical Expertise
+12 Lifetime support
+14 Financial Director’s Review
+18 Board of Directors
+20 Directors’ report
+22 Remuneration report
+26 Corporate Governance
+28 Directors’ responsibilities
+29 Independent auditors’ report
+30 Consolidated profit and loss account
+31 Consolidated balance sheet
+32 Company balance sheet
+33 Consolidated cash flow statement
+34 Notes to the financial statements
+53 Notice of Annual General Meeting
+Contents
+Designed by navyblue
+Photography by Nick David and Lee Funnell
+Printed by Nimmos
+Five year summary
+for the years ended 31 August
+2002
+1999 2000 2001 (restated) 2003
+£’000 £’000 £’000 £’000 £’000
+Results
+Turnover 14,596 41,808 54,547 39,505 36,348
+EBITDA before exceptional items 1,322 14,299 16,709 (1,019) 7,293
+EBITDA 1,322 14,299 16,709 (12,031) 11,375
+Operating profit/(loss) (2,232) 6,822 5,194 (24,277) (7,189)
+Pre tax profit/(loss) (4,593) 3,365 3,613 (92,416) (4,994)
+Profit/(loss) for the financial year (4,593) 3,365 2,892 (91,845) (4,994)
+Assets employed
+Fixed assets 41,000 77,348 116,052 89,670 87,779
+Net current assets/(liabilities) (5,191) 37,293 81,739 23,910 15,195
+Net assets 9,575 76,024 157,101 66,520 61,556
+Cash flows
+Net cash inflow/(outflow) from operating activities 3,531 17,836 26,140 (1,982) 9,045
+Capital expenditure 10,087 30,601 40,579 56,612 14,005
+Increase/(decrease) in cash 719 8,949 85,081 (61,419) (9,416)
+The results for 1999 to 2001 have not been restated to reflect the introduction of UITF 36 ‘Contracts for sale of capacity’. With a focus on continuous innovation, Fibernet is committed
+to providing customers with tailored network services that
+deliver improved performance, resilience and security .
+At a glance
+Fibernet specialises in deliv ering bespoke network services to large
+organisations and other service providers in the UK and Germany .
+Enterprise market
+Typical applications
+Business continuity
+Data replication
+Network convergence
+Server consolidation
+New customers
+Nationwide
+NEXT
+Transbus
+Alexander Forbes
+I
+I
+I
+I
+I
+I
+I
+I
+Service Provider market
+Typical applications
+National access networks
+Carrier Rings
+Network extension
+Peering & Interconnect
+New customers
+Sprint
+IBM
+Belgacom
+IP Infrastructure
+03
+02
+58.0
+36.7
+Total value of new contracts signed
+£m
+1 Chairman’s statement
+2
+Lord Wolfson of Sunningdale,
+Chairman 3
+increase in
+long-term
+contracted
+revenue
+2003: £97.8m
+2002: £71.9m
+During 2002 we announced
+the costly but necessary
+closure of our operations in
+France, and the reduction of
+operations in Germany to the
+now profitable Frankfurt
+Carrier Ring. These decisions
+were successfully executed
+well within our budgeted costs
+during 2003, and I am pleased
+to report a year of considerable
+progress for the Group.
+The strength of Fibernet’s core
+business is that existing and
+new customer revenues are
+derived from long term
+(typically 3-7 years) contracts
+with predominantly blue chip
+organisations from both our
+Enterprise and Service
+Provider target markets.
+Revenue is recognised evenly
+over the contract period.
+During the year ended 31 August
+2003, we signed a further £58.0m
+of such long-term contracts;
+an increase of £21.3m from the
+level of £36.7m signed last year .
+These new contract wins exclude
+the positive effects of contract
+renewals with existing customers.
+The value of our long-term
+contracted revenue as at 
+31 August 2003 was £97.8m,
+an increase of £25.9m over the
+prior period comparative of
+£71.9m. Of this contracted
+revenue, £28.8m is expected to
+be recognised in the year ending
+31 August 2004, an improvement
+of £6.8m over the prior year
+comparative of £22.0m
+Y ou will see, however , that full-year
+revenues from continuing
+operations of £36.3m are 1%
+below the £36.7m from the
+previous year . Previous year
+revenues included a one-off
+amount of £2.3m derived from
+early cancellation of a customer
+contract.
+During 2003 we reduced the
+costs of our UK organisation,
+achieved significant exceptional
+and ongoing savings, including
+a rebate from the renegotiation
+of our national business rates
+charge. Loss before tax was
+£5.0m compared to £92.4m
+in the prior year .
+EBITDA from continuing
+operations, before exceptional
+items increased by 46% to
+£7.3m for the current year as
+compared to £5.0m in the prior
+period. Including the effects
+of exceptional items, EBITDA
+increased to £11.4m.
+We finished the year with a cash
+balance of £24.9m, against
+£34.3m last year . Although our
+cash balance is expected to
+reduce in 2004, we remain
+confident that we have substantial
+cash headroom to execute our
+business plan.
+We have achieved significant
+progress during 2003. Our
+strategy has remained the same.
+We continue to provide
+specialised high value services
+to large Enterprise customers
+along with cost effective, flexible
+and innovative products to
+Service Providers. We have the
+financial strength to continue
+to execute this strategy and are
+optimistic for the future.
+36
+%
+“The strength of Fibernet’s
+core business is that existing
+and new customer revenues
+are derived from long term
+contracts with blue chip
+organisations.” Chief Executive’s Strategy Review
+“We have delivered a strong
+performance in all of the key
+areas of the business.”
+2003 has been a year of
+consolidation for Fibernet.
+Having successfully completed
+the restructuring of the business,
+we have continued our rigid
+focus on the key components
+of securing increasing volumes
+of new customer contracts,
+maintaining a high renewal rate
+for existing customer contracts,
+prudent cash management
+and rigorous cost control.
+I am pleased to report that the
+results of these endeavours,
+together with the achievement
+of a number of exceptional
+benefits, are better than were
+expected at the beginning of
+the year , particularly considering
+the relatively unfavourable
+climate that has prevailed in
+the telecommunications market
+generally .
+Of the £58.0m of new contracts
+won in the year , £32.2m came
+in the second half; this compares
+favourably with £26.9m in the
+same period the year before.
+Contract renewals for existing
+customers during the year
+continued to be excellent.
+We finished the year with almost
+£25m of cash. This strong cash
+position has been helped by a
+profitability can also be seen in
+the increase in EBITDA before
+exceptional items from continuing
+operations from £5.0m in 2002
+to £7.3m this year .
+Overall, I am pleased with the
+Group’s progress for the year .
+growth has been driven by the
+new contracts secured in the
+second half of last year and
+the first half of 2003.
+Normally it takes between one
+and six months from the signing
+of a contract to completing the
+installation and initial billing to
+the customer . As a result, many
+of the contracts signed in the
+second half of 2003 have yet to
+be handed over to customers
+and accordingly , such contracts
+will start to contribute to revenues
+in 2004.
+In addition, with revenues being
+recognised equally over the life
+of each contract, we have yet to
+enjoy a full year’s worth of benefit
+from services installed during
+the year . With long-term contracted
+revenues having increased by
+£25.9m from £71.9m to £97.8m,
+I am confident that our service
+contract revenues for next year
+will exceed this year’s, assuming
+that contract renewals continue
+at the current rate.
+The improvements in our
+performance over last year have
+also translated into a marked
+reduction in our loss before tax
+from £92.4m to £5.0m. In
+addition, the improvements in
+combination of increased
+installation fees, diligent collection
+from customers, the recovery
+of VAT in France and Germany
+and funds received as a result
+of our network rates rebate.
+Whilst we have achieved positive
+operating cash flow , and whilst
+we expect to achieve positive
+net cash flow in the medium term,
+we will continue to prudently
+invest our cash in connecting
+new customers onto our network
+as new contracts are signed.
+We remain confident that we
+have sufficient funds to execute
+our business plan.
+In addition, we have continued
+to successfully manage our
+operating expenses relevant
+to the Group’s requirements in
+order to maintain its growth.
+F ollowing the decline in underlying
+revenues caused by a slowing
+of new orders and the demise
+of some of our Service Provider
+customers almost two years 
+ago, I am pleased to report that
+the combined effect of our
+achievements is that we have
+seen service contract revenues
+increase this year from £7.9m
+in quarter one to £9.0m in
+quarter four . Specifically , this
+4 Charles McGregor
+Chief Executive
+5 Customers and Markets
+The UK market remains the core
+of our business and the ever-
+increasing use of communications
+services for the exchange of
+information continues to fuel its
+growth. Whilst we have continued
+to takeadvantage of new
+opportunities such as the
+increasing need of our customers
+to back-up and store information,
+much of our new business has
+been derived from the
+replacement of services hitherto
+provided by competitors.
+Our sustained ability to provide
+innovative, reliable and cost
+effective services to our key
+markets of Enterprise and
+Service Provider customers
+is underpinned by the bespoke
+way in which we design them,
+not just at a technical level but
+also from commercial and
+contractual standpoints.
+Evidence of this can be seen
+in the new customer contracts
+that have been won during
+the year . Within the Enterprise
+sector , these include the
+Nationwide Building Society ,
+T ransbus and NEXT , together
+with new Service Provider
+customers including Sprint,
+IP Infrastructure and IBM.
+to either improve our
+competitiveness to win new
+customers or to provide additional
+services to existing customers
+by taking advantage of the
+original connection investment.
+During the year , we have launched
+two new national Ethernet
+services, which have involved
+a new deployment of technology
+on our national network.
+TANet Ethersphere provides
+a low cost, high performance
+service for the connection of
+data users across a shared
+resource. TANet Etherline
+offers a higher guaranteed
+quality of service and an
+enhanced ability to combine
+voice and video with computer
+(data) traffic. Both of these
+services have now achieved
+new live customers and show
+significant promise.
+In London, we have more than
+doubled the reach of our
+metropolitan network with the
+procurement of additional
+network routes from another
+service provider . This transaction
+significantly increases the
+market for all of our London
+services, including applications
+such as metropolitan Ethernet.
+The London Carrier Ring (LCR)
+has grown impressively during
+the year with the average circuit
+usage increasing by 30% and
+has achieved new member
+growth too. New customers
+include Smartcom, Expo
+Communications and Rasmitel.
+In Germany , we retained our core
+business in Frankfurt after the
+re-organisation last year . This
+business concentrates primarily
+on Service Providers within the
+city and as well as providing
+bespoke metropolitan services
+and links to London, derives
+the majority of its business from
+the Frankfurt Carrier Ring (FCR).
+New customer wins include
+Belgacom, Primus, T eleDanmark,
+Digital Networks and Czech
+Telecom.
+I am pleased to report that this
+part of our business is now
+profitable, despite continuing
+difficult market conditions and,
+as with the UK, has a strong
+pipeline going forward.
+Product Development
+This year has seen a record
+number of new services being
+developed and released to our
+markets. All of them are designed
+We also continued to sign
+additional contracts with existing
+customers. These include Opal
+T elecom, Mistral and BT Wholesale
+in our Service Provider market.
+Enterprise customers include
+the Co-operative Bank, Direct
+Line and HSBC.
+The renewing of existing customer
+contracts remains key to our
+success, not only from the rev enue
+and profitability standpoints,
+but also as a testament to our
+ability to provide successful
+and highly reputable services
+to our customers. As I mentioned
+earlier , renewal rates have been
+excellent during the year across
+both of our market sectors and
+include, Cadbury Schweppes,
+Deloitte & T ouche, Best People,
+3i and NTL.
+As we start our new financial
+year , the pipeline for new and
+additional business continues to
+be healthy . We have traditionally
+been strong in the financial
+services part of our market,
+and whilst we expect to continue
+this, we have also been successful
+in developing business in other
+areas including Retail, T ransport
+and with the increasingly
+popular Outsourcing/Facilities
+Management industry .
+6
+“This year has seen a record
+number of new services being
+developed and released to
+our markets.”
+Chief Executive’s Strategy Review (continued) Stakeholders
+In what has been another year
+of uncertainty for the
+telecommunications market,
+our stakeholders have once
+again shown great resilience in
+their support for our business
+and I take this opportunity of
+thanking them all, especially
+our dedicated employees.
+I am sure that this underlying
+confidence in Fibernet will, over
+time, be fully justified.
+Conclusion
+The Group has achieved a
+great deal this year . We have
+delivered a strong performance
+in all the key areas of the
+business and have reached 
+a significant milestone in our
+business model. Our revenues
+from long term, high quality
+customer contracts now cover
+our ongoing operating expenses.
+As we recognise revenues 
+from recent and forthcoming
+contracts, we have the prospect
+of a return to sustainable
+profitability firmly in our sights.
+Furthermore, the markets for
+our services and the pipeline 
+of business both remain strong,
+which, together with our
+considerable financial reserves,
+place us in an excellent position
+going forward.
+Our traditional method of
+connecting our customers onto
+the network is via direct optical
+fibre links from the customer
+premises into the nearest Point
+of Presence. This remains the
+case for much of our business
+where very high speeds of
+network are needed. However ,
+where the end user is a small to
+medium sized business, or the
+branch office of a large company ,
+fibre is not usually cost effective
+given that the speed requirement
+will be relatively low .
+In order f or Fibernet to competitiv ely
+reach this market we have
+developed a range of services
+under the T ANet Access umbrella.
+Initially , we began the rollout of
+our own SDSL services using
+equipment to attach to British
+Telecommunications (BT)
+copper wires. Whilst meeting
+with some success, this proved
+to be a slow process. T o address
+this, we have now reached an
+arrangement with BT under the
+Partial Private Circuits (PPC)
+initiative where we can rent
+leased line circuit equivalents
+at competitive wholesale rates
+from them. In addition, we are
+now rolling out a substantial
+number of connections to the
+BT network in order to deliver
+these circuits to our customers.
+I am very pleased with progress
+in this regard with initial services
+now coming on stream.
+With the success of the London
+and Frankfurt Carrier Ring 
+(LCR and FCR) services we have
+now launched a National Carrier
+Ring (NCR), which extends 
+the benefits across the United
+Kingdom.
+As mentioned at the half year ,
+T ANet Callchoice, the call centre
+voice service, has been
+launched following successful
+trials. I expect that resulting from
+initial customer interest live
+users will be contracted in the
+coming months.
+Looking forward, we are
+developing further the capabilities
+of our services. Our original
+concept of providing full T otal
+Area Networking services
+(T ANet) where Fibernet fulfils all 
+of the networking requirements
+between the desktops of our
+customers, moves closer with
+each additional service. Y ou
+may be assured that this
+strategy will continue with the
+announcement of further
+service developments in the
+coming year .
+7
+Underlying Revenue Growth
+£m
+30
+%
+growth in
+L CR traffic
+03
+03
+Q4
+Q1
+9.0
+7.9
+Service contracts 8
+“Fibernet delivers bespoke
+network services to large
+organisations and other
+service providers in the UK
+and Germany .”
+For each and every customer
+requirement, there are many
+ways that different network
+technologies may be applied
+to deliver a result. Each of those
+technologies develop at their own
+pace - some are reaching the
+end of their life cycles, some are
+just reaching their prime and
+others are only just emerging. Each
+organisation has its own business
+and technical requirements.
+The multiplicity of choices can
+cause customers concern.
+Fibernet addresses this by
+taking a consultative approach.
+From the very first meeting,
+Fibernet aims to understand
+each customer’s unique needs
+and provide an individually
+designed network service to
+suit them. The larger the
+business, the more demanding
+those needs become.
+“Fibernet is a specialist
+company in a market
+dominated by generalists.”
+The “bespoke” business model
+sets Fibernet apart from
+telecommunications operators
+who market themselves with
+a catalogue and rate card
+approach. It is one of the reasons
+why Fibernet consistently 
+wins business to provide many
+of the world’s largest blue-chip
+organisations with mission critical
+data networks.
+The consultative culture
+demonstrates Fibernet’s great
+strength – it’s people. It also sets
+the tone for the whole of the
+customer relationship cycle from
+the outset and allows Fibernet
+to build the strong customer
+relationships on which the
+business is based.
+In our Enterprise sector , large
+organisations use Fibernet’s
+managed network services to
+inter-connect computer
+systems within and between
+their premises. These networks
+operate at great speeds and
+with levels of resilience, security ,
+scalability and reliability that
+mean that the delivery of
+information, often between
+thousands of people, is never
+compromised.
+These Enterprise networks are
+used, amongst other things, to
+deliver business applications
+to the desktops of employees,
+to secure and replicate data
+traffic for disaster recovery
+purposes, to deliver voice
+traffic between offices, to make 
+data storage systems accessible
+to users across the company ,
+to deliver business services to
+the Internet and to connect to
+suppliers and partners.
+The networks are critical to the
+day-to-day functioning of the
+businesses they support and
+are often the means by which
+our customers deliver their
+own products and services
+to their customers. For such
+organisations, a differentiated
+network can mean a differentiated
+product or service experience
+for their own customers.
+Fibernet’s goal in its Service
+Provider market is to be the
+wholesale network provider of
+choice for other operators and
+ISPs. Fibernet currently serves
+nearly 150 customers in this mark et,
+including the majority of the
+UK’s and many of Germany’s
+leading Internet Service Providers
+(ISPs) and telecoms companies.
+Fibernet provides these
+companies with geographic
+coverage that their own networks
+do not have, allowing them to
+reach customers that would
+otherwise be inaccessible.
+This market gives Fibernet
+indirect access to the thousands
+A Consultative Approach
+NEXT – New customer 2003
+Fibernet designed a bespoke
+IP VPN service for leading
+retailer NEXT . Richard Everingham
+manages the account from the
+Fibernet office in Leeds.
+Jeff Smith
+Originally from New Zealand,
+Jeff is the product manager
+for IP and Ethernet services,
+and has been with Fibernet
+since 2002. 9
+250
+customers
+232staff
+20billion
+voice minutes
+per annum
+of “Small and Medium size
+Enterprises” (SMEs) across the
+UK and Germany .
+Managed services in our Service
+Provider market are customised
+to use the latest and most
+appropriate technology to allow
+each customer to make best use
+of our network. Fibernet sets
+itself apart from other wholesale
+service providers by constructing
+tailor-made commercial and
+technical models that allow each
+customer to scale the cost and
+coverage of the network services
+they buy proportionately with
+the revenues they receive from
+their customers.
+Fibernet also helps Service
+Provider customers connect
+to, and then exchange “traffic”
+with, other telecoms companies.
+With such a large number of
+service providers using our
+network, it has become a natural
+platform for such companies
+to do business with each other:
+to exchange telephone calls or
+emails between their respective
+customers, for example.
+Our London and Frankfurt
+Carrier Rings are prime examples
+of this functionality . More than
+90 individual operators are now 
+“members” of the service and
+they collectively trade between
+them more than 20 billion minutes
+of voice calls per annum. 10
+“It is the practical and
+commercial expertise of
+Fibernet’s team of technical
+consultants that helps each
+customer to understand
+the many options available
+to them.”
+Deloitte & Touche
+Managed by Richard Malizia
+from Fibernet’s office in the
+City of London, Deloitte & T ouche
+has been a customer for over
+three years and were one of the
+first customers for Fibernet’s
+new Ethersphere service.
+25
+%
+Technical Expertise
+3700
+km
+UK Network
+UK Internet traffic 11
+Our customers are large and
+demanding companies, whose
+data networks are mission critical
+and often serve thousands of
+people. New opportunities and
+threats often face the network
+manager , not least of which 
+are data security and business
+continuity . Evaluation, selection
+and subsequent large-scale
+deployment of a network are
+challenges that require a high
+level of technical skill.
+From an early stage in the
+sales process, it is the practical
+and commercial expertise of
+Fibernet’s team of technical
+consultants that helps each
+customer to understand the many
+options available to them. Site
+visits, surveys, workshops and
+rigorous tests result in a proposed
+network design based on the
+deployment of the latest and
+most appropriate technology .
+In the last financial year ,
+Fibernet was awarded the status
+of Advanced T echnology Partner
+(A TP) by Cisco . The accreditation
+is an invitation-only , industry
+accreditation recognising skill
+in the provision of high-end
+managed optical services.
+Of the five organisations that
+have been awarded ATP status 
+in the UK, Fibernet is the only
+one that is a telecoms company
+operating its own national and
+metropolitan network.
+This is one of the most
+significant indications to date
+of Fibernet’s status as a leader
+in the deployment of the latest
+network technology for high-
+bandwidth business applications
+such as data storage and
+network consolidation.
+Building the building blocks
+Keeping our products and
+services at the leading edge
+demands continual attention.
+Our technical consultants and
+product experts are constantly
+informed of how to deploy the
+latest technologies and are
+aware of the benefits that they
+may bring to our customers.
+Fibernet’s products and services
+are the building blocks on
+which a bespoke customer
+service is designed. It is these
+building blocks that give the
+company its ability to uniquely
+differentiate its services.
+Using the latest advances in
+network technology , our highly
+qualified and trained team set
+out to develop Fibernet’s
+product portfolio.
+Each new product is thoroughly
+researched in advance and is
+implemented on the basis of the
+commercial relevance to both
+Fibernet and our customers.
+Such a product may represent
+either a first point of contact
+with a new customer or an
+incremental business opportunity
+with an existing customer . In both
+cases new products and services
+provide Fibernet the potential
+to significantly increase our
+addressable market.
+This year has seen the introduction
+of several new members of the
+portfolio. New Ethernet services
+for Enterprise and Service Pro vider
+customers provide a radically
+new foundation for high speed
+metropolitan and national data
+services. Our London Carrier
+Ring proposition has been
+enhanced to extend service
+across the UK. Most recently
+we have announced the launch
+of services that mark our entry
+into the Call Centre market.
+Under development at present
+are alternative mechanisms for
+connecting customer premises
+to our network, greatly increasing
+our addressable market and
+also development of our second
+generation of IPVPN services.
+T estimony to this technical
+expertise is the fact that the
+company and its customers
+have enjoyed several awards in
+recent history . The Co-Operative
+Bank were awarded the Financial
+Sector T echnology Award for
+best T elecommunications
+Strategy for their “Nautilus” project
+that re-equipped their entire
+business with a state of the art
+national Ethernet service based
+upon Fibernet managed services.
+In 2003 we were awarded the
+Voice and Data Service Provider
+of the Y ear award for the second
+year running at the Network
+Industry Awards in Birmingham.
+As industry events, these awards
+serve as recognition from our
+peers of the recent achievements
+of the business, in which all of
+our staff are proud.
+10 6
+Points of
+presence 12
+Fibernet operates its own state
+of the art fibre-optic network
+and deploys the latest technology
+to provide customers with the
+highest levels of performance,
+security and reliability .
+Installation of a bespoke
+customer network is not simply
+a question of “flicking a switch”
+and turning on the power .
+Attaching some of the larger
+enterprise customers to our
+network can represent a complex
+and extremely large engineering
+project. This often involves
+significant amounts of civil
+engineering, cabling, equipment
+procurement, installation and
+systems integration.
+In all such cases, Fibernet
+invests a significant amount
+of time and effort to ensure
+that the process of installing
+new network infrastructure is
+efficiently run from beginning
+to end. Fibernet only bills a
+customer once the network is
+fully installed and running.
+Project managers continue the
+close customer relationships
+established by the sales
+and technical consultants
+to ensure that the network is
+installed on time and to the
+highest level of expectation.
+“Using the technical skills
+acquired in over 1 7 years of
+experience, Fibernet builds
+long-term relationships with
+customers and provides
+them with the highest quality
+of service.”
+Phil Murray
+Head of Network Operations
+Centre
+Phil and his team watch over
+the service we provide 24
+hours a day , 365 days a year .
+Henry Akuffo
+Account Manager, HSBC
+Henry has been a key account
+manager for over four years.
+In that time, HSBC have tripled
+the value of their business with
+Fibernet, using national and
+metropolitan services for
+applications such as storage
+area networks.
+Lifetime support 13
+The date of service handover
+to a customer marks only the
+start of our relationship. Our
+goal is to help our customers to
+deliver upon their commitments
+to their own organisations to
+such a level of satisfaction that 
+they will automatically consider
+renewing their contracts when
+they approach expiry .
+Renewals count for a significant
+proportion of Fibernet’s annual
+revenues. As a measure of our
+success, the reliability of service
+and strength of customer
+relationship has consistently
+allowed Fibernet to achieve a
+rate of renewals that is second
+to none.
+Furthermore, these relationships
+allow Fibernet to work with
+customers to provide additional
+services during the lifecycle of
+a contract. Customers frequently
+open and close office locations,
+relocate data centres, introduce
+new applications and react to
+regulatory requirements.
+Services often require upgrading
+to cope, for example, with
+the increased success of our
+customers business. This might
+necessarily increase either data
+traffic, the number of employees
+requiring service or both.
+Quality of service is our prime
+consideration. Fibernet’s
+networks are monitored 24
+hours a day , 365 days a year
+by highly trained specialist staff .
+F rom their management systems,
+they monitor the status of all
+elements of each customer’s
+network, provisioning new
+circuits, pre-empting failures,
+conducting initial diagnoses,
+and deploying engineers in the
+field. Our network availability
+statistics consistently show
+performance at 100% levels.
+Throughout the lifecycle, our
+customer service teams ensure
+that we achieve the agreed
+service levels and performance
+standards. They are focussed,
+responsive teams. Service is
+personalised. Customers are
+recognised as real people,
+rather than simply records in
+a database. Relationships are
+usually on first name terms.
+24x7x365
+Network Operations Centre
+17
+years
+experience Nick Bray
+Financial Director
+Financial Director’s Review
+14 “We have been encouraged
+by the trend of renewals with
+existing customers… our
+reported re v e n ues are e xpected
+to increase next year .”
+Revenues from continuing
+operations were £36.3m in 
+2003 as compared to £36.7m 
+in the prior period. Our 2002
+reported revenue benefited
+from an additional £2.3m on 
+the cancellation of a customer
+contract, monies being paid
+upfront to exit the remaining
+obligation. T aking this into
+account, full year like for like
+revenues grew by 5.5%.
+During the year we signed £58.0m
+of new contracts. Fibernet
+operates a policy where we do
+not recognise revenues from
+contracts signed until the
+service is fully installed. Many
+of these new orders are for
+complex services with large
+enterprise and service provider
+customers. Given that such
+services take a significant time
+to install, many orders signed
+in the year have yet to have an
+impact on our reported revenues.
+We have been encouraged by
+the trend of contract renewals
+with existing customers. Given
+the long-term nature of customer
+contracts, only a proportion of
+existing revenues come up for
+renewal in a financial year . Nearly
+all customers in a position to
+renew did so.
+Revenues from new customer
+contracts are now significantly
+exceeding lost revenues on
+customer renewals. Our reported
+rev enues are expected to increase
+next year .
+Gross profit from continuing
+operations for the full-year ,
+excluding exceptional items was
+£9.7m or 26.6% of revenues as
+compared to the prior year
+number of £9.5m or 26.0%.
+Excluding the effects of the
+contract cancellation in 2002
+referred to above, gross profits
+improved by 2.6% from 24.0% of
+revenues in 2002. Including the
+beneficial effect of exceptional
+items, gross profit was £11.6m,
+compared to £9.5m last year .
+We have a highly leveraged
+business model. Incremental
+revenues flow through to
+significantly improve gross
+margins, net profitability , and
+EBITDA*.
+In addition to the level of new
+order intake, we have been very
+encouraged by the effects of
+the cost reduction measures.
+The effects can be clearly seen
+on the face of the profit and
+loss account. Whilst we have
+significantly reduced costs,
+we have taken care to ensure
+that we have not detracted in
+any way from service delivering
+areas of the business.
+One particular area of note is
+that of cost reduction relating
+to our network business rates.
+We started the year paying
+£3.0m per annum in regard
+to this charge. Following a
+successful appeals process,
+concluded in July 2003, this
+charge was reduced to £1.5m
+per annum. In addition to savings
+made relating to the current
+year charge, the appeal also
+generated a rebate of some
+£1.9m relating to prior periods.
+During the period we successfully
+negotiated the exit of the Group
+from two IRU (Indefeasible Rights
+Of Use) contracts resulting in
+a benefit of £2.0m. In addition
+we successfully exited from
+numerous obligations in France
+and Germany at a lower cost
+than expected generating a
+benefit of £0.7m in this years’
+profit and loss account.
+* EBITDA is reconciled to
+operating loss in note 7
+to the Financial Statements
+46
+%
+increase
+in EBITDA
+15 “At the year end, our cash
+balance stood at £24.9m.
+We expect to be fully cash
+flow positive by August 2005.”
+Financial Director’s Review (continued)
+16
+£9
+m
+cash inflow from
+operating activities
+Asset Impairment
+During the year we reassessed
+the valuation of our fixed assets.
+Whilst concluding that the total
+position was appropriate, we
+conducted a detailed review of
+individual asset categories and
+considered that it was appropriate
+to make provisions in two
+specific instances.
+During the year the Group
+launched a new UK national
+Partial Private Circuit (PPC)
+product. For many applications
+this product effectively replaces
+the Group’s Digital Subscriber
+Line (DSL) product, resulting
+in a significant reduction in the
+expected demand for DSL
+services. Accordingly the Group
+has reviewed its DSL operations
+and identified a number of
+onerous commitments in respect
+of circuit rentals and other
+supplier commitments, relating
+to unprofitable DSL points of
+presence (POPs). Provision
+has been made for these costs.
+Fixed assets relating to these
+POPs have also been impaired
+in full. In addition, we have
+identified a small element of
+the network for which no future
+use is anticipated. Charges of
+£2.2m have been included for 
+the above.
+EBITDA from continuing
+operations increased by 46%
+to £7.3m for the Group . Including
+the effects of exceptional items,
+EBITDA rose to £11.4m. The
+prior period EBITDA figure of
+£5.0m for continuing operations
+included £2.1m arising from a
+significant customer contract
+cancellation. On a like for like
+basis, EBITDA of the continuing
+operations has increased from
+£2.9m to £7.3m.
+Profitability
+The positive impacts of the
+above achievements combined
+to reduce our full year loss
+before tax to £5.0m as compared
+to the prior period loss of
+£92.4m. Our key financial goal
+is to return to profitability within
+the medium term.
+Earnings per share
+and dividends
+The loss per share was 8.1p as
+compared with a loss of 149.3p
+last year . The Board is currently
+unable to recommended the
+payment of a dividend.
+Taxation
+No tax was payable in the period
+and the Group has significant
+tax losses available to carry
+forward. 17
+£24.9
+m
+cash balance
+Cash flow, capital spending
+and gearing
+At the year-end, our cash
+balance stood at £24.9m, a
+reduction of £9.4m on the prior
+year . We are encouraged that
+this has remained relatively
+static for a period of nine
+months. The majority of this
+reduction occurred in the first
+quarter and was driven by
+network capital expenditures
+from commitments made in
+2002 combined with the exit
+costs of France and Germany .
+Our cash position has been
+aided by several factors in the
+year including the recovery of
+monies from the rates rebate,
+recovery of VAT paid in prior
+periods in France and Germany
+and installation fees paid by
+new customers.
+The business generates sufficient
+cash to pay for all operating
+needs. T oday , we do not yet
+generate sufficient cash to pay
+for the capital costs of attaching
+new customers to our network.
+We expect to be fully cash flow
+positive by August 2005.
+Cash flows from capital
+expenditure for the year were
+£14.0m as compared to £56.6m
+in the prior period. Such new
+capital expenditure is
+predominantly related to the
+attachment of new customers
+to our existing backbone network.
+Our core network has significant
+available capacity .
+No funds were raised in the
+period and the Group is well
+funded for all stated plans.
+Treasury
+The Group’s treasury policies
+aim to maximize the interest
+income on cash deposits and
+minimise the risks associated with
+trading in foreign currencies.
+The Group places all sterling
+and foreign currency cash
+balances not immediately
+required on short-term deposit.
+An external treasury manager
+is utilised to assist in obtaining
+an acceptable risk/return
+balance on excess deposits.
+The Group does not enter into
+speculative transactions with
+financial instruments. Board of Directors
+18
+Lord Wolfson of Sunningdale,
+Non-Executive Director
+Aged 68 Lord Wolfson is a
+Director of Compco Holdings plc,
+and was formerly Chairman of
+Next plc and Great Universal
+Stores. Lord Wolfson was
+appointed to Fibernet’s Board
+in March 2001 and became
+Chairman of the board at the
+AGM in January 2002.
+Lady Robin Innes Ker,
+Non-Executive Director
+Aged 43 Lady Robin joined
+Fibernet on1 August 2000, and
+is Chairman of the Remuneration
+Committee, and Senior
+Independent Director . She is a
+Director of T a ylor W oodrow , The
+T elevision Corporation and
+Williams Lea. Lady Robin was
+formerly Director of SBC Warburg
+and Dresdner Kleinwort Benson,
+specialising in the media and
+technology sectors.
+Charles McGregor,
+Chief Executive 
+Aged 45 Charles McGregor was
+one of the founders of Fibernet
+in 1986. Prior to joining Fibernet,
+Charles spent six years working
+in the international data
+communications sector both in
+Europe and the USA. He became
+Managing Director of Fibernet
+in 1993 and Chief Executive on
+its flotation in 1996.
+Nick Bray,
+Financial Director and
+Company Secretary
+Aged 38 Nick Bray was appointed
+Financial Director of Fibernet
+in February 2001. Nick has
+considerable experience in the
+IT sector , both in the USA and
+Europe. Prior to Fibernet, Nick
+was Group Chief Financial
+Officer of Gentia Software plc. Advisers
+19
+Roger Chovil,
+Non-Executive Director
+Aged 58 Roger Chovil joined
+Fibernet as a Non-Executive
+Director in January 2002 and 
+is Chairman of the Audit
+Committee. Roger is also a
+Director of The T elevision
+Corporation and Brown &
+Jackson plc. Roger was formerly
+a Senior Client Service Partner
+at PricewaterhouseCoopers and
+has extensive experience of
+advising telecommunications
+and technology companies
+including Cable & Wireless plc
+and Misys plc.
+Financial advisers and
+stockbrokers
+Arbuthnot Securities Ltd
+2 Lambeth Hill
+London EC4V 4GG
+Solicitors
+Lawrence Graham
+190 Strand
+London WC2R 1JN
+Auditors
+Deloitte & T ouche LLP
+Abbots House
+Abbey St, Reading
+Berkshire RG1 3BD
+Registrars
+Capita Registrars
+The Registry 
+34 Beckenham Road
+Beckenham
+Kent BR3 4TU
+Registered office
+Fibernet Group plc
+Rosalind House, Jays Close
+Viables, Basingstoke
+Hampshire RG22 4BS
+Registered number: 3151663 Directors’ report
+20
+The Directors present their report and Group financial statements for the year ended 31 August 2003.
+Principal activity, review of the business and future developments Fibernet is a communications solutions company dedicated
+to the design, supply , installation, management and support of bespoke high speed digital networks. The review of the business
+and future developments are contained in the Chairman’s Statement on pages 2 and 3, and the Chief Executive’s Strategy Review
+on pages 4 to 7.
+Financial results and dividends The Group’s results and transfers to reserves are as follows:
+2003 2002
+£’000 £’000
+Loss for the financial year (4,994) (91,845)
+Gain on foreign currency translation 30 1,031
+Profit and loss account at 1 September 2002 (92,533) (1,719)
+Profit and loss account at 31 August 2003 (97,497) (92,533)
+The Directors have not declared a dividend.
+Directors and their interests The Directors who served during the year were as follows:
+D Wolfson
+C S McGregor
+K C M Innes Ker
+E R C Chovil
+N P S Bray
+The following Directors at 31 August 2003 had beneficial interests in the shares of the Company as follows:
+10 pence 10 pence
+ordinary shares ordinary shares
+31 August 2003 31 August 2002
+Number Number
+D Wolfson 270,000 20,000
+C S McGregor 7,312,811 6,812,811
+K C M Innes Ker 1,910 1,910
+E R C Chovil 5,000 –
+N P S Bray – 500
+Between the balance sheet date and the approval of these financial statements, the Directors’ beneficial interests in shares 
+in the Company have not changed.
+In addition to the above shareholdings, one Director had options to subscribe for shares in the Company as disclosed in the
+Remuneration report on pages 22 to 25.
+The mid-market price of the shares at 31 August 2003 was 95.0p and during the year the price varied between 14.0p and 130.0p.
+Substantial shareholdings On 25 September 2003 the Company was notified, in accordance with Sections 198 to 208 of
+the Companies Act 1985, of the following disclosable interests which amounted to 3% or more of the issued ordinary share
+capital of the Company:
+Name of holder Number Percentage held
+C S McGregor 7,312,811 11.9
+DRKWS Nominees Limited 3,943,782 6.4
+HSBC Global Custody Nominee (UK) Limited 3,220,000 5.2
+BNY SG Nominees Limited 2,200,338 3.6
+Sharelink Nominees Limited 2,302,358 3.7
+Kettley International Limited 2,016,556 3.3
+TD Waterhouse Nomineees (Europe) Limited 2,015,360 3.3 21
+Policy in respect of payments to suppliers The Company’s policy , which is also applied to the Group, is to decide upon 
+the terms of payment with suppliers when agreeing the terms of each transaction to ensure that suppliers are made aware 
+of the terms of payment and to abide by the terms of payment.
+T rade creditors of the Company at 31 August 2003 were the equivalent of 28 days’ purchases (2002: 37 days’).
+Charitable donations The Group contributed £1,000 to St. Bartholomew’s Hospital (2002: £7,500 donated to ‘Business 
+in the Community’).
+Disabled employees Applications for employment by disabled persons are always fully considered, bearing in mind the
+aptitudes of the applicant concerned. In the event of members of staff becoming disabled every effort is made to ensure 
+that their employment with the Group continues and that appropriate training is arranged. It is the policy of the Group that 
+the training, career development and promotion of disabled persons should, as far as possible, be identical with that 
+of other employees.
+Employee consultation The Group places considerable value on the involvement of its employees and has continued to keep
+them informed on matters affecting them as employees and on the various factors affecting the performance of the Group.
+This is achieved through formal and informal meetings and other forms of communication including email and the Group intranet.
+Employee representatives are consulted regularly on a wide range of matters affecting their current and future interests.
+The employee share scheme has been running successfully since its inception in 1996. It is open to all UK employees.
+Auditors On 1 August 2003, Deloitte & T ouche transferred their business to Deloitte & T ouche LLP , a limited liability partnership
+incorporated under the Limited Liability Partnerships Act 2000. The Company gave its consent to treating the appointment of
+Deloitte & T ouche as extending to Deloitte & T ouche LLP with effect from 1 August 2003 and accordingly the financial statements
+have been signed in the name of Deloitte & T ouche LLP . A resolution for the re-appointment of Deloitte & T ouche LLP will be
+proposed at the forthcoming Annual General Meeting.
+Annual General Meeting The notice of the Company’s Annual General Meeting is set out on pages 53 to 55 of this report.
+It is proposed by a special resolution (no.7) that the Company be authorised to purchase up to 9,239,238 of its own ordinary
+shares in the market, representing 15% of the current issued ordinary share capital of the Company , at a price not less than
+the nominal value of the ordinary shares and not more than 5% above the average of the middle market quotations of the
+Company’s ordinary shares derived from the London Stock Exchange Daily Official List for the five business days before the
+purchase is made.The authority would be given for the period ending on the date of the next Annual General Meeting of the
+Company or 15 months after the date of passing of the resolution (whichever is the earlier) and it is presently intended that
+a resolution for the renewal of such authority would be proposed at each succeeding Annual General Meeting. The Directors
+have no present intention of making such purchases, but it is prudent to have this authority so as to be able to act at short
+notice if circumstances change. The authority would however only be exercised if the Directors believe that to do so would
+result in an increase in earnings per share and would be in the best interests of shareholders generally .
+Options over an aggregate of 2,313,040 ordinary shares in the Company were outstanding as at 14 October 2003 representing
+3.76% of the Company’s issued share capital at that date and which would represent 4.42% of the Company’s issued share
+capital if the proposed authority being sought at the Annual General Meeting to buy back 9,239,238 ordinary shares was
+exercised in full.
+This report was approved by the Board on 13 October 2003.
+Nick Bray
+Financial Director Remuneration report
+22
+Introduction The Company complies with the relevant conditions of the Combined Code on Corporate Governance relating 
+to Directors’ remuneration as published by the London Stock Exchange and the new Directors’ Remuneration report
+Regulations 2002.
+The Regulations require the Auditors to report to the Company’s members on the “auditable part” of the Remuneration report
+and to state whether in their opinion that part of the report has been properly prepared in accordance with the Companies 
+Act 1985 (as amended by the regulations). The report has therefore been divided into separate sections for audited and
+unaudited information.
+Unaudited information
+Remuneration committee The members of the Remuneration Committee are K C M Innes Ker (Committee Chairman),
+E R C Chovil and D Wolfson. The Committee’s role is to set levels of remuneration to attract and retain Executive Directors 
+and members of the senior management team (Group Operating Board) and, in doing this, takes into account the level 
+of remuneration throughout the Group and the telecommunications industry generally .
+No Director plays a part in any discussions about his own remuneration.
+The committee consulted with Charles McGregor (Chief Executive) and Nick Bray (Financial Director), with regard to the
+remuneration and benefits offered to senior executives during the year .
+In addition, wholly independent advice on executive remuneration and share schemes was received from
+PricewaterhouseCoopers who were appointed by the Committee and who provided no other services to the Company 
+during the year .
+Remuneration policy The policy of the Committee is to reward senior executives competitively , enabling the Company to
+recruit, motivate and retain executives of the highest calibre, whilst avoiding paying excess remuneration. Further details of
+the remuneration policy followed by the Committee are set out below . In conjunction with its remuneration consultants, the
+Committee considers the remuneration practices adopted by a group of like companies that, in the opinion of the Committee,
+face similar remuneration issues to the Company .
+It is the aim of the Committee to encourage and reward high performance. It is the opinion of the Committee that shareholders’
+interests are best served by setting a moderate level of fixed pay while providing competitive potential levels of total
+remuneration through short and longer-term incentive arrangements which require the satisfaction of challenging
+performance conditions. During the year the Committee conducted a review of the remuneration policy and recommended the
+introduction of an additional element of performance related pay , in the form of a Long T erm Incentive Plan, described below .
+The intention is to reward employees for the delivery of better than planned profitability , over a three year performance period,
+and reduce the proportion of fixed pay in total compensation. Subject to shareholder approval this would be introduced in the
+year ended 31 August 2004.
+In the year to 31 August 2003, the proportion of executive remuneration that was linked performance linked was as shown below .
+Other Annual
+Base salary benefits bonus Total
+Year ended 31 August 2003 %%%%
+Charles McGregor
+At on target performance 66 7 27 100
+At maximum performance 52 6 42 100
+Nick Bray
+At on target performance 75 6 19 100
+At maximum performance 63 5 32 100
+Basic salaries, pensions and other benefits Basic salaries are established by those prevailing in the market generally for
+Executive Directors and Senior Managers of comparable status, skills and responsibility in comparable industries. Salaries
+are reviewed on an annual basis and changes are generally implemented with effect from 1 September each year . Both
+Charles McGregor and Nick Bray received a 2.5 per cent increase to basic salary effective from 1 September 2003 taking
+basic salaries for the year ahead to £190,300 and £138,375 respectively .
+For Executive Directors and Senior Managers of the Group, pension contributions are paid into individual money purchase
+schemes at a rate of 5 per cent of gross basic salary .
+In addition to basic salary and pension the other benefits included in the remuneration package are the provision of a car 
+or car allowance, fuel, permanent health insurance and death in service cover . 23
+Annual bonus The Company operates an annual bonus scheme providing Executive Directors and Senior Managers with an
+opportunity to earn a cash reward based on the achievement of annual targets. Should targets not be achieved then no bonus
+is payable. Similarly , should targets be exceeded then bonus payments can be increased up to a maximum limit.
+For the year ended 31 August 2003, the Remuneration Committee established a performance bonus scheme for Senior
+Managers that was based on the Group’s EBITDA performance, and for Executive Directors which was based on the Group’s
+EBITDA performance combined with the value of new orders placed. Superior performance in the period resulted in the
+maximum award being achieved. The maximum bonus for the year ended 31 August 2003 was 81 per cent of basic salary for
+Charles McGregor and 50 per cent for Nick Bray .
+For the financial year ending 31 August 2004, the plan will focus on the net profitability of the Group. For Executive Directors,
+the maximum bonus for the financial year ending 31 August 2004 is 81 per cent of basic salary for Charles McGregor and
+50 per cent for Nick Bray .
+Long Term Incentive Plans The Company has operated both Executive and Save As Y ou Earn (SA YE) share option schemes.
+Executive share options have been granted on a phased basis, at market value at the day of grant, and are exercisable only
+after documented performance criteria concerning turnover growth and relative share price performance are met.
+Options granted to Nick Bray during the period are subject to performance conditions requiring a significant increase in the
+share price of the Company compared with the option grant price over a three year performance period.
+The performance conditions for previous option grants related to both share price performance of the Group compared with
+the FTSE 250 index and a substantial increase in the turnover of the Group as reported in the published financial statements.
+The relative share price performance criterion provided an alignment of the executive’s interests with those of the
+Shareholders while the requirement for increased turnover provided a focus on the key financial metrics for the Group.
+During the current year , the Remuneration Committee has reviewed the remuneration scheme and in particular the long-term
+incentive arrangements. The Committee has taken into account the importance to shareholders of the Company achieving
+certain profitability milestones over the next three years, and of increasing the proportion of total compensation represented
+by performance related pay .
+F ollowing the review , the Committee proposes that the annual award of Executive options be replaced by a new plan – the Fibernet 2003
+Long T erm Incentive Plan. This plan is put forward for approval by Shareholders at the AGM and is tabled as item 8. Full details
+of the plan are included in the attached circular . Key features of the new plan for Executive Directors are detailed below .
+The proposed Fibernet 2003 Long T erm Incentive Plan introduces the concept of annual awards of shares to Executive Directors,
+Senior Managers and other key staff. Shares awarded will only vest after a three-year period on condition that stringent
+performance conditions have been achieved. The maximum award is over shares having a value at grant equivalent to 100 per
+cent of basic salary for Executive Directors and some Senior Managers. Vesting of the 2003 award is only triggered if, over the
+first three-year performance period, cumulative audited profitability (before non-operating exceptional items) exceeds target
+profitability (which is fixed at the time the awards are made) with a further requirement for a positive earnings per share for the
+year ending 31 August 2006. 40 per cent of an award will vest for target performance, with full vesting for outstanding profit
+achievement. Vesting between 40 per cent and 100 per cent of the award is on a straight-line basis by reference to cumulative
+profitability . Future year awards will also be subject to suitably challenging performance targets set at the start of each
+performance period. Inflation linked Earnings Per Share growth will be adopted as the performance condition once
+profitability is achieved. Should this be approved, the potential benefits for the Executive Directors are shown in the table below.
+Long Term
+Other Annual Incentive
+Base salary benefits bonus Plan Total
+%%%%%
+Charles McGregor
+At on target performance 52 6 21 21 100
+At maximum performance 34 4 28 34 100
+Nick Bray
+At on target performance 57 5 15 23 100
+At maximum performance 39 3 19 39 100
+The Board is seeking shareholders' approval to make minor amendments to the rules of the SA YE  and Executive Share
+Option Schemes, to enable market purchased shares to be used, where appropriate, to satisfy subsisting options granted
+under the schemes to aid flexibility across the Group's employee share incentive arrangements and to distinguish such
+shares from the dilution limits applicable to new issue shares which remain ABI compliant. These changes are put forward
+for approval by shareholders at the AGM and are tabled as items 9 to 11. Remuneration report (continued)
+24
+The Executive Directors are also eligible to participate in the Company’s SA YE scheme. Grants of SA YE schemes are made 
+at discounts of up to 20 per cent of the market price and are not subject to performance criteria. SA YE options are made
+available to all UK employees.
+Total Shareholder Return performance graph The graphs below show the T otal Shareholder Return (TSR) performance of
+the Company in comparison to the FTSE Allshare and FTSE T elecom Services indices for both a five and a one year period.
+The Committee considers these indices to be relevant for TSR comparative purposes.
+Directors’ contracts Executive Directors are appointed with contracts providing for a 12 month notice period. No Director 
+has a fixed term service contract. Current service contracts for Executive Directors were agreed on the following dates:
+Charles McGregor – 11 June 1996
+Nick Bray – 8 January 2001*
+*Amended on 13 November 2002 to increase the notice period from six to twelve months.
+Non-Executive Directors Non-Executive Directors are appointed on contracts expiring on one month’s notice. No Director
+serves for more than three years without being reappointed.
+450
+400
+350
+300
+250
+200
+150
+100
+50
+SEP OCT NOV DEC JAN FEB MAR APR MAY JUN JUL AUG
+0
+FIBERNET GROUP
+FTSE TELECOM SERVICES – PRICE INDEX
+FSTE ALL SHARE – PRICE INDEX
+Source: DATASTREAM 
+1,000
+900
+1999 2000 2001 2002 2003
+800
+700
+600
+500
+400
+300
+200
+100
+0
+FIBERNET GROUP
+FTSE TELECOM SERVICES – PRICE INDEX
+FSTE ALL SHARE – PRICE INDEX
+Source: DATASTREAM  25
+Audited information
+Directors’ remuneration
+Fees/basic salary Bonus Benefits Total Pensions
+2003 2002 2003 2002 2003 2002 2003 2002 2003 2002
+£’000 £’000 £’000 £’000 £’000 £’000 £’000 £’000 £’000 £’000
+Executive
+C S McGregor 186 180 150 – 21 21 357 201 9 9
+N P S Bray 135 124 68 – 11 11 214 135 7 6
+Non-Executive
+D Wolfson 40 35 – – – – 40 35 – –
+K C M Innes Ker 25 25 – – – – 25 25 – –
+E R C Chovil 25 17 – – – – 25 17 – –
+D K Anslow – 19 – – – – – 19 – –
+411 400 218 – 32 32 661 432 16 15
+D K Anslow resigned on 25 January 2002.
+Directors’ share options
+Number of share options Exercise
+31 August 31 August price
+2002 Granted Exercised Waived 2003 (pence) Dates of exercise
+Executive share options:
+N P S Bray 83,139 – – – 83,139 577 02/05/04 – 01/05/11
+N P S Bray 116,861 – – – 116,861 105 24/04/05 – 23/04/09
+N P S Bray – 60,000 – – 60,000 20 26/11/05 – 25/11/09
+SAYE options:
+N P S Bray – 6,831 – – 6,831 17 01/07/06 – 31/12/06
+Options granted to Nick Bray during the period are subject to performance conditions requiring a significant increase in the
+share price of the Group compared with the option grant price over a three year performance. For options granted prior 
+to the current year , performance conditions related to both share price performance of the Group together with a required
+increase in the turnover of the Group, as reported in the published financial statements.
+The mid-market price of the shares at 31 August 2003 was 95.0p and during the year the price varied between 14.0p 
+and 130.0p.
+K C M Innes Ker
+Chairman of the Remuneration Committee
+13 October 2003 Corporate governance
+26
+Introduction This statement, together with the Remuneration report on pages 22 to 25, considers how the principles of good
+governance as set out in Section 1 of the Combined Code for Corporate Governance issued by the London Stock Exchange 
+in June 1998 (‘the Code’) have been applied by the Company .
+Throughout the year ended 31 August 2003 the Company has been in compliance with the code set out in section 1 of the
+Combined Code of Corporate Governance issued by the Financial Services Authority .
+Directors The Board comprises two Executive Directors (C S McGregor and N P S Bray) and three independent Non-Executive
+Directors (D Wolfson, K C M Innes Ker and E R C Chovil). None of the Directors has served more than three years without being
+submitted for re-election.
+The Board, which meets at least 12 times a year , is responsible for the overall strategy and financial performance of the Group
+and has a formal schedule of matters reserved for its sole approval. Each Board meeting is preceded by a clear agenda and
+with the relevant information needed to reach informed decisions at those meetings. All Directors are aware of their right to seek
+independent advice and to seek advice of the Company Secretary if required.
+The Board is committed to ensuring that there continues to be a clear balance of authority and decision making in its activities.
+The Board has a majority of Non-Executive Directors who are independent. The senior independent Non-Executive Director
+is K C M Innes Ker .
+The Board has continued to operate its Audit and Remuneration Committees which solely comprise the Non-Executive Directors.
+The Audit Committee and Remuneration Committee are chaired by E R C Chovil and K C M Innes Ker respectively .
+Since there are only five Directors and as permitted by the Code, the Board have not established a nomination committee.
+Any future appointments, which can be proposed by any Director , will be discussed by the full Board.
+The Group Operating Board comprises the two Executive Directors of the Company , together with Senior Managers  of the Company .
+Directors’ remuneration The Remuneration Committee reviews annually the remuneration packages of the Executive Directors
+and the Executive Directors are responsible for the remuneration packages of the Non-Executive Directors. The Remuneration
+report on pages 22 to 25 contains a detailed description of remuneration and applicable policies.
+Relations with Shareholders The Company encourages the participation of both institutional and private investors.
+Collective and individual presentations to institutional investors are held regularly and tours of the Group’s Network Operations
+Centre are also conducted. Communication with private individuals is maintained both through the Annual General Meeting
+and the ‘News Direct’ service available to investors on the Company’s website (www .fibernet.co.uk). The Annual and Interim Reports
+are the principal vehicles of communication, but the Company also issues two quarterly updates and a statement following
+the AGM to ensure Shareholders are kept up to date.
+The Company makes a presentation to Shareholders at its AGM and all Directors are available to answer questions that arise.
+Any resolutions are voted on separately and proxy votes announced.
+Maintenance of a sound system of internal control The Board has responsibility for the Group’s system of internal control and
+for reviewing its effectiveness. Such controls are designed to manage, rather than eliminate, the risk that business objectives
+will not be met and can only provide reasonable, but not absolute, assurance against material misstatement or loss. 27
+The Board has applied Principle D .2 of the Combined Code on internal control in accordance with the guidance on internal
+controls contained in the publication ‘Internal Control: Guidance for Directors on the Combined Code’ (‘the T urnbull Report’)
+issued in September 1999.
+An ongoing process for identifying, evaluating and managing the significant risks faced by the Group has been in place
+throughout the year and up to the date of the Annual Report and accords with the provisions of the T urnbull Report.
+The Board’s monitoring covers all controls, including financial, operational and compliance controls and risk management.
+A risk management process is operated by the Group, under which the risks of not achieving their business objectives are
+identified by members of the Group Operating Board. Those risks are documented in a Significant Risk Evaluation register
+which evaluates the likelihood and impact of the risks occurring. Individual members of the Group Operating Board are
+allocated responsibility for managing those risks and ensuring adequate internal controls exist for that purpose, and that
+weaknesses are promptly remedied. During the year the Directors reviewed the need for an internal audit function and decided
+that taking account of the current size and nature of the Groups operations an internal audit function was not required. The Directors
+will continue to evaluate the need to supplement the existing controls with an internal audit function on an annual basis. The Board
+has performed a specific assessment for the purpose of this Annual Report. This assessment considers all significant aspects
+of internal control arising during the period covered by the Report. The Audit Committee assists the Board in discharging its
+review responsibilities.
+The Group operates a management structure with established responsibilities, clear delegated authorities and reporting lines
+to the Board. Budgets are set annually and detailed performance against those budgets is evaluated monthly . All capital
+expenditure and major purchases are subject to appropriate authorisation processes. The overall control environment
+continues to be enhanced by ongoing information technology systems enhancements, integration and implementations. Directors’ responsibilities
+28
+Financial statements, including adoption of going concern basis United Kingdom company law requires the Directors 
+to prepare financial statements for each financial year which give a true and fair view of the state of affairs of the Company
+and the Group and of the profit or loss of the Group for that period.
+After making enquiries, the Directors have a reasonable expectation that the Company and the Group have adequate
+resources to continue in operational existence for the foreseeable future. For this reason, they continue to adopt the going
+concern basis in preparing the financial statements.
+In preparing the financial statements, the Directors are required to: select suitable accounting policies and then apply them
+consistently; make judgements and estimates that are reasonable and prudent; and state whether applicable accounting
+standards have been followed, subject to any material departures disclosed and explained in the financial statements.
+Other matters The Directors are responsible for keeping proper accounting records which disclose with reasonable accuracy
+at any time the financial position of the Company and Group and enable them to ensure that the financial statements comply
+with the Companies Act 1985. They are also responsible for the system of internal control, for safeguarding the assets of the
+Company and Group and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities. Independent Auditors’ report to the members 
+of Fibernet Group Plc
+29
+We have audited the financial statements of Fibernet Group Plc for the year ended 31 August 2003 which comprise the profit
+and loss account, the balance sheets, the cash flow statement, the statement of total recognised gains and losses, and the
+related notes 1 to 31. These financial statements have been prepared under the accounting policies set out therein. We have
+also audited the information in the part of the Remuneration report that is described as having been audited.
+This report is made solely to the Company’s members, as a body , in accordance with section 235 of the Companies Act 1985.
+Our audit work has been undertaken so that we might state to the Company’s members those matters we are required to state
+to them in an Auditors’ report and for no other purpose. T o the fullest extent permitted by law , we do not accept or assume
+responsibility to anyone other than the Company and the Company’s members as a body , for our audit work, for this report,
+or for the opinions we have formed.
+Respective responsibilities of Directors and Auditors
+As described in the statement of Directors’ responsibilities, the Company’s Directors are responsible for the preparation 
+of the financial statements in accordance with applicable United Kingdom law and accounting standards. They are also
+responsible for the preparation of the other information contained in the Annual Report including the Remuneration report.
+Our responsibility is to audit the financial statements and the part of the Remuneration report described as having been
+audited in accordance with relevant United Kingdom legal and regulatory requirements and auditing standards.
+We report to you our opinion as to whether the financial statements give a true and fair view and whether the financial
+statements and the part of the Remuneration report described as having been audited have been properly prepared in
+accordance with the Companies Act 1985. We also report to you if, in our opinion, the Directors’ report is not consistent with
+the financial statements, if the Company has not kept proper accounting records, if we have not received all the information
+and explanations we require for our audit, or if information specified by law regarding Directors’ remuneration and
+transactions with the Company and other members of the Group is not disclosed.
+We review whether the corporate governance statement reflects the Company’s compliance with the seven provisions of the
+Combined Code specified for our review by the Listing Rules of the Financial Services Authority , and we report if it does not.
+We are not required to consider whether the Board’s statements on internal control cover all risks and controls, or form an
+opinion on the effectiveness of the Group’s corporate governance procedures or its risk and control procedures.
+We read the Directors’ report and the other information contained in the Annual Report for the above year as described in the
+contents section including the unaudited part of the Remuneration report and consider the implications for our report if we
+become aware of any apparent misstatements or material inconsistencies with the financial statements.
+Basis of audit opinion
+We conducted our audit in accordance with United Kingdom auditing standards issued by the Auditing Practices Board.
+An audit includes examination, on a test basis, of evidence relevant to the amounts and disclosures in the financial statements
+and the part of the Remuneration report described as having been audited. It also includes an assessment of the significant
+estimates and judgements made by the Directors in the preparation of the financial statements and of whether the
+accounting policies are appropriate to the circumstances of the Company and the Group, consistently applied and
+adequately disclosed.
+We planned and performed our audit so as to obtain all the information and explanations which we considered necessary 
+in order to provide us with sufficient evidence to give reasonable assurance that the financial statements and the part of the
+Remuneration report described as having been audited are free from material misstatement, whether caused by fraud or
+other irregularity or error . In forming our opinion, we also evaluated the overall adequacy of the presentation of information 
+in the financial statements and the part of the Remuneration report described as having been audited.
+Opinion
+In our opinion:
+• the financial statements give a true and fair view of the state of affairs of the Company and the Group as at 31 August 2003
+and of the loss of the Group for the year then ended; and
+• the financial statements and part of the Remuneration report described as having been audited have been properly prepared
+in accordance with the Companies Act 1985.
+Deloitte & Touche LLP
+Chartered Accountants and Registered Auditors
+Reading
+13 October 2003 Consolidated profit and loss account
+for the year ended 31 August 2003
+30
+Continuing Discontinued
+Continuing Discontinued operations operations Total
+operations operations Total 2002 2002 2002
+2003 2003 2003 (restated)* (restated)* (restated)*
+Note £’000 £’000 £’000 £’000 £’000 £’000
+Turnover 2 36,348 – 36,348 36,672 2,833 39,505
+Cost of sales before exceptional items (26,680) – (26,680) (27,138) (4,922) (32,060)
+Exceptional cost of sales 3 1,886 – 1,886 –––
+Cost of sales (24,794) – (24,794) (27,138) (4,922) (32,060)
+Gross profit/(loss) 11,554 – 11,554 9,534 (2,089) 7,445
+Administrative expenses before exceptional items (16,572) – (16,572)(19,792) (6,847) (26,639)
+Exceptional administrative expenses 3 (2,171) – (2,171) (5,083) – (5,083)
+Administrative expenses (18,743) – (18,743) (24,875) (6,847) (31,722)
+Operating loss 4 (7,189) – (7,189) (15,341) (8,936) (24,277)
+Exceptional items: 3
+– Adjustment to profit on sale of fixed assets 
+in respect of release from obligations under
+IRU contracts 1,966 – 1,966 –––
+– T ermination costs (2,433) (64,084)
+– Less prior year provision 3,182 –
+– Impairment reversal 2,769 –
+– Gain/(loss) on termination of operations 3,518 (64,084)
+Finance charges (net) 5 (3,289) (4,055)
+Loss on ordinary activities before taxation 2 (4,994) (92,416)
+T ax on loss on ordinary activities 6 – 571
+Loss for the financial year 20,21 (4,994) (91,845)
+EBITDA before exceptional items 2,7 7,293 – 7,293 5,026 (6,045) (1,019)
+EBITDA 7 10,626 749 11,375 5,026 (17,057) (12,031)
+Basic and diluted loss per share 9 (8.1p) (149.3p)
+Consolidated statement of total recognised 
+gains and losses
+2002
+2003 (restated)*
+Note £’000 £’000
+Loss for the financial year (4,994) (91,845)
+Gain on foreign currency translation 30 1,031
+Total recognised gains and losses relating to the year (4,964) (90,814)
+Prior year adjustment 10 (1,182) –
+Total recognised gains and losses since last Annual Report and financial statements (6,146) (90,814)
+The accompanying notes are an integral part of this Consolidated profit and loss account and Consolidated statement 
+of total recognised gains and losses.
+*The results for the year ended 31 August 2002 have been restated as a result of the introduction of UITF 36 ‘Contracts 
+for sale of capacity’. The effect of the restatement is shown in note 10. Consolidated balance sheet
+at 31 August 2003
+31
+2002
+2003 (restated)*
+Note £’000 £’000
+Fixed assets
+Intangible assets 11 92 111
+T angible assets 12 87,687 89,559
+87,779 89,670
+Current assets
+Stocks 14 262 1,701
+Debtors: Amounts falling due within one year 15 10,425 12,707
+Debtors: Amounts falling due after more than one year 15 2,738 2,311
+Cash at bank and in hand 24,910 34,326
+38,335 51,045
+Creditors: amounts falling due within one year 16 (23,140) (27,135)
+Net current assets 15,195 23,910
+Total assets less current liabilities 102,974 113,580
+Creditors: amounts falling due after more than one year 17 (39,596) (39,652)
+Provisions for liabilities and charges 18 (1,822) (7,408)
+Net assets 61,556 66,520
+Capital and reserves
+Called up share capital 19 6,156 6,156
+Share premium account 20 155,369 155,369
+Merger reserve 20 (2,472) (2,472)
+Profit and loss account 20 (97,497) (92,533)
+Equity shareholders’ funds 21 61,556 66,520
+The accompanying notes are an integral part of this Consolidated balance sheet.
+*The results for the year ended 31 August 2002 have been restated as a result of the introduction of UITF 36 ‘Contracts 
+for sale of capacity’. The effect of the restatement is shown in note 10. Company balance sheet
+at 31 August 2003
+32
+2003 2002
+Note £’000 £’000
+Fixed assets
+T angible assets 12 770 2,699
+Investments 13 2,550 2,550
+3,320 5,249
+Current assets
+Debtors 15 69,565 62,667
+Cash at bank and in hand 16,802 23,629
+86,367 86,296
+Creditors: amounts falling due within one year 16 (802) (1,530)
+Net current assets 85,565 84,766
+Net assets 88,885 90,015
+Capital and reserves
+Called up share capital 19 6,156 6,156
+Share premium account 20 155,369 155,369
+Profit and loss account 20 (72,640) (71,510)
+Equity shareholders’ funds 21 88,885 90,015
+The accompanying notes are an integral part of this Company balance sheet.
+The financial statements on pages 20 to 52 were approved by the Board of Directors on 13 October 2003 and signed 
+on its behalf by:
+Nick Bray
+Financial Director
+13 October 2003
+Charles McGregor
+Chief Executive
+13 October 2003 Consolidated cash flow statement
+for the year ended 31 August 2003
+33
+2002
+2003 (restated)*
+Note £’000 £’000
+Net cash inflow/(outflow) from operating activities 22 9,045 (1,982)
+Returns on investments and servicing of finance 23 (2,980) (2,295)
+Capital expenditure 24 (14,005) (56,612)
+Cash outflow before management of liquid resources and financing (7,940) (60,889)
+Financing 25 (1,476) (530)
+Decrease in cash during the year (9,416) (61,419)
+The accompanying notes are an integral part of this Consolidated cash flow statement.
+*The results for the year ended 31 August 2002 have been restated as a result of the introduction of UITF 36 ‘Contracts for sale
+of capacity’. The effect of the restatement is shown in note 10. Notes to the financial statements
+34
+1 Accounting policies
+A summary of the principal accounting policies, all of which have been applied consistently throughout the year and the
+previous year , is set out below .
+a) Basis of accounting The financial statements are prepared under the historical cost convention and in accordance with
+applicable United Kingdom accounting standards. UITF 36 ‘Contracts for sale of capacity’ has been adopted in these
+financial statements. The prior year comparatives have been restated accordingly . The effect of the adoption of UITF 36 
+on the prior year comparatives is shown in note 10.
+b) Basis of consolidation The financial statements consolidate the financial statements of Fibernet Group Plc and all its
+subsidiary undertakings made up to 31 August 2003. The results of subsidiaries acquired or sold are consolidated for 
+the period from or to the date on which control passed. Acquisitions are accounted for under the acquisition method.
+No profit and loss account is presented for the Company as provided by Section 230 of the Companies Act 1985.
+The Company’s retained loss for the year was £1,130,000 (2002: £73,410,000).
+c) T urnover Turnover is stated as the amounts receivable (net of sales taxes) for the sale of networking services and products.
+Turnover arising from service contracts is recognised evenly over the life of each contract, regardless of the payment profile.
+Turnover from long-term leases is accounted for according to note 1(d) below .
+d) Sales of long-term leases of telecommunications infrastructure and capacity Turnover from long-term leases of
+telecommunications infrastructure and capacity is accounted for in accordance with UITF 36 ‘Contracts for sale of capacity’.
+e) Intangible fixed assets – goodwill Goodwill arising on the acquisition of subsidiary undertakings and businesses,
+representing any excess of the fair value of the consideration given over the fair value of the identifiable assets and liabilities
+acquired, is capitalised and written off on a straight line basis over its useful economic life, which is five years. Provision is
+made for any impairment.
+f) Intangible fixed assets – licences Licence costs are stated at cost, less amortisation and any provision for impairment 
+in value. They are written off commencing upon network activation, on a straight line basis over five to 15 years.
+g) Tangible fixed assets and depreciation T angible fixed assets are stated at cost, net of depreciation and any provision for
+impairment. Depreciation is provided on leasehold improvements, motor vehicles, plant and equipment, office furniture and
+computers to write off their cost, less estimated residual value, on a straight line basis over their estimated useful lives.
+Depreciation is provided on the Group’s telecommunications network assets, commencing on activation, to write off their
+cost, less estimated residual value, on a straight line basis over the shorter of their estimated useful lives or the minimum
+period of related customer service contracts. The estimated useful lives are as follows:
+Leasehold improvements The shorter of 5 years and lease term
+T elecommunications network 5 to 20 years
+Motor vehicles 5 years
+Plant and equipment 5 years
+Computers 5 years
+Office furniture 5 years
+h) Investments in subsidiary undertakings The Company’s investments in its subsidiary undertakings are stated at cost less
+provision for any impairment.
+i) Stocks Stocks are valued at the lower of cost and net realisable value. Cost is arrived at on a first in, first out basis and
+includes freight and duty for equipment purchased from overseas. Net realisable value is based on estimated selling price
+less further costs expected to completion and disposal. Provision is made for obsolete, slow moving or defective items 
+where appropriate. 35
+1 Accounting policies (continued)
+j) Leases and hire purchase contracts Assets obtained under hire purchase contracts and leases which result in the transfer
+of substantially all the risks and rewards of ownership (finance leases) are capitalised as tangible fixed assets at the estimated
+present value of underlying lease payments and are depreciated over the shorter of the lease term and their useful lives.
+Obligations under such agreements are included in creditors, net of finance charges allocated to future periods. The finance
+element of the rental payments is charged to the profit and loss account over the period of each hire purchase contract or
+lease so as to produce a constant periodic rate of charge on the outstanding balance of the net obligation in each period.
+Rentals paid under other leases (operating leases) are charged against income on a straight line basis over each lease term.
+k) Foreign currency T ransactions during the year have been converted at the rate ruling when each transaction occurred. Any
+exchange gains or losses arising from a change in exchange rates subsequent to the date of a transaction are included within
+the profit and loss account. Monetary assets and liabilities denominated in foreign currencies are translated into sterling at the
+rate of exchange ruling at the balance sheet date or , if matched by forward exchange contracts, the contracted rates.
+The results of overseas subsidiaries are converted at the average rates of exchange during the year and their balance sheets
+at the rates ruling at the balance sheet date. Exchange differences arising on translation of the opening net assets and results
+of overseas subsidiaries, and on foreign currency borrowings, to the extent that they hedge the Group’s investment in such
+operations, are dealt with through reserves. All other exchange differences are included in the profit and loss account.
+l) Taxation Current tax, including UK corporation tax and foreign tax, is provided at amounts expected to be paid (or recovered)
+using the tax rates and laws that have been enacted or substantially enacted by the balance sheet date.
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at the balance sheet date
+where transactions or events that result in an obligation to pay more tax in the future or a right to pay less tax in the future have
+occurred at the balance sheet date. Timing differences are differences between the Group’s taxable profits and its results as
+stated in the financial statements that arise from the inclusion of gains and losses in tax assessments in periods different from
+those in which they are recognised in the financial statements.
+A net deferred tax asset is regarded as recoverable and therefore recognised only when, on the basis of all available evidence,
+it can be regarded as more likely than not that there will be suitable taxable profits from which the future reversal of the underlying
+timing differences can be deducted.
+Deferred tax is not recognised when fixed assets are revalued unless by the balance sheet date there is a binding agreement
+to sell the revalued assets and the gain or loss expected to arise on sale has been recognised in the financial statements.
+Neither is deferred tax recognised when fixed assets are sold and it is more likely than not that the taxable gain will be rolled
+over , being charged to tax only if and when the replacement assets are sold.
+Deferred tax is recognised in respect of the retained earnings of overseas subsidiaries only to the extent that, at the balance
+sheet date, dividends have been accrued as receivable or a binding agreement to distribute past earnings in future has been
+entered into by the subsidiary .
+Deferred tax is measured at the average tax rates that are expected to apply in the periods in which the timing differences are
+expected to reverse, based on tax rates and laws that have been enacted or substantively enacted by the balance sheet date.
+Deferred tax is not discounted.
+m) Deferred income Amounts receivable under maintenance and service contracts are credited to deferred income and
+released to the profit and loss account on a straight line basis over the duration of the contracts.
+n) Pensions costs The Group has not contracted out of the state pension arrangements. Additional benefits for employees
+are provided by a defined contribution Group pension scheme and by individual defined contribution schemes with the costs
+being met in full by the Group and charged to the profit and loss account as incurred. Notes to the financial statements (continued)
+36
+2 T urnover and geographical segment analysis
+All of the Group’s turnover and loss on ordinary activities before taxation arose from its principal activity . The Directors consider
+that the Group has only one class of business. However , additional analysis is provided in respect of turnover and EBITDA,
+as the Directors believe it to be informative.
+The analysis of turnover in this note refers to three types of sale. These are described as follows:
+Service contracts – relates to revenue from WAN contracts and from LAN maintenance contacts.
+LAN products – relates to sale of and installation of LAN equipment.
+WAN products – represents sales of telecommunications infrastructure.
+Continuing operations Discontinued operations Total
+(restated) (restated)
+2003 2002 2003 2002 2003 2002
+£’000 £’000 £’000 £’000 £’000 £’000
+Turnover by type
+Service contracts 33,749 35,372* – 297 33,749 35,669
+LAN products 1,970 1,300 – 2,014 1,970 3,314
+WAN products 629 – – 522 629 522
+36,348 36,672 – 2,833 36,348 39,505
+Continuing operations Discontinued operations Total
+(restated) (restated)
+2003 2002 2003 2002 2003 2002
+£’000 £’000 £’000 £’000 £’000 £’000
+Turnover by destination and origin
+UK and Ireland 35,070 36,247* – – 35,070 36,247
+France – – – 60 – 60
+Germany 1,278 425 – 2,773 1,278 3,198
+Rest of Europe – – – – – –
+36,348 36,672 – 2,833 36,348 39,505
+*During 2002, £2,340,000 of revenue was recognised as service contracts in continuing operations on the cancellation of a
+customer contract, monies being paid up front to exit the remaining obligation. This contract cancellation increased revenue
+by £2,340,000, net profit by £1,290,000 and EBITDA by £2,070,000. 37
+2 T urnover and geographical segment analysis (continued)
+Continuing operations Discontinued operations Total
+(restated) (restated)
+2003 2002 2003 2002 2003 2002
+£’000 £’000 £’000 £’000 £’000 £’000
+Geographical analysis of EBITDA before exceptional items
+UK and Ireland 7,439 5,516* – – 7,439 5,516
+France – – – (1,291) – (1,291)
+Germany (146) (490) – (4,669) (146) (5,159)
+Rest of Europe – – – (85) – (85)
+7,293 5,026 – (6,045) 7,293 (1,019)
+2002
+2003 (restated)
+£’000 £’000
+Geographical analysis of (loss)/profit on ordinary activities before taxation
+UK and Ireland (8,224) (15,792)
+France 1,276 (21,518)
+Germany 1,944 (54,811)
+Rest of Europe 10 (295)
+(4,994) (92,416)
+2002
+2003 (restated)
+£’000 £’000
+Geographical analysis of net operating assets
+UK and Ireland 60,836 68,198
+France 230 126
+Germany 500 (1,903)
+Rest of Europe (10) 99
+61,556 66,520
+*During 2002, £2,340,000 of revenue was recognised as service contracts in continuing operations on the cancellation of a
+customer contract, monies being paid up front to exit the remaining obligation. This contract cancellation increased revenue
+by £2,340,000, net profit by £1,290,000 and EBITDA by £2,070,000.
+Continuing and discontinued operations During 2002 the Group discontinued its national network operations in France and
+Germany . Accordingly these are disclosed within discontinued operations. Continuing operations comprise the Group’s UK
+business plus its Frankfurt Carrier Ring operation. Notes to the financial statements (continued)
+38
+3 Exceptional items
+2002
+2003 (restated)
+£’000 £’000
+Cost of sales:
+Network rates rebates (1,886) –
+Administrative expenses:
+Impairment of tangible fixed assets – DSL 1,329 –
+Impairment of tangible fixed assets – other 323 5,083
+Onerous leases – DSL 519 –
+2,171 5,083
+Adjustment to profit on sale of fixed assets in respect of release from obligations under IRU contracts (1,966) –
+(Gain)/loss on termination of operations:
+Termination costs* 2,433 64,084
+Less prior year provision (3,182) –
+Impairment reversal (2,769) –
+(3,518) 64,084
+Total exceptional (credit)/charge (5,199) 69,167
+*T ermination costs for the current year are stated net of £1,552,000 which was included in finance lease creditors 
+at 31 August 2002 and which have been terminated during the year .
+There is no related tax charge/(credit) arising from the exceptional (credit)/charge.
+Network rates rebates
+During the year the Group successfully appealed the business rates assessment on its national fibre optic network.
+The exceptional gain represents the rebates obtained in respect of prior years. The reduction in respect of the year ended 
+31 August 2003 was an additional £1,500,000 and is included in cost of sales.
+DSL operations
+During the year the Group launched a new UK national Partial Private Circuit (PPC) product. For many applications this
+product effectively replaces the Group’s Digital Subscriber Line (DSL) product, resulting in a significant reduction in the
+expected demand for DSL services. Accordingly the Group has reviewed its DSL operations and identified a number of
+onerous commitments in respect of circuit rentals and other supplier commitments, relating to unprofitable DSL points of
+presence (POPs). Provision has been made for the anticipated closure costs for these POPs. Fixed assets relating to these
+POPs have also been impaired in full.
+Impairment of tangible fixed assets – other
+In accordance with accounting standards the Group regularly monitors the carrying value of its fixed assets. During the year 
+a small element of the network was identified for which no future use is anticipated. Accordingly this asset has been impaired
+in full resulting in an exceptional cost of £323,000. The prior year charge relates to the impairment of the Group’s Frankfurt
+Carrier Ring operation.
+Adjustment to profit on sale of fixed assets in respect of release from obligations under IRU contracts
+During the year two IRU contracts have been terminated, one due to the customer going into liquidation, the other due to the
+customer no longer requiring the service. As a result the Group has been relieved from future obligations in respect of these
+contracts and has released the associated provisions. The gain represents the result of writing off all assets and liabilities
+held in respect of these contracts that are no longer required.
+Gain on termination of operations
+During 2002 the Group discontinued its national network operations in France and Germany . Accordingly these are disclosed
+within discontinued operations. The exceptional gain in 2003 arises due to the actual costs of terminating the activities being
+less than those provided by £749,000 and as the result of the reversal of the impairment recorded in 2002 in respect of
+certain telecommunications equipment. This impairment reversal gives rise to an exceptional gain of £2,769,000 and relates
+to equipment that has been redeployed within the Group or is expected to be deployed during the year ended 31 August 2004. 39
+4 Operating loss is stated after charging:
+2002
+2003 (restated)
+£’000 £’000
+Depreciation
+– owned assets 11,656 14,832
+– assets held under hire purchase contracts and finance leases 2,522 2,725
+Amortisation of intangible assets 19 618
+Impairment of tangible fixed assets 1,652 5,083
+Operating lease payments
+– plant and equipment 6,322 6,593
+– land and buildings 1,746 2,941
+Foreign exchange losses/(gains) 6 (36)
+Auditors’ remuneration
+Arthur Andersen:
+– audit services – 53
+– other services – 26
+Deloitte & T ouche:
+– audit services 121 85
+– other services 76 31
+5 Finance charges (net)
+2003 2002
+£’000 £’000
+i) Interest receivable
+Bank interest 892 2,300
+ii) Interest payable
+Bank interest and similar charges – (1,030)
+Unwinding of discount on provisions and other long-term liabilities (316) (713)
+Interest under hire purchase contracts and finance leases (3,865) (4,612)
+(3,289) (4,055)
+6 Tax on loss on ordinary activities
+2003 2002
+£’000 £’000
+Current tax
+UK corporation tax – prior year adjustment – 150
+Deferred tax (note 18)
+Origination and reversal of timing differences – (721)
+– (571) Notes to the financial statements (continued)
+40
+6 Tax on loss on ordinary activities (continued)
+The differences between the total current tax shown above and the amount calculated by applying the standard rate of UK
+corporation tax to the loss before tax is as follows:
+2002
+2003 (restated)
+£’000 £’000
+Group loss on ordinary activities before taxation (4,994) (92,416)
+T ax on Group loss on ordinary activities at standard UK corporation tax rate of 30 per cent (1,498) (27,725)
+Effects of:
+Expenses not deductible for tax purposes (467) 120
+Capital allowances in excess of depreciation (1,611) (593)
+Overseas losses not recognised 3,636 22,203
+UK losses not recognised – 5,995
+Adjustments to tax charge in respect of prior periods – 150
+Movement in short-term timing differences (60) –
+– 150
+7 Earnings before interest, taxation, depreciation and amortisation (EBITDA) 
+Continuing Discontinued
+Continuing Discontinued operations operations Total
+operations operations Total 2002 2002 2002
+2003 2003 2003 (restated) (restated) (restated)
+£’000 £’000 £’000 £’000 £’000 £’000
+Operating loss (7,189) – (7,189) (15,341) (8,936) (24,277)
+Exceptional cost of sales (1,886) – (1,886) –––
+Exceptional administrative expenses 2,171 – 2,171 5,083 – 5,083
+Operating loss before exceptional items (6,904) – (6,904) (10,258) (8,936) (19,194)
+Depreciation charge for the year 14,178 – 14,178 15,279 2,278 17,557
+Amortisation charge for the year 19 – 19 5 613 618
+EBITDA before exceptional items 7,293 – 7,293 5,026 (6,045) (1,019)
+Exceptional cost of sales 1,886 – 1,886 –––
+Exceptional administrative expenses
+– onerous leases (519) – (519) –––
+Adjustment to profit on sale of fixed assets in respect 
+of release from obligations under an IRU contract 1,966 – 1,966 –––
+Termination gain/(charge), net of impairment charges 
+and prior year provision – 749 749 –(11,012) (11,012)
+EBITDA 10,626 749 11,375 5,026 (17,057) (12,031)  41
+8 Staff costs
+The average monthly number of employees (including Executive Directors) was:
+2003 2002
+Number Number
+Administration 31 54
+Sales and support 201 284
+232 338
+Staff costs (including Directors’ remuneration) during the year were as follows:
+2003 2002
+£’000 £’000
+Wages and salaries 11,763 14,181
+Social security costs 1,481 1,799 
+Pension costs (note 30) 398 626
+13,642 16,606 
+The Group operates an Inland Revenue approved employee share option scheme and has taken advantage of the exemption
+given in UITF Abstract 17 ‘Employee share schemes’ from recognising a charge in the profit and loss account for the discount
+on the options.
+Remuneration paid to Directors is disclosed in the Remuneration report on pages 22 to 25 which forms part of these financial statements.
+9 Basic and diluted loss per share
+Basic and diluted loss per share is based on the loss for the financial year of £4,994,000 (2002: (restated) £91,845,000) and on the
+weighted average number of 10p ordinary shares in issue during the year to 31 August 2003 of 61,558,761 (2002: 61,531,950).
+Financial Reporting Standard 14 requires presentation of diluted earnings per share when a company could be called upon
+to issue shares that would decrease net profit or increase net loss per share. For a loss making financial period where there
+are outstanding share options, diluted loss per share would be increased by the exercise of out-of-the-money options.
+Since it seems inappropriate to assume that option holders would act irrationally , and since there are no other diluting items,
+diluted loss per share equals basic loss per share.
+10 Prior year adjustment
+On 27 March 2003 UITF 36 ‘Contracts for sale of capacity’ was released. The Group’s accounting policy in respect of sales 
+of IRU contracts has been revised to reflect the principles of UITF 36, under which the proceeds from transactions in capacity
+are reported as turnover in only very limited circumstances. For exchange or reciprocal transactions, turnover and gains 
+are recognised only if the assets or services have a readily ascertainable market value as defined in FRS 10 ‘Goodwill 
+and Intangible Assets’, and this readily ascertainable market value test is now added to the Group’s accounting policy .
+For non-reciprocal IRU transactions, subject to certain criteria being met, gains are recognised as a sale of fixed assets.
+The effects of the change in policy are summarised below:
+2003 2002
+£’000 £’000
+Consolidated profit and loss account
+Decrease in turnover – (3,571)
+(Increase)/decrease in cost of sales (1,893) 1,390
+Reduction in loss on termination of operations – 999
+Adjustment to profit on sale of fixed assets in respect of release from obligations under IRU contracts 1,966 –
+Decrease/(increase) in loss for the year 73 (1,182)
+Consolidated balance sheet
+Decrease in tangible fixed assets (883) (941)
+Decrease in debtors (226) (241)
+Decrease in net assets, being reduction in profit and loss reserve and shareholders’ funds (1,109) (1,182) Notes to the financial statements (continued)
+42
+11 Intangible fixed assets
+Goodwill Licences Total
+£’000 £’000 £’000
+Group
+Cost
+1 September 2002 3,283 4,201 7,484
+Exchange rate adjustment 295 361 656
+Disposals – (525) (525)
+31 August 2003 3,578 4,037 7,615
+Amortisation
+1 September 2002 3,283 4,090 7,373
+Exchange rate adjustment 295 361 656
+Charge for the year –1919
+Disposals – (525) (525)
+31 August 2003 3,578 3,945 7,523
+Net book value
+31 August 2003 –9292
+31 August 2002 – 111 111
+Company
+The Company has no intangible fixed assets
+12 Tangible fixed assets
+Telecom- Leasehold
+munications improve- Motor Plant and Office
+network ments vehicles equipment Computers furniture Total
+£’000 £’000 £’000 £’000 £’000 £’000 £’000
+Group
+Cost
+1 September 2002 (restated) 170,212 5,135 42 2,110 4,473 690 182,662
+Exchange rate adjustment 4,216 311 3 28 66 8 4,632
+Additions 10,82952–95213–11,189
+Disposals (2,199) ––––– (2,199)
+31 August 2003 183,058 5,498 45 2,233 4,752 698 196,284
+Depreciation
+1 September 2002 (restated) 85,115 4,104 42 1,410 2,023 409 93,103
+Exchange rate adjustment 4,216 311 3 28 66 8 4,632
+Charge for the year 12,850 327 – 343 552 106 14,178
+Impairment – continuing operations 1,448 – – 66 138 – 1,652
+Impairment reversal – discontinued operations (2,769) ––––– (2,769)
+Disposals (2,199) ––––– (2,199)
+31 August 2003 98,661 4,742 45 1,847 2,779 523 108,597
+Net book value
+31 August 2003 84,397 756 – 386 1,973 175 87,687
+31 August 2002 85,097 1,031 – 700 2,450 281 89,559
+Included in tangible fixed assets are hire purchase and leased assets with a net book value of £31,256,000 (2002: £33,778,000). 43
+12 Tangible fixed assets (continued)
+Leasehold Office
+improvements Computers furniture Total
+£’000 £’000 £’000 £’000
+Company
+Cost
+1 September 2002 1,274 2,279 257 3,810
+Additions 21 – – 21
+T ransfers to subsidiary companies – (2,279) – (2,279)
+31 August 2003 1,295 – 257 1,552
+Depreciation
+1 September 2002 380 641 90 1,111
+Charge for the year 260 – 52 312
+T ransfers to subsidiary companies – (641) – (641)
+31 August 2003 640 – 142 782
+Net book value
+31 August 2003 655 – 115 770
+31 August 2002 894 1,638 167 2,699
+13 Fixed asset investments
+Shares in
+subsidiary
+undertakings
+£’000
+Company
+Cost at beginning and end of year 2,550
+The Group owns 100 per cent of the ordinary share capital of the following principal subsidiaries:
+Name Principal activity Country of registration
+Fibernet UK Limited* Wide area network digital communication England and Wales
+Fibernet Holdings Limited* Holding Company England and Wales
+Fibernet Limited* Non-trading England and Wales
+Fibernet Quest Limited* Qualifying Employee Share Ownership T rust England and Wales
+Fibernet GmbH Wide area network digital communication Germany
+*Directly owned by the Company .
+14 Stocks
+Group Group Company Company
+2003 2002 2003 2002
+£’000 £’000 £’000 £’000
+Finished goods and goods for resale 262 1,701 – – Notes to the financial statements (continued)
+44
+15 Debtors
+Group 
+Group 2002 Company Company
+2003 (restated) 2003 2002
+Amounts falling due within one year £’000 £’000 £’000 £’000
+T rade debtors 5,512 5,436 – –
+Amounts owed by subsidiary undertakings – – 69,274 62,380 
+Other debtors 840 4,454 – 13 
+Prepayments and accrued income 4,073 2,817 291 274
+10,425 12,707 69,565 62,667
+Group Group Company Company
+2003 2002 2003 2002
+Amounts falling due after more than one year £’000 £’000 £’000 £’000
+Prepayments and accrued income 2,738 2,311 – –
+Accrued income at 31 August 2003 and 31 August 2002 includes turnover earned from WAN product sales due to be invoiced
+after the year end.
+16 Creditors: amounts falling due within one year
+Group Group Company Company
+2003 2002 2003 2002
+£’000 £’000 £’000 £’000
+Obligations under hire purchase contracts and finance leases 2,486 1,726 – –
+T rade creditors 2,351 5,835 19 526 
+Other taxes and social security costs 1,724 569 10 15 
+Accruals and deferred income 16,429 18,855 623 839 
+Corporation tax 150 150 150 150 
+23,140 27,135 802 1,530 
+17 Creditors: amounts falling due after more than one year
+Group Group Company Company
+2003 2002 2003 2002
+£’000 £’000 £’000 £’000
+Obligations under hire purchase contracts and finance leases
+– repayable between two and five years 9,504 9,907 – –
+– repayable in more than five years 23,338 26,723 – –
+Accruals and deferred income 6,754 3,022 – –
+39,596 39,652 – –
+For information on repayment terms and interest rates, see note 28.
+Finance leases are secured on the assets to which they relate.
+The Group leases a certain amount of its core network capacity from the UK business of Global Crossing. The US parent
+company of Global Crossing filed for chapter 11 bankruptcy on 28 January 2002. On 8 October 2003, it was announced
+that the Federal Communications Commission had approved Global Crossing’s application for transfer of control to
+Singapore T echnologies T elemedia. This was the last regulatory requirement which Global Crossing were required to satisfy
+to allow them to emerge from Chapter 11. Global Crossing are expected to emerge from Chapter 11 shortly .
+The Directors have prepared a contingency plan should all or an element of the capacity from Global Crossing 
+become unavailable. 45
+18 Provisions for liabilities and charges
+Future WAN Onerous Onerous
+Restructuring product lease commitments
+provisions sales costs provision provision Total
+£’000 £’000 £’000 £’000 £’000
+Group
+1 September 2002 3,541 3,247 620 – 7,408
+Charge to profit and loss account – 34 130 239 403
+Exchange rate adjustment 239 – – – 239
+Adjustment arising from discounting – 168 – – 168
+Utilised in year (3,985) (410) (291) – (4,686)
+Finance lease terminations 1,552 – – – 1,552
+Release to profit and loss account (749) (2,513) – – (3,262)
+31 August 2003 598 526 459 239 1,822
+The restructuring provision relates to the Group’s discontinued operations the majority of which will be satisfied within one year .
+The provision for WAN product sales costs represents the present value of future costs relating to WAN product sales.
+This provision will be settled over the next 22 years.
+The onerous lease provision relates to surplus office space. The provision will be utilised over the next three years.
+The onerous commitments provision relates to anticipated closure costs in respect of unprofitable DSL POPs (note 3).
+The provision will be utilised over the next two years.
+Deferred tax assets/(liabilities) recognised and potential are as follows:
+Provided Provided Potential Potential
+2003 2002 2003 2002
+£’000 £’000 £’000 £’000
+Group
+Accelerated capital allowances – (552) 161 (552)
+Other timing differences – – – 127 
+T ax losses available – 552 2,012 6,517 
+– – 2,173 6,092 
+There is also a potential deferred tax asset relating to the losses of the overseas subsidiaries of £76,145,000. As operations 
+in France are discontinued and only a relatively small element of the German activities are continuing, the losses are unlikely
+ever to be used and hence are more akin to a permanent tax difference for the Group. Consequently the tax effect of these
+losses has not been included within the table of potential deferred tax assets. The Group has not recognised its deferred tax
+assets due to the uncertainty as to their recoverability . Notes to the financial statements (continued)
+46
+19 Called up share capital
+1) Authorised and allotted share capital: ordinary shares of 10p each
+2003 2002
+Number Number
+Authorised 100,000,000 100,000,000 
+Allotted, called up and fully paid 61,558,761 61,558,761 
+2003 2002
+£’000 £’000
+Authorised 10,000 10,000 
+Allotted, called up and fully paid 6,156 6,156 
+2) Share options Share options have been granted to subscribe for ordinary shares of the Company as follows:
+i) Approved executive share option scheme
+Subscription
+Number of shares under option price per share Exercise period
+27,671 131p 03/06/00 – 02/06/07
+19,923 79p 19/12/00 – 18/12/07
+30,715 358p 08/06/01 – 07/06/08
+13,282 295p 24/12/01 – 23/12/08
+13,005 419p 03/06/02 – 02/06/09
+7,501 1183p 18/11/02 – 17/11/09
+50,147 1514p 15/06/03 – 14/06/10
+30,300 782p 03/01/04 – 02/01/11
+30,306 577p 02/05/04 – 01/05/11
+92,454 435p 22/11/04 – 21/11/11
+315,304
+ii) Unapproved executive share option scheme
+Subscription
+Number of shares under option price per share Exercise period
+168,517 358p 08/06/01 – 07/06/05
+11,068 295p 24/12/01 – 23/12/05
+36,802 419p 03/06/02 – 02/06/06
+107,687 1183p 18/11/02 – 17/11/06
+164,156 1514p 15/06/03 – 14/06/07
+183,800 782p 03/01/04 – 02/01/08
+97,883 577p 02/05/04 – 01/05/08
+158,546 435p 22/11/04 – 21/11/08
+141,861 105p 24/04/05 – 23/04/09
+300,000 20p 26/11/05 – 25/11/09
+1,370,320 47
+19 Called up share capital (continued)
+iii) Save As You Earn share option scheme
+Subscription
+Number of shares under option price per share Exercise period
+59,004 73p 01/04/03 – 30/09/03
+2,291 288p 18/07/01 – 17/01/04
+1,110 1544p 30/05/03 – 29/11/05
+586 601p 22/12/03 – 21/06/06
+1,841 462p 25/05/04 – 24/11/06
+16,361 274p 16/11/04 – 15/05/07
+206,822 87p 28/05/05 – 27/11/07
+398,405 17p 08/05/06 – 07/11/08
+686,420
+20 Reserves
+Share Profit
+Merger premium and loss
+reserve account account
+£’000 £’000 £’000
+Group
+At 1 September 2002 as previously stated (2,472) 155,369 (91,351)
+Prior year adjustment –– (1,182)
+At 1 September 2002 as restated (2,472) 155,369 (92,533)
+Loss for the year –– (4,994)
+Gain on foreign currency translation – – 30
+31 August 2003 (2,472) 155,369 (97,497)
+Share Profit
+premium and loss
+account account
+£’000 £’000
+Company
+1 September 2002 155,369 (71,510)
+Loss for the year –(1,130)
+31 August 2003 155,369 (72,640) Notes to the financial statements (continued)
+48
+21 Reconciliation of movements in shareholders’ funds
+Group Company
+£’000 £’000
+At 1 September 2002 as previously stated 67,702 90,015
+Prior year adjustment (1,182) –
+At 1 September 2002 as restated 66,520 90,015
+Loss for the year (4,994) (1,130)
+Gain on foreign currency translation 30 –
+31 August 2003 61,556 88,885
+22 Reconciliation of operating loss to net cash inflow/(outflow) from operating activities
+Group Group
+2003 2002
+£’000 £’000
+Operating loss (7,189) (24,277)
+Depreciation and amortisation 14,197 18,175
+Impairment 1,652 5,083 
+Decrease in stocks 1,439 450 
+Decrease in debtors 1,234 12,723
+Increase/(decrease) in creditors 1,022 (9,866)
+(Decrease)/increase in provisions for liabilities and charges (130) 1,395 
+Cash outflow from termination of operations (3,180) (5,665)
+Net cash inflow/(outflow) from operating activities 9,045 (1,982) 
+23 Returns on investments and servicing of finance
+Group Group
+2003 2002
+£’000 £’000
+Interest received 892 2,327 
+Bank interest and similar charges – (10)
+Interest under hire purchase contracts and finance leases (3,872) (4,612)
+Net cash outflow from returns on investments and servicing of finance (2,980) (2,295)
+24 Capital expenditure
+Group Group
+2003 2002
+£’000 £’000
+Purchase of tangible and intangible fixed assets (14,005) (56,612)
+25 Financing
+Group Group
+2003 2002
+£’000 £’000
+Issue of ordinary share capital – 233 
+Capital element of finance lease rental payments (1,476) (763)
+Net cash outflow from financing (1,476) (530) 49
+26 Reconciliation of net cash flow to movement in net debt
+2003 2002
+£’000 £’000
+Decrease in cash during the year (9,416) (61,419)
+Payments under finance leases 1,476 763
+Change in net debt resulting from cash flows (7,940) (60,656)
+New finance leases – (10,608)
+Termination of finance leases 1,552 8,159
+Movement in net debt during the year (6,388) (63,105)
+Net (debt)/funds as at beginning of the year (4,030) 59,075
+Net debt at end of year (10,418) (4,030)
+27 Analysis of net debt
+Termination
+1st September of finance 31st August
+2002 Cash flows leases 2003
+£’000 £’000 £’000 £’000
+Cash at bank and in hand 34,326 (9,416) – 24,910
+Hire purchase contracts and finance leases (38,356) 1,476 1,552 (35,328)
+(4,030) (7,940) 1,552 (10,418)
+28 Financial instruments
+1) Overview The Group’s financial instruments comprise finance leases and cash, and various items, such as trade debtors
+and trade creditors that arise directly from its operations. The main purpose of these financial instruments is to fund the
+Group’s operations.
+It is, and has been throughout the period under review , the Group’s policy that no trading in financial instruments shall 
+be undertaken.
+The main risks arising from the Group’s financial instruments are interest rate risk, liquidity risk and foreign currency risk.
+The Board reviews and agrees policies for managing each of these risks and they are summarised below . These policies 
+are periodically reviewed in line with changes to the Group’s financial circumstances.
+As permitted by Financial Reporting Standard 13 ‘Derivatives and other financial instruments’, short-term debtors and
+creditors have been excluded from the disclosures, other than the currency disclosures.
+i) Interest rate risk The Group finances its operations through a mixture of finance leases, operating cash flows and share
+issues. The Group had a net debt position at the year end. The Group does not consider that its current exposure to
+movements in interest rates is sufficient to necessitate hedging.
+ii) Liquidity risk The Group’s objective is to ensure adequate funding for its operations. The Group considers that it has
+sufficient funding for its short and medium-term funding requirements.
+iii) Foreign currency risk The Group’s operations are principally Sterling based. During the year the major exposure was 
+in respect to the translation of the net assets or liabilities of its subsidiaries.
+The UK operations involve certain purchases denominated in US Dollars and in Euros. The Group’s policy has been to settle
+these liabilities at the ruling spot rate. This policy is periodically reviewed in line with changes in exchange rates and
+expectations of future foreign currency transactions. Notes to the financial statements (continued)
+50
+28 Financial instruments (continued)
+2) Currency and interest profile of financial instruments
+i) Financial assets The Group’s financial assets were as follows:
+At 31 August 2003
+Non-
+Floating interest
+Total rate bearing
+£’000 £’000 £’000
+Cash at bank and in hand:
+Currency:
+Sterling 24,282 24,282 –
+Euros 615 123 492
+US Dollars 13 13 –
+Accrued income due after more than one year 176 – 176
+25,086 24,418 668
+At 31 August 2002
+Non-
+Floating interest
+Total rate bearing
+£’000 £’000 £’000
+Cash at bank and in hand:
+Currency:
+Sterling 33,862 33,682 180
+Euros 457 – 457
+US Dollars 7– 7
+Accrued income due after more than one year 391 – 391
+34,717 33,682 1,035
+The floating rate cash financial assets include those subject to fixed rates with a term of less than one year , as defined by FRS 13.
+Accrued income represents the amounts receivable in more than one year from customers that have not yet been invoiced.
+The benchmark rate for floating interest rates is a seven day London Inter-bank Bid Rate (LIBID).
+ii) Financial liabilities The Group’s financial liabilities were as follows:
+At 31 August 2003
+Weighted Weighted
+Floating average average
+Total Fixed rate rate interest period
+£’000 £’000 £’000 % Years
+Finance leases – Sterling 35,051 35,051 – 10 12.9
+– Euros 277 277 – 22.4 17.9
+35,328 35,328 – 51
+28 Financial instruments (continued)
+At 31 August 2002
+Weighted Weighted
+Floating average average
+Total Fixed rate rate interest period
+£’000 £’000 £’000 % Years
+Finance leases – Sterling 36,533 36,533 – 10 13.9
+– Euros 1,823 1,823 – 22.4 18.9
+38,356 38,356 –
+3) Maturity of financial instruments The maturity profile of the Group’s financial liabilities was as follows:
+2003 2002
+Finance Finance
+leases leases
+£’000 £’000
+Within one year , or on demand 2,486 1,726
+Between one and two years 2,209 2,039
+Between two and five years 7,295 7,868
+After five years 23,338 26,723
+35,328 38,356
+4) Fair values of financial assets and liabilities There is no material difference between the fair and book values of the Group’s
+financial assets and liabilities. Fair value is the amount at which a financial instrument could be exchanged in an arm’s length
+transaction between willing and informed parties, other than a forced liquidation sale and excludes accrued interest. Where
+possible market values are used to determine fair values.
+5) Currency exposure The following table shows the Group’s exposure to monetary assets and liabilities in currencies other
+than the local currency of the operating companies involved. Such monetary assets and liabilities can cause foreign
+exchange gains and losses, which are taken to the profit and loss account in the year in which they arise.
+31 August 31 August
+2003 2002
+£’000 £’000
+Functional currency of operation: Sterling
+US Dollar assets/(liabilities) (net) 23 (131)
+Euro (liabilities)/assets (net) (377) 9
+(354) (122)
+Functional currency of operation: Euro
+US Dollar liabilities (net) – (265)
+– (265) Notes to the financial statements (continued)
+52
+29 Financial commitments
+1) Operating leases The minimum lease payments under non-cancellable operating leases, due in the next financial year ,
+are as follows:
+Group Group
+2003 2003 2003 2002 2002 2002
+Land and Land and
+buildings Other Total buildings Other Total
+£’000 £’000 £’000 £’000 £’000 £’000
+Leases expiring:
+Within one year 42 1,592 1,634 11 2,569 2,580 
+Between two and five years 262 1,625 1,887 176 1,080 1,256 
+In more than five years 1,120 1,641 2,761 1,306 1,600 2,906 
+1,424 4,858 6,282 1,493 5,249 6,742 
+Company Company
+2003 2003 2003 2002 2002 2002
+Land and Land and
+buildings Other Total buildings Other Total
+£’000 £’000 £’000 £’000 £’000 £’000
+Leases expiring:
+Within one year ––– –––
+Between two and five years ––– –––
+In more than five years 432 – 432 453 – 453 
+432 – 432 453 – 453 
+2) Capital commitments The Group had contracted capital commitments of £10,007,000 at 31 August 2003 (2002:
+£12,771,000). The Company had contracted capital commitments of £3,752,000 at 31 August 2003 (2002: £10,952,000)
+entered into on behalf of subsidiary undertakings.
+The Company’s commitment comprises a call off commitment with one of the Group’s suppliers of network equipment,
+which is payable on or before 30 April 2006.
+3) Other commitments The Company has pledged to provide sufficient working capital resources to certain of its subsidiary
+undertakings in order to ensure that they can meet their debts as they fall due in the normal course of business.
+30 Pension commitments
+The Group operates a defined contribution company pension scheme and individual defined contribution personal pension
+schemes administered through insurance companies for all employees. Contributions for the year amounted to £398,000
+(2002: £626,000).
+31 Related party transactions
+There were no related party transactions during 2003 or 2002. 53
+Notice of Annual General Meeting
+Notice is hereby given
+that the 8th Annual General Meeting of Fibernet Group plc will be held on 17 December 2003 at 2 pm. The meeting will take place at
+Fibernet Head Office, Rosalind House, Jays Close, Viables, Basingstoke, Hampshire RG22 4BS for the following purposes:
+1 To receive the Financial Statements, together with the Directors’ and Auditors’ reports, for the year ended 31 August 2003.
+2 To appoint Deloitte & T ouche LLP as auditors to the Company until the conclusion of the next Annual General Meeting and to authorise
+the Directors to fix their remuneration.
+3 To receive and adopt the Remuneration Report for the year ended 31 August 2003.
+4 To re-elect Lady Robin Innes Ker , who retires by rotation as a Director .
+To transact any other ordinary business of the Company .
+As special business, to consider and if thought fit pass the following resolutions which will be proposed, as to resolutions 5 and resolutions
+8 to 11, as ordinary resolutions and, as to resolutions 6 and 7, as special resolutions:
+5 That the Directors be and they are hereby generally and unconditionally authorised in accordance with Section 80 of the Companies Act 1985
+to exercise all the powers of the Company to allot relevant securities (within the meaning of Section 80 of that Act) up to a maximum nominal
+amount of £2,000,000 and so that such authority (unless previously revoked or varied by the Company in general meeting) shall expire
+on the date of the next Annual General Meeting of the Company or 31 March 2004 (whichever is the earlier), save that the Directors may allot
+relevant securities pursuant to this authority after that date pursuant to an offer or agreement made by the Company on or before that date.
+6 That (subject to the passing of resolution 5 above) the Directors be and they are hereby empowered pursuant to Section 95 of the
+Companies Act 1985 to allot equity securities (as defined in Section 94 of that Act) pursuant to the authority conferred by resolution 5
+above as if Section 89(1) of that Act did not apply to any such allotment, provided that this power shall be limited to:
+6.1The allotment of equity securities in connection with or pursuant to an offer by way of rights to the holders of ordinary shares and other
+persons entitled to participate therein in proportion to their then respective holdings of ordinary shares, subject to such exclusions or
+other arrangements as the Directors may consider necessary or expedient to deal with fractional entitlements or legal or practical problems
+under the laws of any territory or the regulations or requirements of any regulatory authority or any stock exchange in any territory; and
+6.2The allotment (otherwise than pursuant to sub-paragraph 6.1 above) of equity securities up to an aggregate nominal amount of £300,000;
+and such power shall expire on the date of the next Annual General Meeting of the Company or 31 March 2004 (whichever is the earlier), but so
+that the Company may before such expiry make an offer or agreement which would or might require equity securities to be allotted after such
+expiry and the Directors may allot equity securities in pursuance of such offer or agreement as if the power conferred hereby had not expired.
+7 That the Company be and is hereby generally and unconditionally authorised to make market purchases (as defined by Section 163(3)
+of the Companies Act 1985) on the London Stock Exchange of ordinary shares of 10p each (“ordinary shares”) in the capital of the
+Company provided that:
+7.1 the maximum aggregate number of ordinary shares authorised to be purchased is 9,233,814;
+7.2 the minimum price which shall be paid for the ordinary shares is 10p for each share and the maximum price (exclusive of expenses)
+which may be paid for such shares is 5% above the average of the middle market quotations derived from the London Stock Exchange
+Daily Official List for the five business days before the purchase is made;
+7.3 unless previously renewed, varied or revoked, the authority hereby conferred shall expire on the date of the next Annual General
+Meeting of the Company or 15 months after the date of passing of this resolution (whichever is the earlier); and
+7.4 the Company may , before such expiry , make a contract to purchase its own shares under the authority hereby conferred which will
+or may be executed wholly or partly after the expiry of such authority , and may make a purchase of its own shares in pursuance of
+such a contract.
+8 That the rules of The Fibernet Group plc 2003 Long T erm Incentive Plan (“the Plan”), the main features of which are summarised in the
+circular accompanying the Notice of Annual General Meeting, dated 4 November 2003, in the form (or substantially in the form) of the
+draft produced to this meeting and initialled by the Chairman hereof for the purposes of identification, be and are hereby approved
+and that the remuneration committee of the Company be and it is hereby authorised to do all acts and things necessary or expedient  to
+carry the same into effect; and in addition that the remuneration committee be authorised to establish such further plans for the
+benefit of future employees outside the UK based on the plan subject to such modifications as may be necessary or expedient to take
+account of local tax, exchange control or securities laws in any one or more overseas territories.
+9 That subject to approval by the Inland Revenue, the rules of the Company’s 1996 Employee (Savings Related) Share Option Scheme
+be amended as follows:
+9.1The definition of Aggregate Option Price shall be amended to “the amount payable as consideration for the Shares to be issued or transferred
+upon the exercise of an Option in full, being the product of the Option Price and the number of Shares over which that Option subsists”.
+9.2 A definition of Employees’ Share Scheme shall be inserted which shall state “the meaning given to that expression by section 743 of
+the Companies Act 1985”. 54
+9.3 The definition of Option shall be amended to “a right to acquire Shares pursuant to this Scheme”.
+9.4 The definition of Option Price shall be amended to “the amount per Share payable on the exercise of an Option determined by the
+Board in accordance with Rule 2.2”.
+9.5 A definition of T rustees shall be inserted which shall state “the trustees of any trust created by the Company which, when taken
+together with this Scheme, constitutes an Employees’ Share Scheme”.
+9.6 Rule 3.2.4 shall be inserted and shall state “for the purpose of the limits contained in this rule 3:
+a) there shall be disregarded any Shares which the T rustees have purchased, or determined that they will purchase, in order to satisfy
+Options; and
+b) there shall be disregarded any Shares that the Company has purchased and holds, or has determined that it will purchase and
+hold, as treasury shares in order to satisfy Options”.
+9.7 Rule 6.2 shall be amended to state “Subject to receipt by the Company of the appropriate Option Price in full in cleared funds,
+within 30 days of receipt by the Company of the notice of exercise, the Board, on behalf of the Company shall allot or transfer , or
+procure the allotment or transfer to the Option Holder the number of Shares in respect of which the Option has been exercised”.
+9.8 Rule 10.5 shall be amended to state “The Company shall keep available for issue sufficient unissued Shares to satisfy in full all rights
+remaining exercisable under the Scheme which the Company has determined will be satisfied by the issue of Shares”.
+10 That subject to approval by the Inland Revenue, the rules of the Company’s 1996 Approved Executive Share Option Scheme be
+amended as follows:
+10.1 A definition of Employees’ Share Scheme shall be inserted which shall state “the meaning given to that expression by section 743 of
+the Companies Act 1985”.
+10.2 The definition of Option shall be amended to “a right granted to an Eligible Employee to acquire Shares pursuant to the Scheme
+and each right granted on a different date to the same Eligible Employee shall be treated hereunder as a separate Option but the term
+Option shall not include Surrendered Options”.
+10.3 A definition of T rustees shall be inserted which shall state “the trustees of any trust created by the Company which, when taken
+together with the Scheme, constitutes an Employees’ Share Scheme”.
+10.4 Rule 3.2.4 shall be inserted and shall state “for the purpose of the limits contained in this rule 3:
+a) there shall be disregarded any Shares which the T rustees have purchased, or determined that they will purchase, in order to satisfy
+Options; and
+b) there shall be disregarded any Shares that the Company has purchased and holds, or has determined that it will purchase and hold,as
+treasury shares in order to satisfy Options”.
+10.5.Rule 6.2 shall be amended to state “Subject to:
+(i) such consents as may be necessary; and
+(ii) compliance with the terms of the Option,
+the Company shall as soon as practicable but in any event within 30 days from the date of exercise of an Option as aforesaid, allot or transfer ,
+or procure the allotment or transfer , of the relevant Shares to the Option Holder and deliver to the Option Holder a definitive share certificate”.
+10.6 Rule 10.4 shall be amended to state “The Company shall keep available for issue sufficient unissued Shares to satisfy in full all
+rights remaining exercisable under the Scheme which the Company has determined will be satisfied by the issue of Shares, taking
+into account any further obligations of the Company to issue Shares”.
+11 That the rules of the Company’s 1996 Unapproved Executive Share Option Scheme be amended as follows:
+11.1 A definition of Employees’ Share Scheme shall be inserted which shall state “the meaning given to that expression by section
+743 of the Companies Act 1985”.
+11.2 The definition of Option shall be amended to “a right granted to an Employee to acquire Shares pursuant to the Scheme and
+each right granted on a different date to the same Employee shall be treated hereunder as a separate Option but (except for rule 4)
+the term Option shall not include Surrendered Options”.
+11.3 A definition of T rustees shall be inserted which shall state “the trustees of any trust created by the Company which, when taken
+together with the Scheme, constitutes an Employees’ Share Scheme”.
+11.4 Rule 3.2.4 shall be inserted and shall state “for the purpose of the limits contained in this rule 3:
+a) there shall be disregarded any Shares which the T rustees have purchased, or determined that they will purchase, in order to satisfy
+Options; and
+Notice of Annual General Meeting (continued) 55
+b) there shall be disregarded any Shares that the Company has purchased and holds, or has determined that it will purchase and hold,as
+treasury shares in order to satisfy Options” .
+11.5 Rule 6.2 shall be amended to state “Subject to:
+(iii) such consents as may be necessary; and
+(iv) compliance with the terms of the Option,
+the Company shall as soon as practicable but in any event within 30 days from the date of exercise of an Option as aforesaid, allot or transfer ,
+or procure the allotment or transfer , of the relevant Shares to the Option Holder and deliver to the Option Holder a definitive share certificate”.
+11.6 Rule 10.4 shall be amended to state “The Company shall keep available for issue sufficient unissued Shares to satisfy in full all
+rights remaining exercisable under the Scheme which the Company has determined will be satisfied by the issue of Shares, taking
+into account any further obligations of the Company to issue shares”.
+By Order of the Board
+Nick Bray
+Company Secretary
+Fibernet Group plc
+Rosalind House, Jays Close
+Viables, Basingstoke
+Hampshire RG22 4BS
+United Kingdom
+4 November 2003
+Notes to the Notice of Annual General Meeting
+1 Any member entitled to attend and vote at the above meeting is entitled to appoint one or more proxies to attend and, on a poll,
+to vote in his stead. A proxy need not be a member of the Company .
+2 Any form of proxy and power of attorney or other authority under which it is signed, or a notarially certified or office copy of such
+power or authority , in order to be valid, must reach the Company’s Registrars not less than 48 hours before the time of the meeting.
+Completion and return of the form of proxy will not preclude a member from attending and voting at the meeting.
+3 Persuant to Regulation 41 of the Uncertificated Securities Regulations 2001, only those members registered in the register of members
+of the Company at 2 pm on 15 December 2003 are entitled to attend and vote at the meeting in respect of the number of ordinary
+shares registered in their name at that time. Changes to entries in the register made after that time shall be disregarded in
+determining the right to attend and vote at the meeting.
+4 Copies of service contracts between the Directors and the Company or any subsidiary of the Company , and the register of Directors’
+shareholdings and transactions will be available for inspection at the registered office of the Company during usual business hours
+on any weekday (Saturdays and public holidays excluded) from the date of this notice until the date of the Annual General Meeting
+and at the place of the Annual General Meeting for at least 15 minutes prior to and until the conclusion of the Annual General Meeting.
+5 Explanation of the reasons for the adoption of the Long T erm Incentive Plan as detailed in ordinary resolution 7 above is provided in
+the Remuneration Report on Pages 22 to 25. In addition a summary of the terms of the Long T erm Incentive Plan is set out in the circular which
+accompanies the Notice of Annual General Meeting. Copies of the draft rules of the Long T erm Incentive Plan will be available for
+inspection at the offices of PricewaterhouseCoopers at Plumtree Court, London, EC4A 4HT during normal business hours on any
+weekday (Saturdays and public holidays excluded) from the date of this notice until the date of the Annual General Meeting and at
+the place of the Annual General Meeting for at least 15 minutes prior to and until the conclusion of the Annual General Meeting.
+6 Explanation of the proposed authority to purchase own shares as detailed in resolution 6 above is provided in the Directors' report
+on pages 20 and 21.
+7 The Board is seeking shareholders’ approval to make minor amendments to the rules of the SA YE and Executive Share Option
+Schemes, to enable market purchased shares to be used, where appropriate, to satisfy subsisting options granted under the schemes
+to aid flexibility across the Group's employee share incentive arrangements and to distinguish such shares from the dilution limits
+applicable to new issue shares which remain ABI compliant. These changes are put forward for approval by shareholders at the AGM
+and are tabled as items 9 to 11. 56
+How to find us
+Fibernet Head Office, Rosalind House, Jays Close, Viables, Basingstoke, Hampshire RG22 4BS
+From M3 – Junction 6 – from London
+At the main roundabout, Black Dam Roundabout, take the first left. At Hackwood Roundabout turn left, then at Venture Roundabout
+turn right taking the third exit, pass the petrol stations. At the next roundabout, Golden Lion Roundabout, turn left. Follow the road
+round through Viables Industrial Park for approximately 400m. Y ou will see Fibernet on the right hand side.
+From M3 – Junction 7 – from South Coast
+From the main roundabout, take the first exit towards Basingstoke – at mini roundabout (Sainsbury’s) go straight across. At Kempshott
+Roundabout, go straight across, then at the next roundabout, Brighton Hill Roundabout take the fourth exit into Harrow Way . At Viables
+Roundabout take the third exit into Jays Close, turn right at the end of the road and turn right into Fibernet’s car park.
+From M4 – Junction 11 – East and Reading
+Take the A33 towards Basingstoke. At the end of the A33, take the third exit at the first roundabout, at the second turn left. Continue
+along the dual carriageway , at the roundabout take second exit towards the M3 and town centre. At Black Dam Roundabout, turn right
+(third exit). At Hackwood Roundabout turn left, then at V enture Roundabout turn right taking the third exit, pass the petrol stations. At the next
+roundabout, Golden Lion Roundabout, turn left. Follow the road round through Viables Industrial Park for approximately 400m. Y ou will
+see Fibernet on the right hand side.
+By train
+Regular services from London Waterloo to Basingstoke. Fibernet’s office is a five minute taxi journey from the station. 03
+02
+7.3
+5.0
+EBITDA**
+£m
+03
+02
+5.0
+92.4
+Loss before tax
+£m
+Revenue*
+£m
+03
+02
+36.3
+36.7
+* From continuing operations
+** EBITDA is shown pre exceptional from continuing operations and is reconciled to operating loss in note 7 to the Financial Statements
+01 At a glance
+02 Chairman’s Statement
+04 Chief Executive’s Strategy Review
+08 A Consultative Approach
+10 Technical Expertise
+12 Lifetime support
+14 Financial Director’s Review
+18 Board of Directors
+20 Directors’ report
+22 Remuneration report
+26 Corporate Governance
+28 Directors’ responsibilities
+29 Independent auditors’ report
+30 Consolidated profit and loss account
+31 Consolidated balance sheet
+32 Company balance sheet
+33 Consolidated cash flow statement
+34 Notes to the financial statements
+53 Notice of Annual General Meeting
+Contents
+Designed by navyblue
+Photography by Nick David and Lee Funnell
+Printed by Nimmos
+Five year summary
+for the years ended 31 August
+2002
+1999 2000 2001 (restated) 2003
+£’000 £’000 £’000 £’000 £’000
+Results
+Turnover 14,596 41,808 54,547 39,505 36,348
+EBITDA before exceptional items 1,322 14,299 16,709 (1,019) 7,293
+EBITDA 1,322 14,299 16,709 (12,031) 11,375
+Operating profit/(loss) (2,232) 6,822 5,194 (24,277) (7,189)
+Pre tax profit/(loss) (4,593) 3,365 3,613 (92,416) (4,994)
+Profit/(loss) for the financial year (4,593) 3,365 2,892 (91,845) (4,994)
+Assets employed
+Fixed assets 41,000 77,348 116,052 89,670 87,779
+Net current assets/(liabilities) (5,191) 37,293 81,739 23,910 15,195
+Net assets 9,575 76,024 157,101 66,520 61,556
+Cash flows
+Net cash inflow/(outflow) from operating activities 3,531 17,836 26,140 (1,982) 9,045
+Capital expenditure 10,087 30,601 40,579 56,612 14,005
+Increase/(decrease) in cash 719 8,949 85,081 (61,419) (9,416)
+The results for 1999 to 2001 have not been restated to reflect the introduction of UITF 36 ‘Contracts for sale of capacity’. Fibernet Group plc Annual Report 2003
+Communicating our business…
+Fibernet Group plc Annual Report 2003
+Fibernet Group plc
+Rosalind House, Jays Close
+Viables, Basingstoke
+Hampshire RG22 4BS
+United Kingdom
+T +44 (0)1256 858685
+F +44 (0)1256 858601
+info@fibernet.co.uk
+www.fibernet.co.uk
+Fibernet GmbH
+Gutleutstr . 175
+60327 Frankfurt am Main
+Germany
+T +49 (0) 69 238 05 90
+F +49 (0)69 238 05 926
+info@fibernet.de
+www.fibernet.de

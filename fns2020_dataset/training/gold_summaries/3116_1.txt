@@ -1,0 +1,420 @@
+ “Given the industry
+endorsement of Celoxica’s
+technology in Accelerated
+Computing and the growth
+potential of that market
+the Group has adopted a
+re-balanced strategy. ”
+OVERVIEW
+2006 was an important year in Celoxica’s
+development. The emerging technologies of
+Accelerated Computing (AC) are being adopted
+by more markets as the benefits become
+compelling. Celoxica’s proprietary technology
+gives it a unique position to exploit this trend
+by providing our customers with a step change
+in computing power.
+Difficult conditions in the Group’s traditional
+market of Embedded System Level Design (ESL)
+constrained sales in 2006 and a restructuring
+programme was implemented post year end 
+to reduce headcount from 58 to 39. To
+complement the lower cost base a further
+funding round was initiated to give Celoxica 
+the resources needed to exploit a major growth
+opportunity in the AC market.
+STRATEGY
+Given the industry endorsement of Celoxica’s
+technology in AC and the growth potential 
+of that market the Group has adopted a 
+re-balanced strategy which focuses on the AC
+market while supporting the existing
+embedded customers. 
+The Group will continue to build its partner
+portfolio to secure complementary
+intellectual property (IP), technology and
+market access with the aim of providing the
+customer with a complete, easy to use
+solution for accelerated computing.
+Regular reviews are undertaken of proprietary
+IP and the value of any deemed non-core will
+be maximised through trade sale.
+MARKETS
+Accelerated Computing
+Large IT systems are increasingly subject to
+constraints on power consumption and
+consequent heat dissipation. The market
+trend is for faster processing of larger
+amounts of data at lower power consumption
+and capital cost. This issue is most acute in
+the Finance, Oil and Gas and Life Sciences
+markets and it is these sectors that Celoxica
+is targeting with solutions that can
+demonstrate performance increases of 10 to
+30 times that of existing microprocessors.
+Embedded Systems
+Whilst there remains a tangible worldwide
+demand for embedded design software tools,
+growth in the market slowed during 2006
+largely as a result of migration of design work
+to the Indian and Asia-Pacific regions. However,
+we continue to see our solutions applied in a
+large variety of applications. Our presence in
+the automotive sector increased and we
+continue to make good progress in a number of
+imaging markets where our products have
+always enjoyed strong appeal.
+PARTNERSHIPS
+Exploitation of the AC market will depend 
+on our key partner relationships with
+organisations in the semiconductor and
+computer systems industries, and within the
+world’s research institutes and universities.
+During the period the Group enhanced the
+relationship with two important partners,
+Xilinx and Altera, the dominant companies in
+the manufacture of FPGAs. We worked with
+Xilinx to ensure that we have the best joint
+software and silicon offering. We also
+teamed up with AMD to provide a processor
+offload solution for their high performance
+Opteron processor. Finally, we continue to
+invest in our partnership with Toshiba by
+offering development kits as a prototyping
+solution for ASIC designers.
+continued on page 4
+Celoxica Holdings plc Annual Report and Accounts 2006  page 3  
+Chief Executive’s review
+an important year 
+in Celoxica’s development At the hardware board and system level we have
+teamed with DRC Computer Corporation to
+provide a hardware and software plug-in
+accelerated computing solution for AMD
+Opteron based systems. This is an exciting
+development that matches Celoxica’s expertise
+in software with DRC’s excellence in the
+provision of plug-in hardware to provide a stand
+alone workstation solution. Within academia, we
+put in place a partnership with the Academy of
+Sciences of the Czech Republic (UTIA) research
+institute giving us ownership of important IP in
+relation to high-speed floating point
+calculations, a critical component of our
+accelerated computing strategy.
+CUSTOMERS
+Over 400 licenses of the core embedded design
+technology are in use in a number of
+application areas such as automotive,
+communications, consumer, imaging and
+industrial. We have also maintained a very
+strong academic programme with more than
+600 Universities counted as ongoing customers.
+The sales channel for AC is expanding showing
+firm engagements with many blue-chip
+customers in the Finance, Oil and Gas, and Life
+Sciences sectors. Typically, opportunities
+transition through a three stage commercial
+process: proof of concept, pilot study and
+production roll out. It is encouraging to note
+that many customers are now moving through
+the commercial process where in due course we
+expect to see significant revenue generation.
+PRODUCTS
+Celoxica sells computer acceleration. To put
+that acceleration into place customers buy our
+software design tool licenses, IP, hardware
+boards and consulting. During the year we
+continued to invest in the development of the
+product set. This has made it easier to
+integrate into customer solutions, further
+improving performance and adding new
+features that are critical for our customer base.
+In addition, following the collaboration 
+with UTIA we have been able to improve
+significantly the degree to which our technology
+accelerates calculations that are a critical
+component for finance (derivative calculations),
+oil and gas exploration (seismic analysis) and
+bioinformatics sequencing challenges.
+We have invested in our board support
+packages for partners such as Cray, DRC and
+SGI and also created a world class platform for
+accelerated computing of our own. This uses
+proprietary design to make our interface
+between the main processor and co-processor
+one of the fastest architectures in the industry.
+FINANCIALS
+Our financial performance reflects a
+reduction in the number of ESL market
+opportunities. Overall turnover fell 16% to
+£3.6m with a commensurate increase in
+losses. In January 2007 we completed the
+Placing of new ordinary shares, raising
+£2.9m, net of expenses. On 9 January 2007
+the Group announced a restructuring and, 
+as a result, implemented a cost reduction
+programme with expected net savings of
+approximately £2.0m per year compared 
+with the 2006 operating cost base of
+approximately £6.0m.
+MANAGEMENT AND STAFF
+During the year we had an average of 58
+employees. Following the completion of the
+restructuring the headcount has been reduced
+to 39 with an increased weighting now being
+given to AC development. I would like to
+express my appreciation to all employees for
+what has been a challenging year.
+OUTLOOK
+As we enter 2007 the Group is better
+positioned to exploit opportunities for the
+application of its technology in the AC
+market. Partner relationships with some of the
+most successful hardware and systems
+companies in the industry are in place and
+the level of customer interest is high. We will
+also maintain our momentum in the ESL
+market. In addition, we have realigned the
+Group to operate on a lower cost base and
+have established a much stronger platform for
+growth. We believe this will provide Celoxica
+the greatest chance of long term success and
+will lead to a positive outcome for the year.
+Ian Yeoman Chief Executive Officer
+page 4 Celoxica Holdings plc Annual Report and Accounts 2006
+Chief Executive’s review
+As we enter 2007 the Group
+is better positioned to
+exploit opportunities for the
+application of its technology
+in the AC market.
+Over 400 licenses of the
+core embedded design
+technology are in use in a
+number of application areas
+such as automotive,
+communications, consumer,
+imaging and industrial. FPGA based co-processors
+increase supercomputer and
+clustered server computing
+performance, reduce power
+consumption and lower the
+total cost of high performance
+computing ownership.
+Celoxica Holdings plc Annual Report and Accounts 2006  page 5
+Chief Executive’s review
+about us
+our business 
+& markets
+how we work –
+meeting future  
+design challenges
+Accelerated Computing is
+defined by the convergence of
+software programmable FPGAs,
+high speed interconnect and
+system level design tools. These
+technologies are changing the
+dynamics of high performance
+computing and collectively
+provide a compelling solution 
+to the challenges of compute
+intensive processing.
+In a complex data driven world, imagine what
+you could do with faster computing power:
+master global financial markets more quickly,
+be the first to harness new energy supplies,
+discover cures for diseases faster. That’s
+precisely what many of our Accelerated
+Computing customers are striving to achieve;
+exploit advances in computing technology to
+dramatically improve the timeliness and
+accuracy of their information based decision
+making, lower their business and investment
+risk and maximise profitability.
+Celoxica’s Accelerated Computing solutions
+enable government and industry to design
+and rapidly deploy FPGA based co-processors
+that accelerate the performance of their
+computing services. Our technology allows
+programmers and engineers to create
+application accelerators and utilize the latest
+developments in computer interconnect
+technology such as HyperTransport™.
+Because the co-processors are FPGA based,
+they can be programmed and reprogrammed
+as often as is required and will scale as
+application requirements change and grow. In
+addition and as the name suggests, the 
+co-processors work alongside and augment
+existing microprocessor technology. This
+means existing computation investment is
+assured and the FPGA co-processors add real
+and measurable value. Providing the financial and investment community 
+with accelerated computing solutions
+Chief Executive’s review
+page 6 Celoxica Holdings plc Annual Report and Accounts 2006
+Chance is not an option in
+today’s 24/7 financial world
+with traders and investors
+increasing their reliance upon
+very complex modelling and
+simulation techniques to
+mitigate risk and inform their
+investment strategies. Some 
+of the world’s leading banking
+and investment institutions
+are working with Celoxica to
+implement accelerated
+computing solutions that
+deliver ever more accurate
+multi-billion dollar investment
+information, more quickly and
+at a lower cost.
+ENTERPRISE CLASS 
+CO-PROCESSOR ACCELERATION
+Celoxica and Appro International Inc. have
+created an off-the-shelf FPGA co-processing
+solution for enterprise customers built on
+Appro’s XtremeServer and Celoxica’s
+co-processor card. Customer benchmarks
+demonstrate that this computing architecture
+addresses the need for significant performance
+improvement without associated power
+consumption and heat dissipation issues
+common in compute intensive applications.
+ACCELERATING HIGH DEFINITION 
+TV (HDTV)
+Taiwanese company Chunghwa Picture Tubes,
+Ltd (CPT) is using Celoxica technology to
+expedite the development of HDTV and
+advanced display technologies. Increasing
+product complexity, time-to-market pressures
+and evolving display standards motivated CPT
+to adopt technology from Celoxica to help
+deliver a high-definition future.
+“Appro is pleased to support AMD’s
+Torrenza Initiative and happy to support
+Celoxica’s family of accelerated
+computing solutions. This solution
+complements our existing XtremeServer
+products providing compiler and hardware
+interface support to enable FPGA-based
+co-processing for a wide range of high
+performance and enterprise computing.”
+Daniel Kim, CEO of Appro
+“We identified that we could successfully
+integrate design technology and IP from
+Celoxica as part of our overall product
+design strategy. By making use of
+Celoxica’s PixelStreams IP library we can
+almost immediately implement pre and
+post image processing on an RC340
+development board that supports the
+HDTV(p) standard.”
+Dr. Tai, Project Manager at TFT Business Unit, CPT “FAST, ACCURATE ANSWERS
+REPRESENT A HUGE TRADING
+ADVANTAGE AND LOWER
+INVESTMENT RISK. BY
+LEVERAGING CELOXICA’S
+ACCELERATED COMPUTING
+TECHNOLOGY OUR CUSTOMERS
+CAN QUICKLY HARNESS THE
+BENEFITS OF CO-PROCESSORS 
+TO DELIVER INFORMATION
+MORE QUICKLY THAN EVER
+BEFORE, INFORMATION THAT
+CAN DELIVER VALUABLE
+INVESTMENT IMPACT.”
+Ian Yeoman, CEO
+Celoxica Holdings plc Annual Report and Accounts 2006  page 7
+Chief Executive’s review Chief Executive’s review
+page 8 Celoxica Holdings plc Annual Report and Accounts 2006
+Global oil and gas companies
+are tapping into Celoxica’s
+Accelerated Computing
+solutions to improve the
+accuracy of their exploration
+data and systems. With multi-
+billion dollar investment
+decisions becoming increasingly
+complex and business critical,
+companies are strengthening
+their competitive advantage by
+accelerating compute intensive
+exploration applications, such
+as seismic data collection and
+analysis. These applications are
+ideally suited to the coprocessor
+acceleration technology
+provided by Celoxica.
+FPGA BASED 
+ACCELERATED COMPUTING
+Celoxica and SGI have teamed to deliver
+solutions for algorithm acceleration using
+FPGAs. SGI includes copies of Celoxica’s design
+software as part of its RASC high performance
+computing development kit. The reconfigurable
+FPGA chips can be programmed by a customer
+to optimize their specific tasks. Coprocessing
+systems offer orders of magnitude performance
+improvements at lower power and heat than
+conventional microprocessors alone. Applications
+that can benefit from this approach include
+image recognition, decryption, gene comparison,
+video format translation, and data compression
+to name a few.
+SAFETY AND SECURITY 
+WTH REAL-TIME IMAGE 
+RECOGNITION SYSTEMS
+Calsonic Kansei Corp. developed a new 
+drive-by-wire automotive system to reduce
+traffic accidents and gridlock on crowded
+freeways. The system uses Celoxica technology
+for on-board automotive intelligent
+transportation systems (ITS).
+The system captures and identifies a vehicle in
+real-time with more than double the
+performance, inherent adaptability and with
+lower power consumption than previous systems.
+Using license-plate recognition to calculate
+criteria such as distance and position, the system
+allows the driver to maintain a safe distance
+from a car in front. Connected to a car mounted
+CCD (charge-coupled device) camera, total
+processing time that included intensity
+conversion and color sorting was reduced form
+21.56ms to only 10.0ms.
+providing oil and gas companies with
+billion dollar investment information
+“Celoxica tools give RASC customers an
+easy-to-use programming environment for
+accelerating their C software algorithms
+using the parallel processing capabilities
+of FPGA without going through hardware
+description languages.”
+Steve Miller, former Chief Engineer,
+System Architecture, at SGI
+“FPGAs are a better choice than ASICs and
+Celoxica provided a distinct advantage by
+helping us to design and implement
+quickly the different design parameters
+needed by the project.”
+Mr. Masatoshi Arai, Manager, 
+Advanced Engineering Development Group,
+Calsonic Kansei Corp. Chief Executive’s review
+Celoxica Holdings plc Annual Report and Accounts 2006  page 9
+“WE BELIEVE THAT FPGA
+TECHNOLOGY WILL ALLOW US
+TO ACHIEVE MUCH GREATER
+PERFORMANCE LEVELS THAN
+ARE POSSIBLE WITH
+PROCESSOR-ONLY BASED
+SYSTEMS. INITIAL RESULTS
+HAVE BEEN VERY PROMISING,
+AND WITH OUR PARTNER
+CELOXICA, WE ARE LOOKING
+FORWARD TO CONTINUED
+PROGRESS IN THE AREA OF
+ACCELERATED COMPUTING.”
+Henri Calandra, HPC Team, Total

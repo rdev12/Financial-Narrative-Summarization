@@ -1,0 +1,267 @@
+ The 12 months to April 2005 have been excellent for Micro Focus
+with revenues up 19.3% to over $150 million. At the same time
+we have substantially improved both profit margins and the cash
+flows from our operations.
+We believe that our success is driven by the need for companies 
+to increase their agility while, at the same time, reducing costs 
+and minimising risk. This imperative has led many to look for ways
+to capitalise on their investment in legacy technology. As much 
+as 80% of an organisation’s software budget may be used to
+maintain and operate legacy applications which have traditionally
+been too inflexible to integrate with one another or with newer
+technologies. The lower cost of contemporary platforms combined
+with technical advances, such as security, flexibility and scalability,
+and the emergence of enabling technologies, such as Web Services
+and service-oriented architectures, has driven many organisations
+to look for ways to re-use their legacy investments.
+Organisations seeking to modernise their IT infrastructure
+broadly have the following alternatives:
+l Improve the development infrastructure for their current
+applications and platforms by increasing developer productivity
+and lowering development costs. We refer to this as Leverage
+and Extend;
+l Extend critical legacy applications and services on current
+platforms to new internal and external user communities by
+using the Internet and contemporary architectures, also part 
+of Leverage and Extend;
+l Move legacy applications from current high-cost or end-of-
+life platforms, such as the mainframe, to more contemporary,
+open and flexible platforms, such as Windows, UNIX and Linux.
+We refer to this as Lift and Shift™; and
+l Replace legacy applications on mainframes with new
+packages or new custom-built applications which run on more
+contemporary, open and flexible platforms, such as Windows,
+UNIX and Linux, often referred to in the industry as Rip 
+and Replace.
+Our legacy application development and deployment software,
+described in the technology review on pages 5 to 6, enables 
+our customers to improve their development infrastructure, 
+to extend legacy applications to new users and to move them 
+to contemporary platforms. We believe that the high costs and
+risks associated with large-scale replacement projects are rarely 
+viable in today’s climate of tight cost and risk management 
+and are, in most instances, unnecessary.
+Customers
+We sell our software through three channels:
+l Direct customers buy our software to maintain and 
+operate core legacy business applications and pay licence 
+and maintenance fees direct to us;
+l Indirect customers buy our software and pay licence and
+maintenance fees through packaged application providers 
+and systems integrators; and
+l Resellers sell Micro Focus software in geographic areas
+where Micro Focus does not have a presence.
+Micro Focus International Plc Annual report 2005 7
+Chief Executive Officer’s review of operations
+Micro Focus in education
+“We were able to preserve our investment 
+in COBOL at low cost and risk because our
+programmers were able to become productive
+so quickly. Leveraging and extending our 
+legacy system was the best option for us, 
+and Micro Focus helped us preserve the 
+value of our legacy investment.”
+John Elliott, Director of Information Technology, Campus Partners Strengths
+Our technology and resources enable businesses to extract 
+value from legacy applications, platforms and architectures 
+in a continually, and rapidly changing, IT environment. Below 
+I highlight the key strengths of the Company which I believe
+place Micro Focus in a unique position to help IT organisations
+across the globe to reduce costs, increase agility and minimise
+risk by leveraging their legacy assets.
+We have deep technical understanding of legacy technologies
+(for example, CICS, IMS, PL/I, Assembler, COBOL, DB2, Rexx, 
+JCL and TSO) combined with that of contemporary platforms,
+(Windows, UNIX and Linux) and architectures (.NET, J2EE and
+Web Services). Our collaboration with specialist technology
+partners supplements this knowledge, giving us and our
+customers access to expertise in legacy technologies, such 
+as Natural, Adabas, IDMS and RPG.
+Our expertise, developed over 30 years, with a strong record of
+technology innovation in legacy development and deployment
+solutions, has resulted in more than one million licensed users 
+of our software around the world. Our customers include more 
+than 70 of the Fortune Global 100 companies. They include
+companies who operate in a wide range of industry sectors,
+including financial services, insurance and government, of
+varying sizes and over a wide geographic area. Approximately
+49% of our turnover is derived from North America, 38% from 
+Europe and the Middle East, and 13% from the rest of the
+world. No single customer dominates. Because our products 
+are deeply integrated into our customers’ core IT systems, 
+we have been able to create and maintain long-term
+relationships with them. 
+We have developed a strong platform, technology, service and
+application partner ecosystem to expand our ability to develop,
+market and distribute our products, and to further support our
+customers’ legacy modernisation initiatives. For example: 
+l Micro Focus is a member of the IBM Partnerworld
+programme. We are a Microsoft Gold Certified Partner and 
+a premier member of Microsoft’s Visual Studio Industry Partner
+programme. In 2004, we jointly announced the formation of 
+the MMA with Microsoft;
+l We founded the Migration and Transformation Consortium,
+a global network of companies which specialises in modernising
+legacy systems with a combination of our software, specialist
+technology and legacy expertise;
+l Systems integrators such as Accenture, CSC and EDS work
+with us to provide migration and deployment services which 
+use our Lift and Shift™ software to minimise the risk of moving
+customers’ applications to a contemporary platform; and
+l Our application partners offer a range of packaged
+applications which feature the latest technology innovations and
+which can be implemented across a wide range of mainframe
+and contemporary platforms.
+8 Micro Focus International Plc Annual report 2005
+Chief Executive Officer’s review of operations
+Innovative
+We have a strong record, based on
+30 years’ experience, of developing
+legacy and deployment solutions to
+enable customers to evolve, rather
+than replace, their technology.
+Micro Focus in financial services
+“With Net Express, CNB has shown that they
+can easily exchange data across legacy and
+new systems, minimising the disruption of
+acquisitions while gaining agility to meet 
+new business requirements as they emerge.”
+Ed Proud, Vice President Information Systems, County National Bank Long-term customer relationships have resulted in a relatively
+stable stream of revenue from recurring maintenance fees, as
+well as from licence fees from packaged application providers. 
+Around 44% of our revenue is derived from maintenance
+contracts and, in the year ended 30 April 2005, around 90% of
+our customers in the US, the UK and Germany (which together
+accounted for approximately 75% of our total maintenance 
+fee revenue) renewed their contracts with us. 
+Our senior management team has more than 110 years’
+combined experience in the software industry. Our technical
+teams, who come from diverse backgrounds, are application,
+platform and software engineering experts, and often choose 
+to stay with us for many years. This stability, combined with our
+expertise, gives us a strong basis on which to execute our strategy.
+Strategy
+Our objective is to be the leading global provider of legacy
+development and deployment software. We believe we will
+achieve this with the strategies outlined below.
+We will endeavour to strengthen relationships with existing
+customers by promoting our complementary Leverage and 
+Micro Focus International Plc Annual report 2005 9
+Micro Focus in energy 
+“As we move proprietary credit card
+programmes to a services-based
+technology environment, Valero needed
+a solution that would allow for a phased
+low-risk approach. One that took
+advantage of existing COBOL assets.”
+Steve DiPaola, Vice President of Administrative Systems
+and Production Support, Valero Energy Corporation
+Global diversity
+More than one million users
+around the world are 
+licensed to use our software: 
+our customers include more 
+than 70 of the Fortune
+Global 100 companies.
+85% OF ALL TRANSACTIONS
+ARE PROCESSED BY LEGACY
+APPLICATIONS. Extend and Lift and Shift™ solutions. We believe that
+opportunities also exist to help systems integrators develop 
+and deploy their own legacy applications.
+The market for mainframe migration is expanding rapidly. 
+We have been involved in more than 20 Lift and Shift™ projects
+since we launched the software in April 2004. We aim to 
+increase awareness of this solution through marketing and 
+by establishing alliances with large systems integrators, and
+software and hardware vendors, including members of the
+MMA. The increasing level of interest from customers and the
+growth in the average size of projects is, we believe, evidence
+that the market for mainframe migration continues to grow.
+We aim to increase indirect sales through packaged application
+providers, systems integrators and resellers by strengthening
+existing relationships with key industry players, such as
+Accenture, EDS and CSC, and by developing new relationships
+with other industry leaders. We intend to continue to 
+10 Micro Focus International Plc Annual report 2005
+Focused
+Our objective is to become
+the leading global provider
+of legacy and deployment
+software. Our common-
+sense approach to upgrading
+customers’ IT drives the
+realisation of this ambition.
+Micro Focus in retail
+“The migration to a Micro Focus environment
+under Windows has enabled us to re-allocate
+the $150,000 we saved by slashing our IT
+budget into business development.
+We expect to experience a dramatic rise 
+in productivity due to the enhanced
+capabilities and increased efficiencies of 
+the system, which has already enabled 
+us to boost customer service and create 
+better methods to market our products.”
+Léo Théberge, CIO, Québec Loisirs
+$1 TRILLION INVESTMENT IN 
+LEGACY OVER LAST 30 YEARS. focus on selling software licences, and the associated
+maintenance, and to rely on our systems integrator partners 
+for professional services. 
+We endeavour to continue to develop innovative technology
+and we will further invest in expanding the features and
+functionality of our technology and products. We intend to
+maintain a leading position in our market for legacy application
+development and deployment software by co-operating with 
+our partners to expand the coverage of our technologies 
+and products.
+We intend to pursue selected technology-based acquisitions 
+to take advantage of the growing mainframe migration market.
+This will enable us to ensure that our technologies cover all the
+necessary legacy and contemporary architectures, platforms and
+applications. Any acquisition will be incremental and will be
+selected to supplement existing products and to expand our
+customer base.
+Helping customers compete in a global economy
+We help customers meet new industry regulations (such as 
+Basel II and Sarbanes-Oxley) and add value to their businesses 
+by enabling them to re-use and extend their legacy investments
+to new internal and external user communities. Our software
+increases the agility of their systems and the effectiveness of
+their employees with minimum risk.
+Micro Focus Leverage and Extend reduces development costs 
+by using available skills and platforms efficiently, and increases
+agility through the use of development tools, based on Windows,
+to extend legacy applications to J2EE, .NET or Web Services.
+Micro Focus Lift and Shift™ lowers hardware and software 
+costs by migrating legacy applications to modern, open and
+extensible platforms. Lift and Shift™ is underpinned by 
+extensive support for mainframe applications on contemporary
+Windows, UNIX and Linux platforms. Because of this, many
+applications can be migrated in a fraction of the time it would
+take to build a new application or to implement a new
+commercial package.
+We are committed to helping organisations protect their
+investment in legacy applications. With the help of our
+technology and over 50 active partners, more than 5,000
+customers have already leveraged their legacy assets.
+Dr Anthony Hill Chief Executive Officer
+3 August 2005
+Micro Focus International Plc Annual report 2005 11
+Chief Executive Officer’s review of operations
+Partnerships
+We have developed an application
+partner system to expand 
+our ability to develop, market 
+and distribute our products and 
+to support our customers’ legacy
+modernisation.
+Micro Focus in partnership
+“Micro Focus and Microsoft have helped
+us position INGENIUM to a wider 
+range of customers without sacrificing 
+the security or scalability we enjoy on the
+mainframe version, which many of our
+customers continue to use. It truly is the
+best of both worlds.”
+Blair Goulet, Senior Vice President, Strategy and Global Initiatives,
+SOLCORP

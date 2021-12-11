@@ -1,0 +1,273 @@
+ System C | annual report and financial statements 2008 8
+System C has performed well this 
+year and I am pleased to report 
+that we have made progress in 
+each area of our business. Group 
+revenues increased 34% to 
+£18.1m, profit from operations 
+increased to £2.4m (2007: 
+£0.6m), and we closed the year 
+with a strong net cash balance 
+of £12.4m (2007: £10m). A large 
+proportion of the revenue growth 
+(£3.7m) was organic and the cash 
+balance was net of the £1.8m 
+consideration paid for acquisitions 
+during the year. 
+chief executive officer’s review
+Since the early days of the National Programme for 
+IT when System C was focused on a small number 
+of key customers, the Group has worked hard to 
+increase the breadth and diversity of its client base. 
+2007/8 saw good progress in this respect with 
+additional product sales, a significant move into 
+the independent healthcare sector and the Group 
+securing two major new services clients.
+One of the key strengths of our business is that we 
+combine a substantial and experienced services delivery 
+capability with a broad, high quality product range. 
+Our Product and Services divisions work together 
+to maximise the cross-sharing of knowledge about 
+delivery, workflow methodologies, technical skills and 
+deployment, and we have continued to apply this 
+combined resource to the benefit of our clients. For 
+example, during 2007/8 we used our MedWay product 
+design skills in support of NPfIT projects, while our 
+Services deployment teams helped implement MedWay 
+and other systems. The entire Group benefits from 
+this synergy, and it has contributed to the creation of 
+an efficient and cost-effective delivery service able to 
+handle complex and high volume projects. 
+Services and delivery capability
+Revenue from our Services Division grew 23% to £12.3m 
+in the year due to new business and increased demand 
+from existing customers.
+The Services division has continued to enhance its 
+reputation for taking on and resolving the most complex 
+issues. The team has delivered over 200 work packages 
+in the course of the year, providing help in areas ranging 
+from training to data migration. With new contract wins 
+in London, the Group has achieved full national coverage 
+for the first time. The Group’s experience across care 
+settings continues to grow. The team has worked 
+extensively with acute hospitals, primary care trusts, GP 
+practices, diagnostic centres, ambulance trusts and a 
+broad range of clinical departments. annual report and financial statements 2008 | System C 9
+chief executive officer’s review
+The major services contract signed with NHS Connecting 
+for Health (“CFH”) in May 2007 continues to progress 
+well, and CFH has recently signed a 12 month extension. 
+In addition, services staff continue to work for Local 
+Service Providers (“LSPs”) and NHS trusts across the 
+country supporting all aspects of National Care Record 
+System (“NCRS”) deployments.
+Outside of the National Programme, the division 
+worked in support of the Government’s Independent 
+Sector Diagnostics Programme by delivering a complex 
+patient management and imaging system to 28 static 
+and mobile sites across London. It is now working on a 
+similar project for PET/CT imaging (“Position Emission 
+Tomography and Computed Tomography”).The 
+division is also providing direct services support to the 
+companies acquired by the Group and, in an example 
+of the synergies between System C and its acquisitions, 
+is now providing significant levels of consultancy and 
+deployment support to the new clients brought into the 
+Group when the companies were purchased.
+Launch of Perigon Consulting
+In March 2008 we launched Perigon, a new consultancy 
+service aimed at helping healthcare organisations meet 
+the challenges posed by the Government’s reform 
+agenda. This service utilises the clinical and healthcare 
+management skills and experience of our employees, 
+but its remit extends beyond IT to the broad operational 
+issues associated with clinical change and service 
+improvement. Perigon’s focus is on improving services 
+to patients through innovative clinical practice and 
+associated business efficiencies. Areas of specialisation 
+include the design and delivery of clinical assessment 
+services, the redesign of clinical and business processes 
+and public/employee engagement, a key component in 
+the delivery of clinical assessment services.
+This new offering has been formed by combining the 
+expertise of Perigon Healthcare, an existing independent 
+healthcare consulting partnership specialising in 
+‘future state’ healthcare development, with System C’s 
+healthcare consulting service. Perigon operates as a 
+division of System C Healthcare, and has access to all of 
+System C’s people and resources.
+This initiative has already secured its first contracts and 
+Perigon promises to develop into a significant new line 
+of business in the coming years.
+Products
+Revenues within the Products division grew by £2.3m 
+to £5.8m in the year, driven both by organic growth of 
+£1.4m (40%) and by the IQ and Care Records acquisitions 
+which together contributed £0.9m of revenue.
+During 2007/8, the Product teams focused on the 
+deployment and support of existing healthcare products 
+and on the development of the new generation 
+Medway Sigma product range.
+In November 2007, our product and Services divisions 
+combined to deliver our own MedWay Electronic Patient 
+Record system to Nobles and Ramsey hospitals on 
+the Isle of Man. This was the first phase of the Group’s 
+£7.5m 5-year contract to computerise healthcare across 
+the island and included PAS, Accident and Emergency, 
+maternity, document tracking, data warehouse and 
+reporting systems. This was an extremely successful 
+deployment, delivered on time and within budget in just 
+eight months, and brought the Group significant positive 
+publicity in the UK market.
+We continue to support our existing clients with our 
+MedWay software suite and have made many significant 
+improvements to the product over the course of the year, 
+including a new service to support the government’s 18 
+week Referral to Treatment Time (“RTT”) programme, 
+enhanced support for clinicians via the integration of the 
+Map of Medicine, and the integration of clinical systems 
+such as electronic prescribing and maternity.
+> System C | annual report and financial statements 2008 10
+< 
+Product development
+System C recognises the value of continuous 
+development of its healthcare products and has taken 
+advantage of the Group’s strong financial position to 
+expand its development programme at a time when 
+many UK healthcare systems providers have curbed 
+their investment.
+The software development teams continue to 
+make excellent progress with the redevelopment 
+of the healthcare software suites into Microsoft .net 
+technologies. Most of the modules have now been 
+completed on schedule and within budget and the first 
+Patient Administration modules (master patient index, 
+emergency care, electronic casenote, clinical coding, 
+clinical letters, patient tracking and data warehouse) 
+were installed in June 2008, three months earlier than 
+planned. The new systems are performing well 
+and are popular with clinical, administrative and 
+management users. The upgraded product is known 
+as Medway Sigma.
+The move to a Microsoft based.net system is a significant 
+achievement with many important benefits. The 
+development provides full integration with Microsoft’s 
+core product set (including SQL Server, Exchange, 
+Office Communications Server, Office, SharePoint and 
+PerformancePoint), and gives users all of the benefits 
+of these products from within Medway Sigma software. 
+Medway Sigma also becomes the first trust-wide product 
+available in the UK to standardise on the new Common 
+User Interface (“CUI”) developed jointly by Microsoft 
+and the NHS. The look and feel of the new product 
+set is clean and modern and adherence to Microsoft 
+and CUI standards means that the solutions are 
+familiar to NHS users. This has the benefit of reducing 
+training requirements for customers whilst enhancing 
+functionality and usability.
+Appointed supplier under Additional Services 
+Capacity and Capability Contract (“ASCC”)
+In April 2008 System C secured a major framework 
+agreement to provide a range of IT products and 
+services to the NHS.
+The business was successful in all of the 16 categories 
+that it bid for, and now holds framework contracts for its 
+PAS, maternity and A&E systems, as well as for a wide 
+range of clinical software. System C was also successful 
+in its bid to provide associated consultancy services such 
+as deployment, data migration, training and interfacing 
+for all of the above. Winning these contracts gives the 
+Group a significant advantage in the English market.
+The new ASCC framework contracts are for a four year 
+duration. They will allow NHS organisations and other 
+NHS-funded establishments, such as Independent 
+Treatment Centres, a faster and easier route to procure 
+IT systems and services from suppliers who have 
+demonstrated experience in the health sector. ASCC can 
+be used to support both NPfIT related work and wider 
+IT-related projects.
+Acquisitions
+Our strategy is to identify acquisition opportunities 
+which meet our stringent investment criteria and provide 
+System C with new clients in related markets and/or 
+strategic technologies for use within our Medway Sigma 
+product range.
+We acquired IQ Systems Services Ltd in July 2007 for 
+a cash consideration of £0.9m with further amounts 
+payable on achievement of specific performance criteria. 
+This company develops and markets the IQUtopia 
+patient management and clinical system to independent 
+treatment centres. The acquisition has furthered  
+System C’s expansion into the private healthcare market 
+and the synergies between IQ and the Group has also 
+meant that System C staff are now contracting directly 
+with IQ clients. Our focus on strengthening IQ’s business 
+development activities has led to considerable interest 
+in the product range from private healthcare providers in 
+the UK and overseas. 
+ 
+chief executive officer’s review annual report and financial statements 2008 | System C 11
+Our strategy
+Over the last two years, we have consolidated our 
+position as one of the UK’s premier healthcare IT services 
+supplier, and have developed an excellent reputation for 
+the delivery of complex IT solutions in both the public 
+and the private sectors.
+We are also expanding our consultancy services into 
+general healthcare consulting, leveraging our skills and 
+experience in clinical and healthcare management. In 
+parallel, we have completed a significant redevelopment 
+of our product range that positions us well for future 
+patient management and clinical systems sales 
+opportunities both in the UK and overseas.
+We continue to evaluate acquisition opportunities 
+to enhance our consulting, services and products 
+businesses on a selective basis.
+These are exciting times, with considerable 
+opportunities for expansion, and we would like to thank 
+our customers, our employees and our shareholders for 
+their continued support.
+Care Records Ltd was acquired in January 2008 for a cash 
+consideration of £0.9m with additional amounts payable 
+on the achievement of specific performance criteria. 
+Care Records is a developer of leading-edge technology 
+for the design and development of clinical IT systems. 
+It has used this core technology to produce the Eclipse 
+maternity system and a diabetes management system, 
+both of which have been installed in UK hospitals. 
+Further clinical modules are currently 
+under development.
+The Care Records clinical products are in the process 
+of being integrated into the Medway Sigma product 
+set and will advance the availability of extended clinical 
+functionality into Sigma by several years.
+Key performance indicators (KPIs)
+The Directors believe that the KPIs of the business are 
+revenues, average revenue per head, gross margins, 
+operating profit margins, earnings per share and cash 
+generation. This information is summarised below:
+chief executive officer’s review
+ Year ended 31 May 2008 2007
+ Revenue £18.1m £13.5m
+ Average revenue per head
+1
+ £101,685 £85,816
+ Gross margin
+2
+ 55% 47%
+ Margin on profit from operations
+3
+ 13% 4%
+ Basic EPS 2.56p 1.09p
+ Net cash balance £12.4m £10m
+ Cash generated from operations £4.5m £2.1m
+Note 1:   Average revenue per head is defined as the total revenue
+in the year divided by the average monthly number of employees.
+Note 2:  Gross margin is defined as gross profit divided by total revenue.
+Note 3:   Margin on profit from operations is defined as the profit from
+operations divided by total revenue.
+Additional comments on the movement in the Group’s 
+KPIs is contained within the Financial Review.
+The Board sets target measures and monitors progress 
+against these measures, and other operational 
+measures on a regular basis.

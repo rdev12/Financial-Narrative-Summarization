@@ -1,0 +1,2469 @@
+ AUSTRALIA_BRAZIL_CHINA_FRANCE_HONGKONG_INDIA_ITALY_LEBANON_MALAYSIA_MEXICO_PORTUGAL_SOUTH AFRICA_SPAIN_SWEDEN_SWITZERLAND_TAIWAN_UK_USA
+Intec Telecom Systems, Wells Court 2, Albert Drive, Woking, Surrey GU21 5UB  UK
+tel: +44 (0)1483 745800  fax: +44 (0)1483 745860  e-mail: info@intec-telecom-systems.com
+web: www.intec-telecom-systems.com
+Annual report and accounts
+2002
+Intec Telecom Systems PLC Report & Accounts 2002 Officers, professional advisers and shareholder information
+DIRECTORS
+Michael Frayne Executive Chairman
+Kevin Donald Adams Chief Executive Officer
+John Lawrence Arbuthnott Finance Director
+Edward Morrison Astle Non-executive Director
+Gordon Crawford Non-executive Director
+Roger Steven McDowell Non-executive Director
+COMPANY SECRETARY
+Jean Barbara Exelby
+REGISTERED OFFICE
+Wells Court 2
+Albert Drive
+Woking
+Surrey GU21 5UB
+PRINCIPAL BANKERS
+The Royal Bank of Scotland plc
+62-63 Threadneedle Street
+London EC2R 8LA
+SOLICITORS
+Travers Smith Braithwaite
+10 Snow Hill
+London EC1A 2AL
+BROKER
+Robert W Baird Ltd
+Mint House
+77 Mansell Street
+London
+E1 8AF
+REGISTRARS
+Capita IRG Plc
+Bourne House
+34 Beckenham Road
+Beckenham
+Kent BR3 4TU
+AUDITORS
+Deloitte & Touche
+180 Strand
+London
+WC2R 1BL
+www.intec-telecom-systems.com
+Total commitment to providing
+the world’s best Operations
+Support Systems 
+1 Financial Highlights
+2 Executive chairman’s statement
+4 Chief executive’s statement 
+and review
+10 Finance directors’ review
+15 Board of Directors
+16 Corporate governance
+20 Report by the Board to
+shareholders on Directors’
+remuneration
+24 Product review
+27 Directors’ report
+29 Statement of Directors’
+responsibilities
+30 Independent auditors’ report
+31 Consolidated profit and 
+loss account
+32 Consolidated statement of total
+recognised gains and losses
+32 Reconciliation of movements in
+consolidated shareholders’ funds
+33 Consolidated balance sheet
+34 Company balance sheet
+35 Consolidated cash 
+flow statement
+36 Notes to the cash 
+flow statement
+37 Notes to the accounts
+56 Trading record
+57 Officers, professional advisers
+and shareholder information Financial highlights
+Page_1 Intec Telecom Systems PLC Annual report and accounts 2002
+Revenue increased by 19%
+EBITDA increased by 9%
+Operating cash inflow of £2.8 million
+Customer base grown by 34% to 272
+Successful conclusion of two competitor acquisitions
+New products brought successfully to market
+2002 2001 %
+Note £’000 £’000 change
+Revenue 47,474 39,798 +19.3%
+EBITDA before exceptional items i 3,739 3,414 +9.5%
+Operating loss (13,325) (140,046)
+Basic loss per share (7.94p) (80.21p)
+Adjusted earnings per share ii 0.46p 1.14p
+• Million pound plus contracts signed with COLT Telecommunications and SBC
+• Successful acquisitions concluded for two major competitor business units, at ICL and Ericsson
+• Agreement reached with BT plc on patent litigation, in favour of Intec with no settlement costs, 
+IPR or product impacts
+£’000 £’000
+Notes to the Financial Highlights
+i Total operating loss (13,325) (140,046)
+Depreciation 1,745 1,380
+Amortisation of goodwill and other intangibles 7,079 8,680
+Impairment of goodwill 7,464 133,400
+Exceptional item (Poland debtor provision) 776 –
+EBITDA before exceptional items 3,739 3,414
+ii Adjusted earnings per share calculation based on the following adjusted earnings after tax:
+Loss after tax (14,782) (140,371)
+Amortisation of goodwill and other intangible assets 7,079 8,680
+Impairment of goodwill 7,464 133,400
+Writedown of investments 321 283
+Exceptional item (Poland debtor provision) 776 –
+Adjusted earnings after tax 858 1,992
+2002 2001
+£’000 £’000
+KEY CUSTOMER DATA
+Cumulative:
+Contracted customer base 254 203
+Contracted customers from current year acquisitions 18 –
+Total contracted customer base 272 203 +34%
+Cumulative:
+Contracted installations 359 257
+Contracted installations from current year acquisitions 24 –
+Total contracted installation base 383 257 +49% Executive chairman’s statement
+The telecommunications industry has experienced a particularly difficult and, in some cases, painful year
+in 2002. The previously expected vitality and growth of the global telecommunications business have
+been overshadowed by a series of business and technical issues. Equity valuations in the sector have
+suffered in sympathy. Yet Intec Telecom Systems has remained focused on its goals of sustainable,
+profitable growth, cash generation, market share development, continuous product improvement and
+high customer satisfaction. We remain certain that these objectives will ultimately deliver maximum
+shareholder value when the industry returns to its long-term pattern of real growth and success.
+In 2002 Intec Telecom Systems has demonstrated that the right strategic approach can overcome a market that
+has been at least as difficult as any previous downturn in the sector. At the start of the year we predicted, despite
+the uncertainties that we saw in this market, that turnover growth in the region of 20% was a realistic and
+obtainable objective. I am therefore very pleased to report that we have increased revenues from the £39.8
+million recorded in 2001 to £47.5 million this year – an increase of just over 19%. Just as importantly, this growth
+has been achieved alongside positive operating cash flow of almost £2.8 million, and improved EBITDA. This has
+come against a background of intense competition for new business and stringent cost-control measures by our
+target customers. Intec’s response to this has also naturally included rigorous cost management. I must therefore
+begin my report by thanking Intec’s staff, partners and suppliers for their outstanding contribution in this
+challenging market. I am aware of few other comparable companies in our sector that have been able to achieve
+such positive results.
+Intec’s business this year has been built around a strategy of focusing on understanding market developments
+and our customers’ requirements, and delivering high quality systems profitably to meet them. At the start of the
+year Intec’s senior management team performed a detailed review of business conditions and opportunities, our
+product offering, and our business model. The strategic decisions flowing from the review have been
+fundamental to our delivery of good results in a market that has been substantially more competitive this year.
+Our strategic approach is explained in more depth in the Chief Executive’s review of the year.
+A key part of our strategy remains a positive but careful approach to acquisitions. We believe that the OSS vendor
+market will continue to consolidate around a smaller number of viable players. Intec has been very active, having
+completed a number of successful acquisitions. Our acquisition strategy has been to expand our customer base in
+existing areas of expertise through consolidation of competitors and to seek to move into new segments within
+the overall OSS space to achieve further product diversification. In January 2002 we acquired the OSS products
+business of former competitor International Computers Limited (“ICL”). ICL is now operating as an Intec
+consulting and systems integration partner under the Fujitsu brand. This acquisition brought us around 20 new
+customers and a global partner in Fujitsu. 
+Similarly, after the year end, we announced the acquisition of the interconnect software business unit of Ericsson,
+bringing us over 40 customers and another global partnership. These consolidation acquisitions firmly cement our
+dominance in the market sectors in which we are active, and impact positively on the competitive landscape. The
+recurring revenue streams we derive from these core market acquisitions help us to fund the continuing
+development and support of our products. The expanded customer base offers excellent cross-selling
+opportunities for other products and services, further increasing annual turnover.
+We have also spent a considerable time in 2002 examining other acquisition opportunities, particularly those that
+would take us into new OSS markets. That we have not chosen this year to pursue any of the many opportunities
+we considered is, once again, a result of our strategy. Although there are many interesting technologies and
+companies that we considered, these have to be tempered with a realistic assessment of their financial and
+strategic potential. This is even more critical in a difficult market, where the inherent operating problems of many
+companies are only too obvious.
+Within our continuing business the core product lines of convergent mediation (Inter-mediatE) and interconnect
+billing (InterconnecT) have justified our view that they are increasingly critical components of the infrastructure of
+a telecoms company. In a competitive market it is vital that carriers take every possible opportunity to protect and
+increase network revenues while minimising unnecessary operating costs. Both mediation and interconnect billing
+have proven capabilities in fulfilling these opportunities. The feedback we have had from many customers on the
+real operating benefits and short-term return on investment from buying our technology is very pleasing. As a
+consequence of these factors and our effective execution, in 2002 we have once again seen our customer base
+increase substantially, with high profile wins in all areas. Actual customer numbers were approaching 280 at the 
+Page_2 Intec Telecom Systems PLC Annual report and accounts 2002
+Scor saetosus zothecas,
+semper pret osius ma
+trimonii adquireret quin
+que nn alis syrtes, et
+saburre circu mgre diet
+apparatus belli re tosius
+oratori amputat rures,
+quamquam qua drupei
+fortiter ferm en tet uti
+litas fiducia sui re mulus
+chirographi iocari sae
+tosus catelli, quod aqu
+ae sulis corrumperet
+utilitas zothecas.  Executive chairman’s statement continued
+year end, and with the recent Ericsson agreement are now well over 300. Perhaps most significantly, Intec now
+supplies core OSS technology to over 50% of the world’s largest telecommunications carriers. The business
+stability and market presence that these major customers bring are key contributors to our present and future
+success. The good relationship we have with customers was underlined by two exceptionally successful User
+Conferences during the year, in Florida and London, with record attendances from operators, despite the obvious
+pressure today on business schedules and travel budgets. Delivering world-class support services from our four
+worldwide Centres of Excellence remains at the heart of our customer strategy.
+2002 has been a year when all businesses in our sector have necessarily focused closely on costs. Intec made a
+decision early in the present business cycle that we would attempt to preserve both product investment and staff
+expertise as far as was consistent with good financial performance. The revenue growth anticipated by
+management has been achieved and hence we have been able to maintain the planned product investment. We
+believe this is a good strategic decision that increases our technical leadership at a time when competitors are
+cutting back. Ongoing product investment is a necessity in the increasingly complex telecoms market, where next-
+generation services are now a reality. Our core products remain state-of-the-art, and the expansion of our product
+line with complementary systems opens new opportunities for future growth. Despite acquisitions, we have held
+our staff numbers to only modest growth, by close analysis of operating needs and we have targeted hiring to
+support current revenue-led expansion plans. Intec has also strengthened its management team this year, and the
+contribution they are making worldwide is evident in our results, improved market share and product capabilities.
+In 2003 we intend to continue executing a business strategy that has proved successful in 2002. However, we will
+balance this with a continual strategic review of market demands and conditions, and seek new opportunities to
+expand the business and increase shareholder value. There are some positive signs in the marketplace, and I am
+confident that Intec is better placed than ever to achieve further growth.
+Mike Frayne
+Executive Chairman
+2 December 2002
+Page_3 Intec Telecom Systems PLC Annual report and accounts 2002 Chief executive’s statement and review
+In the past twelve months Intec has made excellent progress in its objective of becoming one of the world’s
+leading companies in the Operations Support Systems business. The backdrop to that statement is an industry
+that has suffered a very tough year. Yet Intec has prospered, and I want to begin my review of the year by
+recording my thanks to the customers, investors and advisers who have supported us, the partners and suppliers
+who work alongside us and, most of all, the hard-working and dedicated staff at Intec who ultimately make it
+possible.
+OVERVIEW
+In 2002 I am pleased to report that Intec has been able to deliver positive cash flow, increased EBITDA and
+turnover, and greater market share in our core business areas. We have brought to market several high-quality
+new products, and increased the degree of commitment to Intec technology in many of our larger accounts
+through cross-selling. We added almost 70 new companies to our customer base, and completed another
+successful acquisition by taking over the OSS products business of ICL. In addition we have completed a review of
+our entire product line and product development processes, creating a more efficient and capable organisation
+that will deliver the leading-edge, next-generation OSS products our customers need. These are all key objectives
+of our strategy, and their successful execution has allowed Intec to prosper during 2002, and create the
+foundation for continuing success in coming years.
+STRATEGY
+In 2002 Intec has become an increasingly focused company as a result of substantial effort aimed at refining our
+strategy. We have critically examined every aspect of the business, from initial product research and development
+all the way through to post-sales customer support, and made numerous decisions and changes as a result. In
+part this was driven by the need to find greater efficiency and business advantage in a market that has become
+much more competitive. But Intec has also matured as a business, learning to focus its resources on the most
+productive areas and developing strategic business processes to meet the undoubted challenges in the market.
+The result has been another year of growth, at a time when many competitors have cut back significantly, and a
+stronger position for the future.
+Our future strategy is based on the following objectives:
+• Profitable growth within our key markets of mediation and billing through increased market share
+• Expansion of our core product lines through targeted acquisitions or internal development
+• Continuing, critical review of business performance and future potential of all product offerings
+• Targeted investment in markets and technologies that have the highest potential for good returns
+• Continuous improvement in quality, performance and efficiency of all aspects of the business
+Despite our success in 2002 we have not forgotten that Intec, as a public company, has an obligation to its
+shareholders to maximise the value of their investment. Equity markets worldwide have tumbled, and Intec has
+been subject to the same downward pressures as all other technology companies. My belief is that in such an
+environment the only possible response is to perform as well as we can as a business, and to ensure that the
+market is informed of our progress and future strategic objectives. Improved shareholder value will naturally
+follow business success as markets recover. We have taken the view that short term measures, such as a severe
+reduction in development budgets or cutting back on staff resources, while undoubtedly a way to deliver higher
+short-term profits, are a dangerously weakening strategy for the future.
+Looking forward, we see positive signs in the longer term in our sector. Intec is a true market leader in its key
+areas, and we are very well positioned to benefit from a return to better market conditions. The products we sell
+remain vitally important to any telecoms company, and Intec has OSS technology that is proven to meet the
+demands of the largest and the most sophisticated operators. However, we are not simply waiting for this to
+happen. I believe that the strategy we have developed in 2002 will allow Intec to actively improve its competitive
+performance in 2003 and to fulfil the goals we set ourselves just over five years ago when Intec was founded.
+2002 RESULTS
+In 2002 the financial uncertainties faced by telecoms companies have severely impacted many of their suppliers,
+as major capital expenditure projects were delayed or even eliminated. Expenditure has continued to receive much
+higher levels of scrutiny, and purchasers have been more aggressive in pursuing more favourable prices and terms.
+The impact on suppliers has been clear, with many experiencing falling revenues and sharply reduced margins.
+This has naturally made for much more difficult trading conditions, as some OSS vendors pursued business at any
+price, regardless of the longer term consequences to their businesses and their customers.
+Page_4 Intec Telecom Systems PLC Annual report and accounts 2002
+Scor saetosus zothecas,
+semper pret osius ma
+trimonii adquireret quin
+que nn alis syrtes, et
+saburre circu mgre diet
+apparatus belli re tosius
+oratori amputat rures,
+quamquam qua drupei
+fortiter ferm en tet uti
+litas fiducia sui re mulus
+chirographi iocari sae
+tosus catelli, quod aqu
+ae sulis corrumperet
+utilitas zothecas.  Chief executive’s statement and review continued
+At the start of the year, mindful of the competitive pressures ahead, Intec set itself targets that were both
+ambitious but, we believed, achievable. In the event, Intec has almost exactly met its growth target of a 20%
+increase in revenues. We have also delivered both positive cash flow and increased EBITDA, as a result of a strong
+focus on cash collections and cost management.
+The overall balance of business has been very encouraging, with both new licence revenues and revenues from
+professional services showing steady growth. New business has been the weakest area across the OSS industry,
+with a reduction in the rate of new contracts awarded to many vendors quite evident. Therefore, Intec’s ability to
+find and win new customers is particularly pleasing. Recurring revenues have also grown again, underlining the
+stability of our business model, and Intec’s ability to generate high levels of customer satisfaction.
+As Intec’s product portfolio has developed, we have continued to focus on cross-selling opportunities within our
+existing customer base. A good proportion of the new business we have won in 2002 has come from existing
+customers, although we have also been successful in selling into many new, high-profile accounts.
+PRODUCTS
+A review of product developments can be found on page 24. This year’s Annual Report to shareholders will also
+include a copy of our new company overview, and further product details are given there. In summary, we have
+taken the opportunity in 2002 of thoroughly reviewing our entire product portfolio with a view to aligning
+development expenditure more closely with the marketplace opportunities. As a result a couple of minor products
+have been removed from our development roadmap, while others have been promoted to a higher level of
+investment. All products are subject to an ongoing return on investment-based business case analysis and this is
+paying dividends in both cost management and product roadmaps.
+BUSINESS REVIEW
+Intec develops and supplies Operations Support Systems (OSS) software to communications companies in two
+main areas: convergent mediation and intercarrier settlements. We also have a number of associated products
+which fall broadly into the OSS sector known as ‘revenue assurance,’ and a new product, Inter-activatE, which
+offers service activation and provisioning facilities. These products can be sold individually or, increasingly often,
+with each other to meet wider customer needs. We have also noted this year much greater attention from
+customers on vendor performance and long term financial stability. Carriers making substantial, business-critical
+OSS investments want to contract with companies they can trust to be around in future to support them and to
+develop products. Intec, as a public company with very sound finances and a good trading record, is an attractive
+partner and we have made numerous financially-oriented presentations to support product bids.
+New sales are made of product licences, implementation, consulting and support services, with a strong recurring
+revenue stream developing from these sales in future years from support and maintenance, and volume-based
+licence upgrades. Intec’s pricing model is based on processing volume, providing for a cost to the customer that is
+closely linked to its own revenues and business operations, yet providing Intec with future revenue streams as
+traffic expands.
+Our results for 2002 are not directly comparable with 2001, as a result of acquisitions in both periods (see page
+13 for acquisition details.) However, all revenue streams (new licences, professional services, and recurring
+income) have shown good growth, particularly in comparison to OSS industry trends this year. In 2002 new
+licence sales grew by almost 10%, representing 33% of turnover, a strong result in a market that has proved
+highly competitive for new business. Intec increased its customer base by 69 with 18 of these arising from
+acquisitions bringing our total customer base to 272. (With the post-year end acquisition of the ‘Settler’ business
+unit from Ericsson, we now serve around 310 telecoms companies worldwide, with over 400 installations
+increasing our penetration within some of the world’s largest carriers.) I believe this is an exceptional result. The
+flow of new contracts announced by many OSS vendors has reduced substantially in 2002, so Intec’s ability to
+generate new contract wins underlines our belief that sustained investment in products and distribution channels
+is the correct approach.
+We have undoubtedly gained significant market share this year, consolidating the position of InterconnecT as
+clear market leader and moving Inter-mediatE close to market leadership. InterconnecT now has over 140
+installed sites, with new customers such as Maxis in Malaysia, Global Telecom in Brasil, Telus in Canada,
+VimpelCom in Russia and VSNL in India. Industry estimates put our market share for interconnect billing systems 
+Page_5 Intec Telecom Systems PLC Annual report and accounts 2002 Chief executive’s statement and review continued
+at around 40%, and this has increased considerably with the acquisition of the ‘Settler’ business unit. Our US
+Carrier Access Billing System, InterconnecT CABS CG, has also been a very strong performer, winning no less than
+9 new licences and over 35 service contracts. We substantially upgraded our CABS processing facilities in the US
+in 2002 to handle this new business, and we also launched a new version of InterconnecT CABS CG with a
+‘Carrier Grade’ designation to highlight greatly improved performance, making it suitable for very large US
+operators. InterconnecT ITU, our version for international settlements according to ITU rules, has continued to be
+a good revenue earner, with several new clients added in the year, including Maroc Telecom, Sonatel, and
+Telecom Egypt.
+Inter-mediatE, our high performance convergent mediation system has more than fulfilled our expectations,
+moving towards a dominant position in the industry, with over 110 systems installed. Competition for new
+mediation contracts has been intense, with many previously strong competitors showing significant downturns in
+their win rates. Intec won 16 new Inter-mediatE licences in 2002, many of them in combination with either
+InterconnecT or InterconnecT CABS CG. Notable wins included Centennial, US Cellular and BellSouth in the US,
+Reliance Infocom in India, Macquarie in Australia, Telecom Egypt, Sonofon in Denmark, and Smartcom in Chile.
+However, our two most notable mediation contracts this year were with COLT Telecommunications for a pan-
+European roll-out that replaced four other vendors’ systems, and with one of the world’s largest carriers, SBC
+Communications in the US, for a single platform usage collection system. Both are multi-million pound contracts
+which clearly establish Inter-mediatE as the premier platform in high-volume convergent mediation.
+After the end of the year we were pleased to reach an agreement with British Telecom plc that successfully
+concluded a long outstanding legal dispute relating to software patents. Under the agreement Intec and its
+customers will enjoy freedom from any further litigation by BT in respect of these patents. We have not had to
+make any alteration to our products, nor make any payments to BT for Intellectual Property Rights at any stage.
+We also now intend to begin building a commercial relationship with BT and its operations worldwide.
+Professional services income rose by 27% in 2002 to £12.3 million, representing over 26% of turnover. This
+figure primarily comprises revenue from implementations, consulting and training associated with licence sales,
+and from ongoing professional services that help customers maximise the benefit of their investment, such as
+customisation work or special reports. There is also a contribution from non-core services in the US
+communications sector, plus a small contribution from hardware sales. Intec performs many implementations
+through, or in partnership with, other companies, including IBM, HP Compaq, Accenture and Logica. These
+partnerships give us substantial additional reach in a global marketplace, and allow us to absorb variations in staff
+demand for professional services. We have increased our focus on the partner channel in 2002, and we have
+invested significantly in training partners in selling and supporting our products. Our professional services teams
+are based from four Centres of Excellence – UK, US (Atlanta & Dallas), Malaysia and Brazil – allowing us to
+provide highly-trained consultants in all regions.
+One of our key business goals is to increase our recurring revenue stream steadily, through ensuring high levels of
+customer satisfaction and retention, to the point where this income underpins a significant proportion of our
+basic operating costs. This is an important long-term objective for any mature software company, as it provides
+high business stability and the opportunity to deliver good operating margins through additional new business
+sales. We have moved further towards this goal in 2002, with a 23% increase in recurring revenue, representing
+almost 42% of turnover. Recurring revenue is developed from both support and maintenance contracts, and from
+volume-based licence upgrades. In 2002 an increased contribution also came from bureau services, as
+InterconnecT CABS bureau sales grew significantly. In the US we are steadily growing our customer base of CLECs
+and ILECs using InterconnecT CABS on a bureau basis, and we have seen a pleasing increase in larger carriers
+turning to our services.
+REGIONS
+During 2002 Intec has worked hard to manage its cost base in a way that is aligned with our ambitions to
+develop the business, improve our products, and provide high levels of customer satisfaction. We have critically
+examined all of our operations on a cost/benefit basis, and we have made a number of changes as a result. Some
+local sales offices have been closed, while offices in India and Italy have been opened or expanded to deal with
+increased activity. Intec has customers in over 50 countries and it is clearly not realistic to have in-country sales
+support for them all. Instead, we use a ‘Centre of Excellence’ concept that provides very high levels of local skill
+and resources in four major centres, one each for EMEA (Europe, Middle East and Africa), North America, Asia-
+Pacific and the Caribbean/Latin American (CALA) region. Our smaller sales offices, totalling 15, are strongly
+supported by the Centres of Excellence.
+Page_6 Intec Telecom Systems PLC Annual report and accounts 2002 Chief executive’s statement and review continued
+All regions have performed well, especially in a telecoms market that is very difficult worldwide, but particuarly
+challenging in some areas. Against that is the clear fact that telecoms remains a strong growth industry, especially
+in high population, developing markets such as India and the Pacific Rim. We have organised the business to
+address these regional hotspot opportunities and the results in 2002 reflect growing success in these areas.
+In the relatively mature markets of Europe, where we generated revenues of £16.9 million or 37% of turnover,
+the market is still awaiting the arrival of next-generation mobile services, some of which are now expected to
+enter commercial service in 2003. Many operators are now anticipating these services by upgrading older OSS
+technology to deal with the more complex, high-value services that are expected. A good example of this is our
+deal with COLT Telecommunications, one of our best-established customers for InterconnecT, for a pan-European
+roll-out of Inter-mediatE. This deal, won against strong competition, will see Inter-mediatE replace four older
+systems and will enable COLT to simplify its software support requirements as well as offering greater capabilities
+and performance. We also signed notable agreements with Sonofon in Denmark and Swisscom Mobile.
+One of the highlights of the year was a groundbreaking contract with VimpelCom, one of Russia’s most dynamic 
+mobile operators, and our first in this country. Communications, particularly mobile services, is a growth industry
+in the former Eastern Bloc states, and a high-profile win such as VimpelCom is important in helping us generate
+further success. Africa contributed strong revenues of £1.7 million, attributable to good business in both
+Southern Africa and in developing northern states like Morocco.
+In the Asia-Pacific region, which represented over £5.5 million in revenue or growth of 11%, we have seen some
+very important new customer wins. These included Maquarie Corporate Telecommunications, an innovative IP-
+based provider in Australia, Maxis Malaysia, one of the region’s pre-eminent GSM operators, and VSNL and
+Reliance in India, a very fast-growing market.
+In the North American market, which has perhaps been the most challenging for many vendors, Intec had an
+exceptional 2002, with strong sales for both Inter-mediatE and InterconnecT CABS CG driving revenue growth of
+67% to £21.1 million. However, we were also successful in introducing our original InterconnecT product into the
+region, with sales to several US and Canadian carriers that are increasing their international interconnect business.
+Our CABS billing operation in Dallas was expanded to cope with much increased customer numbers and traffic
+levels. A new release of InterconnecT CABS CG targets larger ILECs, CLECs and even the RBOCs, and we have
+seen a number of wins at this level. US operators have been very cost-conscious this year, so Intec’s message has
+been focused on the high financial return on investment that new OSS can deliver, in addition to the pure
+technical and operational benefits. This message has helped us to win substantial accounts, notably SBC, a strong
+endorsement of the performance and scalability of the Inter-mediatE platform. With these and other contracts,
+the North America region has become our largest revenue source.
+Intec’s CALA (Caribbean and Latin America) region has also grown strongly, with revenues of £3.9 million
+representing growth of 55%, despite the many political and economic uncertainties in the area. Large
+populations and low but fast-rising penetration of telephone services in the region are driving the telecoms
+business in CALA, and Intec is well placed to acquire further customers (The post-2002 acquisition of the Ericsson
+Settler business also brings us many new customers in the region). In February we announced a major agreement
+with Cable & Wireless in the West Indies to add InterconnecT ITU to installations of InterconnecT and Inter-
+mediatE supporting 14 sites. We also extended our agreement with Digicel in Jamaica to cover its expansion plans
+into other Caribbean islands, a strong endorsement of the value of InterconnecT to them. Working with Logica,
+we sold Inter-mediatE to Smartcom PCS in Chile, extending our long relationship with Logica on settlements
+products to mediation.
+BUSINESS DEVELOPMENT
+Our sales, marketing and partner operations have also been subject to extensive review in 2002. We have re-
+organised certain areas of the sales operation to reflect better business opportunities and priorities, both in terms
+of geography and product offerings. This has included strengthening the management team with several proven
+individuals. Marketing operations have also been developed, with new programs in branding, marketing
+literature, PR, and a new, award-winning website. Our Partners operation has continued to expand, with a
+number of high-profile companies joining the Intec partner program, and extensive training and cooperation
+taking place. Ericsson has also now become an Intec Partner, post year-end. During 2002 we won a number of
+important new customers with our Partners, including Smartcom PCS in Chile with Logica, Maroc Telecom with
+HP, and VimpelCom in Russia and Eircell in Ireland with ICL.
+Page_7 Intec Telecom Systems PLC Annual report and accounts 2002 Chief executive’s statement and review continued
+USER GROUPS
+Intec User Groups are one of the great strengths of the company, creating a genuine two-way dialogue between
+Intec and its customers that helps, among other things, to define future product direction. Customer satisfaction,
+a key Board-level business measure at Intec, is surveyed on a regular basis through the User Groups and used as
+strategic input to our operating objectives and development policy. In 2002 we ran two exceptionally successful
+User Conferences, in Florida and London, each attracting over 100 customer delegates. Given the current
+restrictions on travel budgets, and time pressures on telecoms staff, I believe this underlines the value that
+customers put on their continuing relationship with Intec.
+STAFF AND INFRASTRUCTURE
+The success that Intec has enjoyed this year has been largely attributable to very hard work in a difficult business
+environment by Intec’s staff. They have had to contend with intense competition and customers who are
+scrutinising every expenditure very carefully. At the same time Intec itself has been highly cost-conscious and
+efficiency focused. In short, we have asked our staff to do more with less – and they have responded with hard
+work, intelligence and dedication.
+During the year we have made a number of changes to our corporate structure, including the relocation of
+certain functions, particularly in the development team, with a view to greater efficiency and reduced operating
+costs. These benefits have shown through in our ability to generate positive cash flow and an EBITDA profit,
+despite pricing and other pressures. We expect that these measures will generate savings in 2003.
+Despite acquisitions, staff numbers grew only modestly in 2002, from 485 at the end of 2001 to 500 at the end
+of the period under review. A number of these are attributable to acquisitions, particularly our purchase of ICL’s
+OSS business unit in January, which brought us extra expertise in both billing and mediation. Intec continually
+reviews skills and staffing levels required in light of market conditions. Our record for staff retention remains well
+above industry averages, and we continue to operate best practice remuneration and staff management policies,
+with consistency of benefits and employment conditions in the light of local regulations in all regions. Many staff
+are shareholders, and all staff can partake in a share options program. In 2002 we also conducted an extensive
+Staff Survey to better understand how staff can benefit from, and contribute to, Intec as a business. This survey
+will be conducted every year. 2002 also saw the initiation of a program to create ‘Employee Relations Forums’.
+These are mandatory for companies based in the European Union, above a certain size. Intec has not yet reached
+this threshold, but we believe that ERFs represent a good example of best practice in staff relations, and we have
+decided to implement them across the company in 2002/3. We also initiated a successful, employee-led cost
+saving initiative programme which has saved many thousands of pounds across the company from innovative
+ideas. Staff receive a modest bonus for each accepted idea.
+Intec has continued to invest in its business infrastructure, with numerous programs to improve internal
+communications, information systems, working conditions and customer support facilities, such as training and
+presentation suites. Intec is working actively towards certification to the telecoms industry quality standard,
+TL9001.
+OUTLOOK
+2002 has been a year of very mixed fortunes for the telecoms sector, and Intec has done well to prosper in these
+times. It would be unwise to predict that 2003 will be substantially better, although there are some signs that the
+climate is improving. However, it is worth noting that many telecoms companies continue to deliver good
+financial results, particularly in developing markets, that a number of large telecoms players have reduced their
+debt exposure significantly and that the long awaited next-generation mobile services of UMTS/3G are expected
+to be launched to paying customers in the near future. Telecoms traffic continues to climb and the arrival of
+exciting new services such as MMS will undoubtedly stimulate it further.
+Page_8 Intec Telecom Systems PLC Annual report and accounts 2002
+20_11_2002
+Intec Telecom Systems
+acquires Ericsson’s
+‘Settler’ interconnect
+billing product unit
+20_10_2002
+Intec Telecom Systems
+acquires Ericsson’s
+‘Settler’ interconnect
+billing product unit
+29_12_2002
+Intec confirms multimillion-
+Pound deal with SBC
+24_01_2003
+Intec and Giza Systems
+sign a second OSS deal
+with Telecom Egypt Chief executive’s statement and review continued
+For Intec, the future looks promising. We have achieved outright market leadership in one sector, and
+are arguably very close to it in another. We have generated increased EBITDA and positive operating
+cash flows and we intend to continue this trend. Our customer base has grown strongly in 2002 and we
+see ongoing demand for our products and services. We have a number of new products coming to
+market or recently arrived, and we have greatly solidified our product roadmaps for the next few years.
+The challenges of the current market have made us a more efficient, more competitive organisation,
+with higher product quality, and our ongoing investment in many areas means we are well placed to
+thrive. The market remains turbulent, and we are not complacent about the need to work hard to
+continue to grow the business, but I am optimistic that 2003 will be, like 2002, a successful year for
+Intec.
+Kevin Adams
+Chief Executive Officer
+2 December 2002
+Page_9 Intec Telecom Systems PLC Annual report and accounts 2002
+Title to chart
+£millions
+Name goes here
+00%
+Name goes here
+00%
+Name goes here
+00%
+Name goes here
+00%
+Title to chart
+£millions
+0.0
+98
+0.0
+99
+0.0
+00
+0.0
+01
+0.0
+02
+VISUAL REFERENCE ONLY. VISUAL REFERENCE ONLY.
+20_07_2003
+Intec Telecom Systems
+acquires Ericsson’s
+‘Settler’ interconnect
+billing product unit
+20_06_2003
+Intec Telecom Systems
+acquires Ericsson’s
+‘Settler’ interconnect
+billing product unit
+29_08_2003
+Intec confirms multimillion-
+Pound deal with SBC
+24_09_2003
+Intec and Giza Systems
+sign a second OSS deal
+with Telecom Egypt
+20_03_2003
+Intec Telecom Systems
+acquires Ericsson’s
+‘Settler’ interconnect
+billing product unit
+20_02_2003
+Intec Telecom Systems
+acquires Ericsson’s
+‘Settler’ interconnect
+billing product unit
+29_04_2003
+Intec confirms multimillion-
+Pound deal with SBC
+24_05_2003
+Intec and Giza Systems
+sign a second OSS deal
+with Telecom Egypt Finance director’s review
+Financial highlights
+2001 2000
+Note £’000 £’000
+Xxxxxxxxxxxx xxx xxx
+Xxxxxxxxxxxx i xxx xxx
+Xxxxxxxxxxxx ii xxx xxx
+Xxxxxxxxxxxx xx xx
+Xxxxxxxxxxxx iii xx xx
+i Scor saetosus zothecas, semper pret osius matrimonii adquireret quin que nn alis syrtes, et saburre circu mgre
+diet apparatus bellis. Pretosius oratori amputat rures, quamquam quadrupei fortiter fermentet utilitas fiducia
+ii Tremulus chirographi iocari saetosus catelli, quod Aquae Sulis corrumperet utilitas zothecas. Incredibiliter
+fragilis matrimonii suffragarit quadrupei, eti am verecundus ossifragi vix comiter iocari utilitas quadrupei.
+iii Tremulus chirographi iocari saetosus catelli, quod Aquae Sulis corrumperet utilitas zothecas. Incredibiliter
+fragilis matrimonii suffragarit quadrupei, eti am verecundus ossifragi vix comiter iocari utilitas quadrupei.
+OVERVIEW
+During 2002 we have focused on managing the business for a good financial performance against a background
+of considerable uncertainty and highly competitive conditions. We can do little to influence the wider business
+climate, and the activities of customers and competitors. During the period we have continued to invest in
+product development & support and the global distribution and delivery capability. Against this background I am
+therefore pleased to report that Intec has delivered the level of revenue growth we expected at approximately
+20%, increased EBITDA, with positive operating cash flows of £2.8 million achieved by focused credit control and
+cash management. We consider this to be a major achievement given the severe trading conditions in our sector.
+REVENUE
+In the twelve months ended 30 September 2002, our fifth year of operations and our second full year as a public
+company, revenue increased by 19% to £47.5 million, against £39.8 million for the equivalent period in 2001.
+Several substantial acquisitions were made early in 2001, against two relatively small ones in 2002, so the figures
+are not directly comparable. In that context, and against a difficult industry background, the achieved growth has
+been a strong performance. Our continuing ability to be successful in licence sales is directly attributable to
+continuing investment in our product set. Our customers consider them to be truly convergent, and thus able to
+meet the challenges of emerging technologies such as 3G. Increased investment in global product support
+infrastructure has enhanced customer service and our customer retention strategy.
+Intec’s stable business model has been an important factor in helping us to meet our forecast revenue objectives.
+Intec has a strong recurring revenue line generated by support and upgrade charges from our large installed base,
+and a growing professional services business. We have also worked hard to maintain and improve revenues from
+new licence sales, undoubtedly the most challenging part of the revenue mix in a difficult and cost-sensitive
+market. Major deals signed with companies such as COLT and SBC have been important successes in 2002, in
+addition to our ability to sell multiple licences from an expanded product line to both existing and new customers.
+REVENUE ANALYSIS
+Intec has five principal sources of revenue in its core OSS business - sales of software licences for its two major
+product families, Settlement (InterconnecT & InterconnecT CABS) and Inter-mediatE, and associated products in
+related areas; recurring revenues from annual support contracts; ASP and bureau services; volume-based licence
+upgrades; and revenues from implementation, consultancy, education and training services. In addition, Intec
+derived a small proportion (approximately 6%) of revenues from hardware and non-OSS communications
+products and services. Revenues from the majority of software licence contracts and ASP/bureau services are
+based on the volume of traffic processed by our software for each customer. In 2002, licences represented 33%
+of turnover at £15.5 million (2001: £14.2 million), an increase of just under 10%. Strong pricing pressure in
+software licences has been felt in 2002, and this has impacted both total revenue growth and margins, although
+increased contract values from multiple licence sales and larger deals have offset this to a degree. However, the
+important fact is that Intec has won these new contracts and has thus increased its long-term recurring 
+revenue stream.
+Page_10 Intec Telecom Systems PLC Annual report and accounts 2002
+Scor saetosus zothecas,
+semper pret osius ma
+trimonii adquireret quin
+que nn alis syrtes, et
+saburre circu mgre diet
+apparatus belli re tosius
+oratori amputat rures,
+quamquam qua drupei
+fortiter ferm en tet uti
+litas fiducia sui re mulus
+chirographi iocari sae
+tosus catelli, quod aqu
+ae sulis corrumperet
+utilitas zothecas.  Finance director’s review continued
+Revenues from professional services amounted to a total of £12.3 million (2001: £9.6 million) or 26% of
+turnover. This revenue stream has grown by 27% in 2002, primarily due to a good number of implementation
+projects resulting from contracts signed in late 2001 and through 2002. Margins on professional services have
+shown reasonable resilience in the current climate. A new feature we see in professional services, particularly
+concerning mediation and the requirement to address network change, is repeat business from the existing
+customer base. We expect this trend to continue as the telecoms market develops.
+Recurring revenues come from annual fees for maintenance and support, from volume-based licence upgrades,
+and from ASP/bureau services. Similar support and upgrade policies exist across all key product lines. Recurring
+revenues grew, as expected, over the 2001 figure of £10.7 million to £15.0 million, reflecting both the growth in
+our software user base since 2001 and the very high quality customer base of Tier One and Tier Two customers
+that Intec OSS software supports. Turnover from ASP and bureau services, which are included in recurring
+revenues, grew from £1.7 million in 2001 to £2.8 million in 2002, as a result of a growing contribution from US
+InterconnecT CABS bureau operations. We expanded our Dallas office facilities substantially in 2002 to cope with
+this demand. In total, recurring income represented a very satisfactory 41% of turnover. In our contract
+negotiations we avoid extending licence discounts to support & maintenance contracts wherever possible.
+On a regional basis, all operations made a contribution to revenues, with North America as the largest
+contributor, at £21.1 million (2001: £12.6 million) or 44% of turnover, showing the benefit of a full year’s
+contribution from acquisitions (2001: approximately 9 months contribution). The EMEA region at £16.9 million or
+37% of turnover was the second largest operation. This was down on 2001 (£19.7 million), as a result of large
+contracts signed in the UK in the previous year. Both the Middle East and Africa regions showed good growth
+over 2001 as our investment in these developing markets began to show results. Turnover also grew 11% in the
+Asia-Pacific region to £5.5 million (2001: £5.0 million). CALA (Caribbean and Latin America) continues to be a
+successful market for us, with revenue up 55% to £4.0 million, despite the economic and political difficulties in
+parts of the region.
+COSTS
+Gross margin has remained largely unchanged at 67% (2001: 68%) with the slight decline largely due to
+increased third party payments for implementation services, mainly in large US projects. Going forward we have
+the internal resources in the necessary geographies to deliver these projects ourselves.
+Distribution costs of £9.9 million compare to last year’s £9.2 million. Of the total increase of 8.6%, around 3% is
+attributable to acquisitions. The remainder is due to increased resources being deployed in the US, Malaysia and
+Middle-East offset by savings in the EMEA region where distribution channels have been re-organised in Germany,
+Denmark and Portugal. Our global distribution channel is largely in place now to support both the current and
+expected business levels, but will, like all other major cost areas, be regularly reviewed with activity changes
+around the world.
+Development costs of £8.0 million compare to 2001 costs of £5.9 million. The increase of 35% is attributable in
+part (14%) to acquisitions. The remaining increase is from continuing investment in core product areas, both in
+functionality and support capability to service our increased customer base, and also from expanding our product
+portfolio.
+New products developed in the period include Inter-activatE, our service activation solution. As highlighted in the
+product section, Intec is reviewing development expenditure carefully across each product line or proposed
+development, with a view to maximising return on each one. Cost growth in future periods will be at a lower
+level as a result of initiatives to restructure our development centres and from general cost saving and productivity
+measures. Intec incurs a proportion of its development expenditure for InterconnecT in South Africa, and we have
+therefore continued to benefit from lower Sterling costs throughout the period.
+Other administrative expenses of £12.1 million compare to prior year expenses of £10.1 million. The increase of
+20% is attributable to a number of factors, namely the impact of acquisitions (15% of the increase), non-
+recurring expenditure associated with the legal costs of BT litigation which has now been successfully concluded,
+and a foreign exchange loss in our CALA region as a direct result of the Argentinean currency crisis. Net of
+provisions, underlying administrative expenses have reduced from the prior year.
+Page_11 Intec Telecom Systems PLC Annual report and accounts 2002 Finance director’s review continued
+EARNINGS
+Earnings performance in 2002 has been impacted by pricing pressure caused by competitor activity and capital
+expenditure sensitivity among telecoms customers. We have also made a strategic decision to maintain
+expenditure wherever sensible on product development and business infrastructure that we regard as critical to
+sustained performance now and in the future. Neverthless, through a combination of higher revenues and careful
+cost management Intec has been able to deliver EBITDA before exceptional items of £3.7 million (2001: £3.4
+million) and positive operating cash inflow of £2.8 million (2001: outflow £3.7 million). Adjusted earnings per
+share were 0.46p per ordinary share (2001: 1.14p).
+In 2001, like many technology companies, we recorded a substantial writedown of goodwill due to both
+impairment and normal amortisation of goodwill in acquisitions. In 2002, no further impairment has been
+identified on our US acquisitions of Compgen and CABS. However, we made a relatively small writedown of £7.5
+million on the acquisitions of Dataphone and i2i, which with normal amortisation of goodwill and intangibles of
+£7.1 million, results in an actual group operating loss of £13.3 million (2001: £140.0 million).
+EXCEPTIONAL ITEMS
+During the year, our Polish associate failed to meet its obligations to Intec. We have instituted legal proceedings
+in Poland to recover the outstanding amount due to us and have in the meantime provided for the trading
+exposure of £0.8 million. In addition we have provided an amount of £0.15 million against the investment in the
+Group balance sheet.
+TAXATION
+The major trading companies in the UK and the US have not incurred corporate tax liabilities. However, we 
+have suffered corporate taxation is a number of our overseas trading subsidiaries and branches amounting to 
+£0.7 million, of which £0.3 million is in respect of previous years. The remainder of the tax charge is in respect of
+withholding tax, which is deducted at source in certain jurisdictions and which we cannot recover, amounting to
+£0.6 million.
+The US operations have substantial ongoing tax benefits arising from goodwill allowances which will continue to
+ameliorate tax charges against profits in future periods. In addition, there are significant losses brought forward in
+the US.
+CASH FLOWS
+Given the concerns around the telecoms sector we have focused additional effort on improving our trade debtors
+collections and we achieved a significant improvement in the annualised debtor-days ratio of 105 days compared
+to 147 days at 30 September 2001, amounting to a 29% reduction. Post year-end cash collections have
+continued at a satisfactory level.
+We are pleased to report a positive operating cash inflow of £2.8 million compared to a cash outflow of £3.7
+million in 2001, being operating positive for the last three quarters. Overall our cash resources moved from £17.7
+million at the start of the year to £13.3 million at 30 September 2002, after funding £5.2 million in acquisitions.
+BALANCE SHEET
+Our cash balance of £13.3 million is more than sufficient to meet the Group’s operating requirements. A
+significant proportion of our liquid funds are invested in a cash plus fund to spread risk and improve yields. The
+carrying amount of goodwill is £61.9 million which is stated after an impairment write down of £7.5 million,
+reflecting reduced market values in acquired companies. This impairment charge was reported at the end of the
+third quarter of 2002, and no further impairment has been considered necessary.
+As a precautionary measure, in light of the current difficulties in the Telecoms market, we have increased our
+general bad debt provisions over 2001.
+ACQUISITIONS
+Intec has a long-term policy of business expansion through both organic development and carefully-evaluated and
+managed acquisitions. Since becoming a public company in mid-2000, Intec has made a series of acqusitions in
+the OSS sector aimed at either consolidating competitive businesses to generate greater market share, or
+acquiring and integrating companies with complementary technology. The following progress review considers
+acquisitions made during the 2002 financial year.
+Page_12 Intec Telecom Systems PLC Annual report and accounts 2002 Finance director’s review continued
+ICL OSS business (UK)
+In January 2002 Intec acquired the OSS business unit of ICL (which now operates under the Fujitsu brand). This
+former competitor had established a position in both interconnect billing and mediation, and had won accounts
+in some 20 companies. Intec acquired both billing (Prospero) and mediation (SIMS) customer contracts, the IPR to
+the products, and a small number of primarily technical staff. The agreement with ICL also made it a distribution
+partner for Intec, as it was not intending to leave the OSS business, but to focus on systems integration and
+consulting services. The net initial consideration amounted to £2.55 million paid in cash and £1.04 million
+deferred consideration to be paid over the two year period from the date of acquisition.
+Intec’s integration of this acquired business has now been effectively concluded. Intec has identified effective
+migration strategies to move the acquired ICL customers to Intec’s more established and successful alternatives.
+Once this transition has been completed, the ICL products will be removed from the marketplace. Support for the
+products still in operation continues according to the agreement made with ICL. The customer base is generating
+the expected support revenues and reported £1.5 million from the date of acquisition. Intec has also signed a key
+contract in Russia in partnership with ICL, and generated additional services business in the UK as a result of the
+acquired product.
+Interconnexxion Africa (Pty) Limited
+On 31 July 2002, Independent Technology Systems Limited, a wholly owned subsidiary company of Intec Telecom
+Systems PLC agreed to acquire its distribution partner in South Africa, Interconnexxion Africa (Pty) Ltd. The total
+consideration, paid in ordinary shares, amounted to £560,000 plus acquisition costs of £3,000. Pursuant to the
+agreement, Intec has acquired all assets of Interconnexxion, including customer licensing and support contracts
+and equipment for payment of £209,000, which has been satisfied by the issue of 822,835 new ordinary shares
+of 1p each. In addition, an outstanding loan of Interconnexxion of £351,000 was settled by the issue of
+1,381,890 new ordinary shares of 1p each.
+Acquiring Interconnexion allows Intec to take control of its distribution channel in a key emerging market,
+eliminate certain costs, invest more effectively in sales resources, and provide closer support to new and existing
+customers. Africa is a region with high growth potential in telecommunications, particularly in the wireless sector.
+In 2002, sales in Africa contributed £1.7 million to Intec’s turnover. Following the acquisition Intec had three
+customers in South Africa: the PTT, Telkom South Africa, and mobile operators MTN and Cell-C. The new
+operation is also targeting customers in other key emerging markets in Africa such as Nigeria.
+Ericsson ‘Settler’ business unit (Sweden) – post balance sheet
+In November 2002 Intec announced the post-year end acquisition of Ericsson’s ‘Settler’ business unit, its major
+competitor in the interconnect billing market. With this acquisition Intec will expand its base of supported
+customers by approximately 40 carriers. The agreement also covers the Settler development team in Sweden and
+exclusive worldwide rights to develop and market the Settler product range. The agreement includes further
+cooperation between the two companies where Ericsson will continue to offer solutions based on Settler as well
+as Intec’s InterconnecT product suite.
+The total consideration amounts to US$5.1 million (£3.3 million). The acquisition is expected to be revenue and
+earnings enhancing, generating new license revenues, related services work and recurring revenues for support &
+maintenance. A key benefit of the agreement are the synergies that will be achieved. Ericsson has a direct
+presence in some countries where Intec has none, enabling a greater reach. In other areas, where the two
+companies have previously competed fiercely, efforts can be re-directed to other productive opportunities. The
+agreement enables Ericsson as well as other successful Settler partners to be able to offer their telecom customers
+Intec billing technology from either the InterconnecT or the Settler range.
+FOREIGN CURRENCY AND TREASURY
+Intec normally invoices its customers in Sterling, US dollars or Euros, which balances the risk of exposing the
+group to significant foreign currency gains and losses. The group has a net cash position and so is only exposed
+to interest rate movements on its cash and cash investments. The group’s policy is currently not to hedge either
+foreign exchange or interest rate exposures.
+Page_13 Intec Telecom Systems PLC Annual report and accounts 2002 Finance director’s review continued
+FUTURE OUTLOOK
+Intec has a sound financial position, which is required in an uncertain economic climate, with our strong cash
+position providing resilience against seasonal variations in billings and providing reassurance to our customers. In
+2003 Intec’s finances will continued to be managed on a sound basis, ensuring good accounting practice and
+best practice risk management policies are adopted throughout the Group.
+We will also continue with stringent cost management policies, balanced against necessary investments, which
+yield positive returns on investment to improve profitability, now and in the future.
+John Arbuthnott FCMA
+Finance Director
+2 December 2002
+Page_14 Intec Telecom Systems PLC Annual report and accounts 2002 Board of directors
+The Board
+The Directors of the Company and their responsibilities within the Group are set out below:
+Executive Directors
+Michael Frayne, Chairman, 43
+Mike Frayne has over 20 years experience in the IT industry. Prior to founding his own business, he worked as a
+consultant for a number of years in IT management roles in the investment banking industry. He holds an MBA
+from Wits Business School, Johannesburg and a BSc in Information Technology and Psychology. Mike has co-
+founded businesses that today employ over 1,000 people.
+Kevin Donald Adams, Chief Executive Officer, 47
+Kevin Adams has over 25 years experience in IT and was appointed CEO of the group in June 2000, prior to
+which he had been the Managing Director of Intec since October 1997. Previously he held senior positions in
+Logica’s international telecommunication software business and has held Managing Director positions with
+Admiral Software and Blyth Software, where he headed up their UK and European operations respectively.
+John Lawrence Arbuthnott FCMA, Finance Director, 49
+John Arbuthnott has 25 years commercial and financial experience, primarily in the oil industry. Prior to joining
+Intec in 1999 he worked in interim finance management roles with Centrica and BHP . John has direct experience
+and involvement in listed company reporting and financial management as well as mergers, acquisitions, alliances,
+joint ventures, partnering, outsourcing and capital raising.
+Non-Executive Directors
+Roger Steven McDowell, 47
+Roger McDowell is a non-executive director of Wax Digital UK Ltd, Booth Industries Group plc and the former
+CEO of Oliver Ashworth Group plc. Roger joined Oliver Ashworth as CEO after leaving University. Over a twenty
+year period, he grew the business from a small single site pipeline product distributor with sub £1 million turnover
+to a profitable PLC with 25 sites and hundred million pound plus turnover. Since leaving this role in 2000, Roger
+has held several appointments as non-executive Chairman and non-executive Director of small start up companies
+in a range of industries.
+Gordon Crawford, 47
+Gordon Crawford is Chairman and founder of London Bridge Software Holdings plc, a company which provides
+credit management based software and consultancy services. Gordon has been involved in the computer software
+industry for over 20 years. A graduate of the University of Newcastle upon Tyne, he worked in software
+development before joining Wang in 1982, leaving in 1987 to start his own software development company.
+Gordon is also a non-executive director of The Innovation Group plc.
+Edward Morrison Astle, 48
+Edward Astle is currently a Group Director of National Grid Transco Plc, responsible for all their non-regulated
+businesses. He is also a non-executive director of 3GLab Ltd. Between 1997 and 1999 he was a main board
+director of BICC plc responsible for the international telecoms cable systems division. Previously he spent eight
+years at Cable & Wireless plc, rising to the main board where he was responsible for all their global network
+businesses.
+Page_15 Intec Telecom Systems PLC Annual report and accounts 2002
+AWAITING IMAGE. Corporate governance
+STATEMENT ON APPLICATION OF THE COMBINED CODE
+Listed companies are required to conform to the Listing Rules of the UK Listing Authority. This includes the
+Combined Code on Corporate Governance (“the Code”), which sets out fourteen Principles of Good
+Governance. A statement on how the Company has applied these Principles and a statement explaining the
+extent of compliance with the provisions of the Code appears below.
+THE DIRECTORS
+The Company is controlled by the Board of Directors, comprising an Executive Chairman, Chief Executive, and
+Finance Director, and three independent non-Executive Directors. The non-Executive Directors are Gordon
+Crawford, Edward Astle, and Roger McDowell, who was appointed on 5 September 2002 on the retirement of
+the previous Director, Dr. Ceri James. The Board meets monthly to discuss and agree on the various matters
+brought before it through a comprehensive briefing document prepared by the Executive Directors and senior
+managers from all principal functions of the business. The three non-Executive Directors, who are all shareholders,
+are considered to be independent of management, as defined in Section A3.2 of the Code. They have been
+appointed for specified terms, and provide the necessary balance to the Executive Directors as a result of their
+outside expertise. All Directors have substantial experience in relevant positions and in the management of Listed
+companies of significant size.
+The Board has a formal schedule of matters reserved to it for decision. The Board formally reviews all matters
+affecting the Company, including strategy, acquisitions, disposals, budgets, business development, investor
+relations, product development goals, and senior appointments. In its review the Board also monitors the
+company’s exposure to key business risks.
+All Directors have access to the advice and services of the Company Secretary and to other senior managers, and
+may take independent professional advice on any matter which they believe warrants it at the Company’s
+expense.
+All Directors are required to submit themselves for re-election under the retirement by rotation provisions in the
+Company’s Articles of Association if they have held office for more than 30 months since their appointment or
+last re-appointment. Both Mike Frayne and John Arbuthnott will submit themselves for re-election at the
+forthcoming Annual General Meeting. The unexpired term of both their service contracts is two and a half
+months.
+The Board has established an Audit Committee and a Remuneration Committee. Each committee operates within
+defined terms of reference. There is no Nomination Committee as the Board as a whole formally considers the
+necessity for the appointment of additional Directors at regular intervals in the light of the Company’s
+development.
+THE AUDIT COMMITTEE
+The Audit Committee is chaired by Roger McDowell. Its other members are Edward Astle and Gordon Crawford.
+It meets at least once a year. The Committee has responsibility for, among other things, reviewing the Company’s
+annual report and accounts, its quarterly reports, and the involvement of the Company’s auditors in that process.
+The Committee reviews compliance with legal requirements, accounting standards and the rules of the UK Listing
+Authority, the scope, objectivity and cost-effectiveness of the audit process, and helps ensure that an effective
+system of internal financial control is maintained. The ultimate responsibility for reviewing and approving the
+annual report and accounts and the quarterly reports remains with the Board as a whole.
+THE REMUNERATION COMMITTEE
+The Remuneration Committee, which meets at least twice a year, is charged with setting the levels and conditions
+for Directors’ pay, bonuses and all other benefits, including compensation payments. The Remuneration
+Committee is chaired by Edward Astle and its other members are Roger McDowell and Gordon Crawford. The
+primary responsibilities of the committee are:
+• making recommendations to the Board on the Company’s policy on Directors’ and senior staff remuneration;
+• to set remuneration at a level appropriate to the responsibility and experience of the Directors;
+• to ensure that remuneration is adequate to attract and retain Directors and staff of the required calibre; and
+• that remuneration is in line with current industry practice, and set in light of pay and conditions of other staff
+within the group.
+Page_16 Intec Telecom Systems PLC Annual report and accounts 2002 Corporate governance continued
+DIRECTOR’S REMUNERATION
+A significant element of Directors’ remuneration can be in the form of annual bonuses, linked closely to the
+Company’s turnover and EBITDA performance. The Remuneration Committee sets policy on bonuses and
+objectives. The committee also takes account of the Combined Code’s recommendation on the length and
+conditions for Service Contracts for Directors. The Report by the Board to shareholders on Directors’ remuneration
+can be found on pages 20 to 22.
+CHAIRMAN’S AND CHIEF EXECUTIVE’S RESPONSIBILITIES
+The Chairman is responsible for the running of the Board and for major non-operational matters such as
+developing the Group strategy and overseeing merger and acquisition activity. The Chief Executive is charged with
+the management of the Company’s business activities to meet the objectives set out by the Board. Meetings of
+the Group’s senior management team take place at regular intervals, with Divisional Managers and other senior
+staff reporting formally to the Board on activities, budgets and objectives to ensure an appropriate level of control
+and information exchange is maintained.
+ACCOUNTABILITY AND AUDIT
+Financial reporting
+The Directors are responsible for preparing the financial statements which are presented on pages 31 to 55 
+A statement of Directors’ responsibilities is presented on page 29. Half year and quarterly reports are also 
+presented in a timely fashion, in compliance with Listing Authority requirements and to meet accepted best-
+practice market standards.
+Going concern statement
+The Directors, having made suitable enquiries and analysis of the accounts, consider that the Group has adequate
+resources to continue in business for the foreseeable future and that it is therefore appropriate to adopt the
+going concern basis in preparing financial statements.
+Internal control and risk management
+The Directors, who are responsible for the Group’s system of internal control, have established systems to ensure
+that an appropriate and reasonable level of oversight and control is provided. These systems are reviewed for
+effectiveness not less than annually by the Audit Committee and the Board, and include financial, operational,
+compliance and risk management controls.
+The Directors have reviewed the effectiveness of internal control of the Group in the period under consideration,
+and have taken into account any material developments which have taken place since 30 September 2002 up to
+the date of approval of the Annual report, the procedures and systems set out above, and the reports provided by
+individual managers. Such a system can only provide a reasonable and not absolute level of assurance against
+material misstatement or loss.
+A formal process for identifying, evaluating and managing the significant risks faced by the Group has remained
+in place up to the approval date of the annual report and accounts. That process is formally reviewed by the
+Board on an annual basis, is monitored regularly by the Executive Directors, and accords with the publication by
+the Turnbull working party on guidance for directors on internal control – Internal Control: Guidance for Directors
+on the Combined Code.
+Financial control
+Financial results with comparison to budgets and latest forecasts are reported on a monthly basis to the Board by
+the relevant senior managers across the Group, together with a report on operational achievements, objectives
+and issues encountered. Managers are supplied with detailed information on budget performance and variances
+to allow them to prepare their reports and address any problems. Detailed annual budgets are reviewed and
+approved by the Board. Budgets and objectives are updated regularly in the light of market developments and
+Company progress. Any significant variances from budgets are discussed at monthly Board meetings and actions
+set in place to address them.
+Page_17 Intec Telecom Systems PLC Annual report and accounts 2002 Corporate governance continued
+Operational control and risk management
+Operating and regional units formally report to the Board at monthly intervals on all non-financial matters, such
+as customer account management across all regions, sales performance, research and development project
+progress, product quality and customer support metrics, marketing programmes, IT systems, internal service level
+agreements and human resources issues.
+Risk management is applied through a systematic process of:
+• identification of risk sources by senior managers;
+• assessment of the effects of risk;
+• formulation of strategies to address each risk; and
+• inclusion of appropriate contingency provision in budgets if required.
+All senior managers of key operational areas of the business compile a list of significant risks, rank each risk for
+likelihood and impact, and set out plans for their management and mitigation, in light of the relative impact and
+costs. This information is reviewed monthly and summarised into a Risk Report which is reviewed by the main
+Board on a half yearly basis.
+Quality compliance
+During 2002 Intec initiated a programme to achieve compliance with the standard known as TL9001, a formal
+quality standard for the telecommunications industry equivalent in scope to ISO9001. Product quality is measured
+quantitatively on an ongoing basis, in terms of outstanding known issues, with a defined escalation and
+rectification process that recognises the importance of any problems to customers. The Company employs a full-
+time compliance manager at Woking who, with quality representatives in our major offices, maintains and
+monitors compliance with a library of formal quality and process procedure documents covering all aspects of
+Intec’s operations, which are held and accessible to all staff on the Company’s intranet. The compliance manager
+in conjunction with the Board agrees an annual audit programme, which he undertakes assisted by nominated
+experts in the organisation covering all geographies and operational areas of business.
+External communications and price sensitive information
+The requirement for Compliance with relevant Listing Authority provisions, such as staff share dealing and
+external communications, is communicated regularly to staff and actively monitored and regulated by the
+Company Secretary. An understanding of compliance and regulatory issues is now a part of staff induction
+training, is set out in the Company Handbook, and forms part of the terms and conditions of employment. Staff
+are notified on a regular basis of any applicable closed periods or other restrictions on dealing or external
+communications consequent on working for a Listed company. Only specific senior staff are authorised to
+comment externally on matters which might be considered to be share price sensitive information, and a Board-
+level process exists for determining which events or information should be considered price sensitive.
+Information management and security
+The Group uses computer systems for the majority of its financial control and record-keeping purposes. These
+systems are regularly reviewed for their ability to provide the security, accuracy and availability of information
+required to manage and control the business. The Group has established controls and procedures over the off-site
+storage of data held on computers, has a defined and monitored information security policy for all staff,
+maintains appropriate measures against deliberate external attack, regularly audits all computers for legal
+compliance and educates all staff in these matters. Security systems have been reviewed and upgraded during the
+current year to deal with perceived changes to the risk of loss, damage or information corruption through internal
+and external factors.
+SHAREHOLDER RELATIONS
+The Company engages in full and open communication with both institutional and private investors and responds
+promptly to all queries received. In conjunction with the Company’s brokers and other financial advisers all
+relevant news is distributed in a timely fashion through appropriate channels to ensure shareholders are able to
+access material information on the Company’s progress. The Group’s Annual and Interim reports are circulated to
+all shareholders on record and other interested parties, and may also be requested through a number of channels
+operated by World Investor Link. An investor relations web site has been established which contains all publicly
+Page_18 Intec Telecom Systems PLC Annual report and accounts 2002 Corporate governance continued
+available financial information and news on the Company. The Company received a techMARK award from the
+London Stock Exchange for the best Investor Relations web site in 2002. The Company also monitors the
+opinions of shareholders and the research published by market analysts in so far as this is practicable, and
+responds to concerns when appropriate. The Company reports quarterly on its performance, holding publicly
+accessible conferences or teleconferences where investors may question the Directors on any aspect of its
+business or related matters. All shareholders have at least twenty-one working days’ notice of the Annual General
+Meeting, which is held at a convenient location with adequate facilities for the expected audience. The Directors
+and committee chairs are available for questions at the Annual General Meeting. The Company meets all
+provisions of the Combined Code in respect of Proxy voting arrangements and Resolutions.
+COMPLIANCE STATEMENT
+The Listing Rules require the Board to report on compliance with the forty-five Code provisions throughout the
+year ended 30 September 2002. Save for the limited exception outlined below, the Board believes that the
+Company has complied throughout the financial year with the provisions set out in Section 1 of the Combined
+Code:
+A.2.1 The Board has not identified a senior non-Executive Director, as the governance of the Company is
+considered to be a matter for the Board as a whole.
+Page_19 Intec Telecom Systems PLC Annual report and accounts 2002 Report by the Board to shareholders on directors’ remuneration
+REMUNERATION COMMITTEE
+The Remuneration Committee, which meets at least twice a year, has responsibility for making recommendations
+to the Board on the Company’s policy on staff remuneration and for the determination, within agreed terms of
+reference, of specific remuneration packages for each of the Executive Directors and senior management
+(including pension rights and any compensation payments). The Committee is guided in its operation and
+decision making by the Code of Best Practice provisions on remuneration in the Combined Code of the UKLA.
+The Committee is chaired by Edward Astle and its other members are Roger McDowell (from 5 September 2002,
+replacing Dr Ceri James) and Gordon Crawford. None of the Committee has any personal financial interests
+(other than as shareholders), conflicts of interests arising from cross-directorships or day-to-day involvement in
+running the business.
+The Committee consults the Chairman and the Chief Executive about its proposals and has access to professional
+advice from inside and outside the Company. No Director plays a part in any discussion about his or her own
+remuneration. The primary responsibilities of the Committee are:
+• making recommendations to the Board on the Company’s policy on Directors’ and senior staff remuneration,
+and to oversee share option schemes;
+• to set remuneration at a level appropriate to the responsibility and experience of the Directors;
+• to ensure that such remuneration is adequate to attract and retain Directors and staff of the required calibre;
+and
+• that remuneration is in line with current industry practice, and set in light of pay and conditions of other staff
+within the group.
+REMUNERATION POLICY
+Executive remuneration packages are:
+• designed to attract, motivate and retain Directors of the calibre needed to maintain the Company’s position as
+a market leader within the IT and telecoms industry;
+• designed to align the interests of executives with shareholders; and
+• constructed with a substantial performance-related element set against appropriately demanding targets.
+The performance measurement of the Executive Directors and key members of senior management, and the
+determination of their annual remuneration packages, are undertaken by the Committee. The remuneration of
+the non-Executive Directors is determined by the Board.
+There are four main elements of the remuneration package for Executive Directors and senior management:
+a basic salary;
+b flexible benefits (including pension arrangements);
+c annual bonus payments; and
+d share option incentives.
+BASIC SALARY
+An Executive Director’s basic salary is reviewed annually, and paid as a fixed cash sum monthly. The Remuneration
+Committee, in determining salary adjustments, considers increased responsibilities such as the size of the group,
+individual performance and contribution, and pay market pressures. In setting salaries the Committee considers
+the Group as a whole and relies on up-to-date information extract from market reports on a comparator group of
+similar companies within the sector. No increases have been made to the basic salary arrangements from the 
+prior year.
+Page_20 Intec Telecom Systems PLC Annual report and accounts 2002 Report by the Board to shareholders on directors’ remuneration continued
+FLEXIBLE BENEFITS (INCLUDING PENSION ARRANGEMENTS)
+Intec operates a flexible benefits scheme for all staff and Directors, under which they may choose how a benefits
+allowance of 28 per cent of salary is allocated towards a range of employee benefits, including holiday in excess
+of the statutory minimum of twenty days and personal pension contributions. Any unallocated amounts will be
+paid monthly in cash. Outside of the Flexible Benefits scheme, all staff and the Directors are also entitled to
+private medical insurance and death in service benefit. All Directors are eligible to participate in the performance
+related annual bonus scheme for senior management described above. The maximum potential bonus will not
+exceed 100 per cent of salary.
+ANNUAL BONUS PAYMENTS
+The Directors believe that retaining a workforce which is motivated to achieve the Group’s objectives is
+fundamental to its continued prosperity. Accordingly, Executive Directors and key employees are eligible to
+participate in a performance related annual bonus scheme. The maximum potential bonus for any individual,
+together with the associated performance measures and targets, are set by the Remuneration Committee.
+Challenging performance measures and internal targets reflecting the objective of achieving key results were set
+for the year ended 30 September 2002 and reflected an appropriate balance between Group revenue, earnings
+and business unit objectives. Overall results did not meet the targets set and therefore no bonuses have been
+earned for this year.
+SHARE OPTIONS
+The Group operates the Intec Company Share Option Scheme (“Company Scheme”) which is constituted by
+rules, and includes a section which has been approved by the Inland Revenue under the Income and Corporation
+Taxes Act 1988 (“UK Approved Section”). The Remuneration Committee may select eligible employees and full-
+time Directors of the Company and its participating subsidiaries, nominated by the Directors, to receive options
+over Ordinary Shares in the Company.
+Details of the options granted and performance criteria are set out in notes 6 and 19 to the accounts. The
+rationale behind the grant of such options is to incentivise as well as to strengthen the links between the interests
+of the optionholders and those of the shareholders. All options granted are subject to certain vesting conditions.
+DIRECTORS’ CONTRACTS
+The Directors’ service contracts are terminable on 12 months’ prior written notice by either party, but the
+Company has the option to terminate the agreement immediately at any time on making a payment of salary in
+lieu of the notice period. Copies of Directors’ service contracts will be available for inspection at the Annual
+General Meeting.
+NON-EXECUTIVE DIRECTORS
+Each of the non-Executive Directors (Mr Roger McDowell, Mr Edward Astle and Mr Gordon Crawford) is engaged
+on letters of appointment. All appointments are subject to re-appointment by the Board at the next AGM.
+Appointments are terminable on three months’ prior written notice or in the event that the non-Executive
+Director ceases to be a Director of the Company. Each non-Executive Director receives annual fees of £25,000
+payable by equal monthly instalments in arrears. Non-Executive Directors are entitled to directors’ and officers’
+liability insurance cover under any scheme established by the Company. Non-Executive Directors do not
+participate in share option or bonus schemes.
+Page_21 Intec Telecom Systems PLC Annual report and accounts 2002 Report by the Board to shareholders on directors’ remuneration continued
+Table A – Emoluments of the directors
+Performance 2002 2001
+Salary/Fees Benefits bonus Total T otal
+£’000 £’000 £’000 £’000 £’000
+Kevin Adams 247 1 – 248 228
+John Arbuthnott 160 1 – 161 145
+Mike Frayne 129 22 – 151 131
+Edward Astle 25 – – 25 25
+Gordon Crawford 25 – – 25 25
+Roger McDowell
+1
+2–– 2 –
+Ceri James
+2
+25–– 25 25
+613 24 – 637 579
+1 Roger McDowell appointed 5 September 2002
+2 Ceri James resigned 5 September 2002
+There have been no increases in directors’ salaries during the current year. The difference between 2002 and
+2001 are due to salaries which applied for a full twelve months in 2002 compared to a pro-rata prior period.
+Table B – Interests of the directors
+The interests of the Directors and their immediate families, both beneficial and non-beneficial, in the ordinary
+shares of the Company were as follows:
+2002 2001
+Ordinary Ordinary
+Shares Shares
+Kevin Adams 6,323,474 6,323,474
+John Arbuthnott 321,570 321,570
+Mike Frayne
+1
+255,108 255,108
+Mike Frayne
+2
+85,452,524 94,052,524
+Edward Astle
+3
+13,384 13,384
+Gordon Crawford 693,262 1,193,262
+Roger McDowell 500,000 –
+93,559,322 102,334,854
+The above interests are in the ordinary share capital of the Company. No Director had any beneficial interest in
+any share capital of other Group companies or in any debenture of any Group company. As at 2 December 2002
+there were no changes to the interests of the Directors as stated above.
+1 This figure relates to ordinary shares which are ultimately owned by a Jersey trust of which the family of Mike Frayne are 
+beneficiaries.
+2 This figure relates to ordinary shares owned by Mican Limited. Of these shares, 28,353,519 (33.18%) are ultimately owned by a
+Jersey trust of which the family of Mike Frayne are beneficiaries (2001: 28,353,519 (30.15%)).
+3 This includes 7,744 ordinary shares owned by Barclays Nominee, the beneficiary of which is Mr. Edward Astle.
+Page_22 Intec Telecom Systems PLC Annual report and accounts 2002 Report by the Board to shareholders on directors’ remuneration continued
+Table C – Share options
+Options to subscribe for or acquire ordinary shares of the Company were held by the following Directors during 
+the year:
+Outstanding Outstanding at
+at 1 October 30 September Exercise
+Director Scheme 2001 Granted Lapsed 2002 price
+Kevin Adams Approved
+1
+8,451 – – 8,451 £2.87
+1/2
+Kevin Adams Unapproved
+1
+137,318 – – 137,318 £2.05
+Kevin Adams Unapproved
+2
+55,882 – – 55,882 £1.07
+Kevin Adams Approved
+3
+– 8,147 (8,147) – £0.70
+1/2
+Kevin Adams Unapproved
+3
+– 534,710 (534,710) – £0.70
+1/2
+John Arbuthnott Approved
+1
+7,964 – – 7,964 £2.87
+1/2
+John Arbuthnott Unapproved
+1
+65,025 – – 65,025 £2.05
+John Arbuthnott Unapproved
+2
+37,765 – – 37,765 £1.07
+John Arbuthnott Approved
+3
+– 10,147 (10,147) – £0.70
+1/2
+John Arbuthnott Unapproved
+3
+– 346,995 (346,995) – £0.70
+1/2
+Mike Frayne Approved
+1
+8,348 – – 8,348 £2.87
+1/2
+Mike Frayne Unapproved
+1
+52,684 – – 52,684 £2.05
+Mike Frayne Unapproved
+2
+32,353 – – 32,353 £1.07
+Mike Frayne Unapproved
+3
+– 314,285 (314,285) – £0.70
+1/2
+1 These options, granted in June 2000, have vested and are exercisable from the date of announcement of results for the years
+ended/ending 30 September 2000, 2001, 2002 and 2003 in the ratio of 20%, 30%, 30% and 20% respectively.
+2 These options, granted on 21 June 2001, have vested and are exercisable from the date of announcement of results for the years
+ended/ending 30 September 2001, 2002, 2003 and 2004 in the ratio of 20%, 30%, 30% and 20% respectively.
+3 These options, granted on 27 March 2002, had specific performance critera based on achieving target revenue of £44.46 million and
+EBITDA in excess of £5.53 million for the year ended 30 September 2002. As the EBITDA performance criteria was not met, these
+options have lapsed.
+Page_23 Intec Telecom Systems PLC Annual report and accounts 2002 Product review
+PRODUCT STRATEGY
+This product strategy review is intended to give an overall description of developments within Intec Telecom
+System’s major product lines in 2002, and an overview of intended developments in coming periods. We
+recommend that it should be read in conjunction with the Product Overview given in the Intec Telecom Systems
+Corporate Overview 2002/3 (sent to all shareholders with this report, and available from Intec). Detailed product
+information can be obtained directly from Intec or downloaded from the web site: www.intec-telecom-
+systems.com
+Since its formation Intec set out to build a leading market share position in certain products that fall within the
+specialised area of the telecoms software market generally known as Operations Support Systems (OSS). OSS are
+the fundamental building blocks of the information systems used by telecoms companies to provide services to
+customers and to generate revenues from network operations. Without OSS a modern telecoms company cannot
+function, and the quality of its systems helps determine the performance of the business. Research reports on the
+OSS market suggest that it has an overall size of approximately $30 billion annually.
+Within this market Intec has focused on two related areas: interconnect billing and convergent mediation.
+Interconnect was the company’s original focus, and this was expanded to include mediation with the December
+2000 purchase of Atlanta-based Computer Generation, Inc.. This followed a successful commercial partnership
+between the two companies. Other acquisitions and internal product developments have brought Intec additional
+products that support these core competencies.
+Intec’s product development policy is to invest a substantial proportion of its revenues in developing additional
+functionality for existing software, developing next-generation products that will eventually supersede existing
+offerings, and expanding its product range into new areas. However, all developments are the subject of rigorous
+business case analysis, and justification at Board level, to ensure that they will effectively meet real market
+requirements and thus allow profitable sales to be made.
+Products are created and managed by Intec’s Product Operations division, which works closely with other parts of
+the company, particularly sales and marketing groups, to ensure that Intec offers software that has the
+functionality and performance required by customers worldwide, when they need it. Intec also benefits from
+active and well-supported User Groups which contribute substantially to product development. As part of the
+ongoing process to ensure our products are properly understood by their target customers a full rebranding and
+re-positioning exercise was carried out in 2002, and a new website with greatly expanded product details created.
+InterconnecT
+InterconnecT, the company’s original product, is the clear market share leader in the global market for
+interconnect billing systems, with around 150 customers, including Vodafone, Orange, France Telecom, Hutchison
+3G, BellSouth and many others. InterconnecT allows these companies to produce high-value bills for carrying
+each other’s communications traffic. The sums involved can run into hundreds of million of dollars (or more)
+annually.
+During 2002 we have continued to build InterconnecT’s market share, and to develop the capabilities of the
+product to meet customer requirements in the many countries and the wide range of networks where it is
+installed.
+There are two variants of InterconnecT, for standard domestic and international interconnect bill settlement, and
+for international settlement according to the rules defined by the International Telecommunications Union
+(InterconnecT ITU). Both products have been the subject of substantial version upgrades in 2002. We believe both
+products are widely considered the benchmark for functionality and performance in the marketplace.
+With the acquisition of business units from ICL and Ericsson, we also have customers running their former
+interconnect products, Prospero and Settler. Prospero has been discontinued as a development product but will
+continue to be supported. Settler will be developed and supported in line with its existing roadmap. Both
+products, and InterconnecT, will be superseded by the next generation platform now under development.
+Page_24 Intec Telecom Systems PLC Annual report and accounts 2002 Product review continued
+InterconnecT CABS CG
+In 2001 Intec acquired a Dallas, Texas-based company, CHA Systems, which was successfully developing and
+marketing a carrier access billing product for the domestic US marketplace. This is effectively the local US
+equivalent of domestic interconnect billing in other regions. This product, since rebranded as InterconnecT CABS
+CG is now winning many more customers in the US, for both carrier-operated systems and an Intec-delivered
+bureau service. Current customer numbers stand at over 100. In mid-2002 this product was upgraded in
+performance, functionality and standards-compliance to meet the needs of the largest CLECs, ILECs and even
+RBOCs in the US. To recognise this, we added CG (Carrier Grade) to its name. Development continues on
+InterconnecT CABS CG to ensure that it continues to be the most effective product in the fast-changing and very
+competitive world of US telecommunications.
+Inter-mediatE
+Inter-mediatE provides the vital services of network usage data collection, processing and distribution – together
+know as mediation. When an event occurs on a communications network, such as a telephone call, an Internet
+connection, or the delivery of a service or transaction, information on that event needs to be accurately identified,
+processed, and forwarded to other systems, including billing, so that it can be charged to a customer. Mediation
+thus lies at the heart of revenue generation for a carrier, and also strongly impacts functions such as network
+management, service provision, and customer care.
+Inter-mediatE is a convergent mediation system, which is to say that it can manage many different types of
+network event: conventional switched calls, unswitched (packet-based) traffic like Internet Protocol (IP) data,
+mobile communications, and next-generation systems like UMTS (3G). It is also designed to handle the very
+highest volumes of traffic found in major carriers today – over 100 customers use Inter-mediatE, including Bell
+South, Verizon, SBC, Telstra and Hutchison 3G.
+In 2002 Inter-mediatE reached Version 4 status, a major release that added many new capabilities intended to
+address the needs of all operators but particularly carriers looking to the next generation of complex, high-value
+services. This will include things like picture message, multi-media content, and location-based services. In
+addition, Inter-mediatE has been enhanced this year with new capabilities in the key area of information
+reporting, to allow customers to build a detailed view of what is happening in their networks. Initial customer
+feedback on this capability is very good.
+Other products
+Our core products of InterconnecT and IntermediatE are supported by a number of ancillary products that are
+usually but not necessarily sold in conjunction with them. Perhaps the most significant development in 2002 
+was the first release of a new product, Inter-activatE, which offers activation and service provisioning capabilities.
+Inter-activatE is designed to lower service activation costs by offering a single-platform environment for multiple
+service activation, high levels of automation, and comprehensive auditing and fallout management capabilities.
+Inter-activatE has already won its first customers, and feedback from those sites is helping define future 
+product direction.
+Intec has also begun marketing two new products, Maxi-routE and Maxi-solvE. These products assist operatiors in
+determining Least Cost Routing options and in automating the reconciliation of interconnect invoices. Both
+products help carriers improve revenues and cut operating costs, and we expect good demand for both.
+During the year Intec also reviewed the position and future contribution of a number of minor products, primarily
+in the revenue assurance fraud management area, that were acquired with companies bought in 2001. Although
+Intec remains in the revenue assurance market with other capabilities, the fraud product has been discontinued as
+an actively developed and marketed item.
+Page_25 Intec Telecom Systems PLC Annual report and accounts 2002 Product review continued
+ROADMAP
+The telecommunications market is very dynamic, and many new services are being currently offered to
+consumers. Intec’s development policy is to have available products that meet actual customer demand when it
+materialises. Therefore, we maintain a detailed product roadmap for both existing products, and, more
+importantly, for next-generation platforms, that will deliver the performance and functionality that we anticipate
+will be required. This roadmap extends to approximately five years from the present time, and covers such issues
+as new platform definition, development, introduction and marketing, current system wind-down and retirement,
+and customer migration between old and new versions. The roadmap process is intended to ensure high levels of
+customer loyalty and retention through continuity of quality products and service, maximum return on Intec’s
+development investment, and continual improvement in operating performance and market responsiveness.
+The current roadmap for our core InterconnecT and Inter-mediatE products defines a full, but staged, introduction
+of next-generation platforms over a time span of the next twenty four months. Development projects to ensure
+this are now well advanced. These next-generation platforms will offer higher functionality, improved
+performance, and lower operating costs to existing and new customers.
+For more information on Intec products and services, please visit www.intec-telecom-systems.com
+Page_26 Intec Telecom Systems PLC Annual report and accounts 2002 Directors’ report
+The Directors present their annual report and the audited financial statements for the year ended
+30 September 2002.
+ACTIVITIES
+Intec Telecom Systems develops and markets telecoms Operations Support Systems software (OSS) and provides
+related professional services such as implementation, consultancy and training, on a global basis. The Company
+also operates its software as an Application Service Provision (‘ASP’) or bureau service for a number of customers.
+REVIEW OF DEVELOPMENTS AND FUTURE PROSPECTS
+The Group intends to continue with its present business strategy of developing and selling software and services 
+to telecom operators. A full review of the business can be found in the Chairman’s Statement and Chief 
+Executive’s Review.
+RESULTS AND DIVIDENDS
+The results for the year are shown in the profit and loss account. A full review of the results for the year can be
+found in the Chief Executive’s Review and Finance Director’s Review. The Directors do not recommend the
+payment of a dividend (2001: £nil).
+POST BALANCE SHEET EVENT
+On 20 November 2002, the Company announced its intention to acquire Ericsson’s ‘Settler’ business unit for a
+sum of $5.1 million (£3.3 million). Further details are provided in the Finance Directors’ Review.
+DEVELOPMENT EXPENDITURE
+The Group commits substantial resources to research and development activities to ensure its products meet
+present and future market expectations. The Group expenses development expenditure as it is incurred. The
+development expenditure expensed at cost in the period was £8,026,000 (2001: £5,869,000).
+DIRECTORS AND THEIR INTERESTS
+Ceri James resigned as non-executive director on 5 September 2002 and was replaced on the Board by 
+Roger McDowell.
+None of the Directors had a material interest in any contract to which the parent company or any subsidiary was
+a party during the financial year. The interests of the Directors in the share capital of the Company are shown in
+Table B of the Report by the Board to shareholders on directors’ remuneration (“Table B”).
+SHARE CAPITAL
+Details of the movements in share capital can be found in note 19. 270,000 ordinary 1p shares are held by Intec
+Employee Share Trust at a cost of £2.05 each. See note 12 for more details.
+SUBSTANTIAL SHAREHOLDINGS
+So far as the Company is aware, apart from certain Directors’ interests that are disclosed in Table B, the only
+holdings of 3% or more in the issued share capital of the Company at 30 September 2002 (being notifiable
+interests in accordance with Sections 198 to 208 of the Act) are Mican Limited 44.90% and Henderson Global
+Investors 10.98%.
+POLICY ON PAYMENT OF CREDITORS
+It is the Group’s normal practice to make payments to suppliers in accordance with agreed terms provided that
+the supplier has performed in accordance with the relevant terms and conditions. Trade creditors at 30 September
+2002 represented, on average 19 days’ purchases (2001: 22 days) for the group and 5 days’ purchases (2001: 13
+days) for the Company.
+Page_27 Intec Telecom Systems PLC Annual report and accounts 2002 Directors’ report continued
+CHARITABLE CONTRIBUTIONS
+The Group made charitable contributions of £14,657 during the year (2001: £1,631). Neither the Company nor
+any of its subsidiaries made any donation for political purposes in 2002 or 2001.
+EMPLOYMENT OF DISABLED PERSONS
+The Group operates in a number of countries, and continued the policy regarding the employment of disabled
+persons. It is Group policy to offer equal opportunities to disabled people, and to continue wherever possible the
+employment of staff who become disabled, and to offer retraining for purposes of career development to 
+disabled staff.
+INVOLVEMENT
+The Group encourages all staff to share a commitment to the success of the business, and to its operation as a
+responsible and ethical organisation. The Group supports both formal and informal communication between
+Directors, managers and staff, through regular individual reviews, quarterly staff briefings, and monthly internal
+newsletters. An annual, confidential survey of staff opinions is also conducted, and Intec has also begun the
+process of setting up Employee Relations Forums consistent with the guidelines suggested by the EU. All new
+staff joining the company receive formal induction training, including awareness of their obligations as employees
+of a listed company. Staff training needs are reviewed regularly. A staff Share Options scheme is open to all
+employees, and a large proportion of staff are now shareholders.
+ENVIRONMENTAL POLICY
+It is the Group’s policy to support and encourage environmentally sound business operations. Recognising that
+the Group’s own operations have minimal direct environmental impact, our policy is to:
+1 Meet all statutory obligations placed on us.
+2 Where sensible, encourage working practices, such as teleconferencing, teleworking and electronic
+information exchange, that reduce environmental load.
+3 Re-cycle waste products wherever possible, encourage use of environmentally friendly materials, and dispose
+safely of any non-recyclable materials.
+BRANCHES OUTSIDE THE UK
+The Group has subsidiaries or offices in Australia, Brazil, France, Switzerland, Hong Kong, India, Italy, Lebanon,
+Malaysia, Mexico, Portugal, Spain, Taiwan, South Africa, and the USA.
+ANNUAL GENERAL MEETING
+The resolutions to be proposed at the annual general meeting, together with explanatory notes, appear in the
+separate Notice of Annual General Meeting sent to all shareholders. The proxy card for registered shareholders is
+distributed with the annual accounts.
+AUDITORS
+Deloitte & Touche have expressed their willingness to continue in office as auditors and a resolution to reappoint
+them will be proposed at the forthcoming Annual General Meeting.
+Approved by the Board of Directors, and signed on behalf of the Board.
+Jean B Exelby FCCA
+Secretary
+2 December 2002
+Page_28 Intec Telecom Systems PLC Annual report and accounts 2002 Statement of directors’ responsibilities
+United Kingdom company law requires the Directors to prepare financial statements for each financial year which
+give a true and fair view of the state of affairs of the company and the group as at the end of the financial year 
+and of the profit or loss of the group for that period. In preparing those financial statements, the Directors are
+required to:
+• select suitable accounting policies and then apply them consistently;
+• make judgements and estimates that are reasonable and prudent; and
+• state whether applicable accounting standards have been followed.
+The Directors are responsible for keeping proper accounting records which disclose with reasonable accuracy at
+any time the financial position of the company and the group and to enable them to ensure that the financial
+statements comply with the Companies Act 1985. They are also responsible for the system of internal control,
+safeguarding the assets of the group and hence for taking reasonable steps for the prevention and detection of
+fraud and other irregularities.
+Page_29 Intec Telecom Systems PLC Annual report and accounts 2002 Independent auditors’ report to the members of Intec Telecom Systems PLC
+We have audited the financial statements of Intec Telecom System PLC for the year ended 30 September 2002
+which comprise the profit and loss account, the balance sheets, the cash flow statement, the statement of total
+recognised gains and losses and the related notes 1 to 22. These financial statements have been prepared under
+the accounting policies set out therein.
+Respective responsibilities of directors and auditors
+As described in the statement of directors’ responsibilities, the company’s directors are responsible for the
+preparation of the financial statements in accordance with applicable United Kingdom law and accounting
+standards. Our responsibility is to audit the financial statements in accordance with relevant United Kingdom legal
+and regulatory requirements, auditing standards, and the Listing Rules of the Financial Services Authority.
+We report to you our opinion as to whether the financial statements give a true and fair view and are properly
+prepared in accordance with the Companies Act 1985. We also report if, in our opinion, the directors’ report is
+not consistent with the financial statements, if the company has not kept proper accounting records, if we have
+not received all the information and explanations we require for our audit, or if information specified by law or
+the Listing Rules regarding directors’ remuneration and transactions with the company and other members of the
+group is not disclosed.
+We review whether the corporate governance statement reflects the company’s compliance with the seven
+provisions of the Combined Code specified for our review by the Listing Rules and we report if it does not. We
+are not required to consider whether the board’s statements on internal control cover all risks and controls, or
+form an opinion on the effectiveness of the group’s corporate governance procedures or its risk and control
+procedures.
+We read the directors’ report and the other information contained in the annual report for the above year as
+described in the contents section and consider the implications for our report if we become aware of any
+apparent misstatements or material inconsistencies with the financial statements.
+Basis of audit opinion
+We conducted our audit in accordance with United Kingdom auditing standards issued by the Auditing Practices
+Board. An audit includes examination, on a test basis, of evidence relevant to the amounts and disclosures in the
+financial statements. It also includes an assessment of the significant estimates and judgements made by the
+directors in the preparation of the financial statements and of whether the accounting policies are appropriate to
+the circumstances of the company and the group, consistently applied and adequately disclosed.
+We planned and performed our audit so as to obtain all the information and explanations which we considered
+necessary in order to provide us with sufficient evidence to give reasonable assurance that the financial
+statements are free from material misstatement, whether caused by fraud or other irregularity or error. In forming
+our opinion, we also evaluated the overall adequacy of the presentation of information in the financial
+statements.
+Opinion
+In our opinion the financial statements give a true and fair view of the state of affairs of the company and the
+group as at 30 September 2002 and of the loss of the group for the year then ended and have been properly
+prepared in accordance with the Companies Act 1985.
+Deloitte & Touche
+Chartered Accountants and Registered Auditors
+London
+2 December 2002
+Page_30 Intec Telecom Systems PLC Annual report and accounts 2002 Year ended 30 September 2002
+Profit and loss account
+Before Intangible
+intangible amortisation
+amortisation, impairment
+impairment and
+and exceptionals
+exceptionals (notes 10,12) Total T otal
+2002 2002 2002 2001
+Note £’000 £’000 £’000 £’000
+Turnover
+Continuing operations 45,853 45,853 39,798
+Acquisitions 1,621 1,621 –
+Total turnover 2,4 47,474 47,474 39,798
+Cost of sales 4 (15,430) (15,430) (12,675)
+Gross profit 32,044 32,044 27,123
+Distribution costs 4 (9,945) (9,945) (9,158)
+Administrative expenses:
+Development expenditure (8,026) – (8,026) (5,869)
+Amortisation of goodwill and other intangible assets 10 – (7,079) (7,079) (8,680)
+Impairment of goodwill 10 – (7,464) (7,464) (133,400)
+Other administrative expenses 5 (12,079) (776) (12,855) (10,140)
+Total administrative expenses 4 (20,105) (15,319) (35,424) (158,089)
+Operating profit (loss)
+Continuing operations 1,317 (13,611) (12,294) (140,124)
+Acquisitions 677 (1,708) (1,031) –
+Group operating profit (loss) 4,5 1,994 (15,319) (13,325) (140,124)
+Share of operating profit in associate 12 ––– 78
+Total operating profit (loss) 1,994 (15,319) (13,325) (140,046)
+Amount written off investments 12 – (321) (321) (283)
+Interest receivable and similar income 494 – 494 1,171
+Interest payable and similar charges 7 (331) – (331) (73)
+Profit (loss) on ordinary activities before taxation 2,157 (15,640) (13,483) (139,231)
+Tax charge on profit (loss) on ordinary activities 8 (1,299) – (1,299) (1,140)
+Profit (loss) on ordinary activities after taxation
+retained for the financial year 858 (15,640) (14,782) (140,371)
+Profit (loss)/earnings per share – basic 9 (7.94p) (80.21p)
+Profit (loss)/earnings per share – adjusted 9 0.46p 1.14p
+Profit (loss)/earnings per share – diluted 9 (7.94p) (80.21p)
+The Company has taken advantage of S230 Companies Act 1985 and has not prepared a separate profit 
+and loss account. The loss after taxation dealt with in the accounts of the company is £40,222,000
+(2001: £91,378,000 loss).
+Page_31 Intec Telecom Systems PLC Annual report and accounts 2002 Consolidated statement of total recognised gains and losses
+Year ended 30 September 2002
+2002 2001
+£’000 £’000
+Loss for the financial year (14,782) (140,371)
+Exchange translation differences arising on foreign currency net investments (557) (168)
+Total recognised gains and losses in the year (15,339) (140,539)
+Reconciliation of movements in consolidated shareholders’ funds
+2002 2001
+£’000 £’000
+Loss for the financial year (14,782) (140,371)
+Other recognised gains and losses relating to the year (557) (168)
+Issue of share capital net of associated expenses 3,353 197,182
+Movement on contingent consideration on acquisitions (2,497) 2,497
+(Decrease)/increase in shareholders’ funds (14,483) 59,140
+Opening shareholders’ funds 100,690 41,550
+Closing shareholders’ funds 86,207 100,690
+Page_32 Intec Telecom Systems PLC Annual report and accounts 2002 30 September 2002
+Consolidated balance sheet
+2002 2001
+Note £’000 £’000
+Fixed assets
+Intangible assets 10 63,422 73,181
+Tangible assets 11 2,910 3,009
+Investments 12 101 422
+66,433 76,612
+Current assets
+Stocks 64 29
+Debtors 13 17,965 19,103
+Investments 14 5,151 2,966
+Cash at bank and in hand 8,156 14,987
+31,336 37,085
+Creditors: falling due within one year 15 (5,796) (7,759)
+Net Current assets 25,540 29,326
+Total assets less Current Liabilities 91,973 105,938
+Creditors: falling due after more than one year 16 – –
+Deferred income due within one year (5,766) (5,248)
+Total Net assets 86,207 100,690
+Capital and Reserves
+Called up share capital 19 1,903 1,836
+Share premium account 20 238,652 235,366
+Other reserves 20 – 2,497
+Merger reserve 20 249 249
+Foreign exchange reserve 20 (708) (151)
+Profit and loss account 20 (153,889) (139,107)
+Equity Shareholders’ Funds 86,207 100,690
+These financial statements were approved by the Board of Directors on 2 December 2002.
+Signed on behalf of the Board of Directors.
+John Arbuthnott, FCMA
+Finance Director
+Page_33 Intec Telecom Systems PLC Annual report and accounts 2002 Company balance sheet
+30 September 2002
+2002 2001
+Note £’000 £’000
+Fixed assets
+Investments 12 60,302 116,008
+Current assets
+Debtors 13 40,298 19,200
+Investments 14 5,140 2,836
+Cash at bank and in hand 3,802 12,910
+49,240 34,946
+Creditors: falling due within one year 15 (295) (2,341)
+Net Current assets 48,945 32,605
+Total Net assets 109,247 148,613
+Capital and Reserves
+Called up share capital 19 1,903 1,836
+Share premium account 20 238,652 235,366
+Other reserves 20 – 2,497
+Profit and loss account 20 (131,308) (91,086)
+Equity Shareholders’ Funds 109,247 148,613
+These financial statements were approved by the Board of Directors on 2 December 2002.
+Signed on behalf of the Board of Directors.
+John Arbuthnott, FCMA
+Finance Director
+Page_34 Intec Telecom Systems PLC Annual report and accounts 2002 Year ended 30 September 2002
+Consolidated cash flow statement
+2002 2001
+Note £’000 £’000
+Net cash inflow/(outflow) from operating activities i 2,770 (3,716)
+Returns on investments and servicing of finance 
+Interest received 494 1,171
+Interest element of finance lease rental payments (4) (17)
+Interest paid and similar items (327) (56)
+163 1,098
+Taxation 
+Overseas taxation (paid)/received (378) 5
+UK Corporation taxation paid (10) (531)
+(388) (526)
+Capital investment 
+Payments to acquire tangible fixed assets (1,651) (1,861)
+Payment to acquire Intellectual Property Rights – (304)
+Proceeds on disposal of fixed assets 59 74
+(1,592) (2,091)
+Acquisitions 
+Investment in subsidiaries (5,222) (188,680)
+Net cash acquired with subsidiaries 6 1,801
+(5,216) (186,879)
+Cash outflow before management of liquid resources and financing (4,263) (192,114)
+Use of liquid resources
+(Increase)/decrease in cash investments/term deposits (2,252) 15,377
+Payments received from escrow 52 627
+Financing
+Issue of ordinary share capital – 183,700
+Share issue costs charged to the share premium account – (4,922)
+Capital element of finance lease payments (188) (234)
+(Decrease)/increase in cash in the period ii, iii (6,651) 2,434
+Page_35 Intec Telecom Systems PLC Annual report and accounts 2002 Notes to the cash flow statement
+Year ended 30 September 2002
+i Reconciliation of operating loss to net cash In flow/ out flow) from 
+operating activities
+2002 2001
+£’000 £’000
+Operating loss (13,325) (140,124)
+Depreciation 1,745 1,380
+Amortisation of goodwill and other intangible assets 7,079 8,680
+Impairment of goodwill 7,464 133,400
+Gain on disposal of fixed assets (25) (10)
+(Increase)/decrease in stock (39) 79
+Increase in debtors (172) (2,948)
+Decrease/(increase) in creditors 43 (4,173)
+Net cash inflow/(outflow) from operating activities 2,770 (3,716)
+ii Reconciliation of net cash flow to movement in net funds
+2002 2001
+£’000 £’000
+(Decrease)/increase in cash in the period (6,651) 2,434
+Net cash outflow from decrease in finance lease 188 234
+Net cash outflow/(inflow) from increase/(decrease) in liquid resources 2,200 (16,004)
+Change in net funds resulting from cashflows (4,263) (13,336)
+Finance leases acquired with subsidiary – (178)
+Translation differences (195) 58
+Movement in net funds (4,458) (13,456)
+Net funds at 1 October 2001/2000 17,765 31,221
+Net funds at 30 September 2002/2001 13,307 17,765
+iii Analysis of movement in net funds
+Foreign 30
+30 September exchange September
+2001 Cash flow translation 2002
+£’000 £’000 £’000 £’000
+Cash in hand and at bank 14,987 (6,651) (180) 8,156
+Finance leases (188) 188 – –
+Cash investments/term deposits 2,914 2,252 (15) 5,151
+Escrow account 52 (52) – –
+Total 17,765 (4,263) (195) 13,307
+Page_36 Intec Telecom Systems PLC Annual report and accounts 2002 Year ended 30 September 2002
+Notes to the accounts
+1  ACCOUNTING POLICIES
+Basis of accounting
+The financial statements are prepared under the historical cost convention and in accordance with applicable
+accounting standards. The particular accounting policies adopted are described below.
+FRS 19 (Deferred tax) has been adopted in the year, but has not necessitated any restatement of prior 
+year results.
+Basis of consolidation
+The Group financial statements consolidate the financial statements of Intec Telecom Systems PLC and all its
+subsidiaries. The results of companies or business units acquired during the year are included from the date 
+of acquisition.
+On the acquisition of a business fair values are attributable to the group’s share of net separable assets. Where
+the cost of acquisition exceeds the fair values attributable to such net assets, the difference is treated as
+purchased goodwill and capitalised in the balance sheet in the year of acquisition.
+Turnover
+The Group derives its income principally from the sale of software licences, development projects performed for
+clients and fees derived from installation, consultancy, training and maintenance.
+Income from the sale of software licences is recognised on completion of contractual milestones or when
+milestones are unconditional. These contractual milestone obligations normally include grant of licence on signing
+of the contract, which coincides with delivery, installation of the software and customer acceptance, and as such
+licence income is normally recognised prior to final customer acceptance testing.
+Income from implementation of software is recognised on a percentage of completion basis over the period of
+installation or on completion of contractual milestone performance obligations.
+Income from development performed for clients is recognised over the life of the contract or in accordance with
+contractual milestones. Where contracts with customers require significant development to the core software, any
+applicable licence fees are recognised as income over the life of the development phase of the contract.
+Fee income from consultancy, training and maintenance is recognised over the period in which the service is
+provided and Turnover is stated net of value added tax.
+Foreign currency translation
+Foreign currency transactions are converted to sterling at the rates ruling at the dates of the transactions.
+Monetary assets and liabilities denominated in foreign currencies are translated into sterling at the rates ruling on
+the balance sheet date. These translation differences are taken to the profit and loss account.
+The results of overseas subsidiaries are translated into sterling at average rates for the year. The net
+assets/(liabilities) of overseas subsidiaries are translated at year end exchange rates. The exchange differences are
+taken to reserves and reported in the statement of total recognised gains and losses.
+Research and development expenditure
+Research and development expenditure is expensed to the profit and loss account as incurred.
+Page_37 Intec Telecom Systems PLC Annual report and accounts 2002 Notes to the accounts continued
+Year ended 30 September 2002
+1  ACCOUNTING POLICIES CONTINUED
+Goodwill and intangible assets
+For acquisition of a business, purchased goodwill is capitalised in the year in which it arises and amortised over its
+estimated useful life up to a maximum of fifteen years. The directors regard fifteen years as a reasonable
+maximum for the estimated useful of a goodwill since it is difficult to make projections exceeding this period.
+Patents and trademarks are valued at cost on acquisition and are depreciated over their estimated useful
+economic lives of up to ten years.
+Tangible fixed assets
+Depreciation is provided on cost in equal annual instalments over the estimated useful lives of the assets. 
+The rates of depreciation are as follows:
+Leasehold improvement 33
+1/3
+% per annum
+Motor Vehicles 33
+1/3
+% per annum
+Computer software & equipment 33
+1/3
+% per annum
+Furniture and equipment 33
+1/3
+% per annum
+Investments
+Investments held as fixed assets are stated at cost less provision for any impairment.
+Leases and hire purchase contracts
+Tangible fixed assets acquired under finance leases and hire purchase contracts are capitalised at the estimated
+fair value at the date of inception of each lease or contract and depreciated over their estimated useful lives. The
+total finance charges are allocated over the period of the lease in such a way as to give a constant charge on the
+outstanding liability.
+Operating lease rentals payable are charged to profit and loss over the lease term.
+Deferred taxation
+Deferred tax is provided in full on timing differences which result in an obligation at the balance sheet date to pay
+more tax, or a right to pay less tax, at a future date, at rates expected to apply when they crystallise based on
+current tax rates and law. Timing differences arise from the inclusion of items of income and expenditure in
+taxation computations in periods different from those in which they are included in financial statements. Deferred
+tax is not provided on timing differences arising from the revaluation of fixed assets where there is no
+commitment to sell the asset, or on unremitted earnings of subsidiaries and associates where there is no
+commitment to remit these earnings. Deferred tax assets are recognised to the extent that it is regarded as more
+likely than not that they will be recovered. Deferred tax assets and liabilities are not discounted.
+Financial instruments
+Transactions denominated in foreign currencies are recorded at the rate ruling on the date of the transaction,
+unless matching forward foreign exchange contracts have been entered into, in which case the rate specified in
+the relevant contract is used. At the balance sheet date unhedged monetary assets and liabilities denominated in
+foreign currencies are translated at the rate of exchange ruling at that date.
+Page_38 Intec Telecom Systems PLC Annual report and accounts 2002 Year ended 30 September 2002
+Notes to the accounts continued
+2  TURNOVER AND SEGMENTAL REPORTING
+Geographic areas – analysis by location of operations
+Total Inter-segment External 
+turnover turnover turnover
+2002 2001 2002 2001 2002 2001
+£’000 £’000 £’000 £’000 £’000 £’000
+Turnover
+United Kingdom 21,148 22,919 (1,509) (1,737) 19,639 21,182
+Continental Europe 166 400–– 166 400
+Asia-Pacific 1,758 1,072 – (64) 1,758 1,008
+North America & Canada 25,566 17,224 (600) (215) 24,966 17,009
+South America 945 205 – (6) 945 199
+49,583 41,820 (2,109) (2,022) 47,474 39,798
+Geographic markets – analysis by location of client
+Turnover by destination
+2002 2001
+£’000 £’000
+United Kingdom 3,519 6,105
+Continental Europe 9,753 10,528
+Eastern Europe 1,235 1,562
+Middle East 728 680
+Africa 1,687 814
+Asia-Pacific 5,521 4,977
+North America & Canada 21,058 12,576
+South America 3,973 2,556
+47,474 39,798
+Turnover by type
+Turnover by activity is set out below. It is not practicable to allocate either profit before taxation or net assets by
+client location or activity.
+Turnover by activity
+2002 2001
+£’000 £’000
+Licence Sales 15,481 14,165
+Professional services income:
+Implementation and migrations 6,937 4,752
+Consulting and training income 1,793 1,904
+Hardware 576 502
+Non-Telecom – custom network solutions 2,957 2,493
+Sub-total 12,263 9,651
+Recurring income:
+ASP Service 2,761 1,675
+Volume upgrade licences 1,928 3,598
+Support and maintenance fees 15,041 10,709
+Sub-total 19,730 15,982
+47,474 39,798
+Page_39 Intec Telecom Systems PLC Annual report and accounts 2002 Notes to the accounts continued
+Year ended 30 September 2002
+2  TURNOVER AND SEGMENTAL REPORTING CONTINUED
+Before After
+amortisation amortisation
+of goodwill of goodwill
+and and
+exceptional Amortisation Goodwill Exceptional exceptional
+items of goodwill impairment items items
+Year ended 30 September 2002 £’000 £’000 £’000 £’000 £’000
+Loss before taxation
+United Kingdom 677 (2,200) (1,684) (1,097) (4,304)
+Continental Europe 185 (74) – – 111
+Asia-Pacific 187 (420) (5,780) – (6,013)
+North America & Canada 948 (4,385) – – (3,437)
+South America 160––– 160
+Loss before taxation 2,157 (7,079) (7,464) (1,097) (13,483)
+Before After
+amortisation amortisation
+of goodwill of goodwill
+and and
+exceptional Amortisation Goodwill Exceptional exceptional
+items of goodwill impairment items items
+Year ended 30 September 2001 £’000 £’000 £’000 £’000 £’000
+United Kingdom 1,077 (329) – (283) 465
+Continental Europe 221 (9) – – 212
+Asia-Pacific (84) (681) (16,000) – (16,765)
+North America & Canada 2,576 (7,661) (117,400) – (122,485)
+South America (658) – – – (658)
+Loss before taxation 3,132 (8,680) (133,400) (283) (139,231)
+Exceptional items comprise the writedown of own shares of £175,000 (2001: £283,000), a write down of the
+Polish associate investment of £146,000 (2001: £nil) and provision against debtor balance with the Polish
+associate of £776,000 (2001: £nil).
+Excluding Including
+unamortised Unamortised unamortised
+goodwill goodwill goodwill
+2002 2002 2002 2001
+Net assets £’000 £’000 £’000 £’000
+United Kingdom 14,804 2,321 17,125 26,995
+Continental Europe (58) – (58) 258
+Africa (464) – (464) –
+Asia-Pacific 494 – 494 7,782
+North America and Canada 9,295 59,607 68,902 65,655
+South America 208 – 208 –
+Net assets 24,279 61,928 86,207 100,690
+Page_40 Intec Telecom Systems PLC Annual report and accounts 2002 Year ended 30 September 2002
+Notes to the accounts continued
+3  ACQUISITIONS
+a  Current year acquisitions
+Operational support systems business of ICL
+On 25 January 2002, the group acquired the operational support systems (“OSS”) business of ICL, a Fujitsu
+company (“the vendor”). The OSS business acquired comprises certain tangible fixed assets, intellectual property
+rights, and customers.
+The net initial consideration for the acquisition was £2,550,000 paid in cash plus acquisition costs of £19,000. 
+In addition, deferred cash consideration is payable on a quarterly basis, calculated by reference to support
+contract revenues over the two year period from the acquisition date. As at 30 September 2002, £335,000 of the
+deferred consideration has been paid leaving an estimated £703,000 over the remainder of the two 
+year period.
+Goodwill arising on acquisition has been capitalised and is being amortised over two years from the date 
+of acquisition.
+Provisional
+Net assets at date of acquisition fair value
+and provisional fair value £’000
+Tangible fixed assets 125
+Goodwill arising on acquisition 3,482
+3,607
+Net initial cash consideration 2,550
+Deferred consideration 1,038
+Acquisition costs 19
+3,607
+Interconnexxion Africa (Pty) Limited
+On 31 July 2002, Independent Technology Systems Limited, a wholly owned subsidiary company of Intec Telecom
+Systems PLC (“Intec”) agreed to acquire its distribution partner in South Africa, Interconnexxion Africa (Pty) Ltd
+(“Interconnexxion”). The total consideration, paid by the issue of 2,204,725 ordinary shares, amounted to
+£560,000. Pursuant to the agreement, Intec has acquired all the assets of Interconnexxion, including customer
+licensing and support contracts and equipment for payment of £209,000 The balance of the consideration of
+£351,000 was used to settle an outstanding loan of Interconnexxion.
+Goodwill arising on consolidation has been written off in full to the profit and loss account.
+Provisional
+Net assets at date of acquisition fair value
+and provisional fair value £’000
+Debtors 10
+Cash 6
+Creditors (1)
+Goodwill arising on acquisition 548
+563
+Consideration paid in shares 560
+Acquisition costs 3
+563
+Page_41 Intec Telecom Systems PLC Annual report and accounts 2002 Notes to the accounts continued
+Year ended 30 September 2002
+3  ACQUISITIONS CONTINUED
+b  Prior year acquisitions
+CABS (previously CHA Systems, Inc.
+Contingent consideration of £5,009,000 was settled in respect of the acquisition of the CABS business.
+£2,272,000 was paid in cash and the balance of £2,737,000 was settled through the issue of ordinary shares.
+Additional costs of £46,000 have also been capitalised. The difference between the original estimated contingent
+consideration and final consideration paid has been capitalised and amortised over the remaining useful economic
+life.
+c  Reconciliation to cash flow statement
+£’000
+Net initial consideration for ICL OSS business 2,569
+Deferred consideration payments for ICL OSS business 335
+Contingent consideration on prior year acquisition of CHA Systems, Inc. 2,318
+5,222
+d  Post balance sheet event
+On 20 November 2002, the company signed an agreement with Ericsson AB of Sweden to acquire Ericsson’s
+‘Settler’ interconnect billing product unit, including the Settler development team and worldwide rights to
+develop and market the Settler product range. The total consideration amounts to US$5.1 million (£3.3 million).
+4  ANALYSIS OF CONTINUING OPERATIONS AND ACQUISITION
+Continuing Acquisitions Total
+Year ended 30 September 2002 £’000 £’000 £’000
+Turnover 45,853 1,621 47,474
+Cost of sales (14,738) (692) (15,430)
+Gross Profit 31,115 929 32,044
+Distribution costs (9,870) (75) (9,945)
+Development expenditure (8,026) – (8,026)
+Amortisation of goodwill and other intangibles (5,371) (1,708) (7,079)
+Impairment of goodwill (7,464) – (7,464)
+Other administrative expenses (12,678) (177) (12,855)
+Total administrative expenses (33,539) (1,885) (35,424)
+Operating Loss (12,294) (1,031) (13,325)
+Page_42 Intec Telecom Systems PLC Annual report and accounts 2002 Year ended 30 September 2002
+Notes to the accounts continued
+5  OPERATING LOSS
+2002 2001
+£’000 £’000
+Operating loss is stated after charging/(crediting):
+Depreciation of tangible fixed assets
+Owned assets 1,627 1,100
+Leased assets 118 280
+Contractors’ fees 2,071 1,155
+Operating lease payments
+– land and buildings 1,430 1,328
+– other 210 111
+Auditors’ remuneration:
+– group audit fees 190 251
+– company audit fees 30 48
+– UK other tax and reporting fees 103 72
+– overseas tax and advisory fees 66 35
+Profit on disposal of fixed assets (25) (10)
+Loss on foreign exchange 316 212
+In addition to the amounts disclosed above, the auditors received £312,000 for other taxation fees 
+(2001: £1,026,000 in relation to acquisitions and share placings.)
+In addition to goodwill amortisation and goodwill impairment, other exceptional items comprise the writedown of
+own shares of £175,000 (2001: £283,000), write down of the Polish associate investment of £146,000 (2001:
+£nil) and provision against debtor balance with the Polish associate of £776,000 (2001: £nil).
+Page_43 Intec Telecom Systems PLC Annual report and accounts 2002 Notes to the accounts continued
+Year ended 30 September 2002
+6  INFORMATION REGARDING DIRECTORS AND EMPLOYEES
+2002 2001
+£’000 £’000
+Directors’ emoluments
+Salaries and fees 613 552
+Benefits 3 27
+Annual performance related bonuses – –
+616 579
+Further disclosures are provided in the Report by The Board to Shareholders on Directors’ Remuneration.
+Average monthly number of persons employed including Executive Directors:
+2002 2001
+No. No.
+Sales, support, marketing 116 134
+Implementation and consulting 107 85
+Development and product 168 167
+Management and administrative (including executive directors) 69 70
+460 456
+2002 2001
+£’000 £’000
+Staff costs, including directors, comprised:
+Wages and salaries 21,646 18,180
+Social security costs 2,045 1,267
+Pension costs 444 384
+Other costs 852 313
+24,987 20,144
+Pension costs represent amounts paid to employees’ personal pension plans under the flexible benefits scheme.
+7  INTEREST PAYABLE AND SIMILAR CHARGES
+2002 2001
+£’000 £’000
+Bank interest 15 25
+Finance lease interest 4 17
+Other 312 31
+Total 331 73
+Other charges relate to costs written off on conversion of the convertible capital bond issued by Independent
+Technology Systems Limited to Intec Telecom Systems PLC (see note 12).
+Page_44 Intec Telecom Systems PLC Annual report and accounts 2002 Year ended 30 September 2002
+Notes to the accounts continued
+8  TAX ON LOSS ON ORDINARY ACTIVITIES
+2002 2001
+£’000 £’000
+Current taxation:
+UK corporation tax at 30% (2001: 30%) – 454
+Overseas taxation 1,098 753
+Prior year 273 (105)
+Share of tax in associate at 30% – 38
+Total current tax 1,371 1,140
+Deferred taxation:
+Origination and reversal of timing differences (72) –
+Tax on loss on ordinary activities 1,299 1,140
+The standard rate of current tax for the year is 34% (2001: 34%), based on the US federal income tax rate, since
+the largest source of the Group’s revenues is in the USA. The current tax charge for the year exceeds 34% for the
+reasons set out in the following reconciliation.
+It is expected that the tax charges will continue to be reduced by the benefit of tax deductions for goodwill in the
+US.
+2002 2001
+£’000 £’000
+Loss on ordinary activities before tax (13,483) (139,231)
+Tax on profit on ordinary activities at standard rate (4,583) (47,339)
+Factors affecting charge for the period:
+Depreciation in excess of capital allowances 124 77
+Goodwill amortisation 2,325 2,879
+Amounts written off investments/impairment of goodwill 2,794 45,430
+Permanent differences (49) (68)
+Relief for overseas tax (322) (207)
+Utilisation of tax losses (13) (65)
+Tax exemption on overseas profits (46) (111)
+Withholding taxes 611 601
+Foreign tax on branch profits 250 77
+Higher/(lower) rates of overseas tax 6 (67)
+Prior year 274 (105)
+Share of tax in associate – 38
+Total amount of current tax 1,371 1,140
+Page_45 Intec Telecom Systems PLC Annual report and accounts 2002 Notes to the accounts continued
+Year ended 30 September 2002
+9  (LOSS)/EARNINGS PER ORDINARY SHARE
+2002 2001
+£’000 £’000
+Basic and diluted loss (14,782) (140,371)
+Amortisation of goodwill and other intangible assets 7,079 8,680
+Impairment of goodwill 7,464 133,400
+Amounts written off investments 321 283
+Exceptional Polish debtor provision 776 –
+Adjusted earnings after tax 858 1,992
+Number Number
+Basic and diluted weighted average number of shares 186,219,551 175,007,925
+Pence Pence
+Basic and diluted loss per ordinary share (7.94) (80.21)
+Amortisation of goodwill and other intangible assets 3.80 4.96
+Impairment of goodwill 4.01 76.23
+Amounts written off investments 0.17 0.16
+Exceptional Polish debtor provision 0.42 –
+Adjusted earnings per ordinary share 0.46 1.14
+For the year ended 30 September 2002 and the year ended 30 September 2001, none of the potential ordinary
+shares (including company share options) are dilutive and therefore they are excluded from the calculation of
+diluted loss per share.
+10  INTANGIBLE ASSETS
+IPR Goodwill Total
+£’000 £’000 £’000
+Cost
+At 1 October 2001 2,041 213,320 215,361
+Additions – 4,791 4,791
+Translation differences (9) – (9)
+At 30 September 2002 2,032 218,111 220,143
+Accumulated amortisation
+At 1 October 2001 306 141,874 142,180
+Amortisation 234 6,845 7,079
+Impairment provision – 7,464 7,464
+Translation differences (2) – (2)
+At 30 September 2002 538 156,183 156,721
+Net book value
+At 30 September 2002 1,494 61,928 63,422
+At 30 September 2001 1,735 71,446 73,181
+The Directors have performed impairment reviews of the goodwill arising on the company’s 2001 acquisitions.
+This has resulted in a write-down of £5.7 million on the goodwill relating to i2i and £1.7 million on the
+acquisition of Dataphone (UK) Limited.
+Page_46 Intec Telecom Systems PLC Annual report and accounts 2002 Year ended 30 September 2002
+Notes to the accounts continued
+11  TANGIBLE FIXED ASSETS
+Computer Furniture
+Leasehold Motor software and and
+improvement vehicles equipment equipment Total
+Group £’000 £’000 £’000 £’000 £’000
+Cost
+At 1 October 2001 296 180 5,028 739 6,243
+Acquired in year – – 125 – 125
+Additions 61161,530801,687
+Disposals – (128) (183) (104) (415)
+Exchange differences (7) (1) (280) 10 (278)
+At 30 September 2002 350 67 6,220 725 7,362
+Accumulated depreciation
+At 1 October 2001 73 162 2,592 407 3,234
+Charge for year 84 17 1,451 193 1,745
+Disposals – (125) (146) (99) (370)
+Exchange differences (2) (1) (161) 7 (157)
+At 30 September 2002 155 53 3,736 508 4,452
+Net book value 
+At 3 September 2002 195 14 2,484 217 2,910
+At 30 September 2001 223 18 2,436 332 3,009
+The net book value of computer software and equipment includes an amount of £nil (2001: £118,000) in respect
+of assets held under finance leases. The net book value of motor vehicles includes an amount of £nil (2001:
+£13,000) in respect of assets held under finance leases. The Company does not own any tangible 
+fixed assets.
+12  FIXED ASSET INVESTMENTS
+Investment
+and share
+Own of profits
+shares in associate Total
+Group £’000 £’000 £’000
+Cost
+At 1 October 2001 and 30 September 2002 553 152 705
+Provision
+At 1 October 2000 283 – 283
+Additions 175 146 321
+As at 30 September 2002 458 146 604
+Net book value
+As at 30 September 2002 95 6 101
+As at 30 September 2001 270 152 422
+Own shares are held by the Intec Employee Share Trust. The trust currently holds 270,000 shares in the Company
+at a cost of £2.05 each, which may subsequently be used to fund employers’ national insurance liability on the
+exercise of unapproved share options. The middle market price of an ordinary share on 30 September 2002 was
+£0.13. A provision of £175,000 has been made during the year to write down the value of the shares to £0.35
+each.
+Page_47 Intec Telecom Systems PLC Annual report and accounts 2002 Notes to the accounts continued
+Year ended 30 September 2002
+12  FIXED ASSET INVESTMENTS CONTINUED
+Shares in Bond in
+Loan to subsidiary subsidiary
+subsidiary undertaking undertaking Total
+Company £’000 £’000 £’000 £’000
+Cost
+At 1 October 2001 553 39,167 175,871 215,591
+Additions –1811,9422,123
+Transfers – 177,813 (177,813) –
+Intra-group transfers – (16,090) – (16,090)
+As at 30 September 2002 553 201,071 – 201,624
+Provision
+At 1 October 2001 283 – 99,300 99,583
+Additions 175 41,564 – 41,739
+Transfer – 99,300 (99,300) –
+As at 30 September 2002 458 140,864 – 141,322
+Net book value
+As at 30 September 2002 95 60,207 – 60,302
+As at 30 September 2001 270 39,167 76,571 116,008
+On 26 November 2001, the company exercised the Convertible Capital Bond (“CCB”) issued by its subsidiary
+company Independent Technology Systems Limited (“ITSL”). The CCB was exchanged for an equity investment in
+“ITSL” equal to the cost of the Bond as at 26 November 2001 of £177.8 million. Accordingly the brought
+forward provision against the CCB has also been transferred to provisions against equity investments.
+Page_48 Intec Telecom Systems PLC Annual report and accounts 2002 Year ended 30 September 2002
+Notes to the accounts continued
+12  FIXED ASSET INVESTMENTS CONTINUED
+The Company owns 100% of the share capital and voting rights of Independent Technology Systems Limited
+(“ITSL”), Inception to Implementation (M) Sdn Bhd and Intec Telecom Systems do Brasil Limitada (marked with *
+below). All other group companies listed below are owned by ITSL either directly, through a holding company or
+another subsidiary company.
+% of ordinary 
+Country of share capital
+registration and voting Principal
+/incorporation rights activities
+Sales support
+development and
+Independent Technology Systems Limited* Great Britain 100% implementation
+Sales support and
+Intec Telecom Systems do Brasil Limitada* Brazil 100% implementation
+Sales support
+development and 
+Inception to Implementation (M) Sdn Bhd* Malaysia 100% implementation
+Intec USA, Incorporated USA 100% Holding company
+Sales support
+development
+Computer Generation, Inc USA 100% and implementation
+Sales support
+development and
+Independent Technology Systems America, Inc USA 100% implementation
+Computer Generation Europe Limited Great Britain 100% Dormant
+Sales support 
+Computer Generation (Asia Pacific) Pty Limited Australia 100% and implementation
+Sales support 
+Intec Telecom Systems (France) SARL France 100% and implementation
+Intec Telecom Systems Deutschland GmbH Germany 100% Sales support
+Sales support and 
+Intec Systems (Asia) Sdn Bhd Malaysia 100% implementation
+Independent Technology Systems (Asia) Pte.Ltd Singapore 100% Sales support
+Intec Systems Americas Inc USA 100% Dormant
+Dataphone Holdings Limited Great Britain 100% Holding company
+Independent Technology Systems 
+SL Unipersonal** Spain 100% Sales support
+Intec Telecom Systems 
+(Revenue Assurance Division) Limited** Great Britain 100% Sales support
+Intec Telecom Systems Italia SpA Italy 100% Sales support
+Interconnexxion Africa (Pty) Limited South Africa 100% Sales support
+**Two of the Dataphone companies acquired last year have been renamed as above.
+Page_49 Intec Telecom Systems PLC Annual report and accounts 2002 Notes to the accounts continued
+Year ended 30 September 2002
+13  DEBTORS
+Group Company
+2002 2001 2002 2001
+£’000 £’000 £’000 £’000
+Trade debtors 13,676 13,535 – –
+Amounts owed by subsidiary undertakings – – 40,213 19,173
+Corporation tax recoverable 196 216 – –
+Withholding tax recoverable – 82 – –
+Deferred tax (see Note 18) 72 – – –
+Other debtors 301 1,139 – 16
+Prepayments and accrued income
+Due within one year 3,720 3,669 85 11
+Due after more than one year – 462––
+17,965 19,103 40,298 19,200
+14  INVESTMENTS HELD AS CURRENT ASSETS
+Group Company
+2002 2001 2002 2001
+£’000 £’000 £’000 £’000
+Cash investments/term deposits in excess of 7 days 5,151 2,914 5,140 2,836
+Escrow account – 52 – –
+5,151 2,966 5,140 2,836
+15  CREDITORS: FALLING DUE WITHIN ONE YEAR
+Group Company
+2002 2001 2002 2001
+£’000 £’000 £’000 £’000
+Obligations under finance leases – 188 – –
+Trade creditors 1,767 2,007 10 92
+Corporation tax 454 454 155 153
+Overseas tax 516 356 – –
+Other creditors including taxation and social security 686 601 10 –
+Accruals 1,670 2,235 120 178
+Deferred/contingent consideration 703 1,918 – 1,918
+5,796 7,759 295 2,341
+16  CREDITORS: FALLING DUE AFTER MORE THAN ONE YEAR
+Group Company
+2002 2001 2002 2001
+£’000 £’000 £’000 £’000
+Obligations under finance leases – – – –
+Maturity of obligations under finance leases
+Within one year – 188 – –
+Page_50 Intec Telecom Systems PLC Annual report and accounts 2002 Year ended 30 September 2002
+Notes to the accounts continued
+17  FINANCIAL INSTRUMENTS
+The Group’s financial instruments comprise some cash and liquid resources, and various monetary items, such as
+trade debtors, trade creditors, etc., that arise directly from its operations. The main purpose of these financial
+instruments is to raise working capital for the Group’s operations.
+Short-term debtors and creditors have been omitted from the following disclosures other than as appropriate in
+the currency profile of monetary assets and liabilities.
+The Group has invested £5 million in a cash plus fund yielding a variable rate of interest over the investment
+term. This amount is accessible within 24 hours, however due to the nature of the investment it has been
+classified as current asset investments.
+At present, the Group does not enter into forward foreign currency contracts or other derivative instruments as
+the related exposures are not material to the Group and do not warrant such complexity.
+The fair values of the Group’s financial assets and liabilities as at 30 September 2002 and 30 September 2001 are
+equal to their carrying value.
+Currency profile of net monetary assets
+The table shows the Group’s currency profile, which gives rise to net currency gains or losses recognised in the
+profit and loss account. These comprise the monetary assets and liabilities of the Group which are not
+denominated in the functional currency of the operation involved.
+There were no hedging gains or losses at the start of the year, carried forward at the end of the year or
+recognised in the year ended 30 September 2002 or 30 September 2001.
+Sterling
+2002 2001
+Functional currency £’000 £’000
+Euro 3,720 1,480
+US Dollars 2,777 1,702
+Other 409 2,235
+6,906 5,417
+18  DEFERRED TAX
+The amount of deferred tax provided and unprovided in the financial statements is:
+2002 2001
+Provided Unprovided Provided Unprovided
+£’000 £’000 £’000 £’000
+Timing differences 72 6,311 – 8,501
+The Directors have only recognised deferred tax assets to the extent that they consider it more likely than not that
+the assets will be recovered. At the year end the group has an unprovided deferred tax asset of £6,311,000. This
+includes the value of US losses carried forward of £7,244,000 offset by deferred tax liabilities on US short term
+timing differences. The utilisation of the losses cannot be reliably foreseen.
+Page_51 Intec Telecom Systems PLC Annual report and accounts 2002 Notes to the accounts continued
+Year ended 30 September 2002
+19  CALLED UP SHARE CAPITAL
+2002 2001
+Number and value of shares: Number £’000 Number £’000
+Authorised: 
+Ordinary shares of 1p each 300,000,000 3,000 300,000,000 3,000
+Allotted, called up and fully paid: 
+Ordinary shares of 1p each 190,326,242 1,903 183,611,910 1,836
+On 8 March 2002, 4,509,607 new ordinary shares were issued as part of the final payment of deferred
+consideration payable on the prior year acquisition of CHA Systems, Inc.
+On 9 August 2002, 2,204,725 new ordinary shares were issued at £0.254 each, in full and final consideration for
+the acquistion of Interconnexxion Africa (Pty) Limited.
+Details of Share Options
+The Company operates a UK Approved and Unapproved share option Scheme and a US Stock Option Plan for 
+the benefit of Directors and employees. Details of the share options granted in the year are as follows:
+Date from
+Outstanding Outstanding which
+1 October 30 September Exercise exercisable
+2001 Granted Lapsed Exercised 2002 price (see notes)
+Approved Scheme
+1
+88,221 – (6,832) – 81,389 £2.87
+1/2
+(2)
+Approved Scheme
+2
+217,021 – (14,701) – 202,320 £2.87
+1/2
+(2)
+Unapproved Scheme
+1
+259,527 – (37,549) – 221,978 £2.05 (2)
+Unapproved Scheme
+2
+1,052,662 – (90,987) – 961,675 £2.05 (2)
+US Plan
+3
+352,919 – (11,039) – 341,880 £3.40 (3)
+Unapproved Scheme
+3
+29,939 – (1,472) – 28,467 £3.40 (3)
+US Plan
+4
+12,185––– 12,185 £3.40 (4)
+Unapproved Scheme
+5
+683,226 – (3,562) – 679,664 £0.87
+1/2
+(6)
+US Plan
+5
+306,853 – (14,789) – 292,064 £0.87
+1/2
+(6)
+US Plan
+7
+111,985 – (12,166) – 99,819 £0.87
+1/2
+(6)
+Unapproved Scheme
+5
+124,999 – – 124,999 £1.07 (6)
+Unapproved Scheme
+8
+685,524 – (72,259) – 613,265 £1.07 (6)
+Unapproved Scheme
+9
+73,529––– 73,529 £1.01 (9)
+Unapproved Scheme
+10
+73,529––– 73,529 £1.01 (10)
+Approved scheme
+11
+– 1,936,075 (1,023,397) – 912,678 £0.70
+1/2
+(12)
+Unapproved scheme
+11
+– 6,403,010 (4,114,746) – 2,288,264 £0.70
+1/2
+(12)
+US Plan
+11
+– 4,940,664 (2,197,867) – 2,742,797 £0.70
+1/2
+(12)
+4,072,119 13,279,749 (7,601,366) – 9,750,502
+Page_52 Intec Telecom Systems PLC Annual report and accounts 2002 Year ended 30 September 2002
+Notes to the accounts continued
+19  CALLED UP SHARE CAPITAL CONTINUED
+1 these options have no specific performance conditions and have vested and are exercisable as set out in note (2) below.
+2 these options have vested as the applicable performance conditions were met, namely consolidated turnover for the year ended 30
+September 2000 exceeded £20 million. The exercise dates for the these grants are as follows:
+20% after the announcement of the results for the financial year ended 30 September 2000;
+30% after the announcement of the results for the financial year ending 30 September 2001;
+30% after the announcement of the results for the financial year ending 30 September 2002;
+20% after the announcement of the results for the financial year ending 30 September 2003.
+The expiry date is ten years from the date the options were granted.
+3 these options were granted as part of the acquisition of CompGen. They have no specific performance conditions and have vested
+and are exercisable in full.
+4 these options were granted as part of the acquisition of CompGen. and were immediately exerciseable within specified time limits. To
+the extent they were not exercised, they lapsed. The remaining options have met specific individual option-holder’s performance
+conditions and have vested and are exercisable in full.
+5 these options would only have vested in full if both of the following performance conditions had been met:
+(a) consolidated turnover for the year 30 September 2001 exceeded £40 million and
+(b) EBITDA for the year 30 September 2001 exceeded £3.8 million.
+As turnover exceeded £36 million but was below £40 million and EBITDA exceeded £3.4 million but was below £3.8 million, 50% of
+these options have vested and the remaining 50% have lapsed .
+The vested options are exercisable as set out in note (6) below:
+6 the exercise & expiry dates for the these grants are as follows:
+20% after the announcement of the results for the financial year ended 30 September 2001;
+30% after the announcement of the results for the financial year ending 30 September 2002;
+30% after the announcement of the results for the financial year ending 30 September 2003;
+20% after the announcement of the results for the financial year ending 30 September 2004.
+The expiry date is ten years from the date the option was granted.
+7 these options have no specific performance conditions and have vested and are exercisable as set out in note (6) above.
+8 these options have no specific performance conditions and have vested and are exercisable as set out in note (6) above.
+9 these options were granted to a senior member of staff. They have no performance criteria and will vest in full on 31 December
+2002. They lapse if not exercised by 30 June 2003.
+10 these options were granted to a senior member of staff. They have specific performance criteria and vest in full on 31 December
+2002 provided that the performance criteria are met. They lapse if not exercised by 30 June 2003.
+11 these options have the following performance conditions:
+a. consolidated turnover for the year 30 September 2002 exceeding £44.46 million and
+b. EBITDA for the year 30 September 2002 exceeding £5.53 million and
+c. Divisional results exceeding targets;
+d. Specific performance criteria for each member of staff.
+As turnover exceeded £44.46 million but EBITDA was below £5.53 million, only those options where conditions (c) and (d) have been met
+have vested and the remaining options have lapsed .
+On vesting, these options are exercisable as set out in note (12) below:
+12 the exercise & expiry dates for these grants are as follows:
+20% after the announcement of the results for the financial year ended 30 September 2002;
+30% after the announcement of the results for the financial year ending 30 September 2003;
+30% after the announcement of the results for the financial year ending 30 September 2004;
+20% after the announcement of the results for the financial year ending 30 September 2005.
+The expiry date is ten years from the date the option was granted.
+The market price of the Company’s Ordinary shares as at 30 September 2002 was £0.13 and the high and low during the year ended 30
+September 2002 was £0.98 and £0.13 respectively. The average closing middle market price for the year was £0.54.
+Page_53 Intec Telecom Systems PLC Annual report and accounts 2002 Notes to the accounts continued
+Year ended 30 September 2002
+20  STATEMENT OF MOVEMENTS ON SHARE CAPITAL AND RESERVES
+Called Share Foreign Profit
+up share premium Other Merger exchange and loss
+capital account reserve reserve reserve account Total
+Group £’000 £’000 £’000 £’000 £’000 £’000 £’000
+As at 1 October 2001 1,836 235,366 2,497 249 (151) (139,107) 100,690
+Adjustment to fair value 
+of shares issued as part of 
+contingent consideration – – 340––– 340
+Issues of ordinary shares 67 3,286 (2,737) – – – 616
+Decrease in deferred consideration – – (100) – – – (100)
+Loss for the period ––––– (14,782) (14,782)
+Foreign exchange translation –––– (557) – (557)
+At 30 September 2002 1,903 238,652 – 249 (708) (153,889) 86,207
+Called Share Profit
+up share premium Other and loss
+capital account reserve account Total
+Company £’000 £’000 £’000 £’000 £’000
+As at 1 October 2001 1,836 235,366 2,497 (91,086) 148,613
+Adjustment to fair value of shares issued 
+as part of contingent consideration – – 340 – 340
+Issues of ordinary shares 67 3,286 (2,737) – 616
+Decrease in deferred consideration – – (100) – (100)
+Loss for the year – – – (40,222) (40,222)
+At 30 September 2002 1,903 238,652 – (131,308) 109,247
+21  FINANCIAL COMMITMENTS
+The Group’s financial commitments in respect of operating leases:
+2002 2001
+Land and Land and
+buildings Other buildings Other
+Company £’000 £’000 £’000 £’000
+Leases which expire: 
+Within one year 83 144 129 61
+Within two to five years 949 – 957 146
+After five years 111 – ––
+1,143 144 1,086 207
+The Company has no commitments under operating leases.
+Page_54 Intec Telecom Systems PLC Annual report and accounts 2002 Year ended 30 September 2002
+Notes to the accounts continued
+22  RELATED PARTY TRANSACTIONS
+Amounts Amounts 30
+30 September charged paid September
+Related 2001 to/(from) (received) 2002
+party Transaction £’000 £’000 £’000 £’000
+Starbrook BV i Accounting sundry expenses 75 55 (64) 66
+Iocore Australia ii Payroll services (1) (4) 5 –
+Iocore Benelux iii Services & related expenses (60) – 60 –
+Adaptive Systems iv Payroll services (8) (32) 40 –
+i Starbrook BV is a registered company in Amsterdam and a wholly owned subsidiary of Mican Limited.
+ii Mican Limited is the ultimate parent company of Iocore Australia (75%).
+iii Iocore Benelux is wholly owned by Iocore Finland which is jointly >50% owned by Mican Limited and
+Starbrook BV.
+iv Mican Limited is the ultimate parent company of Adaptive Systems (70%).
+As disclosed in the previous annual report the immediate parent company is Mican Limited, which at 30
+September 2002 owns 44.9% of the issued ordinary share capital. To ensure that the Company is able to operate
+and make decisions independently, Mican has entered into a contractual undertaking with the Company (the
+“Relationship Agreement”) that for as long as it holds Ordinary Shares, representing more than 30 per cent of the
+issued ordinary share capital of the Company, it (and it will procure that its associates) shall conduct any
+arrangement or relationship with the Company so as to ensure that all transactions and relationships between
+Mican (and its associates) and the Company in the future will be at arms’ length and on a normal commercial
+basis. The Relationship Agreement is intended to prevent a conflict of interests arising between the Company and
+Mican (or any of its associates), or the possibility of arrangements taking place to the detriment of the general
+body of shareholders of the Company in this context, or the company’s independence being compromised.
+The Board believes that the Company is capable of carrying on its business independently of Mican and its
+associates and that all transactions and relationships between the Company and Mican and its associates are and
+will be at arm’s length on normal commercial terms. The terms of the Relationship Agreement provide that each
+party shall (and shall exercise all powers vested in it to procure, so far as it is properly able, that, in the case of
+Mican, each of its associates and, in the case of the Company, each other member of the Group, shall) only enter
+into, amend or terminate any transaction between Mican or any of its associates and any member of the Group
+with the approval of the majority of the independent Non-Executive Directors.
+Page_55 Intec Telecom Systems PLC Annual report and accounts 2002 Trading record
+2000 2001 2002
+£’000 £’000 £’000
+Turnover 
+Continuing operations 20,279 39,798 45,853
+Acquisitions –– 1,621
+Total turnover 20,279 39,798 47,474
+Total cost of sales (6,514) (12,675) (15,430)
+Gross profit 13,765 27,123 32,044
+Distribution costs (3,258) (9,158) (9,945)
+Administrative expenses:
+Development expenditure (3,029) (5,869) (8,026)
+Amortisation of goodwill and other intangible assets (100) (8,680) (7,079)
+Impairment of goodwill – (133,400) (7,464)
+Other exceptional items (579) – (776)
+Other administrative expenses (3,639) (10,140) (12,079)
+Total administrative expenses (7,347) (158,089) (35,424)
+Operating profit/(loss)
+Continuing operations 3,160 (140,124) (12,223)
+Acquisitions –– (1,102)
+Group operating profit/(loss) 3,160 (140,124) (13,325)
+Share of operating profit in associate 153 78 –
+Amount written off investments – (283) (321)
+Net interest receivable and similar income 642 1,171 494
+Net interest payable and similar charges (118) (73) (331)
+Profit/(loss) on ordinary activities before taxation 3,837 (139,231) (13,483)
+Tax charge on (loss)/profit on ordinary activities (957) (1,140) (1,299)
+Profit/(loss) on ordinary activities after taxation and 
+retained profit/(loss) for the financial year 2,880 (140,371) (14,782)
+Adjusted net earnings after tax 3,536 1,992 858
+EBITDA before exceptionals 4,520 3,414 3,739
+(Loss)/Earnings per share – basic 2.17p (80.21p) (7.94p)
+(Loss)/Earnings per share – adjusted 2.67p 1.14p 0.46p
+Contracted customer base* 56 203 272
+Contracted installations* 73 257 383
+*Figures provided include customer and installation data for acquired companies only after their 
+acquisition date.
+Page_56 Intec Telecom Systems PLC Annual report and accounts 2002

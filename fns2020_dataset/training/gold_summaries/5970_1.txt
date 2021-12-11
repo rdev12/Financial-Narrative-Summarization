@@ -1,0 +1,170 @@
+ Group CEO’s
+Operating Review
+Summary
+My ﬁrst year with Filtronic plc has been one of growth and consolidation within the group, supported by returning
+markets.
+Wireless Infrastructure has shown sustained above market growth for its ﬁlter-based transmit-receive modules and made
+further progress in establishing itself as a force in the base-station power ampliﬁer market, a strategic objective in which
+we have invested. The inherent technical and manufacturing strengths in the division continue to serve it in maintaining
+margins, combating price pressure with design innovation and opening new product opportunities through increased
+integration of base-station functions.
+Integrated Products has continued to make progress on semiconductor process technology and merchant market
+offerings from its compound semiconductor foundry at Newton Aycliffe while reducing losses and preparing for the start
+of high volume manufacture of switches for mobile handsets in the coming ﬁnancial year. Sales in the merchant arena
+have been slow leading us to review our sales approach to this market. The volume switch market, which has taken
+longer than forecast to mature, is showing strength.
+The division has relocated its businesses at Merrimack and Natick in the US into a larger facility at Hudson, New
+Hampshire, from which it is servicing a major new defence contract with ITT. The improved facilities will allow us to bid
+competitively for larger contracts, consistent with the strategy of developing business opportunities we perceive in the
+large US defence market. 
+At the annual general meeting in September 2004, the Chairman announced the Board’s decision to dispose of the
+Handset Products division, preferably by means of an IPO on the Finnish stock exchange. Preparations were put in hand
+to achieve this, but by January it was clear that the market conditions had deteriorated to the point where the
+contemplated IPO would not realise appropriate value. The decision was announced in January that the company would
+seek a buyer for the business and in June we informed the market that we entered into detailed negotiations. These
+exclusive negotiations are progressing. 
+The segmental analysis of the operating results is as follows:
+Sales Operating proﬁt
+Year ended 31 May 2005 *2004 2005 *2004
+£m £m £m £m
+Wireless Infrastructure 168.4 145.2 18.1 10.7
+Handset Products 50.0 60.2 3.6 11.2
+Integrated Products 43.6 38.4 (9.9) (13.4)
+Central Services 3.6 3.9 (5.0) (3.7)
+Inter segment (2.7) (2.6) – –
+1 1 1 1
+262.9 245.1 6.8 4.8
+5 5 5 5
+* The results for the year ended 31 May 2004 have been restated using the revised accounting policy described in note 2
+to the ﬁnancial statements. The average rate of exchange for the year is now used to translate the results of the
+overseas subsidiaries.
+Wireless Infrastructure
+This business segment under the leadership of Alan Needle, divisional CEO, dominates the independent global market
+in ﬁlter-based components and sub-systems for cellular base-stations and is using its established position with OEMs
+(Original Equipment Manufacturers) to expand into the adjacent product area of power ampliﬁers. The market has been
+Filtronic plc Annual Report 2005 3 Group CEO’s
+Operating Review
+under continual price pressure which has forced investment in global low-cost manufacturing from Filtronic and its
+competitors. The value of this transition is nearly exhausted shifting emphasis towards superior product design and
+technology insertion throughout product life, areas where Wireless Infrastructure can differentiate itself and achieve
+competitive advantage. 
+The wide design competence of the division allows economies to be gained through integration of functions, typical
+opportunities arriving through embedded digital processing for signal conditioning and for computer interface to
+base-station software. By maintaining in-house expertise and capacity in ferrites, ceramics and digital processing
+to complement its ﬁlter technology, the product offerings can be optimised for performance and value. 
+In the case of power ampliﬁers, the company’s compound semiconductor facility holds the transistor technology for
+providing performance levels beyond the reach of standard market components. There is a growing appreciation of the
+need for higher performance ampliﬁers as new data transmission formats are required in 3G WCDMA networks and as
+network loading increases spectral occupancy. We see this as creating an additional growth impetus to our power
+ampliﬁer business.
+The business has capitalised on the ongoing improvements in the overall market worldwide, with the ﬁlter-based
+transmit-receive modules growing sales 15% over the year, which we consider outperformed the overall expansion of the
+market estimated to be in the range of 12% to 14%. The market continues to be dynamic, with more OEMs sourcing
+supply from the sector and discontinuing in-house production. During the year we consolidated our position by
+supplying production quantities to all the major OEMs thereby providing the platform for revenue growth in the coming
+year. We estimate that we currently hold 28% of our addressable market in ﬁlter-based product while our efforts in power
+ampliﬁers give us longer-term potential to achieve similar penetration in this area, particularly if the performance
+emphasis we predict comes to pass.
+Deliveries of integrated power ampliﬁers incorporating fully digital interfaces for signal and control commenced at the
+end of the ﬁrst half of the ﬁnancial year. This sophisticated product integrates a full transmit and receive radio function
+with a multi-carrier power ampliﬁer. Variants of the product are in development to cover additional frequency bands and
+higher powers. 
+During the year, we continued to consolidate production activities in China, resulting in the closure of ﬁlter manufacture
+in the UK, although ﬁnal assembly for the integrated power ampliﬁers has been retained. The transfer has been carried
+out with limited additional capital expenditure, contributing to proﬁtability and continuing cash generation.
+Integrated Products
+I am very pleased to welcome Iain Gibson, who joined the division in February from SELEX Sensors and Airborne
+Systems (SELEX SAS), formerly BAE SYSTEMS Avionics and became its CEO in April. Iain brings a wealth of general and
+commercial management experience from the defence sector which will continue to improve the operational
+performance of this technologically and product diverse business.
+This division engages activities covering the semiconductor and defence and security sectors and point to point
+microwave links. Sales in the year grew 26% (2004 £34.5m to 2005 £43.6m) after excluding the contribution of the
+electronic warfare business of Filtronic Solid State, which was sold in December 2003. The sequential growth rate in sales
+comparing half-year on half-year during the ﬁnancial year was 14% and the comparative half year growth for the second
+half of the ﬁnancial year compared with the same period last ﬁnancial year was 20%. Operating loss for the ﬁnancial year
+was reduced by £3.5m to £9.9m, split £5.7m in the ﬁrst half and £4.2m in the second. This was achieved while adding
+staff and upgrading facilities to accommodate high volume output at Newton Aycliffe to service demands from our
+strategic customer, R.F. Micro Devices (RFMD). At the end of the ﬁnancial year the foundry moved into round-the-clock,
+seven-day week production for the ﬁrst time.
+4 Filtronic plc Annual Report 2005 The semiconductor foundry at Newton Aycliffe has now established itself as a leading source for six-inch gallium
+arsenide wafers using the pHEMT process. In April 2005, it started to supply wafers in volume to RFMD for use in
+front-end modules for mobile handsets, a world market in excess of 750 million units per year and growing at 7%. 
+The defence activities have beneﬁted from the start of production supply of sub-systems to ITT in the US and continuing
+production supply to Elettronica of Italy and EADS of Germany of sub-system assemblies for the Euroﬁghter Defensive
+Aids system. The Euroﬁghter production will reduce to low level in the coming year as a major portion of our work fell
+outside UK national work-share and will, as a result of the delays to the second tranche, be subsumed into Italy and
+Germany. This leaves the US defence and security market as the best opportunity for our continuing growth in the short
+term. Consequently, we have relocated our businesses in the US to support growth and, in June 2005, brought Filtronic
+Sigtek into the Integrated Products segment where we intend to focus on acquiring external business, while formerly it
+has mainly supported in-house projects. These moves in the US were accompanied by a management reorganisation,
+simplifying the reporting structures and creating a single management team to lead all our US activities.
+Filtronic Broadband provides point-to-point microwave link transceivers to OEM customers. During the year the
+customer base was expanded on the basis of new qualiﬁed product which entered production in November 2004 using
+our gallium arsenide integrated circuits. This product is selling to three OEMs in expanding volumes and a further design
+iteration awaiting qualiﬁcation uses more complex multi-function integrated circuits further reducing component count.
+The point-to-point radio market is exhibiting strong growth and our customers are well positioned to beneﬁt. Our
+technology in this market is recognised to be superior and we conﬁdently expect an increasing market share. 
+Handset Products
+This division is a market leader in the provision of internal antennas for mobile handsets, with a market share of about
+18%. Sales declined 17% year on year reﬂecting lower than anticipated levels of activity in the second half of the ﬁnancial
+year with reduced levels of activity with the division’s principal customer. Antenna volumes in the ﬁnancial year were
+104 million units (2004 121 million units), of which over 50% were manufactured in China. The operating margin reﬂected
+this reduced level of activity and with the impact of the ﬁxed nature of depreciation on automated lines in Finland,
+operating margins for the year reduced to 11% before goodwill amortisation, 7% after goodwill amortisation. 
+Central Research and Development
+Central Research and Development effort has continued on integrated power ampliﬁers leading to a solution of the
+problem of digitally compensating for the distortion products of the gallium arsenide multi-carrier base-station ampliﬁer.
+This solution lies in the semiconductor technology used and is compatible with existing digital-predistortion processors.
+This breakthrough has led to increased effort on low-cost packaging to achieve an attractive high-performance module
+price. 
+Strategic projects include WiMAX basestation hardware and software and WiMAX mobile transceiver modules. 
+In the defence sector, effort was expended on a digital integrated frequency measurement module to succeed our very
+successful product range now in production and on a demonstration “man-pack” ESM receiver which is being evaluated
+by potential customers. 
+Finance
+The business has been ﬁnanced by bank facilities during the year, and although covenants were breached, the group’s
+lending banks continued support. These breaches of covenants resulted in additional ﬁnance charges in the year of
+approximately £0.5m. The capital repayments of £6m due in the year were met.
+Filtronic plc Annual Report 2005 5 Filtronic plc Annual Report 2005 5 Filtronic plc Annual Report 2005 5
+Group CEO’s
+Operating Review
+Filtronic plc Annual Report 2005 5 After the year end, the bank facilities were amended through new arrangements with Barclays and ABN AMRO, and they
+now provide term facilities over the next ﬁve years with no capital repayment due in the ﬁnancial year ending 31 May
+2006. The banks have also reconﬁrmed the overdraft of £9m until end of July 2006.
+The recognition as revenue of the outstanding deferred licence fee from BAE SYSTEMS (now SELEX SAS) was changed
+with effect from 1 June 2004 to be equally spread over the remaining period to 1 May 2008 for which the Filtronic group
+is liable to provide supply of product. This has increased the annual revenue recognition from £0.8m to £2.3m.
+Capital expenditure
+Capital expenditure in the year was limited to £13.0m (2004 £11.7m), reﬂecting additional capacity for Wireless
+Infrastructure in China and its preparation for production of integrated power ampliﬁers, funding of replacement
+capacity within Handset Products, and ongoing plant requirements for defence contracts and high volume compound
+semiconductor demand in Integrated Products.
+Employees
+At the end of the ﬁnancial year the group employed 3,863 people, an increase of 273 (8%) since May 2004. The principal
+changes were that China increased employees by 555 people, whilst UK employment reduced by 406 people.
+Outlook
+Wireless Infrastructure foresees continued overall market growth, estimated to be approximately 8% to 10%, with
+potential to gain modest increase in its market share in ﬁlter-based products as a result of the new OEM customers
+secured during the year. It expects to maintain historic margins through continuing low cost manufacturing, before
+transfer of central research and development costs. Further growth is expected in integrated power ampliﬁers. Following
+market demand, we are supplying Silicon LDMOS power ampliﬁers for speciﬁc customer requirements complementing
+the high performance gallium arsenide ampliﬁers. 
+A further lower cost manufacturing site will be established during the year in Hungary, initially to provide additional
+capacity for ﬁlter production and to reduce dependence on China as a sole low-cost manufacturing base. The division
+will also cease operations in Australia.
+Integrated Products is planning rapid turnover growth through the challenging ramp up of volume semiconductor
+production for RFMD and supply to additional volume customers. Filtronic Broadband is moving to volume radio
+production from the new business gained in the year ending 31 May 2005. This is beneﬁcial in sales and proﬁt to the
+division and also further increases foundry loading. Growth in defence revenues in the US will be offset by run-down of
+Euroﬁghter production in the UK towards the end of the year. Overall, the division is expected to reach run rate
+breakeven in the year ending 31 May 2006, this being dependent on achieving production targets for the foundry.
+Handset Products should see a strong recovery in revenue in the ﬁnancial year as projects acquired and product qualiﬁed
+over the past nine months reach production ramp-up. The longer term outlook is supported by efforts in ceramic
+antennas for cellular and non-cellular applications and extruded metal structures for integrated assemblies.
+John Roulston FREng FIEE CEng
+Group CEO
+1 August 2005
+6 Filtronic plc Annual Report 2005 6 Filtronic plc Annual Report 2005 6 Filtronic plc Annual Report 2005
+Group CEO’s
+Operating Review
+6 Filtronic plc Annual Report 2005

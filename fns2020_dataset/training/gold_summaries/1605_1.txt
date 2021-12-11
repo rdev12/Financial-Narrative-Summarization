@@ -1,0 +1,224 @@
+ Strategic  
+Report:
+Operational 
+Review 14–21
+Corporate 
+Governance 
+  
+ 22–37
+Financial 
+Statements 
+  
+ 38–78
+Strategic  
+Report:  
+Business  
+Model  2–13
+3/
+CHIEF EXECUTIVE’S  
+REVIEW
+THE SIZE OF CUSTOMERS  
+WE HAVE BEEN SIGNING AND  
+THE SCALE OF DEPLOYMENTS 
+THEY ARE PLANNING GIVES  
+US CONFIDENCE.
+David Williams
+Chief Executive
+2014 was the first full year of HYLAS 2 revenues and the first of a 
+carefully planned five year programme to sell its extensive capacity. 
+This helped us to increase revenues by 104% to $65.6 million and 
+to generate EBITDA of $1.7 million (before the non-cash share based 
+payment charge). Transitioning to EBITDA positive and signing 
+contracts with some of the biggest telcos and media companies in 
+our region is a powerful indicator that we have superior, well priced 
+products and are able to sell to the most demanding customers. 
+Over the course of the year we saw increasing numbers of large 
+customers moving from framework contracts to fixed term 
+capacities. The rate at which existing customers increased their 
+contract values (“repeat rate”) was an encouraging 52% and the 
+number of days from initial enquiry to signing (“pipeline”) was 98, 
+which demonstrates that the sales cycle is shortening considerably 
+as our products become more firmly established in the market.  
+We signed 92 new contracts in the year. A continuation of our 
+99.99% SLA is a strong reason why new customers are coming  
+to our network and existing customers are buying more.
+There are two important elements to the story of our year: the 
+growth in the customer base and the financing of HYLAS 4.
+Customers
+Revenue growth remains the most important focus for us. This is 
+being achieved via a customer acquisition strategy that has been 
+consistent and successful since the outset.
+Our products have been designed to provide a cloud of data capacity 
+that has maximum quality and flexibility, and broad coverage of 
+EMEA, with a particular focus on Sub-Saharan Africa, which  
+now accounts for more than 80% of our capacity. We are able to 
+support our large telecommunications company customers in the 
+widest possible range of applications they seek, greatly exceeding 
+the quality and flexibility that they have seen from legacy satellite 
+fleets. Customers access the fleet through proprietary software 
+called Avanti OSS, and this enables them to scale and change their 
+business with unparalleled flexibility. We have a number of patents 
+and are pursuing others to protect our innovations.
+We achieved early success in selling to specialist service providers, 
+referred to in the industry as “VSAT providers”. VSAT providers have 
+used our product for enterprise and government networks, media 
+services and some regional broadband deployments. Nine of the 
+top 20 VSAT providers in our regions now buy Avanti capacity,  
+so we know we have generated a loyal and committed customer 
+base in this market and continue to work hard to help them to grow. 
+As a result, much of our new business this year has been won away 
+from legacy technology as old capacity leases matured.  4/
+Avanti Communications Group plc: Annual Report and Accounts 2014
+We have a lot of capacity to fill – a Ka-band satellite typically has 
+around 5–10 times more available Megabits than a Ku-band 
+satellite, per tonne, and this drives its price down to levels that are 
+attractive to customers. In order to fill that capacity, we need to 
+access the large scale international distribution that only major 
+telecommunication companies and Mobile Network Operators 
+(“MNOs”) can offer. The products of interest here are broadband  
+for consumers and SMEs, and cellular backhaul for MNOs.
+We have had success this year in finally penetrating these markets. 
+We created a world first in providing 3G backhaul to MNOs,  
+and have also successfully deployed 4G backhaul for the UK 
+government. With Vodafone and Smart launching our backhaul 
+products on long term contracts, several other large MNOs  
+now piloting the technology at an advanced stage and some 
+proceeding to issue RFPs, this market is maturing for us.
+We began deployments in the year for a number of national 
+incumbent telco operators. Telone in Zimbabwe has grown its 
+usage quickly, and we recently announced a contract with Orange 
+Kenya Telecom. We also signed contracts with some of the largest 
+alternative service providers in the regions like Wananchi, the 
+largest media provider in East Africa, and Internet Solutions 
+(Dimension Data) the largest pan African ISP . 
+The progress of large contracts from pilot, through business  
+case evaluation to negotiation and closure, has often been slow. 
+However, we have maintained firm discipline in our pricing model 
+with our average price remaining above the $2,000 per MHz per 
+month that we set in 2008 and we continue to focus on promoting 
+our Quality and Flexibility advantages. 
+HYLAS 4 rationale
+There were four elements in our decision to finance HYLAS 4:
+1. Continuity of capacity
+We have demonstrated an ability to access the large latent demand 
+for our services through some of the contracts we signed in the 
+year. It will take perhaps another three years for those contracts to 
+fully saturate our in orbit capacities, but at that point we would risk 
+becoming an ex-growth business unless we build further capacity.
+One of the challenges of the space business is that it takes three to 
+four years to design, build, launch and commission a new satellite, 
+so it is important that we continue to look far ahead. Current rates 
+of repeat business and new customer acquisition suggest that by 
+2017 there is a realistic probability that existing capacities will be 
+substantially full. The relatively small HYLAS 3 payload we are flying 
+on an ESA satellite gives us some ability to expand, but without 
+expansion capacity across territories, there is a risk that the 
+business at that point would be waiting several years for its next 
+major growth inflection. We also need to assure our customers  
+of continuity and security of service over the longer term.
+HYLAS 4 provides the solution, with new capacity over new countries 
+in Africa as well as new capacity over existing territories in Africa 
+and Europe that can be used for back up and expansion. We 
+believe that the announcement of our provision of expansion and 
+back up capacity on HYLAS 4 has already had an impact in some 
+new customers signing with us.
+2. Opportunities from multinational customers
+Almost all of our customers in Sub-Saharan Africa are multinational 
+within that region. We conducted a survey to ask them in which 
+countries they are active or for which they would like to see Avanti 
+launch capacity, and designed HYLAS 4 coverage accordingly.  
+Our fleet now covers 13 of the world’s 20 fastest growing 
+economies and 27% of the global population. The Sub-Saharan 
+region includes 1 billion people but currently has internet 
+penetration of just 16%. McKinsey predicts that GDP from Internet 
+business in Africa will rise from $18 billion to $300 billion (2025), 
+considerably outstripping the global trend of 33% CAGR in data 
+usage. We see it as strategically important to make sure that we  
+are in a position to capitalise on all of the demand in Sub-Saharan 
+Africa, not just part of it. Given that this is the most exciting high 
+growth region in the world, it is likely that our focus on Africa will 
+remain the limit of our geographic ambition for the time being.
+3. Limited competition
+There is very little competition for our products because the 
+incumbent satellite operators remain broadly conservative about 
+moving out of their traditional TV markets and into high quality 
+telecoms, and where they are beginning to move in a small way, 
+they are using different business models which we believe 
+preserves our Quality and Flexibility advantage in our target 
+markets. This means that we have prime mover advantage.  
+The unmet demand for data across Africa is very large and our 
+customers want service in additional countries, therefore the 
+opportunity to drive forward our prime mover advantage is 
+strategically appealing.
+4. Efficient financing
+As a result of the bond re-financing we completed in 2013, we were 
+able to approach the bond market for an addition to the existing 
+facility in a very efficient way. We were also fortunate to come to  
+the bond market at a moment in time when investors were very 
+supportive. Finally, we were able to launch the HYLAS 4 project 
+with no equity capital, thereby protecting shareholders from dilution. 
+ 
+When choosing to finance HYLAS 4, we used base case 
+assumptions that would generate an IRR of 29%. The financing  
+and procurement strategies were carefully designed to manage 
+risk, match capital to liabilities and, most importantly, to maximise 
+value for shareholders. 
+CHIEF EXECUTIVE’S  
+REVIEW CONTINUED Strategic  
+Report:
+Operational 
+Review 14–21
+Corporate 
+Governance 
+  
+ 22–37
+Financial 
+Statements 
+  
+ 38–78
+Strategic  
+Report:  
+Business  
+Model  2–13
+5/
+HYLAS 4 financing strategy
+The “tap-on” bond that we issued in June is sufficient to cover  
+our capital commitments because in procurement we achieved a 
+limitation of liability of $81 million. Thus, if the capital markets were 
+not open around October 2015, we could pause the project for as 
+long as necessary. That downside protection was important in our 
+structuring but the intention remains to complete the financing  
+on time. As part of the tap-on, we gained consent to issue up to  
+$125 million in additional bonds, which can therefore be done very 
+quickly when the time is right, the only variable being the price the 
+market will apply at the time. In order to access the third tranche of 
+bonds of up to $125 million, we will also issue up to $100 million of 
+Junior Capital. This is defined as any form of capital which has a 
+maturity date beyond the bonds, does not pay cash interest and is 
+unsecured and structurally subordinated to the bonds.
+The success we achieved in procuring HYLAS 4 efficiently means 
+that the remaining capital requirement is likely to be 10%–20% 
+lower than originally contemplated.
+Other achievements
+During the year we acquired the ARTEMIS satellite and associated 
+spectrum and concluded the first significant new sale of capacity. 
+ARTEMIS’ primary function is to communicate with other 
+spacecraft in orbit. ARTEMIS revenues are by their nature derived 
+from short term projects and are unpredictable, but we expect the 
+satellite to yield a good return.
+Outlook
+Whilst revenue growth this year was strong, there were delays  
+to projects from the first half that slipped into the second half of  
+the year, and some large up front elements of both revenues and 
+costs were therefore taken in the second half. As we grow, we 
+expect the susceptibility of the business to the effects of one-off  
+set up costs and our dependence on a small number of large 
+contracts will diminish.
+The size of the customers we have been signing, and the scale  
+of the deployments they are planning, gives us confidence that 
+utilisation will continue to grow towards our long term target during 
+the coming year. Revenues for the first quarter are expected to be 
+around the average of the last year, with new contracts driving into 
+growth in subsequent quarters.
+David Williams
+Chief Executive

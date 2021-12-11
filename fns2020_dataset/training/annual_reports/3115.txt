@@ -1,0 +1,2347 @@
+ 05
+right place, right time –
+positioned for growth
+Celoxica Holdings plc  Annual Report and Accounts 2005 why we’ll grow
+what we do
+OUR PRODUCTS
+Celoxica’s design technology is unique in allow-
+ing silicon chips to be programmed directly
+from high level software descriptions. This auto-
+mated path from algorithm design to hardware
+implementation speeds chip design, supports
+greater product differentiation, and enables the
+rapid development of custom co-processors for
+algorithm acceleration. Using Celoxica tools,
+electronic products can be optimized between
+software and hardware implementations to dra-
+matically improve system performance, price
+and power utilization.
+The programmable chips in these products can
+be used stand-alone or combined with general
+purpose microprocessors or DSP processors.
+The end products serve markets where complex
+algorithms are common such as aerospace,
+automotive, consumer electronics, defence,
+image processing and security. 
+In addition to software, Celoxica offers these
+market sectors complementary solutions
+including development and acceleration
+boards, IP, training and professional services.
+OUR CUSTOMERS INCLUDE
+Aerospace & Defence
+BAE Systems, Lockheed Martin, Tadiran, Thales
+Semiconductors 
+Analog Devices, Mitsubishi, Sharp, Toshiba
+Consumer 
+Canon, Omron, Philips, Qualcomm
+Automotive 
+Denso, Honda, Siemens VDO, Toyota
+CONTENTS
+Highlights 1
+Chairman’s review 2
+Chief Executive’s review 3
+Financial review 10
+Board of Directors 12
+Directors’ report 13
+Corporate 
+governance report 15
+Directors’ 
+remuneration report 17
+Report of the  
+independent auditors’ 20
+Consolidated profit 
+and loss account 21
+Statement of Group 
+total recognised gains 
+and losses 21
+Consolidated  
+balance sheet 22
+Company balance sheet 23
+Consolidated cash flow
+statement 24
+Notes to accounts 25
+Notices of Annual 
+General Meeting 39
+Executives/Advisors/
+Business addresses 42
+CELOXICA is a leading provider of Electronic System Level
+(ESL) design solutions for the EMBEDDED SYSTEMS and
+ACCELERATED COMPUTING markets. 
+ESL is a design technology that dramatically improves productivity
+in the design of complex electronics and GREATLY INCREASES
+the USABILITY, PERFORMANCE and RANGE of applications
+for products using programmable semiconductors.
+The Group currently provides ESL design solutions to over 100
+EMBEDDED SYSTEMS and SEMICONDUCTOR customers in
+ALL REGIONS OF THE WORLD.
+DK DESIGN SUITE
+Complete ESL design envi-
+ronment
+AGILITY COMPILER 
+FOR SYSTEMC
+Behavioural synthesis tool
+PIXELSTREAMS
+Video IP library
+DSM
+Hardware/software 
+co-design tool
+PAL
+Platform modelling and
+board level integration tool
+RC SERIES
+Prototyping and develop-
+ment platforms EMBEDDED SYSTEMS
+Embedded Systems integrate multiple
+technologies to perform predefined tasks, 
+an automotive example would be an in-car
+navigation system. Our market potential is
+created by demand for increased design
+productivity, driven by customer demand for
+reduced product design cycles, product
+complexity and product differentiation.
+ACCELERATED COMPUTING
+Accelerated Computing is enabled by the
+application of ESL solutions and programmable
+semiconductors to massively reduce the time
+taken by compute-intensive programs. Our
+market potential is to simplify the migration of
+existing software algorithms into high
+performance programmable semiconductors.
+This solution satisfies the demand for rapid
+scientific analysis such as genome sequencing.
+Celoxica Limited Annual Report and Accounts 2005  page 1
+FINANCIAL HIGHLIGHTS
+CORPORATE HIGHLIGHTS
++24%
+Turnover increased 24% from £3.4m in 
+2004 to £4.3m in 2005.
+$1 .6bn
+In June 2005, EE Times quoted Gartner
+Dataquest forecasting that ESL revenues will
+increase from approximately US$200m in
+2005 to approximately US$1.6b in 2009.
+55% 
+Loss for the year reduced by 55% 
+in 2005.
+New products in 05
+Agility is our first software design tool
+that supports the electronics industry
+standard language for higher-level
+design, SystemC. 
+New development boards adding
+prototyping solutions and high-end
+acceleration solutions.
+Partnerships
+Established partnerships and strategic
+relationships with global leaders in the
+electronics value chain
+Altera, Synopsys, Texas Instruments,
+Toshiba and Xilinx.
+24 new customers
+We engaged with 24 new customers
+spanning the Americas, Asia Pacific and
+Europe. We focused on ensuring that they
+provided strategic wins in both the
+embedded design and accelerated
+computing markets.
+Admitted to AIM
+27 October 2005 – an important
+milestone for the Group, increasing the
+Group’s profile and increasing its
+financial resources.
+Highlights
+2005
+TURNOVER £4,300,000
+CASH AT YEAR END £4,500,000
+LOSS FOR YEAR £2,300,000
+GROSS PROFIT 64%
+EMPLOYEES 57 In this, my first Chairman’s review since Celoxica
+became a public company, I am pleased to
+report that we have made good progress in the
+year. There have been a number of highlights:
+• October’s AIM flotation, an important
+milestone for the Group, raising the Group’s
+profile and increasing its financial resources
+• Record orders for the year of £5.0m, up
+42% on 2004
+• Turnover up 24% on 2004, operating
+losses reduced by 14%
+• Increased momentum in the accelerated
+computing market in the Americas
+FINANCIAL RESULTS
+The financial results for the Group are
+encouraging. Turnover increased by 24%, and
+our operating loss was reduced. Following the
+IPO our cash position is strong. This progress
+together with the IPO proceeds will enable the
+Group to scale the business and capitalize on
+the market opportunity.
+STRATEGY
+We have made considerable progress towards
+our goal of becoming one of the primary
+global suppliers of electronic system level
+design technology for the embedded systems
+and accelerated computing markets. Whilst
+these markets are currently relatively small,
+both are expected to experience substantial
+growth in the coming years. Of particular
+note is the progress within the accelerated
+computing market where, in the Americas, we
+have achieved a number of important design
+wins. We are currently generating real
+momentum in this exciting market and view
+the future with considerable optimism.
+IPO
+The Group completed its IPO on the
+Alternative Investment Market of the London
+Stock Exchange on 27 October 2005. The
+placing raised gross funds of £6.1m (£5.2m
+net). This achievement provides the financial
+resources the Group needs to expand its
+commercial and development activities.
+BOARD CHANGES
+Following the Group’s IPO we appointed Ian
+Yeoman as a non-executive Director. Ian brings
+a wealth of international business, finance and
+technology experience in a range of companies
+spanning the aerospace, defence, chemicals
+and electronics industries. Jesper Nielsen
+resigned from the Board on 23 September 2005
+and Keith Hopkins resigned from the Board on
+25 January 2006. I would like to thank Jesper
+and Keith for their contributions to the Group.
+SUMMARY
+The Group is developing well. I would like to
+recognise both our employees who, through
+their commitment, focus and ability, have
+delivered these results and our professional
+advisors for enabling the Group to achieve a
+successful flotation. Finally, I would also like
+to thank our customers and partners for their
+continued support and our shareholders for
+their loyalty. Based on our progress to date
+and our continued momentum, we are
+confident of success in the future.
+Jack Fryer Chairman
+page 2 Celoxica Holdings plc Annual Report and Accounts 2005
+Chairman’s review
+good progress in the year
+Based on our progress
+to date and our
+continued momentum,
+we are confident of
+success in the future. We have made significant
+progress, establishing a
+solid platform in growing
+markets, and building very
+strong relationships with
+partners, helping us to
+continue to remain at the
+forefront of new
+technological developments.
+OVERVIEW
+During the year, we have continued to make
+significant progress in our strategic growth
+segments of embedded systems and accelerated
+computing. We have built very strong
+relationships with customers and partners and
+are expanding our role and importance as a
+member of the electronics industry value chain.
+We have invested in the continued development
+of our product solutions and have targeted a
+number of emerging market applications that
+demonstrate the value of these new products.
+STRATEGY
+Celoxica’s goal is to become one of the primary
+global suppliers of electronic system level design
+technology for the embedded systems and
+accelerated computing markets. We continue to
+develop our core technology to strengthen our
+growth in these markets. We believe that our
+customers can significantly improve productivity
+in the design of electronics systems and greatly
+increase the usability, performance and range of
+applications made possible by the deployment
+of Celoxica’s technology.
+MARKET DEVELOPMENT
+The ESL (embedded design) market
+We continue to see a spectrum of opportunity
+in the ESL market and significant growth is
+forecast. Gartner Dataquest forecasts that the
+ESL market will grow from approximately
+$200m in 2005 to $1.6bn by 2009. This
+growth is being driven by the increasing
+complexity of semiconductors. This complexity
+stimulates demand for high productivity design
+solutions such as those offered by Celoxica. Our
+solutions can be applied to an extensive range
+of applications within the embedded space
+and our focus is directed at the high growth
+segments of automotive, communications,
+consumer, imaging and industrial.
+The accelerated computing market
+This market offers Celoxica a potential £1.5bn
+opportunity, growing at 30% p.a. (according to
+IDC). The use of programmable semiconductors
+for accelerated computing is growing and our
+technology allows developers to explore 
+co-processor algorithm acceleration within a
+familiar design environment. Our solutions have
+already been used in the development of a wide
+range of accelerated computing applications such
+as virus checking, real-time image processing and
+scientific and industrial computing calculations.
+The wide array of applications within the
+accelerated computing market is expected to
+lead to continued rapid growth opportunities.
+PARTNERSHIPS
+Partnerships provide the Group additional routes
+to market for our technology solutions. The focus
+of these partnerships includes semiconductors,
+software solutions, hardware board suppliers and
+research and teaching universities.
+During the year, the Group developed and
+expanded its relationship with key partners in
+the industry. In the semiconductor space we
+continue to work closely with Altera and Xilinx
+who are the dominant market leaders in FPGA
+based programmable semiconductor market. We
+have launched new versions of our products that
+exploit and utilise the latest FPGA based
+products from these two key partners. We have
+also created FPGA based development and
+acceleration boards that deploy their highest
+performance FPGA devices. This approach is
+increasing the demand for our software products
+and supports our complementary relationships
+with global DSP leaders Texas Instruments and
+Analog Devices. FPGA technology is increasingly
+being used alongside DSP technology and we
+expect this trend to continue. Another important
+partner for us in the semiconductor space is
+Toshiba. At the beginning of 2005 we
+announced software support for Toshiba’s Media
+embedded Processor or MeP. Our MeP
+agreement has resulted in a new product the
+“MeP kit” that leverages both our hardware and
+software offerings to provide a strong
+prototyping capability for ASIC designers who
+are looking to integrate the MeP processor.
+Our software partners help us maintain
+compatibility with design flows that help
+leverage our products. This year we introduced
+the new Agility Compiler product, which
+targets FPGA and ASIC design flows. To allow
+us to better address the ASIC market we
+initiated a partnership with Synopsys and
+have provided Agility support for their
+industry leading ASIC synthesis solutions.
+At the hardware board and system level, we
+have developed board support packages for end
+system suppliers. As part of our accelerated
+computing strategy we initiated software
+support for high-performance computing leaders
+Silicon Graphics (SGi) and Cray, and Sundance in
+the embedded DSP + FPGA space. Supporting
+these hardware solutions unlocks a wider user
+base for our software design solutions.
+Our university program continues to provide a
+strong mechanism for collaboration with over 
+600 research and teaching universities worldwide.
+These institutions provide local customer reference
+points, potential for commercial opportunity and
+are great sources of ideas and innovations.
+CUSTOMERS
+We have a blue-chip customer base that
+continues to grow with over 100 customers in
+all regions of the world including the Americas,
+Asia Pacific (China, India, Japan, Singapore,
+South Korea and Taiwan) and Europe. These
+continued on page 4
+Celoxica Holdings plc Annual Report and Accounts 2005  page 3  
+Chief Executive’s review
+a year of significant progress
+Celoxica’s goal is to
+become one of the
+primary global suppliers
+of electronic system level
+design technology… customers actively use more than 400 software
+licenses and many more of our hardware
+development and acceleration products. With
+this existing customer base we are in an
+enviable position to increase our growth across
+these geographies. In 2005 we engaged with
+24 new customers and these new customers
+spanned the Americas, Asia Pacific and Europe.
+By design, we focused on ensuring that these
+customers would provide strategic wins in both
+the embedded design and accelerated
+computing markets.
+PRODUCTS
+Celoxica sells software based design tools, IP,
+hardware and consulting solutions. Our
+software products provide dramatic productivity
+and competitive advantage for the design and
+simulation of programmable semiconductor
+devices. Our hardware products are based on
+programmable semiconductors and provide
+prototyping and acceleration solutions for a
+wide range of industry applications. We also
+provide consulting services to augment the sale
+of software and hardware and to provide a
+complete solution to customers.
+Progress in software and IP
+In 2005 we continued to develop our core ESL
+design and synthesis product leading to the
+launch of version 4.1 of the DK Design Suite.
+DK 4.1 is the most advanced and customer
+proven ESL design and synthesis solution on the
+market with improved performance and
+integration over past product revisions. We have
+also extended our Pixelstreams product.
+Pixelstreams is an IP library of over 140 video
+filters. These filters can be used to graphically
+capture video algorithms leading to optimised
+programmable implementations when
+synthesised with the DK Design Suite.
+Additionally, in the past year we introduced the
+Agility Compiler. Agility is our first software
+design tool that supports the electronics
+industry standard language for higher-level
+design, SystemC. We believe Agility will enjoy
+broad market appeal and will open up our total
+addressable market. Agility was launched early
+in the year and has gained customer traction
+with some strategic design wins.
+In the programmable board market, we have
+extended our product range. In the past year
+we have added low-end prototyping solutions
+and high-end prototyping or acceleration
+solutions utilising the latest high-end
+semiconductor devices from our partners
+Altera, Texas Instruments and Xilinx.
+FINANCIALS
+Our financial performance reflects the success
+of the Group. Overall we delivered turnover
+growth of 24% and I am particularly pleased
+that the Americas recorded 71% sales growth
+with turnover up from £0.9m in 2004 to
+£1.5m in 2005. This was due to strong
+customer wins in both the accelerated
+computing and embedded ESL markets. I am
+also pleased that we generated impressive
+growth in Europe, reflecting the global nature
+of our business.
+MANAGEMENT AND STAFF
+During the year, we averaged 57 employees.
+Of those, 29 (51%) work in the engineering
+department, 20 in sales and marketing (35%)
+and 8 in administration (14%). Headcount
+has remained flat through 2005 though we
+will invest in a number of additional sales and
+engineering personnel in the coming year. We
+rely heavily on the commitment of our staff
+and through their dedication and attention to
+detail, we have accomplished a number of
+significant milestones. I would like to express
+my appreciation to them for their hard work,
+enthusiasm and support.
+OUTLOOK
+We enter 2006 with great optimism. The
+Group has made significant progress during
+the year and we have established a solid
+platform in two growing markets – embedded
+design (ESL) and accelerated computing. We
+will continue to invest in developing and
+commercialising new technology for these
+markets. In addition, we have invested
+resources to support our growing number of
+strategic partners and customers which we
+believe will enable the Group to continue to
+grow its revenue in the coming years. Our two
+key markets are growing rapidly and we are
+extremely well positioned to take advantage
+of this growth. Trading to date is in line with
+our expectations and we expect a successful
+outcome for the year.
+Philip Bishop Chief Executive Officer
+Customer Applications
+We sell and market our products into the
+following end markets: Automotive;
+Bioinfomatics; Communications; Computing;
+Industrial; Consumer Electronics; Defence &
+Aerospace; Enterprise & High Performance
+Imaging and Security.
+Typical applications developed using our
+technology include:
+Automotive Our technology is enabling the
+design of next-generation in-car electronics and
+automotive safety systems such as adaptive
+cruise control, ‘Infotainment’ and navigation.
+Bioinformatics This market includes
+biometrics and gene sequencing. Celoxica’s
+solutions provide computing acceleration to
+speed up the information analysis that is
+essential for cutting-edge bioinformatics and
+medical applications.
+Communications Our design tools facilitate
+faster, more reliable design of complex SoCs
+and programmable chips that are essential to
+the digital communications infrastructure.
+Consumer electronics Our technology is ideally
+suited to the design needs of high-performance
+and multi-function consumer electronics
+products with their ever-shortening life cycles.
+Our design tools have been used to create a
+range of consumer devices such as digital
+cameras, digital scanners and 3D LCD screens.
+Defence & Aerospace The Group’s
+technology has been deployed in this market,
+where innovation, complexity and reliability
+are critical. Typical applications include
+sonar/radar systems, satellite communications
+and infrared image processing.
+Enterprise & High Performance Computing
+(HPC) Our products provide a design flow
+that enables the easy migration and
+acceleration of existing software algorithms
+into high performance, low power
+programmable semiconductors used for data
+mining and data processing.
+Imaging, Industrial and Security Image
+processing capabilities are becoming essential
+in desktop printers, digital cameras,
+multimedia devices and security systems.
+Within industrial, Celoxica’s customers design
+factory automation. Machine Vision is an
+example area where Celoxica’s technology
+and ESL design is enabling innovation in the
+industrial design and manufacture process. It
+rapidly brings the benefits of real-time video
+and image processing to production
+manufacture environments.
+page 4 Celoxica Holdings plc Annual Report and Accounts 2005
+Chief Executive’s review
+Turnover by origin
+Europe, Middle East and 
+Africa £1.3m
+Asia Pacific £1.5m
+The Americas £1.5m   The electronic products
+designed using our tools
+serve markets where
+complex algorithms 
+are common…
+Celoxica Holdings plc Annual Report and Accounts 2005  page 5
+Chief Executive’s review
+about us
+our business 
+& markets
+how we work –
+meeting future  
+design challenges
+Celoxica develops and
+markets software design
+tools, development boards,
+intellectual property cores
+and professional services
+that enable innovative
+electronic design solutions
+for growth markets.
+In a typical application, customers use
+Celoxica’s tools to compile software
+algorithms to programmable semiconductors
+to massively accelerate performance and
+drastically shorten the product design cycle.
+The programmable chips in these products
+may be deployed stand-alone, but are often
+combined with general purpose
+microprocessors or DSP processors. The
+electronic products designed using our tools
+serve markets where complex algorithms are
+common such as consumer electronics,
+automotive, aerospace, defence, image
+processing, security and high performance
+computing. In addition to software, Celoxica
+offers these market sectors complementary
+solutions including development and
+acceleration boards, IP, training and
+professional services. These additional
+elements speed technology adoption, promote
+customer success and grow revenue
+opportunities for Celoxica. our technology is enabling the automotive value chain to
+deliver greener solutions
+Chief Executive’s review
+page 6 Celoxica Holdings plc Annual Report and Accounts 2005
+Automotive electronics
+leader Fujitsu Ten selected
+Celoxica’s ESL design
+technology after a period of
+comprehensive evaluation
+and testing. The decision
+was based on the results of
+a large scale project to
+develop an advanced motor
+control hardware-in-the-loop
+simulator. They have
+deployed Celoxica technology
+for internal Fujitsu Ten
+project development and
+customer services business.
+Products deployed: DK Design Suite; Celoxica
+Co-simulation Manager.
+HELPING TO DEVELOP HIDDEN BOMB
+DETECTION SOLUTIONS
+HiEnergy Technologies, Inc., a developer of
+advanced stoichiometric sensor devices, adopted
+Celoxica’s DK Design Suite to accelerate
+chemical formula analysis algorithms. These
+algorithms were implemented into HiEnergy’s
+SIEGMA TM 3E3 product used for the remote
+detection of hidden homemade bombs. The
+SIEGMA TM 3E3, including the Celoxica boards,
+has been adopted by the South eastern
+Pennsylvania Transportation Authority (SEPTA)
+to enhance the safety of the United States fifth
+largest public transportation system.
+Products deployed: DK Design Suite; PAL –
+platform modeling and board level integration;
+RC2000 Series – acceleration platform.
+DEVELOPING NEXT GENERATION
+MILITARY COMMUNICATIONS EQUIPMENT
+Tadiran Communication Ltd., a leading provider
+of military communications technology, adopted
+Celoxica’s ESL technology to accelerate its next
+generation product design. Development
+focuses upon Military Tactical Radios and
+Systems in the HF, VHF and UHF bands. The DK
+Design Suite will be deployed to implement
+very complex signal processing and
+communications algorithms in programmable
+FPGA hardware.
+Products deployed: DK Design Suite; PAL –
+platform modeling and board level integration.
+“We chose to work with Celoxica
+because they provided us with a
+complete software and hardware
+acceleration solution for optimizing 
+the performance of our C algorithms…”
+Dr. Bogdan Maglich, CEO and Chief Scientist
+HiEnergy Technologies, Inc. 
+“The type of design work we
+undertake is becoming more complex
+and more time critical, and we
+needed a design tool that would
+enable us to achieve increased
+flexibility, faster development and
+easier maintenance…”
+Danny Koenig, Modems Director
+Tadiran Communications Ltd
+Image courtesy of US DoD “THROUGH EXTENSIVE TESTING
+WE HAVE PROVED THAT WE CAN
+INTEGRATE C-BASED DESIGN
+AND SYNTHESIS WITH MODEL
+BASED DESIGN APPROACHES.
+THIS BETTER ENABLES US TO
+TURN SOFTWARE INTO SILICON
+AND IT WILL HAVE A
+BENEFICIAL IMPACT ON OUR
+PRODUCTIVITY AND OUR
+CUSTOMER RESPONSIVENESS…”
+Mr. Tonou, 
+Department General Manager, 
+Fujitsu Ten
+Celoxica Holdings plc Annual Report and Accounts 2005  page 7
+Chief Executive’s review our vision is enabling the consumer 
+Chief Executive’s review
+“…Using C-based design and synthesis
+technology we were able to easily
+capture the complex watermarking
+algorithms and accelerate the
+detection scheme in a co-processor,
+exploiting the power and performance
+benefits of programmable hardware.”
+Yasushi Inoguchi, Associate Professor at 
+the Center for Information Science at JAIST
+”…We chose to work with Celoxica as
+it has the proven tools in C-based
+design and synthesis that enables our
+internal and external customers to
+design more quickly, with lower risk.”
+Tohru Furuyama, Ph.D., General Manager, 
+SoC Research & Development Center,
+Toshiba Corporation Semiconductor Company
+page 8 Celoxica Holdings plc Annual Report and Accounts 2005
+Leading Japanese consumer
+electronics companies have
+selected Celoxica’s ESL
+design technology and IP to
+accelerate the prototyping
+and development of their
+imaging products, from
+hand held volume consumer
+devices to high-end office
+equipment and peripherals.
+Advanced digital imaging
+products such as modern
+digital cameras, scanners,
+copiers and integrated
+media devices rely upon
+increasingly sophisticated
+and powerful algorithms
+that are embedded in
+electronic circuits.
+Products deployed: DK Design Suite;
+PixelStreams – video IP library; DSM – hardware/
+software co-design tool; PAL – platform modeling
+and board level integration; RC Series –
+prototyping and development platforms.
+HELPING TO SECURE DIGITAL INFORMATION
+Researchers at Japan’s Advanced Institute of
+Science and Technology (JAIST) used Celoxica
+technology to develop a high speed digital
+watermarking detection system with real-time
+operation across the Internet. Digital
+watermarking is increasingly used in response to
+the escalating misuse, and illegal copying and
+distribution of multimedia content. Digital
+watermarks embed hidden data into digital
+content or media and contain copyright
+information identifying the origins, ownership
+and authenticity of the content. The Digital
+watermarking algorithms were accelerated in a
+hardware co-processor resulting in a low-power
+solution that runs detection scanning 148 times
+faster than software only configurations. The
+complex algorithm design was implemented
+using Celoxica’s ESL tools and RC Series
+development boards.
+Products deployed: DK Design Suite; PAL –
+platform modeling and board level integration;
+RC2000 Series – acceleration platform.
+TOSHIBA CHOOSE CELOXICA FOR
+ADVANCED DIGITAL MEDIA
+Toshiba selected Celoxica as a key technology
+provider for its digital media System-On-Chip
+solution called the Media embedded Processor
+(MeP). Celoxica’s technology provides a
+comprehensive design, simulation and
+prototyping environment for complex digital
+media SoC designs based on the MeP. By
+combining Celoxica’s ESL design tools and RC
+Series development boards, designers targeting
+the Media embedded Processor have a low-risk,
+high-productivity route to design exploration for
+digital media SoC. Consumer applications such
+as digital audio processing can be developed
+more quickly and coprocessing technology can
+be leveraged for better end product performance
+and lower power consumption.
+Products deployed: DK Design Suite; Celoxica
+Co-simulation Manager; DSM – hardware/
+software co-design tool; PAL – platform
+modeling and board level integration; RC300
+Series – prototyping and development platform.
+our vision is enabling the consumer
+have greater vision Chief Executive’s review
+Celoxica Holdings plc Annual Report and Accounts 2005  page 9
+“BY USING OUR TECHNOLOGY,
+CONSUMER ELECTRONICS
+DESIGNERS HAVE A MORE
+RAPID AND DIRECT ROUTE TO
+SILICON FROM THEIR SOFTWARE
+ALGORITHMS AND CAN
+OPTIMIZE COMPONENTS SUCH
+AS CODECS, FILTERS AND
+COMPLEX MATHEMATICAL
+CALCULATIONS MORE QUICKLY
+FROM THE SYSTEM LEVEL.
+PRODUCTS CAN BE DEVELOPED
+MORE QUICKLY, WITH LESS RISK
+AND AT A LOWER COST.”
+Edouard Vincent,
+Engineering Manager Celoxica achieved record
+orders for the year of
+£5.0m. We continue to
+invest in our future through
+significant research and
+development expenditure.
+ORGANISATION
+The Group consists of three primary operating
+subsidiaries; UK, US and Japan. The UK office,
+based near Oxford, England, supports sales
+within Europe, Middle East and Africa as well
+as housing our engineering development and
+research teams. The US office, based in
+Austin, Texas, supports sales throughout the
+US and Canada, and the Japan office, based
+in Yokohama, supports sales throughout Asia
+Pacific, including China, India, Taiwan, South
+Korea and Singapore.
+The Group has 57 employees (2004: 57),
+comprising engineering: 29 employees 
+(2004: 26 employees); sales and distribution:
+20 employees (2004: 23 employees); and
+general and administration 8 employees
+(2004: 8 employees).
+Sales are primarily through our direct sales
+team, augmented by a network of partners
+and distributors.
+TURNOVER
+Turnover (excluding VAT) comprises the value
+of sales of licenses, revenue from support,
+maintenance, training and consulting
+contracts and the sale of hardware boards.
+Licence fees are recognised upon shipment of
+the software based on customer purchase
+orders, provided that all significant
+obligations in respect of the software licence
+are fulfilled. Where agreements involve
+multiple elements, the entire fee from such
+arrangements has been allocated to each of
+the individual elements based on each
+element’s fair value. Vendor-specific objective
+evidence of fair value is determined by
+reference to list price of sales to other
+customers where elements are sold separately.
+Turnover increased to £4.3m, up 24% on the
+corresponding period in 2004. Approximately
+£0.4m of orders arrived later than had been
+anticipated and therefore revenue is expected
+to be recognised in 2006.
+TURNOVER BY ORIGIN OF SALES
+Turnover by origin of sales was Europe, Middle
+East and Africa £1.3m representing 30% of
+total turnover (2004: £0.9m, 26%), Asia Pacific
+£1.5m representing 35% of total turnover
+(2004: £1.7m, 48%) and The Americas £1.5m,
+representing 35% of total turnover (2004:
+£0.9m, 26%). The change in mix compared
+with 2004 sales mix is due to new contracts
+and new licence wins within the Americas.
+GROSS PROFIT
+Gross profit, which represents the value of
+our turnover, recognised as revenue less
+associated cost of goods sold, was 64% in
+2005 (2004: 65%). The slight change in the
+overall gross profit per cent is due to the
+sales growth in 2005 and the resultant
+product mix.
+OPERATING EXPENSES
+Operating expenses in the year were £5.7m,
+consistent with our expenses in 2004 of
+£5.7m. Our expenses consist of staff and
+related costs, property and related costs,
+external marketing costs including expenses
+associated with exhibitions, seminars and
+public relations, legal and other costs and
+depreciation. Salaries and associated costs
+included within administrative expenses
+represent approximately 61% (2004: 63%) 
+of the total.
+Depreciation of tangible fixed assets amounted
+to £89,000 (2004: £121,000) and relates
+primarily to office and associated equipment.
+LOSS BEFORE TAX
+Loss before tax was £2.6m (2004: £3.4m).
+The reduction in loss of £849,000 is due to
+an increase in the gross margin contribution
+in 2005 of £488,000 (due to an increase in
+turnover), a net credit of £524,000 due to non-
+equity finance costs (see note 7), an increase 
+in net interest of £158,000 and slightly higher
+administrative costs of £6,000. Excluding the
+one-off credit of £524,000 the loss before tax
+would have been £3.1m and compares with
+2004 reported loss of £3.4m.
+LOSS FOR THE FINANCIAL YEAR
+Loss for the financial year was £2.3m and
+compares with a loss of £5.1m in 2004.
+This loss includes non-equity dividends
+payable to preference shareholders prior to
+the Company’s IPO in October. In the year,
+there was a net credit to the profit and loss
+account of £524,000 due to the preference
+shareholders electing to convert a lower
+amount of accrued dividends into Ordinary
+shares than had previously been accrued. 
+(See note 7 and note 9).
+The accrued dividends and associated interest
+payable for the year amounted to £2.0m;
+however, preference shareholders reduced the
+cumulative amount of dividends and interest
+by £2.5m, resulting in a credit in the year of
+£524,000. In 2004 the charge was £2.1m.
+Excluding non-equity finance costs, the loss
+on ordinary activities after taxation was £2.8m
+(2004: £3.0m).
+page 10 Celoxica Holdings plc Annual Report and Accounts 2005
+Financial review
+Turnover increased 24% from
+£3.4m in 2004 to £4.3m in 2005 Financial review
+The Group raised £5.2m
+net of expenses from the
+proceeds of the flotation
+in October 2005.
+Turnover by origin of
+sales in The Americas
+was £1.5m, representing
+35% of total turnover
+(2004: £0.9m, 26%).
+Celoxica Holdings plc Annual Report and Accounts 2005  page 11
+LOSS PER SHARE
+Loss per share was 20p compared with 308p in
+2004. Although the loss for the financial year
+reduced from £5.1m in 2004 to £2.3m in
+2005, a reduction of 55%, the reduction in the
+loss per share was significantly higher at 94%.
+This reduced loss per share is due to the impact
+of a net credit of non-equity finance costs of
+£524,000 in 2005 while in 2004 there was a
+non-equity dividends and appropriations charge
+of £2.1m (see note 7 and 9). In addition, the
+weighted average number of shares in issue in
+2005 was 1 1.5m shares compared to a
+weighted average of 1.7m shares in 2004,
+reflecting the impact of the issue of shares at
+the IPO and the conversion of the A ordinary, 
+B ordinary and C ordinary shares into ordinary
+shares in October 2005.
+PENSIONS
+UK pension contributions in respect of defined
+contribution pension schemes are charged to
+the profit and loss account as incurred. We also
+contribute to schemes in other countries where
+we have subsidiaries: 401(k) plan in the US
+and the employees’ pension insurance in Japan.
+RESEARCH & DEVELOPMENT (R&D) 
+TAX CREDIT
+The Group is currently loss making and has been
+for a number of years. The UK R&D tax credit is
+designed to enable loss making companies to
+sacrifice tax losses from R&D in exchange for a
+cash payment of 24p per £1 of qualifying
+expenditure. We invest a significant amount in
+R&D and, therefore, have elected to claim R&D
+tax credit for SMEs. In 2005, the R&D tax credit
+was £300,000 (2004: £360,000).
+DEFERRED TAX
+Deferred taxation is provided on a full
+provision basis on timing differences, arising
+from the different treatment of items for
+accounts and taxation purposes, which are
+expected to reverse in the future, calculated at
+rates at which it is estimated that tax will arise.
+The deferred taxation balance has been
+measured at the rate expected to apply when
+timing differences reverse. Deferred tax assets
+are recognised to the extent that it is regarded
+as more likely than not they will be recovered.
+FOREIGN EXCHANGE
+The Group has not entered into forward
+exchange contracts as, historically, the
+operating subsidiaries have been loss making
+and, hence, are naturally hedged against
+foreign currency fluctuations. We continue to
+review the situation.
+Transactions arising during the year, which are
+denominated in foreign currencies, are
+translated at the rate of exchange ruling at the
+date of the transaction. Monetary assets and
+liabilities denominated in foreign currencies are
+retranslated at the rate of exchange ruling at
+the balance sheet date. All exchange
+differences are taken to the profit and loss
+account in the year in which they arise. 
+Assets and liabilities in the accounts of the
+overseas subsidiaries are translated at the rate
+of exchange ruling at the Balance Sheet date
+and the results of the subsidiaries are translated
+at the same rate. The exchange difference
+arising on the translation of the overseas
+subsidiaries is taken directly to reserves. All
+other foreign exchange differences are taken to
+the profit and loss account as they arise.
+BALANCE SHEET ITEMS
+Net assets at 31 December 2005 were £4.0m
+(2004: £1.6m) and consist of:
+• Tangible assets of £160,000 (2004: £171,000)
+primarily office and associated equipment
+• Stock of £154,000 (2004: £217,000)
+representing goods of hardware development
+boards for resale
+• Debtors £1.8m (2004: £1.3m) primarily
+trade debtors, prepayments and corporation
+tax receivable.
+• Cash and short-term deposits of £4.5m
+(2004: £2.6m)
+• Creditors within one year and due after one
+year £2.6m (2004: £2.7m).
+Included within debtors are trade debtors of
+£1.0m (2004: £696,000), representing
+outstanding invoices to customers, corporation
+tax receivable of £300,000 (2004: £359,000),
+R&D tax credit, other debtors of £126,000
+(2004: £67,000) and prepayments and accrued
+income of £359,000 (2004: £197,000).
+Creditors include trade creditors of £770,000
+(2004: £456,000), representing outstanding
+invoices for goods and services received, deferred
+income of £326,000 (2004: £276,000),
+representing deferred income on support and
+maintenance contracts, bank loans (within one
+year and more than one year) of £1.0m (2004:
+£1.5m), representing a 3-year loan facility and
+other creditors and accruals of £497,000
+(2004: £496,000).
+CASH FLOW
+The Group raised £5.2m net of expenses from
+the proceeds of the flotation in October 2005.
+During the year, our operating cash flow was
+an outflow of £2.9m (2004: £3.5m).
+INTERNATIONAL FINANCIAL REPORTING
+STANDARDS (IRFS)
+IFRS apply to AIM-listed companies for
+accounting periods commencing on or after 
+1 January 2007. As an AIM-listed company,
+the Group must adopt IFRS for the accounting
+period commencing 1 January 2007. The
+Group are appraising the impact of IFRS and
+will report, where appropriate.
+Bernard Morgan Chief Financial Officer a great depth of 
+industry knowledge
+page 12 Celoxica Holdings plc Annual Report and Accounts 2005
+Board of Directors
+the right people
+JACK FRYER, Non-executive Chairman
+Jack, 66, was appointed non-executive Chairman
+in April 2001. Following the de-merger of the
+defence business from GEC in November 1999,
+Jack was appointed Technology and Strategy
+Director for Marconi, having joined GEC in 1996
+as Strategic Planning Director. Prior to this, Jack
+was Managing Director of the transition team
+during the Lucas Industries/Varity merger,
+having joined Lucas Industries in 1986. Jack also
+serves as a non-executive Director of Northgate
+Information Solutions plc.
+PHILIP BISHOP, Chief Executive Officer
+Philip, 44, was appointed CEO of Celoxica in
+July 2002. He has spent his entire career in
+the electronics industry, with key management
+sales and engineering positions in EDA
+(Mentor Graphics), semiconductors (Motorola)
+and military aerospace (Boeing). Philip holds
+an MBA in International Business from the
+Fuqua School of Business at Duke University
+(USA) and degrees in Computer and Electrical
+Engineering from the University of Michigan.
+DAVID CHEESMAN, Non-executive Director.
+David, 63, was appointed to the Board in
+September 2001. David has a background in
+electrical engineering and has spent 22 years
+within the technology industry. Prior to joining
+Advent Venture Partners in 1996 as a General
+Partner, David successfully built an
+IT/Electronics sector investment portfolio whilst
+responsible for 3i’s High Technology Unit.
+BERNARD MORGAN, Chief Financial Officer
+Bernard, 44, a chartered management
+accountant, has over 15 years’ experience in
+the electronics industry and joined Celoxica
+in February 2000. Previously, Bernard was
+Vice President, Finance Europe at LSI Logic.
+He also worked for Philips for ten years in a
+number of its divisions, including lighting,
+consumer electronics and media. Bernard is 
+a Fellow of the Chartered Institute of
+Management Accountants.
+IAN YEOMAN, Non-executive Director
+Ian, 51, was appointed to the Board in
+November 2005, has 28 years of international
+business, finance and technology experience in 
+a range of companies spanning the aerospace,
+defence, chemicals and electronics industries. 
+Ian was a founding member of the management
+buy-out team who took over Ultra Electronics
+from TI Group. Ian has also held senior executive
+roles with Tioxide International, Plessey Defence
+Systems and Dowty Group plc. The Directors present their report and the audited financial statements of the Company and of the Group for the year ended 31 December 2005.
+PRINCIPAL ACTIVITIES
+The Group’s principal activity is the provision of electronic system level design technology for the embedded systems and accelerated computing markets.
+Celoxica’s technology significantly improves productivity in the design of electronics systems and greatly increases the usability, performance and range
+of applications for products using programmable semiconductor devices for a diverse and growing set of markets.
+REVIEW OF BUSINESS AND FUTURE DEVELOPMENTS
+The Groups electronic system level design technology fuses system verification, hardware/software co-design and C-language synthesis into a single
+flow targeting programmable logic implementations. The Group has continued to develop its strategic customer base and increased the number of new
+customers. In addition the Group has continued to strengthen its partnerships with major vendors in the FPGA market, EDA market, semiconductor
+market and hardware acceleration boards market.
+The Group continues to expand its product range and in addition to launching the next version of its software design kit DK4.1, it launched its first
+industry standard language product called Agility Compiler. The Group also introduced a number of high performance hardware development platforms
+with the introduction of the RC10 and RC250.
+The technology is continuing to develop and remain ahead of the market and any competitors. The Group continues to expand its customer base to
+develop the Group’s future trading activities.
+DIRECTORS
+The present Directors of the Board were in office throughout the year, except Ian Yeoman who was appointed in November 2005.
+INITIAL PUBLIC OFFERING
+The Company completed its Initial Public Offering on the Alternative Investment Market of the London Stock Exchange on 27 October 2005. The
+placing raised gross funds of £6,070,000.
+DIVIDENDS
+Until 10 October 2005, the Company had four classes of share, A Ordinary, B Ordinary, C Ordinary and Ordinary shares. Both ‘A’ and ‘B’ Ordinary
+shareholders were entitled to a cumulative dividend of 8% per annum. Such dividends had never been paid due to a lack of distributable reserves. 
+A resolution was passed at an Extraordinary General Meeting on 10 October 2005 to convert all A, B and C Ordinary shares to Ordinary shares and
+settle the outstanding dividends and interest thereon by the issue of shares. As a result, cumulative dividends of £4,350,439 (with accrued interest of
+£729,462) were settled by the issue of 16,255,682 Ordinary shares of 25p each. See also note 7 and note 9.
+The Directors do not recommend the payment of a dividend for the year ended 31 December 2005.
+RESEARCH AND DEVELOPMENT
+The Group continues to develop both its products and its proprietary software, as well as continuing to expand its range of hardware development
+boards and consulting services. Total spend in 2005 was £1,275,617 (2004: £1,498,087).
+POLICY ON PAYMENT OF CREDITORS
+It is the Group’s normal practice to make payments to suppliers in accordance with agreed terms, provided that the supplier has performed in
+accordance with the relevant terms and conditions. At 31 December 2005 the Company had no trade creditors (2004: none).
+Celoxica Holdings plc Annual Report and Accounts 2005  page 13
+Directors’ report
+For the year ended 31 December 2005 FINANCIAL INSTRUMENTS
+Details regarding the Group’s use of financial instruments are given in note 17 to the financial statement.
+STATEMENT OF DIRECTORS’ RESPONSIBILITIES
+The Directors are responsible for preparing the Annual Report and the financial statements in accordance with applicable law and United Kingdom
+Accounting Standards (United Kingdom Generally Accepted Accounting Practice).
+United Kingdom Company law requires the Directors to prepare financial statements for each financial year that give a true and fair view of the
+state of affairs of the Company and the Group and of the profit or loss of the Group for that period. In preparing these financial statements, the
+Directors are required to:
+• Select suitable accounting policies and apply them consistently;
+• Make judgements and estimates that are reasonable and prudent
+• State whether applicable accounting standards have been followed, subject to any material departures disclosed and explained
+in the financial statements; and
+• Prepare the financial statements on the going concern basis unless it is inappropriate to presume that the Group and Company
+will continue in business.
+The Directors are responsible for keeping proper accounting records that disclose with reasonable accuracy at any time the financial position of the
+Company and the Group and enable them to ensure that the financial statements comply with the Companies Act 1985. They are also responsible for
+safeguarding the assets of the Group and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+The Directors are responsible for the maintenance and integrity of the corporate and financial information included on the company’s website. Legislation
+in the United Kingdom governing the preparation and dissemination of financial statements may differ from legislation in other jurisdictions.
+AUDITORS
+Grant Thornton UK LLP were appointed auditors on 8 September 2005 to fill a casual vacancy in accordance with section 388(1) of the
+Companies Act 1985. Special notice pursuant to section 388(3) having been given, a resolution to reappoint Grant Thornton UK LLP as auditors
+will be proposed at the Annual General Meeting to be held on 24 May 2006.
+By order of the Board,
+B. O. Morgan
+Company Secretary
+20 March 2006
+Registered Office: 66 Milton Park, Abingdon, Oxfordshire OX14 4RX
+Registered Number: 03870674
+page 14  Celoxica Holdings plc Annual Report and Accounts 2005
+Directors’ report  COMBINED CODE COMPLIANCE
+Celoxica Holdings plc floated on AIM on 27 October 2005. While the AIM rules do not require the Group to comply with the Combined Code on
+Corporate Governance (“the Code”), the Group agrees with the principles of the Code and adopts wherever size and resources permit.
+THE BOARD
+The Board structure is designed to include the appropriate range of skills and experience required to continue Celoxica’s growth and success in line
+with expectations. The current composition is that of two executive Directors and three non-executive Directors, one of whom is the Chairman. The
+non-executive Directors are independent of management and free from any business which could materially interfere with the exercise of their
+independent judgement. Biographies can be found on page 12 of this report.
+The Board meets monthly and receives a Board pack containing trading and financial information (both current and forecast) along with any such
+information necessary for the Board to meet its duties. In addition to the Board meetings, there are a number of informal meetings between the
+non-executive Directors and the executive Directors.
+The Board are responsible for reviewing and approving the Group’s strategic direction, financial budgets, risk management and acquisition/disposals.
+In addition, the Board is also required to approve financial transactions from ordinary trading that are above the authorisation limits of the executive
+Directors alone.
+BOARD COMMITTEES
+The Directors have established an audit committee, a remuneration committee and a nominations committee with formally delegated rules and
+responsibilities. Each of the committees currently comprises the non-executive Directors. The Audit Committee meets at least twice each year and
+the Remuneration and Nominations meet at least once.
+AUDIT COMMITTEE
+The audit committee meets at least twice each year and is responsible for ensuring that the financial performance of the Company is properly reported
+on and monitored and for meeting the Auditors and reviewing the reports from the Auditors relating to accounts and internal control systems. It meets
+once a year with the Auditors without executive Board members present. The audit committee is comprised of the non-executive Directors of the
+Company and is currently chaired by Ian Yeoman.
+REMUNERATION COMMITTEE
+The remuneration committee reviews the performance of the executive Directors and sets and reviews the scale and structure of their remuneration and
+the basis of their remuneration and the terms of their service agreements with due regard to the interests of shareholders.
+In determining the remuneration of executive Directors, the remuneration committee seeks to enable the Group to attract and retain executives of the
+highest calibre. The remuneration committee also makes recommendations to the Board concerning the allocation of share options to employees.
+No Director is permitted to participate in discussions or decisions concerning his own remuneration. The remuneration committee is comprised of the
+non-executive Directors and is currently chaired by David Cheesman.
+NOMINATIONS COMMITTEE
+The nominations committee meets as required for the purpose of considering new or replacement appointments to the Board. The nominations
+committee is comprised of the non-executive Directors of the Company and is currently chaired by Jack Fryer.
+SHAREHOLDER COMMUNICATIONS
+The Board meets with the Group’s institutional investors on a regular basis and communicates with its private investors wherever possible. It also
+encourages attendance at the AGM where a ‘Question & Answer’ session is available.
+The Group’s website www.celoxica.com contains an Investor Relations section which includes all available information.
+Celoxica Holdings plc Annual Report and Accounts 2005  page 15
+Corporate governance report INTERNAL CONTROL AND RISK MANAGEMENT
+The Board is responsible for the Group’s internal control procedures and their effectiveness. Procedures in place are consisten t with the Group’s
+stage of development and are consistently monitored to ensure they develop as necessary and eliminate, reduce or control risk wherever possible
+There is no internal audit function within the Group currently. This is due to the size of the Group, combined with the high level of Director
+authorisations of transactions.
+Financial Budgets are compiled once a year and reviewed monthly by the Board, with any necessary action taken as appropriate.
+SOCIAL, ETHICAL AND ENVIRONMENTAL POLICIES
+As well as responsibilities to shareholders, the Group also endeavours to take into account the interests of all its stakeholders. This includes
+employees, customers, suppliers, local communities and the environments in which it operates.
+The Group strives for equal opportunities for all employees and has a policy of non-discrimination.
+The Group has no manufacturing operations and its premises therefore consist entirely of offices without the risk of hazardous waste or emissions. It
+continually monitors it’s impact on the environment and has a policy of recycling wherever possible – including paper, toner ca rtridges, aluminium
+cans, mobile phones and batteries.
+HEALTH & SAFETY
+The safety of all employees and visitors to all Celoxica premises is a priority to the Group. Each office is reviewed for potential risks regularly and
+necessary action taken.
+The UK office is covered by a Health & Safety committee, compromising a Chairman, the Health & Safety manager, an employee representative and
+the Chief Fire Warden. Overseas offices have similar arrangements depending on local practices, customs and requirements.
+GOING CONCERN
+The Board regularly review the Group’s resources to ensure they are sufficient to continue trading for the foreseeable future. It is therefore considered
+appropriate to use the going concern basis to compile these financial statements.
+STATEMENT OF DIRECTORS’ RESPONSIBILITIES
+The Directors are responsible for preparing the Annual Report and the financial statements in accordance with applicable law and United Kingdom
+Accounting Standards (United Kingdom Generally Accepted Accounting Practice).
+United Kingdom Company law requires the Directors to prepare financial statements for each financial year that give a true and fair view of the state
+of affairs of the Company and the Group and of the profit or loss of the Group for that period. In preparing these financial statements, the Directors
+are required to:
+• Select suitable accounting policies and apply them consistently;
+• Make judgements and estimates that are reasonable and prudent;
+• State whether applicable accounting standards have been followed, subject to any material departures disclosed and explained 
+in the financial statements; and
+• Prepare the financial statements on the going concern basis unless it is inappropriate to presume that the Group and Company 
+will continue in business.
+The Directors are responsible for keeping proper accounting records that disclose with reasonable accuracy at any time the financial position of the
+Company and the Group and enable them to ensure that the financial statements comply with the Companies Act 1985. They are also responsible for
+safeguarding the assets of the Group and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+The Directors’ are responsible for the maintenance and integrity of the corporate and financial information included on the company’s website. Legislation
+in the United Kingdom governing the preparation and dissemination of financial statements may differ from legislation in other jurisdictions.
+page 16  Celoxica Holdings plc Annual Report and Accounts 2005
+Corporate governance report As a member of AIM, the Company does not have to comply with the Directors’ Remuneration Report Regulations 2002. However, the Group agrees
+with the principles of the report and adopts where size and resources allow.
+ROLE OF THE REMUNERATION COMMITTEE
+The Remuneration Committee is responsible for:
+• Determining the Executive Remuneration policy;
+• Ensuring remuneration is at a level to attract and retain appropriate Directors and management, and
+• Ensuring remuneration of Directors and management is consistent with other employees.
+The committee meets at least once a year and currently comprises Jack Fryer, David Cheesman and Ian Yeoman. It covers all elements of remuneration,
+including salary, pension, bonus, share options and duration/notice periods. The committee has access to external professional advisers if required.
+No Director will be permitted to participate in discussions or decisions concerning his own remuneration.
+SALARY
+Salary reviews are annual unless due to a promotion. All annual reviews are effective 1 April each year and take into account both Group and
+personal performance.
+BONUS
+Performance related bonus is based on achievement of financial and other operating targets of the Group as set by the remuneration committee.
+SHARE OPTIONS
+Share Options form an integral part of remuneration packages within Celoxica. Every employee has options within one of the schemes, with the quantity
+being dependent on role and performance. Schemes available are:
+• Approved Discretionary Share Option Scheme 2000 (UK);
+• Unapproved Discretionary Share Option Scheme 2000 (UK);
+• Unapproved Non-Employee Discretionary Share Option Scheme 2000 (UK);
+• 2000 Stock Option Plan (US), and
+• Unapproved (EMI) Share Option Scheme 2002 (UK).
+All options are issued in sterling at the average market price for the three days prior to grant. In line with the industry sector, none of the options have
+any performance criteria attached. Vesting periods range from 1 year to 3 years.
+PENSION
+The Group does not operate its own pension scheme and instead contributes to a Group Personal Pension Plan for all UK employees. The contribution
+rate is 5% per annum for executive Directors.
+OTHER BENEFITS
+Other benefits available are a car or car allowance, private fuel, life assurance, private medical insurance and permanent health insurance.
+SERVICE AGREEMENTS FOR EXECUTIVE DIRECTORS
+Executive Directors contracts are ongoing with a 6 month notice period by either party. Each contract contains a non-competition, non-solicitation
+clause for a period of 6 months after termination. In addition, each service agreement also contains a confidentiality obligation. The two executive
+Directors, Philip Bishop and Bernard Morgan, have service contracts dated 23 September 2005 and 7 September 2001 respectively.
+Celoxica Holdings plc Annual Report and Accounts 2005  page 17
+Directors’ remuneration report NON-EXECUTIVE DIRECTORS
+Fees are set with reference to other companies of similar size and development, and with regard to the number of days expected to be worked per
+annum. Each of the non-executive Directors has a 2 year appointment with terms and conditions of appointment rather than a formal service
+agreement. At the end of the two year period, the Directorship may be extended if mutually agreed. 
+Non-executive Directors are not eligible to participate in bonus arrangements and their service does not qualify for pensions or other benefits.
+DIRECTORS SHAREHOLDINGS
+The Directors in office at 31December 2005 held the following interests in the Company’s shares:
+Ordinary shares Ordinary shares
+of 25p each of £1 each
+31 December 31 December 
+2005 2004
+P. E. Bishop 29,200 2,000
+J. R. Fryer 1,664 416
+B. O. Morgan 6,200 1,550
+Jack Fryer’s shares were purchased prior to flotation. Keith Hopkins, David Cheesman and Ian Yeoman had no interests in the Company’s shares
+(2004: none).
+INTERESTS IN SHARE OPTIONS
+The Directors in office at 31 December 2005 held the following interest in options to purchase 25p Ordinary shares of the Company:
+Number of Number of
+£1 options at Adjustment 25p options
+31 December re subdivision of 31 December Earliest date
+2004 GrantedLapsedExercisedshare capital 2005 Exercise price of exercise Expiry date
+P. E. Bishop 2,000 - (2,000) - - - 300p 09.09.2003 08.09.2012
+13,333 - (13,333) - - - 300p 09.09.2003 08.09.2012
+6,666 - (6,666) - - - 300p 09.09.2003 08.09.2012
+500 - (500) - - - 300p 04.07.2004 03.07.2013
+500 - (500) - - - 300p 21.10.2004 20.10.2013
+162,734 - - - 488,202 650,936 25p 01.06.2005 31.05.2014
+- 22,999 - - 68,997 91,996 25p 24.02.2006 23.02.2015
+- 1,267 - - 3,801 5,068 25p 28.02.2006 27.02.2015
+J. R. Fryer 416 - (416) - - - 300p 09.09.2003 08.09.2012
+416 - (416) - - - 300p 09.09.2003 08.09.2012
+10,954 - - - 32,862 43,816 25p 01.06.2005 31.05.2014
+- 832 - - 2,496 3,328 25p 24.02.2006 23.02.2015
+- 1,214 - - 3,642 4,856 25p 28.02.2006 27.02.2015
+B. O. Morgan 2,561 - (2,561 1) - - - 300p 09.09.2003 08.09.2012
+3,650 - (3,650) - - - 300p 09.09.2003 08.09.2012
+80,367 - - - 241,101 321,468 25p 01.06.2005 31.05.2014
+17,217 - - - 51,651 68,868 25p 01.06.2005 31.05.2014
+- 6,21 1 - - 18,633 24,844 25p 24.02.2006 23.02.2015
+- 2,205 - - 6,615 8,820 25p 28.02.2006 27.02.2015
+page 18  Celoxica Holdings plc Annual Report and Accounts 2005
+Directors’ remuneration report INTERESTS IN SHARE OPTIONS (CONTINUED)
+Jack Fryer’s options were granted prior to flotation. No options have been granted to non-executive Directors since flotation. Keith Hopkins, 
+David Cheesman and Ian Yeoman had no interests in the Company’s shares or options (2004: none).
+DIRECTORS EMOLUMENTS
+Total Total
+Salary Fees Benefits Bonus Pension 2005 2004
+££££££ £
+P. E. Bishop 158,938 - 54,223 1 14,540 1,406 329,107 244,622
+D. Cheesman - 22,950 - - - 22,950 21,1 27
+J. R. Fryer - 22,500 - - - 22,500 20,000
+R. K. Hopkins - 14,583 - - - 14,583 -
+B. O. Morgan 1 1 1,667 - 15,133 42,000 5,583 174,383 135,655
+J. J. A. Nielsen - 16,511 - - - 16,511 20,000
+I. C. Yeoman - 2,683 - - - 2,683 -
+270,605 79,227 69,356 156,540 6,989 582,717 441,404
+D. Cheesman
+Chairman of the Remuneration Committee
+20 March 2006
+Celoxica Holdings plc Annual Report and Accounts 2005  page 19
+Directors’ remuneration report TO THE MEMBERS OF CELOXICA HOLDINGS PLC
+We have audited the group and parent company financial statements (the “financial statements”) of Celoxica Holdings plc for the year ended 
+31 December 2005 which comprises the consolidated profit and loss account, statement of group total recognised gains and losses, consolidated
+balance sheet, company balance sheet, consolidated cash flow statement and notes 1 to 27. These financial statements have been prepared under
+the accounting policies set out therein.
+This report is made solely to the Company’s members, as a body, in accordance with Section 235 of the Companies Act 1985. Our audit work has
+been undertaken so that we might state to the Company’s members those matters we are required to state to them in an auditors’ report and for no
+other purpose. To the fullest extent permitted by law, we do not accept or assume responsibility to anyone other than the company and the company’s
+members as a body, for our audit work, for this report, or for the opinions we have formed. 
+RESPECTIVE RESPONSIBILITIES OF DIRECTORS AND AUDITORS
+The Directors’ responsibilities for preparing the Annual Report and the financial statements in accordance with United Kingdom law and Accounting
+Standards (United Kingdom Generally Accepted Accounting Practice) are set out in the Statement of Directors’ Responsibilities.
+Our responsibility is to audit the financial statements in accordance with relevant legal and regulatory requirements and International Standards on
+Auditing (UK and Ireland).
+We report to you our opinion as to whether the financial statements give a true and fair view and have been properly prepared in accordance with the
+Companies Act 1985. We also report to you if, in our opinion, the Directors’ Report is not consistent with the financial statements, if the company has
+not kept proper accounting records, if we have not received all the information and explanations we require for our audit, or if information specified by
+law regarding Directors’ remuneration and other transactions is not disclosed.
+We read other information contained in the Annual Report and consider whether it is consistent with the audited financial statements. The other
+information comprises only the Chairman’s review, the Chief Executive’s review, the Finance Director’s review, Corporate governance report, Directors’
+remuneration report and the Directors’ report. We consider the implications for our report if we become aware of any apparent misstatements or
+material inconsistencies with the financial statements. Our responsibilities do not extend to any other information.
+BASIS OF AUDIT OPINION
+We conducted our audit in accordance with International Standards on Auditing (UK and Ireland) issued by the Auditing Practices Board. An audit
+includes examination, on a test basis, of evidence relevant to the amounts and disclosures in the financial statements. It also includes an assessment
+of the significant estimates and judgements made by the Directors in the preparation of the financial statements, and of whether the accounting
+policies are appropriate to the group’s and company's circumstances, consistently applied and adequately disclosed.
+We planned and performed our audit so as to obtain all the information and explanations which we considered necessary in order to provide us with
+sufficient evidence to give reasonable assurance that the financial statements are free from material misstatement, whether caused by fraud or other
+irregularity or error. In forming our opinion we also evaluated the overall adequacy of the presentation of information in the financial statements. 
+OPINION
+In our opinion the financial statements:
+• give a true and fair view in accordance with United Kingdom Generally Accepted Accounting Practice, of the state of the group’s
+and the parent company’s affairs as at 31 December 2005 and of the group’s loss for the year then ended; and
+• have been properly prepared in accordance with the Companies Act 1985.
+Grant Thornton UK LLP
+Registered Auditors and Chartered Accountants
+Oxford, England
+20 March 2006
+The maintenance and integrity of Celoxica‘s website is the responsibility of the Directors: the work carried out by the auditors does not involve
+consideration of these matters and, accordingly, the auditors accept no responsibility for any changes that may have occured to the financial statements
+since they were initially presented on the website.
+Legislation in the United Kingdom governing the preparation and dissemination of the financial statements may differ from legislation in other jurisdictions.
+page 20  Celoxica Holdings plc Annual Report and Accounts 2005
+Report of the independent auditor 2005 2004
+Note £ £
+Turnover 2 4,267,317 3,436,778
+Cost of sales (1,542,887) (1,199,904)
+Gross profit 2,724,430 2,236,874
+Administrative expenses (5,698,434) (5,692,627)
+Operating loss 5 (2,974,004) (3,455,753)
+Net interest 6 (1 18,176) 38,647
+Non-equity finance costs 7 524,085 -
+Loss on ordinary activities before taxation (2,568,095) (3,417,106)
+Tax on loss on ordinary activities 8 271,798 385,413
+Loss on ordinary activities after taxation (2,296,297) (3,031,693)
+Non-equity dividends and appropriations 9 - (2,082,1 16)
+Loss for the financial year 21 (2,296,297) (5,1 13,809)
+Basic and fully diluted loss per share (pence) 10 20 308
+The results above are all in respect of continuing operations.
+The accompanying accounting policies and notes form an integral part of these financial statements.
+2005 2004
+£ £
+Loss for the financial year (2,296,297) (5,1 13,809)
+Currency translation differences on foreign currency net investments 5,987 (2,938)
+Total recognised gains and losses (2,290,310) (5,1 16,747)
+Celoxica Holdings plc Annual Report and Accounts 2005  page 21
+Consolidated profit and loss account
+For the year ended 31December 2005
+Statement of Group total recognised gains and losses
+For the year ended 31December 2005 2005 2004
+Note £ £
+Fixed assets
+Tangible assets 11 160,484 171,446
+Current assets
+Stock 13 154,227 216,884
+Debtors 14 1,779,941 1,319,574
+Investments – short term deposits - 1,800,000
+Cash at bank and in hand 4,517,369 802,952
+6,451,537 4,139,410
+Creditors: amounts falling due within one year 15 (2,096,262) (1,667,470)
+Net current assets 4,355,275 2,471,940
+Total assets less current liabilities 4,515,759 2,643,386
+Creditors: amounts falling due after more than one year 16 (525,387) (1,027,978)
+Net assets 3,990,372 1,615,408
+Capital and reserves
+Called up share capital 19 12,885,130 3,965,209
+Share premium account 22 1,349,339 19,813,777
+Merger capital reserve 22 23,729,845 23,729,845
+Profit and loss account (deficit) 22 (33,973,942) (45,893,423)
+Total shareholders’ funds 21 3,990,372 1,615,408
+Analysis of shareholder’s funds/(deficit)
+Attributable to equity shareholders 3,990,372 (30,019,635)
+Attributable to non-equity shareholders - 31,635,043
+3,990,372 1,615,408
+The accompanying accounting policies and notes form an integral part of these financial statements.
+The financial statements on pages 13 to 38 were approved by the Board of Directors on 20 March 2006 and were signed on its behalf by:
+P. E. Bishop
+Chief Executive Officer
+B. O. Morgan
+Chief Financial Officer
+page 22  Celoxica Holdings plc Annual Report and Accounts 2005
+Consolidated balance sheet
+As at 31 December 2005 2005 2004
+Note £ £
+Fixed assets
+Investments 12 120,230 120,230
+Current assets
+Debtors 14 12,489,194 1 1,458,756
+Cash at bank and in hand 4,158,921 -
+16,648,1 15 1 1,458,756
+Total assets less current liabilities 16,768,345 1 1,578,986
+Capital and reserves
+Called up share capital 19 12,885,130 3,965,209
+Share premium account 22 1,349,339 19,813,777
+Profit and loss account 22 2,533,876 (12,200,000)
+Total shareholders’ funds 16,768,345 1 1,578,986
+Analysis of shareholder’s funds/(deficit)
+Attributable to equity shareholders 16,768,345 (14,872,299)
+Attributable to non-equity shareholders - 26,451,285
+16,768,345 1 1,578,986
+The accompanying accounting policies and notes form an integral part of these financial statements.
+The financial statements on pages 13 to 38 were approved by the Board of Directors on 20 March 2006 and were signed on its behalf by:
+P. E. Bishop
+Chief Executive Officer
+B. O. Morgan
+Chief Financial Officer
+Celoxica Holdings plc Annual Report and Accounts 2005  page 23
+Company balance sheet
+As at 31 December 2005 2005 2004
+Note £ £
+Net cash outflow from operating activities 25 (2,943,913) (3,875,1 12)
+Returns on investments and servicing of finance
+Interest (paid)/received (151,864) 38,647
+Taxation
+Corporation tax received 334,886 366,276
+Capital expenditure
+Receipts from disposal of tangible fixed assets 1,562 8,356
+Payments to acquire tangible fixed assets (77,462) (99,756)
+Net cash outflow from capital expenditure (75,900) (91,400)
+Cash outflow before use of liquid resources and financing (2,836,791) (3,561,589)
+Management of liquid resources
+Decrease/(increase) in short term deposits 1,800,000 (761,290)
+Financing
+Issue of share capital (net of expenses paid) 5,189,359 3,443,037
+(Decrease)/increase in borrowings (438,151) 1,466,129
+Net cash inflow from financing 4,751,208 4,909,166
+Increase in net cash 3,714,417 586,287
+Reconciliation to net cash
+Increase/(decrease) in net cash 3,714,417 586,287
+Cash (outflow)/inflow from change in short term deposits (1,800,000) 761,290
+Decrease/(increase) in borrowings 438,151 (1,466,129)
+Change in net funds resulting from cash flows 2,352,568 (1 18,552)
+Net funds brought forward 1,136,823 1,255,375
+Net funds carried forward 26 3,489,391 1,136,823
+The accompanying accounting policies and notes form an integral part of these financial statements.
+page 24  Celoxica Holdings plc Annual Report and Accounts 2005
+Consolidated cash flow statement
+For the year ended 31 December 2005 Celoxica Holdings plc Annual Report and Accounts 2005  page 25
+Notes to accounts
+31 December 2005
+1 ACCOUNTING POLICIES
+These financial statements have been prepared on the going concern basis, under the historical cost convention and in accordance with the Companies
+Act 1985 and applicable accounting standards.
+The principal accounting policies are set out below. The policies have remained unchanged from the previous year except for adjustments as a result
+of FRS25.
+The Group has taken advantage of the exemption in FRS25 and has not restated comparative information to comply with FRS25. Accordingly the
+Group has applied FRS4 in the comparative information to financial instruments within the scope of FRS25.
+In the prior year the Group applied the provisions of FRS4 “Capital Instruments” which requires the amount of shareholders’ funds attributable to
+equity and non-equity interests to be separately disclosed. Dividends for the year on the company’s convertible cumulative redeemable preference
+shares have been appropriated through the profit and loss account. However, as the Company did not have sufficient distributable reserves in
+order to pay such preference dividends, these dividends were credited back within the profit and loss account reserves.
+In order to restate the comparative information to comply with FRS25 the A, B, and C Ordinary shares would be recognised as debt and disclosed
+within long term liabilities and the dividends thereon would be disclosed as a finance charge.
+Any adjustment between the Balance Sheet as at 31 December 2004 and the Balance Sheet at 1 January 2005 has been treated as a change in
+accounting policy.
+As an AIM-listed Company, the Group must adopt IFRS for accounting periods commencing on or after 1 January 2007. The Group is considering
+the impact of IFRS in the meantime and reporting where appropriate.
+BASIS OF CONSOLIDATION
+The consolidated financial statements incorporate the financial statements of the Company and all its subsidiaries. All accounts are made up to
+31 December. Intra-Group sales and profits are eliminated fully on consolidation.
+MERGER ACCOUNTING AND MERGER RELIEF
+On the acquisition of a business accounted for using merger accounting the net assets of the combining entities are combined using existing book
+values and no amount is recognised as consideration for goodwill or negative goodwill.
+Where equity shares are issued in consideration for the acquisition of at least 90% of the issued equity shares of another Company merger relief
+is provided under Section 131 of the Companies Act 1985 and the shares issued are recorded at nominal value in the Company balance sheet.
+This relief extends to the issue of non-equity shares in consideration for the acquisition of non-equity shares on the same terms.
+OTHER ACQUISITIONS
+On the acquisition of a business accounted for using the acquisition method of accounting, fair values are attributed to the Group’s share of net
+separable assets. Where the cost of acquisition exceeds the fair values attributable to such net assets, the difference is treated as purchased
+goodwill and is capitalised in the Balance sheet in the year of acquisition.
+The results and cash flows relating to a business are included in the consolidated profit and loss account and the consolidated cash flow statement
+from the date of acquisition or up to the date of disposal.
+GOODWILL
+For the acquisition of a business accounted for using the acquisition method of accounting, purchased goodwill is capitalised in the year in which
+it arises and amortised over its estimated useful life commencing on the later of the acquisition date or the date that the acquired business
+generates revenue for the Group.
+Where the commencement of amortisation is deferred, the Directors perform a formal impairment review at the end of each financial year to
+determine whether any provision is required. Capitalised purchased goodwill in respect of subsidiaries is included within intangible fixed assets. page 26  Celoxica Holdings plc Annual Report and Accounts 2005
+Notes to accounts
+1 ACCOUNTING POLICIES (CONTINUED)
+TANGIBLE FIXED ASSETS
+The cost of tangible fixed assets is their purchase cost together with any incidental costs of acquisition. 
+Depreciation is calculated so as to write off the cost of tangible assets, less their estimated residual values, over the expected useful economic
+lives of the assets concerned. Depreciation is provided on a straight line basis over the following years:
+Short term leasehold improvements 5 years
+Plant and other equipment 3 years
+Fixtures and fittings 3 years
+INVESTMENTS
+Investments held as fixed assets are stated at cost less provision for any impairment in value. Where merger relief has been taken advantage of,
+the cost represents the nominal value of the shares issued in exchange for the interest in the subsidiary.
+STOCK
+Stock is stated at the lower of cost and net realisable value. Net realisable value is based on estimated selling price less all further costs to completion
+and all relevant marketing, selling and distribution costs.
+DEFERRED TAXATION
+Deferred taxation is provided on a full provision basis on timing differences, arising from the different treatment of items for accounts and taxation
+purposes, which are expected to reverse in the future, calculated at rates at which it is estimated that tax will arise. The deferred taxation balance has
+been measured at the rate expected to apply when timing differences reverse. Deferred tax assets are recognised to the extent that it is regarded as
+more likely than not that they will be recovered.
+PENSION COSTS
+Pension contributions in respect of defined contribution pension schemes in the UK, 401k plan in the US and the employees’ pension insurance in
+Japan are charged to the profit and loss account as incurred.
+OPERATING LEASES
+Rentals in respect of operating leases are charged to profit and loss in equal amounts over the lease term.
+REVENUE RECOGNITION
+Turnover (excluding VAT) comprises the value of sales of licenses, revenue from support, maintenance, training and consulting contracts and the
+sale of hardware boards.
+License fees are recognised upon shipment of the software, based on customer purchase orders, provided that all significant obligations in respect
+of the software license are fulfilled. Where agreements involve multiple elements, the entire fee from such arrangements has been allocated to
+each of the individual elements based on each element’s fair value. Vendor-specific objective evidence of fair value is determined by reference to
+list price of sales to other customers where elements are sold separately.
+Where management has doubt as to the recoverability of fees under the arrangement, income is deferred until payment becomes due or cash is received.
+In addition to the license fees, contracts generally contain an agreement to provide post contract support (support, maintenance and training)
+which consists of an identified customer contact at the Group and telephonic or e-mail support. Fees for post contract support are specified in the
+purchase order. The fees are determined based on the Group’s price list as if sold separately. The price list is established and regularly reviewed by
+management. Revenue for post contract support is recognised on a straight-line basis over the year for which services are contractually agreed by
+the Group with the licensee. The excess of licence fees invoiced over revenue recognised in respect of such fees is recorded as deferred income.  Celoxica Holdings plc Annual Report and Accounts 2005  page 27 
+Notes to accounts
+1 ACCOUNTING POLICIES (CONTINUED)
+Revenue from consulting is recognised when the service has been provided and all obligations to the customer under the consulting agreement
+have been fulfilled. For larger consulting projects containing several project milestones, revenue is recognised as each milestone is achieved or on
+a percentage-to-completion basis unless management has doubt to the recoverability of fees. Consulting costs are recognised when incurred.
+Revenue from hardware development boards is recognised when obligations under the relevant purchase agreement have been met and delivery
+has taken place.
+RESEARCH AND DEVELOPMENT
+Research and development expenditure is written off to the profit and loss account when incurred.
+FOREIGN CURRENCIES
+Transactions arising during the year which are denominated in foreign currencies are translated at the  rate of exchange ruling at the date of the
+transaction. Monetary assets and liabilities denominated in foreign currencies are retranslated at the rate of exchange ruling at the balance sheet
+date. All exchange differences are taken to the profit and loss account in the year in which they arise.
+Assets and liabilities in the accounts of the overseas subsidiaries are translated at the rate of exchange ruling at the Balance Sheet date and the
+results of the subsidiaries are translated at the same rate. The exchange difference arising on the translation of the overseas subsidiaries is taken
+directly to reserves. All other foreign exchange differences are taken to the profit and loss account as they arise.
+FINANCIAL LIABILITIES
+Financial liabilities are obligations to pay cash or other financial instruments and are recognised when the Group becomes a party to the
+contractual provisions of the instrument. All interest-related charges are recognised as an expense in “finance cost” in the income statement. Bank
+loans are raised for support of long term funding of the Group’s operations. They are recognised at proceeds received, net of direct issue costs.
+Finance charges, including premiums payable on settlement or redemption, and direct issue costs are charged to the income statement on an
+accruals basis using the effective interest method and are added to the carrying amount of the instrument to the extent that they are not settled
+in the period in which they arise.
+Dividend distributions payable to equity shareholders are included in “other short term financial liabilities” when the dividends are approved in
+general meeting prior to the Balance Sheet date.
+RELATED PARTY TRANSACTIONS
+FRS 8 “Related Party Disclosures” requires the disclosure of the details of material transactions between the reporting entity and any related
+parties. The Group has adopted the provisions of FRS 8. However transactions between the Company and its subsidiaries have not been disclosed
+in accordance with the exemption in FRS 8 paragraph 3(a).
+FINANCIAL INSTRUMENTS
+Financial assets are recognised in the Balance Sheet at the lower of cost and net realisable value. Provision is made for diminution in value 
+where appropriate.
+Income and expenditure arising on financial instruments is recognised on the accruals basis, and credited or charged to the profit and loss account
+in the financial period to which it relates. 2 SEGMENTAL REPORTING
+The Directors consider there to be one class of business, being the supply of design automation tools, development boards and consulting services.
+A split of turnover, net assets and loss before taxation by geographical segment is set out below:
+2005 2004 
+£ £
+Turnover by origin of sales:
+Europe, Middle East and Africa 1,261,435 891,121
+Asia Pacific 1,494,725 1,659,551
+The Americas 1,51 1,157 886,106
+4,267,317 3,436,778
+Profit/(loss) before taxation:
+Europe, Middle East and Africa (2,567,833) (3,420,489)
+Asia Pacific (37) 3,218
+The Americas (225) 165
+(2,568,095) (3,417,106)
+Net assets:
+Europe, Middle East and Africa 3,362,801 659,747
+Asia Pacific 319,015 497,009
+The Americas 308,556 458,652
+3,990,372 1,615,408
+3 DIRECTORS’ EMOLUMENTS
+2005 2004 
+£ £
+All Directors
+Aggregate emoluments 536,267 519,150
+Pension contributions to defined contribution pension scheme 6,989 10,189
+Highest paid Director
+Aggregate emoluments 327,701 244,622
+Pension contributions to defined contribution pension scheme 1,406 -
+In addition to the emoluments above, the following fees were paid to third party organisations in respect of the services of Directors:
+2005
+Director Organisation £
+D. Cheesman Advent Venture Partners 22,950
+J. J. A. Nielsen Cazenove Fund Management 16,51 1
+Retirement benefits are accruing to 2 Directors (2004: 2 Directors) under a defined contribution pension scheme.
+page 28  Celoxica Holdings plc Annual Report and Accounts 2005
+Notes to accounts 4 EMPLOYEE INFORMATION
+The average monthly number of persons (including executive Directors) employed by the Group during the year was:
+2005 2004 
+Number Number
+Engineering 29 26
+Selling and distribution 20 23
+Administration 8 8
+57 57
+Employee costs during the year amounted to:
+2005 2004 
+£ £
+Wages and salaries 3,517,656 3,398,849
+Social security costs 423,465 390,287
+Pension costs 80,010 77,391
+4,021,131 3,866,527
+5 OPERATING LOSS
+Operating loss is after charging/(crediting):
+2005 2004 
+£ £
+Depreciation of tangible fixed assets
+Owned assets 88,747 120,730
+Loss on disposal of fixed assets 2,844 14,019
+Rentals under operating leases 208,307 218,754
+Research and development 1,275,617 1,498,087
+Auditors’ remuneration
+Audit fees – Group 20,000 19,200
+Audit fees – Company 12,000 5,000
+Other services 14,200 43,180
+Research and development is expenditure incurred by the Group in the development of its products including its range of software, hardware
+development boards and consulting services. 
+Auditor’s remuneration for other services is in relation to the, tax compliance and advisory work. The Company’s audit fees are borne by another
+Group company. Services in relation to the Initial Public Offering, amounting to £135,000 have been allocated to the Share Premium Account.
+6 NET INTEREST
+Operating loss is after charging/(crediting):
+2005 2004 
+£ £
+On bank loans and overdrafts 179,501 9,226
+Other interest payable 4,709 -
+184,210 9,226
+Other interest receivable (66,034) (47,873)
+11 8, 1 7 6 (38,647)
+Celoxica Holdings plc Annual Report and Accounts 2005  page 29
+Notes to accounts 7 NON-EQUITY FINANCE COSTS
+2005 2004 
+£ £
+8% cumulative dividends on ‘A’ Ordinary shares and ‘B’ Ordinary shares 1,546,315 -
+Interest payable on dividends 469,554 -
+Discount on prior years dividends (2,539,954) -
+Total Non-Equity dividends and appropriations (524,085) -
+Until 10 October 2005, the Company had four classes of share, A Ordinary, B Ordinary, C Ordinary and Ordinary shares. Both ‘A’ and ‘B’ Ordinary
+shareholders were entitled to a cumulative dividend of 8% per annum. Such dividends had never been paid due to a lack of distributable reserves.
+Any unpaid dividends were also entitled to receive interest at 10% per annum.
+A resolution was passed at an Extraordinary General Meeting on 10 October 2005 to accept a discount of one third on all outstanding dividends
+and interest thereon. Settlement would be by the issue of 25p Ordinary shares. All A, B and C Ordinary shares were then converted to 25p Ordinary
+shares on a 1 for 1 basis. As a result, cumulative dividends of £4,350,439 (with accrued interest of £729,462) were settled by the issue of
+16,255,682 Ordinary shares of 25p each.
+8 TAX ON LOSS ON ORDINARY ACTIVITIES
+2005 2004 
+£ £
+Current tax:
+Research and Development Tax Credit (300,000) (359,541)
+Adjustment in respect of prior year Research and development tax credit - (4)
+Overseas tax charge/(credit) 28,202 (25,868)
+Tax credit on loss on ordinary activities (271,798) (385,413)
+The tax credit is lower (2004: lower) than that based upon the standard rate of corporation tax. The differences are explained below:
+2005 2004 
+£ £
+Loss on ordinary activities before tax (2,568,095) (3,417,106)
+Loss multiplied by the standard rate of tax in the UK – 30% (2004: 30%) (770,429) (1,025,132)
+Income & expenses not deductible for tax purposes (268,964) (221,251)
+Deferred tax asset not recognised 656,869 572,245
+Overseas tax charge/(credit) 28,202 (25,868)
+Research and Development Tax Credit adjustment 82,524 314,593
+(271,798) (385,413)
+Factors that may affect future tax charges:
+The Group has tax losses of £37,582,204 (2004: £35,535,000). The deferred tax asset relating to these losses has not been recognised (see note 18).
+page 30  Celoxica Holdings plc Annual Report and Accounts 2005
+Notes to accounts 9 NON-EQUITY DIVIDENDS AND APPROPRIATIONS
+2005 2004 
+£ £
+8% cumulative dividends on ‘A’ Ordinary shares and ‘B’ Ordinary shares - 1,813,795
+Interest payable on dividends - 393,576
+Adjustment for interest in 2003 - (125,255)
+Total Non-Equity dividends and appropriations - 2,082,1 16
+Until 10 October 2005, the Company had four classes of share, A Ordinary, B Ordinary, C Ordinary and Ordinary shares. Both ‘A’ and ‘B’ Ordinary
+shareholders were entitled to a cumulative dividend of 8% per annum. Such dividends had never been paid due to a lack of distributable reserves.
+Any unpaid dividends were also entitled to receive interest at 10% per annum.
+A resolution was passed at an Extraordinary General Meeting on 10 October 2005 to accept a discount of one third on all outstanding dividends
+and interest thereon. Settlement would be by the issue of 25p Ordinary shares. All A, B and C Ordinary shares were then converted to 25p Ordinary
+shares on a 1 for 1 basis. As a result, cumulative dividends of £4,350,439 (with accrued interest of £729,462) were settled by the issue of
+16,255,682 Ordinary shares of 25p each.
+10 LOSS PER SHARE
+The calculation of basic loss per share is based on the loss attributable to Ordinary shareholders of £2,296,297 (2004: £5,1 13,809) divided by the
+weighted average number of Ordinary shares in issue during the year which was 1 1,540,383 (2004: 1,662,066).
+The issue of additional shares on the exercise of options would decrease the basic loss per share and there is, therefore, no dilutive effect of
+share options.
+11 TANGIBLE FIXED ASSETS
+Short-term Plant 
+leaseholdand other Fixtures
+improvements equipment and fittings Total
+GROUP £££ £
+Cost
+At 1 January 2005 24,424 1,185,934 36,700 1,247,058
+Foreign exchange translation differences (457) 8,546 1,739 9,828
+Additions 984 76,478 - 77,462
+Disposals - (337,652) - (337,652)
+At 31 December 2005 24,951 933,306 38,439 996,696
+Accumulated depreciation
+At 1 January 2005 5,347 1,056,565 13,700 1,075,612
+Foreign exchange translation differences (92) 4,258 933 5,099
+Charge for the year 2,143 78,461 8,143 88,747
+Disposals - (333,246) - (333,246)
+At 31 December 2005 7,398 806,038 22,776 836,212
+Net book amount
+At 31 December 2005 17,553 127,268 15,663 160,484
+At 31 December 2004 19,077 129,369 23,000 171,446
+The Company has no tangible fixed assets.
+Celoxica Holdings plc Annual Report and Accounts 2005  page 31
+Notes to accounts 12 INVESTMENTS HELD AS FIXED ASSETS
+Shares in
+subsidiary
+undertakings
+COMPANY £
+Cost and net book amount
+At 1 January 2005 and 31December 2005 120,230
+Interests in subsidiaries
+Country of Percentage Nature of
+Company name incorporation equity held Class of share business
+Celoxica Limited
+(1)
+United Kingdom 100% Ordinary shares of 1p
+(2)
+Convertible deferred
+shares of 1p
+Dash Technologies Ltd United Kingdom 100% Ordinary shares of £1 Dormant
+Agility Computing Ltd United Kingdom 100% Ordinary shares of £1 Dormant
+Celoxica, Inc. USA 100% Common stock of US$0.01 Re-seller
+Nihon Celoxica KK Japan 100% Ordinary stock of 50,000 yen Re-seller
+Embedded Solutions Ltd United Kingdom 100% Ordinary shares of £1 Dormant
+Thinterface Ltd United Kingdom 100% Ordinary shares of £1 Dormant
+Liquid Hardware Ltd United Kingdom 100% Ordinary shares of £1 Dormant
+Instantasic Ltd United Kingdom 100% Ordinary shares of £1 Dormant
+(1)
+Investment directly held by Celoxica Holdings plc – all other investments are held by Celoxica Limited.
+(2)
+Provision of hardware design automation tools, development boards, IP cores and design services.
+13 STOCK
+2005 2004 
+GROUP £ £
+Goods for resale 154,227 216,884
+14 DEBTORS
+2005 2004 
+GROUP £ £
+Amounts falling due within one year
+Trade debtors 994,860 696,400
+Corporation Tax Receivable 300,000 359,541
+Other debtors 126,340 67,003
+Prepayments and accrued income 358,741 196,630
+1,779,941 1,319,574
+COMPANY
+Amounts falling due within one year
+Amounts owed by Group companies 12,489,194 1 1,458,756
+Amounts owed by Group companies are unsecured and repayable on demand.
+page 32  Celoxica Holdings plc Annual Report and Accounts 2005
+Notes to accounts 15 CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+2005 2004 
+GROUP £ £
+Bank loans 502,591 438,151
+Trade creditors 770,487 456,377
+Other taxation and social security 93,146 126,498
+Other creditors 13,615 17,535
+Accruals 390,454 352,458
+Deferred income 325,969 276,451
+2,096,262 1,667,470
+The bank loan is secured with a debenture over the assets of the Group and bears a fixed interest rate of 13.8% per annum.
+16 CREDITORS: AMOUNTS FALLING DUE AFTER MORE THAN ONE YEAR
+2005 2004 
+GROUP £ £
+Bank loans 525,387 1,027,978
+The bank loan is secured with a debenture over the assets of the Group and bears a fixed interest rate of 13.8% per annum. It is repayable within
+two years.
+17 FINANCIAL INSTRUMENTS
+The Group uses financial instruments such as borrowings, cash, liquid resources, trade debtors and trade creditors that arise directly from its operations.
+The main risks arising from the above are interest rate risk, currency exchange risk and liquidity risk. All policies to control such risks are regularly
+reviewed and approved by the Board. 
+SHORT TERM DEBTORS AND CREDITORS
+Short term debtors and creditors have been excluded from the following disclosures, other than currency risk disclosures.
+INTEREST RATE RISK
+The Group finances its operations through a mixture of bank borrowings and share capital. At the year end, surplus funds are deposited in funds with
+instant access so can be moved to reduce the impact of interest rate fluctuations.
+The interest rate profile of the financial assets and liabilities of the Group is as follows:
+Fixed rate Floating rate Fixed rate Floating rate
+financial financial 2005 financial financial 2004
+liability assets Total liability assets Total 
+£££ £ £ £
+Sterling (1,027,978) 4,182,649 3,154,671 (1,466,129) 1,825,345 359,216
+Euro -6969 - 13,228 13,228
+US dollar - 198,632 198,632 - 379,433 379,433
+Japanese Yen - 136,019 136,019 - 384,946 384,946
+(1,027,978) 4,517,369 3,489,391 (1,466,129) 2,602,952 1,136,823
+LIQUIDITY RISK
+The use of instant access deposits ensures sufficient working capital is available at all time.
+Celoxica Holdings plc Annual Report and Accounts 2005  page 33
+Notes to accounts 17 FINANCIAL INSTRUMENTS (CONTINUED)
+CURRENCY EXCHANGE RISK
+The Group operates in overseas markets, both by use of overseas subsidiaries and directly from the UK. It is therefore subject to currency exposures
+on transactions. The Group has access to a range of option contracts to balance the risk should any particular currency be a concern. There were no
+material contracts in place at the year end.
+BORROWINGS
+The Company has a venture loan from European Technology Ventures SA which is subject to a fixed interest rate. Total debt as at 31 December 2005
+was £1,027,978 (2004 £1,466,129) and bears an interest rate of 13.8%.
+FINANCIAL ASSETS
+The Group‘s financial assets consist of cash and deposits which are placed on money markets for suitable periods. All surplus cash is held in sterling.
+At 31 December 2005, £4.1m was with HSBC in an instant access account earning ‘Base’ +0.25%.
+FAIR VALUE OF FINANCIAL ASSETS AND FINANCIAL LIABILITIES
+There are no material differences between the book values and fair values of the financial assets and liabilities of the Group.
+18 DEFERRED TAXATION
+Deferred taxation recognised in the financial statements and the amount not recognised of the total potential asset are as follows:
+Accounts Accounts Accounts Accounts
+recognised recognised unrecognised unrecognised
+2005 2004 2005 2004 
+£ £ £ £
+Provision for deferred tax
+Timing differences - - 193,307 183,406
+Losses - - 1 1,308,228 10,661,260
+- - 1 1,501,535 10,844,666
+19 CALLED UP SHARE CAPITAL
+2005 2004
+Number of Number of 2005 2004
+COMPANY 25p shares 25p shares £ £
+Authorised
+Ordinary shares 60,000,000 1,500,000 15,000,000 1,500,000
+‘A’ Ordinary shares - 3,750,000 - 3,750,000
+‘B’ Ordinary shares - 15,000 - 15,000
+‘C’ Ordinary shares - 151,500 - 151,500
+60,000,000 5,416,500 15,000,000 5,416,500
+Allotted, called up, and fully paid
+Ordinary shares 51,540,518 523,385 12,885,130 523,385
+‘A’ Ordinary shares - 3,290,024 - 3,290,024
+‘B’ Ordinary shares - 10,975 - 10,975
+‘C’ Ordinary shares - 140,825 - 140,825
+51,540,518 3,965,209 12,885,130 3,965,209
+page 34  Celoxica Holdings plc Annual Report and Accounts 2005
+Notes to accounts 19 CALLED UP SHARE CAPITAL (CONTINUED)
+CHANGES DURING THE YEAR
+A resolution passed at an Extraordinary General Meeting on 10 October 2005 converted and re-designated all A Ordinary shares, B Ordinary
+shares and C Ordinary shares of £1 into Ordinary shares of £1 with immediate effect.
+Other resolutions passed at that meeting were subject to, and conditional upon, Admission to the Alternative Investment Market (AIM) of the
+London Stock Exchange. This subsequently happened on 27 October 2005 and the following resolutions became effective :
+a) All £1 Ordinary shares (both issued and unissued) were subdivided into 4 Ordinary shares of 25p each;
+b) The authorised share capital was increased from £5,416,500 to £15,000,000 by the creation of 38,334,000 Ordinary shares of 25p each;
+c) Any dividend and interest arrears due in respect of the previous classes of share became fixed at the date of conversion, wit h
+settlement to be made by the issue of 16,255,682 25p Ordinary shares, with a notional share premium of £1,015,980
+On 27 October 2005, a further 19,424,000 25p Ordinary shares were issued as a result of the placing on the AIM. The issue was at an aggregate
+nominal value of £4,856,000 with a premium of £1,214,000 before share issue expenses of £880,641.
+OPTIONS AND WARRANTS
+The table below summarises the exercise terms of the various options and warrants over Ordinary shares of 25p each which had be en granted,
+and were still outstanding, as at 31 December 2005.
+Ordinary Exercises
+Exercise price £
+shares of (unless
+25p each otherwise
+Date of issueNumberstated)Earliest date Latest date
+2002 EMI scheme 9 September 2002 19,188 75p 9 September 2003
+A
+8 September 2012
+9 September 2002 372 75p 9 September 2003
+D
+8 September 2012
+21 October 2003 400 75p 21 October 2004
+E
+20 October 2013
+1 June 2004 238,616 25p 1 June 2005
+E
+31 May 201 4
+1 June 2004 635,376 25p 1 June 2005
+B
+31 May 201 4
+12 October 2004 43,508 25p 12 October 2005
+E
+1 1 October 2014
+20 October 2004 1,200 25p 20 October 2005
+E
+19 October 2014
+25 October 2004 5,192 25p 25 October 2005
+E
+24 October 2014
+24 February 2005 88,736 25p 24 February 2006
+C
+23 October 2015
+28 February 2005 248 276 25p 28 February 2006
+A
+27 February 2015
+16 July 2005 20,000 25p 16 July 2006
+A
+15 July 2015
+5 December 2005 4,000 35p 5 December 2006
+A
+4 December 2015
+2000 US Stock Option plan 1 1 July 2002 4,000 75p 1 1 July 2002
+A
+10 July 2012
+9 September 2002 6,664 75p 9 September 2003
+A
+8 September 2012
+9 September 2002 3,332 75p 9 September 2003
+A
+8 September 2012
+1 June 2004 1 1 1,032 25p 1 June 2004
+E
+31 May 201 4
+1 June 2004 892,536 25p 1 June 2004
+B
+31 May 201 4
+12 October 2004 8,000 25p 12 October 2004
+E
+1 1 October 2014
+24 February 2005 144,108 25p 24 February 2005
+C
+23 October 2015
+28 February 2005 125,324 25p 28 February 2005
+A
+27 February 2015
+Celoxica Holdings plc Annual Report and Accounts 2005  page 35
+Notes to accounts page 36  Celoxica Holdings plc Annual Report and Accounts 2005
+Notes to accounts
+19 CALLED UP SHARE CAPITAL (CONTINUED)
+Ordinary Exercises
+Exercise price £
+shares of (unless
+25p each otherwise
+Date of issue Number stated) Earliest date Latest date
+2000 Unapproved  3 August 1999 19,412 75p 3 August 1999
+D
+2 August 2009
+Employee scheme 1 1 July 2002 4 75p 1 1 July 2003
+A
+10 July 2012
+1 1 July 2002 2,696 75p 1 1 July 2003
+D
+10 July 2012
+9 September 2002 372 75p 9 September 2003
+D
+8 September 2012
+1 June 2004 68,868 25p 1 June 2005
+B
+31 May 201 4
+24 February 2005 5,528 25p 24 February 2006
+C
+23 October 2015
+28 February 2005 12,328 25p 28 February 2006
+A
+27 February 2015
+2000 Unapproved  19 January 2000 800 £41.25 19 January 2000
+D
+18 January 2010
+Non employee scheme 19 January 2000 800 $125.00 19 January 2000
+D
+18 January 2010
+19 January 2000 800 $187.50 19 January 2000
+D
+18 January 2010
+3 February 2000 1,036 £41.25 3 February 2000
+D
+2 February 2010
+1 April 2000 2,160 £165.00 1 April 2000
+D
+31 March 2010
+17 October 2001 800 £20.25 17 October 2002
+A
+16 October 201 1
+27 November 2002 400 75p 1 1 October 2003
+A
+26 November 2012
+1 June 2004 137,616 25p 1 June 2005
+B
+31 May 201 4
+24 February 2005 3,328 25p 24 February 2006
+C
+23 February 2015
+28 February 2005 4,856 25p 28 February 2006
+A
+27 February 2015
+19 April 2005 600 25p 19 April 2006
+A
+18 April 2014
+Warrants  2 1 December 2004 960,000 31.25p 2 1 December 2004 2 1 December 201 4
+NOTES
+A
+Vesting over a three year period, as to one third after one year from a variable vesting commencement date and as to a further one twelfth
+every subsequent three months, but for US options, all are exercisable upon grant but are subject to a repurchase right on the employee leaving,
+which lapses on the same terms as the vesting period.
+B
+As in A but with one third not exercisable until an initial public offering or a sale of a majority of the issued share capital.
+C
+Vesting 100% on first anniversary.
+D
+Vested 100% on grant.
+E
+Vesting over a three year period, as to one third after one year from a variable vesting commencement date and as to a further one twelfth
+every subsequent three months except that all options become exercisable in full immediately before and conditional upon, a Sale or Listing as
+defined in the Articles of Association in force at the date of grant.
+20 PARENT COMPANY PROFIT AND LOSS ACCOUNT
+As permitted by Section 230 of the Companies Act 1985, the profit and loss account of the parent Company is not presented as part of these
+accounts. The parent Company’s profit for the year to 31 December 2005 amounted to £524,085 (2004: loss of £1,700,000).  21 RECONCILIATION OF MOVEMENT IN SHAREHOLDERS’ FUNDS
+2005 2004
+£ £
+Loss for the financial year (2,296,297) (3,031,693)
+Non-equity dividends and appropriations - (2,082,1 16)
+(2,296,297) (5,1 13,809)
+Reversal of preference shares appropriation (5,603,986) 2,082,1 16
+Settlement of dividends and appropriations by issue of shares 5,079,901 -
+Exchange adjustment offset in reserves 5,987 (2,938)
+Proceeds from Ordinary shares issued for cash (note 19) 5,189,359 3,443,036
+Net increase in shareholders’ funds 2,374,964 408,405
+Opening Shareholders’ funds 1,615,408 1,207,003
+Closing Shareholders’ funds 3,990,372 1,615,408
+22 RESERVES
+Merger Profit
+Share capital and loss
+premium reserve account Total
+GROUP ££ £ £
+Balance at 1 January 2005 19,813,777 23,729,845 (45,893,423) (2,349,801)
+Cancellation of Share Premium (19,813,777) - 19,813,777 -
+Premium on issue of Ordinary shares net of expenses 1,349,339 - - 1,349,339
+Prior year dividends previously written back - - (5,603,986) (5,603,986)
+Loss for the year - - (2,296,297) (2,296,297)
+Net exchange adjustments - - 5,987 5,987
+Balance at 31 December 2005 1,349,339 23,729,845 (33,973,942) (8,894,758)
+COMPANY
+Balance at 1 January 2005 19,813,777 - (12,200,000) 7,613,777
+Cancellation of Share Premium (19,813,777) - 19,813,777 -
+Premium on issue of Ordinary shares net of expenses 1,349,339 - - 1,349,339
+Prior year dividends previously written back - - (5,603,986) (5,603,986)
+Profit for the year (see note 20) - - 524,085 524,085
+Balance at 31 December 2005 1,349,339 - 2,533,876 3,883,215
+The cancellation of the Share Premium account arose from the capital reduction as set out in the Court Order dated 24 August 2005. This gave rise to a
+distributable reserve of £7,613,777.
+23 CONTINGENT LIABILITIES
+At 31 December 2005 and 31 December 2004, the Group and Company had no contingent liabilities.
+Celoxica Holdings plc Annual Report and Accounts 2005  page 37
+Notes to accounts page 38  Celoxica Holdings plc Annual Report and Accounts 2005
+Notes to accounts
+24 FINANCIAL COMMITMENTS
+OPERATING LEASE COMMITMENTS
+At 31 December 2005 the Group had annual commitments under non-cancellable operating leases expiring as follows:
+Land and Land and
+buildings Other buildings Other
+2005 2005 2004 2004
+££ ££
+Within one year 102,891 2,015 23,247 -
+Within two to five years inclusive 98,452 - 11 9,046 6,9 1 0
+After five years -- --
+201,433 2,015 142,293 6,910
+25 RECONCILIATION OF OPERATING LOSS TO NET CASH OUTFLOW FROM OPERATING ACTIVITIES
+2005 2004
+£ £
+Operating loss (2,974,004) (3,455,753)
+Depreciation 88,747 120,730
+Loss on disposal of tangible fixed assets 2,844 14,019
+Decrease/(increase) in stocks 62,657 (154,446)
+(Increase)/decrease in debtors (489,767) 186,066
+Increase/(decrease) in creditors 364,352 (589,529)
+Currency translation differences 1,258 3,801
+Net cash outflow from operating activities (2,943,913) (3,8 75, 11 2)
+26 ANALYSIS OF CHANGES IN NET CASH
+At 1 January At 31 December
+2005 Cash flows 2005
+£££
+Cash 802,952 3,7 14,4 17 4,517,369
+Short term deposits 1,800,000 (1,800,000) -
+Cash at bank and in hand 2,602,952 1,914,417 4,517,369
+Debt due within one year (1,466,129) 438,151 (1,027,978)
+Net funds 1,136,823 2,352,568 3,489,391
+27 RELATED PARTY TRANSACTIONS
+Amount
+Organisation Relationship £
+D. Cheesman Advent Venture Partners Partner 22,950
+J. J. A. Nielsen Cazenove Fund Management Employee 16,51 1
+All transactions took place under normal trading conditions and, at 31 December 2005, the Company owed £nil (2004: £nil). Celoxica Holdings plc Annual Report and Accounts 2005  page 39
+Notice of Annual General Meeting
+THIS DOCUMENT IS IMPORTANT AND REQUIRES YOUR IMMEDIATE ATTENTION. If you are in any doubt as to the action you should take
+you should consult your own independent adviser. If you have sold or transferred all your shares in Celoxica Holdings plc, please forward
+this document together with the accompanying Form of Proxy to the agent who arranged the sale of transfer so that they may be passed
+on to the purchaser or transferee.
+The 2006 Annual General Meeting of Celoxica Holdings plc (the “Company”) will be held at Arbuthnot House, 20 Ropemaker Street, London EC2Y 9AR
+at 1 1.00 a.m. on 24 May 2006 for the following purposes:
+ORDINARY RESOLUTIONS
+To consider and, if thought fit, to pass the following resolutions which will be proposed as ordinary resolutions:
+1. To receive the Directors’ report and the audited accounts for the year ended 31 December 2005 and the auditors’ report on the a ccounts.
+2. To reappoint Bernard Owen Morgan as a Director.
+3. To reappoint Ian Christopher Yeoman as a Director.
+4. To reappoint Grant Thornton UK LLP as auditors and to authorise the Directors to fix the remuneration of the auditors.
+5. THAT the Directors be and are generally and unconditionally authorised (in substitution for all subsisting authorities to the extent unused)
+pursuant to and in accordance with section 80 of the Companies Act 1985 to allot relevant securities (as defined in that section) up to an
+aggregate nominal value of £4,295,043. This authority shall expire, unless previously renewed, revoked or varied by the Company in general
+meeting, 15 months after the date of the passing of this resolution or, if earlier, at the conclusion of the next Annual General Meeting of
+the Company in 2007, except that the Company may at any time before the expiry of this authority make any offer or agreement which
+would or might require relevant securities to be allotted after such expiry and the Directors may allot relevant securities in pursuance of any
+such offer or agreement as if the authority conferred by this resolution had not expired.
+SPECIAL RESOLUTION
+To consider and, if thought fit, to pass the following resolution which will be proposed as a special resolution:
+6. THAT, subject to the passing of resolution 5, the Directors be and are empowered pursuant to section 95 of the Companies Act 1985 to
+allot equity securities (as defined in section 94(2) of that Act) for cash pursuant to the general authority conferred on them by resolution 5
+and/or to sell equity securities held as treasury shares for cash pursuant to section 162D of that Act, in each case as if section 89(1) of that
+Act did not apply to any such allotment or sale, provided that this power shall be limited to:
+(a) any such allotment and/or sale of equity securities in connection with an issue or offer by way of rights or other pre-emptive issue or
+offer, open for acceptance for a period fixed by the Directors, to holders of ordinary shares (other than the Company) on the register on
+any record date fixed by the Directors in proportion (as nearly as may be) to the respective number of ordinary shares deemed to be held
+by them, subject to such exclusions or other arrangements as the Directors may deem necessary or expedient in relation to fractional
+entitlements, legal or practical problems arising in any overseas territory, the requirements of any regulated body or stock exchange or
+any other matter whatsoever; and
+(b) any such allotment and/or sale, otherwise than pursuant to sub-paragraph (a) above, of equity securities for cash having, in the case 
+of relevant shares (as defined in section 94(5) of that Act), an aggregate nominal value, or, in the case of other equity securities, 
+giving the right to subscribe for or convert into relevant shares having an aggregate nominal value, not exceeding in aggregate the sum
+of £644,256. page 40  Celoxica Holdings plc Annual Report and Accounts 2005
+Notice of Annual General Meeting
+SPECIAL RESOLUTION 6(b) CONTINUED
+This authority shall expire unless previously renewed, revoked or varied by the Company in general meeting, at such time as the general
+authority conferred on the Directors by resolution 5 expires, except that the Company may at any time before such expiry make any offer
+or agreement which would or might require equity securities to be allotted or equity securities held as treasury shares to be sold after
+such expiry and the Directors may allot equity securities and/or sell equity securities held as treasury shares in pursuance of such an
+offer or agreement as if the power conferred by this resolution had not expired.
+The Directors believe that the proposals in resolutions 1 to 6 are in the best interest of shareholders as a whole and they unanimously
+recommend that you vote in favour of all the resolutions.
+On behalf of the Board
+Bernard Owen Morgan
+Company Secretary
+20 March 2006
+Registered Office: 66 Milton Park, Abingdon, Oxfordshire OX14 4RX 
+Registered in England and Wales No: 3870674
+NOTES
+1. A shareholder of the Company who is entitled to attend and vote at the Annual General Meeting may appoint one or more proxies to attend and,
+on a poll, vote instead of him. A proxy does not need to be a shareholder of the Company.
+2. A form of proxy for use in connection with the Annual General Meeting is enclosed with the document of which this notice forms part. If you do not
+have a form of proxy and believe that you should, please contact the Company’s registrars, Capita Registrars at The Registry, 34 Beckenham Road,
+Beckenham, Kent BR3 4TU. Completion and return of a form of proxy will not preclude a shareholder from attending and voting at the Annual
+General Meeting.
+3. To appoint a proxy or proxies shareholders must complete a form of proxy, sign it and return it, together with the power of a ttorney or other
+authority (if any) under which it is signed, or a notarially certified copy of such authority, to the Company’s registrars, Capita Registrars at
+The Registry, 34 Beckenham Road, Beckenham, Kent BR3 4TU so that it is received no later than 1 1.00 a.m. on 22 May 2006.
+4. The Company, pursuant to Regulation 41 of the Uncertificated Securities Regulations 2001, specifies that only those shareholders registered
+on the Company’s share register no later than close of business on 22 May 2006 shall be entitled to attend the Annual General Meeting and
+vote in respect of the number of shares registered in their names at that time. Changes to entries on the share register after close of business
+on 22 May 2006 shall be disregarded in determining the rights of any person to attend or vote at the Annual General Meeting.
+5. Copies of the Directors’ service contracts, the existing articles of association, the biographical information of the Directors seeking reappointment
+and the register of Directors’ interests are available for inspection at the Company’s registered office during normal business hours on any
+weekday (excluding Saturdays, Sundays and public holidays) until the end of the Annual General Meeting. Celoxica Holdings plc Annual Report and Accounts 2005  page 41
+Notice of Annual General Meeting
+EXPLANATORY NOTES TO THE NOTICE OF ANNUAL GENERAL MEETING
+The following notes provide an explanation as to why the resolutions set out in the notice are to be put to shareholders.
+Resolutions 1 to 5 are ordinary resolutions. Each resolution will be passed if more than 50% of the votes cast are in favour.
+Resolution 1 – Laying of Accounts
+The Companies Act 1985 (the “Act”) requires that, for each financial year, the Directors lay the Company’s annual accounts, the Directors report
+and the auditors’ report on the annual accounts before a general meeting.
+Resolutions 2 to 3 (inclusive) – Reappointment of Bernard Owen Morgan and Ian Christopher Yeoman
+The Company’s articles of association (the “Articles”) require that: (i) any Director who was appointed by the Board shall only hold office until the
+next following Annual General Meeting; and (ii) one third of the Directors must retire by rotation at each Annual General Meeting. However, in
+each case, the relevant Director may offer himself for reappointment. Accordingly, Bernard Owen Morgan and Ian Christopher Yeoman are retiring
+and seeking reappointment. Biographical information for Bernard Owen Morgan and Ian Christopher Yeoman can be found on page 12 of this
+Annual Report and Accounts.
+Resolution 4 – Auditors
+The Act requires that auditors be appointed at each general meeting at which accounts are laid, to hold office until the next such meeting. The resolution
+also seeks authority for the Directors to determine the amount of the auditors’ fees. The Audit Committee keeps under review the independence and
+objectivity of the external auditors, further information on which can be found in the Annual Report and Accounts. After appropriate consideration, the
+Audit Committee recommended to the Board of Directors the reappointment of Grant Thornton UK LLP.
+Resolution 5 – Authority to the Directors to allot shares
+Under the Act the Directors may only allot shares if authorised to do so. If passed, this resolution will authorise the Directors to allot and issue
+new shares and/or sell shares held as treasury shares up to an aggregate nominal value of £4,295,043, which is equal to approximately one third
+of the current issued share capital of the Company. At the date of this notice the issued share capital of the Company was 51,540,518 ordinary
+shares of 25 pence each and the Company held no treasury shares. The authority will expire 15 months after the date of passing of the resolution
+or, if earlier, at the conclusion of the next Annual General Meeting of the Company in 2007.
+Passing this resolution will continue the Directors’ flexibility to act in the best interests of shareholders, when opportunities arise, by issuing new
+shares or selling treasury shares. The Directors currently have no intention of issuing new shares.
+Resolution 6 is a special resolution. This resolution will be passed if not less than 75% of the votes cast for and against are in favour.
+Resolution 6 – Disapplication of statutory pre-emption rights
+If the Company issues new shares for cash it must first offer them to existing shareholders in proportion to their current holdings, in compliance
+with their statutory pre-emption rights. If passed, this resolution will authorise the Directors to modify these rights to deal with legal, regulatory
+or practical problems that may arise on a rights or other pre-emptive offer or issue.
+The resolution also seeks shareholder authority to issue a limited number of shares for cash and/or sell treasury shares without offering them to
+shareholders first. The authority is for an aggregate nominal amount of up to 5% of the aggregate nominal value of the current issued share
+capital of the Company (up to 2,577,026 new ordinary shares of 25 pence each). The authority will expire at the same time as the authority to
+allot shares given pursuant to resolution 5.
+The Directors consider this authority necessary in order to give them flexibility to deal with opportunities as they arise, subject to the restrictions
+contained in this resolution. page 42  Celoxica Holdings plc Annual Report and Accounts 2005
+Executives/Advisors/Business addresses
+EXECUTIVE TEAM MEMBERS
+Philip Bishop, 
+Chief Executive Officer
+Bernard Morgan, 
+Chief Financial Officer
+Jeff Jussel, 
+Vice President Marketing 
+& Americas General Manager
+Tony Vitucci, 
+Vice President Consulting
+Matt Aubury, 
+Vice President Engineering
+Sandeep Ram, 
+Vice President Europe, Middle East 
+& Africa Sales
+Colin Mason, 
+Vice President Asia Pacific
+BANKERS
+HSBC BANK PLC
+65 Cornmarket Street
+Oxford OX1 3HY
+NOMINATED ADVISORS 
+ARBUTHNOT SECURITIES LIMITED
+Arbuthnot House 
+20 Ropemaker Street 
+London EC2Y 9AR
+AUDITORS
+GRANT THORNTON UK LLP
+1 Westminster Way
+Oxford OX2 0PZ
+SOLICITORS 
+CMS CAMERON MCKENNA LLP
+Mitre House 
+160 Aldersgate
+London EC1A 4DD
+REGISTRARS
+CAPITA IRG
+The Registry
+34 Beckenham Road
+Beckenham
+Kent BR3 4TU
+FINANCIAL PUBLIC RELATIONS
+ICIS LIMITED
+3rd Floor, Aldermary House
+10-15 Queen Street
+London EC1N 1TX
+UNITED KINGDOM
+CELOXICA LTD
+66 Milton Park
+Abingdon
+Oxfordshire OX14 4RX
+United Kingdom
+Tel: +44 (0)1235 863656
+Fax:+44 (0)1235 863648
+USA 
+CELOXICA INC.
+Suite 185
+Lakeview Plaza
+4516 Seton Center Parkway
+Austin
+TX 78759
+USA
+Tel: +1 512 795 8170
+Fax:+1 512 795 8167
+JAPAN
+CELOXICA JAPAN K.K.
+YBPWest Tower, 11F
+134 Godo-cho
+Hodogaya-ku
+Yokohama 240-0005
+Japan
+Tel: +81 (0)45 331 0218
+Fax:+81 (0)45 331 0433 design: HAT Associates +44 (0)1242 253122
+board photography 
+and main images 
+on pages 7 and 9: Molyneux Associates
+printing: Alpha Colour Printing
+“algorithms”
+a formula or set of steps for solving a particu-
+lar problem. They can be expressed in any
+language from natural languages like English
+to programming languages.
+“ASIC”
+Application Specific Integrated Circuit, an
+integrated circuit design adapted for a specif-
+ic application.
+“board”
+a printed circuit board that, in Celoxica’s case,
+contains one or more FPGAs and additional
+components such as memory chips and inter-
+face circuitry and which can be stand alone or
+can plug into a user’s personal computer.
+“C language”
+a powerful and versatile programming lan-
+guage, used for software development. Also
+known as ANSI-C or ISO-C.
+“chip”
+a single, flat piece of silicon on which a spe-
+cific semiconductor element or circuit has
+been fabricated. Often also colloquially used
+to describe an integrated circuit.
+“CAGR”
+compound annual growth rate.
+“DSPs”
+Digital Signal Processing. The manipulation
+of analog information that has been convert-
+ed into a digital form.
+“EDA”
+Electronic Design Automation, chip design
+industry using existing hardware design tools.
+“ESL”
+Electronic System Level.
+“FPGA”
+Field Programmable Gate Array, multi-purpose
+logic chips which have a high density of cells
+that can be programmed and re-programmed
+at will.
+“Handel-C”
+Handel-C is a customised version of C devel-
+oped by Celoxica and is used for hardware
+design.
+“hardware”
+integrated circuits and their associate boards,
+connectors and mechanical packaging. Celoxica’s
+technology focuses on integrated circuits.
+“IP Cores”
+reusable components or blocks of functionality
+that can be integrated into a larger design.
+“level of abstraction”
+the level of detail at which an electrical sys-
+tem is described when being designed.
+“Silicon chip”
+See ‘Chip’.
+“SoC”
+System-on-chip. A single chip that contains
+all or almost all of the functions needed in a
+particular system.
+“System C”
+A modelling language based on C++ to facili-
+tate system level design.
+Glossary Registered Office:
+Celoxica Holdings plc
+66 Milton Park
+Abingdon
+Oxfordshire OX14 4RX
+United Kingdom
+Tel: +44 (0)1235 863656
+Fax: +44 (0)1235 863648
+www.celoxica.com
+info@celoxica.com

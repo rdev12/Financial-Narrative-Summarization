@@ -1,0 +1,69 @@
+ Daily Internet Plc  Annual Report & Accounts 2015 9
+chief executive officer’s report
+Introduction
+I am pleased to provide my first report since taking on the role of Chief Executive from December 2014, having formerly 
+been a Non-Executive member of the Board.
+I became Chief Executive following the acquisition by the Group of Q4Ex Ltd, a cloud company which I had founded 
+with two other partners. At this time and following a period of transition, Abby Hardoon the former CEO and founder of 
+the Group moved to a Non-Executive role to allow for an evolvement in direction and to allow Abby to reduce his time 
+commitment to the business.
+The change in direction is one of concentrating our efforts on the Managed Hosting segment and a re-aligning of our cost 
+base in support of this.
+I am pleased to report a year of significant improvement in both operational and financial performance. Our revenues 
+increased 66.9% to £3,891k from £2,331k a year earlier and we have today reported our maiden adjusted EBITDA profit of 
+£411k versus an EBITDA loss of £45k a year earlier. As a result of this performance our statutory loss after taxation reduced 
+from £676k in 2014 to £84k a reduction of 87.7%.
+Operational Review
+Daily Internet Plc was founded as a provider of SME hosting solutions to the mass market. Our SME Hosting segment has 
+performed well in the year increasing revenues by 23.2% to £2,039k from £1,655k a year earlier. This was largely due to 
+the contribution of the Evohosting acquisition. Underlying revenue remained at levels consistent with last year although as a 
+result of the continuing re-organisation profitability was vastly improved.
+The Group entered the Managed Hosting market in late October 2013 through the acquisition of Netplan Internet Solutions 
+Limited. For the financial period under review, our Managed Hosting segment delivered revenues of £1,852k, up from a 
+contribution of £676k for part of the year.
+The Managed Hosting segment is the main focus of the Group as we see the largest current and future potential revenue 
+opportunities arising in this area. Managed Hosting includes a range of Cloud offerings including design, implementation, 
+control and managing environments and solutions for our customers. 
+The market is currently seeing a number of trends develop, all of which indicate that the shift to Cloud delivered solutions 
+will remain key future focus points for our customers.
+One particular trend we are seeing is an increasing adoption of the Public Cloud. There is a developing level of acceptance 
+and sufficient confidence in Public Cloud that we have been able to add into the product mix when proposing a new 
+solution to a customer, particularly concerning business continuity. Previously we would replicate a Private Cloud across 
+two Datacentres, but are increasingly replicating data to a Netplan designed continuity solution with Amazon Web Services 
+(AWS). The “pay as you use” elements of Public Cloud are bringing into reach solutions that were previously cost prohibitive 
+for some customers. This is helping us bring a greater breadth and depth of service, increasing revenues but all the time 
+protecting or growing our overall gross margin.
+strategic report Daily Internet Plc  Annual Report & Accounts 2015 10
+The vast and growing array of methods of delivering a solution are making decisions more complex for IT departments, 
+who do not have the market knowledge, skills and infrastructure and so seek the expert advice of a partner such as 
+Netplan. It is certainly the case that our larger customers are placing an increasing amount of business with us due to 
+the increasing complexities in the overall solution. We believe this will help maintain our low levels of client churn in this 
+segment moving forward.
+One key attraction of some customers to Netplan is our PCI DSS (Payment Card Industry Data Security Standards) 
+capabilities and offerings. PCI DSS applies to all entities involved in payment card processing—including merchants, 
+processors, financial institutions and service providers, as well as all other entities that store, process or transmit 
+cardholder data and/or sensitive authentication data.
+Netplan is a certified PCI DSS Level 1 Service provider and has a dedicated PCI team. This has assisted in attracting 
+business from payment processing business to insurance companies who wish to outsource their PCI environment and 
+elements of their compliancy process.
+Acquisitions
+During the year we acquired Evohosting Ltd and Q4Ex Ltd. Both acquisitions have performed better than expected and 
+have now been fully integrated into the Group. We continue to evaluate acquisition opportunities that must fit our stringent 
+acquisition criteria.
+Evohosting added CPanel specific hosting capacity to our SME Hosting segment. CPanel are the market leaders in SME 
+shared hosting control panels. Evohosting continues to grow under our ownership.
+Q4Ex, a Cloud hosting provider, brought key specialist personnel to the Group in the form of a strong management team 
+and access to a vertical market which complimented Netplan. It now trades under the Netplan umbrella and is making 
+substantial progress as the ‘Merchant and Distribution’ division of Netplan. This division was identified as being a vertical 
+market, “ripe for change”, especially given the bulk of potential clients still utilise Windows Server 2003. Microsoft are 
+withdrawing support and updates as the product reaches the end of life span on 14 July 2015.
+Current Trading and Outlook
+Trading post the financial year end has been in line with management and market expectations.
+Our pipeline of opportunities continues to grow and we are well placed to take advantage of the continued move to the 
+cloud. We will continue to invest over the next 12 months in our network infrastructure, automated systems and internal 
+processes and drive further operational efficiencies with the integration of staff and systems across our business units and 
+offices.
+I look forward to the year ahead with confidence.
+Chris Evans
+Chief Executive Officer
+19 June 2015

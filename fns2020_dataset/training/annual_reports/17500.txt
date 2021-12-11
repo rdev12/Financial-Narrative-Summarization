@@ -1,0 +1,3200 @@
+ Xploite plc Annual Report 2008
+pantone 193C
+c=0
+m=100
+y=66
+k=13
+k=90
+consolidate
+develop
+acquire
+identify
+Annual Report    2008
+Xploite plc 
+First Point 
+Buckingham Gate 
+Gatwick 
+West Sussex 
+RH6 0PP
+www.xploite.com
+c99861_Cover.indd   1 10/2/09   12:16:59 Contents
+Highlights 01
+Chairman’s statement 02
+Chief executive’s review 03
+Business and financial review 05
+Directors’ report 10
+Independent auditors’ report to the 
+members of Xploite plc (group opinion) 14
+Consolidated income statement 15
+Consolidated balance sheet 16
+Consolidated statement of 
+changes in equity 17
+Consolidated cash flow statement 18
+Notes to the consolidated 
+cash flow statement 19
+Notes to the financial statements 20
+Independent auditors’ report 
+to the members of Xploite plc 
+(parent company opinion) 59
+Parent company balance sheet  60
+Notes to the parent company 
+financial statements 61
+Company information  66
+Xploite identifies acquires, consolidates 
+and develops businesses in the IT services 
+marketplace.
+Produced by Imprima +44 (0) 20 7105 0300
+c99861_Cover.indd   2 10/2/09   12:16:59  Annual Report 2008 Xploite plc 01
+HigHligHts 428%
+Increase in adjusted** earnings per share
+231%
+Increase in adjusted* EBITDA (including 
+discontinued operations)
+101%
+Increase in gross profit from continuing operations
+60%
+Increase in revenues from continuing operations
+51%
+IRR on disposal of part of Itheon
+*  Adjusted to add back integration and strategic costs
+** Adjusted for add back of integration and strategic costs and amortisation 
+of intangible assets
+c99861Book.indb   1 11/2/09   13:18:02 02 Xploite plc Annual Report 2008  Annual Report 2008 Xploite plc 03
+CHairman’s statement I am delighted to report results ahead of expectations for 
+2008, with total revenues from continuing operations up 
+60% to £46.3m, gross profits from continuing operations 
+up 101% to £12.6m and an adjusted EBITDA from 
+continuing operations up 436% to £3.7m. The group 
+also made a profit on the disposal of part of the Itheon 
+business of £1.1m. The Group has benefited from the 
+combined effects of tight working capital management, 
+the successful integration of the businesses acquired over 
+the previous year and the disposal of part of the Itheon 
+business, so that as at 31 October 2008 net debt was 
+£0.2m.
+This is a considerable achievement by the management 
+team, particularly when set against the backdrop of the 
+prevailing adverse macro-economic conditions and the 
+fact that the Group was also in an offer period from 11 
+December 2007 to 27 March 2008.
+Our strategy is to identify, acquire, consolidate and 
+develop innovative, high growth businesses in the IT 
+services marketplace. We create shareholder value by 
+identifying and acquiring underperforming businesses, 
+integrating and developing them, and improving their 
+performance through ‘active management’. It is our 
+strategy that, at an appropriate time, we will exit these 
+businesses returning profits to shareholders. We continue 
+to believe this remains a sound strategy, particularly 
+in the current market where there are significant new 
+opportunities for consolidation.
+In our 2007 financial year we acquired four businesses 
+which satisfied our strategic requirements: Anix, Posetiv, 
+Red Squared and Itheon. The 2008 financial year has seen 
+us deliver on the integration and development of these 
+businesses. Our stewardship has begun to build significant 
+shareholder value by shifting the focus of these businesses 
+onto recurring revenue sources, improving margins, 
+winning major contracts and disposing of non-core 
+activities. We focussed our acquisitions into two divisions 
+Anix and Itheon (now Storage Fusion) and both have 
+made substantial progress in the 2008 financial year.
+The consolidation of three of the acquired businesses 
+(Anix, Red Squared and Posetiv) under the single Anix 
+brand was completed in January 2008 and we have 
+installed a single operating board for that operation. The 
+objective for the enlarged Anix business is to become 
+the UK’s leading mid-market managed service provider in 
+the storage and server infrastructure sector, focused on 
+building strong recurring revenue streams. The ability of 
+the business to secure a number of high value managed 
+services contracts during the year and post year end has 
+demonstrated that there is a strong customer demand for 
+managed services and enabled us to build a business with 
+long term, visible revenues and improving margins.
+The Group’s fourth acquisition, Itheon, was acquired for 
+its software development skills rather than what was then 
+the bulk of its business. In the 2008 financial year, we 
+split its activities and renamed the retained part, being 
+the Storage Resource Analysis (SRA) software business 
+Storage Fusion. The legacy monitoring software solutions 
+operation was sold in October 2008 and with it the Itheon 
+brand, to Bluechip Customer Engineering for £3.3m, 
+realising a profit on disposal of this business before tax of 
+£1.1m.
+Storage Fusion is gaining considerable traction from its 
+SRA business; we recently announced some significant 
+license and royalty agreements. Anix has also successfully 
+integrated Itheon’s innovative monitoring software into its 
+own service offerings.
+As a specialist service company it is imperative that we 
+retain high quality employees. The high level of service 
+that our customers expect has always been maintained 
+and it is thanks to the dedication of our colleagues that 
+this has been possible.
+The Group’s trading to date in the current financial year 
+is line with the Board’s expectations, with good cash 
+generation. As our forward visibility grows, the Directors 
+remain confident that the Group’s strategic focus will 
+continue to provide attractive returns for shareholders.
+John Standen 
+Chairman
+c99861Book.indb   2 11/2/09   13:18:03 02 Xploite plc Annual Report 2008  Annual Report 2008 Xploite plc 03
+CHief exeCutive’s review
+Strategic overview
+Our objective is to identify, acquire, consolidate and 
+develop underperforming companies and businesses in 
+which we see opportunities to create value through a 
+combination of integration, investment and enhancing 
+both corporate and operational infrastructure. The 
+Board aims to grow the Group both organically and by 
+acquisition, and to convert this growth into higher profit 
+and cash flow, through increased margins achieved by 
+careful cost control and management of the revenue mix.
+Xploite’s management team first adopted its buy and 
+build strategy in 2003. Between 2003 and 2006 it 
+acquired nine businesses in the network integration sector 
+of the IT industry. These were consolidated into two 
+operating divisions.
+In February 2006 and June 2006 the two operating 
+divisions were sold realising a profit of £19.2m and 
+shortly thereafter £10.3m was returned to shareholders. 
+Since February 2007 Xploite has begun to acquire and 
+consolidate in the managed services and software as a 
+service (SaaS) sector of the IT industry. Since then the 
+Group has acquired four and disposed of two businesses.
+Following the disposal of the Itheon brand in October 
+2008, the Group operates two trading businesses Anix 
+and Storage Fusion. Anix is a leading implementer of 
+advanced storage solutions and one of IBM’s leading 
+partners in the UK. Our strategy is to develop Anix into 
+the UK’s number one mid market managed services 
+provider. Storage Fusion is a software company focussed 
+entirely on the SaaS model for storage analytics with a 
+range of tools focussed on storage analytics.
+The current world market place makes for a potentially 
+difficult time for IT services businesses. However, in an 
+economic downturn all companies look to save cost and 
+in both Anix and Storage Fusion we have businesses that 
+allow our customers to do just that.
+Demand for managed services in both the public and 
+private sector is increasing as organisations look to third 
+parties with the necessary specialist skills and scale to 
+implement and host key applications on a cost effective 
+basis.
+As a result, the Board expects demand for the Group’s 
+services to increase as more companies recognise the 
+benefits of having their data networks actively managed 
+by a trusted third party.
+Anix
+Our objective for Anix has been to become the UK’s 
+number one mid market managed services partner with 
+a focus on storage and server infrastructure. The key 
+performance indicator of our success against this objective 
+is the significant underlying growth in recurring revenues 
+and gross margin achieved throughout the year.
+During the year, the revenue from services (the majority 
+of which are recurring revenues) represented 51% (2007: 
+36%) of total Anix revenues. In addition, gross margin 
+from services grew by 119% from £10.4m to £22.8m. 
+Notable wins across the year included a major European 
+bank, Speedy Hire, Wyevale Garden Centres, Atos Orgin 
+and a major high street retailer.
+In the year, Anix was also awarded IBM Server Services 
+SPL strategic supplier status, demonstrating the depth 
+of relationship Anix enjoys with its largest supplier. Our 
+pipeline of new business is strong and already in the 
+2009 financial year we have announced new contract 
+wins totalling £10m. Our Total Contract Value (TCV) per 
+contract is also increasing with an average value now of 
+circa £3m on new contracts won.
+In the current economic climate, managed services are 
+becoming more attractive to both new and existing 
+customers. The opportunity to replace capital expenditure 
+with operating expenditure allows companies to preserve 
+cash for their core business and also removes the fear of 
+running under staffed or under budgeted IT departments. 
+Our experience has shown the greatest driver for our 
+customers is not cost savings per se, but the assurance of 
+the smooth running of their IT systems, backed by near 
+100% service level agreements.
+Despite the growth of its managed services revenues, 
+hardware reselling remains an important feature of the 
+Anix business and brings substantial benefits to the 
+managed services strategy. For example, it helps the 
+business to secure high level discounts by virtue of our 
+tier one hardware and software relationships with leading 
+vendors, and provides a built-in prospect base for the 
+managed services practice.
+Storage Fusion
+This business was born out of the Storage Resource 
+Analysis (SRA) software business components of Itheon 
+which was acquired in late 2007.
+One of the reasons Itheon was originally acquired was 
+to deliver cost savings into the Anix managed services 
+operation. The core technology of Itheon was based 
+around server monitoring which is a key function of 
+c99861Book.indb   3 11/2/09   13:18:03 04 Xploite plc Annual Report 2008  Annual Report 2008 Xploite plc 05
+CHief exeCutive’s review continued
+running a managed service. During the year we migrated 
+away from using expensive IBM Tivoli licences in our 
+operations and replaced them with the Itheon server 
+monitoring technology.
+Towards the year end we identified the opportunity to 
+sell Itheon, whilst at the same time retaining the core SRA 
+technology within the Group, at the same time enabling 
+Anix to continue to utilise Itheon at the same price point. 
+We took this opportunity and realised disposal proceeds 
+of £3.3m and a gain of £1.6m after tax. The opportunity 
+resulted in an overall Internal Rate of Return (IRR) of 51% 
+for the Itheon business.
+The second reason for the acquisition of Itheon was the 
+potential we saw to deliver its SRA solution. We have 
+invested heavily in the development of this software 
+which enables us to provide storage analytics as a SaaS 
+solution.
+This software is very powerful and enables the customer 
+to identify and recover large areas of reclaimable capacity 
+within their existing infrastructure thereby saving and 
+deferring capital outlay. We believe this will prove to be 
+a very compelling proposition particularly in the current 
+economic environment.
+SRA has been successfully trialled by IT Vendors, IBM, 
+Sun Microsystems, EMC and Dell in the UK. End user 
+customers have included T-Mobile, Reuters, Johnson 
+and Johnson and ING among many others. These trials 
+have been successful and are now beginning to deliver 
+revenues. As an indication the minimum revenue from 
+such a client could be £1,500 per report with the largest 
+so far in the region of £40,000. In order to really extract 
+the full value from this system many customers will elect 
+to run regular reports.
+SRA was successfully sold to two USA companies on a 
+licence basis at the end of the 2008 year. This gives these 
+customers the ability to host the software on their own 
+platform and sell the service to their own customers on 
+a non-exclusive basis. Fees per report will also arise from 
+these sales.
+Our expectation in the year to 31 October 2009 is to sell 
+more licences of this nature. We also anticipate setting up 
+our own portal which will allow any customer anywhere 
+in the world to log in and utilise the software on a regular 
+basis paid for on an as used basis. In addition to this, 
+we are also in discussion with major storage vendors to 
+deliver branded open SRA portals.
+Post year end events
+On 15 December 2008, the group completed the 
+acquisition of Blue River Systems Limited (‘Blue River’) 
+from Cantono plc (‘Cantono’) and the assets of three of 
+Cantono’s managed services businesses, following the 
+approval of Cantono’s shareholders. The main reason 
+for this transaction was to acquire Cantono’s existing 
+managed service contract base. These managed service 
+contracts are expected to increase the value of annuity 
+revenues in the group which is in line with our overall 
+objectives.
+c99861Book.indb   4 11/2/09   13:18:03 04 Xploite plc Annual Report 2008  Annual Report 2008 Xploite plc 05
+Business and finanCial review Business review
+Xploite is a company that identifies, acquires, consolidates 
+and develops businesses in the IT services sector.
+Strategy and objectives of the business
+The strategy of the business is to continue to grow both 
+organically and by acquisition and to convert this growth 
+into higher profit and cash flow through increased 
+margins achieved by cost control and careful management 
+of revenue mix .
+The company first adopted its buy and build strategy in 
+2003 when Matrix Communications (as the business was 
+then called) acquired the AiM shell Offshore Telecom plc.
+Between 2003 and 2006 the company acquired nine 
+businesses in the network integration sector of the IT 
+industry. These were consolidated into two operating 
+divisions.
+In February 2006 and June 2006 the company disposed of 
+two of its operating divisions realising a profit of £19.2m. 
+In November 2006 the Company returned £10.3m to 
+shareholders.
+In February 2007 the group embarked on a new phase 
+by announcing its plans to acquire and consolidate in 
+the managed services sector of the IT industry. In the 
+year ended 31 October 2007, the group acquired four 
+businesses pursuant to this strategy. The acquisitions 
+were:
+•	 Posetiv	Limited 
+•	 Anix	Holdings	Limited 
+•	 Itheon	Limited 
+•	 Red	Squar ed	plc
+The group has disposed of two businesses, the first 
+disposal in September 2007 was of Fujin Technology 
+Trading Limited. The second in October 2008 was of a 
+part of the Itheon business.
+During 2008 the group focussed on the integration of the 
+businesses acquired in 2007 and is now in the process of 
+developing the businesses further.
+Brands and market position
+The company is consolidating its acquisitions under two 
+brands, Anix and Storage Fusion.
+The Anix brand represents the hardware distribution and 
+managed services business and Storage Fusion the storage 
+analytics technology business.
+Anix (hardware and services business segment) is a 
+leading implementer of advanced storage solutions and 
+one of IBM’s leading partners in the UK.
+Storage Fusion (software business segment) has a range 
+of tools that are focussed on storage analytics. These tools 
+are offered using a SaaS business model.
+The industry, market and competitive environment
+There are two distinct areas of “The industry, market and 
+competitive environment” that have a bearing on the 
+company’s performance.
+The first is the environment that influences the company’s 
+ability to source and fund acquisitions and the second is 
+the market and competitive environment in which the 
+companies that have been acquired, operate.
+The company’s ability to source and fund acquisitions that 
+will be complimentary to the existing group companies is 
+a function of the “pipeline” of acquisition opportunities 
+that the company has. This is built up and constantly 
+revised by a program of research, meetings and industry 
+networking by the board and its advisors. The company 
+has funded the four acquisitions it has made during the 
+prior year from its own cash resources and from bank 
+debt.
+The second area is the market and competitive 
+environment in which the acquired companies operate. 
+Demand for managed services in both the public and 
+private sector is increasing as organisations look to third 
+parties with the necessary specialist skills and scale to 
+implement and host key applications on a cost effective 
+basis.
+The board expects the demand for the group’s services 
+to increase as more companies recognise the benefits of 
+having their data networks actively managed by a third 
+party.
+In order to give a meaningful review of the company’s 
+achievement against its objectives two separate elements 
+will be considered.
+The first is the “identify and acquire” objective and the 
+second is the “consolidate and develop” objective.
+Throughout this review these objectives will be considered 
+separately as our ability to identify and acquire businesses 
+that fit our strategic objective is different to our ability to 
+consolidate and develop the businesses once they have 
+been acquired.
+c99861Book.indb   5 11/2/09   13:18:03 06 Xploite plc Annual Report 2008  Annual Report 2008 Xploite plc 07
+Business and finanCial review continued
+Resources
+The Group has the following key resources which assist in 
+its pursuit of its key objectives:
+“Identify and acquire”
+•	 Extensive	knowledge	of	our	local	markets; 
+•	 Str ong	financial	r esour ces	and	cash	generation; 
+•	 	 Employees	who	have	extensive	knowledge	of	the	key	
+markets and therefore can assist in the development of 
+the business;
+“Consolidate and develop”
+•	 Incr easingly	well-established	and	r espected	brands; 
+•	 	 Str ong	distribution	channels	and	established	working	
+relationships with business partners;
+•	 	 Quality	pr oducts	and	services	with	str ong	market	
+positions;
+•	 	 Employees	who	have	extensive	knowledge	of	the	key	
+markets and therefore can assist in the development of 
+the business.
+•	 	 Str ong	corporate	r eputation	for	quality	pr oducts	and	
+services.
+•	 	 Highly	qualified	and	stable	employee	base.
+Relationships and principal risks
+“Identify and acquire”
+The company’s critical relationships are with the business 
+community and the providers of capital be it our bankers 
+or our shareholders.
+Acquisitions play a key role in the strategy and the 
+successful integration and operation of the acquired 
+businesses represent a commercial risk to the group. 
+The risk is mitigated by a very structured approach to 
+the integration process using a detailed project plan, 
+dedicated teams and careful monitoring of performance 
+post acquisition.
+“Consolidate and develop”
+The company’s critical external relationships are with its 
+major customers and its major suppliers.
+The company’s customer base is diverse with no single 
+customer accounting for more than 12% (2007:15%) of 
+revenues, and the top 10 customers accounting for 40% 
+(2007:42%) of the total net revenues.
+The company maintains its relationships with its customers 
+through the efforts of its sales force, including key 
+account managers.
+The principal market risks are that the current slowdown 
+in the demand for new hardware may continue, 
+competition may reduce the company’s market share and 
+margins.
+In order to mitigate these market risks, the group 
+constantly monitors the market through its own sales 
+force, by attendance at industry groups and monitoring 
+of competitors. This information enables us to make 
+informed decisions about where the sales force should be 
+targeted and informs our discussions with suppliers.
+The principal operational risks are that key management 
+may leave, that unfavourable economic or business 
+conditions may adversely disrupt operations, or a major 
+failure may occur at one of the network operation 
+centres.
+In order to mitigate these operational risks, the group 
+aims to create a rewarding working environment that 
+will attract staff by offering competitive salaries and 
+benefits, structured career paths, tailored training and 
+by encouraging free thinking and innovation. The group 
+prepares recovery plans for most foreseeable situations 
+so that our business operations would continue should a 
+major failure occur.
+Commercial relationships
+The principal risks around our commercial relationships are 
+that some of our products utilise software licensed to us 
+by independent, third-party software developers. We also 
+depend on third parties to enhance their current products, 
+to develop new products on a timely and cost-effective 
+basis and to respond to rapid technological change. Any 
+absence or failure of key third-party products could have 
+a material effect on our business. To mitigate this risk, 
+we keep under review all key commercial relationships 
+and developments in technology in our marketplace. As 
+well as working with IBM we also work with a number 
+of other partners to mitigate the risk inherent in working 
+with a single partner.
+Financial review
+These results have been prepared under International 
+Financial Reporting Standards (IFRS) as adopted by the EU. 
+These are the first full financial statements to be prepared 
+under IFRS. The impact of this on previously reported 
+numbers and an explanation of the main accounting 
+policy differences between UK GAAP and IFRS are shown 
+in note 31.
+The layout used in the statutory numbers is prescribed 
+by IFRS. In order to highlight numbers that management 
+consider important and that management use to manage 
+the business, the table below has been prepared in order 
+to show the relationship between the statutory accounts 
+and those numbers referred to in this review.
+c99861Book.indb   6 11/2/09   13:18:03 06 Xploite plc Annual Report 2008  Annual Report 2008 Xploite plc 07
+Sales and gross margin
+  2008   2007
+ Continuing Discontinued Total Continuing Discontinued Total 
+ £’000 £’000 £’000 £’000 £’000 £’000
+Sales 46,315 1,692 48,007 28,927 2,300 31,227
+Cost of sales (33,690) (395) (34,085) (22,641) (1,326) (23,967)
+Gross margin 12,625 1,297 13,922 6,286 974 7,260
+ 27% 77% 29% 22% 42% 23%
+ 
+Total group revenue for the year ended 31 October 2008 was £48.0m which was up 54% on 2007 reflecting the larger 
+revenues from the four new businesses acquired in the previous financial year. Overall gross margin has improved from 
+23% to 29%. Gross margin for continuing businesses has grown from 22% to 27%.
+In the medium term, the board expects that the anticipated change in the mix of sales i.e. greater proportion of service 
+sales compared to hardware sales with a resultant improvement in overall margin. Furthermore, the board expects 
+the revenue visibility of the operating business to improve as a consequence of the move towards long term customer 
+contracts and away from lower margin, one-off hardware sales.
+Adjusted* EBITDA and profit for the year
+  2008   2007
+ Continuing Discontinued Total Continuing Discontinued Total 
+ £’000 £’000 £’000 £’000 £’000 £’000
+Adjusted* EBITDA  3,733 583 4,316 697 564 1,261
+Less depreciation (1,069) (27) (1,096) (516) (5) (521)
+Adjusted EBITA  2,664 556 3,220 181 559 740
+Less amortisation (1,896) (281) (2,177) (536) – (536)
+Adjusted EBIT  768 275 1,043 (355) 559 204
+Integration and strategic costs (1,204) (52) (1,256) (171) – (171)
+Operating (loss)/profit (436) 223 (213) (526) 559 33
+Net finance (costs)/income (641) – (641) 225 – 225
+Gain on disposal – 1,112 1,112 – (20) (20)
+(Loss)/profit before tax (1,077) 1,335 258 (301) 539 238
+Taxation credit on disposal – 470 470 – (42) (42)
+Tax on ordinary activities 741 72 813 51 – 51
+Total tax 741 542 1,283 51 (42) 9
+Total (loss)/profit for the year (336) 1,877 1,541 (250) 497 247
+ 
+* Adjusted for integration and strategic costs. These costs are added back by management to enable an understanding 
+of the underlying profitability of the businesses.
+The total adjusted EBITDA for the year increased by 231% from £1.3m to £4.3m, while adjusted EBITA was up 335% 
+from £0.7m to £3.2m. Integration and strategic costs, which relate to restructuring and reorganising the acquisitions 
+into one coherent operation, increased from £0.2m to £1.3m.
+During October 2008, the group disposed of a part of the Itheon business and realised a pre tax profit of £1.1m. This 
+also resulted in a release of a deferred tax provision of £0.5m.
+After net finance costs of £0.6m, the Group reported an adjusted pretax profit of £1.6m (2007: £0.4m) and an actual 
+pre-tax profit of £0.3m (2007: £0.2m).
+The total taxation credit for the year of £1.3m is shown in three places, the first as a credit of £0.5m relating to the 
+profit on sale of Itheon, the second as credit on the trading profit of the discontinued operation of £0.1m and finally a 
+credit on ordinary activities of £0.7m. £1.0m of these credits relate to the release of deferred tax provisions.
+c99861Book.indb   7 11/2/09   13:18:03 08 Xploite plc Annual Report 2008  Annual Report 2008 Xploite plc 09
+Business and finanCial review continued
+Earnings per share (EPS)
+  2008   2007
+ Continuing Discontinued Total Continuing Discontinued Total 
+ £’000 £’000 £’000 £’000 £’000 £’000
+(Loss)/profit attributable to 
+equity holders  (336) 1,877 1,541 (250) 497 247
+Adjustments:
+Amortisation of intangible assets 1,896 281 2,177 536 – 536
+Integration and strategic costs 1,204 52 1,256 171 – 171
+Earnings (adjusted
+and before amortisation)  2,764 2,210 4,974 457 497 954
+ 
+ Pence Pence Pence Pence Pence Pence
+Basic earnings per share  (0.87) 4.85 3.98 (0.64) 1.27 0.63
+Earnings per share (adjusted
+and before amortisation)  7.14 5.71 12.85 1.17 1.27 2.43
+ 
+Earnings per share (adjusted and before amortisation) was up 428% from 2.43p per share to 12.85p per share. 
+Reported basic earnings per share was up 532% from 0.63p to 3.98p.
+The Board believes that retention and re-investment of capital will be beneficial for shareholders and, accordingly, will 
+not be paying a dividend.
+Cash flow
+Net cash generated from operations was £2.2m (2007: £5.8m). The main elements of the 2008 cash generated from 
+operations is adjusted EBITDA of £4.3m less integration and strategic costs of £1.3m and increased working capital 
+requirements of approximately £0.8m.
+As at 31 October 2008 the Group’s net debt was £0.2m of which £5.1m was bank debt. Included within the net debt 
+figures is £2.2m received on the disposal of Itheon.
+Balance sheet
+At 31 October 2008 the Group had total shareholders equity of £17.4m, an increase of £1.7m on the previous year.
+No additional equity has been raised in the year. The Group has financed its operations by increasing bank borrowings 
+by £2.6m, by realising a gain on disposal of Itheon of £1.1m and judiciously managing working capital.
+c99861Book.indb   8 11/2/09   13:18:03 08 Xploite plc Annual Report 2008  Annual Report 2008 Xploite plc 09
+Key Performance Indicators (KPIs)
+The Board is focussed on a number of KPIs that are used to measure performance.
+The Group’s performance against these metrics were as follows:
+a.) Financial measures
+Growth in recurring revenues  – increased 2007 service based revenues by £12.4m (119%)
+Growth in total gross margin  – increase on 2007 by £6.6m (90%)
+  – actual margin improvement from 23% in 2007 to 29% in 2008
+Growth in total adjusted EBITDA  – increase on 2007 by £3.0m (231%)
+Growth in total adjusted EBITA  – increase on 2007 by £2.5m (357%)
+Earnings per share (adjusted
+and before amortisation)  – increase on 2007 by 10.42p (429%)
+IRR on business sold – 51% from the sale of part of the Itheon business
+b.) Commercial measures
+Total value of annuity revenue contracts signed: £14m
+Performance against service level agreements for availability of servers – 99.9%. The target for this is 99% per the 
+contractual customer relationships.
+Group prospects and future developments
+Demand for managed services in both the public and private sector is increasing as organisations look to third parties 
+with the necessary specialist skills and scale to implement and host key applications on a cost effective basis. The Board 
+expects the demand for the Group’s services to increase as more companies recognise the benefits of having their data 
+networks actively managed by a third party.
+c99861Book.indb   9 11/2/09   13:18:03 10 Xploite plc Annual Report 2008  Annual Report 2008 Xploite plc 11
+direCtors’ report The directors present their annual report on the affairs of 
+the company and the group, together with the audited 
+financial statements and the independent auditors’ report 
+for the year ended 31 October 2008 in accordance with 
+International Financial Reporting Standards (IFRS) as 
+adopted by the EU for the first time.
+Results and dividends
+The trading results for the year and the group and 
+company’s financial position at the end of the year are 
+shown in the attached financial statements.
+The directors do not recommend the payment of a 
+dividend (2007: £Nil).
+Business review and future developments
+The requirements of the business review have been 
+considered within the chairman’s statement, the chief 
+executive’s review and business and financial reviews on 
+pages 5 to 9.
+Principal activities
+The principal activity of the group is the acquisition, 
+consolidation and development of businesses in the IT 
+services sector.
+During the year the group was engaged in three areas of 
+the IT services industry. The provision of managed services, 
+the sale of IT hardware and the sale of software.
+Details of the business activities and disposals made 
+during the year can be found in the business review 
+on pages 5 to 9 and in note 25 to the group financial 
+statements.
+Changes in share capital
+There were no changes in share capital during the year. 
+In 2007, 1,311,338 ordinary shares of 10p each, totalling 
+£131,134 were issued.
+Post balance sheet events
+For details of post balance sheet events refer to note 30 
+(group), note 10 (company).
+Going concern
+On the basis of current financial projections, the directors 
+consider that the group has adequate resources to 
+continue in operational existence for the foreseeable 
+future. For this reason, they continue to adopt the going 
+concern basis in preparing the financial statements.
+Return of capital to shareholders
+During 2007 (on 22 November 2006), Xploite plc received 
+approval from the High Court to return money to the 
+shareholders by way of a capital reduction. As approved 
+by the shareholders’ resolution, the company’s share 
+premium account was reduced by approximately £10.5 
+million, and shareholders received 26.78p per share from 
+the company.
+Policy for payment of creditors
+The company’s policy, which is also applied to the 
+group, is to agree terms and conditions for its business 
+transactions with suppliers and endeavour to make 
+payment to these terms, subject to the terms and 
+conditions being met by suppliers. The company does not 
+follow a specific code or standard of payment practice.
+At 31 October 2008 the company’s main suppliers, in 
+respect of continuing activities, had an average of 38 days 
+(2007: 45 days) purchases outstanding in trade payables.
+At 31 October 2008 the group’s main suppliers, in respect 
+of continuing activities, had an average of 87 days (2007: 
+103 days) purchases outstanding in trade payables.
+Employees
+The group places considerable value on the involvement 
+of its employees and has continued its practice of keeping 
+them informed of matters affecting them as employees 
+and the various factors affecting the performance of the 
+group.
+The directors recognise that continued and sustained 
+improvement in the performance of the group depends 
+on its ability to attract, motivate and retain employees of 
+the highest calibre. Furthermore, the directors believe that 
+the group’s ability to sustain a competitive advantage over 
+the long term depends in a large part on ensuring that all 
+employees contribute to the maximum of their potential. 
+The group is committed to improving the performance of 
+all employees through development and training.
+The group is an equal opportunity employer. The 
+group’s policies seek to promote an environment free 
+from discrimination, harassment and victimisation and 
+to ensure that no employee or applicant is treated less 
+favourably on the grounds of gender, marital status, 
+age, race, colour, nationality or national origin, disability 
+or sexual orientation or is disadvantaged by conditions 
+or requirements, which cannot objectively be justified. 
+Entry into, and progression within the group, is solely 
+determined on the basis of work criteria and individual 
+merit.
+The group continues to give full and fair consideration to 
+applications for employment made by disabled persons, 
+having regard to their respective aptitudes and abilities. 
+c99861Book.indb   10 11/2/09   13:18:03 10 Xploite plc Annual Report 2008  Annual Report 2008 Xploite plc 11
+The policy includes, where practicable, the continued 
+employment of those who may become disabled during 
+their employment and the provision of training and career 
+development and promotion, where appropriate.
+Research and development
+The group has carried out research and development in 
+its software division. A specific research and development 
+project for 2008 was the development of the SRA 
+software. £327,000 of this expenditure has been 
+capitalised. In 2008 and 2007 expenditure was incurred 
+on maintaining current software products. All of this 
+expenditure is charged to the profit and loss account as it 
+is incurred.
+Donations
+The group and company did not make any donations in 
+the year (2007: Nil).
+Directors and their interests
+The directors who served the company during the year 
+and to the date of signing the financial statements were 
+as follows:
+A I Smith 
+A C Weaver 
+R Arrowsmith 
+J Standen 
+R Ramsay
+The company’s Articles of Association require that all 
+directors appointed during the year retire at the AGM 
+and offer themselves for election. In addition, one third 
+of the directors must retire and may offer themselves 
+for re-election. A I Smith and A C Weaver are offering 
+themselves for re-election this year.
+Substantial interests
+The directors have been notified of the following 
+substantial shareholdings in excess of 3% of the ordinary 
+share capital of the Company as at 19 January 2009.
+ No of ordinary shares Percentage
+A I Smith 7,656,233 19.37%
+Herald Investment Trust 2,700,000 6.83%
+A C Weaver 2,003,500 5.07%
+BP2S Jersey 1,450,000 3.67%
+ 
+Except as referred to above, the directors are not aware of 
+any person as at 31 October 2008 who was interested in 
+3.0% or more of the issued share capital of the company 
+or could directly or indirectly, jointly or severally, exercise 
+control.
+Statement of directors’ responsibilities in respect of 
+the Annual Report and the financial statements
+The directors are responsible for preparing the Annual 
+Report and the group and parent company financial 
+statements in accordance with applicable law and 
+regulations.
+Company law requires the directors to prepare financial 
+statements for each financial year. Under that law the 
+Directors have prepared the group financial statements 
+in accordance with International Financial Reporting 
+Standards (IFRSs) as adopted by the European Union, and 
+the parent company financial statements in accordance 
+with applicable law and United Kingdom Accounting 
+Standards (United Kingdom Generally Accepted 
+Accounting Practice). The group and parent company 
+financial statements are required by law to give a true 
+and fair view of the state of affairs of the company and 
+the group and of the profit or loss of the group for that 
+period.
+In preparing those financial statements, the Directors are 
+required to:
+•		 	 select	suitable	accounting	policies	and	then	apply	them	
+consistently;
+•		 	 make	judgements	and	estimates	that	ar e	r easonable	
+and prudent;
+•	 	 state	that	the	gr oup	financial	statements	comply	with	
+IFRSs as adopted by the European Union and with 
+regard to the parent company financial statements 
+that applicable UK Accounting Standards have been 
+followed, subject to any material departures disclosed 
+and explained in the financial statements; and
+•	 	 pr epar e	the	gr oup	and	company	financial	statements	
+on the going concern basis unless it is inappropriate 
+to assume that the group will continue in business, in 
+which case there should be supporting assumptions or 
+qualifications as necessary.
+The directors confirm that they have complied with the 
+above requirements in preparing the financial statements.
+The directors are responsible for keeping proper 
+accounting records which disclose with reasonable 
+accuracy at any time the financial position of the company 
+and the group and to enable them to ensure that the 
+group financial statements comply with the Companies 
+Act 1985 and Article 4 of the IAS Regulation and the 
+parent company financial statements comply with the 
+Companies Act 1985. They are also responsible for 
+safeguarding the assets of the company and the group 
+and hence for taking reasonable steps for the prevention 
+and detection of fraud and other irregularities.
+c99861Book.indb   11 11/2/09   13:18:03 12 Xploite plc Annual Report 2008  Annual Report 2008 Xploite plc 13
+direCtors’ report continued
+The directors are responsible for the maintenance and 
+integrity of the website. Legislation in the UK concerning 
+the preparation and dissemination of financial statements 
+may differ from legislation in other jurisdictions.
+Principal risks and uncertainties
+Economic uncertainty, together with a general maturing 
+of the IT industry, has meant customers are now closely 
+scrutinising the value that IT brings to their business. 
+This has resulted in IT budgets being curtailed or more 
+rigorously reviewed. Compelling business reasons are 
+now required to release funds for expenditure. Thus, 
+competition for these budgets is increasingly fierce.
+As the group is involved in buying and selling companies 
+there is a risk that the price paid or received for a business 
+is not appropriate. When buying or selling businesses, the 
+group will involve their professional advisors at each stage 
+of the process.
+For further details on principal risks and uncertainties, 
+refer to the Business and financial review on pages 5 to 9.
+Financial instruments
+Financial risk management objectives and policies
+During the year the group’s principal financial instruments 
+have been long term debt, bank overdrafts and cash. The 
+main purpose of these financial instruments is to raise 
+finance for the group’s operations. The group has various 
+other financial instruments such as trade receivables, trade 
+payables which arise directly from its operations.
+The main risks arising from the group’s financial 
+instruments have been interest rate risk, liquidity risk and 
+credit risk and price risk. The board reviews and agrees 
+policies for managing each of these risks and they are 
+summarised below.
+Cash flow and interest rate risk
+The group’s income and operating cash flows are 
+substantially independent of changes in market interest 
+rates.
+The group’s exposure to risk for changes in interest rates 
+related primarily to the group’s long-term debt and 
+overdraft obligations. Bank loan and overdraft interest 
+is charged on a variable rate basis. The group’s bank 
+facilities are on a pooled basis and therefore interest is 
+only payable/receivable on the net position.
+The interest on finance leases is charged on a fixed rate 
+basis.
+The group analyses its variable interest rate exposure on 
+an active basis. The board regularly considers whether it 
+would be appropriate to hedge the interest rate risk but 
+has not deemed it necessary during the 2008 financial 
+year.
+Credit risk
+The group trades only with recognised, creditworthy 
+third parties and independent credit checks and credit 
+limits are managed by the trading entities. Credit limits 
+can only be exceeded if authorised by the Xploite board. 
+Receivable balances are monitored on an ongoing basis 
+with the result that the group’s exposure to bad debts is 
+not significant.
+There are no significant concentrations of credit risk 
+within the group.
+Liquidity risk
+The group’s objective is to maintain sufficient funds to 
+support the ongoing strategic and trading activities of the 
+group. The detailed forecasting is carried out at local level 
+in the operating companies of the group. This is combined 
+into a group cash flow forecast. The group forecasts are 
+compared to available facilities to ensure that sufficient 
+headroom is anticipated and that covenants are not 
+breached.
+Capital risk management
+The group’s objectives when managing capital are to 
+safeguard the group’s ability to continue as a going 
+concern in order to provide returns for shareholders and 
+benefits for other stakeholders and to maintain an optimal 
+capital structure to reduce the cost of capital.
+In order to maintain or adjust the capital structure, the 
+group may adjust the amount of return of capital and 
+dividends paid to shareholders, issue new shares or sell 
+assets/businesses to reduce debt. The group monitors 
+capital on the basis of the gearing ratio.
+Price risk
+The main price risk that the group is exposed to is 
+changes in the price of third party hardware and software 
+that it uses in the solutions it supplies to customers. When 
+quoting for business the group always obtains fixed price 
+quotations from suppliers before submitting a price to the 
+customer.
+Qualifying third party indemnity provision.
+There were no third party indemnity provisions in place 
+for any of the directors during the year or at the date of 
+approval of the financial statements.
+c99861Book.indb   12 11/2/09   13:18:03 12 Xploite plc Annual Report 2008  Annual Report 2008 Xploite plc 13
+Auditors and disclosure of information to auditors
+•	 	 so	far	as	each	dir ector	is	awar e,	ther e	is	no	r elevant	
+audit information of which the company’s auditors are 
+unaware.
+•	 	 each	dir ector	has	taken	all	the	steps	that	they	ought	to	
+have taken as a director in order to make themselves 
+aware of any relevant audit information and to 
+establish that the company’s auditors are aware of that 
+information.
+Auditors
+In accordance with Section 385 of the 
+Companies Act 1985, a resolution proposing that 
+PricewaterhouseCoopers LLP be re-appointed will be 
+proposed at the Annual General Meeting.
+Annual General Meeting
+Notice of the Annual General Meeting to be held on 
+27 March 2009 is set out in the circular included with this 
+document.
+Signed by order of the board
+Company Secretary
+Approved by the board on
+23 January 2009
+c99861Book.indb   13 11/2/09   13:18:03 14 Xploite plc Annual Report 2008 
+independent auditors’ report to tHe memBers of 
+xploite plC
+We have audited the group financial statements of Xploite 
+plc for the year ended 31 October 2008 which comprise 
+the consolidated income statement, the consolidated 
+balance sheet, the consolidated statement of changes 
+in equity, the consolidated cash flow statement and the 
+related notes. These group financial statements have been 
+prepared under the accounting policies set out therein.
+We have reported separately on the parent company 
+financial statements of Xploite plc for the year ended 
+31 October 2008.
+Respective responsibilities of directors and auditors
+The directors’ responsibilities for preparing the Annual 
+Report and the group financial statements in accordance 
+with applicable law and International Financial Reporting 
+Standards (IFRSs) as adopted by the European Union are 
+set out in the statement of directors’ responsibilities.
+Our responsibility is to audit the group financial 
+statements in accordance with relevant legal and 
+regulatory requirements and International Standards 
+on Auditing (UK and Ireland). This report, including 
+the opinion, has been prepared for and only for the 
+company’s members as a body in accordance with 
+Section 235 of the Companies Act 1985 and for no 
+other purpose. We do not, in giving this opinion, accept 
+or assume responsibility for any other purpose or to any 
+other person to whom this report is shown or into whose 
+hands it may come save where expressly agreed by our 
+prior consent in writing.
+We report to you our opinion as to whether the group 
+financial statements give a true and fair view and 
+whether the group financial statements have been 
+properly prepared in accordance with the Companies Act 
+1985. We also report to you whether in our opinion the 
+information given in the directors’ report is consistent 
+with the group financial statements. The information 
+given in the directors’ report includes that specific 
+information presented in the business and financial review 
+that is cross referred from the business review and future 
+developments section of the directors’ report.
+In addition we report to you if, in our opinion, we have 
+not received all the information and explanations we 
+require for our audit, or if information specified by law 
+regarding directors’ remuneration and other transactions 
+is not disclosed.
+We read the other information contained in the Annual 
+Report and consider whether it is consistent with the 
+audited group financial statements. The other information 
+comprises only the directors’ report, the chairman’s 
+statement, the chief executive’s review and the business 
+and financial review and all of the other information 
+listed on the contents page. We consider the implications 
+for our report if we become aware of any apparent 
+misstatements or material inconsistencies with the group 
+financial statements. Our responsibilities do not extend to 
+any other information.
+Basis of audit opinion
+We conducted our audit in accordance with International 
+Standards on Auditing (UK and Ireland) issued by the 
+Auditing Practices Board. An audit includes examination, 
+on a test basis, of evidence relevant to the amounts 
+and disclosures in the group financial statements. It also 
+includes an assessment of the significant estimates and 
+judgments made by the directors in the preparation 
+of the group financial statements, and of whether 
+the accounting policies are appropriate to the group’s 
+circumstances, consistently applied and adequately 
+disclosed.
+We planned and performed our audit so as to obtain all 
+the information and explanations which we considered 
+necessary in order to provide us with sufficient evidence 
+to give reasonable assurance that the group financial 
+statements are free from material misstatement, whether 
+caused by fraud or other irregularity or error. In forming 
+our opinion we also evaluated the overall adequacy of 
+the presentation of information in the group financial 
+statements.
+Opinion
+In our opinion:
+•	 	 the	gr oup	financial	statements	give	a	true	and	fair	
+view, in accordance with IFRSs as adopted by the 
+European Union, of the state of the group’s affairs as at 
+31 October 2008 and of its profit and cash flows for the 
+year then ended;
+•	 	 the	gr oup	financial	statements	have	been	pr operly	
+prepared in accordance with the Companies Act 1985; 
+and
+•	 	 the	information	given	in	the	dir ectors’	r eport	is	
+consistent with the group financial statements.
+PricewaterhouseCoopers LLP
+Chartered Accountants and Registered Auditors 
+Gatwick
+25 January 2009
+c99861Book.indb   14 11/2/09   13:18:03  Annual Report 2008 Xploite plc 15
+Consolidated inCome statement Year ended 31 October 2008
+    2008 2007 
+   Notes £’000 £’000
+Revenue   5 46,315 28,927
+Cost of sales    (33,690) (22,641)
+Gross profit    12,625 6,286
+Administrative expenses    (13,061) (6,812)
+Adjusted* EBITDA    3,733 697
+Less: depreciation    (1,069) (516)
+Adjusted EBITA    2,664 181
+Less: amortisation and impairment of intangibles    (1,896) (536)
+Less: integration and strategic costs   22 (1,204) (171)
+Operating loss    (436) (526)
+Finance income    147 327
+Finance costs    (788) (102)
+Finance (costs)/income – net   23 (641) 225
+Loss before tax    (1,077) (301)
+Tax credit   24 741 51
+Loss for the year from continuing operations    (336) (250)
+Discontinued operations
+Profit for the year from discontinued operations   5 1,877 497
+Profit for the year attributable to equity shareholders    1,541 247
+ 
+Earnings per ordinary share   26
+– basic    3.98 0.63
+– diluted    3.88 0.59
+Earnings per ordinary share from continuing operations  26
+– basic    (0.87) (0.64)
+– diluted    (0.87) (0.64)
+*  Adjusted for integration and strategic costs (note 22)
+c99861Book.indb   15 11/2/09   13:18:03 16 Xploite plc Annual Report 2008  Annual Report 2008 Xploite plc 17
+Consolidated BalanCe sHeet As at 31 October 2008
+    2008 2007 
+   Notes £’000 £’000
+Assets
+Non-current assets
+Intangible assets   6 29,432 33,259
+Property, plant and equipment   7 2,496 1,809
+Deferred tax assets   16 188 371
+Trade and other receivables   9 6,259 2,847
+Deferred consideration on disposals   10 – 35
+    38,375 38,321
+Current assets
+Inventories   11 – 20
+Trade and other receivables   9 15,077 14,493
+Deferred consideration on disposals   10 1,120 –
+Cash and cash equivalents   12 7,749 4,225
+    23,946 18,738
+Liabilities
+Current liabilities
+Trade and other payables   13 (23,765) (26,739)
+Deferred consideration on acquisitions   14 (3,119) –
+Current tax liabilities    (1,323) (908)
+Borrowings   15 (2,247) (395)
+    (30,454) (28,042)
+Non-current liabilities
+Borrowings   15 (5,656) (2,978)
+Trade and other payables   13 (6,531) (3,667)
+Deferred tax liabilities   16 (2,312) (3,501)
+Deferred consideration on acquisitions   14 – (3,183)
+    (14,499) (13,329)
+Net assets    17,368 15,688
+ 
+Shareholders’ equity
+Called up share capital   17 3,952 3,952
+Share premium account   17 1,647 1,647
+Merger reserve   18 3,511 3,511
+Retained earnings   18 7,928 6,387
+Share based payment reserve   18 330 191
+Total shareholders’ equity    17,368 15,688
+The financial statements on pages 15 to 58 were approved and authorised for issue by the Board on 23 January 2009 
+and signed on its behalf by
+A I Smith 
+Director
+c99861Book.indb   16 11/2/09   13:18:03 16 Xploite plc Annual Report 2008  Annual Report 2008 Xploite plc 17
+Consolidated statement of CHanges in equity
+Year ended 31 October 2008
+    2008 2007 
+    £’000 £’000
+Shareholders’ equity at beginning of year    15,688 25,251
+Profit for the year    1,541 247
+Increase in share based payment reserve    139 94
+Shares issued in the year    – 132
+Share premium on shares issue in the year    – 33
+Issue of new shares on acquisition of subsidiary    – 243
+Capital reduction    – (10,312)
+Shareholders’ equity at end of year    17,368  15,688
+c99861Book.indb   17 11/2/09   13:18:03 18 Xploite plc Annual Report 2008  Annual Report 2008 Xploite plc 19
+Consolidated CasH flow statement Year ended 31 October 2008
+    2008 2007 
+   Notes £’000 £’000
+Cash flows from operating activities
+Cash generated from operations   (a) 2,184 5,796
+Interest received    87 327
+Interest paid    (502) (102)
+Tax received/(paid)    666 (615)
+Net cash inflows from operating activities    2,435 5,406
+Cash flows from investing activities
+Acquisition of subsidiaries (net of cash acquired)    (123) (18,590)
+Deferred consideration paid on prior period acquisitions    – (1,871)
+Disposal of subsidiaries (net of cash disposed)   25 1,875 252
+Deferred consideration received on prior period disposals    – 5,875
+Purchase of intangible assets    (669) –
+Purchase of property, plant and equipment    (597) (347)
+Proceeds from sale of property, plant and equipment    – 70
+Available for sale investments    – 2,000
+Net cash flows from/(used in) investing activities    486 (12,611)
+Cash flows from financing activities
+Net proceeds from issue of ordinary share capital    – 63
+Capital repayment – reduction in share premium    – (10,312)
+Net proceeds from issue of bank loan    2,970 2,500
+Finance lease principal payments    (2,015) (246)
+Repayment of borrowings    (352) (855)
+Net cash from/(used in) financing activities    603 (8,850)
+Net increase/(decrease) in cash and cash equivalents     3,524 (16,055)
+Cash and cash equivalents at start of year    4,225 20,280
+Cash and cash equivalents at end of year   (b) 7,749  4,225
+c99861Book.indb   18 11/2/09   13:18:04 18 Xploite plc Annual Report 2008  Annual Report 2008 Xploite plc 19
+notes to tHe Consolidated CasH flow statement (a) Cash generated from operations
+    2008 2007 
+    £’000 £’000
+Continuing operations
+Loss before tax    (1,077) (301)
+Adjustments for:
+Finance cost/(income) – net    641 (225)
+Depreciation    1,069 516
+Amortisation     1,896 536
+Share based payment charge    139 94
+Decrease in inventories    20 35
+Increase in trade and other receivables    (4,222) (6,465)
+Increase in trade and other payables    3,461 10,828
+Cash generated from continuing operations    1,927 5,018
+Discontinued operations
+Profit before tax    223 539
+Adjustments for:
+Depreciation    27 5
+Amortisation    281 –
+Decrease in inventories    – 487
+(Increase)/decrease in trade and other receivables    (432) 1,032
+Increase/(decrease) in trade and other payables    158 (1,285)
+Cash generated from discontinued operations    257 778
+Cash generated from operations    2,184 5,796
+(b) Reconciliation of net cash flow to movement in net (debt)/funds
+    2008 2007 
+    £’000 £’000
+Increase/(decrease) in cash in the year    3,524 (16,055)
+Net cash inflow in respect of bank loan    (2,618) (1,645)
+Cash outflow in respect of finance leases    2,015  246
+Changes resulting from cash flows    2,921 (17,454)
+Non cash changes:
+Loans and finance leases acquired with subsidiaries    – (1,400)
+Amortisation of loan interest costs    (12) –
+New finance leases    (3,915)  (547)
+Change in net debt    (1,006) (19,401)
+Net funds at beginning of period    852 20,253
+Net (debt)/funds at end of period    (154)  852
+Analysis of net (debt)/funds
+Cash and cash equivalents and bank overdrafts    7,749 4,225
+Hire purchase and finance lease obligations    (2,798) (898)
+Bank loan    (5,105) (2,475)
+Net (debt)/funds    (154) 852
+Cash and cash equivalents
+Cash at bank and in hand    7,749 4,225
+c99861Book.indb   19 11/2/09   13:18:04 20 Xploite plc Annual Report 2008  Annual Report 2008 Xploite plc 21
+notes to tHe finanCial statements For the year ended 31 October 2008
+1 General information
+Xploite plc (‘the company’) and its subsidiaries (together ‘the group’) identify, acquire, consolidate and develop 
+businesses in the IT services sector. The Board’s aim is to create shareholder value by acquiring businesses with good 
+strategic fit. These are then integrated and consolidated into existing operations. Costs are reduced through the 
+efficient deployment of people and processes and technologies, and recurring revenue streams developed. Disposals are 
+considered by the Board to realise value where appropriate.
+The company is a public limited company which is listed on the AIM London Stock Exchange and is incorporated and 
+domiciled in the UK.
+The address of its registered office is 100 Fetter Lane, London, EC4A 1BN. The registered number of the company is 
+3897926.
+The group’s business activities, together with the factors likely to affect its future development, performance and 
+position are set out in the business and financial review on pages 5 to 9. The financial position of the group, its cash 
+flows, liquidity position and borrowing facilities are also described in the business and financial review. In addition, note 
+3 to the financial statements includes the group’s objectives and policies and processes for managing its financial risk 
+factors, and its capital risk management . It also includes details of its financial instruments and its exposures to credit, 
+interest rate, liquidity and price risk.
+As highlighted in note 15 to the financial statements, the group meets its day to day working capital requirements 
+through an overdraft facility which is due for renewal in October 2009. The current economic conditions create some 
+uncertainty particularly over (a) the level of demand for the group’s products and (b) the availability of bank finance in 
+the foreseeable future.
+The group’s forecasts and projections, taking account of reasonably possible changes in trading performance, show that 
+the group should be able to operate within the level of its current facility. The group will open renewal negotiations 
+with the bank in due course and has at this stage not sought any written commitment that the facility will be renewed. 
+However, the group has held discussion with its bankers about its future borrowing needs and no matters have been 
+drawn to its attention to suggest that renewal may not be forthcoming on acceptable terms.
+2 Summary of significant accounting policies
+The principal accounting policies applied in the preparation of these consolidated financial statements are set out 
+below.
+Application of IFRS 1: First time adoption of International Accounting Standards
+The Group is preparing its financial statements in accordance with IFRS as adopted by the European Union for the 
+first time and consequently has applied IRFS 1 First-time Adoption of International Financial Reporting Standards. The 
+Group’s transition date is 1 November 2006.
+IFRS 1 First time adoption of International Financial Reporting Standards sets out the transition rules, which must be 
+applied, when IFRS is adopted for the first time. The standard sets out certain mandatory exemptions to retrospective 
+application and certain optional exemptions. The optional exemptions available and taken by the Group are as follows:
+–  Deemed cost; the Group has taken the exemption not to restate individual items of property plant and equipment to 
+fair value at the date of transition.
+–  Business combinations; the Group adopted the business combination exemption in IFRS 1. It has not restated business 
+combinations that took place prior to the 1 November 2006 transition date.
+c99861Book.indb   20 11/2/09   13:18:04 20 Xploite plc Annual Report 2008  Annual Report 2008 Xploite plc 21
+2 Summary of significant accounting policies continued
+Basis of preparation
+The consolidated financial statements of Xploite plc have been prepared in accordance with International Financial 
+Reporting Standards as adopted by the European Union (IFRSs as adopted by the EU), IFRIC interpretations and the 
+Companies Act 1985 applicable to companies reporting under IFRS. The consolidated financial statements have been 
+prepared under the historical cost convention, as modified for any financial assets which are stated at fair value through 
+profit or loss.
+The preparation of financial statements in conformity with IFRS requires the use of certain critical accounting estimates. 
+It also requires management to exercise its judgement in the process of applying the group’s accounting policies. The 
+areas involving a higher degree of judgement or complexity, or areas where assumptions and estimates are significant 
+to the consolidated financial statements are disclosed in note 4.
+(a) Standards, amendment and interpretations effective in 2008
+IFRS 7, ‘Financial instruments: Disclosures’, and the complementary amendment to IAS 1, ‘Presentation of financial 
+statements – Capital disclosures’, introduces new disclosures relating to financial instruments and does not have any 
+impact on the classification and valuation of the group’s financial instruments, or the disclosures relating to taxation 
+and trade and other payables.
+(b) Interpretation early adopted by the group and company
+IFRS 8, ‘Operating segments ‘ has been early adopted by the group. The new standard requires a ‘management 
+approach’, under which segment information is presented on the same basis as that used for internal reporting 
+purposes.
+(c) Standards, amendments and interpretations effective in 2008 but not relevant
+The following standards, amendments and interpretations to published standards are mandatory for accounting periods 
+beginning on or after 1 January 2007 but they are not relevant to the group or company’s operations:
+Revised guidance on implementing IFRS 4, ‘Insurance contracts’.
+IFRIC 11, ‘IFRS 2 – Group and treasury share transactions’, provides guidance on whether share-based transactions 
+involving treasury shares or involving group entities (for example, options over a parent’s shares) should be accounted 
+for as equity-settled or cash-settled share-based payment transactions in the stand-alone accounts of the parent and 
+group companies. This interpretation does not have an impact on the group’s financial statements. The company’s 
+accounting policy for share based compensation arrangements is already in compliance with the interpretation.
+(d)  Standards, amendments and interpretations to existing standards that are not yet effective and have not been early 
+adopted by the group and company
+The following standards, amendments and interpretations to existing standards have been published and are 
+mandatory for the group’s accounting periods beginning on or after 1 November 2008 or later periods, but the group 
+and company have not early adopted them:
+IAS 23 (Amendment), ‘Borrowing costs’ (effective from 1 November 2009). The amendment to the standard is still 
+subject to endorsement by the European Union. It requires an entity to capitalise borrowing costs directly attributable 
+to the acquisition, construction or production of a qualifying asset (one that takes a substantial period of time to get 
+ready for use or sale) as part of the cost of that asset. The option of immediately expensing those borrowing costs will 
+be removed. The group will apply IAS 23 (Amended) from 1 January 2009, subject to endorsement by the EU but is 
+currently not applicable to the group or company as there are no qualifying assets.
+c99861Book.indb   21 11/2/09   13:18:04 22 Xploite plc Annual Report 2008 
+notes to tHe finanCial statements continued
+For the year ended 31 October 2008
+ Annual Report 2008 Xploite plc 23
+2 Summary of significant accounting policies continued
+IFRS 2 (amendment), ‘Share-based payment’ (effective from 1 November 2009). The amendment to the standard is still 
+subject to endorsement by the EU. It deals with vesting conditions and cancellations. It clarifies that vesting conditions 
+are service conditions and performance conditions only. Other features of a share-based payment are not vesting 
+conditions. These features would need to be included in the grant date fair value for transactions with emloyees and 
+others providing similiar services; they would not impact the number of awards expected to vest or valuation there 
+of subsequent to grant date. All cancellations, whether by the entity or by other parties, should receive the same 
+accounting treatment. The group and company will apply IFRS 2 (amendment) from 1 November 2009, subject to 
+endorsement by the EU. It is not expected to have a material impact on the group or company’s financial statements.
+IFRS 3 (revised), ‘Business combinations’ (effective from 1 November 2009). The revised standard is still subject to 
+endorsement by the EU. The revised standard continues to apply the acquisition method to business combinations, 
+with some significant changes. For example, all payments to purchase a business are to be recorded at fair value at the 
+acquisition date, with contingent payments classified as debt subsequently re-measured through the income statement. 
+There is a choice on an acquisition-by-acquisition basis to measure the non-controlling interest in the acquiree either at 
+fair vale or at the non-controlling interest’s proportionate share of the acquiree’s net assets. All acquisition-related costs 
+should be expensed. The group will apply IFRS 3 (revised) prospectively to all business combinations from 1 November 
+2010, subject to endorsement by the EU.
+IFRIC 12, Service Concession Arrangements (effective from 1 November 2008). IFRIC 12 sets out general principles 
+on recognising and measuring the obligations and related rights in service concession arrangements. IFRIC 12 is not 
+relevant to the company’s or group’s operations.
+IFRIC 13, ‘Customer loyalty programmes’ (effective from1 November 2008). IFRIC 13 clarifies that where goods 
+or services are sold together with a customer loyalty incentive (for example, loyalty points or free products), the 
+arrangement is a multiple-element arrangement, and the consideration receivable from the customer is allocated 
+between the components of the arrangement using fair values. IFRIC 13 is not relevant to the group or company’s 
+operations because none of the group’s companies operate any loyalty programmes.
+IFRIC 14, ‘IAS 19 – The limit on a defined benefit asset, minimum funding requirements and their interaction’ (effective 
+from 1 November 2008 2008). IFRIC 14 provides guidance on assessing the limit in IAS 19 on the amount of the 
+surplus that can be recognised as an asset. It also explains how the pension asset or liability may be affected by a 
+statutory or contractual minimum funding requirement. IFRIC 12 is not relevant to the group or company’s operations.
+IFRIC 15, ‘Agreements for construction of real estates’ (effective from 1 November 2009). The interpretation clarifies 
+whether IAS 18, ‘Revenue’, or IAS 11, ‘Construction contracts’, should be applied to particular transactions. It is likely 
+to result in IAS 18 being applied to a wider range of transactions. IFRIC 15 is not relevant to the group or company’s 
+operations as all revenue transactions are accounted for under IAS 18 and not IAS 11.
+Consolidation
+The results and net assets of all subsidiary undertakings acquired are included in the consolidated income statement 
+and consolidated balance sheet using the acquisition method of accounting from the effective date at which control is 
+obtained by the group. Subsidiary undertakings cease to be consolidated from the date at which the group no longer 
+retains control. Control comprises the power to govern the financial and operating policies of the investee so as to 
+obtain benefits from their activities, and is achieved through direct or indirect ownership of voting rights or by way 
+of contractual agreement. All inter-company balances and transactions are eliminated in full. Accounting policies of 
+subsidiaries are changed where necessary to ensure consistent policies across the group.
+c99861Book.indb   22 11/2/09   13:18:04 22 Xploite plc Annual Report 2008  Annual Report 2008 Xploite plc 23
+2 Summary of significant accounting policies continued
+The cost of an acquisition is measured as the fair value of the assets given, equity instruments issued and liabilities 
+incurred or assumed at the date of exchange, plus costs directly attributable to the acquisition. Where there is deferred 
+consideration payable in cash, the amount is discounted to its present value. The present value of deferred cash 
+consideration is included within the group’s financial statements as a liability. Identifiable assets acquired and liabilities 
+and contingent liabilities assumed in a business combination are measured initially at their fair values at the acquisition 
+date. The excess of the cost of acquisition over the fair value of the group’s share of the identifiable net assets acquired 
+is recorded as goodwill. If the cost of acquisition is less than the fair value of the net assets of the subsidiary acquired, 
+the difference is recognised directly in the income statement.
+Segment reporting
+Operating segments are reported in a manner consistent with the internal reporting provided to the chief operating 
+decision-maker. The chief operating decision-maker has been identified as the board of directors which makes the 
+group’s strategic decisions.
+Foreign currency translation
+(a) Functional and presentation currency
+Items included in the financial statements of each of the group’s entities are measured using the currency of the 
+primary economic environment in which the entity operates (‘the functional currency’). The consolidated financial 
+statements are presented in UK Sterling which is the group’s functional and presentation currency. All of the group’s 
+subsidiaries are based in the UK.
+(b) Transactions and balances
+Foreign currency transactions are translated into the functional currency using the exchange rates prevailing at the 
+dates of the transactions. Foreign exchange gains and losses resulting from the settlement of such transactions and 
+from the translation at year-end exchange rates of monetary assets and liabilities denominated in foreign currencies are 
+recognised in the income statement.
+Revenue recognition
+Revenue comprises the fair value of sales to customers, excluding value added taxes. Revenue is recognised when the 
+risks and rewards of ownership have passed to the customer.
+Revenues from customers are generated through managed services agreements can be made up of a number of 
+revenue streams. The revenues can include hardware, software, maintenance and support.
+The fair value of the revenue for each element of the arrangement is then accounted for in accordance with the policies 
+described below.
+Hardware and software
+Hardware revenue is recognised when the hardware is delivered and accepted by the customer. Software revenue is 
+recognised depending on licensing terms:
+1.  For a licence in perpetuity, where there are no further obligations, the revenue is recognised at the time the licence is 
+delivered.
+2.  For a licence that has a fixed term and there are further obligations the revenue is recognised over the term of the 
+licence.
+c99861Book.indb   23 11/2/09   13:18:04 24 Xploite plc Annual Report 2008 
+notes to tHe finanCial statements continued
+For the year ended 31 October 2008
+ Annual Report 2008 Xploite plc 25
+2 Summary of significant accounting policies continued
+Maintenance and managed services
+Maintenance and managed services revenue is recognised depending on the terms of the maintenance agreement:
+1.  Where the maintenance is sold for a fixed term and there is a continuing performance obligation, then the revenue is 
+deferred and recognised over the term of the agreement.
+2.  Where maintenance is sold for a fixed term and there is a continuing constructive obligation then revenue is deferred 
+and recognised over the term of the agreement.
+3.  For maintenance that is sold on behalf of a third party, and where it can be shown that there is no continuing or 
+constructive obligations then the revenue is recognised at the time of sale.
+Where there are pre contract costs associated with managed services set up, then the costs are capitalised when it is 
+probable that the contract will be obtained. These costs are amortised over the life of the contract and the amortisation 
+charge is charged to cost of sales.
+Long term contracts (with respect to Fujin Technology Trading Ltd – disposed in 2007)
+With longer term contracts where a contract typically covers an initial activity comprising the design, supply, 
+professional services and thereafter the provision of specific support and maintenance service solutions, the contract 
+value is split into a number of elements based on the fair value of each element of the contract.
+The projected outcome of any given contract is necessarily based on the estimates of the revenues and costs to 
+completion. Whilst the assumptions made are based on professional judgements, subsequent events may mean that 
+estimates as calculated prove inaccurate, with a consequent effect on the reporting results.
+Profit is recognised on the percentage of completion basis, provided the outcome of the contract can be reliably 
+measured. Where the percentage completion method cannot be measured reliably, revenue is recognised when 
+specified contractual milestones have been met or on project completion. Full provision is made for estimated losses.
+Fair value attribution
+Where a project involves the invoicing of equipment together with professional services, the recognition of revenue is in 
+accordance with the following:
+Hardware margin – On delivery of the equipment to the customer
+Professional Services – Throughout the duration of the project on a percentage of completion basis
+Deferred costs and deferred revenues
+To the extent that the cost and revenue recognition differs from the contractual billing terms, costs are included in 
+deferred costs or accruals and revenue is included in accrued income or deferred income.
+Gross profit
+Gross profit is calculated by subtracting the cost of goods sold and the salaries of technical staff involved in the delivery 
+of goods and services, from revenue.
+c99861Book.indb   24 11/2/09   13:18:04 24 Xploite plc Annual Report 2008  Annual Report 2008 Xploite plc 25
+2 Summary of significant accounting policies continued
+Integration and strategic costs
+(a) Integration
+Integration costs are incurred by the group when integrating one trading business with another. The type of costs 
+includes staff related costs such as redundancy, property costs such as lease termination penalties and re-branding 
+costs.
+(b) Other strategic costs
+Other strategic costs include costs incurred on sourcing new acquisitions and identifying disposal opportunities which 
+did not take place. The types of cost incurred are third party advisor fees including due diligence.
+Both of the above costs are highlighted separately on the income statement as management believes that they need to 
+be considered separately to gain an understanding of the underlying profitability of the trading businesses.
+Holiday pay
+The group accrues for holiday pay to the extent of what would be paid out if all employees of the group left the 
+business at its reporting date.
+Tax
+Current tax
+Current tax assets and liabilities are measured at the amount expected to be recovered from or paid to the taxation 
+authorities, based on tax rates and laws that are enacted or substantively enacted by the balance sheet date.
+Deferred tax
+Deferred income tax is provided in full, using the liability method, on temporary differences arising between the tax 
+bases of assets and liabilities and their carrying amounts in the consolidated financial statements.
+A deferred tax liability is provided on intangible assets acquired as part of a business combination. This results in an 
+increase in residual goodwill by the same amount. This liability has been recognised in accordance with IAS12, and a 
+proportion will be amortised to the income statement as the related intangible asset is amortised, this liability is only 
+payable if the intangible asset is sold separately and this is not expected to happen.
+Deferred tax is determined using tax rates (and laws) that have been enacted or substantially enacted by the balance 
+sheet date and are expected to apply when the related deferred income tax asset is realised or the deferred income tax 
+liability is settled.
+Deferred tax assets are recognised to the extent that it is probable that future taxable profit will be available against 
+which the temporary differences can be utilised.
+c99861Book.indb   25 11/2/09   13:18:04 26 Xploite plc Annual Report 2008 
+notes to tHe finanCial statements continued
+For the year ended 31 October 2008
+ Annual Report 2008 Xploite plc 27
+2 Summary of significant accounting policies continued
+Intangible assets
+(a) Goodwill
+Goodwill represents the excess of the cost of an acquisition over the fair value of the group’s share of the net 
+identifiable assets of the acquired subsidiary at the date of acquisition. Goodwill is tested annually for impairment and 
+carried at cost less accumulated impairment losses. The carrying value of capitalised goodwill is reviewed if events or 
+changes in circumstances indicate a potential impairment. Any impairment is charged to the income statement. Gains 
+and losses on the disposal of an entity include the carrying amount of goodwill relating to the entity sold. Goodwill is 
+allocated to cash-generating units for the purpose of impairment testing.
+(b) Other intangible assets
+Other intangible assets are carried at cost less accumulated amortisation and impairment losses.
+An intangible asset acquired as part of a business combination is recognised outside goodwill if the asset is separable or 
+arises from contractual or other legal rights and its fair value can be measured reliably.
+Expenditure on internally developed intangible assets, excluding development costs, is taken to the income statement 
+in the year in which it is incurred. Development expenditure is recognised as an intangible asset only after its reliable 
+measurement, technical feasibility and commercial viability can be demonstrated.
+Software and software licences are classified as intangible assets and include computer software that is not integral to a 
+related item of hardware.
+Intangible assets with a finite life are amortised on a straight line basis over their expected useful lives, as follows:
+Brands – 5 to 15 years 
+Customer contracts and related relationships – 6 to 10 years 
+Software – 4 to 7 years 
+Development costs – 4 years
+Impairment and amortisation charges are included within the administrative expenses line in the income statement.
+Impairment of non-financial assets
+Assets that have an indefinite useful life, for example goodwill, are not subject to amortisation and are tested annually 
+for impairment. Assets that are subject to depreciation or amortisation are reviewed for impairment whenever events or 
+changes in circumstances indicate that the carrying amount may not be recoverable. An impairment loss is recognised 
+for the amount by which the asset’s carrying amount exceeds its recoverable amount. The recoverable amount is the 
+higher of an asset’s fair value less costs to sell and value in use. For the purposes of assessing impairment, assets are 
+grouped at the lowest levels for which there are separately identifiable cash flows (cash-generating units). Non-financial 
+assets other than goodwill that suffered an impairment are reviewed for possible reversal of the impairment at each 
+reporting date.
+c99861Book.indb   26 11/2/09   13:18:04 26 Xploite plc Annual Report 2008  Annual Report 2008 Xploite plc 27
+2 Summary of significant accounting policies continued
+Property, plant and equipment
+Tangible fixed assets are stated at cost less accumulated depreciation and impairment losses. Cost includes the original 
+purchase price of the asset and the costs attributable to bringing the asset to its working condition for its intended use.
+Depreciation is provided at rates calculated to write off the cost or valuation of fixed assets, less their estimated residual 
+value over their expected useful lives on the following basis:
+Leasehold property improvements 20% per annum – straight line over period of lease
+Motor vehicles 25% per annum – straight line
+Fixtures, fittings and equipment 20%-50% per annum – straight line
+The directors annually review the estimated useful lives of the fixed assets.
+The gain or loss arising on the disposal or retirement of an asset is determined as the difference between the sales 
+proceeds and the carrying amount of the asset and is recognised in income.
+Impairment
+At each balance sheet date, the Company reviews the carrying amounts of its tangible assets with finite lives to 
+determine whether there is any indication that those assets have suffered an impairment loss. If any such indication 
+exists, the recoverable amount of the asset is estimated in order to determine the extent of the impairment loss (if any).
+Financial assets
+The group classifies its financial assets as loans and receivables. The classification depends on the purpose for which the 
+financial assets were acquired. Management determines the classification of its financial assets at initial recognition.
+– Loans and receivables
+  Loans and receivables are non-derivative financial assets with fixed or determinable payments that are not quoted in 
+an active market. They are included in current assets, except for maturities greater than 12 months after the balance 
+sheet date. These are classified as non-current assets. The group’s loans and receivables comprise ‘trade and other 
+receivables’ and cash and cash equivalents in the balance sheet.
+Inventories
+Inventories are valued at the lower of cost and net realisable value after making allowances for any slow moving or 
+obsolete items.
+Trade and other receivables
+Trade receivables are recognised initially at fair value and subsequently measured at amortised cost using the effective 
+interest method, less provision for impairment. A provision for impairment of trade receivables is established when 
+there is objective evidence that the group will not be able to collect all amounts due according to the original terms 
+of the receivables. Significant financial difficulties of the debtor, probability that the debtor will enter bankruptcy or 
+financial reorganisation, and default or delinquency in payments (more than 30 days overdue) are considered indicators 
+that the trade receivable is impaired. The amount of the provision is the difference between the asset’s carrying amount 
+and the present value of estimated future cash flows, discounted at the original effective interest rate. The carrying 
+amount of the asset is reduced through the use of an allowance account, and the amount of the loss is recognised in 
+the income statement within administrative expenses. When a trade receivable is uncollectible, it is written off against 
+the allowance account for trade receivables. Subsequent recoveries of amounts previously written off are credited 
+against administrative expenses in the income statement.
+c99861Book.indb   27 11/2/09   13:18:04 28 Xploite plc Annual Report 2008 
+notes to tHe finanCial statements continued
+For the year ended 31 October 2008
+ Annual Report 2008 Xploite plc 29
+2 Summary of significant accounting policies continued
+Cash and cash equivalents
+Cash and cash equivalents in the balance sheet comprise cash at bank and in hand.
+For the purpose of the consolidated cash flow statement, cash and cash equivalents consist of cash and cash 
+equivalents as defined above, net of outstanding bank overdrafts.
+Trade payables
+Trade payables are recognised initially at fair value and subsequently measured at amortised cost using the effective 
+interest method.
+Borrowings
+All borrowings are initially recognised at fair value less directly attributable transaction costs.
+After initial recognition, borrowings are subsequently measured at amortised cost using the effective interest method.
+Borrowings are classified as current liabilities unless the group has an unconditional right to defer settlement of a 
+liability for at least 12 months after the balance sheet date.
+Share capital
+Ordinary shares are classified as equity. Incremental costs directly attributable to the issue of new shares or options are 
+shown in equity as a deduction, net of tax, from the proceeds.
+Employee benefits
+(a) Pensions
+Pension contributions made into personal pension schemes are charged to the income statement as incurred.
+(b) Share based payments
+The group operates a number of equity-settled, share-based payment compensation plans. The fair value of the 
+employee service received in exchange for the grant of the options is recognised as an expense. The total amount to 
+be expensed over the vesting period is determined by reference to the fair value of the options granted, excluding the 
+impact of any non-market vesting conditions (for example, profitability and sales growth targets). Non-market vesting 
+conditions are included in assumptions about the number of options that are expected to vest. At each balance sheet 
+date, the entity revises its estimates of the number of options that are expected to vest. It recognises the impact of the 
+revision to original estimates, if any, in the income statement, with a corresponding adjustment to equity.
+The proceeds received net of any directly attributable transaction costs are credited to share capital (nominal value) and 
+share premium when the options are exercised.
+Leases
+Assets held under leases that result in Group companies receiving substantially all the risks and rewards of ownership 
+are classified as finance leases and capitalised as property plant and equipment at the lower of cost and the estimated 
+present value of the underlying lease payments. The interest element of the rental obligation is allocated to the 
+accounting periods to reflect a constant rate of interest on the outstanding obligation. The corresponding finance lease 
+obligation is included within payables. These assets are depreciated over the term of the lease or the estimated useful 
+life of the asset, whichever is shorter.
+Rentals under operating leases are charged to the income statement on a straight line basis over the period of the 
+lease.
+Dividend distribution
+Dividend distribution to the company’s shareholders is recognised as a liability in the group’s financial statements in the 
+period in which the dividends are approved by the company’s shareholders.
+c99861Book.indb   28 11/2/09   13:18:04 28 Xploite plc Annual Report 2008  Annual Report 2008 Xploite plc 29
+3 Financial risk management
+Financial risk factors
+The group’s activities expose it to a variety of financial risks: market risk (including cash flow and fair value interest rate 
+risk), credit risk and liquidity risk. The group does not have significant foreign transactions or overseas subsidiaries so 
+does not consider foreign exchange to be a key risk.
+Risk management is carried out by the finance team under policies approved by the board of directors.
+The board provides principles for overall risk management, as well as policies covering specific areas, such as interest 
+rate risk, credit risk, use of derivative financial instruments and non-derivative financial instruments.
+(a) Cash flow and fair value interest rate risk
+The group’s income and operating cash flows are substantially independent of changes in market interest rates.
+The group’s exposure to risk for changes in interest rates related primarily to the group’s long-term debt and overdraft 
+obligations. Bank loan and overdraft interest is charged on a variable rate basis. The group’s bank facilities are pooled 
+basis and therefore interest is only payable/receivable on the net position.
+During 2008 and 2007, the group’s borrowings at variable rate were denominated in UK Sterling.
+The group analyses its variable interest rate exposure on an active basis. A scenario is simulated taking into 
+consideration renewal of existing positions. Based on these scenarios, the group calculates the impact on profit and loss 
+of a defined interest rate shift. The scenario is only are run only for liabilities that represent the major interest-bearing 
+positions.
+Based on the simulations performed, the impact on post tax profit of a 2% shift would increase or decrease profits by 
+£121,000 (2007: £28,000).
+The board regularly considers whether it would be appropriate to hedge the cash flow and interest rate risk. However, 
+no such instrument has been taken out in the current or prior period. The board will continue to keep this position 
+under review.
+(b) Credit risk
+Credit risk is managed by the trading entities. Credit risk arises from exposures to outstanding customer receivables. 
+Credit checking is used however, if there is no independent rating, management will assess the credit quality of the 
+customer, taking into account its financial position, past experience and other factors. Individual risk limits are set based 
+on internal or external ratings in accordance with limits set by the board.
+The table below shows the credit limit and balance of the six major customers at the balance sheet date.
+  2008 2007
+  Credit limit Balance Credit limit Balance
+  £’000 £’000 £’000 £’000
+Customer
+Customer 1  – 1,904 – –
+Customer 2  300 1,194 300 –
+Customer 3  3,000 541 3,000 178
+Customer 4  100 413 100 –
+Customer 5  20 369 20 178
+Customer 6  – 334 – 2
+   3,420  4,755  3,420  358
+c99861Book.indb   29 11/2/09   13:18:04 30 Xploite plc Annual Report 2008 
+notes to tHe finanCial statements continued
+For the year ended 31 October 2008
+ Annual Report 2008 Xploite plc 31
+3 Financial risk management continued
+Credit limits for Customer 1, 2, 4, 5 and 6 were exceeded in the year but this was pre-approved by the Xploite Board. 
+The limits are set very low relative to the credit scores received from the external credit agency in order that each order 
+is reviewed and appropriately approved. The other credit limit was not exceeded by the above customers during the 
+reporting period, and management does not expect any losses from these customers.
+(c) Liquidity risk
+Management manages liquidity by ensuring that it maintains sufficient funds to support the ongoing strategic and 
+trading activities of the group.
+Management monitors rolling forecasts of the group’s expected cash flow. The detailed forecasting is carried out at 
+local level in the operating companies of the group. This is combined into a group cash flow forecast. The banking 
+facilities of group are with one bank and enables set off of balances and use of group facilities. The group forecasts are 
+compared to available facilities to ensure that sufficient headroom is anticipated and that covenants are not breached.
+The table below analyses the group’s financial liabilities into relevant maturity groupings based on the remaining 
+period at the balance sheet to the contractual maturity date. The amounts disclosed in the table are the contractual 
+undiscounted cash flows. Balances due within 12 months equal their carrying balances as the impact of discounting is 
+not significant.
+  Less than 1 year Between 1 and 2 years Between 2 and 5 years
+  £’000 £’000 £’000
+At 31 October 2008 
+Borrowings  2,247 1,513 4,143
+Trade and other payables  17,415 – –
+Deferred consideration on acquisitions*  3,170 – –
+  22,832   1,513 4,143
+*  Subsequent to the year end a deed of variation was entered into and £2.2m was payable immediately on  
+3 December 2008 with the remaining amount of £970,000 being payable on 3 December 2009.
+  Less than 1 year Between 1 and 2 years Between 2 and 5 years
+  £’000 £’000 £’000
+At 31 October 2007 
+Borrowings  395 288 2,690
+Trade and other payables  18,486 – –
+Deferred consideration on acquisitions  – 3,443 –
+   18,881 3,731  2,690
+As the amounts included in the table are the contractual undiscounted cash flows, these amounts will not reconcile to 
+the amounts disclosed on the balance sheet for borrowings, deferred consideration on acquisitions and trade and other 
+payables.
+Capital risk management
+ The group’s objectives when managing capital are to safeguard the group’s ability to continue as a going concern 
+in order to provide returns for shareholders and benefits for other stakeholders and to maintain an optimal capital 
+structure to reduce the cost of capital.
+ In order to maintain or adjust the capital structure, the group may adjust the amount of dividends paid to shareholders 
+and return of capital to shareholders, issue new shares or sell assets/businesses to reduce debt.
+c99861Book.indb   30 11/2/09   13:18:04 30 Xploite plc Annual Report 2008  Annual Report 2008 Xploite plc 31
+3 Financial risk management continued
+The group monitors capital on the basis of the gearing ratio. This ratio is calculated as net debt divided by total capital. 
+Net debt is calculated as total borrowings (including ‘current and non-current borrowings’ as shown in the consolidated 
+balance sheet) less cash and cash equivalents. Total capital is calculated as ‘equity’ as shown in the consolidated 
+balance sheet plus net debt.
+During 2008, the group’s strategy, which was unchanged from 2007, was to maintain the gearing ratio below 50%. 
+The gearing ratios at 31 October 2008 and 2007 were as follows:
+    2008 2007
+    £’000 £’000
+Capital risk management
+Total borrowings    7,903 3,373
+less: cash and cash equivalents    (7,749) (4,225)
+Net debt/(funds)    154 (852)
+Total equity    17,368 15,688
+Total capital    17,522 14,836
+ 
+Gearing ratio    1% (6)%
+Gearing has increased in 2008 as further borrowings (bank borrowings and finance leases ) were entered into during 
+2008.
+Price risk
+The main price risk that the Group is exposed to is changes in the price of third party hardware and software that 
+it uses in the solutions it supplies to customers. When quoting for business the Group always obtains fixed price 
+quotations from suppliers before submitting a price to the customer.
+Fair value estimation
+Techniques, such as estimated discounted cash flows, are used to determine fair value for the remaining financial 
+instruments.
+The carrying value less impairment provision of trade receivables and payables are assumed to approximate their fair 
+values. The fair value of financial liabilities for disclosure purposes is estimated by discounting the future contractual 
+cash flows at the current market interest rate that is available to the group for similar financial instruments.
+4 Critical accounting estimates and judgements
+Estimates and judgements are continually evaluated and are based on historical experience and other factors, including 
+expectations of future events that are believed to be reasonable under the circumstances.
+The group makes estimates and judgement concerning the future. The resulting accounting estimates will, by 
+definition, seldom equal the related actual results. The estimates and assumptions that have a significant risk of causing 
+a material adjustment to the carrying amounts of assets and liabilities within the next financial year are discussed 
+below.
+Revenue recognition
+The contractual arrangements of sales are often complex with multiple elements e.g. hardware and maintenance. 
+Management have to make appropriate judgements and estimates in relation to the fair value of each of these 
+elements in accordance with the guidance set out in IAS 18.
+c99861Book.indb   31 11/2/09   13:18:04 32 Xploite plc Annual Report 2008 
+notes to tHe finanCial statements continued
+For the year ended 31 October 2008
+ Annual Report 2008 Xploite plc 33
+4 Critical accounting estimates and judgements continued
+Impairment of goodwill
+The Group tests annually whether goodwill has suffered any impairment, in accordance with the accounting policy. The 
+recoverable amounts of cash-generating units have been determined based on value-in-use. These calculations require 
+the use of estimates.
+Valuation of intangible assets
+Management have to make a number of estimates and judgements when valuing intangible assets. For example 
+expected growth rates, attrition rates, useful economic lives and royalty rates.
+5 Segmental information
+Management has determined the operating segments based on the reports reviewed by the Board that are used to 
+make strategic decisions.
+The Board only considers the business from a provision of products and services basis. The group operates almost 
+exclusively in the UK and geographic location within the UK does not have a significant bearing on the group.
+The reportable operating segments derive their revenue primarily from the sale of hardware, services, software and 
+mobile internet solutions (this was discontinued in 2007).
+The sale of hardware and services segment (which includes support and maintenance and managed services) represents 
+the group of businesses under the brand of Anix. The hardware and services business is integrated from an overhead 
+cost perspective and therefore it is not possible to allocate specific overheads to each of these segments. The software 
+segment represents the Itheon business.
+The Board assesses the performance of the operating segments based on a measure of adjusted EBITDA and adjusted 
+EBITA. This measurement basis excludes the effects of non-recurring expenditure from the operating segments such as 
+costs of integration.
+Central costs segment represents the cost of the head office function. This operates as an independent function to the 
+trading businesses. It is reported separately and includes one off costs in relation to items such as aborted due diligence 
+costs on acquisitions and advisor costs on potential disposals to enable the Board to understand the ongoing cost of 
+the head office function.
+The amounts provided to the Board with respect to total assets and liabilities are measured in a manner consistent 
+with that of the financial statements. Assets and liabilities are allocated to segments based on the operations of the 
+segment.
+Goodwill and intangible assets arising on business combinations are allocated to central head office costs which is 
+consistent with the allocation of the amortisation in the income statement segmental analysis below.
+c99861Book.indb   32 11/2/09   13:18:04 32 Xploite plc Annual Report 2008  Annual Report 2008 Xploite plc 33
+5 Segmental information continued
+The segment information provided to the Board for the reportable segments for the year ended 31 October 2008 is as 
+follows:
+2008   Total
+   hardware
+ Hardware Services and services Software Central  Total
+ £’000 £’000 £’000 £’000 £’000 £’000
+Continuing operations
+Revenue 21,754 22,901 44,655 1,800 – 46,455
+Less: intersegment sales – (140) (140) – – (140)
+Total revenue from third parties 21,754 22,761 44,515 1,800 – 46,315
+Cost of sales (18,458) (15,232) (33,690) – – (33,690)
+Gross profit 3,296 7,529 10,825 1,800 – 12,625
+Total administrative expenses   (8,675) (175) (4,211) (13,061)
+Adjusted EBITDA      4,300 1,625 (2,192) 3,733
+Depreciation   (1,009) – (60) (1,069)
+Adjusted EBITA     3,291 1,625 (2,252) 2,664
+Less: amortisation and impairment   (22) – (1,874) (1,896)
+Less: integration and strategic costs      (1,119) – (85) (1,204)
+Total operating profit/(loss)   2,150 1,625 (4,211) (436)
+Finance income   60 – 87 147
+Finance cost   (116) (1) (671) (788)
+Finance income – net   (56) (1) (584) (641)
+Profit/(loss) before tax   2,094 1,624 (4,795) (1,077)
+Tax credit   86 – 655 741
+Profit/(loss) for the year from  
+continuing operations   2,180 1,624 (4,140) (336)
+Discontinued operations
+Profit for the year from discontinued operations   – 450 1,427 1,877
+Profit/(loss) for the year attributable  
+to equity shareholders   2,180 2,074 (2,713) 1,541
+ 
+Discontinued operations
+Revenue   – 1,692 – 1,692
+Adjusted EBITDA     – 583 – 583
+Depreciation   – (27) – (27)
+Adjusted EBITA   – 556 – 556
+Less: Amortisation    – (54) (227) (281)
+Less: integration and strategic costs     – (52) – (52)
+Total operating profit/(loss)   – 450 (227) 223
+Tax credit   – 8 64 72
+Post tax result from discontinued operations   – 458 (163) 295
+(Loss)/gain on sale of company   – (8) 1,120 1,112
+Tax credit   – – 470 470
+Profit for the year from discontinued operations  – 450 1,427 1,877
+ 
+Segment assets   30,693 14 31,614 62,321
+Segment liabilities   (29,086) – (15,867) (44,953)
+Segment net assets   1,607 14 15,747 17,368
+ 
+Additions in the year by segment
+Intangible assets   40 670 10 719
+Property plant and equipment   1,709 16 62 1,787
+c99861Book.indb   33 11/2/09   13:18:04 34 Xploite plc Annual Report 2008 
+notes to tHe finanCial statements continued
+For the year ended 31 October 2008
+ Annual Report 2008 Xploite plc 35
+5 Segmental information continued
+2007   Total  Mobile
+   hardware  internet
+ Hardware Services and services Software solutions Central  Total
+ £’000 £’000 £’000 £’000 £’000 £’000 £’000
+Continuing operations
+Revenue 18,531 10,396 28,927 – – – 28,927
+Less: intersegment sales – – – – – – –
+Total revenue from  
+third parties 18,531 10,396 28,927 – –  – 28,927
+Cost of sales (15,726) (6,915) (22,641) – – – (22,641)
+Gross profit 2,805 3,481 6,286 – –  – 6,286
+Total administrative expenses   (4,921) – – (1,891) (6,812)
+Adjusted EBITDA     2,032 – –  (1,335) 697
+Depreciation   (496) – – (20) (516)
+Adjusted EBITA   1,536 – – (1,355) 181
+Less: amortisation    – – – (536) (536)
+Less: integration and strategic costs     (171) –  – – (171)
+Total operating profit/(loss)   1,365 – – (1,891) (526)
+Finance income   127 – – 200 327
+Finance cost   (56) – – (46) (102)
+Finance income – net   71 – – 154 225
+Profit/(loss) before tax   1,436 – – (1,737) (301)
+Tax credit   – – – 51 51
+Profit/(loss) for the year from  
+continuing operations   1,436 – – (1,686) (250)
+Discontinued operations
+Profit for the year from discontinued  
+operations   – 67 430 – 497
+Profit/(loss) for the year attributable  
+to equity shareholders   1,436 67 430 (1,686) 247
+ 
+Discontinued operations
+Revenue    171 2,129  2,300
+Adjusted EBITDA     72 492   564
+Depreciation    (5) –  (5)
+Adjusted EBITA    67 492  559
+Less: amortisation     – –  –
+Less: integration and strategic costs     – –  –
+Total operating profit    67 492  559
+Post tax results from discontinued  
+operations    67 492  559
+Loss on disposal of company    – (20)  (20)
+Taxation    – (42)  (42)
+Net gain on disposal   – – (62) – (62)
+Total   – 67 430 – 497
+ 
+Segment assets   21,959 1,606  33,494 57,059
+Segment liabilities   (27,532) (908)  (12,931) (41,371)
+Segment net assets   (5,573) 698  20,563 15,688
+ 
+Additions in the year by segment
+Intangible assets   70    33,455 33,525
+Property plant and equipment   543    232 775
+c99861Book.indb   34 11/2/09   13:18:04 34 Xploite plc Annual Report 2008  Annual Report 2008 Xploite plc 35
+5 Segmental information continued
+All of the group is domiciled in the UK. The results include revenue from customers from countries other than the UK 
+totalling £934,000 (2007: £20,000).
+All non-current assets are located in the UK.
+Revenues of approximately £5,358,000 (12% of total) (2007: £2,078,000 (7% of total)) are derived from a single 
+customer. These revenues are attributable to the hardware and services segment.
+6 Intangible assets
+At 31 October 2008
+   Customer
+   and related  Development
+ Goodwill Brands contracts Software costs Total
+ £’000 £’000 £’000 £’000 £’000 £’000
+Cost
+At 1 November 2007 21,523 3,758 7,346 1,168 – 33,795
+Adjustments to fair value of  
+consideration* (201) – – – – (201)
+Additions – – – 392 327 719
+Disposals – sale of subsidiary (200) (606) (656) (999) – (2,461)
+At 31 October 2008 21,122 3,152 6,690 561 327 31,852
+Amortisation and impairment
+At 1 November 2007 – 103 425 8 – 536
+Amortisation  – 283 1,037 219 – 1,539
+Impairment** – 638 – – – 638
+Disposals – sale of subsidiary – (64) (76) (153) – (293)
+At 31 October 2008 – 960 1,386 74 – 2,420
+Net book amount at
+31 October 2008 21,122 2,192 5,304 487 327 29,432
+At 31 October 2007
+Cost
+At 1 November 2006 – – – – – –
+Additions 21,523 3,758 7,346 1,168 – 33,795
+At 31 October 2007 21,523 3,758 7,346 1,168 – 33,795
+Amortisation and impairment
+At 1 November 2006 – – – – – –
+Amortisation  – 103 425 8 – 536
+At 31 October 2007 – 103 425 8 – 536
+Net book amount at
+31 October 2007 21,523 3,655 6,921 1,160 – 33,259
+ 
+*   The value of the assets has been adjusted subsequent to a change in the deferred consideration payable. This change 
+was agreed by the Directors and the vendors prior to the year end. This amendment was formally agreed in a deed 
+of variation (see note14).
+**The carrying amount of the Red Squared brand has been impaired to £nil on its integration into the Anix Brand.
+c99861Book.indb   35 11/2/09   13:18:04 36 Xploite plc Annual Report 2008 
+notes to tHe finanCial statements continued
+For the year ended 31 October 2008
+ Annual Report 2008 Xploite plc 37
+6 Intangible assets continued
+The net book amount of software includes £327,000 (2007: £Nil) internally generated capitalised software 
+development costs that meet the definition of an intangible asset.
+The amortisation charge of £1,539,000 (2007: £536,000) and the impairment charge of £638,000 (2007: £Nil) are 
+included in the administrative expenses in the income statement.
+Impairment tests for goodwill
+Goodwill is allocated to the group’s cash-generating units (CGUs) identified. A summary of the goodwill allocation is 
+presented below.
+  2008   2007
+ Hardware   Hardware
+ and services Software Total and services Software Total
+ £’000 £’000 £’000 £’000 £’000 £’000
+Goodwill  17,717  3,405 21,122 17,706  3,817  21,523 
+ 
+The recoverable amount of a CGU is determined based on value-in-use calculations. These calculations use pre-tax cash 
+flow projections based on financial budgets approved by management covering a five-year period. Cash flows beyond 
+the five-year period are extrapolated using the estimated growth rates stated below. The growth rate does not exceed 
+the long-term average growth rate for the business in which the CGU operates.
+The key assumptions used for value-in-use calculations are as follows:
+    Hardware and 
+    services Software
+Budgeted gross margin    28% 67%
+Growth rate*    2% 2%
+Discount rate**    16% 17%
+ 
+* Growth rate used to extrapolate cash flows beyond the budget period.
+** Pre tax discount rate applied to the cash flow projections
+These assumptions have been used for the analysis of each CGU within the business segment. Management 
+determined budgeted gross margin based on past performance and its expectations of market development. The 
+growth rates used are consistent with the forecasts included in industry reports. The discount rates used are pre-tax and 
+reflect specific risks relating to the relevant segments.
+c99861Book.indb   36 11/2/09   13:18:05 36 Xploite plc Annual Report 2008  Annual Report 2008 Xploite plc 37
+7 Property plant and equipment
+  Leasehold property   Furniture, fittings
+  improvements Motor vehicles  and equipment Total
+  £’000 £’000 £’000 £’000
+At 31 October 2008 
+Cost
+At 1 November 2007  155 180 1,982 2,317
+Additions   – 50 1,737 1,787
+Disposal of subsidiary  – – (12) (12)
+At 31 October 2008  155 230 3,707 4,092
+Depreciation
+At 1 November 2007  18 8 482 508
+Charge for the year   27 60 1,009 1,096
+Disposal of subsidiary  – – (8) (8)
+At 31 October 2008  45 68 1,483 1,596
+Net book amount at
+31 October 2008  110 162 2,224 2,496
+ 
+At 31 October 2007
+Cost
+At 1 November 2006  – 38 34 72
+Additions  – 231 544 775
+Acquisitions of subsidiaries  155 – 1,416 1,571
+Disposals  – (89) – (89)
+Disposal of subsidiary  – – (12) (12)
+At 31 October 2007  155 180 1,982 2,317
+Depreciation
+At 1 November 2006  – 6 4 10
+Charge for the year  18 16 482 516
+Disposals  – (14) – (14)
+Disposal of subsidiary  – – (4) (4)
+At 31 October 2007  18 8 482 508
+Net book amount at 31 October 2007  137 172 1,500 1,809
+ 
+Depreciation expense of £1,096,000 (2007: £516,000) has been charged in administrative expenses.
+Included within net book amounts of £2,496,000 (2007: £1,809,000) is £1,550,000 (2007: £923,000) relating to 
+assets held under hire purchase and finance lease agreements.
+c99861Book.indb   37 11/2/09   13:18:05 38 Xploite plc Annual Report 2008 
+notes to tHe finanCial statements continued
+For the year ended 31 October 2008
+ Annual Report 2008 Xploite plc 39
+8 Financial instruments
+(a) Financial instruments by category
+The accounting policies for financial instruments have been applied to the line items below:
+    Loans and 
+    receivables Total
+    £’000 £’000
+At 31 October 2008
+Assets as per balance sheet
+Trade and other receivables    8,892 8,892
+Deferred consideration on disposals    1,120 1,120
+Cash and cash equivalents    7,749 7,749
+Total    17,761 17,761
+    Other financial
+    liabilities Total
+    £’000 £’000
+At 31 October 2008
+Liabilities as per balance sheet
+Trade and other payables    9,254 9,254
+Borrowings    7,903 7,903
+Total    17,157 17,157
+    Loans and 
+    receivables Total
+    £’000 £’000
+At 31 October 2007
+Assets as per balance sheet
+Trade and other receivables    8,612 8,612
+Deferred consideration on disposals    35 35
+Cash and cash equivalents    4,225 4,225
+Total    12,872 12,872
+    Other financial
+    liabilities Total
+    £’000 £’000
+At 31 October 2007
+Liabilities as per balance sheet
+Trade and other payables    11,429 11,429
+Borrowings    3,373 3,378
+Total    14,802 14,802
+c99861Book.indb   38 11/2/09   13:18:05 38 Xploite plc Annual Report 2008  Annual Report 2008 Xploite plc 39
+8 Financial instruments continued
+(b) Credit quality of financial assets
+The credit quality of financial assets that are neither past due nor impaired can be assessed by reference to external 
+credit rating (if available) or to historical information about customer default rates:
+Trade receivables
+    2008 2007
+    £’000 £’000
+Customers without external credit rating:
+– Group 1     3,261 939
+– Group 2     1,255 1,999
+– Group 3     2,832 3,117
+     7,348  6,055
+ 
+– Group 1 – New customers (less than 12 months)
+– Group 2 – Existing customers (more than 12 months) not exceeding credit limit in the past
+– Group 3 – Existing customers (more than 12 months) exceeding credit limit in the past but fully recovered
+None of the financial assets that are fully performing have been renegotiated in the last year.
+Cash at bank
+    2008 2007
+    £’000 £’000
+AAA    7,749 4,225
+9 Trade and other receivables
+Non-current
+    2008 2007
+    £’000 £’000
+Trade receivables    635 –
+Deferred costs on maintenance contracts     5,624 2,847
+    6,259 2,847
+ 
+The effective interest rate on non-current trade receivables was 6.5%.
+Current
+    2008 2007
+    £’000 £’000
+Trade receivables    8,257 8,612
+Less: Provision for impairment of trade receivables    (115) (150)
+    8,142 8,462
+Deferred costs on maintenance contracts    4,142 4,880
+Receivables due from related parties     1,519 –
+Other receivables    696 311
+Prepayments    578 840
+     15,077 14,493
+ 
+The fair value of the group’s trade and other receivables is the same as its book amount stated above. The group’s trade 
+and other receivables are all denominated in UK pounds.
+c99861Book.indb   39 11/2/09   13:18:05 40 Xploite plc Annual Report 2008 
+notes to tHe finanCial statements continued
+For the year ended 31 October 2008
+ Annual Report 2008 Xploite plc 41
+9 Trade and other receivables continued
+At 31 October 2008, trade receivables of £7,348,000 (2007: £6,056,000) were fully performing.
+At 31 October 2008, trade receivables of £1,544,000 (2007: £2,556,000) were past due but not impaired. The ageing 
+analysis of these customers is set out below. The balances relate to customers where there is no history of default and 
+management believe that the receivables balance will be paid.
+    2008 2007
+    £’000 £’000
+Up to 3 months overdue    1,511 2,324
+3 to 6 months overdue    25 110
+6 to 12 months overdue    3 94
+> 12 months overdue    5 28
+     1,544 2,556
+ 
+As of 31 October 2008, trade receivables of £115,000 were impaired (2007: £150,000) and provided for. The provision 
+relates to a number of small receivables.
+The ageing of these receivables are as follows:
+    2008 2007
+    £’000 £’000
+3 to 6 months overdue    115 150
+ 
+Movements on the group provision for impairment of trade and receivables are as follows:
+    2008 2007
+    £’000 £’000
+At 1 November    150 –
+Acquisitions    – 195
+Unused amounts reversed    (35) (45)
+At 31 October    115 150
+ 
+The creation and release of provision for impaired receivables have been included in administrative expenses in the 
+income statement.
+The other classes within trade and other receivables do not contain impaired assets.
+The maximum exposure to credit risk at the reporting date is the carrying value of each class of receivable noted above. 
+The group does not hold any collateral as security.
+c99861Book.indb   40 11/2/09   13:18:05 40 Xploite plc Annual Report 2008  Annual Report 2008 Xploite plc 41
+10 Deferred consideration on disposals
+    2008 2007
+    £’000 £’000
+Deferred consideration on disposals – Fujin Technology Trading Limited   35 35
+Deferred consideration on disposals – Itheon Limited    1,085 –
+    1,120 35
+ 
+The deferred consideration for Fujin Technology Trading Limited is due on 14 August 2009. The deferred consideration 
+for Itheon Limited is due on 31 October 2009.
+11 Inventories
+    2008 2007
+    £’000 £’000
+Work in progress    – 20
+ 
+The cost of inventories recognised as an expense and included in ‘cost of sales’ amounted to £20,000 (2007: 
+£861,000). The group did not make any provisions against inventory in the year (2007: nil).
+12 Cash and cash equivalents
+    2008 2007
+    £’000 £’000
+Cash at bank and in hand    7,749 4,225
+13 Trade and other payables
+Current    2008 2007
+    £’000 £’000
+Trade payables    9,254 11,429
+Other taxation and social security    664 1,409
+Other payables    37 97
+Accruals    7,460 5,551
+Deferred income on maintenance contracts    6,350 8,253
+     23,765 26,739
+Non – current    2008 2007
+    £’000 £’000
+Deferred income on maintenance contracts    6,531 3,667
+14 Deferred consideration on acquisitions
+Current    2008 2007
+    £’000 £’000
+Deferred consideration on acquisitions    3,119 –
+Non – current    2008 2007
+    £’000 £’000
+Deferred consideration on acquisitions    –  3,183
+ 
+Total fair value of deferred consideration of £3,119,000 (2007: £3,183,000) arose on the acquisition of Itheon Limited 
+(acquired on 12 October 2007). The fair value was calculated using a discount rate of 5%. Subsequent to the year 
+end, a deed of variation dated 3 December 2008 was entered into which gave rise to £2,200,000 of the deferred 
+consideration being payable on that date, with the remainder of £970,000 being payable on 3 December 2009.
+c99861Book.indb   41 11/2/09   13:18:05 42 Xploite plc Annual Report 2008 
+notes to tHe finanCial statements continued
+For the year ended 31 October 2008
+ Annual Report 2008 Xploite plc 43
+15 Borrowings
+    2008 2007
+    £’000 £’000
+Current
+Bank borrowings    600 –
+Finance leases    1,647 395
+     2,247 395
+ 
+Non – current
+Bank borrowings    4,505 2,475
+Finance leases    1,151 503
+     5,656 2,978
+Total borrowings    7,903 3,373
+ 
+The maturity of total borrowings is as follows:
+2008    Hire purchase
+   Bank loans and finance
+   and overdrafts  leases Total
+   £’000 £’000 £’000
+Within one year   600 1,647 2,247
+Between one and two years   600 913 1,513
+Between two and five years   3,905 238 4,143
+   5,105 2,798 7,903
+ 
+2007    Hire purchase
+   Bank loans and finance
+   and overdrafts  leases Total
+   £’000 £’000 £’000
+Within one year   – 395 395
+Between one and two years   – 288 288
+Between two and five years   2,475 215 2,690
+   2,475 898 3,373
+ 
+Bank borrowings
+Interest on the bank overdraft is charged at 1.75% over HSBC’s base rate. Interest on the other bank borrowings is 
+based on a scale depending on the Group’s net debt to EBITDA ratio, varying from 1.25% to 1.75% over HSBC’s base 
+rate.
+Total bank borrowings are secured by a debenture comprising a fixed and floating charge over all the assets of the 
+group including all present and future freehold and leasehold property, book and other debts, chattels, goodwill and 
+uncalled capital both present and future. The group also has banking covenants that it has to meet.
+The bank overdraft was undrawn at the year end and at 31 October 2007.
+Finance leases
+Finance leases are secured on the specific asset subject to finance. The weighted average fixed rate on the finance 
+leases is 4.1% (2007: 6.1%).
+c99861Book.indb   42 11/2/09   13:18:05 42 Xploite plc Annual Report 2008  Annual Report 2008 Xploite plc 43
+15 Borrowings continued
+Fair values
+The fair value of current borrowings equals their carrying amount as the impact of discounting is not significant. The 
+carrying amounts and fair value of the non-current borrowings are as follows:
+   Carrying amount  Fair value
+  2008 2007 2008 2007
+  £’000 £’000 £’000 £’000
+Bank borrowings  5,105 2,475 5,105 2,475
+Finance leases  2,798 898 2,798 898
+   7,903 3,373 7,903 3,373
+ 
+Foreign currency
+The carrying amounts of all the group’s borrowings in both 2008 and 2007 are denominated in UK Sterling.
+Facilities
+The group had no undrawn borrowing facilities at either 31 October 2008 or 31 October 2007. In addition to the bank 
+loans and finance leases, the group has a floating rate overdraft facility of £2,500,000.
+The overdraft facility is renewable in October 2009.
+16 Deferred tax
+Deferred tax (assets) and liabilities are offset when there is a legally enforceable right to offset current tax assets against 
+current tax liabilities when the deferred tax relates to the same tax authority. The offset amounts are as follows:
+    2008 2007
+    £’000 £’000
+Deferred tax assets
+Deferred tax asset to be recovered within 12 months    (160) (120)
+Deferred tax asset to be recovered after more than 12 months   (28) (251)
+     (188) (371)
+Deferred tax liabilities
+Deferred tax liability to be recovered within 12 months    435 462
+Deferred tax liability to be recovered after more than 12 months   1,877 3,039
+     2,312 3,501
+Deferred tax liabilities (net)    2,124 3,130
+ 
+The gross movement on the deferred income tax account is as follows:
+    2008 2007
+    £’000 £’000
+Beginning of year    3,130 84
+Acquisitions – Goodwill adjustments    – 3,635
+Disposal of subsidiary – transfer of asset    25 –
+Income statement charge    (1,031) (218)
+Acquisition of subsidiary    – (371)
+End of year    2,124 3,130
+c99861Book.indb   43 11/2/09   13:18:05 44 Xploite plc Annual Report 2008 
+notes to tHe finanCial statements continued
+For the year ended 31 October 2008
+ Annual Report 2008 Xploite plc 45
+16 Deferred tax continued
+The movement in deferred tax assets and liabilities during the year, without taking into consideration the offsetting of 
+balances is as follows:
+   Intangible assets
+    in business  Other timing
+   combinations differences Total
+   £’000 £’000 £’000
+Deferred tax liabilities 
+At 1 November 2006   – 99 99
+Acquisitions – adjustment to goodwill   3,635 – 3,635
+Credited to income statement   (161) (72) (233)
+At 31 October 2007   3,474 27 3,501
+(Credited)/charged to income statement   (1,199) 10 (1,189)
+At 31 October 2008   2,275 37 2,312
+    Fixed
+   Other timing asset timing
+  Losses differences differences Total
+  £’000 £’000 £’000 £’000
+Deferred tax (assets) 
+At 1 November 2006  – (15) – (15)
+Acquisition of subsidiary – losses  (346) – (25) (371)
+Charged to income statement  – 15 – 15
+At 31 October 2007  (346) – (25) (371)
+Charged to income statement  158 – – 158
+Disposals – deferred tax asset transfer  – – 25 25
+At 31 October 2008  (188) – – (188)
+ 
+Deferred income tax assets are recognised for tax loss carry-forwards to the extent that the realisation of the related tax 
+benefit through future taxable benefits is probable. The group did not recognised deferred tax assets of £630,000 in 
+respect to losses amounting to £2,250,000 that can be carried forward against future taxable income.
+17 Share capital and share premium
+    2008 2007
+    £’000 £’000
+Authorised
+50,000,000 ordinary shares of 10p each    5,000 5,000
+ 
+    Number Number
+Allotted, called up and fully paid 
+Ordinary shares of 10p each    39,516,955 39,516,955
+ 
+    £’000 £’000
+Ordinary shares of 10p each    3,952 3,820
+ 
+The market price of the shares at 31 October 2008 was 35p (2007: 46p).
+c99861Book.indb   44 11/2/09   13:18:05 44 Xploite plc Annual Report 2008  Annual Report 2008 Xploite plc 45
+17 Share capital and share premium continued
+   Allocated
+   called up and
+  Number of fully paid Share
+  shares shares premium Total
+   £’000 £’000 £’000
+At 1 November 2006  38,205,617 3,820 11,926 15,746
+Employee share option scheme
+ – Proceeds from shares issued  300,000 30 33 63
+Capital reduction  – – (10,312) (10,312)
+Acquisition of subsidiary  1,011,338 102 – 102
+At 31 October 2007  39,516,955 3,952 1,647 5,599
+At 31 October 2008  39,516,955 3,952 1,647 5,599
+ 
+For details of the group’s share option scheme, refer to note 18.
+18 Retained earnings and other reserves
+  Retained Share based Merger 
+  earnings payments reserve Total
+  £’000 £’000 £’000 £’000
+At 1 November 2006  6,140 97 3,268 9,505
+Profit for the year  247 – – 247
+Share based payment charge  – 94 – 94
+Shares issued on acquisition of subsidiary  – – 243 243
+At 31 October 2007  6,387 191 3,511 10,089
+Profit for the year  1,541 – – 1,541
+Share based payment charge  – 139 – 139
+At 31 October 2008  7,928 330 3,511 11,769
+ 
+The merger reserve represents the premium arising on share issues to acquire subsidiary undertakings.
+Share based payments
+The total charge for the year relating to share based payment plans was £139,000 (2007: £94,000).
+Options are granted with a fixed exercise price equal to the market price of the shares under option at the date of 
+grant. The contractual life of an option is ten years for those granted under the Employee Management Incentive 
+Scheme (EMI scheme) and five years for those granted under the Company Share Option Plan (CSOP scheme). Options 
+granted will become exercisable one year from the date of grant and are exercisable in three equal tranches. The first 
+tranche when the share price reaches 58 pence, the second when the share price reaches 87 pence and the third when 
+the share price reaches 116 pence.
+Options have been valued using the Black Scholes option pricing model together with the Monte Carlo valuation 
+approach to incorporate the share price condition attached to the awards.
+Options granted under the EMI scheme must be exercised within 10 years of being granted and those granted under 
+the CSOP within five years.
+c99861Book.indb   45 11/2/09   13:18:05 46 Xploite plc Annual Report 2008 
+notes to tHe finanCial statements continued
+For the year ended 31 October 2008
+ Annual Report 2008 Xploite plc 47
+18 Retained earnings and other reserves continued
+Further details with respect to the options outstanding at 31 October 2008 and 31 October 2007 are provided below.
+Option number   Notes EMI Scheme CSOP Scheme
+Grant date    19/03/2007 19/03/2007
+Number of awards granted    1,034,484 2,250,000
+Share price at grant (£)    £0.28 £0.28
+Exercise price (£)    £0.29 £0.29
+Expected volatility (% p.a.)   a 93% 79%
+Dividend yield (% p.a.)   b 0% 0%
+Risk free interest rate (% p.a.)   c 5.092% 5.176%
+Expected term (years)   d 5.5 4.0
+Fair value per share     £0.212 £0.116
+Fair value (as % of share price)     76% 42%
+Total fair value    £219,500 £261,900
+Notes:
+a) The normal approach is to look at historic volatility of the share price over the most recent period that is 
+commensurate with the expected option term
+b) No dividends have been paid and therefore dividend yield has been set to 0%.
+c) UK Gilt Rates at the date of grant, matched to the expected term of the award.
+d) The EMI option has an option life of 10 years. The CSOP option has an option life of 5 years.
+For the EMI Scheme the Expected term has been calculated as: Vesting period + [(Option life-Vesting period)/2]
+The expected volatility is based on historical volatility of the share price over the most recent period that is 
+commensurate with the expected option term. The expected life is the average expected period to exercise. The risk 
+free rate of return is the yield on zero coupon UK Government bonds of a term consistent with the assumed option life.
+The average vesting period for the above options is 7.5 years.
+A reconciliation of option movements over 2007 and 2008 is shown below:
+     Weighted 
+     Average
+    Number Exercise price
+Outstanding 1 November 2006     740,728 55p
+Granted    3,456,898 29p
+Forfeited    (613,142) 78p
+Exercised    (300,000) 21p
+Outstanding at 31 October 2007     3,284,484 29p
+Exercisable at 31 October 2007    1,034,484 29p
+ 
+Outstanding at 31 October 2008     3,284,484 29p
+Exercisable at 31 October 2008    1,034,484 29p
+c99861Book.indb   46 11/2/09   13:18:05 46 Xploite plc Annual Report 2008  Annual Report 2008 Xploite plc 47
+19 Expenses by nature
+    2008 2007
+    £’000 £’000
+Changes in inventory and work in progress    – 861
+Third party costs of goods and services    28,563 18,760
+Employee benefit expense – included in cost of sales    5,522 3,020
+Employee benefit expense – included in administrative expenses   6,558 6,291
+Depreciation    1,096 516
+Amortisation of intangible assets    1,539 536
+Impairment of intangible assets    638 –
+Operating lease payments    1,139 487
+Other    3,492 720
+Less capitalised staff costs: research and development    (327) –
+Total cost of sales and administration expenses    48,220 31,191
+ 
+20 (a) Employee benefit expense    2008 2007
+    £’000 £’000
+Wages and salaries (including termination benefits)    9,718 8,001
+Termination benefits    860 285
+Social security costs    1,335 927
+Pension costs – contributions to personal pension plans    28 4
+Share based payments charge    139 94
+    12,080 9,311
+ 
+20 (b) Average number of people employed    2008 2007
+    Number Number
+Average number of people (including executive directors) employed
+Technical     100 59
+Sales    33 30
+Administration and management    28 19
+    161 108
+ 
+21 Auditors’ remuneration
+During the year the group obtained the following services from the company’s auditors and its associates:
+    2008 2007
+    £’000 £’000
+Fees payable for the audit of the consolidated financial statements   25 26
+Fees payable for other services
+ – The audit of the parent company pursuant to legislation    15 15
+ – The audit of the Company’s subsidiaries pursuant to legislation   70 62
+ – Tax services    123 89
+ – Other services    49 54
+ – Prior year under provision for fees – 2007 audit    47 –
+    329 246
+The 2008 ‘Other services’ include procedures carried out on the half year statement and IFRS transition.
+The 2007 ‘Other services’ include procedures carried out on the half year statement, investigation work on potential 
+acquisition that did not complete and work on a management incentive scheme. In addition in 2007, £159,000 due 
+diligence fees were paid to the company’s auditor and this was included in acquisition costs.
+c99861Book.indb   47 11/2/09   13:18:05 48 Xploite plc Annual Report 2008 
+notes to tHe finanCial statements continued
+For the year ended 31 October 2008
+ Annual Report 2008 Xploite plc 49
+22 Integration and strategic costs
+In accordance with the group’s policy for integration and strategic costs, the following charges/(credits) were included 
+in this category for the year:
+    2008 2007
+    £’000 £’000
+Costs of integration
+ – Staff redundancy costs and compromise agreements    860 285
+ – Staff costs incurred in notice periods/gardening leave    226 –
+ – Other costs    85 89
+Other strategic costs
+ – Costs of aborted acquisitions    35 –
+ – Costs of potential disposals    50 –
+Credit on settlement of liability    – (203)
+    1,256 171
+ 
+With respect to the above cost £1,204,000 (2007: £171,000) is included in continuing operations and £52,000 (2007: 
+£Nil) is included in discontinued operations.
+The 2008 ‘other costs’ include costs incurred with re-structuring the Network Operation Centres at Yate and 
+Altringham.
+The 2007 ‘other costs’ include £57,500 re-branding costs, £21,000 early termination of lease and £10,500 legal costs.
+2007 – Finance income 
+In 2007, an exceptional credit arose with respect to the write back of a creditor on the early settlement of a liability (see 
+note 23).
+23 Finance income and costs
+    2008 2007
+    £’000 £’000
+Finance income
+Bank interest receivable    – 200
+Other interest receivable    87 –
+Interest receivable on fair value calculations    60 –
+Interest written back on settlement of liability (see note 22)    – 127
+     147 327
+Finance costs
+Interest expense
+ – bank borrowings    (406) (63)
+ – hire purchase and finance leases    (128) (39)
+ – unwinding of discounts on fair value calculations    (210) –
+ – other interest    (32) –
+Amortisation of debt issue costs    (12) –
+    (788) (102)
+Net finance cost    (641) 225
+c99861Book.indb   48 11/2/09   13:18:05 48 Xploite plc Annual Report 2008  Annual Report 2008 Xploite plc 49
+24 Tax credit
+    2008 2007
+    £’000 £’000
+Continuing operations
+Current tax    (180) 167
+Deferred tax (note 16)    (561) (218)
+    (741) (51)
+Discontinued operations
+Current tax    (72) 51
+Deferred tax (note 16)    (470) –
+    (542) 51
+Total tax credit    1,283 –
+ 
+The tax on the group’s profit before tax differs from the theoretical amount that would arise using the weighted 
+average tax rate applicable to the consolidated entities as follows:
+    2008 2007
+    £’000 £’000
+Loss before tax – continuing operations    (1,077) (301)
+Profit before tax – discontinued operations    223 559
+Profit before tax – gain/(loss) on sale of company – discontinued operations  1,112 (20)
+    258 238
+Loss before tax multiplied by the average effective rate of tax in the  
+UK of 28.9% (2007: 30%)    75 71
+Timing differences between depreciation and capital allowances   5 30
+Items disallowed for tax    88 5
+Brought forward losses utilised    (237) (105)
+Profit on disposal of subsidiaries    (368) (93)
+Enhanced research and development expenditure    (49) –
+Release of deferred tax liability on intangibles on sale of subsidiary   (470) –
+Other timing differences    – 25
+Movement on deferred tax asset – utilisation of losses    158 –
+Prior year adjustment    (252) 67
+Change in rate of deferred tax from 30% to 28%    (233) –
+    (1,283) –
+ 
+Following the 2007 Budget the Chancellor announced that as at 1 April 2008 the rate of corporation tax was reduced 
+from 30% to 28% therefore deferred tax balances which were previously measured at 30% are now measured at 
+28%.
+c99861Book.indb   49 11/2/09   13:18:05 50 Xploite plc Annual Report 2008 
+notes to tHe finanCial statements continued
+For the year ended 31 October 2008
+ Annual Report 2008 Xploite plc 51
+25 Discontinued operations
+On 31 October 2008, the group sold its 100% interest in the share capital of Itheon Ltd to Bluechip Engineering Ltd. 
+Prior to the sale, the software and assets in relation to SRA software were transferred to Storage Fusion Ltd (a group 
+company). A summary of the gain on disposal is set out below:
+     £’000
+Proceeds received     2,200
+Fair value of deferred consideration     1,073
+Total consideration     3,273
+Costs of disposal
+Professional fees    104
+Directors’ disposal bonus    169
+      (273)
+Net consideration     3,000
+Net book value of acquired intangibles disposed     1,880
+Purchased intangibles disposed      288
+Other net liabilities disposed     (280)
+     1,888
+Profit on disposal     1,112
+Reconciliation to consolidated cash flow statement
+Proceeds received     2,200
+Costs of disposal     (273)
+Cash disposed     (52)
+     1,875
+Details of the results for the year for the discontinued operations are set out in note 5.
+2007
+On 4 September 2007, the Group sold its 100% interest in the ordinary share capital of Fujin Technology Trading Ltd 
+for cash consideration of £952,000 and deferred consideration of £35,000 payable.
+c99861Book.indb   50 11/2/09   13:18:05 50 Xploite plc Annual Report 2008  Annual Report 2008 Xploite plc 51
+26. Earnings per share
+Basic earnings per share is calculated by dividing the profit attributable to equity holders of the company by the 
+weighted average number of ordinary shares in issue during the year.
+  2008   2007
+ Continuing Discontinued Total Continuing Discontinued Total
+ £’000 £‘000 £’000 £’000 £’000 £’000
+Profit attributable to equity holders  (336) 1,877 1,541 (250) 497 247
+Adjustments:
+Amortisation of intangible assets 1,896 281 2,177 536 – 536
+Integration and strategic costs 1,204 52 1,256 171 – 171
+Adjusted profit before amortisation  
+of intangible assets 2,764 2,210 4,974 457 497 954
+ 
+ 
+ Number Number Number Number Number Number
+Basic weighted average  
+number of shares 38,715,830 38,715,830 38,715,830 39,202,070 39,202,070 39,202,070
+Impact of share options 1,184,719 1,184,719 1,184,719 2,485,303 2,485,303 2,485,303
+Diluted weighted average  
+number of shares 39,900,549 39,900,549 39,900,549 41,687,373 41,687,373 41,687,373
+ 
+Earnings per share – pence
+Basic (0.87) 4.85 3.98 (0.64) 1.27 0.63
+Diluted  (0.87) 4.73 3.88 (0.64) 1.19 0.59
+Adjusted and before  
+amortisation – Basic 7.14 5.71 12.85 1.17 1.27 2.43
+Adjusted and before  
+amortisation- Diluted 6.96 5.56 12.52 1.10 1.19 2.29
+ 
+Where there is a loss per share from continuing operations, the share options are not dilutive and hence the diluted 
+earnings per share is the same as the basic.
+27 Commitments
+(a) Capital commitments
+Capital expenditure contracted for but not yet incurred at 31 October 2008 – Nil (2007: Nil).
+(b) Operating lease commitments
+The future aggregated minimum lease payments under on-cancellable operating leases are as follows:
+    2008 2007
+    £’000 £’000
+No later than one year    1,017 623
+Later than one year but no later than five years    3,581 1,502
+Later than five years    2,171 2,476
+    6,769 4,601
+c99861Book.indb   51 11/2/09   13:18:05 52 Xploite plc Annual Report 2008 
+notes to tHe finanCial statements continued
+For the year ended 31 October 2008
+ Annual Report 2008 Xploite plc 53
+28 Related-party transactions
+(a) Key management compensation
+    2008 2007
+    £’000 £’000
+Salaries and other short-term employment benefits    1,539 1,048
+Termination benefits    107 –
+Share based payments    139 143
+    1,785 1,191
+(b) Directors
+    2008 2007
+    £’000 £’000
+Aggregate emoluments    1,015 664
+Fees paid to non-executive directors    69 61
+    1,084 725
+ 
+The above emoluments include a £150,000 (2007: £150,000) bonus which is included within the gain/(loss) on disposal 
+of discontinued operations. These are bonuses which are specific to the performance of the disposal. Bonuses with 
+respect to ongoing activities are included within overheads.
+No pension contributions were paid on behalf of directors (2007: nil). No gains were made on share options in the year 
+(2007: nil)
+    2008 2007
+    £’000 £’000
+Emoluments of the highest paid director    346  250
+(c) Controlling party
+There is no one party which controls the group.
+29 Principal subsidiaries of the group as at 31 October 2008
+ 
+  Description and Description and
+  proportion of proportion of Country of
+  share capital held share capital incorporation Nature of
+Subsidiary undertakings  by Xploite plc held by group or registration business
+Posetiv Limited  – Ordinary 100%  Great Britain IT infrastructure
+Anix Holdings Limited  – Ordinary 100%  Great Britain Holding company
+Anix Group Limited  – Ordinary 100%  Great Britain Holding company
+Anix Computers Limited  – Ordinary 100%  Great Britain IT infrastructure and  
+     managed services
+Anix Business Systems Limited  – Ordinary 100%  Great Britain Dormant
+Storage Fusion Limited  – Ordinary 100%  Great Britain IT Business Service 
+     Assurance Solutions
+Red Squared Limited  – Ordinary 100%  Great Britain IT infrastructure and  
+     managed services
+Xploite IHC Limited   Ordinary 100%  Great Britain Holding company
+VBHG Limited  – Ordinary 100%  Great Britain Holding company
+c99861Book.indb   52 11/2/09   13:18:05 52 Xploite plc Annual Report 2008  Annual Report 2008 Xploite plc 53
+30 Post balance sheet events
+On 16 December 2008, Xploite plc completed the acquisition of 100% of the share capital of Blue River Systems 
+Limited (‘Blue River’) from Cantono plc (‘Cantono’) and the assets of three of Cantono’s managed services businesses, 
+following the approval of Cantono’s shareholders.
+The total consideration was £3m. The initial £2m was payable on completion and the further £1m is payable subject 
+to verification work on the completion balance sheet. Since the work on the completion balance sheet is still to be 
+finalised it would be impracticable to provide any further financial information with respect to this transaction.
+31 Transition to IFRS
+(a)  Application of IFRS 1: First time adoption of International Accounting Standards
+IFRS 1 First time adoption of International Financial Reporting Standards sets out the transition rules, which must be 
+applied, when IFRS is adopted for the first time. The standard sets out certain mandatory exemptions to retrospective 
+application and certain optional exemptions. The optional exemptions available and taken by the Group are as follows:
+(i)  Deemed cost; the Group has taken the exemption not to restate individual items of property, plant and equipment 
+to fair value at the date of transition.
+(ii) Business combinations; the Group adopted the business combinations exemption in IFRS 1. It has not restated 
+business combinations that took place prior to the 1 November 2006 transition date.
+(b) Main policy differences between IFRS and UK GAAP 
+(i) Acquisition of subsidiaries; IFRS 3 Business Combinations and IAS 12 Income taxes
+Goodwill represents the excess of the cost of an acquisition over the fair value of the net identifiable assets of the 
+acquired subsidiary at the date of acquisition. Goodwill is not amortised, instead it is subject to annual impairment 
+tests, or more frequently if there is an indication of impairment. An adjustment has therefore been made to reverse the 
+goodwill amortisation previously charged.
+IFRS 3 also requires that intangible assets acquired are identified separately from goodwill. Hence for the business 
+combinations after 1 November 2006, part of the cost of acquisition has been allocated to intangible assets. This 
+element is then amortised through the income statement over the useful economic life as noted in the detailed 
+accounting policies. An adjustment has been made for the reallocation to intangible assets along with the appropriate 
+amortisation charge.
+A deferred tax liability has been provided against these intangible assets, resulting in an increase in residual goodwill by 
+this amount. Although this liability has been recognised in accordance with IAS 12, and a proportion will be amortised 
+to the income statement as the related intangible asset is amortised, this liability is only payable if the intangible asset is 
+sold separately and this is not expected to happen.
+(ii) Deferred tax; IAS 12 Income taxes
+Deferred tax is provided in full using the liability method, on temporary differences arising between the tax base of 
+assets and liabilities and their carrying amounts in the consolidated accounts.
+Deferred tax impacts arise on all the IFRS adjustments made as noted in the reconciliations including the intangible 
+assets as noted above.
+c99861Book.indb   53 11/2/09   13:18:06 54 Xploite plc Annual Report 2008 
+notes to tHe finanCial statements continued
+For the year ended 31 October 2008
+ Annual Report 2008 Xploite plc 55
+31 Transition to IFRS continued
+(iii) Computer software; IAS 38 Intangible assets
+Under UK GAAP , all capitalised computer software is included within tangible fixed assets on the balance sheet. Under 
+IFRS, only computer software that is integral to a related item of hardware should be included as property, plant and 
+equipment. All other computer software should be recorded as an intangible asset. Accordingly, a reclassification has 
+been made from tangible assets to intangible assets for this software.
+(iv) Fair value of available for sale financial assets; IAS 39 Financial instruments: Recognition and 
+measurement
+Under IFRS, available for sale financial assets must be reported in the balance sheet at their fair values with the 
+corresponding entry to the income statement. Under UK GAAP these assets were stated at historic cost. The impact 
+of this change is to increase the fair value at the date of transition. Increasing the fair value at the date of transition, 
+increased the loss to the income statement on their subsequent sale.
+(v) Holiday pay accrual; IAS 19 Employee Benefits
+IAS 19 requires the recording of a holiday pay accrual. This has been included in the acquisition balance sheets with 
+a corresponding entry to goodwill. There are income statement impacts when comparing a position at 31 October to 
+30 April. On an annual basis, no significant impact is expected.
+(c) Reconciliations between IFRS and UK GAAP 
+(i) Reconciliation of UK GAAP loss to IFRS profit
+     Year ended
+     31 October 2007
+    Note £’000
+Loss for the year as reported under UK GAAP     (565)
+Adjustments for:
+Reinstatement of goodwill amortisation    (i) 1,357
+Amortisation of intangible assets    (i) (536)
+Deferred tax on amortisation of intangible assets    (i) 161
+Movement on fair value of financial instruments    (iv) (331)
+Deferred tax on movement on fair value of financial instruments   (ii) 99
+Movement on holiday pay accrual    (v) 89
+Deferred tax on movement on holiday pay accrual    (ii) (27)
+Net impact of adjustments     812
+Total profit for the year as reported under IFRS     247
+c99861Book.indb   54 11/2/09   13:18:06 54 Xploite plc Annual Report 2008  Annual Report 2008 Xploite plc 55
+31 Transition to IFRS continued
+(ii) Reconciliation of equity from UK GAAP to IFRS
+    31 October 31 October
+    2006  2007
+   Note £’000 £’000
+Total equity as reported under UK GAAP    25,019 14,644
+Adjustments for:
+Transfer to intangible assets from goodwill   (i) – 12,115
+Transfer from goodwill to intangible assets   (i) – (12,115)
+Deferred tax liability on intangibles to goodwill   (i) – 3,635
+Deferred tax liability   (i) – (3,635)
+Reinstatement of goodwill amortisation   (i) – 1,357
+Amortisation of intangible assets   (i) – (536)
+Deferred tax on amortisation of intangible assets   (i) – 161
+Transfer of software costs to intangible assets   (iii) – 157
+Transfer of software costs from tangible assets to intangible assets  (iii) – (157)
+Movement on fair value of financial instruments   (iv) 331 –
+Deferred tax on movement on fair value of financial instruments  (ii) (99) –
+Adjustment to goodwill re: holiday pay accrual   (v) – 156
+Accrual for holiday pay   (v) – (156)
+Movement on holiday pay accrual   (v) – 89
+Deferred tax on movement on holiday pay accrual   (ii) – (27)
+Net impact of adjustments    232 1,044
+Total equity as reported under IFRS    25,251 15,688
+(iii) Reconciliation of cash flows from UK GAAP to IFRS
+The consolidated statement of cash flows prepared under IFRS presents substantially the same information as that 
+required under UK GAAP .
+Under IFRS only three categories of cash flow activity are required to be reported: operating, investing and financing. 
+Cash flows from returns on investments and servicing of finance under UK GAAP are included as operating activities 
+and investing activities respectively under IFRS. There are no other material differences between the cash flow 
+statement presented under IFRS and the cash flow statement presented under UK GAAP .
+c99861Book.indb   55 11/2/09   13:18:06 56 Xploite plc Annual Report 2008 
+notes to tHe finanCial statements continued
+For the year ended 31 October 2008
+ Annual Report 2008 Xploite plc 57
+31 Transition to IFRS continued
+(d) Detailed reconciliations between IFRS and UK GAAP
+(i) Reconciliations of UK GAAP consolidated profit and loss account to IFRS consolidated income statement
+Year ended 31 October 2007 (last period presented under UK GAAP)
+   UK GAAP
+   Audited  IFRS
+   Year ended Effect of Unaudited
+   31 October transition to Year ended
+   2007 IFRS 31 October 2007
+   £’000 £’000 £’000
+Continuing operations
+Revenue   28,927 – 28,927
+Cost of sales   (22,641) – (22,641)
+Gross profit   6,286 – 6,286
+Administrative expenses (excluding depreciation, 
+amortisation and costs of integration)   (5,765) 89 (5,586)
+Depreciation   (519) – (519)
+Amortisation    (1,357) 821 (536)
+Costs of integration   (171) – (171)
+Total administrative expenses   (7,722) 910 (6,812)
+Operating loss   (1,436) 910 (526)
+Finance income   327 – 327
+Finance cost   (102) – (102)
+Finance income – net   225 – 225
+Loss before tax   (1,211) 910 (301)
+Tax (expense)/credit   (182) 233 51
+Loss for the year from continuing operations   (1,393) 1,143 (250)
+Discontinued operations
+Profit for the year from discontinued operations   828 (331) 497
+(Loss)/profit for the year attributable to equity shareholders  (565) 812 247
+Post tax results from discontinued operations   559 – 559
+Gain/(loss) on disposal of net tangible assets   311 (331) (20)
+Taxation charge   (42) – (42)
+Net gain/(loss) on disposal   269 (331) (62)
+Total profit for the year from discontinued operations   828 (331) 497
+c99861Book.indb   56 11/2/09   13:18:06 56 Xploite plc Annual Report 2008  Annual Report 2008 Xploite plc 57
+31 Transition to IFRS continued
+(ii) Reconciliations of equity at 31 October 2006 (end of last period under UK GAAP) from UK GAAP to IFRS 
+As at 31 October 2006 (date of transition)
+   UK GAAP  
+   Audited Effect of IFRS
+   31 October transition to Unaudited
+   2006 IFRS 31 October 2006
+   £’000 £’000 £’000
+Assets
+Non-current assets
+Property, plant and equipment   62 – 62
+Deferred tax assets   15 – 15
+Available for sale financial assets   2,000 331 2,331
+   2,077 331 2,408
+Current assets
+Inventories   861 – 861
+Trade and other receivables   1,885 – 1,885
+Deferred consideration on disposals   5,875 – 5,875
+Cash and cash equivalents   20,280 – 20,280
+   28,901 – 28,901
+Liabilities
+Current liabilities
+Trade and other payables   (2,973) – (2,973)
+Deferred consideration on acquisitions   (1,871) – (1,871)
+Current tax liabilities   (1,088) – (1,088)
+Borrowings   (9) – (9)
+   (5,941) – (5,941)
+Non current liabilities
+Borrowings   (18) – (18)
+Deferred tax liabilities   – (99) (99)
+   (18) (99) (117)
+Net assets   25,019 232 25,251
+Shareholders’ equity
+Called up share capital   3,820 – 3,820
+Share premium account   11,926 – 11,926
+Merger reserve   3,268 – 3,268
+Profit and loss account   6,005 232 6,237
+Total shareholder equity   25,019 232 25,251
+c99861Book.indb   57 11/2/09   13:18:06 58 Xploite plc Annual Report 2008 
+notes to tHe finanCial statements continued
+For the year ended 31 October 2008
+31 Transition to IFRS continued
+(iii) Reconciliations of equity at 31 October 2007 (end of last period presented under UK GAAP) from UK 
+GAAP to IFRS 
+As at 31 October 2007
+    Effect of 
+   UK GAAP transition to IFRS
+   Audited IFRS Unaudited
+   £’000 £’000 £’000
+Assets
+Non-current assets
+Goodwill   28,490 (6,967) 21,523
+Intangible assets   – 11,736 11,736
+Property, plant and equipment   1,966 (157) 1,809
+Deferred tax assets   371 – 371
+Trade and other receivables   2,847 – 2,847
+Deferred consideration on disposals   35 – 35
+   33,709 4,612 38,321
+Current assets
+Inventories   20 – 20
+Trade and other receivables   14,493 – 14,493
+Cash and cash equivalents   4,225 – 4,225
+   18,738 – 18,738
+Liabilities
+Current liabilities
+Trade and other payables   (26,672) (67) (26,739)
+Current tax liabilities   (908) – (908)
+Borrowings   (395) – (395)
+   (27,975) (67) (28,042)
+Non-current liabilities
+Borrowings   (2,978) – (2,978)
+Trade and other payables   (3,667) – (3,667)
+Deferred tax liabilities   – (3,501) (3,501)
+Deferred consideration on acquisitions   (3,183) – (3,183)
+   (9,828) (3,501) (13,329)
+Net assets   14,644 1,044 15,688
+Shareholders’ equity
+Called up share capital   3,952 – 3,952
+Share premium account   1,647 – 1,647
+Merger reserve   3,511 – 3,511
+Profit and loss account   5,343 1,044 6,387
+Share based payment reserve   191 – 191
+Total shareholder equity   14,644 1,044 15,688
+c99861Book.indb   58 11/2/09   13:18:06  Annual Report 2008 Xploite plc 59
+independent auditors‘ report to tHe memBers of 
+xploite plC
+We have audited the parent company financial statements 
+of Xploite plc for the year ended 31 October 2008 which 
+comprise the balance sheet, accounting policies and the 
+related notes. These parent company financial statements 
+have been prepared under the accounting policies set out 
+therein.
+We have reported separately on the group financial 
+statements of Xploite plc for the year ended 31 October 
+2008.
+Respective responsibilities of directors and auditors
+The directors’ responsibilities for preparing the Annual 
+Report and the parent company financial statements in 
+accordance with applicable law and United Kingdom 
+Accounting Standards (United Kingdom Generally 
+Accepted Accounting Practice) are set out in the 
+Statement of Directors’ Responsibilities.
+Our responsibility is to audit the parent company 
+financial statements in accordance with relevant legal 
+and regulatory requirements and International Standards 
+on Auditing (UK and Ireland). This report, including 
+the opinion, has been prepared for and only for the 
+company’s members as a body in accordance with 
+Section 235 of the Companies Act 1985 and for no 
+other purpose. We do not, in giving this opinion, accept 
+or assume responsibility for any other purpose or to any 
+other person to whom this report is shown or into whose 
+hands it may come save where expressly agreed by our 
+prior consent in writing.
+We report to you our opinion as to whether the parent 
+company financial statements give a true and fair view 
+and whether the parent company financial statements 
+have been properly prepared in accordance with the 
+Companies Act 1985. We also report to you whether 
+in our opinion the information given in the directors’ 
+report is consistent with the parent company financial 
+statements. The information given in the directors’ 
+report includes that specific information presented in the 
+business and financial review that is cross referred from 
+the business review and future developments section of 
+the directors’ report.
+In addition we report to you if, in our opinion, the 
+company has not kept proper accounting records, if we 
+have not received all the information and explanations we 
+require for our audit, or if information specified by law 
+regarding directors’ remuneration and other transactions 
+is not disclosed.
+We read other information contained in the Annual 
+Report and consider whether it is consistent with the 
+audited parent company financial statements. The 
+other information comprises only the directors’ report, 
+the chairman’s statement, the chief executive’s review, 
+the business and financial review and all of the other 
+information listed on the contents page. We consider 
+the implications for our report if we become aware of 
+any apparent misstatements or material inconsistencies 
+with the parent company financial statements. Our 
+responsibilities do not extend to any other information.
+Basis of audit opinion
+We conducted our audit in accordance with International 
+Standards on Auditing (UK and Ireland) issued by the 
+Auditing Practices Board. An audit includes examination, 
+on a test basis, of evidence relevant to the amounts and 
+disclosures in the parent company financial statements. 
+It also includes an assessment of the significant estimates 
+and judgments made by the directors in the preparation 
+of the parent company financial statements, and of 
+whether the accounting policies are appropriate to 
+the company’s circumstances, consistently applied and 
+adequately disclosed.
+We planned and performed our audit so as to obtain all 
+the information and explanations which we considered 
+necessary in order to provide us with sufficient evidence 
+to give reasonable assurance that the parent company 
+financial statements are free from material misstatement, 
+whether caused by fraud or other irregularity or error. 
+In forming our opinion we also evaluated the overall 
+adequacy of the presentation of information in the parent 
+company financial statements.
+Opinion
+In our opinion:
+l  the parent company financial statements give a true 
+and fair view, in accordance with United Kingdom 
+Generally Accepted Accounting Practice, of the state of 
+the company’s affairs as at 31 October 2008;
+l  the parent company financial statements have been 
+properly prepared in accordance with the Companies 
+Act 1985; and
+l  the information given in the Directors’ Report 
+is consistent with the parent company financial 
+statements.
+PricewaterhouseCoopers LLP
+Chartered Accountants and Registered Auditors
+Gatwick
+25 January 2009
+c99861Book.indb   59 11/2/09   13:18:06 60 Xploite plc Annual Report 2008  Annual Report 2008 Xploite plc 61
+Company BalanCe sHeet As at 31 October 2008
+   Note 2008 2007 
+    £’000 £’000
+Fixed assets
+Tangible assets   2 191 189
+Investments   3 – –
+    191  189
+Current assets
+Debtors   4 24,471 24,410
+Cash at bank and in hand    871 11
+     25,342 24,421
+Creditors: Amounts falling due within one year   5 (5,369) (7,562)
+Net current assets    19,973 16,859
+Total assets less current liabilities    20,164 17,048
+Creditors: Amounts falling due after more than one year   6 (4,935) (2,606)
+Net assets     15,229 14,442
+Capital and reserves
+Called up share capital   8 3,952 3,952
+Share premium account   9 1,647 1,647
+Merger reserve   9 3,511 3,511
+Share based payments reserve   9 330 191
+Profit and loss account   9 5,789 5,141
+Total Shareholders’ funds   9  15,229 14,442
+ 
+The financial statements on pages 60 to 65 were approved and authorised for issue by the Board on 23 January 2009 
+and signed on its behalf by
+A I Smith
+Director
+c99861Book.indb   60 11/2/09   13:18:06 60 Xploite plc Annual Report 2008  Annual Report 2008 Xploite plc 61
+notes to tHe parent Company finanCial statements
+For the year ended 31 October 2008
+Accounting policies
+Basis of accounting
+The financial statements have been prepared on the going concern basis under the historical cost convention, in 
+accordance with the Companies Act 1985 and applicable accounting standards in the United Kingdom. As permitted 
+by section 230 of the Companies Act 1985, no separate profit and loss account is presented for the Company. The 
+company loss for the year was £648,000, (2007: profit of £8,000).
+A summary of the more important accounting policies which have been consistently applied is set out below together 
+with an explanation of where changes have been made to previous policies on the adoption of new accounting 
+standards in the year.
+Tangible fixed assets
+Tangible fixed assets are stated at cost less accumulated depreciation and impairment losses. Cost includes the original 
+purchase price of the asset and the costs attributable to bringing the asset to its working condition for its intended use.
+Depreciation is provided at rates calculated to write off the cost or valuation of fixed assets, less their estimated residual 
+value over their expected useful lives on the following basis:
+Leasehold property improvements 20% per annum – straight line over period of lease 
+Motor vehicles 25% per annum – straight line 
+Fixtures, fittings and equipment 20%-50% per annum – straight line
+The directors annually review the estimated useful lives of the fixed assets.
+The gain or loss arising on the disposal or retirement of an asset is determined as the difference between the sales 
+proceeds and the carrying amount of the asset and is recognised in income.
+Impairment of fixed assets
+Impairment reviews are conducted in accordance with Financial Reporting Standard 11 (Impairment of fixed assets and 
+goodwill). Any impairment losses are recognised in the profit and loss account. Impairment write downs are determined 
+by reference to the higher of net realisable value or value in use.
+Fixed asset investments
+Fixed asset investments in group undertakings are carried at cost less any provision for impairment.
+Share based payments
+The company operates a number of equity-settled, share-based payment compensation plans. The fair value of the 
+employee service received in exchange for the grant of the options is recognised as an expense. The total amount to 
+be expensed over the vesting period is determined by reference to the fair value of the options granted, excluding the 
+impact of any non-market vesting conditions (for example, profitability and sales growth targets). Non-market vesting 
+conditions are included in assumptions about the number of options that are expected to vest. At each balance sheet 
+date, the entity revises its estimates of the number of options that are expected to vest. It recognises the impact of the 
+revision to original estimates, if any, in the income statement, with a corresponding adjustment to equity.
+The proceeds received net of any directly attributable transaction costs are credited to share capital (nominal value) and 
+share premium when the options are exercised.
+Leases
+Assets held under leases that result in group companies receiving substantially all the risks and rewards of ownership 
+are classified as finance leases and capitalised as tangible fixed assets at the estimated present value of the underlying 
+lease payments. The interest element of the rental obligation is allocated to the accounting periods to reflect a constant 
+rate of interest on the outstanding obligation The corresponding finance lease obligation is included within creditors.
+c99861Book.indb   61 11/2/09   13:18:06 62 Xploite plc Annual Report 2008  Annual Report 2008 Xploite plc 63
+notes to tHe parent Company finanCial statements continued
+For the year ended 31 October 2008
+Accounting policies continued
+Deferred taxation
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at the balance sheet 
+date, where transactions or events that result in an obligation to pay more tax in the future or a right to pay less tax in 
+the future have occurred at the balance sheet date.
+A net deferred tax asset is recognised as recoverable and therefore recognised only when, on the basis of all available 
+evidence, it can be regarded as more likely than not that there will be suitable taxable profits against which to recover 
+carried forward tax losses and from which the reversal of underlying timing differences can be extracted.
+Deferred tax is measured at the average tax rates that are expected to apply in the periods in which the timing 
+differences are expected to reverse based on tax rates and laws that have been enacted or substantially enacted by the 
+balance sheet date. Deferred tax is measured on an undiscounted basis.
+Related party transactions
+The Company has taken advantage of the exemption provided by FRS 8, related party disclosures and not disclosed 
+transactions with subsidiary undertakings where over 90% of the shares in the subsidiary are owned by the Company.
+Cash flow statement
+The Company is the parent company of the Xploite plc group and is included in the consolidated financial statements 
+of Xploite plc. Consequently the Company has taken advantage of the exemption from preparing a cash flow 
+statement under the terms of Financial Reporting Standard 1 (Revised 1996).
+1. Profit and loss account notes
+1a.) Directors’ remuneration
+Remuneration is paid directly by the company to the directors. Details of this are provided in note 28 to the group 
+financial statements.
+1b.) Employee information
+Staff costs
+    2008 2007 
+    £’000 £’000
+Wages and salaries     1,018 582
+Social security costs    166 48
+    1,184 630
+ 
+The average monthly number of persons (including executive directors) employed by the company during the year were 
+as follows:
+    2008 2007 
+    Number Number
+Administration and management    4 4
+ 
+1c.) Auditors’ remuneration
+Fees payable to the company’s auditor for the audit of the Company’s annual financial statements is £15,000 (2007: 
+£15,000).
+c99861Book.indb   62 11/2/09   13:18:06 62 Xploite plc Annual Report 2008  Annual Report 2008 Xploite plc 63
+2. Tangible fixed assets
+    Fixtures, 
+   Motor fittings and 
+   vehicles equipment Total 
+   £’000 £’000 £’000
+Cost
+Balance at 1 November 2007   180 23 203
+Additions   62 – 62
+Balance at 31 October 2008   242 23 265 
+ 
+Accumulated depreciation
+Balance at 1 November 2007   8 6 14
+Charge for the year   55 5 60
+Balance at 31 October 2008   63 11  74 
+ 
+Net book amount
+At 31 October 2008   179 12 191
+At 31 October 2007   172 17 189
+ 
+Included within the net book amount of £191,000 (2007: £189,000), is £179,000 (2007:172,000) relating to assets 
+held under finance leases and hire purchase contracts.
+3. Investments
+     Total 
+     £
+Shares in group undertakings
+At 31 October 2007 and 31 October 2008     3
+ 
+Details of the principal subsidiaries are provided in note 29 of the group financial statements.
+4. Debtors
+    2008 2007 
+    £’000 £’000
+Trade debtors    – 2
+Amounts due from subsidiary undertakings    22,763 24,232
+Deferred consideration on disposals    35 35
+Other debtors    1,629 71
+Prepayments and accrued income    44 70
+    24,471 24,410
+ 
+Debtors due after more than one year included in above 
+    2008 2007 
+    £’000 £’000
+Deferred consideration on disposals     – 35
+c99861Book.indb   63 11/2/09   13:18:06 64 Xploite plc Annual Report 2008  Annual Report 2008 Xploite plc 65
+notes to tHe parent Company finanCial statements continued
+For the year ended 31 October 2008
+5. Creditors: amounts falling due within one year
+    2008 2007 
+    £’000 £’000
+Bank loans and overdrafts    601 4,462
+Trade creditors    195 425
+Amounts owed to group undertakings    939 939
+Hire purchase and finance lease arrangements    1,071 27
+Taxation and social security    24 11
+Corporation tax    1,549 726
+Other creditors    6 6
+Accruals    984 966
+    5,369 7,562
+ 
+Amounts owed to group undertakings bear interest at 1% above the Bank of England Base Rate, are unsecured and 
+payable on demand.
+6. Creditors: amounts falling due after more than one year
+    2008 2007 
+    £’000 £’000
+Revolving credit facilities    4,505 2,475
+Finance leases    430 131
+    4,935 2,606
+ 
+7. Loans and other borrowings
+    2008 2007 
+    £’000 £’000
+Bank loans and overdrafts    5,106 6,937
+Finance leases    1,501 158
+    6,607 7,095
+ 
+The bank borrowings are secured by a debenture comprising a fixed and floating charge over all the assets and 
+undertakings of the group.
+Maturity of loans and other borrowings
+Within one year    1,970 4,489
+Between one and two years    30 27
+Between two and five years    4,607 2,579
+    6,607 7,095
+ 
+Finance leases
+Future minimum payments under finance leases are as follows:
+Within one year    1,970 4,489
+Between one and two years    30 27
+Between two and five years    4,607 2,579
+    6,607 7,095
+c99861Book.indb   64 11/2/09   13:18:06 64 Xploite plc Annual Report 2008  Annual Report 2008 Xploite plc 65
+8. Called up share capital
+    2008 2007 
+    £’000 £’000
+Authorised
+50,000,000 ordinary shares of 10p each    5,000 5,000
+ 
+ 
+Allotted, called up and fully paid    Number Number
+Ordinary shares of 10p each    39,516,955  39,516,955
+    £’000 £’000
+Ordinary shares of 10p each    3,952 3,820
+ 
+The market price of the shares at 31 October 2008 was 35p (2007: 46p).
+9. Reconciliation of movements in shareholders’ funds
+    Share based 
+ Share Share Merger payments Profit and 
+ capital premium reserve reserve loss account Total 
+ £’000 £’000 £’000 £’000 £’000 £’000
+At 1 November 2007 3,952 1,647 3,511 191 5,141 14,442
+Retained profit for the year – – – – 648 648
+Movement on share based 
+payment reserve – – – 139 – 139
+At 31 October 2008 3,952 1,647 3,511 330 5,789 15,229
+     
+    Share based 
+ Share Share Merger payments Profit and 
+ capital premium reserve reserve loss account Total 
+ £’000 £’000 £’000 £’000 £’000 £’000
+At 1 November 2006 3,820 11,926 3,268 – 5,230 24,244
+Retained profit for the year – – – – 8 8
+Prior year adjustment – – – 97 (97) –
+Capital reduction – (10,312) – – – (10,312)
+Issue of shares 132 33  243 – – 408
+Movement on share based 
+payment reserve – – – 94 – 94
+At 30 November 2007 3,952 1,647 3,511 191 5,141 14,442
+10. Post balance sheet events
+On 16 December 2008, Xploite plc completed the acquisition of 100% of the share capital of Blue River Systems 
+Limited (‘Blue River’) from Cantono plc (‘Cantono’) and the assets of three of Cantono’s managed services businesses, 
+following the approval of Cantono’s shareholders.
+The total consideration was £3m. The initial £2m was payable on completion and the further £1m is payable subject 
+to verification work on the completion balance sheet. Since the work on the completion balance sheet is still to be 
+finalised it would be impracticable to provide any further financial information with respect to this transaction.
+c99861Book.indb   65 11/2/09   13:18:06 66 Xploite plc Annual Report 2008 
+Company information Directors
+A I Smith Chief Executive 
+A C Weaver Director 
+R G Arrowsmith Director 
+J Standen Chairman 
+R Ramsay Non executive director
+Secretary
+Beach Secretaries Ltd
+Company number
+3897926
+Registered address
+100 Fetter Lane 
+London 
+EC4A 1BN
+Auditors
+PricewaterhouseCoopers LLP 
+First Point 
+Buckingham Gate 
+Gatwick 
+West Sussex 
+RH6 0PP
+Bankers
+HSBC Bank plc 
+69 Pall Mall 
+London 
+SW1Y 5EY
+Nominated advisor
+KBC Peel Hunt 
+100 
+London 
+EC
+Legal advisor
+Beachcroft LLP 
+100 Fetter Lane 
+London 
+EC4A 1BN
+Registrars
+Capita Registrars Plc 
+Northern House 
+Woodsome Park 
+Fenay Bridge 
+Huddersfield 
+HD8 0LA
+www.capitaregistrars.com
+c99861Book.indb   66 11/2/09   13:18:06 Contents
+Highlights 01
+Chairman’s statement 02
+Chief executive’s review 03
+Business and financial review 05
+Directors’ report 10
+Independent auditors’ report to the 
+members of Xploite plc (group opinion) 14
+Consolidated income statement 15
+Consolidated balance sheet 16
+Consolidated statement of 
+changes in equity 17
+Consolidated cash flow statement 18
+Notes to the consolidated 
+cash flow statement 19
+Notes to the financial statements 20
+Independent auditors’ report 
+to the members of Xploite plc 
+(parent company opinion) 59
+Parent company balance sheet  60
+Notes to the parent company 
+financial statements 61
+Company information  66
+Xploite identifies acquires, consolidates 
+and develops businesses in the IT services 
+marketplace.
+Produced by Imprima +44 (0) 20 7105 0300
+c99861_Cover.indd   2 10/2/09   12:16:59 Xploite plc Annual Report 2008
+pantone 193C
+c=0
+m=100
+y=66
+k=13
+k=90
+consolidate
+develop
+acquire
+identify
+Annual Report    2008
+Xploite plc 
+First Point 
+Buckingham Gate 
+Gatwick 
+West Sussex 
+RH6 0PP
+www.xploite.com
+c99861_Cover.indd   1 10/2/09   12:16:59

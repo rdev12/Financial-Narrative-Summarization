@@ -1,0 +1,1767 @@
+ ARC International plc Annual Report and Accounts 2002
+ARC International plc Annual Report and Accounts 2002 Contents
+2 ARC at a glance
+4 Chairman’s statement
+5 Chief Executive Officer’s review
+12 Financial review
+14 Directors and advisers
+16 Directors’ report
+18 Remuneration report
+22 Corporate governance
+25 Statement of directors’ responsibilities
+26 Independent auditors’ report
+27 Consolidated profit and loss account
+Consolidated statement of total recognised 
+gains and losses
+28 Consolidated balance sheet
+29 Consolidated cash flow statement
+30 Notes to the accounts
+48 Locations of principal operating companies
+IBC Shareholder information 1
+ARC’s mission is to be the world leader in supplying integrated embedded system
+solutions for our target markets.
+Our purpose is to make it easy for our customers to create embedded systems, usually 
+a system-on-chip (SoC). We do this by simplifying the complexity of designing, verifying
+and producing integrated circuits and the software that runs on these integrated circuits,
+with a unique system that results from the integration of ARC’s RISC/DSP processors,
+compilers, real-time operating system (RTOS), application software and peripherals.
+The ARC system allows users to create new SoC solutions in less time, at a lower cost
+and lower risk than alternatives. We will continue to reduce the number of technology
+suppliers our customers have to deal with as the library of ARC technology continues 
+to expand. This will reduce our customers’ time to market, cost and risk. ARC International plc Annual Report and Accounts 2002
+At a glance
+2
+Turnover up at £11.7 million, the highest in the Company's history, compared with 
+£11.4 million in 2001
+Operating expenses before exceptionals, amortisation and depreciation significantly reduced 
+by 18% to £29.3 million
+Pre-exceptional net loss reduced by 16% to £20.5 million
+Cash burn down 20% to £20 million 
+Expanded customer base with 29 design wins, 20 new ARCtangent™ customers and 
+16 peripheral licensees achieved in 2002, and over 50 new software customers each quarter
+Successfully diversified product offering with USB On-The-Go and WLAN launched in 
+June 2002 and January 2003 respectively
+Recruitment of senior management team complete
+Completed strategic review and announced £48.5 million share repurchase 
+Launched into Asia, with 6% of revenues from this region in the fourth quarter 2002
+1998 1999 2000 2001 2002
+913
+1,914
+10,564
+11,450
+11,702
+Turnover by year £000 3
+Q2 Q4
+2,764
+4,305
+3,195
+5,050
+US$000 £000
+Q3 Q1
+2,731
+3,902
+3,011
+4,402
+Turnover by quarter 2002
+Processor Tools Software Peripherals
+3,195
+3,011
+2,731
+2,764
+Q2 Q4 Q3 Q1
+Revenue by product line by quarter 2002 £000
+3,195
+3,011
+2,731
+Asia Europe North America
+2,764
+Q2 Q4 Q3 Q1
+Revenue by geography by quarter 2002 £000 ARC International plc Annual Report and Accounts 2002
+4
+I am very pleased to report that the Company has made solid progress
+during the first full year of Mike Gulett’s tenure as Chief Executive Officer.
+Decisive action has been taken to improve all areas of the business and 
+we have ended the year in a much stronger competitive position. 
+We reported record turnover for 2002, despite very difficult market conditions, and achieved our objective of growing 
+the business organically, whilst successfully reducing the overall cost structure.
+In the past 12 months, ARC’s management team has been significantly strengthened with new senior executives in finance,
+marketing, engineering, legal, human resources and corporate development. The senior executive staff now has an average
+of more than 25 years’ experience in developing successful technology companies. We continue to invest in people to drive
+the business towards profitability and are confident that we have the right executive team in place to deliver this. We also
+appointed Jeremy (Jez) San OBE to the Board as Non-Executive Director with effect from 4 November. Jez is Chief Executive
+Officer of Argonaut Games PLC and a founder of ARC International.
+Our product strategy and customer proposition is clearer than ever before. We have diversified from selling just processor
+cores, to providing a more integrated approach to product design, with development tools, software and peripheral IP. 
+Most recently, we have launched USB Now ™ and WLAN Now ™, to complement our existing and new versions of the
+ARCtangent™ processors. We believe that this has improved our competitive position in the intellectual property (IP) market,
+and attracted new strategic partnerships and customers. As a result of these changes, our customer profile has improved 
+and we are now actively targeting the larger semiconductor and systems businesses.
+In November, we appointed WestLB Panmure as joint corporate broker and financial adviser to the Company. We then
+carried out a review to address the capital requirements of the business. The review showed that ARC had sufficient working
+capital funding to bring the Company to profitability on the basis of reasonably prudent assumptions and we announced 
+the intention to repurchase £48.5 million of ARC’s stock during the first half of 2003, thereby optimising shareholders’
+potential for future returns. When the process is completed, we will still have a strong balance sheet with sufficient cash
+resources for the longer term, as well as the flexibility to make complementary acquisitions where appropriate.
+My three-year appointment to the Board has come to an end and on 5 February 2003, I announced that I would be
+resigning from the Board with effect from the AGM on 24 April 2003. I want to thank my colleagues on the Board 
+for an inspiring time with many challenges and much hard work and I wish them and ARC all the best for the future. 
+The Board will announce a new Chairman shortly.
+Finally, I’d like to thank all of our employees for their very hard and dedicated work this past year and I look forward 
+to ARC’s successes in 2003.
+Jan Tufvesson Chairman
+27 February 2003
+Chairman’s statement 5
+2002 was a year of achievement for ARC and we reported the 
+highest turnover in the Company’s history. Despite very challenging 
+market conditions, fourth-quarter revenues grew by 41% year on year. 
+Overview Net loss was reduced to £22.0 million from £29.9 million in 2001 and operating costs were significantly
+lower than the previous year. 2002 was also an important transitional year for ARC, and under the leadership of a new,
+experienced management team, the Company has completed a major restructuring.
+The management team completely refocused the business and product strategies. Completing the integration of all acquired
+subsidiaries allowed us to leverage the technology to create a system-level approach to product development, which
+accelerated the introduction of important new products and expanded our customer base beyond our traditional markets. 
+We maintained a diversified product offering. In fiscal 2002, 47% of turnover came from processor cores, 20% from
+peripherals and 33% from software products. This diversification resulted in the expansion of our customer base and we
+have begun actively targeting the larger semiconductor and systems businesses. In 2002, we won 29 new ARCtangent™
+processor design wins and 16 peripheral licensees. In addition, we shipped software and development tools to more than
+50 customers in each quarter.
+Our customers continue to develop products for our traditional markets of wired and wireless communications as well 
+as consumer electronics, but our new systems-level approach opened opportunities in computer security and encryption, 
+as well as the rapidly growing storage area network market.
+In 2002, we expanded successfully into Asia with sales and support channels in Taiwan and Japan. 6% of fourth-quarter
+revenues came from Asia, up from zero in the first two quarters of 2002. We expect this trend to continue.
+We consolidated the engineering teams to promote synergies in software product development. The engineering operation
+in Ottawa was closed but many of the engineers relocated to the Santa Cruz, California software development centre. 
+This is one of the areas where we made significant cost reductions.
+Product strategy and customer focus Our goal is to be the leading supplier of embedded systems technology. 
+We have reduced the number of IP vendors that our customers need, which reduces their design risk, reduces their
+development time and reduces their costs. Unlike our competitors in the IP space, ARC can guarantee that all the key
+hardware and software components, for a specific design, will work together because we provide most of the technology.
+ARC continues to enjoy the benefits of shifting its product strategy from a processor-centric approach to a system-level
+approach and the customer response has been very encouraging. 
+In 2002 we announced relationships with Intel Microelectronics Services, Oak Technologies, Hifn, Amlogic, Synopsys,
+Mentor Graphics and others. In early 2003 we will announce the details of our relationships with several other companies.
+We are developing products that expand our capability in consumer electronics, wired and wireless communications, 
+and some new markets including computer security, encryption and storage area networking.
+Chief Executive Officer’s review ARC International plc Annual Report and Accounts 2002
+6
+Chief Executive Officer’s review continued
+ARCtangent™ processor ARC was the first company to introduce a user-customisable RISC/DSP
+processor. The ARCtangent™ is sythesisable, configurable and extensible, so users can readily modify
+and extend the architecture for their specific applications. ARC currently provides two families of
+ARCtangent™ processor cores, the A4 and the A5. ARC is the world leader in delivering user-
+customisable RISC/DSP processors – we have secured more than 120 design wins since this product
+was introduced. The Company achieved 29 new design licences for the ARCtangent™ processor in 
+2002; 20 of these licensees were new customers.
+In October 2002, ARC introduced the ARCtangent™-A5, a design that is targeted at those designers
+developing communications and consumer electronic products with design cycles of six months or less.
+This product integrates a single-software development chain and application-specific extensions with 
+the ARCtangent™-A5 processor. 
+USB Now ™ In June 2002, ARC introduced the world’s first USB 2.0 Hi-Speed On-The-Go controller
+and, as of today, we are the only supplier of this vital new technology. In the fourth quarter, we added
+six licensees for this product, for a six-month total of 13. 
+According to InStat, an industry analyst firm, the market for Universal Serial Bus (“USB”) in non-PC
+applications is growing twice as fast as demand in the PC market. ARC’s USB On-The-Go (“USB-OTG”)
+product is strategically positioned to leverage the growing demand for mobility. USB-OTG eliminates 
+the need to connect peripherals through a PC. 
+WLAN Now ™ With the broadening acceptance of 802.11 as the wireless LAN technology of
+choice, there is rapidly increasing market demand to enable all electronic devices with wireless
+technology. This includes, but is not limited to, personal digital assistants (PDAs), consumer electronics
+(audio, video, games), wireless terminals, home networking devices and broadband gateways (DSL,
+cable, set-top boxes). Existing products are served with 802.11 chipsets. These chipsets are too
+expensive, require too much power and occupy too much area to be used effectively within consumer,
+handheld and embedded products.
+With all kinds of digital electronics devices coming to market, users could become more
+productive if they could mix and match the functionality of their portable devices. The vast
+majority of computer peripherals currently communicate to each other through a computer via
+the Universal Serial Bus (“USB”), although that is changing. An update to this standard interface,
+called USB On-The-Go (“OTG”), eliminates the need to use a PC as the host interface. ARC is
+the leader in USB 2.0 Hi-Speed OTG technology. In June, we introduced the industry’s first USB
+On-The-Go IP platform, USB Now ™. Using ARC’s USB On-The-Go-based products, for example,
+your digital cameras will be able to directly connect to cell phones and send images over the
+internet. USB Now ™ has been a major success, with 13 licences signed in 2002, and is still 
+the only product of its kind on the market.
+USB On-The-Go eliminates the role of the PC 
+as a go-between  7
+Integration
+“ARC helped make the task of porting the software as seamless as the hardware integration
+effort. Ultimately, we found that ARC’s documentation and technical support were superior 
+to other third-party processor core companies.”  
+John Zhong, Chairman, President and CEO, Amlogic
+Amlogic Inc, a leading supplier of highly integrated system-on-chip solutions for the fast growing
+multimedia and internet consumer markets, selected the ARCtangent™-A4 core to be the brain
+of a progressive scan DVD controller. The design objectives for the AML3300 chip were to
+achieve the highest level of integration to support new features, while minimising the lowest cost
+of ownership. The ARCtangent™ processor, combined with ARC’s RTOS, complier and debugger
+tool suite, delivered, according to Amlogic, “the highest performance in the smallest footprint”.
+Amlogic’s single-chip progressive scan DVD 
+controller is ARC-enabled
+First configurable and extensible RISC processor optimised for SoC implementations
+ARC is the world leader in user-customisable RISC/DSP processors 8
+Integration
+Metrowerks, an independently operated subsidiary of Motorola, Inc., develops and markets
+popular development tools for the PowerPC
+®
+peripheral. These tools are used by thousands 
+of developers worldwide. In July, the two companies reached a joint marketing agreement that
+will allow Metrowerks to bundle and distribute ARC’s software to its worldwide customer base.
+ARC signs software marketing agreement 
+with Metrowerks/Motorola
+Single-source solution for embedded software and development tools 9
+ARC International plc Annual Report and Accounts 2002
+Chief Executive Officer’s review continued
+ARC launched WLAN Now ™, the 802.11 multi-protocol MAC and baseband product, in early 2003. 
+A low-cost, small footprint technology offering that is suitable for integration at the chip level into
+consumer, handheld and embedded products.
+Other new products ARC is on target to introduce several additional products during the rest of
+2003. ARC will continue to innovate in an ongoing effort to make it easy for our customers to create
+embedded systems, by simplifying the complexity of designing, verifying and producing integrated
+circuits and the software that runs on these integrated circuits.
+Asia sales expansion Asia offers a huge opportunity for ARC. Through strategic alliances and
+partnerships ARC is bringing its entire portfolio of intellectual property to the Asian market. In May, 
+we hired a sales manager for Asia. In July, we established a partnership with e-MDT and Hynix
+Semiconductor to provide full turnkey design services for products based on our technology in China 
+and Korea. In August, we signed EDOM Technology as the distributor of ARC’s products in Taiwan 
+and China. In November, we announced the opening of our office in Taiwan and announced plans 
+to open an office in Japan. This preliminary effort resulted in an increase in our Asia revenue from 
+zero in the first two quarters of the year to 6% of total revenue in the fourth quarter.
+Strategic alliances Strategic alliances are very important for ARC to achieve the goal of building a
+long-term profitable business. We have announced several strategic alliances this year and will continue
+to partner with those companies that provide “Best of Breed” technology, to complement our approach 
+to product design. In addition to relationships with Synopsys, Standard Microsystems, Hynix, e-MDT 
+and Denali Software, we negotiated alliances with: 
+  Metrowerks, an independently operated subsidiary of Motorola, Inc., that signed an agreement 
+in July to distribute ARC software products to its worldwide customer base.
+  Mentor Graphics announced co-verification model support for the family of ARCtangent™ 
+user-customisable RISC/DSP cores in early December.
+  Ashling Microsystems, a recognised expert in embedded software development tools, agreed 
+in October to extend its suite of emulators and trace development tools to the ARCtangent™ 
+user-customisable 32-bit RISC/DSP microprocessor.
+WLAN, or WiFi, short for wireless fidelity, means that the cables that hook your computer to 
+the network are replaced by small, low-powered, two-way radios. Users can transmit distances
+of several dozen to several hundred feet without having to deal with cables. ARC’s WLAN
+Now ™ development platform will speed the development and deployment of designs for 
+this new standard. 
+ARC’s WLAN Now ™ offering is a complete IEEE 802.11a/b/g modem/baseband and MAC
+soft IP building block solution for SoC-based wireless LAN access point and client devices.
+WLAN Now ™ enables designers looking to integrate 802.11 functionality into their systems 
+or chips. This is a cost-effective, small footprint approach, making integration into a broad
+array of products feasible.
+Wireless LAN (“WLAN”) technology promises greater
+mobility, convenience and improved productivity ARC International plc Annual Report and Accounts 2002
+10
+Chief Executive Officer’s review continued
+Business integration In June, we announced that we had completed the integration of ARC’s
+subsidiary companies into a single functional organisation. VAutomation, Precise Software Technologies
+and MetaWare now all operate under the ARC International brand name. This has resulted in significant
+improvements in ARC’s product offering and image in the marketplace. For customers, such as SanDisk,
+Hifn, QLogic, RF Micro Devices, Fujitsu, Infineon Technologies, Sun Microsystems and many others, ARC
+is a one-stop shop for embedded RISC/DSP processors, RTOS, software, peripherals and development
+tools. ARC has a unique product portfolio and we offer integrated products that are not available from
+any other company. During the second half of the year, we consolidated ARC’s software engineering
+teams to promote synergies in software product development and reduce the overall cost structure. 
+The transition was completed in early 2003. Our engineering facility in Ottawa was closed and 
+a number of the Ottawa based RTOS and protocol software engineers were relocated to Santa Cruz,
+California, where ARC’s software development team is headquartered. 
+People In the past 12 months, ARC’s management team has been significantly strengthened; 
+we now have a new management team with the experience and skills to lead ARC to profitability.
+Headcount at the end of 2002 was 198 compared to 223 at the end of 2001, a reduction 
+of 11% over the year. We centralised and streamlined many functions, which has led to improved 
+results and reduced costs.
+Outlook Our growth in 2003 will be driven by new products and by expansion into Asia. 
+Our customer activity has significantly increased over the past year – we are working with a record
+number of prospective new customers. We believe that this will lead to continued organic growth 
+as we convert prospective licensees into new valued customers.
+Mike Gulett President and Chief Executive Officer
+San Jose, California
+27 February 2003
+“The ARCtangent™ cores offer the customisation and flexibility we need to utilise multiple
+instances with optimised size and performance for each task.” 
+John Metzger, VP of Engineering, Hifn, Inc
+Hifn, a leading supplier of advanced compression, encryption and classification technologies,
+selected the ARCtangent™-A5 development platform for their next-generation security
+architecture, the HIPP III security processor with FlowThrough™ technology. Hifn’s integrated
+data flow technology enables secure intelligent networks, central to the growth of the internet,
+helping to make browsing, internet shopping and multimedia communications better, faster 
+and more secure. The ARCtangent™ platform provided the essential blend of programmability
+and performance required for the most demanding and advanced applications.
+ARC powers Hifn’s next-generation FlowThrough
+™
+security processor family 11
+Integration
+Micronas is a leading supplier of cutting-edge IC and sensor system solutions for consumer
+electronics, multimedia and automotive electronics. In 2002, Micronas selected ARC’s recently
+released USB Hi-Speed On-The-Go controller, and will use USB Hi-Speed OTG to develop 
+new products for its targeted consumer and multimedia markets. 
+This is the second time Micronas has licensed USB technology from ARC. In early 2001,
+Micronas integrated ARC’s USB core into an audio controller that was developed for a range
+of dedicated audio applications such as USB headsets, PC connectivity for stereo systems, 
+and online gaming, including the Live Kit for the Microsoft® Xbox. 
+Micronas licenses ARC’s USB Hi-Speed 
+On-The-Go controller
+World’s first SoC IP platform integrated and optimised for Hi-Speed USB On-The-Go
+Wi Fi (802.11) wireless LAN IP platform integrated and optimised for SoC implementations ARC International plc Annual Report and Accounts 2002
+12
+Financial review
+Revenue The Group has three sources of revenue: licence fees, maintenance and services and royalties. Revenue for the
+year was £11.7 million (2001: £11.4 million). Licence fees were £9.2 million (2001: £8.9 million), maintenance and
+services £2.0 million (2001: £2.0 million) and royalties £0.5 million (2001: £0.5 million).
+Year ended Year ended
+31 December 31 December
+2002 2001
+Operating expenses £000 £000
+Cost of sales 1,323 1,683
+Research and development 13,052 13,291
+Sales and marketing 10,053 14,293
+General and administration 4,913 6,583
+Exceptional costs 1,501 5,526
+Depreciation of fixed assets 3,147 2,427
+Goodwill amortisation 4,093 4,075
+38,082 47,878
+Operating results (pre-exceptional costs) Gross margin was 89% (2001: 85%) due to increased revenue year over
+year while reducing expenses. Cost of sales consists primarily of customer support staff costs for the maintenance and service
+needs of the Company's customer base. There are no significant direct costs of sale associated with licence fees or royalties.
+Operating expenses, excluding exceptional costs, depreciation and amortisation, decreased to £29.3 million (2001:
+£35.8 million) due to a restructuring and tight management of costs.  Headcount decreased to 198 at the end of 2002
+from 223 at the end of 2001. This was comprised of 123 (2001: 135) in research and development, 43 (2001: 53) 
+in sales and marketing and 32 (2001: 35) in general and administration.
+The loss before interest and tax and exceptional operating items was £24.9 million (2001: £30.9 million).
+Exceptional operating items During the year the Company made a provision for the costs associated with reducing 
+the workforce and for the closure of the Ottawa facility. The provision made and the movements therein, as well as the
+movements related to the 2001 provision, are shown in note 19 on page 40. The utilisation of the provision has been
+primarily for redundancy costs, onerous lease obligations, write down of goodwill and write down of fixed assets in the
+Ottawa facility. The remaining provision is to cover onerous lease obligations, write down of remaining fixed assets and 
+the balance of the outstanding redundancy payments. 13
+Goodwill Goodwill represents the excess of the fair value of the cost of investment in acquired businesses over the fair value
+of the underlying net tangible assets acquired, and is amortised over its estimated useful life, which management estimates to
+be five years. The charge in the accounts for the year ended 31 December 2002 is £4.1 million (2001: £4.1 million).
+Capital expenditure Capital expenditure to support the development of the business decreased to £3.3 million 
+(2001: £5.3 million), of which £3.2 million was on purchases of hardware and software.
+Taxation The Group has tax losses brought forward and was loss making in 2002. The tax charge of £69,000 relates 
+to the European businesses and US state taxes. The Group does not currently recognise a deferred tax asset as detailed 
+in note 20 on page 40.
+Loss per share The loss per ordinary share for the full year was 7.54p (2001: loss 10.83p), based on a weighted
+average number of shares of 292,369,180 shares (2001: 276,333,147 shares).
+Cash flow Net cash used in operating activities was £19.6 million (2001: £27.3 million). Net returns from investments
+were £3.7 million (2001: £6.4 million), and capital expenditure was £3.3 million (2001: £5.3 million). The net funds
+outflow was £19.9 million (2001: £25.0 million).
+Treasury policy The Group's treasury policy seeks to ensure that adequate financial resources are available for the
+development of the Group's businesses whilst managing its currency, interest rate and counterparty risks. Group treasury
+operates within clearly defined guidelines that are approved by the Board. The Group's policy is not to engage in
+speculative transactions. The Group's policy in respect of major areas of treasury is set out below:
+Currency translation The results of the Group's foreign subsidiaries are translated into sterling at the average exchange rates
+for the period concerned. The balance sheets of the foreign companies are translated into sterling at the closing exchange
+rates. Any gains and losses resulting from the translation are recorded in reserves.
+Currency transaction This arises where actual sales and purchases are made by a business unit in a currency other than its
+own functional currency. The Group at this stage in its development has chosen not to hedge these transactions, since the
+main exposure is in revenue and the time delay between raising the invoice and settlement is relatively short.
+Funding and deposits The Group ended the year with net funds of £101.0 million (2001: £120.8 million). The majority 
+of the funds have been placed with a leading UK clearer to manage on behalf of the Group under guidelines provided 
+by the Board. The balance, which is sufficient for immediate working capital needs, continues to be managed in-house.
+Counterparty risk The Group monitors the investment of its funds against predetermined limits so as to control exposure 
+to any territory or institution.
+Shareholders' funds Total shareholders' funds decreased from £136.1 million to £114.8 million resulting principally
+from the post exceptional operating loss of £22.0 million.
+Accounting standards These accounts have been prepared in accordance with all relevant UK accounting standards. 
+In addition, revenue has been accounted in accordance with the American Institute of Certified Public Accountants Statement
+of Position 97-2, "Software Revenue Recognition" (SOP 97-2), which is the standard generally adopted by the sector in
+which the Company operates. Compliance with SOP 97-2 is acceptable under UK generally accepted accounting principles.
+Monica Johnson Chief Financial Officer
+San Jose, California
+27 February 2003 ARC International plc Annual Report and Accounts 2002
+14
+Directors and advisers
+Board of Directors
+Jan Olof Ingemar Tufvesson MEE, age 64, non-executive Chairman*†‡ Mr Tufvesson joined the Board of Directors 
+in December 1999 and became Chairman in September 2001. Since 1998 he has worked as a management consultant.
+He worked for Ericsson from 1980 to 1998, most recently as Vice President of Procurement. Before that, he held a number
+of senior positions on the Royal Swedish Air Force Board. He is non-executive Chairman of Dialog Semiconductor plc.
+Michael Raymond Gulett age 50, Chief Executive Officer Mr Gulett was appointed Chief Executive Officer 
+and joined the Board in December 2001. From 1998 to 2001 he was President and Chief Operating Officer of 
+Virata Corporation. Previously he was President and Chief Executive Officer of Paradigm Technology. He has held 
+senior management positions with a number of major technology companies including VLSI Technology, NCR
+Microelectronics and Intel.
+Michael Adam Risman MA(Hons) MBA, age 34*† Mr Risman joined the Board of Directors in March 2000, having
+worked closely with the Company since foundation. He is a director of Apax Partners Ltd where he manages the European
+Technology team and sits on the International Investment Committee. He previously worked for Cap Gemini and Jaguar
+Cars. He is currently a non-executive director of Dialog Semiconductor plc and several privately-held companies.
+Dennis Henry Millard CA(SA) MBA, age 53*†‡ Mr Millard joined the Board in August 2000. He is Group Finance
+Director of Cookson Group plc and was previously Group Finance Director of Medeva plc. He qualified in South Africa 
+as a chartered accountant.
+Gregorio Reyes MSc, age 62*‡ Mr Reyes joined the Board in August 2000. A management consultant, he is also 
+non-executive director of LSI Logic Corporation Inc, and a director of several privately-held technology companies. 
+Previously he was non-executive director of Sync Research and C Cube Microsystems.
+Jeremy (Jez) San OBE, age 36* Mr San joined the Board of Directors in November 2002. A founder of ARC
+International, he has 20 years of valuable experience in the technology industry. In 2001, he was voted Entrepreneur 
+of the Year by the European Technology Forum and he recently received an OBE for services to the computer game 
+industry. He is Chief Executive Officer of Argonaut Games plc.
+* Non-executive
+† Member of the Audit Committee
+‡ Member of the Remuneration Committee 15
+From left: Dennis Millard, Gregorio Reyes, Michael Risman, Mike Gulett, Jez San and Jan Tufvesson
+Registered offices and advisers
+Joint Company Secretaries 
+Tom Huppuch
+Charles Rendell
+Registered office
+ARC House, The Waterfront, Elstree Road
+Elstree, Hertfordshire WD6 3BS
+Registered in England and Wales No. 3592130
+www.ARC.com
+Registrar
+Capita Registrars, The Registry, Beckenham Road
+Beckenham, Kent BR3 4TU
+Tel 020 8639 2000, Fax 020 8658 3430
+Shareholders should contact the Registrar in connection
+with changes of name and address, lost share certificates
+and the transfer of shares.
+Principal bankers
+Lloyds TSB Bank plc, 71 Lombard Street 
+London EC3P 3BS
+Royal Bank of Scotland plc, 135 Bishopsgate
+London EC2M 3UR
+Joint brokers
+WestLB Panmure Limited, Woolgate Exchange
+25 Basinghall Street, London EC2V 5HA
+Goldman Sachs International, Peterborough Court
+133 Fleet Street, London EC4A 2BB
+Legal adviser
+Macfarlanes, 10 Norwich Street, London EC4A 1BD
+Registered auditors
+PricewaterhouseCoopers LLP, Harman House
+1 George Street, Uxbridge, Middlesex UB8 1QQ ARC International plc Annual Report and Accounts 2002
+Directors’ report
+16
+The directors present their report and the audited financial statements for the year ended 31 December 2002. 
+Business review and principal activities The Group is a leading developer of user-customisable processors, peripherals and software 
+for communications and consumer products. The Group has operations in Europe, North America and Asia, with principal offices as set out 
+on page 48. A review of the operations and future developments is included in the Chairman’s statement on page 4 and the Chief Executive’s
+review on pages 5 to 10. 
+Results and dividends The results for the year are set out on page 27. The financial statements for the Group show a turnover for the year
+ended 31 December 2002 of £11.7 million compared with £11.4 million for the year to 31 December 2001. There was an operating loss 
+of £26.3 million for the year compared with an operating loss of £36.4 million for the period ended 31 December 2001. The directors do 
+not recommend the payment of a dividend. 
+Policy on payment to suppliers The Company is a holding company and as of 31 December 2002 had no trade creditors. It is Group
+policy that payment to suppliers is made in accordance with suppliers’ agreed terms and in accordance with its contractual and other legal
+obligations. The average number of creditor days for the Group during 2002 was 27 days (2001: 35 days), and for the Company was nil 
+for both 2002 and 2001. 
+Research and development The Group continues to undertake research and development activities aimed at the ongoing improvement 
+of its technology. Research and development costs are charged to the profit and loss account as incurred and were £13.1 million (2001: 
+£13.3 million). Information of activities undertaken is explained in the Chief Executive’s review on pages 5 to 10. 
+Directors and their interests The directors who served during the year and subsequent to the year end, and their interests (which are 
+all beneficial) in the ordinary share capital of the Company, are shown below and details of options held are given in the remuneration report 
+on pages 18 to 21. 
+Number of shares
+2002 2001
+M Gulett 100,000 –
+D Millard 17,000 17,000
+G Reyes 200,000 100,000
+M Risman 9,500 9,500
+J San (appointed 4 November 2002) 49,755,940 49,755,940
+J Tufvesson 205,000 220,000
+As of the date of this report there have been no other changes to the above interests of the directors in the ordinary shares of the Company. 
+Jez San is deemed to have a beneficial interest in the shares held by Fistral Trustees Limited and RISC Capital BV.
+Simon Poulton resigned on 19 June 2002 and John Stockton resigned on 31 January 2002.
+In accordance with the Company’s articles of association, Jez San, having been appointed since the last Annual General Meeting, will retire 
+at the Annual General Meeting and, being eligible, offers himself for re-appointment, Jez San’s service contract continues for two years and 
+two months.
+Corporate governance The Board’s report on corporate governance is set out on pages 22 to 24.
+Donations Our policy is to concentrate our support on projects related to the communities in which our employees and offices are located.
+During 2002 the Group made no charitable donations (2001: £3,000). No political contributions were made during the year (2001: £nil). 17
+Employee involvement The management of ARC understands the importance of maintaining a regular and open dialogue with employees
+and regularly canvasses them for their views and opinions. During the year, ARC has developed and maintained a system whereby employees
+can regularly discuss their views in relation to any matters concerning their welfare in the workplace or issues affecting their interests. We encourage
+employee involvement in the Group, and believe that achieving a common awareness on the part of all employees of the financial and
+economic factors affecting the performance of their employing Company plays a major role in maintaining the success of the Group. This has
+been achieved by regular meetings between managers and employees, and regular meetings of the whole company by video/teleconferencing.
+In addition, the Board believes that the inclusion of all employees in the Group’s share option schemes is an important part of ensuring that all
+employees are given the opportunity to feel involved as integral parts of the Group and remain fully committed to its continuing success. 
+Equal opportunities The Group is an equal opportunities employer and recruits on the basis of merit, not of race or gender. In addition, 
+the Group’s policy is to give full and fair consideration to applications for employment from disabled persons, having regard to their particular
+aptitudes and abilities. It is the Group’s objective to make appropriate arrangements for the continuing employment and training, career
+development and promotion of disabled persons employed by the Group. If an employee becomes disabled, the Group’s objective is the
+continued provision of suitable employment, either in the same or an alternative position, with appropriate training given if necessary. 
+Subsequent events On 12 February 2003, the Company despatched a circular to its shareholders. This contained a notice convening an
+extraordinary general meeting in order to seek shareholder approval for, inter alia, the implementation by the Company of its proposal to return
+£50.0 million of capital to shareholders by means of a tender offer involving the repurchase for cancellation of up to £48.5 million worth of
+ordinary shares in the Company (less the costs of the tender offer) and the lending of a further £1.5 million by the Company to the trustee of 
+the Company’s employee benefit trust to fund proposed market purchases by that trustee. The extraordinary general meeting has been convened
+for 9 am on 7 March 2003.
+As announced on 5 February 2003 in the Company’s unaudited preliminary results for the fourth quarter and year ended 31 December 2002,
+Jan Tufvesson has informed the Company of his intention to resign from office with effect from the Annual General Meeting of the Company in April. 
+Substantial shareholdings At 27 February 2003 the Company had been notified of the following interests of over 3% in the issued
+ordinary share capital of the Company:
+Number % ordinary
+of ordinary share
+shares capital
+New Star Asset Management Ltd 36,147,013 12.0
+AXA Investment Managers 28,654,663 9.5
+Fistral Trustees Limited 27,641,990 9.2
+RISC Capital BV 22,113,950 7.4
+Apax (OCS) Nominees Limited 10,748,890 3.6
+Richard Farleigh and his nominees 10,250,000 3.4
+Annual General Meeting The Annual General Meeting will be held at 9 am on 24 April 2003 at ARC House, The Waterfront, 
+Elstree Road, Elstree, Herts WD6 3BS.
+Auditors Following the conversion of our auditors PricewaterhouseCoopers to a Limited Liability Partnership (LLP) from 1 January 2003,
+PricewaterhouseCoopers resigned on 4 February 2003 and the directors appointed its successor, PricewaterhouseCoopers LLP, as auditors.
+PricewaterhouseCoopers LLP have indicated their willingness to continue in office and a resolution concerning their reappointment will be proposed 
+at the Annual General Meeting.
+By order of the Board
+Tom Huppuch Joint Company Secretary
+27 February 2003 ARC International plc Annual Report and Accounts 2002
+Remuneration report
+18
+Remuneration policy The principal function of the Remuneration Committee is to determine the remuneration packages of all executive
+directors and approve those of senior management. This includes pension contributions, bonus payments, share options and service contracts.
+The Remuneration Committee is chaired by Gregorio Reyes, and its other members are Dennis Millard and Jan Tufvesson. There have been 
+no changes to the Committee during the year.
+The Company operates a remuneration policy for executive directors and senior management designed to ensure it attracts and retains 
+the management skills necessary for it to remain a leader in its field. The Committee believes that directors’ and senior managers’ total
+remuneration should seek to recognise their worth in the external market.
+The policy on executive director and senior management remuneration and appointments is set out below.
+Policy on remuneration of executive directors and senior management
+i) Company policy In determining the Company’s policy on remuneration, the Remuneration Committee has regard to the following objectives:
+a) Remuneration packages offered are designed to be competitive, being comparable with packages available within other groups operating 
+in similar markets and on a similar scale, including competitors.
+b) Remuneration packages are fixed so as to attract, retain and motivate executives of the highest calibre, and at the same time optimise 
+interests of shareholders. The Committee takes into account the Company’s strive towards profitability when reviewing the monetary compensation
+that is awarded to directors and senior management.
+c) Share option grants are a significant element of Company performance-related remuneration which align with the Group’s achievement of 
+its results. Options are awarded on the commencement of employment and are granted by the Remuneration Committee at the next available
+meeting. Each employee of the Company partakes in the executive share option programme and the Board considers this to be a significant
+employee motivator in the current difficult industry environment. The Committee reviews the number of share options that directors and employees
+have been awarded and the exercise price to ensure that they remain effective. The Board is proposing a change to the share option scheme
+rules to allow it to keep up to date with current best practice on the levels of grant of share options to individuals.
+ii) Basic salary In assessing the level of basic salary, the Remuneration Committee takes account of the pay practices of other companies, 
+the responsibilities of each director, and pay awards elsewhere in the Group. Salaries are reviewed annually by the Remuneration Committee.
+iii) Bonus payments Bonus payments are paid to executive directors, of up to 50% of base salary, and senior management based on objectives
+set for each individual.
+iv) Long-term incentive plans and interests of shareholders The Remuneration Committee reviews the level of option awards to ensure that 
+they are consistent with the industry. It is the Board’s intention to continue to grant share options to executive directors to reward the directors 
+for their contribution towards the long-term profitability of the Company. The Board considers that the granting of share options without
+performance criteria is in the best interests of the shareholders given the Company is not a mature company operating in a stable environment.
+The Board considers that the use of performance criteria should be constantly reviewed to ensure that the best interests of shareholders 
+are maintained. The options of the directors are set out in the table on page 21.
+v) Pensions Post-retirement benefits, which comprise only pensions, are based on contributions to a defined contribution scheme of up 
+to 5% matched by the employee, paid into a UK personal pension plan. The contribution is based on salary and bonus payments in line 
+with Company policy for all UK employees, and is a standard UK contract term. Appropriate defined contribution pension schemes are 
+also available for our non-UK employees. 19
+Service agreements Mike Gulett has a “rolling” service contract which is terminable on one year’s notice from the Company or three months
+from this director. This agreement provides for the director to provide services to the Company on a full-time basis. The agreement contains
+restrictive covenants for periods of 12 months post employment relating to non-competition, non-solicitation of the Group’s customers, suppliers and
+employees and indefinitely with respect to confidential information and provides for the Group to own any intellectual property rights created by
+the directors in the course of their employment. The Company allows the executive directors to hold non-executive positions outside the Company.
+Contractual 
+Contract Unexpired Notice termination 
+date term period payments
+M Gulett 27.12.01 Rolling 1 year 1 year’s salary
+D Millard 30.08.00 2 months None specified None
+G Reyes 24.08.00 2 months None specified None
+M Risman 20.09.00 2 months None specified None
+J San 04.11.02 2 years 2 months None None
+J Tufvesson 01.12.99 1 year 2 months 90 days None
+Non-executive directors’ interests Details on individual directors’ emoluments and interests in share options are shown in the following
+tables on pages 20 and 21. For details of directors’ shareholdings in the Company, please refer to the table in the directors’ report on page 16.
+One of the non-executive directors, Jez San, is proposed for election at the next AGM.
+ARC International share price relative to FTSE Techmark 100 and FTSE IT Hardware
+Since the admission to the London Stock Exchange, the Company initially performed well but has since declined in line with the general market
+trend. The Company has given a negative 88% return and therefore outperformed the FTSE IT Hardware price index, which gave a negative
+return of 97%, but under performed the FTSE Techmark 100 price index which has given an 83% negative return. However, during 2002 the
+Company has outperformed both the IT Hardware and Techmark 100 indices (negative 45% vs negative 82% and negative 56% respectively).
+In the opinion of the directors, these indices are the most appropriate indices to measure the total shareholder return of the Company because
+these indices comprise similar companies to the Company.
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+Dec 
+02
+Nov 
+02
+Oct 
+02
+Sep 
+02
+Aug 
+02
+Jul 
+02
+Jun 
+02
+May 
+02
+Apr 
+02
+Mar 
+02
+Feb 
+02
+Jan 
+02
+Dec 
+01
+Nov 
+01
+Oct 
+01
+Sep 
+01
+Aug 
+01
+Jul 
+01
+Jun 
+01
+May 
+01
+Apr 
+01
+Mar 
+01
+Feb 
+01
+Jan 
+01
+Dec 
+00
+Nov 
+00
+Oct 
+00
+29 Sep
+00
+25 Sep
+00
+20 Sep
+00
+ARC International share price FTSE Techmark 100 price index FTSE IT Hardware price index Source: Thomson Datastream
+Monthly average ARC International plc Annual Report and Accounts 2002
+Remuneration report continued
+20
+Emoluments of directors The emoluments of the directors of the Company were as follows:
+Summary for the year:
+Salary and Compensation Total Total
+fees for loss of office
+1
+Benefits
+2
+Bonus
+3
+Pension 2002 2001
+£££££ £ £
+Executive directors
+M Gulett 171,875 6,346 62,500 2,469 243,190 36,568
+R Terwilliger 238,860
+S Poulton 82,530 163,800 8,120 4,126 258,576 197,134
+J Stockton 36,113 695 36,808 65,146
+Non-executive directors
+J San 2,403 2,403
+D Millard 15,000 15,000 15,000
+G Reyes 15,000 15,000 15,000
+M Risman 15,000 15,000 15,000
+J Tufvesson* 41,143 41,143 51,268
+J Stockton 182,001
+The emoluments shown above are for the period when each individual was a director of the Company. Details of dates are contained in the
+directors’ report. No directors waived their rights to emoluments.
+* Includes an amount of £9,375 paid to a third party in respect of making available the services of Jan Tufvesson.
+Jez San was appointed on 4 November 2002.
+1
+Compensation for loss of office to Simon Poulton includes 12 months’ salary.
+2
+Benefits include provision of car, fuel and health benefits.
+3
+Bonus based on Company and individual performance targets.
+See note 30 for related party transactions with Gregorio Reyes and Michael Risman. 21
+Interest in executive options over shares in the Company The interest in executive options over shares in the Company as 
+at 31 December 2002 for the directors is as follows:
+Number at Number at Exercise Date from
+1 January Granted Exercised Lapsed 31 December price Date of which Expiry
+2002 in year in year in year 2002 £ grant exercisable date
+M Gulett 10,000,000 10,000,000 0.455 28.12.01 28.12.02 28.12.11
+S Poulton 1,500,000 1,500,000 0.322 24.01.00 24.01.01 30.08.02
+532,395 532,395 0.900 24.01.00 24.01.01 01.07.02
+532,395 532,395 1.785 24.01.00 24.01.01 01.07.02
+50,000 43,942 6,058 0.98 30.03.01 30.03.02 01.07.03
+D Millard 600,000 600,000 1.125 30.08.00 30.08.00 29.08.10
+G Reyes 600,000 600,000 1.000 24.08.00 24.08.00 23.08.10
+J Stockton 300,000 91,668 208,332 0.322 01.12.99 01.12.99 30.11.09
+450,000 200,000 250,000 0.430 06.11.01 06.11.01 31.01.03
+J Tufvesson 300,000 300,000 0.322 01.12.99 01.12.99 30.11.09
+Dennis Millard, Gregorio Reyes and Jan Tufvesson have options that vest 50% on grant and then monthly over three years.
+Michael Risman and Jez San have not had any interest in executive options during the year.
+All executive share options are issued at market value.
+The market price of the Company’s shares at the end of the year was £0.2525. The range of prices during the year was £0.2125 to £0.51.
+As of the date of this report there have been no changes in the interests of the directors in options over ordinary shares of the Company.
+The emoluments of directors and interest in executive options over shares in the Company are the only auditable elements of the remuneration report.
+By order of the Board
+Gregorio Reyes Chairman of the Remuneration Committee
+27 February 2003 ARC International plc Annual Report and Accounts 2002
+Corporate governance 
+22
+The directors subscribe to the principles of good governance and code of best practice on corporate governance. Since listing, the Company
+has been in compliance with the provisions set out in Section 1 of the Combined Code on corporate governance issued by the Financial
+Services Authority.
+Directors The directors supervise the management of the business and the affairs of the Company and see their prime responsibility as being 
+to determine the broad strategy of the Company and to ensure its implementation with a view to enhancing the prosperity of the Company and
+its shareholders over time. 
+The Company has a Chairman, Jan Tufvesson, and a Chief Executive, Mike Gulett, each having their own separate responsibilities. Essentially,
+the Chairman is responsible for running the Board and the Chief Executive is responsible for running the Company’s business. The Board of
+Directors comprises six directors, five of whom are non-executive directors and one of whom is an executive director. Other than the Chairman,
+Dennis Millard is the recognised senior non-executive director. The Board considers that Jan Tufvesson, Dennis Millard and Gregorio Reyes are
+independent non-executive members of the Board. Although each has options over ordinary shares in the Company these were issued prior to 
+the listing on the London Stock Exchange. Michael Risman, although he holds no share options, is not considered independent as he is a director
+of Apax Partners and Co. Ventures Limited, a major shareholder in the Company. Jez San is also not considered to be independent as he has a
+beneficial interest in a major shareholding in the Company. Each non-executive director brings his own knowledge and experience to the Board
+to help give a balanced and objective overview. Jan Tufvesson and Gregorio Reyes bring experience in the semiconductor and electronics
+industries, while Dennis Millard and Michael Risman have extensive experience in management and financial matters. Each director is provided
+with sufficient information to enable him to discharge his duties and responsibilities as a director. The articles of association require each director
+to submit himself for re-election at least every three years. As the Board is small at present, there is no Nomination Committee, but the Board 
+will continue to review this in the light of the growth of the Company. Currently, all appointments are considered by the full Board with the
+remuneration and potential share options award considered and agreed by the Remuneration Committee. The Board also considers the
+appointment of senior management and approves their remuneration. 
+The Board meets on a regular basis throughout the year. The Board has reserved certain items for its review and approval, including the annual
+and interim results; annual management plans; significant capital expenditure which is not included in the current business plan and is not in the
+ordinary course of business of the Company; and senior management appointments. Other matters are delegated to Board committees including
+those detailed below. The Board is supplied, in a timely manner, with information in a form and of a quality appropriate to enable it to discharge
+its duties.
+Directors’ remuneration The Board has established a Remuneration Committee and its Terms of Reference. The role of the Committee is 
+to set the Company’s policy on the remuneration of the executive directors and senior management and to determine their specific remuneration
+packages, including bonus and share option arrangements. The Committee is comprised of three non-executive directors. The report on 
+directors’ remuneration is set out on pages 18 to 21. The whole Board decides upon the remuneration of the non-executive directors.
+Relations with shareholders In addition to ensuring that sufficient information is disseminated in order to maintain an orderly market in 
+the shares of the Company, the Company maintains a regular dialogue with major institutional shareholders. The Company reports its financial 
+results on a quarterly basis to its shareholders and the management presents to shareholders and the analyst community in line with Financial
+Services Authority and London Stock Exchange guidelines. The Company also operates an investor relations section on the Company website.
+This is updated regularly with information including the results of the AGM voting.
+The Annual General Meeting of shareholders to be held on 24 April 2003 will be the third since the Company listed on 28 September 2000.
+The Company sees this as an opportunity to communicate with all shareholders including private investors in the Company.  23
+Social, ethical and environmental policies In addition to carrying out our responsibilities to our shareholders, the Company endeavours 
+to take into account the interests of employees, customers and suppliers and the local communities and environments in which we operate. 
+The Company has adopted a formal Code of Ethics summarised as follows:
+  We provide quality products and services, delivered on time and at competitive prices.
+  We treat each other with dignity and respect.
+  We comply with the law.
+  We are sensitive to all forms of conflict of interest and employee share dealings and have issued separate policy statements with 
+which you are required to comply.
+  Our business practices are in accordance with our standards and we hold our outside consultants and representatives to the same 
+high standards.
+  We protect the intellectual property of ARC and our partners and handle company assets prudently.
+  Our communications and records are accurate, complete and timely.
+  As an international company, we are always aware of the differing cultures and business practices that will likely be encountered.
+  We ensure that all company operations and products are safe and environmentally sound.
+  We communicate with competitors only under appropriate circumstances and in strict accordance with the law.
+The Company has also adopted a set of principles to govern the day-to-day activity of the employees. 
+  Simplify complexity – always look at every task or problem for the simplest solution. 
+  Think and work as part of a team.  Every employee is on our team. Everything each employee does affects every other member of the team. 
+  Say what you mean and mean what you say. We do not have to agree with each other about everything. Intellectual honesty and diversity
+are healthy as long as we all practise disagreeing without being disagreeable.  
+  Strive for excellence in our work – we do it right the first time.  
+  Respect for the individual – we treat other people with dignity and respect as we like to be treated.  
+  We are honest with each other, our customers and all of our stakeholders.
+As a developer of intellectual property the Company has no manufacturing facilities and its premises are composed exclusively of offices. 
+The Company policy is to endeavour to minimise the impact of its activities on the environment and to comply with all relevant environmental
+laws and regulations. The Company has a policy of recycling as much as possible, ranging from paper waste to printer cartridges, reducing
+energy usage through the use of efficient lighting products and computer equipment and reducing travelling wherever possible. The Group 
+has offices throughout Europe and North America and uses a state-of-the-art video and teleconferencing facility to conduct as much business as
+possible. This has resulted in much reduced air travel costs and consequential environment benefit. Within the office environment the Company
+encourages the “paperless” office theory through the efficient use of computer and e-mail systems. The Group is constantly looking for further
+ways to be “environmentally friendly”.
+Accountability and audit In submitting this annual report and the financial statements to the shareholders the Board has sought to ensure
+that a balanced and understandable assessment of the Group’s position and prospects has been presented to the shareholders.
+The Board has established an Audit Committee and its Terms of Reference, comprising three non-executive directors. Dennis Millard is 
+Chairman with Jan Tufvesson and Michael Risman. The directors are responsible for ensuring that a sound system of internal control to safeguard
+shareholders’ investments and the Group’s assets are being maintained. The Committee assists with this process. The Committee meets at least
+twice a year and reviews the annual and half-yearly financial statements and the other documents to be sent to shareholders before they are
+submitted to the Board. The Committee considers the appointment of auditors, receives a report from them at each meeting and ensures that
+appropriate relationships are maintained with the auditors. ARC International plc Annual Report and Accounts 2002
+Corporate governance continued
+24
+Internal controls The directors have overall responsibility for establishing financial reporting procedures to provide them with a reasonable
+basis to make proper judgements as to the financial position and prospects of the Group and have responsibility for establishing the Group’s
+system of internal control and for monitoring its effectiveness. Internal control systems are designed to meet the particular needs of the Group and
+the risks to which it is exposed and include financial, operational and compliance controls and risk management. Although no system of internal
+control can provide absolute assurance that physical and financial assets are safeguarded, the system of control is designed in such a way that
+transactions are authorised and properly recorded and material errors and irregularities are either prevented or detected with the minimum of
+delay. Internal controls, both financial and operational, are subject to regular review by the Audit Committee and the Board.
+The process for identifying, evaluating and managing significant risks faced by the Group has been controlled through the use of the Risk
+Committee and through the Corporate Development department. The Committee has identified and worked with this department to provide
+reports regularly to the Board on areas such as the Group’s technology base and proposed developments, organisational structures, industry
+activity and competitor activity. The Group values its competitive advantages, which it seeks to actively maintain and protect. As part of the risk
+review the Group has also undertaken a major consultation with managers within the Group, as to their perceptions of the risks of the Company
+and methods of mitigating that. This formed a major part of the risk review in the later half of the year, with the results reviewed by the Corporate
+Development department and the executive management. The Risk Committee has presented this to the Audit Committee for consideration.
+During the year there has been a change in the Group’s operating management personnel. This has led to a rebranding of the Group to ARC
+International, with more integration of the companies within the Group. This has led to a centralised management structure with regular reporting
+to the Board. The Board maintains full control over major strategy and control issues.
+The Group has established prudent operating and financial policies to minimise its exposure to movements in foreign currencies.
+The Group’s treasury function operates within clearly defined risk management guidelines monitored by the Board. Its policies and procedures 
+are designed to set guidelines for the management of interest rates on cash deposits and the exposure to foreign exchange translation.
+All these policies and positions are regularly monitored and conservatively managed. It is a Group policy not to undertake any speculative
+transactions which create additional exposures over and above those arising from normal trading activity, and to manage the counterparty 
+risk to protect the capital of the Group.
+The key features of the Group’s financial reporting procedures and control framework include:
+  an annual strategy statement approved by the Board;
+  a comprehensive planning and budgetary process that results in an annual Group business plan which is approved by the Board; and
+  a monthly report of actual results compared with plan and forecasts for consideration by the Board.
+Going concern On the basis of current financial projections and facilities available, the directors have a reasonable expectation that the
+Group and the Company has adequate resources to continue in operational existence for the foreseeable future and, accordingly, consider 
+that it is appropriate to adopt the going concern basis in preparing the financial statements.
+By order of the Board
+Tom Huppuch Joint Company Secretary
+27 February 2003 Statement of directors’ responsibilities
+25
+Statement of directors’ responsibilities in relation to financial statements The directors are required, in accordance with
+company law and accounting principles generally accepted in the United Kingdom, to prepare financial statements for each financial year 
+which give a true and fair view of the state of affairs of the Group and Company and of the results of the Group for that period.
+The directors, in preparing the financial statements, are required to select suitable accounting policies and apply them consistently, supported 
+by reasonable and prudent judgements and estimates. All accounting standards which they consider to be applicable have been followed 
+and any material departures are disclosed and explained in the financial statements.
+The directors are responsible for keeping proper accounting records which disclose with reasonable accuracy at any time the financial position 
+of the Company and the Group and to enable them to ensure that the financial statements comply with the Companies Act 1985. They are 
+also responsible for safeguarding the assets of the Company and the Group and for taking reasonable steps to prevent and detect fraud and
+other irregularities.
+The directors are responsible for the maintenance and integrity of the ARC International plc website upon which the financial statements will be
+available. Legislation in the United Kingdom governing the preparation and dissemination of financial statements may differ from legislation in
+other jurisdictions.
+The directors confirm that they have complied with the above requirements in preparing the financial statements.
+Statements made in this annual report and accounts that are not historical facts may include forward-looking statements that involve risks and
+uncertainties. Important factors that could cause actual results to differ from those indicated by such forward-looking statements include, among
+others, market acceptance of the ARC technology; fluctuations in and unpredictability of the Company’s quarterly results; general economic and
+business conditions; regulatory policies adopted by governmental authorities; assumptions regarding the Company’s future business strategy;
+changes in technology; competition; ability to attract and retain qualified personnel; risks associated with the Company’s international operations;
+and other uncertainties that are discussed in the “Investment Considerations” section of the Company’s listing particulars dated 28 September
+2000 filed with the United Kingdom Listing Authority and the Registrar of Companies in England and Wales.
+By order of the Board
+Tom Huppuch Joint Company Secretary
+27 February 2003 ARC International plc Annual Report and Accounts 2002
+Independent auditors’ report 
+to the members of ARC International plc
+26
+We have audited the financial statements of ARC International plc which comprise the consolidated profit and loss account, the consolidated 
+and Company balance sheet, the consolidated cash flow statement, the statement of total recognised gains and losses and the related notes,
+which have been prepared under the historical cost convention and the accounting policies set out in the statement of accounting policies. 
+We have also audited the disclosures required by Part 3 of Schedule 7A to the Companies Act 1985 contained in the directors’ remuneration
+report (“the auditable part”).
+Respective responsibilities of directors and auditors The directors’ responsibilities for preparing the annual report, the directors’
+remuneration report and the financial statements in accordance with applicable United Kingdom law and accounting standards are set out in 
+the statement of directors’ responsibilities. Our responsibility is to audit the financial statements and the auditable part of the directors’ remuneration
+report in accordance with relevant legal and regulatory requirements and United Kingdom Auditing Standards issued by the Auditing Practices
+Board. This report, including the opinion, has been prepared for and only for the Company’s members as a body in accordance with Section 235
+of the Companies Act 1985 and for no other purpose. We do not, in giving this opinion, accept or assume responsibility for any other purpose
+or to any other person to whom this report is shown or into whose hands it may come save where expressly agreed by our prior consent in writing.
+We report to you our opinion as to whether the financial statements give a true and fair view and whether the financial statements and the
+auditable part of the directors’ remuneration report have been properly prepared in accordance with the Companies Act 1985. We also report
+to you if, in our opinion, the directors’ report is not consistent with the financial statements, if the Company has not kept proper accounting
+records, if we have not received all the information and explanations we require for our audit, or if information specified by law regarding
+directors’ remuneration and transactions is not disclosed. 
+We read the other information contained in the annual report and consider the implications for our report if we become aware of any apparent
+misstatements or material inconsistencies with the financial statements. The other information comprises only the highlights, the Chairman’s
+statement, the Chief Executive Officer’s review, the financial review, the directors’ remuneration report (“the non-auditable part”), the corporate
+governance statement and the statement of directors’ responsibilities.
+We review whether the corporate governance statement reflects the Company’s compliance with the seven provisions of the Combined Code
+specified for our review by the Listing Rules of the Financial Services Authority, and we report if it does not. We are not required to consider
+whether the board’s statements on internal control cover all risks and controls, or to form an opinion on the effectiveness of the Company’s 
+corporate governance procedures or its risk and control procedures. 
+Basis of audit opinion We conducted our audit in accordance with auditing standards issued by the Auditing Practices Board. An audit
+includes examination, on a test basis, of evidence relevant to the amounts and disclosures in the financial statements and the auditable part of the
+directors’ remuneration report. It also includes an assessment of the significant estimates and judgements made by the directors in the preparation
+of the financial statements, and of whether the accounting policies are appropriate to the Company’s circumstances, consistently applied and
+adequately disclosed. We planned and performed our audit so as to obtain all the information and explanations which we considered necessary
+in order to provide us with sufficient evidence to give reasonable assurance that the financial statements and the auditable part of the directors’
+remuneration report are free from material misstatement, whether caused by fraud or other irregularity or error. In forming our opinion we also
+evaluated the overall adequacy of the presentation of information in the financial statements. 
+Opinion In our opinion: 
+  the financial statements give a true and fair view of the state of affairs of the Company and the Group at 31 December 2002 and of the loss
+and cash flows of the Group for the year then ended;
+  the financial statements have been properly prepared in accordance with the Companies Act 1985; and
+  those parts of the directors’ remuneration report required by Part 3 of Schedule 7A to the Companies Act 1985 have been properly prepared
+in accordance with the Companies Act 1985.
+PricewaterhouseCoopers LLP 
+Chartered Accountants and Registered Auditors 
+West London, 27 February 2003 Consolidated profit and loss account
+for the year ended 31 December 2002
+27
+Year ended Year ended
+31 December 31 December 
+2002 2001
+Note £000 £000
+Turnover 3 11,702 11,450 
+Operating costs 4
+Goodwill amortisation (4,093) (4,075)
+Exceptional costs 5 (1,501) (5,526)
+Other operating costs (32,488) (38,277)
+(38,082) (47,878)
+Total operating loss (26,380) (36,428)
+Interest receivable and similar income 7 4,414 6,586
+Interest payable and similar charges 8 (11) (2)
+Loss on ordinary activities before tax 3 (21,977) (29,844)
+Tax on loss on ordinary activities 9 (69) (81)
+Retained loss for the period (22,046) (29,925)
+Basic loss per share 11 (7.54p) (10.83p)
+Diluted loss per share 11 (7.54p) (10.83p)
+Pre-exceptional loss per share 11 (7.02p) (8.83p)
+Diluted pre-exceptional loss per share 11 (7.02p) (8.83p)
+All activities relate to continuing operations.
+Consolidated statement of total recognised gains and losses
+for the year ended 31 December 2002
+Year ended Year ended
+31 December 31 December 
+2002 2001
+Note £000 £000
+Retained loss for the period (22,046) (29,925)
+Currency translation difference 23 (336) 71
+Adjustment to other reserves 23 (169) –
+Total loss for the period (22,551) (29,854) ARC International plc Annual Report and Accounts 2002
+Consolidated balance sheet
+as at 31 December 2002
+28
+Group Company Group Company
+2002 2002 2001 2001
+Note £000 £000 £000 £000
+Fixed assets
+Intangible assets 12 7,765 64 12,280 –
+Investment in own shares 13 1,660 1,660 ––
+Investments 13 – 22,583 – 19,054
+Tangible assets 14 6,419 12 6,702 9
+15,844 24,319 18,982 19,063
+Current assets
+Stock 15 88 – 156 –
+Debtors 16 4,981 1,150 3,710 588
+Investments 13 98,064 98,119 119,401 116,824
+Cash at bank and in hand 2,921 – 1,449 –
+106,054 99,269 124,716 117,412
+Creditors – amounts falling due within one year 17 (4,578) (8,834) (5,198) (410)
+Net current assets 101,476 90,435 119,518 117,002
+Total assets less current liabilities 117,320 114,754 138,500 136,065
+Creditors – amounts falling due after more than one year 18 –– (2) –
+Provisions for liabilities and charges 19 (2,566) – (2,433) –
+Net assets 114,754 114,754 136,065 136,065
+Capital and reserves 
+Called-up share capital 22 300 300 283 283
+Share premium account 23 152,661 152,661 151,033 151,033
+Exchangeable shares 23 4,040 4,040 4,286 4,286
+Merger reserve 23 107 107 107 107
+Other reserves 23 23,065 23,065 24,702 24,702 
+Profit and loss account 23 (65,419) (65,419) (44,346) (44,346)
+Total shareholders’ funds 114,754 114,754 136,065 136,065
+The financial statements on pages 27 to 47 were approved by the Board of Directors on 27 February 2003 and were signed on its behalf by:
+By order of the Board
+Mike Gulett Chief Executive Officer
+27 February 2003 Consolidated cash flow statement
+for the year ended 31 December 2002
+29
+Year ended Year ended
+31 December 31 December 
+2002 2001
+Note £000 £000
+Net cash outflow from operating activities 25 (19,627) (27,304)
+Returns on investments, servicing of finance and taxes paid
+Taxes paid (81) –
+Interest received 3,732 6,365
+Bank interest paid (11) –
+Interest element on finance lease rentals – (2)
+Net cash inflow from returns on investments and servicing of income 3,640 6,363
+Capital expenditure and financial investment
+Purchase of tangible fixed assets (3,295) (5,315)
+Purchase of intangible fixed assets (64) –
+Sale of tangible fixed assets – 8
+Investment in own shares (1,660)
+Net cash outflow from capital expenditure and financial investment (5,019) (5,307)
+Net cash outflow before management of liquid resources and financing (21,006) (26,248)
+Management of liquid resources
+Movement on term deposits 13 21,337 23,888
+Financing
+Issue of ordinary share capital on the exercise of options 1,399 1,243
+Capital element of finance lease rentals (5) (20)
+Decrease in borrowings – (17)
+Net cash inflow from financing 1,394 1,206
+Increase/(decrease) in net cash during the period 26 1,725 (1,154) ARC International plc Annual Report and Accounts 2002
+Notes to the accounts 
+30
+1  Basis of preparation
+These financial statements have been prepared under the historical cost convention in accordance with the Companies Act 1985 and applicable
+accounting standards, except for Financial Reporting Standard 4 (“FRS 4”) in relation to exchangeable shares (note 23). The accounting policies
+have been reviewed by the Board of Directors in accordance with FRS 18, “Accounting Policies”. No changes have been made as a result of this
+review, except that FRS 19, “Deferred Tax”, has been adopted in the current year, however this did not have any effect on the current period or
+prior year figures.
+2  Accounting policies
+The principal accounting policies are: 
+a) Basis of consolidation The financial statements comprise consolidated accounts for the Company and all of its subsidiaries. The accounts of 
+all subsidiaries are prepared annually to 31 December.  
+b) Turnover Turnover represents amounts receivable for goods and services (from a single class of business being design and development of
+microprocessor cores and related solutions) net of trade discounts. Licence fees are recognised upon signing of a sales contract with the customer
+and fulfilment of all significant obligations in respect of the software licence set out in that agreement. Where there are extended payment terms
+of more than 90 days, or management has doubt as to the recoverability of the licence fees, income is deferred until payment becomes due and
+recoverable. Where contracts contain an agreement to provide post-contract maintenance, the income is recognised on a straight-line basis over
+the period for which the maintenance has been agreed. Royalty income is recognised when the Group receives notification from the customer of
+product sales. 
+c) Tangible fixed assets and depreciation Tangible fixed assets are stated at cost less depreciation. Depreciation is provided at rates calculated
+to write off the cost less estimated residual value of each asset over its expected useful economic life, as follows: 
+Leasehold improvements Over the period of the lease
+Computer hardware and software 25 to 33% per annum on a straight-line basis
+Fixtures, fittings and equipment 15 to 20% per annum on a straight-line basis
+Motor vehicles 25% per annum on a straight-line basis
+d) Leasing and hire purchase commitments Assets obtained under hire purchase contracts and finance leases are capitalised as tangible assets
+and depreciated over the shorter of the lease term and their useful lives. Obligations under such agreements are included in creditors net of the
+finance charge allocated to future periods. The finance element of the rental payment is charged to the profit and loss account so as to produce
+a constant periodic rate of charge on the net obligation outstanding in each period. 
+Rents payable under operating leases are charged against income on a straight-line basis over the lease term. 
+e) Investments Current asset investments are stated at the lower of cost and market value and are cash term deposits not at call within 24 hours
+without penalty. The Company’s investment in subsidiary undertakings is shown at cost less provision for any impairment in value. Investment in
+own shares is stated at cost less any provision for permanent diminution in value.
+f) Deferred taxation Provision is made for deferred tax liabilities and assets, using full provision accounting, otherwise known as the incremental
+liability method, when an event has taken place by the balance sheet date which gives rise to an increased or reduced tax liability in the future
+in accordance with FRS 19. Deferred tax is measured at the average tax rates that are expected to apply in the periods in which the timing
+differences are expected to reverse, based on tax rates and laws that have been enacted or substantially enacted by the balance sheet date.
+Deferred tax is measured on a non-discounted basis and is provided to the extent that there it is considered more likely than not that an asset
+will crystallise in the foreseeable future. 31
+2  Accounting policies continued
+g) Research and development Research and development costs are expensed as incurred.
+h) Foreign currency translation Monetary assets and liabilities denominated in foreign currencies are translated into sterling at the rate of exchange
+ruling at the balance sheet date, except where forward cover has been obtained when the covered rate is used. Transactions in foreign
+currencies are recorded at the rate ruling at the date of the transaction. 
+The results of overseas subsidiary undertakings are translated at the average exchange rate for the year. The assets and liabilities of such
+undertakings are translated at year-end exchange rates. Differences on exchange arising on the retranslation of the opening net investment 
+in subsidiary companies are taken to reserves and are reported in the statement of total recognised gains and losses. 
+Foreign currency exchange gains and losses on forward exchange contracts used to manage exposure on fluctuations in foreign currency with
+respect to transactions, together with all other foreign currency exchange gains and losses on settlement, are included in the profit and loss account. 
+i) Goodwill Goodwill represents the excess of the fair value of the cost of investment in acquired businesses over the fair value of the underlying
+net identifiable assets acquired. Goodwill is amortised over its useful life, which management estimates to be five years and is stated after
+deducting any additional provisions for impairment.
+j) Share options The cost to the Company of granting shares or rights to shares, including options, to employees is charged to the profit and loss
+account over the period in which the benefit vests to the employees. The cost is calculated as the difference between the fair value of the shares
+at the date of grant and the cost to the employee of the rights. 
+k) Employers’ National Insurance contributions on share options granted The accrual for employers’ National Insurance contributions is charged to
+the profit and loss account over the period in which the benefit vests to the employees. This accrual is adjusted to reflect changes in the fair value of
+the Company’s shares. This adjustment is taken to the profit and loss account over the remaining period in which the benefit vests to the employees.
+l) Provisions Provisions for liabilities are made on the basis that the business has a constructive or legal obligation due to a past event. 
+m) Pension costs Contributions payable to personal defined contribution pension schemes are charged against profits during the period in which
+the related services were performed.
+n) Stocks Stocks are valued at the lower of average purchase cost and estimated net realisable value. ARC International plc Annual Report and Accounts 2002
+Notes to the accounts continued
+32
+3  Segmental analysis
+Year ended Year ended
+31 December 31 December 
+2002 2001
+£000 £000
+Turnover (by destination)
+Europe 3,295 2,113
+North America 8,107 7,992
+Asia 300 1,345
+Total 11,702 11,450
+Turnover (by origin)
+Europe 3,214 3,060
+North America 10,145 9,940
+Less inter-segment turnover (1,657) (1,550)
+11,702 11,450
+Profit/(loss) before taxation (by origin)
+Europe
+Before goodwill amortisation (7,392) (17,395)
+Goodwill amortisation (352) (335)
+(7,744) (17,730)
+North America
+Before goodwill amortisation (10,034) (8,406)
+Goodwill amortisation (4,240) (3,740)
+(14,274) (12,146)
+Asia
+Before goodwill amortisation 41 32
+Goodwill amortisation – –
+41 32
+(21,977) (29,844)
+Year ended Year ended
+31 December 31 December 
+2002 2001
+£000 £000
+Net assets/(liabilities) (by origin)
+Europe 101,549 121,488
+North America 13,263 14,566
+Asia (58) 11
+114,754 136,065
+The Group operates in a single class of business being the design and development of microprocessor cores and related solutions. 33
+4  Operating costs
+Year ended Year ended
+31 December 31 December 
+2002 2001
+£000 £000
+Raw materials and consumables 67 353
+Employee costs 17,438 19,858
+Depreciation and amortisation 7,240 6,502
+Other operating charges 11,836 15,639
+Exceptional costs (note 5) 1,501 5,526
+38,082 47,878
+Operating costs are stated after including:
+Depreciation on tangible assets 3,147 2,427
+Amortisation of goodwill 4,093 4,075
+Operating lease rentals
+– hire of plant and machinery 110 358
+– other 3,266 3,933
+Auditors’ remuneration
+– statutory audit services*
+annual audit 107 125
+regulatory reporting 17 25
+– further assurance services 43 40
+– tax and advisory services 238 285
+Loss on disposal of tangible assets 159 237
+Research and development costs 13,052 13,291
+* Auditors’ remuneration for the Company was £30,000 (2001: £32,000). Non-audit services include tax and share option advice.
+5  Exceptional costs
+During the year, a provision of £2.4 million was made for restructuring costs covering the closure of the Ottawa location including goodwill
+impairment provision of £0.5 million and fixed assets write down of £0.5 million. Of this amount, £0.6 million was released in the fourth quarter
+as it was no longer needed, leaving a net exceptional charge for the year of £1.8 million. In addition, a prior year restructuring provision of
+£0.3 million was released during the year as it was no longer needed. ARC International plc Annual Report and Accounts 2002
+Notes to the accounts continued
+34
+6  Employee costs
+Staff costs, including directors’ emoluments, during the period were as follows: 
+Year ended Year ended
+31 December 31 December 
+2002 2001
+£000 £000
+Wages and salaries 15,018 17,652
+Share option grant expense (159) 39
+Social security costs 2,047 1,598
+Other pension costs 532 569
+17,438 19,858
+Details of directors’ emoluments are shown in the remuneration report on page 20.
+The average number of employees (including directors) during the period was: 
+Year ended Year ended
+31 December 31 December 
+2002 2001
+Research and development 130 142
+Sales and marketing 48 82
+General and administration 32 42
+210 266
+The total number of employees at the end of 2002 was 198 (2001: 223).
+7  Interest receivable and similar income
+Year ended Year ended
+31 December 31 December 
+2002 2001
+£000 £000
+Bank interest receivable 4,414 6,586
+8  Interest payable and similar charges
+Year ended Year ended
+31 December 31 December 
+2002 2001
+£000 £000
+Interest element of finance lease rentals 11 2 35
+9  Taxation
+Year ended Year ended
+31 December 31 December 
+2002 2001
+£000 £000
+The tax charge/(credit) for the period comprises:
+UK corporation tax at 30% (2001: 30%)
+– on profits for the period – –
+– adjustments in respect of prior periods – –
+Foreign tax
+– on profits for the period 69 81
+– adjustments in respect of prior periods – –
+Deferred tax
+– origination and reversal of timing differences – –
+– adjustments in respect of prior periods – –
+69 81
+Factors affecting the tax charge for the year
+Year ended Year ended
+31 December 31 December
+2002 2001
+£000 £000
+Loss on ordinary activities before tax (21,977) (29,844)
+Loss on ordinary activities multiplied by the standard rate of corporation tax in the UK of 30% (6,593) (8,978)
+Expenses not deductible for tax purposes 1,018 2,962
+Deferred tax assets not recognised 6,180 6,725
+Variations arising from overseas tax rates not equal to UK rate (572) (628)
+Other 36 –
+Current tax charge for the period 69 81
+The current tax assessed for the period is lower than the standard rate of corporation tax in the UK (30%).
+Factors affecting future tax charges For the foreseeable future the Group expects its consolidated effective rate to be materially below the UK
+standard rate of 30% due to the existence of tax losses carried forward in its major operating territories. Losses available for offset against future
+taxable profits time expire in the United States after 15 years for losses incurred prior to 1998 and 20 years thereafter. Tax losses in Canada
+may be carried forward for seven years.
+10  Loss attributable to members of the holding company
+Year ended Year ended
+31 December 31 December 
+2002 2001
+£000 £000
+Loss in the accounts of the Company (22,382) (41,826)
+As permitted under Section 230 of the Companies Act 1985, the Company has not presented its own profit and loss account. ARC International plc Annual Report and Accounts 2002
+Notes to the accounts continued
+36
+11  Loss per ordinary share
+Basic loss per share is calculated by dividing the earnings attributable to ordinary shareholders by the weighted average number of ordinary
+shares in issue during the periods. 
+Profit/(loss) Basic weighted
+for the average number
+period of shares
+£000 Number
+Year ended 31 December 2001 (29,925) 276,333,147
+Year ended 31 December 2002 (22,046) 292,369,180
+For diluted loss per share, the weighted average number of shares in issue is adjusted to assume conversion of all dilutive potential ordinary
+shares. Diluted earnings per share and the basic earnings per share are the same for the years ended 31 December 2001 and 31 December
+2002, as in these loss-making periods the effect of potential dilutive ordinary shares would be anti-dilutive.
+The pre-exceptional loss per share in 2002 adjusts the loss before tax for the exceptional charge of £1,501,000 and assumes no tax credit
+associated with this charge. Adjusted loss per share is presented as follows:
+Year ended 31 December 2002 Year ended 31 December 2001
+Loss Loss
+Earnings per share Earnings per share
+£000 Pence £000 Pence
+Loss per share (22,046) (7.54) (29,925) (10.83)
+Exceptional items
+Restructuring costs 1,501 0.52 6,552 2.37
+National Insurance contributions –– (1,026) (0.37)
+Pre-exceptional loss per share (20,545) (7.02) (24,399) (8.83)
+12  Intangible fixed assets
+Group Group Group Company
+Goodwill Other Total Other
+£000 £000 £000 £000
+Cost
+At 1 January 2002 20,376 – 20,376 –
+Additions –787878
+At 31 December 2002 20,376 78 20,454 78
+Amortisation
+At 1 January 2002 (8,096) – (8,096) –
+Impairment (500) – (500) –
+Charge for the year ended 31 December 2002 (4,079) (14) (4,093) (14)
+At 31 December 2002 (12,675) (14) (12,689) (14)
+Net book value
+At 31 December 2001 12,280 – 12,280 –
+At 31 December 2002 7,701 64 7,765 64 37
+13  Investments
+Group Company
+Note £000 £000
+Investment in own shares
+At 1 January 2002 ––
+Additions through Employee Benefit Trust 22 1,660 1,660
+At 31 December 2002 1,660 1,660
+Fixed asset investments
+At 1 January 2002 – 19,054
+Additional investment in subsidiary undertakings – 246
+Transfer from/amounts due from subsidiary undertakings – 95,990
+Adjustment to net realisable value – (92,707)
+At 31 December 2002 29 – 22,583
+Current asset investments
+Term deposits
+At 1 January 2002 119,401 116,824
+Net movement in term deposits (21,337) (18,705)
+At 31 December 2002 98,064 98,119
+The book value of investments in subsidiaries in the Company has been adjusted to reflect the underlying subsidiary net asset values.
+Fixed asset investments includes the following investments in subsidiary undertakings:
+Nature of business % holding Country of incorporation
+Direct holding
+ARC International Overseas Holdings Limited Holding company 100 United Kingdom
+ARC International (UK) Limited Trading 100 United Kingdom
+Indirect holding
+ARC International US Holdings, Inc. Holding company 100 United States
+ARC International Nova Scotia Holdings Limited Holding company 100 Canada
+ARC International Nova Scotia Limited Holding company 100 Canada
+ARC International Software Stacks, Inc. Trading 100 Canada
+ARC International I.P., Inc. Trading 100 United States
+ARC International Intellectual Property, Inc. Trading 100 United States
+ARC International Nashua, Inc. Trading 100 United States
+ARC International France SARL Trading 100 France
+ARC International Germany GmbH Trading 100 Germany
+ARC International Scandinavia AB Trading 100 Sweden
+ARC International Israel Limited Trading 100 Israel
+ARC Cores Limited Dormant 100 United Kingdom
+ARC Cores Group Limited Dormant 100 United Kingdom
+ARC International Group Limited Dormant 100 United Kingdom
+ARC Processors Limited Dormant 100 United Kingdom ARC International plc Annual Report and Accounts 2002
+Notes to the accounts continued
+38
+14  Tangible fixed assets
+Fixtures,
+Leasehold Computer fittings and Motor
+improvements equipment equipment vehicles Total
+Group £000 £000 £000 £000 £000
+Cost
+At 1 January 2002 201 7,776 863 34 8,874
+Disposals – (430) – – (430)
+Additions 14 3,250 31 – 3,295
+Exchange differences (18) (260) (64) (11) (353)
+At 31 December 2002 197 10,336 830 23 11,386
+Depreciation
+At 1 January 2002 14 1,943 213 2 2,172
+Disposals – (274) – – (274)
+Charge for the year 34 2,949 159 5 3,147
+Exchange differences (1) (68) (9) – (78)
+At 31 December 2002 47 4,550 363 7 4,967
+Net book value
+At 31 December 2001 187 5,833 650 32 6,702
+At 31 December 2002 150 5,786 467 16 6,419
+Assets held under finance leases, capitalised and included in fixtures, fittings and equipment were: 
+Accumulated Net book
+Cost depreciation value
+£000 £000 £000
+At 31 December 2001 28 16 12
+At 31 December 2002 – ––
+Computer
+equipment Total
+Company £000 £000
+Cost
+At 1 January 2002 13 13
+Additions 77
+At 31 December 2002 20 20
+Depreciation
+At 1 January 2002 44
+Charge for the year 44
+At 31 December 2002 88
+Net book value
+At 31 December 2001 99
+At 31 December 2002 12 12 39
+15  Stocks
+Group Company Group Company
+As at As at As at As at
+31 December 31 December 31 December 31 December
+2002 2002 2001 2001
+£000 £000 £000 £000
+Finished goods 88 – 156 –
+16  Debtors
+Group Company Group Company
+As at As at As at As at
+31 December 31 December 31 December 31 December
+2002 2002 2001 2001
+£000 £000 £000 £000
+Amounts falling due within one year:
+Trade debtors 2,510 – 1,648 –
+Amounts owed by subsidiary undertakings –– –55
+Other debtors 1,714 1,147 1,352 533
+Prepayments and accrued income 757 3 710 –
+4,981 1,150 3,710 588
+17  Creditors’ amounts falling due within one year
+Group Company Group Company
+As at As at As at As at
+31 December 31 December 31 December 31 December
+2002 2002 2001 2001
+£000 £000 £000 £000
+Finance lease obligations 2– 5–
+Trade creditors 693 – 282 –
+Amounts owed to subsidiary undertakings – 8,348 –3
+Other taxes and social security costs 286 – 796 90
+Accruals and deferred income 3,597 486 4,115 317
+4,578 8,834 5,198 410
+18  Creditors’ amounts falling due after more than one year
+Group Company Group Company
+As at As at As at As at
+31 December 31 December 31 December 31 December
+2002 2002 2001 2001
+£000 £000 £000 £000
+Finance lease obligations
+– between one and two years –– 2–
+–– 2– ARC International plc Annual Report and Accounts 2002
+Notes to the accounts continued
+40
+19  Provisions for liabilities and charges
+Group Company Group Company
+Year ended Year ended Year ended Year ended
+31 December 31 December 31 December 31 December
+2002 2002 2001 2001
+£000 £000 £000 £000
+Restructuring costs
+Provision at 1 January 2002 2,433 – ––
+Provided in the year 2,400 – 7,909 –
+Utilised (1,368) – (4,119) –
+Released to profit and loss account (899) – (1,357) –
+Provision at 31 December 2002 2,566 – 2,433 –
+The provision for restructuring costs represents onerous lease commitments, the closure of the Ottawa facility and provision for redundancy payments.
+Management anticipate utilisation of these provisions over the next six years. Refer to note 29 for maturity schedule.
+The balance released to profit and loss represents unutilised provisions made earlier in the year as reported in the quarterly announcements 
+and unutilised provisions made in previous years.
+20  Deferred tax
+Deferred tax provided
+Group as at Company as at Group as at Company as at
+31 December 31 December 31 December 31 December
+2002 2002 2001 2001
+£000 £000 £000 £000
+Provision at 1 January 2002 –– ––
+Profit and loss account charge/(credit) –– ––
+Other movements –– ––
+Provision at 31 December 2002 –– ––
+Deferred tax unprovided
+Group as at Company as at Group as at Company as at
+31 December 31 December 31 December 31 December
+2002 2002 2001 2001
+£000 £000 £000 £000
+Fixed asset timing differences 1,423 1 237 –
+Tax loss carry forwards 19,193 – 13,819 –
+Other timing differences 1,101 – 846 5
+Asset/(liability) 21,717 1 14,902 5
+No changes to the deferred tax balances arise as a result of the adoption of FRS 19 during the period. The directors do not consider it
+appropriate to recognise a deferred tax asset at the balance sheet date due to uncertainty as to the specific timing of suitable taxable profits
+against which the asset would crystallise. 41
+21  Pension costs
+The Company pays into personal pension schemes for certain directors and employees. The total pension costs for the periods were: 
+Group Company Group Company
+Year ended Year ended Year ended Year ended
+31 December 31 December 31 December 31 December
+2002 2002 2001 2001
+£000 £000 £000 £000
+Pension costs 532 29 569 12
+Accruals and deferred income include £nil relating to pension costs (2001: £21,000).
+22  Called-up share capital
+Group and Company
+As at As at
+31 December 31 December
+2002 2001
+£000 £000
+Authorised
+500,000,000 ordinary shares, nominal value 0.1p each 500 500
+Allotted, called-up and fully paid
+283,465,840 ordinary shares, nominal value 0.1p each, at 31 December 2001 – 283
+300,473,184 ordinary shares, nominal value 0.1p each, at 31 December 2002 300 –
+During the year ended 31 December 2002, the Company issued 16,800,584 ordinary shares, nominal value 0.1p each, receiving aggregate
+consideration of £1,399,000, to satisfy share options exercised in the period. In addition the Company issued 206,760 ordinary shares,
+nominal value 0.1p each, under arrangements relating to the satisfaction of exchangeable shares. ARC International plc Annual Report and Accounts 2002
+Notes to the accounts continued
+42
+22  Called-up share capital continued
+Share option schemes The Company’s share option schemes to certain employees and directors of the Company had activity as follows: 
+Number of Exercise Price
+Notes ordinary shares Pence Exercise period
+Options outstanding at 31 December 2001 61,765,729
+Options granted during the period to 31 December 2002:
+26 February 2002 4,426,000 33.75 26.02.03 – 26.02.12
+28 March 2002 334,000 31.75 28.03.02 – 28.03.12
+28 March 2002 1 683,259 31.00 28.03.05 – 28.09.05
+28 March 2002 1 98,157 29.00 28.03.07 – 28.09.07
+28 March 2002 1 217,792 25.40 28.03.05 – 28.09.05
+28 March 2002 1 377,177 26.99 28.03.05 – 28.09.05
+7 May 2002 1,299,000 28.00 07.05.03 – 07.05.12
+6 August 2002 1,832,600 24.50 06.08.03 – 06.08.12
+13 November 2002 2,872,500 27.70 13.11.03 – 13.11.12
+13 November 2002 2 5,992,099 27.70 13.11.03 – 13.11.12
+5 December 2002 710,000 25.75 05.12.03 – 05.12.12
+Options lapsed during the period to 31 December 2002 (11,704,661)
+Options exercised during the period to 31 December 2002 (16,800,574)
+52,103,078
+Note 1 Issued under UK and US SAYE schemes.
+Note 2 To be satisfied by the ARC International Employee Benefit Trust.
+Employee Benefit Trust In September 2002 the Company established a discretionary employee benefit trust (“the EBT”), the ARC International plc
+Employee Benefit Trust, for the benefit of employees and former employees of the Group (including executive directors). The trustee is Mourant 
+& Co. Trustees Limited (“the Trustee”), which is an independent professional trust company. The Company makes recommendations to the Trustee 
+in relation to the provision of benefits.
+As at 31 December 2002 the Trustee owned 5,992,099 ordinary shares which represented 2.0% of the Company’s issued share capital 
+and had a market value on that date of £1,513,005. The EBT has waived its right to dividends on all its shares. At 15 November 2002,
+5,992,099 shares were subject to options under the ARC International Executive Share Option Scheme, and were granted on the following
+dates:
+2002 Option price
+15 November 2002 5,992,099 £0.277
+The EBT has been funded by an interest-free loan facility from the Company of £1,659,786. At 31 December 2002 the principal amount 
+of the loan outstanding was £1,659,786.
+The assets, liabilities, income and costs of the EBT are incorporated into the financial statements. The costs charged to the profit and loss 
+account for the year ended 31 December 2002 were £20,826. 43
+23  Movement on reserves and share capital
+Share Profit 
+Share premium Exchangeable Merger Other and loss
+capital account shares reserves reserves account Total
+Group £000 £000 £000 £000 £000 £000 £000
+At 1 January 2002 283 151,033 4,286 107 24,702 (44,346) 136,065
+Shares issued 17 1,382 1,399
+Exchangeable shares exercised – 246 (246) –
+Retained loss for the 12 months 
+ended 31 December 2002 (22,046) (22,046)
+Exchange loss (336) (336)
+Share option grant (159) (159)
+Realised loss on amortisation of acquired goodwill (1,309) 1,309 –
+Adjustment to other reserves (169) (169)
+At 31 December 2002 300 152,661 4,040 107 23,065 (65,419) 114,754 
+Share Profit 
+Share premium Exchangeable Merger Other and loss
+capital account shares reserves reserves account Total
+Company £000 £000 £000 £000 £000 £000 £000
+At 1 January 2002 283 151,033 4,286 107 24,702 (44,346) 136,065
+Shares issued 17 1,382 1,399
+Exchangeable shares exercised – 246 (246) –
+Retained loss for the 12 months 
+ended 31 December 2002 (22,046) (22,046)
+Exchange loss (336) (336)
+Share option grant (159) (159)
+Realised loss on amortisation of acquired goodwill (1,309) 1,309 –
+Adjustment to other reserves (169) (169)
+At 31 December 2002 300 152,661 4,040 107 23,065 (65,419) 114,754
+Other reserves includes £21,661,000 (2001: £21,661,000) for the cancellation of share premium in 2000, the fair value of options issued
+£1,276,000 (2001: £2,754,000) as consideration for the acquisition of ARC International Nashua, Inc (formerly VAutomation Inc) and
+£128,000 (2001: £287,000) in relation to share option grant credits under UITF 17.
+Exchangeable shares To acquire Precise Software Technologies Inc., exchangeable shares were issued by a wholly owned subsidiary of the
+Company for a consideration of £5,025,000. Some of these exchangeable shares remain outstanding at 31 December 2002. Schedule 4A 
+to the Companies Act 1985 and FRS 4, “Capital Instruments”, require these outstanding exchangeable shares to be shown as minority interests.
+However, these exchangeable shares convey no voting or ownership rights in the subsidiary to the holders. The exchangeable shares are
+economically equivalent to the ordinary shares of the Company, conveying the right to dividends equal to those declared on the Company’s
+ordinary shares but no voting rights. In addition, the exchangeable shares have the right to be converted early into Company shares if certain
+conditions are met and in any case automatically five years from their issue. Therefore, in the opinion of the directors of the Company, having
+regard to the overriding requirement under Section 227(6) of the Companies Act 1985 for the accounts to give a true and fair view, 
+the exchangeable shares are shown as part of shareholders’ funds and not as a minority interest.
+Had the provisions of Schedule 4A to the Companies Act and FRS 4 applied, the accounts would have shown shareholders’ funds of
+£110,714,000 (2001: £131,779,000) and non-equity minority interests of £4,040,000 (2001: £4,286,000). No dividends have 
+been paid relating to these exchangeable shares, so there is no profit and loss account effect. ARC International plc Annual Report and Accounts 2002
+Notes to the accounts continued
+44
+24  Reconciliation of movements in shareholders’ funds
+Group Company Group Company
+As at As at As at As at
+31 December 31 December 31 December 31 December 
+2002 2002 2001 2001
+£000 £000 £000 £000
+Loss for the financial period (22,046) (22,382) (29,925) (41,826)
+Nominal value of ordinary shares issued 17 17 10 10
+Premium on issue of ordinary shares 1,628 1,628 1,972 1,972
+Exchangeable shares issued by subsidiary during acquisition (246) (246) (739) (739)
+Exchange (loss)/gain (336) – 71 –
+Adjustment to other reserves* (169) (169) ––
+Share option grant (159) (159) 39 39
+Net (decrease) in shareholders’ funds (21,311) (21,311) (28,572) (40,544)
+Opening shareholders’ funds 136,065 136,065 164,637 176,609
+Closing shareholders’ funds 114,754 114,754 136,065 136,065
+* The adjustment to other reserves represents the adjusted amount of the exercise proceeds relating to the share options issued in connection with
+acquisitions that have now lapsed.
+25  Reconciliation of operating loss to net cash outflow from operating activities
+Year ended Year ended
+31 December 31 December 
+2002 2001
+£000 £000
+Operating loss (26,380) (36,428)
+Depreciation charge 3,147 2,427
+Amortisation of goodwill 4,093 4,075
+Loss on disposal of fixed asset 159 237
+Share option grant (159) 39
+Increase/(decrease) in stocks 77 (159)
+Decrease/(increase) in debtors (458) 2,910
+(Decrease)/increase in creditors (239) (2,838)
+Increase in provisions 133 2,433
+Net cash outflow from operating activities (19,627) (27,304)
+26  Analysis of net funds
+Cash at bank Finance
+and in hand Investments Leases Total
+£000 £000 £000 £000
+At 1 January 2002 1,449 119,401 (7) 120,843
+Exchange (253) – – (253)
+Cash flow 1,725 (21,337) 5 (19,607)
+At 31 December 2002 2,921 98,064 (2) 100,983  45
+27  Reconciliation of net cash flow to movement in net funds
+Year ended Year ended
+31 December 31 December 
+2002 2001
+£000 £000
+(Decrease)/increase in cash in the period 1,725 (1,154)
+Cash outflow from increase in liquid resources (21,337) (23,888)
+(19,612) (25,042)
+Movement in borrowings 5 37
+Exchange movements (253) 32
+Movement in net funds (19,860) (24,973)
+Net funds at beginning of period 120,843 145,816
+Net funds at end of period 100,983 120,843
+28  Financial commitments
+At each period end, the business had annual commitments under non-cancellable operating leases as follows: 
+As at 31 December 2002 As at 31 December 2001
+Land and Land and
+buildings Other buildings Other
+Group £000 £000 £000 £000
+Expiry date:
+In one year 16 50 –66
+Between two and five years 1,773 113 694 234
+After five years –– 633 –
+1,789 163 1,327 300
+The Company has no financial commitments (2001: £nil).The Group and Company has £2,121,600 and nil capital commitments respectively
+at the year end (2001: £nil and £nil respectively).
+29  Financial instruments
+Financial risk management The Group’s financial instruments consist primarily of cash, liquid resources, finance leases, bank overdrafts and
+various items such as trade debtors and trade creditors that arise directly from its operations.
+The main purpose of these financial instruments is to manage funds for the Group’s operations. 
+The Group has not entered into any derivative transactions. It is, and has been throughout the year, the Group’s policy that no trading in financial
+instruments shall be undertaken.
+The main risks arising from the Group’s financial instruments are credit risk, interest rate risk, liquidity risk and foreign currency risk. The Board
+reviews and agrees policies for managing each of these risks and they are summarised in the financial review and below:
+Credit risk The Group monitors the investments of its funds against predetermined limits so as to control exposure to any territory or institution. ARC International plc Annual Report and Accounts 2002
+Notes to the accounts continued
+46
+29  Financial instruments continued
+Interest rate risk The Group finances its operations through a mixture of bank overdrafts, finance leases and cash raised from the issue of
+ordinary share capital. Interest rate risk is limited to fixed rates of interest on finance leases and liquid resources (term deposits), and variable
+rates of interest on bank overdrafts and cash on hand. The Group monitors the investment of its funds against predetermined limits so as to control
+exposure to the counterparty risk of any territory or institution.
+Liquidity risk Liquidity risk is negligible given the significant liquid resources raised from the issue of ordinary share capital. Short-term flexibility 
+is achieved by utilising the overdraft facilities.
+Foreign currency risk The Group has a significant business operation in the United States. It also has a number of smaller European subsidiaries
+and a subsidiary in Israel. The revenues and expenses of the overseas subsidiaries are denominated in US dollars, Canadian dollars and Euros.
+The Group at this stage in its development has chosen not to enter into hedge instruments for any specific transactions, since the main exposure
+is in revenue and the time delay between raising the invoice and settlement is relatively short.
+The following table sets out the net foreign currency monetary assets/(liabilities) of the Group (including short-term trade debtors and creditors). 
+As at As at
+31 December 31 December 
+2002 2001
+£000 £000
+US dollars 2,616 3,229
+Canadian dollars (802) (434)
+Euros 26 (130)
+Net foreign currency monetary assets/(liabilities) 1,840 2,665
+The interest rate profile of the Group’s financial assets and liabilities is summarised in the table below (excluding short-term trade debtors and creditors): 
+Weighted average Weighted average As at As at
+interest rate period to maturity 31 December 31 December 
+2002 2001 2002 2001 2002 2001
+% % Years Years £000 £000
+Financial assets
+Cash at bank and on hand
+– £ sterling 2.00 2.00 – – 984 844
+– US dollar 2.00 2.00 – – 1,646 474
+– other 2.00 2.00 – – 291 131
+– floating rate 2.00 2.00 – – 2,921 1,449
+Investments (term deposits)
+– £ sterling 4.12 5.00 0.25 0.25 98,064 117,280
+– US dollar – 4.00 – 0.25 – 2,121
+– fixed rate 4.12 4.95 0.25 98,064 119,401
+Lease deposits
+– no interest payable (£ sterling) – – 1.50 1.00 118 48
+101,103 120,898 47
+29  Financial instruments continued
+Weighted average Weighted average As at As at
+interest rate period to maturity 31 December 31 December 
+2002 2001 2002 2001 2002 2001
+% % Years Years £000 £000
+Financial liabilities
+Finance leases
+– fixed rate 8.50 8.50 0.50 1.00 2 7
+Bank borrowings
+– floating rate – – – – – –
+Provision for restructuring costs
+– £ sterling – – 6.00 7.00 518 898
+– US dollar – – 5.00 6.00 648 860
+– other – – 1.00 2.00 1,400 675
+– – 3.00 5.00 2,566 2,433
+2,568 2,440
+The maturity profile of the financial liabilities is set out in notes 17 and 18.
+The book value of the financial instruments equates to the fair value.
+30  Related party transactions
+During 2001, ARC International (UK) Limited entered into two separate transactions with Amphion Semiconductors Limited. Both Michael Risman
+and Gregorio Reyes are Non Executive Directors of ARC International plc and Amphion Semiconductors Limited. 
+ARC International (UK) Limited sold a partner licence to Amphion Semiconductors Limited. The balance outstanding at 31 December 2002 
+was $60,000.
+During 2001, Amphion agreed to undertake some development work for ARC International (UK) Limited. The balance outstanding at 
+31 December 2002 was $30,000. The full cost of the licence sold to Amphion, and the details of the work undertaken by Amphion have 
+not been disclosed because they are commercially sensitive. Both transactions were at arm’s length.
+31  Post balance sheet event
+On 12 February 2003, the Company despatched a circular to its shareholders. This contained a notice convening an extraordinary general
+meeting in order to seek shareholder approval for, inter alia, the implementation by the Company of its proposal to return £50.0 million 
+of capital to shareholders by means of a tender offer involving the repurchase for cancellation of up to £48.5 million worth of ordinary shares 
+in the Company (less the costs of the tender offer) and the lending of a further £1.5 million by the Company to the trustee of the Company’s
+employee benefit trust to fund proposed market purchases by that trustee. The extraordinary general meeting has been convened for 9 am 
+on 7 March 2003. ARC International plc Annual Report and Accounts 2002
+Locations of principal operating companies
+48
+ARC International (UK) Limited
+ARC House
+The Waterfront
+Elstree Road
+Elstree 
+Herts WD6 3BS
+UK
+ARC International I.P., Inc
+2099 Gateway Place
+Suite 220
+San Jose
+CA 95110
+USA
+ARC International Nashua, Inc
+402 Amherst Street
+Nashua
+NH 03063
+USA
+ARC International Intellectual Property, Inc
+2155 Delaware Avenue
+Suite 200
+Santa Cruz
+CA 95060
+USA
+ARC International Software Stacks, Inc
+515 Legget Drive
+Suite 300
+Kanata, Ontario
+K2K 3G4
+Canada
+ARC International France, SARL
+8–10 rue Pierre Brossolette
+92309 Levallois – Perret Cedex
+France
+ARC International Germany GmbH
+Stefan-George-Ring 29
+D–81929 Munich
+Germany
+ARC International Israel Limited
+2 Lamerchar Street
+Ramat Hasharon
+Israel 47216
+Executive Officers
+Mike Gulett
+Chief Executive Officer
+San Jose, CA
+Bill Caparelli
+Senior Vice President, Sales
+San Jose, CA
+Bernard Glasauer
+Senior Vice President, Worldwide Engineering
+San Jose, CA
+Andy Haines
+Senior Vice President, Marketing
+San Jose, CA
+Tom Huppuch
+Senior Vice President and General Counsel
+Nashua, NH
+Monica Johnson
+Chief Financial Officer and Senior Vice President
+San Jose, CA
+Dennis McDonald
+Senior Vice President, Human Resources
+San Jose, CA
+Haig Yaghoobian
+Senior Vice President, Corporate Development
+Nashua, NH Shareholder information
+Financial calendar
+Annual General Meeting 24 April 2003
+Announcement of results for the first quarter April 2003
+Announcement of results for the six months to 30 June July 2003
+Announcement of results for the nine months to 30 September October 2003
+Analysis of ordinary shareholders as of 31 December 2002
+Number of
+ordinary %
+Category of shareholders shares shareholding
+Nominee companies 224,028,482 74.6
+Limited companies 18,409,405 6.1
+Pension funds and institutions 3,438,650 1.1
+Private shareholders 15,841,433 5.3
+Bank and bank nominees 6,020,580 2.0
+Investment trusts/insurance companies 533,021 0.2
+Other institutions 32,201,613 10.7
+300,473,184 100.0
+Range of holdings
+% of % of
+number of Number of number of
+Number of ordinary ordinary ordinary
+Size of shareholding shareholders shares shares shares
+1 – 1,000 1,013 41.7 549,367 0.2
+1,001 – 10,000 953 39.2 3,250,650 1.1
+10,001 – 100,000 297 12.2 9,710,117 3.2
+100,001 – 1,000,000 123 5.1 39,814,837 13.3
+Above 1,000,000 46 1.9 247,148,213 82.3
+2,432 100 300,473,184 100
+ARC, the ARC logo, ARCtangent, USB Now and WLAN Now are trademarks of ARC International. All other brands or product names 
+are the property of their respective holders.
+Designed and produced by C&FD. Printed in England by First Impression. This report is printed on Megamatt paper, which is produced from pulp which is 50%
+chlorine free and 50% recycled fibre, from a sustainable and renewable forest source, and is therefore an ecologically sound use of raw and recycled resources. www.ARC.com
+Europe ARC International
+ARC House, The Waterfront, Elstree Road
+Elstree, Hertfordshire WD6 3BS, UK
+Tel +44 (0)20 8236 2800
+Fax +44 (0)20 8236 2801
+North America ARC International
+2099 Gateway Place, Suite 220
+San Jose, CA 95110, USA
+Tel +1 408 437 3400
+Fax +1 408 437 3401
+ARC International plc Annual Report and Accounts 2002
+ARC has the broadest product line in the embedded technology market. 
+By delivering integrated embedded system products ARC’s customers require 
+fewer IP suppliers which reduces their time to market, their costs and their risk.

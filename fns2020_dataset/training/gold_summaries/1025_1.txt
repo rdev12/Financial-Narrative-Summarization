@@ -1,0 +1,984 @@
+ Anite_Annual report and accounts 2010     5
+Review
+ Chief Executive’s review  
+Anite is well positioned
+for growth in the LTE market
+Christopher Humphrey
+Chief Executive
+In the Travel division, as indicated in last 
+year’s report, Norwich Union’s decision not 
+to renew its contract for us to manage some 
+of its IT services, together with the loss of 
+customers as a result of them being acquired 
+or going into liquidation, meant that revenue 
+and profit were lower than in the previous 
+year. In recognition of this, we reduced the 
+cost base to align with the lower revenue. 
+Revenue and profit were further affected 
+when, in December 2009, the Globespan 
+group went into administration. Despite the 
+impact of these events on the business, we 
+continued to develop our relationship with 
+Europe’s largest travel operator, TUI, and 
+expect to realise the benefit of that 
+relationship over the next few years.
+Our markets
+Anite is structured into two market-facing 
+divisions: Wireless and Travel. The Wireless 
+division consists of two businesses. Handset 
+Testing provides specialist systems, hardware 
+and software to enable chipset and mobile 
+phone manufacturers to design new mobile 
+phone and data card devices efficiently, 
+to begin selling products for testing  
+LTE – the technology for the next-
+generation of mobile phones – and, 
+during the second six months of the year 
+that, combined with some recovery in 
+customers’ budgets, resulted in improved 
+second-half revenue for both Handset 
+Testing and Network Testing.
+Over the years we have worked in 
+partnership with a number of hardware 
+suppliers, most recently Agilent, for 2G 
+technology. Three years ago, we decided 
+to collaborate with Agilent on the LTE 
+hardware platform they were developing. 
+Following delays in its development, 
+however, we decided to end this partnership 
+and to provide our own hardware, which 
+we had been developing to test and 
+demonstrate our LTE software while the 
+main hardware platform was being finalised. 
+This proprietary Anite hardware solution has 
+now been developed into a final production 
+model. It is being sold to, and is being 
+well received by, key handset and chipset 
+customers throughout the world. 
+I am happy to report to you that despite 
+a very demanding year the business is in 
+good shape. We have continued to invest 
+in our new products and, as a result, are 
+well positioned to supply our markets as 
+they start to improve.
+Overview
+The restricted financial environment 
+had a significant affect on our Wireless 
+customers’ spending in the first half of 
+last year, but in the second half, the slight 
+easing of economic conditions, combined 
+with the availability of early stage 4G (LTE) 
+hardware systems towards the end of the 
+year, resulted in performance beginning 
+to improve.
+We continued to invest in new products 
+throughout the financial year. In the 
+Travel division, we continued to develop 
+our @comRes software, and in the 
+Wireless division we continued to invest 
+in developing new products for Handset 
+Testing. Our change in LTE hardware 
+strategy enabled the Handsets business   6     Anite_Annual report and accounts 2010
+Review
+Our automated solutions for development 
+testing and conformance testing, which 
+have a long lifespan and are easy to use, help 
+manufacturers to reduce costs and show 
+a clear return on investment, by enabling 
+them to identify and resolve problems early 
+in the development process. We are unique 
+in allowing licences to be shared across R&D 
+sites, and our common hardware platform 
+enables solutions also to be used across 
+departments. Our software reduces costs, 
+and improves quality and time-to-market, 
+by simulating true network conditions in the 
+lab. In addition, because the large network 
+operators are concerned about the way 
+operators, accommodation providers and 
+cruise and ferry operators.
+Wireless
+Handset Testing
+New handsets and chipsets have to go 
+through a series of compliance tests while 
+they are being developed and before they 
+can be launched onto the market. The 
+Handset Testing business provides customers 
+with the technology to test handsets’ 
+viability by simulating the network and 
+their conformance with industry standards, 
+and their ability to interoperate with other 
+devices across a wide range of networks.
+and to bring them to the market quickly. 
+Network Testing provides technology 
+to enable Mobile Network Operators 
+(MNOs), which build and operate mobile 
+phone networks, to test the efficiency and 
+effectiveness of their systems, and to carry 
+out live testing with different makes of 
+handsets to ensure a consistently high-
+quality service for mobile phone users.
+The Travel division provides industry-leading 
+reservation and e-business systems to help 
+leisure travel companies run their businesses 
+profitably. These include tour operators, 
+specialist holiday companies, leisure park 
+ Chief Executive’s review  continued
+HELLO!
+Handset Testing 
+Network Testing
+TEST
+TEST
+THE 
+FUTURE 
+!
+TEST
+NT
+Development Testing 
+Conformance Testing  
+Interoperability and 
+Performance Testing 
+35%
+TEST
+Book 
+of
+Standards
+FUTURE
+STANDARDS
+NT
+Indoor/Handheld 
+Drive Testing 
+Benchmarking 
+NT
+Autonomous 
+Post Processing 
+SHOP
+Q
+&
+A
+HAndset testIng
+What does Anite Handset 
+Testing do?
+Anite helps chipset and 
+handset manufacturers 
+design efficient mobile 
+phones, and bring 
+them to market quickly 
+and cost-effectively. 
+Our systems enable 
+the manufacturers to 
+ensure that their new 
+products conform to 
+industry standards, 
+meet end-customers’ 
+expectations and are 
+able to communicate 
+with other devices on 
+all networks. They also 
+enable mobile network 
+operators to optimise 
+the performance and 
+interoperability of 
+handsets on their 
+networks.
+What products and 
+services do you offer?
+Development toolset 
+supports all phases 
+of development, from 
+helping developers 
+test designs before the 
+final chipset hardware 
+is ready, to systems 
+integration and 
+verification. 
+SAT(H) is a Host Tester 
+which supports all  
+the 3GPP technologies 
+including LTE. It is 
+used for extensive 
+development, 
+integration and 
+regression testing 
+of protocol stack 
+software.
+ Anite in wireless testing solutions  Anite_Annual report and accounts 2010     7
+HELLO!
+Handset Testing 
+Network Testing
+TEST
+TEST
+THE 
+FUTURE 
+!
+TEST
+NT
+Development Testing 
+Conformance Testing  
+Interoperability and 
+Performance Testing 
+35%
+TEST
+Book 
+of
+Standards
+FUTURE
+STANDARDS
+NT
+Indoor/Handheld 
+Drive Testing 
+Benchmarking 
+NT
+Autonomous 
+Post Processing 
+SHOP
+our range of testing products extends back 
+to the first-generation digital technology 
+(2G). New mobile devices do not operate 
+on a single technology and, consequently, 
+devices must be able to switch seamlessly 
+between all available technologies to 
+maintain a connection. The need for legacy 
+and new-generation technology to be 
+present in one phone makes it very difficult 
+for new entrants to the market to be able  
+to provide a comprehensive product range.
+In the past two to three years, the use of 
+mobile phones and wireless-connected 
+devices, including smartphones, data 
+market each year, and the constant changes 
+in mobile phone technology which, in turn, 
+are driven by the continued growth in 
+subscribers. In the 37 years since Motorola 
+invented the first portable cellular phone, 
+mobile phones have progressed from being 
+the proverbial brick with an aerial, which 
+could simply make and receive calls, to 
+today’s tiny multi-function devices, while 
+the number of subscribers has grown to 
+approximately 4.6 billion – more than 60% 
+of the world’s population. 
+There have been multiple phone 
+technologies launched in that time and 
+devices perform on their networks, a number 
+of them specify that manufacturers must 
+validate their devices on an Anite tester. 
+At the start of the design process, customers 
+expect us to be technically innovative and 
+responsive to their needs; while a large 
+proportion buys our standard products,  
+for major customers we are also able to 
+offer a degree of customisation.
+The principal drivers of the business are the 
+evolution of new phone technology, the 
+number of new handset models, data cards 
+and “dongles” which are brought onto the 
+Conformance toolset 
+tests devices to ensure 
+that they comply with 
+industry standards 
+and deliver the service 
+expected by end-users. 
+In common with all 
+our applications, its 
+scalable architecture 
+enables it to be used 
+for testing the widest 
+range of technologies, 
+from GSM to LTE.
+SAS is a “real-life” 
+network simulator 
+that enables devices 
+to be tested during 
+integration and for 
+interoperability and 
+performance. It is 
+a complementary 
+approach to costly 
+field trials.
+SAS-Lite is a low-cost 
+network simulator 
+for “real-life” 
+interoperability and 
+performance testing. 
+Test services enables 
+customers to maximise 
+the use of Anite 
+test products, while 
+reducing development 
+costs and time-to-
+revenue.
+What differentiates you 
+from your competitors?
+Our market-leading 
+technology enables us 
+to be agile, innovative 
+and responsive. Our 
+automated solutions 
+have a long lifespan 
+and are easy to use; we 
+enable our licences to 
+be shared across R&D 
+sites; and our software 
+simulates “real-life” 
+network conditions in 
+the lab. 
+Where are your 
+headquarters?
+In Fleet, Hampshire, UK.
+What is your strategy?
+To become a world 
+leader in handset testing 
+by completing our LTE 
+solution, penetrating 
+all three testing 
+markets – development, 
+conformance and 
+interoperability; 
+developing our range 
+of products and tools; 
+and increasing sales 
+to network operators 
+worldwide. 8     Anite_Annual report and accounts 2010
+Review
+the US and, during the year, we developed 
+solutions for China’s own version of LTE, 
+TD-LTE. This, we believe, will give us an 
+advantage in the development of that 
+testing market. Since the inception of LTE 
+we have consistently led the conformance 
+testing market and we currently lead the 
+market in the development of conformance 
+test cases. The conformance test market is 
+driven by certification schemes administered 
+by the standard setters (for example, GCF). 
+The LTE certified scheme is expected to go 
+live in early 2011 and around that time we 
+expect the conformance testing market to 
+begin to gather momentum. The industry 
+has, so far, defined around 200 conformance 
+tests for LTE, 100 of which we have already 
+implemented and had validated by the 
+standards setters – more than double  
+that of our nearest competitor.
+Network Testing
+Our Network Testing business provides 
+products for mobile network operators 
+(MNOs) and network manufacturers to 
+measure the coverage and quality of mobile 
+phone networks. We provide a range of tools 
+that can be used to check the performance 
+of networks at different stages of their 
+life cycles. Our tools can not only be used 
+to measure the quality of radio frequency 
+metrics, but also enable our customers  
+to see how end users perceive the quality  
+of the mobile phone networks using quality  
+of service and end user metrics. 
+During the year, we continued to increase 
+sales coverage and now operate in more than 
+90 countries, usually with local partners who 
+also offer technical support to customers, 
+and support all major network standards, 
+including LTE. 
+Our measurement tools are designed to meet 
+the needs of all our end-customers, whatever 
+their internal processes and however they 
+choose to do their testing. They provide a 
+a period of economic recession, has put 
+pressure on the speed of the network roll-
+out. Industry giants such as AT&T, China 
+Mobile, Verizon and Vodafone are, however, 
+now committed to being in the early wave 
+of this investment and are requiring handset 
+manufacturers – the majority of which are 
+our customers – to prove the technology 
+on their products; and that is where our 
+handset testing solutions are increasingly 
+used. Over the 12 months following the roll-
+out of networks, 4G data devices (initially 
+cards and dongles) will be sold, and will be 
+followed by 4G phones and other devices. 
+These data cards and phones all need similar 
+amounts of testing.
+Handset Testing strategy
+We continue in our objective to position  
+the Handset Testing business as a world 
+leader in its field. To achieve that, we aim  
+to complete our LTE solution, and to secure 
+market penetration of all three testing 
+phases – development, conformance and 
+interoperability; to develop the range of 
+products and tools we offer customers; 
+and to increase sales to network 
+operators, worldwide.
+LTE is no exception to the rule that demand 
+for more, and more powerful, applications 
+drives advances in technology hardware;  
+LTE is a complex standard and is particularly 
+challenging. This is, of course, of benefit to 
+us – new technology demands new handsets 
+which need to be tested – but the evolution 
+of the smartphone and other mobile devices 
+is exerting severe pressure on the capacity  
+of the world’s major mobile phone 
+networks. There is, therefore, a compelling 
+need for this technology. This is in direct 
+contrast to 3G technology where no such 
+powerful catalyst existed.
+The lead of the US and China in LTE 
+technology will also be of benefit to us 
+since some of our biggest customers are in 
+dongles, netbook and tablet computers – 
+such as Apple’s iPad – has accelerated.  
+The applications on these devices are data-
+intensive, but the licensed spectra (network 
+capacity) are fixed. These factors, combined 
+with network operators’ desire to reduce 
+costs – because traffic is increasing faster 
+than revenue – has driven the need for a 
+new, more efficient technology. 
+LTE – which we have supported since its 
+inception – is now accepted as being the 
+most effective 4G technology to deliver 
+the data capacity that is needed. It uses 
+the spectrum extremely efficiently: more 
+network users can be accommodated 
+on the same cell space and it “pushes” 
+data through the spectrum more quickly 
+in efficient packets. Where 3G made it 
+technically possible to access data, 4G  
+will make it practically possible.
+I wrote about the advent of 4G, essentially 
+mobile broadband, in last year’s report. This 
+has taken time to develop and, in today’s 
+global market, the US and China have been 
+particularly ambitious in its adoption. 
+Within 4G there are two competing 
+technologies, WiMAX and LTE. In 2007, we 
+instigated our internal development process 
+for LTE but, at the same time, recognised the 
+need for us to be able to offer solutions for 
+both technologies. With our own resources 
+focused fully on LTE, we believed it was 
+more appropriate to acquire a WiMAX 
+capability, which we did in January 2007, to 
+improve our offer in that area. As it became 
+clearer, however, that LTE would be the 
+winning standard, in April 2010 we decided 
+to stop offering WiMAX and to close that 
+part of our business.
+To adopt 4G, which most of the world’s 
+largest operators have pledged to do 
+over the next three years, network 
+operators have to invest in upgrading their 
+infrastructures and that, particularly in 
+ Chief Executive’s review  continued 
+Q
+&
+A
+netW ork testIng
+What does Anite Network 
+Testing do?
+Anite helps network 
+operators and base-
+station manufacturers 
+manage their businesses 
+efficiently . We supply a 
+range of tools to enable 
+them to collect and 
+analyse data on coverage 
+and performance; and 
+to check that networks 
+are strong enough to 
+minimise “dropped” 
+calls, and that phones 
+will work on different 
+operators’ networks.
+What products do you offer?
+Nemo Outdoor, the 
+pioneer in drive-
+test measurement 
+solutions, offers a 
+broad range of testing 
+options and support 
+for all technologies.
+Nemo Handy is a 
+handset-based 
+portable measurement 
+tool that is ideal for 
+indoor surveying and 
+quick troubleshooting.
+Nemo Compact-i provides 
+a compact and easy-
+to-use Windows-based 
+solution for network 
+measurement. Anite_Annual report and accounts 2010     9
+Nemo Autonomous is a 
+fully-automated, flexible 
+measurement solution 
+for remote-controlled 
+data collection.
+Nemo Analyze offers a 
+comprehensive set of 
+technology-specific 
+KPIs for all wireless 
+technologies. It enables 
+organisations to 
+manage and analyse 
+measurement data 
+quickly and efficiently.
+What differentiates you 
+from your competitors?
+We focus on being 
+first-to-market with 
+testing solutions for 
+new technologies, on 
+meeting customers’ 
+particular needs, and 
+on customer care. We 
+also have an extensive 
+network of partners, 
+distributors and 
+representatives  
+in more than 
+90 countries.
+Where are your 
+headquarters?
+In Oulu, Finland.
+What is your strategy?
+To maintain 
+our position at 
+the forefront of 
+technology, to expand 
+the products we 
+offer, and to continue 
+to develop our 
+distribution network.
+wide range of information, from call quality, 
+data download and upload speeds, to signal 
+reliability. They also provide data on the 
+interaction of neighbouring cells and the 
+efficiency with which devices “hand-off” from 
+one cell to another as the device moves in a 
+car along a road, on foot, or in a building. 
+The products range from an easy-to-use 
+handheld device, Nemo Handy, which can 
+be used for indoor and outdoor testing, to  
+a powerful laptop-based solution, Nemo 
+Outdoor, which is used for “drive-testing”, 
+where the engineer drives around an area  
+to compare coverage and quality at all times 
+of the day and night, and in all weather 
+conditions. Nemo Autonomous can be installed 
+in taxis or buses to provide a cost-effective, 
+unmanned continuous stream of information. 
+We carry out quarterly product upgrades and 
+introduce new products when we see a need. 
+During the year we launched the Nemo Multi 
+Handy and also the Nemo Handy-W device, 
+which uses the Windows Mobile operating 
+system whereas previous devices had been 
+based around Nokia’s proprietary operating 
+systems. These new devices add to Network 
+Testing’s range and testing capabilities.
+The software embedded in our products 
+enables organisations to manage and 
+analyse vast amounts of data, quickly and 
+efficiently, either on our Nemo Analyze 
+post-processing analyser, or on third-party 
+post-processing analysis tools.
+As the world’s mobile network coverage 
+increases, with roll-out occurring in most 
+developed and developing countries, we 
+will continue to expand geographical sales 
+coverage and to help MNOs establish, and 
+then upgrade, their networks.
+Network Testing strategy
+Our objective is to continue to be the first 
+to offer new technology, to provide excellent 
+after-sales service and technical support, and to 
+maintain strong relationships with customers, 
+either direct or through local partners.
+There is potential for considerable growth  
+in many of the countries in which we 
+operate. For example, India – which has a 
+population of nearly 1.2 billion – has recently 
+concluded the auction of its 3G licences  
+and is an increasingly important market.
+We are developing our LTE product but, 
+since testing can begin only when the 
+networks are in place, we do not expect any 
+significant benefit to accrue from that until 
+2012/2013. Our strategy is to continue to 
+benefit from the roll-out of new networks 
+by the MNOs and to leverage the LTE 
+technology roll-out as it occurs.
+ 
+Huawei chose to work in partnership with 
+Anite because the Anite LTE test solutions 
+are the most advanced available: they 
+provide development tools to enable mobile 
+handset and data card designers to develop, 
+and test, their devices in readiness for 
+LTE networks becoming available. Anite’s 
+technology is not only helping Huawei to 
+ensure that its devices meet the industry’s 
+rigorous certification requirements, provide 
+the applications and services that consumers 
+expect, and work seamlessly with other 
+devices across all networks, but also to 
+achieve a good return on its investment.
+“Our ongoing collaboration with Anite, and 
+their expertise in providing the leading LTE 
+test solution, brings us a step closer to realising 
+our goal of bringing LTE devices to market 
+successfully.”
+HeTingBo, Huawei
+AnIte In CHInA
+Anite has been supporting mobile phone 
+operators and vendors in China over the past 
+decade. Most recently we have been working 
+in partnership with Huawei, China’s largest 
+network and telecommunications equipment 
+supplier. Huawei was chosen by China 
+Mobile to showcase the first E2E TD-LTE 
+demonstration network at the 2010 Shanghai 
+World Expo, which opened on 1 May.  
+TD-LTE is one of the two principal versions 
+of LTE – which is now widely accepted as  
+the most effective technology for delivering 
+the capacity that mobile devices demand. It has 
+been chosen by China Mobile which – with 
+more than 500 million subscribers – is the 
+world’s biggest mobile network, and is able 
+to co-exist with China’s existing TD-SCDMA 
+network. An international standard, it caters 
+to markets, including many developing 
+countries, in which its usually cheaper 
+spectrum is a particular advantage. 10     Anite_Annual report and accounts 2010
+Review
+ Chief Executive’s review  continued 
+Travel
+The Travel business is the UK’s market-
+leading supplier of software to help leisure 
+travel companies run their businesses 
+efficiently. The technology offers customers 
+the ability to sell an increasingly diverse 
+set of holiday products through a range 
+of sales channels (including call centres, 
+travel agents, and the web), to price by 
+currency and market, to manage their 
+inventory dynamically, to connect with 
+other industry providers effectively and to 
+improve productivity and customer service. 
+In addition, we offer managed services  
+on a hosted or remotely-managed basis. 
+These products have a long life-cycle:  
+many existing users of our legacy ATOP 
+product have been with us for more than  
+15 years.
+In recent years, major leisure travel 
+companies have become even larger as 
+they have acquired smaller operators. 
+Paradoxically, their IT systems – which have 
+the potential to transform profitability by 
+offering economies in buying and selling, 
+and by centralising back-office, as well as 
+some sales functions – have tended to lag 
+behind. In addition, there has been added 
+competition to traditional tour operators 
+from internet travel companies, such as 
+Expedia and lastminute.com.
+Our @comRes solution – which is being 
+implemented by Europe’s largest leisure 
+travel group, TUI – is currently the only 
+proven, large scale reservations system 
+on the market. It enables customers to 
+reduce operating costs significantly by 
+standardising key processes across all 
+Q
+&
+A
+trA vel
+What does Anite Travel do?
+Anite supplies systems 
+to help leisure 
+travel companies 
+run their businesses 
+more profitably. 
+Our technology 
+enables them to 
+sell an increasingly 
+diverse set of holiday 
+products through a 
+range of channels – 
+including call centres, 
+travel agents, and 
+the web – to price by 
+currency and market, 
+to manage their 
+inventory dynamically, 
+to connect with other 
+industry providers 
+effectively, and to 
+improve productivity 
+and customer service.
+What products and 
+services do you offer?
+@comRes provides 
+multi-channel 
+distribution for leisure 
+travel companies. It 
+offers the key functions 
+of reservations, 
+content and customer 
+relationship 
+management, and 
+operational finance.
+@com eBusiness Suite  
+is an integrated set of 
+business applications, 
+built around the core 
+functions of @comRes. 
+Think of it as a Travel-
+ERP solution which 
+includes supplier 
+contracting, dynamic 
+supplier connectivity, 
+sales, inventory 
+management, 
+customer 
+markets and holiday types, and to be 
+confident that the system will scale up in  
+such a way as to cope with an increasing 
+work load as the business continues  
+to grow.
+As a stand-alone system, @comRes offers 
+the four key functions, of reservations, 
+content and customer relationship 
+management, and operational finance.  
+It is also the core around which our @com 
+eBusiness Suite is built; this is a single 
+integrated solution, which customers  
+can buy and implement in modules.
+In an economic environment where price 
+and capacity are key to success, our flexible 
+software enables leisure travel companies 
+to reduce costs while, at the same time 
+managing a wider range of products. 
+Although demand for the traditional 
+package holiday remains strong, the ability 
+to manage flexible and dynamic packages 
+from the same IT platform is a major 
+competitive advantage.
+Travel strategy
+In the drive to become the dominant 
+software supplier to the European 
+leisure travel market, we will continue to 
+capitalise on our existing strong customer 
+relationships – in the past year we have 
+begun to work with TUI UK – and to invest 
+in @comRes’s ability to handle fixed and 
+flexible packaging, and specialist operations, 
+from a single system.
+We will also continue with the process of 
+creating UK and central European versions 
+of @com to make it more accessible to 
+mainstream travel companies. We will create 
+long-term plans for customers currently 
+using our legacy systems to migrate to  
+@comRes. In addition, we will seek new mid-
+sized customers and partners throughout 
+Europe and North America, and investigate 
+opportunities in emerging economies.
+We are in the process of changing our 
+revenue model to one in which we license 
+our system to customers on an annual basis. 
+While this is likely to be a long-term project, 
+it will have benefits on both sides: it will 
+reduce the initial capital cost for customers 
+and will augment our recurring revenue.
+While the recession is likely to accelerate 
+consolidation by increasing pressure on 
+smaller travel operators, we are confident 
+that the scalability inherent in our  
+@comRes software and @com eBusiness 
+Suite, combined with our reputation for 
+implementing software that works, places 
+us in an ideal position to grow steadily in 
+the UK and overseas.
+The current year will continue to be 
+challenging for the Travel business, 
+particularly in the first half. The progress  
+our @com product is making with 
+established and new customers is, however, 
+an indication of our present unique  
+market position. Implementation for larger 
+customers can take several years but,  
+once completed, will benefit them for many 
+years to come. We intend to show that we 
+have re-established the trading position  
+of this business and that it is set for  
+further growth. Anite_Annual report and accounts 2010     11
+Feedback
+Going on Holiday
+2010
+Coming Home
+Resort 
+Management
+ISSUES
+2012 
+HOME
+£
+Procurement
+Q
+A
+2011 
+SUN
+Travel
+2011
+SUN
+Travel
+2011
+Distribution
+Ticket
+Credit
+Card
+Ticketing
+SUN
+Travel
+2010
+Distribution
+SUN
+Travel
+2010
+Call Centre
+Search   Price   Book 
+£
+T ravel Agent
+Shop
+Online
+❄
+Booking
+documentation, 
+supplier notification, 
+and accounts receivable 
+and payable.
+ 
+FerryRes is a  
+modular and highly-
+configurable solution 
+for ferry operators.
+CruiseRes is a 
+comprehensive 
+solution designed for 
+deep sea and river 
+cruise operators.
+RailRes meets the 
+needs of the scenic 
+rail industry in the US, 
+Australia and Europe.
+SaaS & Hosting.  
+Our solutions are all 
+available on a service 
+basis from within our 
+private application 
+cloud or as on a fully- 
+or partially-managed 
+services basis which 
+is either hosted or 
+managed remotely.
+What differentiates you 
+from your competitors?
+Our @comRes product 
+is currently the only 
+proven, large scale 
+reservations system  
+on the market.  
+This proven scalability, 
+taken in the context 
+of a market which 
+continues to 
+consolidate into ever 
+larger players, and the 
+rich capabilities of our 
+Travel-ERP solution, 
+places Anite in a 
+unique position within 
+the travel sector.
+Where are your 
+headquarters?
+In Slough, Berkshire, UK.
+What is your strategy?
+To become the 
+dominant software 
+supplier to the 
+European tour 
+operator market.
+ Anite in leisure travel systems  12     Anite_Annual report and accounts 2010
+Review
+ Chief Executive’s review  continued 
+Outlook
+The past financial year was a challenging 
+one for the Group, but we saw an 
+improvement in the second half with both 
+the Wireless and Travel businesses making 
+good progress. Our new LTE product has 
+been well received by customers.
+Predictions as to the growth of the LTE 
+market are difficult to make at this early 
+stage, but the signs are positive and we are 
+better positioned to take advantage of LTE 
+than we were with 3G.
+@Com eBusIness suIte
+Oy Aurinkomatkat-Suntours Ltd is  
+Finland’s largest tour operator. Part of 
+Finnair, one of the world’s oldest operating 
+airlines, each year Aurinkomatkat flies 
+around 40% (350,000) of Finnish holiday 
+travellers to 900 hotels, at 150 destinations, 
+in 40 countries.
+Before choosing Anite and @com, 
+Aurinkomatkat had searched for five 
+years to find a suitable replacement for 
+its 25-year-old tour operating system. It 
+quickly saw the value of going beyond the 
+core @com reservation system and has 
+now integrated our entire @com eBusiness 
+Suite. This enables it to manage its principal 
+business functions – reservations, content 
+management, customer relationship 
+management and operational finance –  
+on a single system and to achieve: 
+ 
+> profitability – through a significantly 
+lower-cost IT platform which incorporates  
+a complete set of integrated applications;
+> flexibility – the @com eBusiness Suite 
+enables Aurinkomatkat to combine the 
+attributes of traditional, flexible and dynamic 
+business processes;
+> security – a robust technology platform that 
+takes IT performance off management’ s agenda;
+> scalability – proven high-volume linear 
+scalability while retaining consistent 
+response times.
+“The @com eBusiness Suite goes a long way 
+beyond the boundaries of the traditional 
+‘reservation system’ to help Aurinkomatkat 
+remain at the forefront of Finland’s holiday 
+industry.”
+Risto Mäntynen, Director of Information 
+Management, Aurinkomatkat
+We expect the continuing investments in 
+our products to start to pay back during 
+this year. The effect of this and normal 
+seasonality factors mean we expect trading 
+to be biased to the second half, although 
+not as markedly as in 2009/10. Anite began 
+the year in good shape: we are trading well 
+and in line with our expectations.
+Christopher Humphrey
+Chief Executive
+5 July 2010

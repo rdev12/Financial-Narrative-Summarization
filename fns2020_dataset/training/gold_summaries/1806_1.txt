@@ -1,0 +1,328 @@
+  
+04 CEO’s statement 
+ 
+CEO’s statement 
+ 
+Following a year which saw continued growth and our first 
+profitable year, we have built a strong sales pipeline and an 
+impressive portfolio of customers. Mobile web usage is 
+accelerating and mobile payments are becoming increasingly 
+important to providers of content and services. As a provider of 
+a mobile payments platform and associated analytics tools, 
+Bango is a major beneficiary of this trend. Business is 
+progressing well at Bango, sales are up and operating costs are 
+down.  
+ 
+The key development in the business during the last year has 
+been the start of the migration of some of the world’s largest 
+content providers away from Premium SMS onto the Bango 
+platform. It is commercially more attractive because Bango 
+delivers significantly higher conversion rates, in terms of clicks 
+to collect payments, compared to other alternative payment 
+mechanisms. This translates into higher profits for Bango 
+customers enabling them, in turn, to out-spend their 
+competitors in marketing. 
+  
+Bango has seen a significant increase in transactional volumes 
+taking place on its platform as part of this migration, and a 
+resulting increase in transaction fees generated from this 
+activity. The success of these migrations, new Bango features 
+released in March 2010 and the recent strengthening of 
+Bango’s balance sheet means that we are well positioned for 
+the future.  
+ 
+ 
+Growing transaction volumes 
+End user revenue grew by 55% year on year.  
+ 
+The improved sales, financial predictability and customer 
+experience Bango is able to offer customers, is what drives 
+content providers to use the Bango system instead of SMS 
+based solutions. To accelerate this change, a small team was 
+established in January 2010 to focus on this opportunity, 
+alongside the established sales team which is focused on 
+winning new customers.  
+ 
+As more Mobile Network Operators (MNOs) have connected to 
+Bango and allowed integration with their billing services, more 
+customers have been enabled to access content sold through 
+Bango's payment system, in turn, driving transaction volumes. 
+The AT&T and Sprint contracts won in the previous financial 
+year have driven most of the growth in US transactions. 
+Additionally, connections to the T-Mobile USA and Virgin 
+Mobile USA billing systems in November 2009 further 
+expanded Bango’s US coverage. Discussions are progressing 
+with other MNOs including Verizon.  
+ 
+Bango has a sales pipeline of large and medium sized content 
+providers, and other businesses, that want to collect payment 
+from mobile users or analyze their behavior. Some have not yet 
+started the transition from legacy SMS to mobile web. Others 
+want to move from the traditional PC web to the mobile internet 
+to benefit from the increasing volume and spending power of 
+mobile phone users. As customers sign-up and start using the 
+Bango Service, their success in selling their products via the 
+mobile web should drive more transaction volume.  
+ 
+In addition to payments collected by mobile websites, Bango 
+has also introduced products to support payment collection 
+from within mobile applications (apps). The popularity of 
+mobile applications is driving more developers and content 
+providers to commit resources to developing mobile 
+applications, as another channel to engage with consumers and 
+generate revenue. According to Juniper Research, mobile 
+application revenues will be worth £25 billion in 2014. 
+  
+Growing the Bango customer base 
+Bango has succeeded in winning business from many large 
+customers during the year including: Fox Mobile, Yahoo, 
+Cellfish, Turner Broadcasting System Inc, Go-spoken, Monotype 
+Imaging, Sendme Inc, Telenav and All Night Media. 
+ 
+Bango Analytics had its first full year of sales and has 
+successfully seen leading brands adopting the product to 
+measure the effectiveness of their mobile marketing 
+campaigns. The Turner Broadcasting win, covering mobile sites 
+such as CNN.com, Adult Swim, Family Guy, Cartoon Network 
+and CNN Money was significant – not just in revenue terms but 
+also because we are able to focus our innovation and services 
+on meeting the needs of an organization which is a leader in 
+the provision of ad-funded content.  
+ 
+ 
+Product development  
+There have been three areas of activity for Bango product 
+development during the year:  
+ 
+(1) Improvements and innovation in existing services. Alongside 
+many incremental improvements, Bango has added the 
+innovative capability to use operator billing when users are 
+connected through a non-operator (eg Wi-Fi) network, as well as 
+optimizations to the user experience for iPhones, Android 
+devices and BlackBerry handsets. 
+  
+(2) New Bango Payment and Analytics services. New services 
+include the ability to use Bango Payment from within a mobile 
+application as well as from a website, and new services to allow 
+deeper integration with the Bango CRM system. A new service 
+offering focused on larger Enterprise customers was launched 
+during the year. New offerings to open up emerging markets 
+such as Brazil and India are under development for initial 
+release in 2010.  
+ 
+(3) R&D to support growing transaction volumes and numbers 
+of customers. Bango has deployed new hardware and data-
+warehouse technologies to support increasing usage volumes. 
+New services were developed to allow partners, such as RIM, to 
+create customer accounts in the Bango system using their sign-
+up processes, to enable rapid on-boarding of thousands of new 
+customers to the Bango system without manual involvement at 
+Bango. 
+  
+Bango regularly reviews procedures, capabilities and scalability 
+plans with larger customers to be able to meet their present 
+and future needs. Information on consumers grew from 40 
+million unique mobile subscribers in March 2009 to more than 
+73 million in March 2010. The 100 million mark was passed 
+during June 2010.  
+ 
+As major businesses become more reliant on Bango, they are 
+undertaking extensive due diligence of systems and procedures, 
+helping to improve and refine processes going forwards. 
+Security checks, on-site audits and capacity testing have been 
+undertaken by companies including Turner, RIM and Yahoo.  
+   
+CEO’s statement 05 
+ 
+ 
+ 
+Financial performance 
+Gross revenue in FY2010 grew by 48% to £26.1m compared 
+with the previous year, with revenue in the second half of the 
+year up by 12% compared to the first half year. Revenue from 
+outside the UK accounted for 83.2% (£21.7m) of total revenue 
+for the year, up from 61% (£10.8m) in the previous year.  
+ 
+Gross profit in the second half grew 1% compared with the first 
+half, to give a gross profit for the year of £2.67m.  
+ 
+End user revenue grew by 55% year on year, 13% half on half. 
+Gross profit on end user activity grew by 21% to £1.23m from 
+£1.02m, whilst margin percentage reduced from 6.4% to 5.0% 
+as a result of the earlier decision to lower transaction fees for  
+larger content provider customers, resulting in significant 
+increases in revenue from larger customers and the opportunity 
+for substantial future growth. 
+  
+Gross profit from content providers decreased by £0.2m to 
+£1.44m reflecting the full effect of the decision made in early 
+2008 to change the sales process for content providers by 
+introducing simpler and cheaper products, requiring reduced 
+sales effort and reducing sales and marketing costs by about 
+£0.7m year on year. As a result, some migration occurred with 
+existing customers moving to cheaper Bango products. 
+ 
+Sales of new Bango Analytics products, launched in February 
+2009, made a small contribution to content provider revenues, 
+with annualized revenues at the year-end of £225k.  
+ 
+Administrative expenses decreased by £0.41m (12.6%) to 
+£2.85m from £3.26m in the previous year, as a result of 
+continuing improvement in sales and marketing efficiencies, 
+plus increased development focus on activities with benefits in 
+future periods. 
+  
+The loss before tax was £0.25m, improved by 61% compared 
+with the loss of £0.65m in FY09.  
+ 
+After an R&D tax credit of £0.26m, Bango achieved its maiden 
+profit after tax of £10k. This compares with an after tax loss in 
+the previous year of £0.48m.  
+ 
+The cash used by operating activities for the year was £0.05m 
+(£0.38m) broadly in line with the profit for the year.  
+Expenditure on assets totaled £1.04m (£0.41m), including 
+£0.88m (£0.35m) on internal R&D mainly on projects relating 
+to high volume analytics processing in future periods.  
+ 
+In January 2010 the Company raised £2.994m net from the 
+issue of new ordinary shares at a price of 43p to provide 
+increased working capital.  
+ 
+ 
+Industry trends 
+Bango management sees a number of trends that are growing 
+the market opportunity for Bango: 
+ 
+• More sophisticated devices are achieving widespread 
+adoption 
+• The adoption of the mobile web is increasing globally  
+• Mobile broadband technology enables the delivery of richer 
+content to consumers  
+• More mobile users are using the internet and buying 
+products on their phones 
+• The functionality and usability of mobile web browsers 
+continues to improve 
+• Businesses are placing more emphasis on the mobile 
+channel 
+• MNOs are moving to open up opportunities for third 
+parties reaching out to their subscribers 
+• Increased interest in paid content models as ad-funding 
+becomes more challenging 
+• Increased competition for useful shelf space in the MNO 
+portals and application stores 
+• Growing recognition of the value of behavioral or 
+personalized marketing 
+• Businesses are focussing on payment conversion rates as 
+competition becomes more intense 
+  
+Once a mobile website is established, it is immediately 
+accessible to mobile internet users around the world. Once 
+available, a web enabled system has a number of requirements 
+that make it an expensive and potentially risky undertaking for 
+any business. These factors also make a comprehensive and 
+highly effective outsourced Bango offering an attractive 
+alternative. The types of issues that Bango can address include, 
+users who need to be geo-located, age-verified for certain 
+content types, MNOs identified or currency and payment 
+options accepted. In addition, the appropriate taxes must be 
+collected and paid, payment fraud risk mitigated, and 
+assurances made that products are not available to banned 
+locations or inappropriate consumers.  
+ 
+Direct to mobile  
+Traditionally consumers have been encouraged to obtain digital 
+content on a PC and transfer it to a mobile device. With the 
+mobile phone replacing the iPod as the most popular music 
+device and more phones having internet capability, consumers 
+are becoming increasingly comfortable with the direct delivery 
+of digital products, including software, audio-books, e-books, 
+video games, music, and video to their mobile phones. 
+  
+This shift to direct delivery is being driven by benefits to both 
+buyers and sellers of these products. For buyers, downloaded 
+products are immediately available for use, without the 
+inconvenience of a side-load. For sellers, direct delivery 
+increases the speed of user wish fulfillment and maximizes the 
+chances of repeat sales.  
+ 
+Bango’s technology and relationships are focused on enabling 
+successful mobile web business models because mobile 
+devices are increasingly the way in which consumers will be 
+connected to content in the future. Many of the world’s largest 
+content providers agree with Bango and are starting to use 
+Bango’s services and products to replace traditional SMS driven 
+content delivery. 
+ 
+Payment and conversation rates  
+Traditional internet payment mechanisms such as PayPal have 
+been targeting the mobile market for many years but continue 
+to show very poor conversion rates. If these systems become 
+more effective, they could open up a new opportunity for Bango 
+to collect payments from some user groups.  
+   
+06 CEO’s statement  
+ 
+ 
+ 
+App stores  
+Application stores such as the BlackBerry App World, Nokia 
+OVI store and the Apple App Store are new and increasingly 
+important channels for vendors of applications in particular. In 
+the case of the Nokia, BlackBerry and Android app stores, 
+Bango sees opportunities to help these increase their 
+conversion rates by adding Bango payment services. In 
+addition, content providers can use Bango alongside 
+application stores.  
+ 
+ 
+Apple currently limits the functionality of the iPhone mobile 
+browser to prevent the download of applications, music or video 
+unless they have come through an ‘Apple approved channel’ or 
+have been side-loaded. This has restricted the size of the 
+market for content providers targeting that device. Several 
+content providers are now using Bango to charge iPhone users 
+for chat, information or streaming services, which are not 
+blocked by the iPhone and Apple’s walled garden philosophy.  
+ 
+ 
+Outlook and strategy for FY ending March 2011  
+Bango’s strategy is to leverage its central position in the 
+growing commercial mobile internet world in order to benefit 
+from the increased level of business activity in this space. With 
+considerable technical investment made to date, the Bango 
+platform can handle very significant increases in transaction 
+volumes without the need for major additional capital 
+expenditure.  
+ 
+Bango expects to see continued revenue growth driven by an 
+increasing number of customers and a growing volume of 
+transactions from established customers. The investments 
+made in previous years mean Bango has a stable, automated, 
+highly scalable system. This coupled with a proven business 
+model and carefully managed cost base means Bango is well 
+positioned for profitable growth in the year ahead.  
+ 
+Bango is supporting RIM to drive the success of the BlackBerry 
+App World. Enabling success for thousands of BlackBerry App 
+developers brings many benefits to RIM, Mobile operators and 
+Bango. It is Bango's intention to support Android, iPhone and 
+Nokia developers, as well as those on other platforms, either 
+directly or through the major application stores.  
+ 
+The new Bango Analytics product is building a good reputation 
+for precision and quality. Bango sometimes encounters 
+competition from Nielsen or Omniture in its larger prospects, 
+but according to prospects they do not have the accuracy or 
+quality of data Bango can provide. The ability to measure the 
+success of marketing activity accurately can also be a benefit 
+for Bango Payment customers.  
+On behalf of the Board, I would like to express my gratitude to 
+Bango’s partners and employees for their continued support. 
+Working with mobile operators, content providers, billing 
+companies and other commercial partners and investors, Bango 
+looks forward to increasing success in the year ahead.  
+ 
+Ray Anderson  
+Chief Executive Officer 
+ 

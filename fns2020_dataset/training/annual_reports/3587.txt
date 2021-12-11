@@ -1,0 +1,2085 @@
+ ClearSpeed Technology plc
+Annual Report and Accounts 2005
+Europe
+ClearSpeed Technology plc
+3110 Great Western Court
+Hunts Ground Road
+Bristol BS34 8HP
+United Kingdom
+T: +44 (0)117 317 2000
+F: +44 (0)117 317 2002
+USA
+ClearSpeed Technology, Inc.
+3031 Tisch Way, Suite 200
+San Jose
+CA 95128
+T: +1 408 557 2067
+F: +1 408 557 9054 ClearSpeed Annual Report and Accounts 2005
+Our business
+Our business
+ClearSpeed Technology is a specialist semiconductor company focussed 
+on the design and development of microprocessors and boards that 
+significantly increase computer performance.
+Like many semiconductor companies, ClearSpeed subcontracts the 
+manufacture, assembly, packaging, testing and shipping of the finished 
+products to third parties.
+In the UK ClearSpeed is based in Bristol, and in the US it has an office 
+in San Jose, “Silicon Valley”.
+Contents
+01 Highlights
+02 At a glance
+04 Chairman’s statement
+06 Chief Executive Officer’s review
+09 Tokyo Institute of Technology contract
+10 Main board
+11 Officers and professional advisers
+12 Directors’ report 
+14 Corporate governance report
+15 Remuneration committee report (unaudited) 
+18 Statement of directors’ responsibilities 
+in relation to the financial statements 
+19 Independent auditors’ report 
+20 Group profit and loss account
+Group statement of total recognised 
+gains and losses
+21 Group balance sheet 
+22 Company balance sheet 
+23 Group cash flow statement
+24 Notes to the financial statements
+ClearSpeed’s programmable processors have
+been designed to meet the requirements 
+of the world’s most compute-intensive
+applications, enabling “supercomputing”
+capabilities on affordable platforms
+including clusters and workstations.
+The CSX600 is designed as a co-processor 
+to be used alongside general purpose
+processors in HPC (high-performance
+computer) applications. The technology
+addresses the problem of power consumption
+and heat generation within the processors.
+This is acknowledged to be an increasingly
+significant problem in creating high-
+performance systems. Reducing processor
+power can also reduce total cost of ownership
+compared with current solutions.
+The CSX600 can also provide a cost-effective
+upgrade for existing systems.
+Designed and produced by 
+www.collegedesign.com ClearSpeed Annual Report and Accounts 2005
+Highlights
+01
+Highlights
+•Key part of consortium providing Tokyo
+Institute of Technology with Japan’s 
+highest performance supercomputer
+•Continued investment in product 
+roadmap and built-out marketing and
+customer support capability to support
+commercialisation of products
+•Turnover up 78% to £439,000 (2004:
+£247,000) – £293,000 in second half 
+of the year following release of first
+commercial product
+•Retained loss of £6,412,000 (2004: 
+loss £3,753,000) 
+•Year-end cash of £22,232,000 after
+successful £20,070,000 of fundraising
+•CSX600 processor demonstrated as both
+the world’s highest performance and the
+most power-efficient processor for 64-bit
+floating point operations 
+CSX600 Advance
+™
+Accelerator Board  02
+ClearSpeed Annual Report and Accounts 2005
+At a glance
+Markets
+High-performance computing 
+Growth in demand for high-performance computers (HPC) is being driven 
+by a combination of factors, two of which are particularly important. 
+Firstly, HPC systems are no longer required just by government and academic
+research laboratories, they are now also a critical tool in key industries which we
+see as the wider commercial space for HPC and include important sectors such as: 
+• Life Sciences & Biotechnology 
+• Energy, Oil & Gas 
+• Scientific Computing 
+• Digital Content Creation 
+• Financial Analysis & Modelling 
+Secondly, while specialised systems such as IBM’s Blue Gene, or those from 
+Cray, NEC and SGI, meet the need for special purpose systems at the very high
+end, in the wider commercial space for HPC a fundamental change has occurred.
+Here the use of standard processors, those that have delivered so much in terms
+of the cost and capability of PC’s and servers, has come to dominate – for example,
+in the year 2000, there were 4 Intel processor-based systems in the TOP500
+supercomputer list, whereas in 2005 this had grown to 333.
+As in other spaces, the use of these Central Processing Units (CPUs) has brought
+HPC systems to a price point where they can be increasingly widely adopted by
+these important industries. This has been made possible because companies such
+as Intel and AMD have been so successful in exploiting “Moore’s Law” to deliver
+CPUs in which performance has doubled approximately every two years. 
+Applications
+Life sciences & biotechnology
+This is a rapidly growing market due to the need
+to accelerate the testing of new drug candidates
+based on the information made available by
+sequencing the human genome. ClearSpeed 
+is working with a number of organisations to
+accelerate their applications. As part of the 
+Tokyo Institute of Technology project, we are
+porting amber – a package of molecular
+simulation programmes.
+Energy, oil & gas
+When it costs over $5 million to drill 10,000 feet
+below the earth’s surface, high-fidelity seismic
+imaging is critical to minimise the risks.
+ClearSpeed is committed to help solve the
+computational challenges of high-resolution
+seismic imaging. ClearSpeed’s roadmap for
+delivering high-performance, low-power
+streaming co-processors is an ideal enabler 
+to the rapid adoption of industry-standard 
+CPU-based systems.
+In practice
+“This is a significant
+achievement by ClearSpeed.
+We are very pleased that 
+the company has chosen 
+to demonstrate the potential
+of the CSX600 on our
+IntelliStation at Heidelberg.”
+Dave Turek
+Vice President of Deep Computing 
+IBM
+“We see ClearSpeed as
+delivering a key technology
+for the next wave of cluster
+development and are
+delighted that the value 
+of this within Sun’s solutions
+was immediately validated 
+by the Tokyo Institute 
+of Technology win.”
+Marc Hamilton
+Director of Technology, Global Education 
+and Research
+Sun Microsystems ClearSpeed Annual Report and Accounts 2005
+At a glance
+03 03
+Scientific computing
+Research institutions that depend on 
+high-performance computing can use
+ClearSpeed’s co-processors to accelerate 
+existing clusters or workstations. ClearSpeed 
+is developing maths libraries such as BLAS,
+LAPACK, and FFT.
+Digital content creation
+With the need to render more complex models
+using more sophisticated algorithms, the
+processing requirements for visualisation are
+increasing continuously. ClearSpeed’s processors
+can accelerate these applications, bringing the
+performance of a render farm to the desktop.
+Applications include animation, physics
+modelling, rendering and non-linear editing.
+Financial analysis & modelling
+Financial companies need to get accurate results
+fast to minimise their risk. By accelerating the
+analysis and processing of data, ClearSpeed’s
+processors can speed the generation of results
+and allow more sophisticated models to be used.
+The requirement for performance that exceeds the rules of Moore’s Law has been
+achieved by increasing the number of CPUs employed in a system. 
+In HPC, while adding CPUs is the best solution for many users, there are costs in
+terms of power consumption, cooling and space which, for other customers, drive
+the need for a new class of processor. Such a processor, termed a “co-processor”
+because it would be designed to run alongside and complement those general
+purpose CPUs, enables the CPU to continue to do all of the mainstream
+processing but off-load the particularly compute-intensive floating point
+operations in which HPC performance is measured. 
+ClearSpeed is focused on providing this new class of co-processor to a growing
+market need, and is becoming increasingly recognised as a leader in the market. 
+Embedded systems 
+Although ClearSpeed designs its processors primarily to meet the needs of the
+HPC market, it has also seen interest within Embedded Systems markets. These
+are markets in which systems are not designed as conventional computers but
+have intense processing requirements; for example those used in medical
+imaging systems.
+“Intel’s leading processor-
+based HPC platforms are 
+the most widely deployed
+across high-performance
+computing. We see
+ClearSpeed’s CSX600 
+as a complementary
+architecture enhancing
+solutions for industries 
+such as engineering design,
+bio-sciences and research.”
+Ben Bennett
+Manager of Intel’s world wide 
+HPC Program Office
+“ClearSpeed’s CSX600
+delivers impressive
+computational performance
+per watt… Combined 
+with industry-standard
+processors, users can create
+accelerated systems with
+performance and density far
+superior to non-accelerated
+systems… that’s pretty 
+cool stuff.”
+Nathan Brookwood
+Principal analyst
+Insight 64
+“ClearSpeed’s technical
+innovation brings high velocity
+acceleration to the AMD64
+platform for high-performance
+computing applications.
+ClearSpeed co-processors 
+are complementary to 
+single- and multicore 
+AMD64 solutions and enable
+significant acceleration 
+in high-performance
+computing applications for
+workstations and servers
+powered by the AMD
+Opteron
+™
+processor with
+Direct Connect Architecture.”
+Pat Patla
+Director of Server/Workstation Marketing,
+Microprocessor Solutions Sector
+AMD 04
+ClearSpeed Annual Report and Accounts 2005
+Chairman’s statement
+Introduction
+ClearSpeed made considerable 
+progress during 2005, achieving a
+number of significant milestones in 
+its markets and product development
+whilst at the same time containing
+costs. These included delivering the
+world’s highest performance processor
+for 64-bit floating point operations, 
+and culminated in December in both
+the group’s first commercial product 
+– the Advance
+™
+Board – becoming
+available, and a successful fundraising
+which has placed the group in the
+position of being well funded to 
+address a potentially substantial 
+market opportunity. 
+Financial results
+The group was successful in controlling
+both its costs and cash, while at the
+same time undertaking a substantial
+product development programme and
+achieving the steady building-out of the
+other capabilities needed to support
+the increasing level of commercial
+activities. The year finished in line with
+group expectations: the retained loss
+was £6,412,000 and the cash outflow
+from operations was £6,824,000.
+Turnover increased to £439,000 for the
+year, compared to £247,000 for the
+previous year. The growth in revenues
+principally occurred towards the end 
+of the year when the group’s first
+commercial product began to ship 
+to customers. The revenue for the
+second half of the year was £293,000.
+The group finished the year with a
+significantly strengthened balance sheet
+following the raising of approximately
+£20,070,000 (net of expenses) by way
+of a placing. 
+Technical progress
+Since ClearSpeed floated on AIM 
+in July 2004, the group has made
+considerable progress in achieving 
+its technical goals.
+During 2005, a key focus was the
+continued development of the group’s
+first commercial products: the CSX600
+processor and the Advance
+™
+Board
+which has two CSX600 processors. 
+The CSX600 was demonstrated for 
+the first time at the International
+Supercomputer Conference at
+Heidelberg in June, and is both the
+world’s highest performance 64-bit
+floating point processor and the world’s
+most power-efficient processor for
+these performance levels. 
+Commercial progress
+Following the important milestone 
+at Heidelberg in June, in August the
+group was invited by Intel to co-present
+at the Intel Developer Forum in San
+Francisco on the use of the CSX600
+with Intel processors running Intel’s
+Math Kernel Library. In November, 
+the group demonstrated the Advance
+™
+Board at the Supercomputing
+Conference in Seattle and was very
+pleased that demonstrations of this
+board was also given on the stands of
+AMD, IBM, Intel and Sun Microsystems.
+“The order from Sun Microsystems for the Tokyo 
+Institute of Technology is a significant milestone 
+in the group’s development.”
+Chairman’s
+statement ClearSpeed Annual Report and Accounts 2005
+Chairman’s statement
+05
+On 15 November 2005, the first day 
+of that conference, the Tokyo Institute
+of Technology announced that
+ClearSpeed, as part of a consortium 
+led by NEC and Sun Microsystems, had
+been selected to deliver Japan’s highest
+performance supercomputer. Sun has
+announced that, in its first phase, this
+computer will use 360 ClearSpeed
+Advance
+™
+Boards. 
+Offering power-efficient performance
+and using 96 cores in its CSX600
+processor, the group was also pleased
+that 2005 was the year in which
+performance per watt was identified 
+as “the new metric” for the industry, 
+and that multicore processing became
+established as a dominant trend in the
+continued development of processors
+for the computing industry.
+Board
+During 2005 the board made two 
+key appointments. In September 
+Paul Webb, who has extensive
+experience in technology companies,
+was appointed chief financial officer.
+Also in September, Shanker Trivedi was
+appointed as a non-executive director.
+Shanker has recently joined Callidus
+Software as vice-president and chief
+marketing officer, and previously was
+vice-president of datacentre solutions
+for Sun Microsystems Inc. and before
+that vice-president and managing
+director of Sun Microsystems in 
+the UK.
+Outlook
+I am pleased to report that since 
+the end of 2005 the group has
+continued to make valuable progress.
+The order from Sun Microsystems for
+the Tokyo Institute of Technology has
+been shipped, which is a significant
+milestone in the group’s development.
+At the same time, discussions with
+other customers are progressing
+satisfactorily. 
+As a result of the recent fundraising, 
+the successful development and
+demonstration of the CSX600 processor,
+and the increasing commercial activity,
+the board believes that ClearSpeed 
+is well placed to make further
+substantial progress.
+David Sebire
+Chairman
+27 March 2006 
++78%
+Increase in turnover
+£22.2m
+Year-end cash 06
+ClearSpeed Annual Report and Accounts 2005
+Chief Executive Officer’s review
+Overview
+The strategic priority for ClearSpeed 
+as it entered 2005 was to commence
+the transition from its technology
+development phase to beginning 
+to build out a fully-fledged business.
+Throughout the year the group made
+considerable progress in achieving 
+this goal. 
+ClearSpeed made significant progress 
+in its technical development and won
+its first high-performance computing
+system customer. It launched and
+commenced shipping its first commercial
+product: the Advance
+™
+Board containing
+two CSX600 processors. The group
+believes that an increased awareness 
+of and interest in its technology from
+potential partners and customers is
+confirmation that it is potentially well
+placed to exploit major trends within 
+the industry. 
+Costs were contained and cash outflows
+from operations were in line with group
+expectations. The successful fundraising
+will enable ClearSpeed to capitalise 
+on and develop its position as the
+designer and supplier of the world’s
+fastest and most power-efficient
+multicore processor for 64-bit floating
+point operations.
+Market opportunity
+Growth in demand for high-performance
+computers (HPC) is being driven by 
+a combination of factors, two of which
+are particularly important. 
+Firstly, HPC systems are no longer
+required just by government and
+academic research laboratories, 
+they are now also a critical tool in 
+key industries which we see as the
+wider commercial space for HPC and
+include important sectors such as: 
+• Aerospace and Automotive
+• Life Sciences & Biotechnology 
+• Energy, Oil & Gas 
+• Scientific Computing 
+• Digital Content Creation 
+• Financial Analysis & Modelling 
+Secondly, while specialised systems
+such as IBM’s Blue Gene, or those from
+Cray, NEC and SGI, meet the need for
+special-purpose systems at the very
+high end, in the wider commercial
+space for HPC a fundamental change
+has occurred. Here the use of standard
+processors, those that have delivered 
+so much in terms of the cost and
+capability of PCs and servers, has come
+to dominate. 
+ClearSpeed’s strategy of supplying its
+technology to the HPC market through
+Advance
+™
+Boards requires no chip
+integration and also allows for systems
+upgrades to be easily accommodated,
+both retrospectively and for new cluster
+systems. In addition to the existing
+installed base of HPC cluster systems,
+analysts estimate that 150,000 HPC
+cluster systems were delivered in 2004
+and are forecast to rise to 220,000 HPC
+cluster systems in 2007. Through
+ClearSpeed’s channel partners in the US
+and Far East, the directors are confident
+that ClearSpeed’s technology will be
+selected for other new HPC projects.
+Chief 
+Executive 
+Officer’s 
+review
+“The group believes that an increased awareness of and
+interest in its technology from potential partners and
+customers is confirmation that it is potentially well placed to
+exploit major trends within the industry.” ClearSpeed Annual Report and Accounts 2005
+Chief Executive Officer’s review
+07
+CSX600 
+The world’s fastest and most power-efficient
+multicore microprocessor for 64-bit floating
+point performance
+07
+The group’s strategy of engaging 
+with independent software vendors 
+and suppliers to port code to the
+ClearSpeed processor complements 
+its “Plug and Play” strategy in removing
+barriers to adoption. Workstation users
+with compute-intensive requirements,
+such as computer-aided design and
+engineering, can access the group’s
+technology using the group’s Advance
+™
+Board. The group has entered into
+informal partnerships with various
+independent software vendors, and at
+the Supercomputing Conference in
+Seattle in November 2005 demonstrated
+its technology with Mathematica and
+MATLAB
+®
+software packages. These
+software packages alone are estimated
+to have at least one million users, 
+some of whom are expected to have
+sufficiently intense computing needs 
+to require the processing acceleration
+delivered by ClearSpeed’s solutions.
+Within the embedded systems market,
+the group has also had some initial
+commercial success. For example, 
+a UK-based defence systems vendor 
+has entered into ClearSpeed’s partner
+programme for a project, which has 
+the potential to result in orders for
+thousands of processors.
+Technical development
+It was a major milestone for the group
+that in June 2005 it demonstrated its
+first commercial processor, the CSX600. 
+Offering up to a sustained performance
+of 25 billion 64-bit floating point
+operations per second (25GFLOPS), 
+the CSX600 is the world’s highest
+performance processor for this type 
+of compute-intensive work. Achieving
+this performance level while consuming
+less than 10 watts, the CSX600 is 
+also the world’s most power-efficient
+processor for this type of application
+area. Delivering a processor of this
+capability was a very significant
+achievement of the whole team 
+in 2005. 
+The key benefit of such high levels 
+of performance (when delivered so
+power-efficiently and in a processor
+which is complementary to the main
+processors from companies such as
+AMD, IBM and Intel) is that, by lowering
+both the cost of purchase and the cost
+of ownership of high-performance and
+technical computing systems, the
+CSX600 enables teams – in industries 
+as diverse as aerospace, financials, 
+and oil and gas – to achieve new levels
+of accuracy in a much shorter time 
+than might previously have been
+economically affordable for them,
+making a direct contribution to their
+productivity, time to market and
+competitive advantage.
+Business development and build-out
+The value proposition offered by the
+CSX600 and the group’s Advance
+™
+Board, each of which contains two
+CSX600 processors, was increasingly
+recognised during 2005, and this 
+led to the group having discussions 
+and engagements with numerous
+customers and channel partners
+including Sun Microsystems and NEC.
+The group was also pleased to find that
+its pricing assumptions for such a value
+proposition were also validated, and the
+announcement on 15 November 2005
+that ClearSpeed was selected by the
+Tokyo Institute of Technology as part 
+of a consortium, led by NEC and 
+Sun Microsystems, to develop Japan’s
+largest supercomputer was a further
+major milestone. The order for boards
+for this system was received by the
+group in 2005 and was worth
+approximately $2 million.
+While keeping costs lower than
+expected during the period, the 
+group has continued to develop 
+the capabilities needed to deliver 
+its products to market. ClearSpeed 
+has successfully developed a supply
+chain with partners in the US, who 
+all have the ability to handle volume
+manufacturing. ClearSpeed 
+has also strengthened its marketing 
+and customer support capability. 
+Team
+It is through the talent and commitment
+of the whole team that so much has
+been achieved, both technically and
+commercially, in 2005. The group
+aspires to recruit and retain very
+talented individuals throughout the
+functions that it is developing, and to
+be a rewarding place in which to work.
+The group was therefore pleased that in
+2005 it continued to be able to recruit
+key individuals in both the USA and the
+UK and that turnover within the team
+continues to be very low.
+Trading
+The principal influences on the financial
+performance of ClearSpeed during
+2005 were the continued investment 
+in research and development, 
+a building-out of the business reflected 
+in an increase in marketing and
+administrative expenses and an
+increase in working capital to support
+the increasing sales activity. The
+retained loss for 2005 was £6,412,000,
+up from a loss of £3,753,000 for 2004.
+Turnover for 2005 was £439,000, 
+an increase of 78% on the 2004 
+figure of £247,000. This increase is as 
+a result of the sale of Advance
+™
+Boards,
+following their release to market during
+the fourth quarter. The gross margin for
+2005 was 66% (2004: 58%), reflecting
+both the sales price levels achieved at
+low volumes and the manufacturing
+costs associated with low throughput.  08
+ClearSpeed Annual Report and Accounts 2005
+Chief Executive Officer’s review
+Chief 
+Executive 
+Officer’s 
+review 
+continued
+“The group was successful in meeting most of its goals 
+in 2005, and has created a platform from which to continue
+this progress in 2006.”
+Whilst administrative expenses
+increased to £7,378,000 in 2005 from
+£4,408,000 in 2004, the business
+continued to operate with a lean model
+throughout the period. Investment 
+in the product roadmap continued,
+resulting in research, design and
+development expenses for 2005 
+being £4,677,000. Marketing and
+administrative expenses for 2005 were
+£2,701,000, up by £919,000 on the
+2004 expenses of £1,782,000. The
+majority of the increase was incurred 
+in the second half of 2005 when
+expenses increased by 73% to reflect
+the building-out of sales, marketing 
+and customer support activities
+following the commercial launch 
+of the group’s first product.
+Cash flow and fundraising
+The continued investment in research
+and development and the growth in
+marketing and administrative expenses
+were the principal reasons for the cash
+outflow from operating activities being
+£6,824,000 for 2005, up from
+£4,238,000 for 2004. 
+Purchase of tangible fixed assets 
+in 2005 was £321,000 compared to
+£84,000 in 2004. Office and computer
+equipment with a cost of £216,000 
+was purchased to support the new
+headcount, which increased from an
+average of 35 employees in 2004 to 
+54 employees in 2005. Additionally,
+with the launch to production of the
+company’s first commercial product,
+the Advance
+™
+Board, tooling costing
+£105,000 was incurred.
+During December 2005, ClearSpeed
+raised approximately £20,070,000 
+(net of expenses) by way of a placing.
+The new funds will be used to: 
+• Consolidate the group’s position 
+as the designer and supplier of the
+world’s fastest and most power-
+efficient multicore microprocessor 
+for 64-bit floating point performance
+• Provide additional working capital 
+to finance the commencement of
+volume shipments of the group’s 
+first products, the CSX600 processor
+and Advance
+™
+Board
+• Increase the rate of investment in the
+group’s sales and marketing effort
+• Increase investment in product
+development
+• Strengthen the group’s balance sheet
+Working capital
+The commencement of production of
+the group’s first commercial products
+resulted in an investment of £251,000
+in stock at the end of 2005 (2004: nil).
+Trade debtors increased to £173,000 at
+the end of 2005, an increase of £89,000
+on the balance at the end of 2004,
+reflecting the increase in turnover.
+The renewal of computer-aided design
+licenses during December was the
+principal reason for trade creditors
+being £922,000 at the end of 2005, 
+an increase of £628,000 over the
+comparable figure for 2004. The
+majority of this expenditure was 
+carried forward as a prepayment 
+at the end of 2005.
+Taxation
+Tax credits of £391,000 relating to
+research and development activities
+were received and credited to the 
+profit and loss account during 2005
+compared to £275,000 for the 
+previous year.
+At the end of 2005 the group had 
+an unrecognised deferred tax asset 
+of £11,400,000 (2004: £9,500,000)
+resulting mainly from tax losses. This is
+available indefinitely to offset against
+future taxable profits of the same trade.
+Accounting Standards developments
+In June 2003, the Council of the
+European Union adopted regulations
+requiring listed companies in Member
+States to prepare their consolidated
+financial statements in accordance 
+with International Financial Reporting
+Standards (IFRS) from 2005. In 
+2004 it was decided that AIM-listed
+companies do not need to file their
+accounts under IFRS until 2007. The
+group has decided to adopt IFRS for
+2007 reporting and accordingly the 
+first financial results to be announced
+prepared in accordance with IFRS 
+will be for the first half of 2007.
+Accounting standard FRS20, covering
+the accounting and reporting of
+employee stock options, is required to
+be adopted for 2006, and as a result the
+financial results for the first half of 2006
+will be prepared on this basis.
+Summary
+Focused on commencing the transition
+from its technology development phase
+to beginning to build out a fully-fledged
+business, the group was successful in
+meeting the majority of its goals in
+2005, and there is good reason to
+believe that this has created a platform
+from which to continue this progress
+during 2006.
+Tom Beese
+Chief Executive Officer
+27 March 2006 ClearSpeed Annual Report and Accounts 2005
+Tokyo Institute of Technology contract
+09
+$2m
+Approximate value of Tokyo Institute of Technology contract
+Tokyo Institute of Technology contract
+ClearSpeed has shipped the consignment of Advance
+™
+Boards to 
+Sun Microsystems for use in Japan’s largest supercomputer. 
+ClearSpeed is contributing 360 Advance
+™
+Boards for the supercomputer which 
+is being built for the Tokyo Institute of Technology (Tokyo Tech). It is expected
+to be one of the ten largest supercomputers in the world at 85 TeraFLOPS 
+(85 trillion 64-bit floating point operations per second). Other vendors
+participating in this system include Sun, AMD and NEC. The supercomputer 
+is expected to be up and running in Q2 of 2006.
+The Tokyo Tech supercomputer, one of the largest university-based computing
+clusters ever built, will be used for compute-intensive applications in a variety 
+of research areas, including bio-science, nano-science, environmental and
+disaster prevention simulations. When the system is completed, it will be
+accessible to every professor and student at Tokyo Tech, in addition to a wide
+range of researchers throughout the world.
+“Installing this system shows our commitment to increasing supercomputer
+performance. By adding more ClearSpeed boards, we can easily reach
+hundreds of TeraFLOPS at a nominal cost, on top of our existing infrastructure.” 
+Professor Satoshi Matsuoka 
+Professor of the Global Scientific Information and Computing Center
+Tokyo Institute of Technology 
+“ClearSpeed’s Advance
+™
+Boards helped us to meet the high-performance
+specifications for this project; the company’s technology has been an
+integral part of the build.”
+John Fowler 
+Executive Vice President of the Network Systems Group 
+Sun Microsystems
+“The contract is a superb first win for ClearSpeed and vindication of its
+decision to stick with its business strategy during recent years when the
+semiconductor industry was going through its worst recession.”
+Alex Jarvis 
+Research analyst 
+KBC Peel Hunt
+The Tokyo Institute of Technology,
+O-okyama campus 10
+ClearSpeed Annual Report and Accounts 2005
+Main board
+Main board 
+David Sebire
+Non-executive chairman
+David is a chartered accountant. He has
+chaired a number of fully listed public
+companies and was for approximately
+four years a non-executive director of
+Westcode Semiconductors Limited, one
+of a small number of companies in the
+UK operating a silicon wafer fabrication
+plant. His current appointments include
+being non-executive chairman of
+Aerobox plc, a company manufacturing
+freight containers in composite
+materials for the aviation market. 
+He is also a non-executive director 
+of Electra Kingsway VCT plc.
+Tom Beese
+Chief executive officer
+Tom has been chief executive officer
+since September 2000. He joined the
+group from Hewlett-Packard where 
+he was a member of the functional
+management team of the Data
+Protection Organisation and focused 
+on the identification of new markets
+and development and exploitation 
+of new technologies. He joined
+Hewlett-Packard after an Executive 
+MBA at the University of Bath and
+gained his original business experience,
+after leaving the Army, in consulting
+and in the development and 
+turn-around of start-ups.
+Paul Webb
+Chief financial officer
+Paul joined ClearSpeed in September
+2005. Previously, he was finance
+director and deputy vice-chairman 
+at Surface Technology Systems plc. 
+Paul has worked at a number of major
+companies. He joined Mitel at its 
+start-up in Europe, heading the 
+finance function for ten years, and 
+then progressed to vice-president
+European operations. Paul has more
+recently held finance and general
+management posts with a number 
+of international companies in the 
+high technology sector.
+Richard Farleigh
+Non-executive director
+Richard first invested in the ClearSpeed
+group in 1998 and joined the board 
+in 2002. An Australian, he studied
+economics and mathematics, and
+worked at the Australian Central Bank
+before becoming an investment banker
+and hedge fund manager. In 1994 he
+branched out on his own to become 
+a “business angel”. Since then, he has
+backed over fifty early-stage technology
+companies including Wolfson
+Microelectronics, ARC International,
+Amino Communications, ANT Software,
+Celoxica and Oxonica. He was also 
+the major backer behind Home House
+in London and is the author of the
+investment book, Taming The Lion.
+John Hart
+Non-executive director
+A former CTO and senior vice-president
+at 3Com Corporation, John is chair 
+of ClearSpeed’s advisory board. 
+At 3Com, John was responsible for 
+the overall strategic direction of the
+company during the period in which 
+it transitioned from a $400 million 
+p.a. operating system company to 
+a $6 billion p.a. networking company. 
+John was the strategic worldwide
+spokesperson for 3Com at trade shows
+and played a key industry and company
+role in the introduction of numerous
+networking technologies/solutions and
+the enhancement of the company’s
+patent portfolio from five patents to
+over 500. John’s earlier career included
+eight years with Vitalink Corporation 
+as vice-president engineering and 
+five years as an executive consultant 
+for the Control Data Corporation.
+Currently, John is a member of the
+board of directors of Coherent Inc, 
+PLX Technology Inc and the advisory
+board of Atrica, Inc.
+Shanker Trivedi
+Non-executive director
+Shanker is chief marketing officer 
+of Callidus Software Inc, a leading
+provider of enterprise incentive
+management solutions. Prior to 
+joining Callidus Software, Shanker 
+held a number of leadership positions
+at Sun Microsystems Inc. Prior to 
+Sun, he held various sales, marketing,
+service, and business management
+positions at IBM, Fujitsu/ICL, and 
+other companies in the UK and India. 
+Shanker is a non-executive director 
+of SoftSol India Ltd, a leading provider
+of enterprise IT modernisation services.
+He has served on several advisory
+boards including the UK Government
+Information Age Partnership and has
+represented Sun on South African
+President Thabo Mbeki’s Advisory
+Council on the Digital Divide. He is 
+also an advisor and mentor to a few
+early-stage IT companies that are
+centred in Silicon Valley, the UK 
+and India.  ClearSpeed Annual Report and Accounts 2005
+Officers and professional advisers
+11
+Officers and
+professional 
+advisers
+Directors
+D J Sebire (Non-executive chairman)
+T J Beese
+P A Webb
+R B Farleigh (Non-executive)
+J H Hart (Non-executive)
+S Trivedi (Non-executive)
+Company Secretary
+P A Webb
+3110 Great Western Court
+Hunts Ground Road
+Stoke Gifford
+Bristol
+BS34 8HP
+Registered Office
+3110 Great Western Court
+Hunts Ground Road
+Stoke Gifford
+Bristol
+BS34 8HP
+Nominated Adviser
+KBC Peel Hunt Limited
+111 Old Broad Street
+London
+EC2N 1PH
+Auditors
+Ernst & Young LLP
+One Bridewell Street
+Bristol
+BS1 2AA
+Solicitors
+Osborne Clarke
+2 Temple Back East
+Temple Quay
+Bristol
+BS1 6EG
+Bankers
+Bank of Scotland
+New Uberior House
+11 Earl Grey Street
+Edinburgh
+EH3 9BN
+Registrar
+Computershare Investor Services PLC
+PO Box 82 
+The Pavilions
+Bridgwater Road
+Bristol
+BS99 7NH
+Company Number 
+5159262 12
+ClearSpeed Annual Report and Accounts 2005
+Directors’ report 
+Directors’ report 
+The directors present their report and the financial statements of the group and company for the year ended 
+31 December 2005.
+Principal activities and review of the business
+The principal activity of the group during the year was that of the research, design and development of semiconductor
+processors and Advance
+™
+Boards for multiple markets and the launch and sale of its first commercial product. On 
+15 November 2005 ClearSpeed was selected by the Tokyo Institute of Technology as part of a consortium, led by NEC and 
+Sun Microsystems, to develop Japan’s largest supercomputer, which resulted in an order being received for 360 Advance
+™
+Boards, for delivery in 2006.
+Results and dividends
+The trading results for the year, and the group’s and company’s financial position at the end of the year, are shown on 
+pages 20 to 23. The directors’ report should be read in conjunction with the chairman’s statement on page 4 and the 
+chief executive officer’s review on page 6 which include information about the group’s business performance during the
+year and an indication of future prospects.
+The directors have not recommended a dividend (2004: nil). The group has no plans to adopt a dividend policy in the
+foreseeable future. It is the directors’ intention that all funds generated by the group will be invested in the development 
+of the business, as is usual for a business in this industry sector and at this stage of development.
+Research, design and development
+The group is committed to the research, design and development of semiconductor processors for multiple markets. 
+The costs relating to this are written off as incurred. In the year, such costs incurred amounted to £4,677,000 (2004: £2,626,000).
+Additional funding
+An Extraordinary General Meeting convened on 28 December 2005 approved the placing in aggregate of 10,097,560 new
+ordinary shares of 1 pence each at a price of 205 pence. The placing raised £20,070,000 net of expenses. The placing shares
+were equivalent to approximately 31.1% of the company’s existing share capital and represent approximately 23.7% of the
+enlarged issued share capital.
+Going concern
+The board is satisfied that the group has adequate financial resources to continue to operate for the foreseeable future 
+and is financially sound. For this reason, the going concern basis is considered appropriate for the preparation of 
+financial statements.
+Directors and their interests
+The directors who served the company during the year were as follows:
+Executive Directors:
+T J Beese
+P A Webb (appointed 15 September 2005)
+S P Murphy (resigned 7 February 2005)
+Non-executive Directors:
+D J Sebire
+J H Hart
+R B Farleigh
+S Trivedi (appointed 26 September 2005)
+T J Beese, J H Hart, P A Webb and S Trivedi will offer themselves for election at the forthcoming AGM.
+The interests of directors in the shares of the company are shown in the remuneration committee report on page 15. ClearSpeed Annual Report and Accounts 2005
+Directors’ report 
+13
+Significant holdings
+In addition to the directors’ interests shown on pages 15 and 17, the following shareholders had interests of 3% or more 
+of the company’s ordinary share capital at 22 March 2006.
+Beneficial Holding
+Number 
+Name of shares %
+P H Nominees Ltd (PECLT) 4,454,572 10.46
+Willbro Nominees Ltd (PAL) 3,700,140 8.69
+Fidelity International Ltd 3,001,602 7.05
+The Bank of New York (Nominees) Limited 1,765,634 4.15
+PixelFusion plc 1,595,447 3.75
+Nutraco Nominees Limited 1,534,190 3.60
+HSBC Global Custody Nominee (UK) 1,429,268 3.36
+BNY (OCS) Nominees Limited 1,280,669 3.01
+Supplier payment policy
+It is the policy of the group to agree terms of payment with suppliers in advance and to abide by those terms. 
+At 31 December 2005 the company and group had an average of 24 days’ purchases outstanding in trade creditors 
+(2004: 39 days).
+Charitable and political donations
+There were no charitable or political donations in the year.
+Auditors
+Ernst & Young LLP offer themselves for re-election at the forthcoming AGM.
+Approved by the board of directors and signed on behalf of the board
+T J Beese
+Chief executive officer 
+27 March 2006 14
+ClearSpeed Annual Report and Accounts 2005
+Corporate governance report
+Corporate governance report
+Compliance with the Combined Code 
+As an AIM-listed company, there is no requirement to give a corporate governance report. However, the group recognises
+the importance of good corporate governance. The principles and provisions of the Combined Code 2003 have been
+considered by the board. The group does not comply with all aspects of the Combined Code, but has adopted it to the
+extent the directors consider appropriate for a group of its size and nature. Accordingly, the group has established an audit
+committee, a remuneration committee and a nominations committee.
+Composition and operation of the board
+The board is responsible for the direction and overall performance of the group with emphasis on policy matters, strategy,
+financial performance and major operational issues. The board meets at least ten times per year and a meeting timetable is
+agreed annually. The board currently comprises the chief executive officer, the chief financial officer and four non-executive
+directors, of whom one, David Sebire, is the non-executive chairman.
+Audit committee
+The audit committee comprises the four non-executive directors (though not necessarily independent). This committee 
+is chaired by David Sebire. It is responsible for ensuring that the financial performance of the group is properly reported 
+on and monitored, and for reviewing the auditors’ reports relating to accounts and internal control systems.
+Remuneration and nominations committees
+The remuneration and nominations committees also comprised the four non-executive directors (though not necessarily
+independent) and were chaired by David Sebire. On 9 March 2006, David Sebire resigned from the remuneration committee
+and John Hart became its chairman. The remuneration committee is responsible for the review and recommendation of the
+scale and structure of remuneration for executive directors including the award of share options. Additionally the committee is
+also consulted on and reviews the remuneration proposals for senior management positions. The nominations committee
+will consider any future appointments to the board.
+Internal control/risk management
+The directors are responsible for the group’s internal controls, and have established a framework intended to provide
+reasonable, but not absolute, assurance against material financial misstatement or loss.
+Relationships with shareholders
+The chief executive officer and chief financial officer meet on a regular basis with representatives of institutional shareholders
+to discuss their views and to ensure that the strategies and objectives of the group are well understood. Issues discussed
+with institutional shareholders include the group’s performance and the impact of any major developments. The group 
+also has a website which provides information on the group’s aims, and includes a separate investor information section on
+which financial data and other significant announcements are published. The website can be found at www.clearspeed.com.
+Approved by the board of directors and signed on behalf of the board
+T J Beese
+Chief executive officer
+27 March 2006 ClearSpeed Annual Report and Accounts 2005
+Remuneration committee report (unaudited)
+15
+Remuneration committee report (unaudited)
+Remuneration committee 
+The remuneration and emoluments of executive directors are determined by the remuneration committee, which
+comprised the four non-executive directors chaired by David Sebire. On 9 March 2006, David Sebire resigned from this
+committee and John Hart became its chairman. The remuneration committee performs its duties under formal terms of
+reference, which include determining, on behalf of the board, the group’s broad policy for executive remuneration and the
+individual remuneration packages (including pension rights, annual bonus plans and share option grants) of each of the
+executive directors. No director or manager is involved in any decision as to his or her own remuneration. The committee 
+is also consulted on and notified of all senior management appointments and related remuneration.
+Remuneration policy
+The group’s policy on directors’ remuneration is that the overall remuneration package should be sufficiently competitive 
+to attract, retain and motivate high-quality executives capable of achieving the group’s objectives and thereby enhancing
+shareholder value. The package consists of basic salary, benefits, share options, performance-related bonuses and pensions,
+with a proportion based on performance and dependent upon the achievement of demanding targets. 
+The group has adopted a share-dealing code for directors and relevant employees in accordance with the AIM rules and will
+take proper steps to ensure compliance by the directors and those employees.
+Incentive arrangements
+It is expected that ClearSpeed will continue to grow its team and that the granting of further options over ordinary shares
+will be an important aspect of the group’s ability to attract, retain and incentivise key staff. Accordingly, the company has
+authority to grant options to subscribe up to 10% of the company’s issued ordinary share capital in any rolling ten-year
+period. Options are granted to directors and employees at the discretion of the remuneration committee and, where determined
+as appropriate, such grants may be subject to performance criteria. More detailed information on the share option
+schemes is given in Note 19 to the accounts. In addition, within its incentivisation arrangement, the company provides 
+for performance-related bonus payments to certain employees, including those connected with the group’s business
+development. As disclosed in the prospectus at the time of IPO, the chief executive officer has performance-related bonus
+entitlements of up to 60% of annual salary as well as a grant of options over 1,623,503 shares (made in 2004) related to 
+both share price performance and the achieving of business milestones.
+Pensions
+The group makes contributions equivalent to 10% of each of the executive directors’ annual basic salaries into personal
+pension plans of the executive directors’ choice. For other employees the group operates a defined contribution pension
+scheme to which it makes contributions of 7.5% of annual basic salary.
+Directors’ shareholdings in the company
+For the directors who held office at 31 December 2005, interests in the ordinary share capital are set out below:
+31 December 2005 31 December 2004
+(or date of appointment if later)
+Number Number 
+of ordinary of ordinary
+shares % shares %
+T J Beese 713,644 1.67 691,449 2.12
+P A Webb (appointed 15/09/2005) 4,878 – – –
+D J Sebire 12,839 – 10,400 0.03
+R B Farleigh9,033,04521.178,959,87427.59
+J H Hart 22,720 – – –
+S Trivedi (appointed 26/09/2005) 4,878 – – –
+T J Beese has a beneficial interest in 713,644 shares; he holds 661,544 in his own name and 52,100 are held by his wife 
+D Beese. 16
+ClearSpeed Annual Report and Accounts 2005
+Remuneration committee report (unaudited)
+Remuneration committee report (unaudited)
+continued
+R B Farleigh has a beneficial interest in 9,033,045 shares; he holds 7,293,207 in his own name and he has a beneficial interest
+in the 1,739,838 shares held by Evolution Securities Nominees.
+The directors have undertaken only to sell shares through KBC Peel Hunt (for as long as they remain a director and KBC Peel
+Hunt remains broker to the company).
+The shareholdings of the directors have not changed since 31 December 2005.
+The directors’ interests in share options are disclosed on page 17.
+Directors’ emoluments
+Fees Salary Benefits Bonus Total 2005 Pension 2005 Total 2004 Pension 2004
+££££ ££ ££
+Tom Beese
+(1)
+– 140,000 560 75,000 215,560 12,500 172,204 6,250
+Paul Webb
+(2)(5)
+– 32,388 347 6,667 39,402 833 ––
+Stephen Murphy
+(3)(6)
+– 9,286 – – 9,286 846 40,000 3,600
+David Sebire
+(4)
+30,000 – – – 30,000 – 15,000 –
+Richard Farleigh 24,000 – – – 24,000 – 12,000 –
+John Hart 24,000 – – – 24,000 – 12,000 –
+Shanker Trivedi
+(5)
+6,400 – – – 6,400 – ––
+84,400 181,674 907 81,667 348,648 14,179 251,204 9,850
+(1) The remuneration package of Tom Beese included non-cash benefit of health insurance. 
+(2) The remuneration package of Paul Webb included a benefit of health insurance.
+(3) In addition to the amounts shown in the table above, Stephen Murphy received an aggregate amount of nil (2004: £32,000) in return for the provision
+of company secretarial and administrative services to ClearSpeed in the period prior to Admission.
+(4) Note 25 provides more details of David Sebire’s fees.
+(5) Paul Webb was appointed on 15 September 2005 and Shanker Trivedi on 26 September 2005.
+(6) Stephen Murphy resigned on 7 February 2005. ClearSpeed Annual Report and Accounts 2005
+Remuneration committee report (unaudited)
+17
+Directors’ interests in share options
+For the directors who held office during 2005, the following options were outstanding:
+At At
+31 December Lapsed 31 December Exercise Exercise
+Name/issue date 2004 2005 2005 period price
+David Sebire
+15 July 2004 104,167 – 104,167 1/3: 15/07/05 – 14/07/14 96.00p
+1/3: 15/07/06 – 14/07/14
+1/3: 15/07/07 – 14/07/14
+Tom Beese
+6 June 2002 106,384 – 106,384 26/08/02 – 05/06/12 20.00p
+1 July 2002 125,000 – 125,000 1/3: 01/07/03 – 30/06/12 20.00p
+1/3: 01/07/04 – 30/06/12
+1/3: 01/07/05 – 30/06/12
+22 December 2002 216,346 – 216,346 01/10/03 – 21/12/12 29.12p
+29 August 2003 206,044 – 206,044 01/04/04 – 28/08/13 29.12p
+29 June 2004 62,500 – 62,500 1/3: 29/06/03 – 28/06/14 40.00p
+1/3: 29/06/04 – 28/06/14
+1/3: 29/06/05 – 28/06/14
+29 June 2004 100,683 – 100,683 29/06/04 – 28/06/14 40.00p
+15 July 2004
+(1)
+1,000,000 – 1,000,000 15/07/07 – 14/07/14 96.00p
+15 July 2004
+(1)
+623,503 – 623,503 15/07/07 – 14/07/14 96.00p
+John Hart
+29 June 2004 10,000 – 10,000 21/07/04 – 28/06/14 40.00p
+6 October 2004 28,000 – 28,000 06/10/04 – 05/10/14 144.50p
+Stephen Murphy
+29 June 2004 10,000 (10,000) –
+15 July 2004 52,083 (52,083) –
+2,644,710 (62,083) 2,582,627
+Notes:
+(1) These options over ordinary shares are subject to the achievement of performance targets, set out by the remuneration committee. These performance
+targets are linked to the attainment of commercial and business milestones.
+The entire option will vest in full on 21 July 2007, if for a qualifying period the share price is at least twice the exercise price.
+The Remuneration Committee will review the performance conditions at intervals to ensure they remain appropriate. As a result of any such review 
+the Committee may amend or waive the conditions if events occur which cause the Committee to reasonably consider that it would be a fairer 
+measure of performance to amend or waive the conditions to ensure they achieve the original purpose.
+(2) There have been no changes in directors’ options since 31 December 2005.
+(3) No directors have exercised any options during the year.
+(4) The non-executive directors are valuable individuals and the share options are granted in recognition of their contribution to the business. 
+Approval
+This report was approved by the board of directors on 27 March 2006 and signed on its behalf by
+David Sebire
+Non-executive chairman 18
+ClearSpeed Annual Report and Accounts 2005
+Statement of directors’ responsibilities 
+Statement of directors’ responsibilities 
+in relation to the financial statements
+Company law requires the directors to prepare accounts for each financial year which give a true and fair view of the state 
+of affairs of the company and group at the end of the year and of the profit or loss for the year then ended.
+In preparing those accounts, the directors are required to: 
+• select suitable accounting policies, and then apply them consistently
+•make judgements and estimates that are prudent and reasonable
+•state whether applicable accounting standards have been followed subject to any material departures disclosed and
+explained in the financial statements
+•prepare the accounts on the going concern basis unless it is inappropriate to presume that the company will continue 
+in business
+The directors are responsible for keeping proper accounting records which disclose with reasonable accuracy at any time the
+financial position of the company and the group and to enable them to ensure that the accounts comply with the Companies
+Act 1985. The directors are also responsible for safeguarding the assets of the company and the group and hence for taking
+reasonable steps for the prevention and detection of fraud and other irregularities. ClearSpeed Annual Report and Accounts 2005
+Independent auditors’ report 
+19
+Independent auditors’ report 
+to the members of ClearSpeed Technology Plc
+We have audited the group and parent company’s financial statements of ClearSpeed Technology plc for the year ended 
+31 December 2005 which comprise the group profit and loss account, group balance sheet, company balance sheet, 
+group cash flow statement, group statement of total recognised gains and losses and the related notes 1 to 26. These
+financial statements have been prepared on the basis of the accounting policies set out therein.
+This report is made solely to the company’s members, as a body, in accordance with Section 235 of the Companies Act
+1985. Our audit work has been undertaken so that we might state to the company’s members those matters we are
+required to state to them in an auditors’ report and for no other purpose. To the fullest extent permitted by law, we do 
+not accept or assume responsibility to anyone other than the company and the company’s members as a body, for our 
+audit work, for this report, or for the opinions we have formed.
+Respective responsibilities of directors and auditors
+The directors are responsible for preparing the annual report, including the financial statements which are required to be
+prepared in accordance with United Kingdom law and applicable United Kingdom accounting standards as set out in the
+statement of directors’ responsibilities in relation to the financial statements.
+Our responsibility is to audit the financial statements in accordance with relevant legal and regulatory requirements and
+International Standards on Auditing.
+We report to you our opinion as to whether the financial statements give a true and fair view and are properly prepared in
+accordance with the Companies Act 1985. We also report to you if, in our opinion, the directors’ report is not consistent
+with the financial statements, if the company has not kept proper accounting records, if we have not received all the
+information and explanations we require for our audit, or if information specified by law regarding directors’ remuneration
+and transactions with the group is not disclosed.
+We read other information contained in the annual report and consider whether it is consistent with the audited financial
+statements. This other information comprises the directors’ report, chairman’s statement, chief executive officer’s review,
+remuneration committee’s report and corporate governance statement. We consider the implications for our report if we
+become aware of any apparent misstatements or material inconsistencies with the financial statements. Our responsibilities
+do not extend to any other information.
+Basis of audit opinion
+We conducted our audit in accordance with International Standards on Auditing issued by the Auditing Practices Board. An
+audit includes examination, on a test basis, of evidence relevant to the amounts and disclosures in the financial statements.
+It also includes an assessment of the significant estimates and judgements made by the directors in the preparation of the
+financial statements, and of whether the accounting policies are appropriate to the group’s and company’s circumstances,
+consistently applied and adequately disclosed.
+We planned and performed our audit so as to obtain all the information and explanations which we considered necessary in
+order to provide us with sufficient evidence to give reasonable assurance that the financial statements are free from material
+misstatement, whether caused by fraud or other irregularity or error. In forming our opinion we also evaluated the overall
+adequacy of the presentation of information in the financial statements.
+Opinion
+In our opinion the financial statements give a true and fair view, in accordance with United Kingdom generally accepted
+accounting practice, of the state of affairs of the company and of the group as at 31 December 2005 and the loss of the
+group for the year then ended and have been properly prepared in accordance with the Companies Act 1985.
+Ernst & Young LLP
+Registered Auditor
+Bristol
+27 March 2006 20
+ClearSpeed Annual Report and Accounts 2005
+Group profit and loss account and Group statement of total recognised gains and losses
+Group profit and loss account
+for the year ended 31 December 2005
+2005 2004
+Notes £000 £000
+Turnover 3 439 247
+Cost of sales (149) (104)
+Gross profit 290 143
+Administrative expenses
+Research, design and development (4,677) (2,626)
+Marketing and administrative expenses (2,701) (1,782)
+(7,378) (4,408)
+Operating loss 4 (7,088) (4,265)
+Interest receivable 8 285 237
+Loss on ordinary activities before taxation (6,803) (4,028)
+Tax on loss on ordinary activities 9 391 275
+Retained loss for the financial year 20 (6,412) (3,753)
+Basic and diluted loss per ordinary share 7 (22.9p) (17.8p)
+All results are derived from continuing operations.
+Notes 1 to 26 form part of these accounts.
+Group statement of total recognised gains and losses
+for the year ended 31 December 2005
+2005 2004
+£000 £000
+Loss attributable to members of the parent company (6,412) (3,753)
+Exchange differences on re-translation of net assets and results of subsidiary undertaking (125) 39
+Total recognised gains and losses relating to the year (6,537) (3,714)
+All activities of the group are classed as continuing.
+Notes 1 to 26 form part of these accounts. ClearSpeed Annual Report and Accounts 2005
+Group balance sheet
+21
+Group balance sheet
+at 31 December 2005
+2005 2004
+Notes £000 £000
+Fixed assets
+Intangible assets 10 165 169
+Tangible assets 11 335 87
+500 256
+Current assets
+Stock 13 251 –
+Debtors 14 1,260 638
+Cash at bank and in hand 23 22,232 8,975
+23,743 9,613
+Creditors: amounts falling due within one year 15 1,655 854
+Net current assets 22,088 8,759
+Total assets less current liabilities 22,588 9,015
+22,588 9,015
+Capital and reserves
+Called–up share capital 19, 20 426 325
+Share premium account 20 30,021 10,039
+Capital redemption reserve 20 6,361 6,361
+Merger reserve 20 33,153 33,153
+Profit and loss account 20 (47,373) (40,863)
+20 22,588 9,015
+These accounts were approved by the board of directors on 27 March 2006 and are signed on their behalf by:
+T J Beese
+Director
+Notes 1 to 26 form part of these accounts. 22
+ClearSpeed Annual Report and Accounts 2005
+Company balance sheet
+Company balance sheet
+at 31 December 2005
+2005 2004
+Notes £000 £000
+Fixed assets
+Intangible assets 10 165 169
+Tangible assets 11 304 87
+Investments 12 19,071 19,071
+19,540 19,327
+Current assets
+Stock 13 251 –
+Debtors 14 2,889 1,371
+Cash at bank and in hand 22,166 8,948
+25,306 10,319
+Creditors: amounts falling due within one year 15 15,245 14,494
+Net current assets/(liabilities) 10,061 (4,175)
+Total assets less current liabilities 29,601 15,152 
+Capital and reserves
+Called-up share capital 19, 20 426 325
+Share premium account 20 30,021 10,039
+Capital redemption reserve 20 6,361 6,361
+Profit and loss account 20 (7,207) (1,573)
+20 29,601 15,152
+These accounts were approved by the board of directors on 27 March 2006 and are signed on their behalf by:
+T J Beese
+Director
+Notes 1 to 26 form part of these accounts. ClearSpeed Annual Report and Accounts 2005
+Group cash flow statement
+23
+Group cash flow statement
+for the year ended 31 December 2005
+2005 2004
+Notes £000 £000
+Net cash outflow from operating activities 21 (6,824) (4,238)
+Returns on investments and servicing of finance
+Interest received 285 237
+Net cash inflow from returns on investments and servicing of finance 285 237
+Taxation
+UK corporation tax received 391 275
+Capital expenditure
+Purchase of intangible fixed assets (73) (53)
+Purchase of tangible fixed assets (321) (84)
+Net cash outflow from capital expenditure (394) (137)
+Cash outflow before financing (6,542) (3,863)
+Financing
+Proceeds on exercise of options 27 9
+Issue of ordinary share capital 19 20,530 35,565
+Share issue costs (633) (948)
+Repayment of loans – (22,463)
+Net cash inflow from financing 19,924 12,163
+Increase in cash 22 13,382 8,300 24
+ClearSpeed Annual Report and Accounts 2005
+Notes to the financial statements
+Notes to the financial statements
+for the year ended 31 December 2005
+1. Basis of preparation
+The financial statements have been prepared on the going concern basis under the historical cost convention and in
+accordance with applicable UK accounting standards.
+ClearSpeed Technology Plc (“Technology”) was incorporated on 21 June 2004 for the purpose of achieving admission to
+trading on AIM of the existing business of ClearSpeed Solutions Limited (“Solutions”). This was effected by a share-for-share
+exchange on 1 July 2004 between the shareholders of these two companies. On the same day the business and assets of Solutions
+were purchased by Technology for a consideration of £13,678,641. On 21 July 2004 the company raised approximately
+£10.2 million via the issue of shares, net of expenses, and was admitted to trading on AIM. 
+The transaction qualified as a group reconstruction within the meaning of FRS6 “Acquisitions and Mergers”, and has been
+accounted for using the merger accounting method. 
+The consolidated accounts incorporate the accounts of the company and all its subsidiary undertakings drawn up to 
+31 December 2005. Subsidiaries are included in the consolidated accounts on the date from which control passes.
+The group has adopted FRS21 “Events after the balance sheet date”, FRS22 “Earnings per share”, FRS25 “Financial instruments:
+disclosure and presentation” and FRS28 “Corresponding amounts” during the year.
+The company has taken advantage of the exemption in S230 (3) of the Companies Act 1985 from presenting its own profit
+and loss account.
+2. Accounting policies
+Turnover
+The turnover shown in the profit and loss account represents revenue recognised during the year, excluding VAT. Revenue
+from the sale of computer processors and boards is recognised when delivery has occurred. Revenue on any associated
+software licence fees is recognised when delivery of the software has occurred, provided that a signed agreement is in place,
+the licence fee is fixed and determinable, no specific modification of the software is required, and that the collection of the
+fee is probable. Revenues from support agreements are recognised over the term of the contract.
+Intangible assets and amortisation
+Purchased patents and external costs of the group’s own patent applications are capitalised at cost. Amortisation is calculated
+so as to write off the cost of an intangible fixed asset, less its estimated residual value, over the useful economic life of that
+asset, which is estimated at 5 years, on a straight-line basis.
+The carrying value of intangible assets is regularly reviewed and any provision for impairment in value is charged to the
+profit and loss account.
+Tangible fixed assets and depreciation
+Tangible fixed assets are capitalised at purchase cost plus incidental costs of acquisition.
+Depreciation is calculated so as to write off the cost of a tangible fixed asset, less its estimated residual value, over the useful
+economic life of that asset as follows:
+Plant and machinery – 3 years straight line
+Computer equipment – 3 years straight line
+Office equipment – 5 years straight line
+The carrying value of tangible fixed assets is reviewed for impairment when events or circumstances indicate the carrying
+value may not be recoverable.
+Investments
+Investments are stated at cost, less any provision for impairment in value. ClearSpeed Annual Report and Accounts 2005
+Notes to the financial statements
+25
+2. Accounting policies (continued)
+Operating lease agreements
+Rentals applicable to operating leases where substantially all of the benefits and risks of ownership remain with the lessor
+are charged against profits on a straight-line basis over the lease period.
+Pension costs
+The group provides a defined contribution Group Personal Pension scheme, with a choice between five providers. Pension
+costs are charged to the profit and loss account on the basis of the amount of contributions payable to these schemes in
+respect of the accounting year. 
+Taxation
+Corporation tax is recognised at amounts expected to be paid/recovered using the tax rates and laws that have been
+enacted or substantively enacted by the balance sheet date. Tax credits arising on R&D activities are recognised when 
+it is virtually certain that a refund will be made, being the earlier of receipt of the cash or notification of the credit.
+Deferred taxation
+Deferred taxation is recognised in respect of all timing differences that have originated but not reversed at the balance sheet
+date where transactions or events have occurred at that date that will result in an obligation to pay more, or right to pay les s
+or to receive more, tax, with the following exceptions:
+• provision is made for tax on gains arising from the revaluation (and similar fair value adjustments) of fixed assets, or gains
+on disposal of fixed assets that have been rolled over into replacement assets, only to the extent that, at the balance sheet
+date, there is a binding agreement to dispose of the assets concerned. However, no provision is made where, on the basis
+of all available evidence at the balance sheet date, it is more likely than not that the taxable gain will be rolled over into
+replacement assets and charged to tax only where the replacement assets are sold
+• deferred tax assets are recognised only to the extent that the directors consider that it is more likely than not that there
+will be suitable taxable profits from which the future reversal of the underlying timing differences can be deducted
+• deferred tax is recognised in respect of the retained earnings of overseas subsidiaries only to the extent that, at the balance
+sheet date, dividends have been accrued as receivable or a binding agreement to distribute past earnings in future has
+been entered into by the subsidiary
+Deferred tax is measured on an undiscounted basis at the tax rates that are expected to apply in the periods in which timing
+differences reverse, based on tax rates and laws enacted or substantively enacted at the balance sheet date.
+Stock
+Stock is stated at the lower of cost and net realisable value. Provision is made for slow-moving, obsolete or defective items
+where appropriate. Stock is valued on a FIFO basis.
+Foreign currencies
+Assets and liabilities denominated in foreign currencies are translated into sterling at the rates of exchange ruling at the
+balance sheet date. Transactions in foreign currencies are translated into sterling at the rate of exchange ruling at the date 
+of the transaction. Exchange differences are taken into account in arriving at the operating result.
+The accounts of ClearSpeed Technology Inc. are translated at the rate of exchange ruling at the balance sheet date. 
+The exchange difference arising on the retranslation of opening net assets is taken directly to reserves. The profit and loss
+account is translated at the average rate of exchange for the year, with any exchange differences arising being treated 
+as a movement on reserves on consolidation. All other translation differences are taken to the profit and loss account.
+Research, design and development expenditure 
+Research, design and development expenditure is written off in the accounting period of expenditure.
+Grant income
+Grant income is credited to the profit and loss account when it is virtually certain that the income will be received, being the
+earlier of receipt of the cash and notification of the credit. 26
+ClearSpeed Annual Report and Accounts 2005
+Notes to the financial statements
+Notes to the financial statements
+continued 
+3. Turnover
+The turnover and loss before tax are attributable to the one principal activity of the group.
+The source of all turnover is the United Kingdom. A geographical analysis of turnover by destination is given below:
+2005 2004
+£000 £000
+United Kingdom 114 44
+Europe 7 –
+USA 243 203
+Rest of the World 75 –
+439 247
+4. Group operating loss
+The operating loss is stated after charging/(crediting):
+2005 2004
+£000 £000
+Amortisation 77 68
+Depreciation 73 32
+Auditors’ remuneration:
+– as auditors (Company £20,000) 30 25
+– non-audit services 33 9
+Operating lease costs:
+– land and buildings 99 90
+DTI Exceptional Research and Development Grant (27) (129)
+Net (profit)/loss on foreign currency translation (98) 68
+Management charge to PixelFusion plc (see note 25) (18) –
+Details of staff costs can be found in note 5.
+In addition to the above, the auditors received nil (2004: £130,000) for non-audit services relating to share issue costs as
+part of the IPO process. These costs were debited to the share premium account. ClearSpeed Annual Report and Accounts 2005
+Notes to the financial statements
+27
+5. Employees 
+The monthly average number of staff, including executive directors, employed by the group during the financial year
+amounted to:
+2005 2004
+Number Number
+Research, design and development 42 29
+Sales and marketing 7 3
+Administration 5 3
+54 35
+The aggregate payroll costs of the above were:
+2005 2004
+£000 £000
+Wages and salaries 2,881 1,876
+Social security costs 376 195
+Other pension costs 161 68
+3,418 2,139
+Details of directors’ remuneration are included in the directors’ emoluments section of the remuneration committee report
+on page 16.
+6. Pension costs
+During the year pension costs of £161,000 (2004: £68,000) were charged to the profit and loss account. Employee-only
+contributions, relating to December payroll, of £12,205 (2004: employee contributions of £7,778) were outstanding at the
+year-end and are included within Other Creditors (see note 15).
+7. Loss per share
+2005 2004
+Retained loss for the year (£000) (6,412) (3,753)
+Weighted average shares in issue (number) 27,997,209 21,081,296
+Basic and diluted loss per ordinary share (pence) (22.9) (17.8)
+The loss per ordinary share is based upon the weighted average number of shares adjusted to reflect:
+– the exclusion of shares held by the Employee Benefit Trust (see note 19), in accordance with FRS22 “Earnings per share”.
+The group has incurred losses in the year and, as such, it is not considered that there are any dilutive events.
+Share options have been granted which would have a dilutive impact if the group were profit making.
+8. Interest receivable
+2005 2004
+£000 £000
+Bank interest receivable 285 237 28
+ClearSpeed Annual Report and Accounts 2005
+Notes to the financial statements
+Notes to the financial statements
+continued 
+9. Tax 
+(a) Tax on loss on ordinary activities
+The tax credit is made up as follows:
+2005 2004
+£000 £000
+Current tax:
+Credit in respect of previous year – R&D tax credit (391) (275)
+Tax on loss on ordinary activities (391) (275)
+(b) Factors affecting current tax credit
+The tax assessed on the loss on ordinary activities for the year is lower than the standard rate of corporation tax in the UK 
+of 30% (2004: 30%). The differences are reconciled below:
+2005 2004
+£000 £000
+Loss on ordinary activities before tax (6,803) (4,028)
+Loss on ordinary activities multiplied by standard rate 
+of corporation tax in the UK of 30% (2004: 30%) (2,041) (1,209)
+Expenses not deductible for tax purposes 2 39
+Decelerated capital allowances 32 21
+Short-term timing differences 34 18
+Losses arising in the year not relievable 1,973 1,131
+Credit in respect of previous year (391) (275)
+Total current tax (see note 9(a)) (391) (275)
+(c) Factors that may affect future tax charges
+The group has a deferred tax asset at the balance sheet date of £11.4 million (2004: £9.5 million) which consists mainly 
+of unrelieved tax losses (see note 16). The deferred tax asset has not been recognised as there is insufficient evidence that
+there will be suitable profits against which the underlying timing differences can be offset.
+10. Intangible fixed assets
+Patents
+Group and Company £000
+Cost:
+At 1 January 2005 1,883
+Additions 73
+At 31 December 2005 1,956
+Amortisation:
+At 1 January 2005 1,714
+Charge for the year 77
+At 31 December 2005 1,791
+Net book value:
+At 31 December 2005 165
+At 31 December 2004 169 ClearSpeed Annual Report and Accounts 2005
+Notes to the financial statements
+29
+11. Tangible fixed assets
+Plant & Office Computer
+machinery equipment equipment Total
+Group £000 £000 £000 £000
+Cost:
+At 1 January 2005 – 176 672 848
+Additions 105 55 161 321
+Disposals – – (76) (76)
+At 31 December 2005 105 231 757 1,093
+Depreciation:
+At 1 January 2005 – 176 585 761
+Charge for the year 6 5 62 73
+Disposals – – (76) (76)
+At 31 December 2005 6 181 571 757
+Net book value:
+At 31 December 2005 99 50 186 335
+At 31 December 2004 – – 87 87
+Plant & Office Computer
+machinery equipment equipment Total
+Company £000 £000 £000 £000
+Cost:
+At 1 January 2005 – 176 672 848
+Additions 105 50 128 283
+Disposals – – (76) (76)
+At 31 December 2005 105 226 724 1,055
+Depreciation:
+At 1 January 2005 – 176 585 761
+Charge for the period 6 4 56 66
+Disposals – – (76) (76)
+At 31 December 2005 6 180 565 751
+Net book value:
+At 31 December 2005 99 46 159 304
+At 31 December 2004 – – 87 87 30
+ClearSpeed Annual Report and Accounts 2005
+Notes to the financial statements
+Notes to the financial statements
+continued 
+12. Investments
+Company Company
+2005 2004
+£000 £000
+Acquisition of ClearSpeed Solutions Limited 6,524 6,524
+Capital contribution made to ClearSpeed Solutions Limited
+for hive-up of trade and assets 12,547 12,547
+19,071 19,071
+On 1 July 2004 the company acquired the entire issued share capital of ClearSpeed Solutions Limited, satisfied by the issue
+of 652,363,881 ordinary shares of 1p each, credited as fully paid (see note 19).
+On the same day the company purchased all of the business and assets of ClearSpeed Solutions Limited (which comprised
+the principal business and assets of the group) for £13,678,641, such amount to be left outstanding as an intra-group loan.
+The amount in excess of the fair value of the net assets acquired amounted to £12,547,000.
+Details of the company’s investments are as follows:
+Proportion
+of voting
+Country of rights and Investment Principal
+Name of Company registration shares held £000 activity
+Clearspeed Technology Inc. USA 100% – Business development
+and sales
+Clearspeed Solutions Limited England & Wales 100% 19,071 Dormant
+13. Stock
+Group Company
+2005 2004 2005 2004
+£000 £000 £000 £000
+Finished goods for resale 251 – 251 –
+14. Debtors
+Group Company
+2005 2004 2005 2004
+£000 £000 £000 £000
+Trade debtors 173 84 51 79
+Other debtors 224 210 224 210
+Due from subsidiary undertakings – – 1,771 738
+Called-up share capital not paid 170 – 170 –
+Prepayments and accrued income 693 344 673 344
+1,260 638 2,889 1,371
+15. Creditors: amounts falling due within one year
+Group Company
+2005 2004 2005 2004
+£000 £000 £000 £000
+Trade creditors 922 294 922 294
+Other taxes and social security 100 72 100 72
+Other creditors 48 76 7 76
+Due to subsidiary undertakings (see note 12) – – 13,679 13,679
+Accruals and deferred income 585 412 537 373
+1,655 854 15,245 14,494 ClearSpeed Annual Report and Accounts 2005
+Notes to the financial statements
+31
+16. Deferred taxation
+The deferred tax asset not recognised is as follows:
+Group Company
+2005 2004 2005 2004
+£000 £000 £000 £000
+Decelerated capital allowances (1,664) (1,625) (1,664) (1,625)
+Tax losses available to carry forward (9,757) (7,853) (9,757) (7,853)
+Other timing differences (50) (18) (50) (18)
+(11,386) (9,496) (11,386) (9,496)
+The deferred tax asset has not been recognised as there is insufficient evidence that there will be suitable profits against
+which the underlying timing differences can be offset.
+17. Financial instruments
+The group’s principal financial instruments comprise cash and liquid resources and these are used to finance the group’s
+operations. The group’s objectives in using financial instruments are to maximise the returns on funds held on deposit, 
+to minimise exchange rate risk where appropriate, and to generate additional cash resources through the issue of shares
+when appropriate.
+It is the group’s policy that no speculative trading in financial instruments is undertaken.
+Short-term debtors and creditors have been excluded from the following disclosures, other than currency risk disclosures, 
+as permitted by FRS13 “Derivatives and other financial instruments: disclosures”.
+Foreign currency risk
+The group has foreign currency exposures, which consist of the monetary assets and liabilities of the group, including those
+with Clearspeed Technology Inc. in the US.
+As at 31 December these currency exposures are as follows:
+US$ Euro Total
+£000 £000 £000
+2005
+Sterling (204) 8 (196)
+2004
+Sterling (124) – (124)
+Interest rate risk and liquidity risk of the group’s financial assets
+The group is principally funded with equity and invests its funds in short-term bank deposits, with access to these deposits
+at a maximum of 30 days’ notice. The group’s policy is to minimise the risk by placing funds in low-risk cash deposits but 
+to also maximise the return on funds placed on deposit.
+Interest rate profile of the group’s financial assets
+The only financial asset of the group is cash. Interest rates on overnight cash deposits are at a variable rate connected 
+to LIBOR.
+Interest rate risk profile of the group’s financial liabilities
+The group had no financial liabilities at 31 December 2005 (2004: nil).
+Borrowing facilities
+The group had no borrowing facilities at 31 December 2005 (2004: nil). 32
+ClearSpeed Annual Report and Accounts 2005
+Notes to the financial statements
+Notes to the financial statements
+continued 
+17. Financial instruments (continued)
+Fair values
+The directors consider there to be no material difference between the fair value and the carrying values of the financial
+instruments at the balance sheet dates.
+Market price risk
+The principal market price risk comprises interest rate exposure. Funds are invested in money market cash deposits with the
+objective of maintaining a balance between accessibility of funds and competitive rates of return. The group’s exposure to
+any rise in interest rates is not significant, as the group has no financial liabilities that would be affected by such a rise.
+18. Commitments
+The group had purchase commitments at 31 December 2005 of £1,830,000 (2004: nil).
+The group and company had annual commitments under non-cancellable operating leases as set out below.
+Group Company
+2005 2004 2005 2004
+Land & Land & Land & Land &
+buildings buildings buildings buildings
+£000 £000 £000 £000
+Operating leases which expire:
+Within one year – 23 – 23
+– 23 – 23
+19. Share capital
+Authorised share capital:
+Group and Company
+2005 2004
+£000 £000
+60,000,000 ordinary shares of 1p each 600 600
+Allotted and called-up:
+Group Company
+2005 2004 2005 2004
+£000 £000 £000 £000
+Fully paid
+42,578,047 (2004: 32,480,487)
+ordinary shares of 1p each 425 325 425 325
+Unpaid
+82,927 (2004: nil)
+ordinary shares of 1p each 1 – 1 –
+426 325 426 325
+Movements in share capital
+On 30 December 2005 10,097,560 new shares were issued at 205p per share. 82,927 of the newly issued shares were
+unpaid at 31 December 2005.
+On incorporation on 21 June 2004 as a public limited company, 700,000,000 ordinary shares of 1p each were authorised
+and 2 ordinary shares were issued at 1p each.  ClearSpeed Annual Report and Accounts 2005
+Notes to the financial statements
+33
+19. Share capital (continued)
+On 1 July 2004, 652,363,881 ordinary shares were issued to the former shareholders of ClearSpeed Solutions Limited to
+acquire the entire issued share capital of ClearSpeed Solutions Limited.
+On 15 July 2004, of each holding of 40 ordinary shares, 39 ordinary shares were converted and redesignated as 1p deferred
+shares. The company purchased the 636,054,779 1p deferred shares for an aggregate consideration of 1p, funded from 
+the proceeds of the issue of one ordinary share at par. The authorised but unissued deferred shares were converted into
+authorised but unissued ordinary shares. 640,000,000 of the authorised but unissued ordinary shares were then cancelled.
+11,554,428 new ordinary shares were issued for £10.2m, net of share issue costs, in July 2004 in relation to the successful
+application for admission to AIM. 10,418 new ordinary shares were issued to employees in the placing at 96p per share.
+4,606,537 new ordinary shares were issued to the ClearSpeed Technology Employee Benefit Trust (EBT) in July 2004 at par.
+Share option schemes
+The Enterprise Management Incentive Plan (EMI Plan) was used for the grant of options prior to Admission. This plan
+complies with the provision of Schedule 5 Income Tax (Earnings and Pensions) Act 2003. Following admission, no further
+grants will be made under it. Options, which were granted under the EMI Plan, were exchanged for new equivalent options
+over the company’s ordinary shares on Admission.
+Since Admission to AIM, option grants have been made under a new plan known as the ClearSpeed Technology Plc Share
+Option Plan. This plan provides for the grant of EMI options, unapproved options and tax-approved incentive stock options
+for US employees.
+The EMI Plan
+The exercise price is determined by the board but, in the case of options to subscribe, must be not less than the nominal
+value of a share. The date and conditions of exercise of the options are set out in the individual participant’s option
+agreement. Unexercised options lapse on the tenth anniversary of the date of grant.
+The exercise of options may be subject to the satisfaction of performance conditions as determined by the board from time
+to time.
+The EMI plan will terminate on 30 May 2012, or earlier if the board so resolves.
+The ClearSpeed Technology plc Share Option Plan
+The Plan has three parts. The first part complies with the provisions of Schedule 5 Income Tax (Earnings and Pensions) Act
+2003 relating to Enterprise Management Incentive Options (EMI). The second part is designed to grant options on similar
+terms, but is unapproved and accordingly is not subject to EMI requirements and does not benefit from the tax advantages
+associated with EMI. The third part enables Incentive Stock Options (ISOs) to be granted to US tax-resident employees on
+similar terms, subject to any modifications required to take account of US tax, exchange control or regulatory requirements.
+The arrangements for distributing share options and the exercise of those options are the same as those for the EMI plan. 34
+ClearSpeed Annual Report and Accounts 2005
+Notes to the financial statements
+Notes to the financial statements
+continued 
+19. Share capital (continued)
+The following options grants were outstanding under the share option schemes:
+At 31
+December At 31
+2004 Issued in Exercised Lapsed December Exercise
+Grant dates
+(1)
+(restated) 2005 2005 2005 2005 Price
+6 June 2002 633,923 – (49,260) – 584,663 20.00p
+1 July 2002
+(2)
+467,500 – (16,666) – 450,834 20.00p
+26 August 2002
+(3)
+100,000 – (39,000) – 61,000 29.12p
+22 December 2002 896,379 – – – 896,379 29.12p
+29 August 2003 559,692 – – – 559,692 29.12p
+29 June 2004
+(4)(6)
+118,845 – (3,200) – 115,645 40.00p
+29 June 2004
+(5)(6)
+441,250 – (4,300) – 436,950 40.00p
+29 June 2004
+(7)
+345,666 – – – 345,666 40.00p
+29 June 2004
+(10)
+10,000 – – (10,000) – 40.00p
+15 July 2004
+(8)
+1,623,503 – – – 1,623,503 96.00p
+15 July 2004
+(9)
+156,250 – – (52,083) 104,167 96.00p
+23 September 2004 42,782 – – – 42,782 130.50p
+6 October 2004
+(12)
+28,000 – – – 28,000 144.00p
+18 October 2004
+(11)
+100,000 – – – 100,000 178.50p
+3 November 2004
+(11)
+28,741 – – – 28,741 190.50p
+21 April 2005 – 32,396 – – 32,396 178.50p
+25 May 2005 – 30,136 – – 30,136 181.50p
+1 June 2005 – 32,745 – – 32,745 182.50p
+29 September 2005 – 424 – – 424 236.00p
+1 October 2005 – 14,554 – – 14,554 240.50p
+11 October 2005 – 5,140 – – 5,140 233.50p
+20 October 2005 – 2,955 – – 2,955 220.00p
+5 October 2005 – 5,721 – – 5,721 218.50p
+5,552,531 124,071 (112,426) (62,083) 5,502,093
+Options granted before 15 July 2004 are held under the EMI Plan, and options granted on and after that date under the
+Share Option Plan. 
+All options vest over a three-year period, one-third on each anniversary of granting, except where specifically noted.
+Notes:
+(1) Save as set out in the notes below, all of the above options, once vested, are exercisable at any time until the tenth anniversary of the date of grant.
+(2) The final third of these options became exercisable on 1 July 2005.
+(3) The final third of these options became exercisable on 26 August 2005.
+(4) All of these options became exercisable on 1 October 2004.
+(5) One-third of these options became exercisable on 29 June 2005, one-third become so on 29 June 2006 and one-third on 29 June 2007.
+(6) The board agreed to grant these options on 21 January 2004 as rewards and incentives to grow the business and in respect of salary sacrifice
+arrangements.
+(7) These options have been granted as compensation for options that were granted at incorrect prices in December 2002 and Augus t 2003.
+(8) All of these options become exercisable on 15 July 2007, subject to the achievement of performance targets set by the remuneration committee 
+(see remuneration committee report). The performance-related conditions are linked to share price performance and business milestones.
+(9) One-third of these options were issued to Stephen Murphy and lapsed on his resignation on 7 February 2005. Of the remainder, one-third became
+exercisable on 15 July 2005, one-third on 15 July 2006 and one-third on 15 July 2007.
+(10) These options, issued to Stephen Murphy, lapsed on his resignation on 7 February 2005.
+(11) The number of options granted has been restated from nil to 100,000 and nil to 28,741.
+(12) These options vest immediately on grant.
+The directors’ interests in these options are set out in the remuneration committee report. ClearSpeed Annual Report and Accounts 2005
+Notes to the financial statements
+35
+19. Share capital (continued)
+The ClearSpeed Technology Employee Benefit Trust (EBT)
+On 29 June 2004 the ClearSpeed Technology Employee Benefit Trust (EBT) was created. The sponsoring company was
+ClearSpeed Solutions Limited. The EBT was set up to assist ClearSpeed Solutions Limited to satisfy its obligations in respect
+of options issued to employees.
+The obligations of ClearSpeed Solutions Limited in respect of the previously issued options were transferred to ClearSpeed
+Technology plc as part of the hive-up of assets and liabilities on 1 July 2004. ClearSpeed Technology plc became the
+sponsoring company of the EBT at this time. On Admission to AIM, the EBT subscribed £46,065 to purchase 4,606,537
+ordinary shares in ClearSpeed Technology plc at 1p per share. The issue of new shares to the EBT was facilitated by a loan
+provided by Clearspeed Technology plc. The market value of these ordinary shares on Admission was 96p. The EBT will
+continue to be used to hold the purchased shares to satisfy the obligations of ClearSpeed Technology plc as employees
+exercise the options over the vesting period. The EBT is administered by a professional trustee company based in Jersey.
+At 31 December 2005 the EBT held 4,440,831 (2004: 4,563,257) ordinary shares with a market value of £2.64 (2004: £2.165)
+per share. These shares include 1,517,944 (2004: 2,008,750), with a market value of £4,007,372 (2004: £4,348,944), which
+have not yet vested unconditionally with employees.
+Included in the profit and loss reserve is a debit of £44,508 (2004: £45,633) representing the cost of the 4,440,831 
+(2004: 4,563,257) shares held by the EBT at year-end.
+20. Reconciliation of movements in equity shareholders’ funds
+Capital Profit and
+Share Share redemption Merger loss
+capital premium reserve reserve account Total
+Group £000 £000 £000 £000 £000 £000
+At 1 January 2005 325 10,039 6,361 33,153 (40,863) 9,015
+Arising on share issue 101 20,599 – – – 20,700
+Share issue costs – (617) – – – (617)
+Exercise of options –––– 27 27
+Exchange differences on
+retranslation of net assets
+of subsidiary undertakings –––– (125) (125)
+Retained loss for the year –––– (6,412) (6,412)
+At 31 December 2005 426 30,021 6,361 33,153 (47,373) 22,588
+Capital Profit and
+Share Share redemption loss
+capital premium reserve account Total
+Company £000 £000 £000 £000 £000
+At 1 January 2005 325 10,039 6,361 (1,573) 15,152
+Arising on share issue 101 20,599 – – 20,700
+Share issue costs – (617) – – (617)
+Exercise of options – – – 27 27
+Retained loss for the year – – – (5,661) (5,661)
+At 31 December 2005 426 30,021 6,361 (7,207) 29,601 36
+ClearSpeed Annual Report and Accounts 2005
+Notes to the financial statements
+Notes to the financial statements
+continued 
+21. Reconciliation of operating loss to net cash outflow from operating activities
+2005 2004
+£000 £000
+Operating loss (7,088) (4,265)
+Amortisation 77 68
+Depreciation 73 32
+Exchange differences – 40
+Increase in stock (251) –
+Increase in debtors (393) (412)
+Increase in creditors 758 299
+Net cash outflow from operating activities (6,824) (4,238)
+22. Reconciliation of net cash flow to movement in net funds
+2005 2004
+£000 £000
+Increase in cash in the year 13,382 8,300
+Exchange movement (125) –
+Loan repayment – 22,463
+Change in net funds arising from cash flows 13,257 30,763
+Net funds/(debt) at 1 January 8,975 (21,788)
+Net funds at 31 December 22,232 8,975
+23. Analysis of changes in net funds
+At 1 At 31
+January CashExch ange December
+2005 flows movement 2005
+£000 £000 £000 £000
+Cash in hand and at bank 8,975 13,382 (125) 22,232
+Net funds 8,975 13,382 (125) 22,232
+24. Profit attributable to members of the parent company
+The loss dealt with in the accounts of the parent company was £5,661,000 (2004: £1,536,000).
+25. Related party transactions
+Ultra Securities (Holdings) Limited and David Sebire have entered into a consultancy agreement with the company whereby
+Ultra Securities (Holdings) Limited procures that David Sebire acts as non-executive chairman of the company on the terms
+that an annual fee of £30,000 (2004: £30,000) plus VAT is payable to Ultra Securities (Holdings) Limited in respect of the
+provision of David Sebire’s services as non-executive chairman. In addition a £10,000 (2004: nil) contribution to administrativ e
+costs was paid to Ultra Securities (Holdings) Limited.
+An amount of £20,000 (2004: nil) relating to unpaid share capital, in connection with the fundraising on 28 December 2005,
+was owed to the company by John Hart as at 31 December 2005. This was received by the company on 9 January 2006.
+A management charge of £18,000 (2004: nil) was made to PixelFusion plc during 2005 and a debtor of £1,000 (2004: nil)
+was outstanding at 31 December 2005. Tom Beese is a director of PixelFusion plc.
+Stephen Murphy received an aggregate of nil (2004: £32,000) in return for the provision of company secretarial services in
+the period prior to Admission.
+The company has taken advantage of the exemption allowed in FRS8 “Related party disclosures” on disclosing related party
+transactions with group companies.
+26. Contingent liabilities
+The company has been awarded an Exceptional Research & Development Grant by the DTI. The accounts currently reflect
+income from this grant amounting to £27,000 (2004: £129,000). The terms of the grant are such that it is repayable in full in
+the event that the company fails to meet certain conditions for a period of five years following the end of the project which is
+the subject of the grant. Accordingly there is a contingent liability of £156,000 (2004: £129,000) in respect of this amount. ClearSpeed Annual Report and Accounts 2005
+Our business
+Our business
+ClearSpeed Technology is a specialist semiconductor company focussed 
+on the design and development of microprocessors and boards that 
+significantly increase computer performance.
+Like many semiconductor companies, ClearSpeed subcontracts the 
+manufacture, assembly, packaging, testing and shipping of the finished 
+products to third parties.
+In the UK ClearSpeed is based in Bristol, and in the US it has an office 
+in San Jose, “Silicon Valley”.
+Contents
+01 Highlights
+02 At a glance
+04 Chairman’s statement
+06 Chief Executive Officer’s review
+09 Tokyo Institute of Technology contract
+10 Main board
+11 Officers and professional advisers
+12 Directors’ report 
+14 Corporate governance report
+15 Remuneration committee report (unaudited) 
+18 Statement of directors’ responsibilities 
+in relation to the financial statements 
+19 Independent auditors’ report 
+20 Group profit and loss account
+Group statement of total recognised 
+gains and losses
+21 Group balance sheet 
+22 Company balance sheet 
+23 Group cash flow statement
+24 Notes to the financial statements
+ClearSpeed’s programmable processors have
+been designed to meet the requirements 
+of the world’s most compute-intensive
+applications, enabling “supercomputing”
+capabilities on affordable platforms
+including clusters and workstations.
+The CSX600 is designed as a co-processor 
+to be used alongside general purpose
+processors in HPC (high-performance
+computer) applications. The technology
+addresses the problem of power consumption
+and heat generation within the processors.
+This is acknowledged to be an increasingly
+significant problem in creating high-
+performance systems. Reducing processor
+power can also reduce total cost of ownership
+compared with current solutions.
+The CSX600 can also provide a cost-effective
+upgrade for existing systems.
+Designed and produced by 
+www.collegedesign.com ClearSpeed Technology plc
+Annual Report and Accounts 2005
+Europe
+ClearSpeed Technology plc
+3110 Great Western Court
+Hunts Ground Road
+Bristol BS34 8HP
+United Kingdom
+T: +44 (0)117 317 2000
+F: +44 (0)117 317 2002
+USA
+ClearSpeed Technology, Inc.
+3031 Tisch Way, Suite 200
+San Jose
+CA 95128
+T: +1 408 557 2067
+F: +1 408 557 9054

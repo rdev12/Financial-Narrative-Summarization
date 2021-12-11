@@ -1,0 +1,76 @@
+ most resilient form of PCI compliance available to contact 
+centres. Of our sample, 9% of contact centres had adopted 
+such solutions with a further 13% considering this approach 
+as part of their future compliance programme.
+Owing to the complexity of the annual PCI DSS audit, more 
+contact centres are opting to outsource the requirement 
+to PCI DSS service providers like Eckoh so that they can 
+continue to run their core operation without distraction.
+Eckoh is finding that their cloud- based payment solutions 
+EckohPAY and EckohPROTECT are popular with clients and 
+consumers alike, as callers can enter their card details using 
+their telephone keypad and never have to pass their details 
+verbally to someone they don’t know. EckohPROTECT 
+ensures that the contact centre agent is never exposed to 
+cardholder data but does allow them to stay on the phone 
+with the caller while they process their payment. As well 
+as maintaining a good customer experience, the system 
+masks the card data on the agent screen and blocks the 
+DTMF tones from being recorded allowing call recording to 
+continue. For organisations who are required for regulatory 
+reasons to have uninterrupted call recording this can be a 
+critical requirement. 
+As the Payment Card Industry Security Standards Council 
+prefer to see robust technology based solutions, more 
+organisations are realising the benefits of outsourcing this 
+requirement for contact centres to Eckoh as it: 
+  o helps to de-scope the PCI audit, and
+  o  takes the burden of compliance away from the 
+contact centre.
+To make it easier for organisations to identify a compliant 
+provider, Visa publishes a list of approved Level One Service 
+providers. Eckoh has been a PCI DSS Level One compliant 
+Service provider since 2010, taking over £300 million per 
+year for clients.
+case study: 
+Kiddicare
+Acquired by Morrisons in 2011, Kiddicare prides itself on delivering 
+an outstanding hassle free shopping experience both in store and 
+online. One such example is their extended next day delivery promise 
+by allowing customers to place online orders as late as 7pm for 
+guarantee delivery the following working day. Their commitment to 
+their customers means they are now the UK’s number one online 
+baby shop with 400,000 customers placing an order with them in 
+the last 12 months.
+Most of Kiddicare’s customers pay for goods online, but Kiddicare 
+wanted to expand the shopping experience to offer payments via 
+telephone. Aware of PCI DSS compliance, they wanted to ensure 
+that any payments made by customers were secure and met Payment 
+Card Industry regulations. They also wanted to offer the option of 
+paying through their existing contact centre agents as well as an 
+automated system.
+By using Eckoh as their PCI DSS compliant service provider, Kiddicare 
+is able to avoid a long and detailed part of the compliance process 
+and quickly implemented a secure card payment service for their 
+customers. In addition, EckohPROTECT enables callers to make 
+payments with contact centre agents who can verbally guide them 
+through the payment process.
+EckohPROTECT is just 
+what we were looking for 
+at Kiddicare. W e were really 
+impressed with Eckoh’s 
+credentials, their PCI DSS 
+Level One status and their 
+confidence at meeting our 
+challenging implementation 
+deadlines. W e’re looking 
+forward to providing a secure 
+yet convenient payment service 
+that delivers an excellent 
+customer experience.
+Ken Platt 
+Head of Multi-Channel  
+Morrisons.com
+ANNUAL REPORT
+2013
+17

@@ -1,0 +1,270 @@
+ 9 eg solutions plc www.eguk.co.uk
+Our Business Our Governance Our Accounts
+20218.04  27/04/2011 Proof 7
+Chief Executive Officer’s Statement
+Introduction
+The increasing momentum in eg’s financial performance over 
+the past year reflects strong underlying demand for our 
+products and services, together with our focus on developing 
+and delivering back office optimisation solutions that deliver 
+tangible cost savings for our customers. This has enabled us 
+to grow revenues from existing users as well as expand our 
+customer base both organically and through the acquisition of 
+XTAQ Limited. 
+eg’s financial performance follows management’s decision 
+three years ago to restructure the fundamentals of the 
+business. This involved focusing on building recurring and 
+repeatable revenues, changing the implementation model to 
+enable clients to do more of the implementation work 
+themselves, reducing direct and overhead costs and investing 
+in product development. Our success in selling eg’s products 
+and services more widely and deeply to existing customers has 
+also enabled us to deliver strong recurring and repeatable 
+revenues and the product development undertaken has 
+ensured that the Company’s technology platform is both 
+robust and scalable as well as compatible with the ‘cloud’ and 
+other technologies used in enterprise management systems. 
+The Nuqleus product set, acquired with XTAQ, provides 
+real-time data capture capability that reduces manual data 
+entry routines. For our customers this provides an alternative 
+integration mechanism with incumbent IT platforms without 
+diverting their IT resources from other priorities. We are also 
+addressing the growing demand from organisations seeking to 
+combine the provision of real-time and historic management 
+information from the back office with more advanced 
+forecasting and planning capabilities usually found in the front 
+office. This is achieved using our own products as well as by 
+exporting data into the solutions either of other vendors or 
+developed by our customers. 
+Internationally, the growth and profitability achieved in South 
+Africa was encouraging and validates the Company’s decision 
+to invest in that market. Following this success, and with 
+opportunities identified with a number of customers and other 
+business partners, we are planning to expand selectively into 
+other new territories. 
+During the year, we have continued to maintain tight cost 
+control and achieved annual savings of approximately 
+£165,000 following the acquisition of XTAQ Limited.
+Business development and operations
+Market development
+The growth potential of the back office optimisation market is 
+increasingly being recognised. DMG Consulting estimated in its 
+2010 Workforce Management Market Report, that the back office 
+market has the potential to become at least three to seven times 
+the size of the contact centre segment of the workforce 
+management market. Other analysts have also forecast that 
+demand for new types of software that continuously monitor and 
+analyse people and process could have a value of approximately 
+$3.5 billion over the next few years.
+For eg this will mean new sales opportunities as workforce 
+management vendors increase their marketing of ‘back office’ 
+solutions. We are well placed to capitalise on the significant 
+growth in market demand we expect over the next few years. 
+The range of eg’s products and services addresses all of the 
+key aspects of back office optimisation requirements, including 
+resource forecasting and planning, end-to-end as well as 
+intra-day and intra-process work allocation and tracking, and 
+operational management and reporting, all in real-time.
+Growing industry recognition of eg as the provider of the most 
+comprehensive back office optimisation software functionality will 
+be a significant factor in our future success and it is encouraging, 
+as we move forward, that we have strong endorsement of our 
+products through our growing customer base.
+Customer base growth
+During the past year the total number of eg customers 
+increased from 29 to 42. The expansion of our customer base 
+reflects the growing recognition of eg’s leading position in the 
+back office optimisation market, our strong long-term 
+customer relationships, the measurable value added by our 
+products and services and the benefits of the Company’s 
+technology and product development programme.
+ “Internationally, the growth 
+and profitability achieved in 
+South Africa was encouraging 
+and validates the Company’s 
+decision to invest in that 
+market.”
+Elizabeth Gooch,
+Chief Executive Officer
+Elizabeth Gooch
+Chief Executive Officer Annual Report & Accounts 2011 www.eguk.co.uk 10 Our Business
+20218.04  27/04/2011 Proof 7
+Chief Executive Officer’s Statement continued
+New projects undertaken during the year included 
+implementations of Nuqleus in the UK for Aviva, Bradford & 
+Bingley and Citibank, with a further contract signed at the end 
+of the year with Produban UK, part of the Santander group. 
+Other projects included the roll-out of eg work manager
+®
+ for 
+Vital, a Norwegian life and pensions insurance company, and 
+services relating to the implementation of licences bought by 
+Nationwide and a major UK life and pensions company in 
+2009/10. Wins in South Africa included implementations for 
+one of South Africa’s largest healthcare Administrators is in the 
+open and closed medical scheme markets, Silica (an 
+outsourcing company) and a pilot implementation for 
+Alexander Forbes (provider of financial and risk services).
+During 2010 eg’s Professional Services team undertook over 
+20 fee earning projects for existing customers looking to 
+leverage their investments in our products. Significantly a 
+number of these projects involved customers migrating their 
+systems onto new virtualised server platforms and we believe 
+such projects will be a trend through 2011. Custom reporting 
+projects were also significant as customers looked to publish 
+increasingly sophisticated operational management 
+information across their enterprises. Significant projects 
+included;  
+  A First Contact Resolution Reporting project for a major 
+outsourcer
+  A Virtual Server Migration project for a major building 
+society
+  Development of a real-time Customer Experience 
+Management enquiry tool for the call centre of a major 
+outsource provider 
+  A Field Sales New Business reporting project for a major UK 
+insurer, and 
+  A major platform migration project for a customer 
+centralising and virtualising their eg servers.
+Underpinning our growth is a high level of repeat business, 
+with approximately 60% of revenues last year coming from 
+existing customers who provide strong endorsement of eg’s 
+products and services. Customer service remains a key priority 
+for eg and in a recent survey, 100% of eg’s customers said 
+that they would recommend the Company to others, the 
+majority because of the results achieved. Also in the bi-annual 
+customer satisfaction survey of our Helpdesk and Software 
+Support service, covering 41,000 software users, the Company 
+scored an average of 8.4 out of 10 for the quality of service 
+provided.
+Technology and product development
+During the year the Company continued to enhance and 
+develop both its technology platform and its products to 
+improve performance, add functionality and enable delivery 
+across any enterprise system. 
+Key product developments included:
+  Completion of eg work manager
+®
+ v6.0, a ‘thin client’ web 
+browser version of eg’s core eg work manager
+®
+ product, 
+built using the latest Microsoft Silverlight and Windows 
+Communication Foundation technologies. This latest product 
+has been designed to enable customers to deploy and 
+extend the use of eg work manager
+®
+ more easily, 
+providing a lower total cost of ownership for deployments ‘on 
+premise’ or ‘on the cloud’. The product has been designed to 
+work with the existing eg work manager
+®
+ database, 
+enabling both new and existing customers to use the new 
+version without the need for existing product upgrades; 
+ Enhancement to the eg integration framework™, an 
+open, standards based Software Development Kit (SDK) 
+designed to simplify and shorten integration project 
+timescales;
+  Enhancement to Nuqleus to enable integration with Verint
+®
+ 
+Impact 360
+®
+ Recording™ system for call centres and for 
+compatibility with zero footprint Citrix environments;
+  Further releases of eg operational intelligence
+®
+ and  
+eg operational intelligence
+®
+ data views; 
+  The release of a new product, eg operational 
+intelligence
+®
+ data views for BusinessObjects enabling 
+customers with SAP BusinessObjects business intelligence 
+platforms to interrogate eg’s operational data via a 
+BusinessObjects universe; and
+  Certification of eg work manager
+®
+ and eg operational 
+intelligence
+®
+ for Microsoft Server 2008 and SQL Server 
+2008 platforms. 
+Acquisition
+The integration of the operations and products of XTAQ, 
+acquired in March 2010, was completed as planned along with 
+approximately £165,000 of cost savings achieved by 
+centralising operations at eg’s office and streamlining the 
+XTAQ business.
+“We are well placed to 
+capitalise on the significant 
+growth in market demand we 
+expect over the next few years. 
+The range of eg’s products and 
+services address all of the key 
+aspects of back office 
+optimisation requirements”
+ “A significant focus for  
+the UK business in 2010 was 
+converting XTAQ’s pipeline . . . 
+Orders for Nuqleus won during 
+the year had a total value of 
+approximately £1.1 million” 11 eg solutions plc www.eguk.co.uk
+Our Business Our Governance Our Accounts
+20218.04  27/04/2011 Proof 7
+The addition of the Nuqleus software into the eg product set 
+extends our ability to meet the back office optimisation 
+requirements of our customers. Nuqleus is the logical entry 
+product for customers who want to begin the measurement, 
+management and improvement stages to transform their 
+operational performance.
+Against this background, a significant focus for the UK 
+business in 2010 was converting XTAQ’s pipeline and 
+implementing the projects concerned. Orders for Nuqleus won 
+during the year had a total value of approximately £1.1 
+million. The first project, with Aviva, moved to further roll-outs 
+having successfully completed the pilot stage prior to 
+acquisition. Other wins include contracts from Citibank and 
+Bradford & Bingley, with a contract with Produban UK, part of 
+the Santander group being closed at the end of the year.
+The final consideration for XTAQ was £175,893 comprising 
+£33,333 in cash and £142,560 in 5% Convertible Unsecured 
+Loan Notes 2012, convertible at 82.5 pence per share. Since 
+completion, options for 1.13 million eg shares, with a 4-year 
+vesting period and an exercise price of 55 pence, have been 
+awarded to key XTAQ employees on achievement of agreed 
+sales targets. 
+Industry recognition
+In July eg achieved ICT certification from Accredit UK in 
+recognition of the high standard of our software product 
+design and development. In September eg won the 
+International Trade & Export category of the inaugural 
+Birmingham Post Business Awards 2010.
+People
+eg is fortunate in being able to attract and retain good quality 
+people and the Company is committed to providing training 
+and career development programmes to enable this to 
+continue.
+At the end of 2010, 72% of eg employees had been with the 
+Company for 5 years or more with the Staff Satisfaction 
+Survey for 2010 showing an overall satisfaction score of 8.3 
+out of 10. 
+The Board would like to thank everyone at eg for their efforts 
+during the past year. 
+Future priorities
+eg has demonstrated through the momentum achieved over 
+the past year, that it has the management, products and 
+scalable business model to capitalise on the substantial 
+opportunities available in the emerging back office 
+optimisation software market. 
+Following the successful integration of XTAQ and, with 
+customer demand continuing to be strong, the Company will 
+continue to grow its order pipeline in both the UK and 
+overseas.
+24 March 2011
+Elizabeth Gooch
+Chief Executive Officer
+3 May 2011

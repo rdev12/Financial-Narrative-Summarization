@@ -1,0 +1,376 @@
+ 6 Axeon Holdings plc 
+ Annual Report & Accounts 2005
+Chief Executive Officer’s Review of Operations
+Hamish Grant
+Chief Executive Officer
+During 2005 the Company 
+concentrated on continuing entry into 
+the automotive control and diagnostics 
+market with its Vindax technology.  
+The primary areas of focus were 
+building relationships with chip 
+manufacturers who supply the 
+automotive market and conducting 
+proof of concept evaluations with 
+key automotive manufacturers to 
+demonstrate the benefits of Vindax 
+technology. The Company also 
+invested heavily in continued product 
+development and intellectual property 
+protection.
+Building a presence in the  
+automotive market
+We made significant progress in 
+this market sector during the year. 
+We entered into a joint marketing 
+agreement with a major US automotive 
+chip manufacturer to work together  
+on joint sales presentations to potential 
+customers. Of equal significance,  
+we have been able to demonstrate  
+the Vindax processor working with 
+other established chips that are  
+already widely used in the industry.  
+We demonstrated how our technology 
+integrates with both Infineon based 
+and Freescale based devices at two 
+major international industry events in 
+Detroit held towards the end of 2005.
+During 2005, the work with automotive 
+manufacturers has focused on practical 
+proof of concept evaluations and 
+the delivery of additional products 
+to enable the customers to carry 
+out in-car real-time evaluations 
+and prototyping of pre-production 
+solutions. 
+The automotive industry is highly 
+secretive and all evaluations are 
+covered by non-disclosure agreements 
+so we are not able to name specific 
+customers and applications. However 
+successful proof of concept studies 
+were undertaken in the areas of 
+misfire detection, control parameter 
+estimation and vehicle weight 
+estimation. These projects were all 
+conducted with major automotive 
+manufacturers, Tier 1 suppliers and 
+specialist race teams in the US and 
+Europe. One of these programmes  
+has already resulted in the award  
+of our first pre-production 
+implementation contract with  
+a major European automotive 
+manufacturer, with a possible 
+production implementation in 2007. 
+The other exciting project concluded 
+during 2005 was an evaluation for  
+ITI Energy of Vindax technology as 
+an enabling solution for an advanced 
+battery management system for Li-ion 
+battery cells. The preliminary project 
+was completed successfully and ITI 
+Energy has now signed a contract 
+to develop a pre-production Li-ion 
+battery management system during 
+2006. The co-operative work with 
+Advanced Batteries on this project 
+led to the management teams of the 
+two companies identifying potential 
+business synergies which in turn led 
+to our acquisition of Axeon Power in 
+March 2006.
+During 2005 the Company focused  
+on continuing entry into the automotive 
+control and diagnostics market with  
+its Vindax technology.  Axeon’s Vindax Technology
+Axeon’s Vindax products are designed 
+to provide elegant, cost-effective 
+solutions to problems involving 
+complex, non-linear systems data.
+Vindax products include the uniquely 
+powerful Vindax processor architecture 
+implemented as a fully synthesisable 
+intellectual property (IP) core, and the 
+Vindax Development System, the key 
+tool in the investigation of complex 
+problems and the application of 
+Vindax technology to their solutions. 
+The Vindax Development System plays 
+a fundamental part in developing a 
+solution.
+Vindax learns by example. A Vindax 
+processor or IP core is trained using 
+representative samples of data, and 
+forms its own internal representation of 
+the data relationships. The processor 
+can then recognise classes of input 
+data and classify the data accordingly.
+Vindax performs extremely well as 
+a function approximator, as it can 
+be trained to ‘learn’ a function (for 
+example, the transfer function of the 
+actuator in the field of active valve 
+control).
+A single use of the Vindax architecture 
+may perform several complex and 
+diverse functions through real-time 
+multi-tasking.
+The wide range of benefits provided 
+by Vindax technology include:
+Reduced time to market
+By using Vindax, the time-consuming 
+and costly process of algorithmic 
+development to find a procedural 
+solution is eliminated. Solution 
+development is greatly simplified, 
+accelerating time to market.
+Performance
+The Vindax microprocessor architecture 
+offers unique levels of performance, 
+achieving extremely low training and 
+classification times. These are achieved 
+using minimal silicon area and with  
+low power consumption. Vindax offers  
+considerable performance advantages  
+over, for example, software 
+implementations of machine learning 
+techniques.
+Compatibility with existing 
+architectures
+Vindax IP Cores are readily integrated 
+with existing processing architectures 
+such as RISC and DSP, allowing easy 
+integration into a customer’s  
+System-on-Chip design.
+No complex development 
+environments
+The use of Axeon’s patented Learning 
+Algorithms within Vindax products 
+means that there is no requirement for 
+complex development environments 
+and compilers.
+                    Axeon Holdings plc   
+Annual Report & Accounts 2005   Axeon Holdings plc 
+ Annual Report & Accounts 2005
+Chief Executive Officer’s Review of Operations – continued
+In April 2006, we signed an agreement 
+with Modec, the developers of a new 
+zero emission city van, to become 
+the exclusive supplier of its battery 
+management systems and battery 
+cassettes. Production is due to start 
+in the final quarter of 2006, with a 
+requirement for up to 50 battery 
+packs by the end of the year and a 
+production target of 800 packs in 2007.
+Staying at the forefront of technology 
+development
+We also announced our new VX1064 
+processor core at one of the major 
+industry shows in September 2005. 
+This development puts us at the 
+forefront of market innovation, 
+introducing a processor that will run 
+a number of applications in parallel. 
+Our first implementation of the new 
+processor is in a field programmable 
+gate array (FPGA), a device similar to a 
+chip but lower in cost and complexity. 
+The device chosen, an Altera Stratix-
+II FPGA, is an ideal platform for 
+prototyping of future engine control 
+unit architectures and provision of 
+real-time implementations of Vindax-
+based solutions. The performance 
+of the Altera implementation is 100 
+times faster than current software 
+implementations and allows the 
+new processor to address multiple 
+applications simultaneously.
+In addition, we released two additional 
+product development tools to 
+complement the Vindax Development 
+System (VDS): the Simulink Vindax 
+Classifier S-Function and dSPACE 
+AutoBox support. 
+With the existing VDS tool, users can 
+rapidly study and produce offline 
+solutions for complex automotive 
+and industrial control and diagnostics 
+applications. Our customers wanted 
+to be able to migrate these solutions 
+into real-time embedded systems 
+more easily. The Vindax dSPACE 
+AutoBox support addresses this 
+need. This product extension enables 
+automotive customers to take a 
+prototype function, developed offline 
+in the VDS and modelled in Simulink, 
+into the real-time environment in test 
+vehicles and test cells. This integration 
+makes it easier for customers to 
+implement Vindax solutions in their 
+pre-production test facilities.
+Building our intellectual property
+The Company maintains an active 
+policy of identifying, reviewing and 
+protecting its intellectual property. 
+During 2005 the company filed 3 
+patents in areas relating to its core 
+technology and applications. During 
+the second half of 2005, two patents 
+were granted, European Patent 
+number 1149359 “Neural Processing 
+Element for use in a Neural Network”, 
+and US Patent number 6,971,345 
+“Control of a Mechanical Actuator 
+using a Modular Map Processor”. 
+These are the first patents to be 
+granted on the technology of the 
+Company and represent a fundamental 
+barrier to competition.
+The Company 
+maintains an active 
+policy of identifying, 
+reviewing and 
+protecting its 
+intellectual property. 
+During 2005 the 
+company filed three 
+patents in areas 
+relating to its core 
+technology and 
+applications.  There is growing public awareness 
+and political will to see reductions in 
+CO
+2
+ emissions. Chart 1 shows how 
+rapidly increasing atmospheric CO
+2
+ 
+concentrations correlate to rapidly 
+rising global temperatures over the  
+last one hundred years.
+At the same time demand for oil 
+continues to increase against a 
+background of limitations to supply 
+and reserves. Oil prices have risen 
+from around US$25/barrel in 2003 to 
+around US$75/barrel in 2006 and as 
+demonstrated by the US Government 
+forecast (chart 2) are expected to 
+continue to rise. 
+Our belief is that innovation can be used 
+to materially reduce automotive CO
+2
+ 
+emissions and fuel usage by increasing 
+the effective fuel efficiency of vehicles 
+whilst at the same time making those 
+vehicles better to drive, more reliable 
+and cheaper to drive.
+More fuel efficiency in conventional 
+internal combustion engines involves 
+better control over the combustion 
+process in each cylinder of the engine. 
+This plays to the strengths of our 
+Vindax technology which can be used 
+to provide the multi-application real-
+time advanced control and diagnostics 
+necessary to do this.
+CO
+2
+ emissions reductions can also 
+be achieved by switching to electric 
+delivery vehicles in large metropolitan 
+cities and hybrid electric buses, trucks, 
+vans and cars elsewhere. 
+All electric vehicles, hybrids and future 
+fuel cell vehicles need a battery pack. 
+Historically, battery technology has not 
+allowed storage of enough power for 
+automotive use whilst simultaneously 
+remaining sufficiently small, cheap and 
+durable to be cost effective.
+Lithium-ion batteries provide four times 
+the energy storage capacity of lead acid 
+and twice the capacity of nickel metal 
+hydride batteries (currently used in most 
+hybrid cars). They represent the best 
+battery option for the future. However 
+Li-ion batteries degrade over time 
+unless carefully controlled and to date 
+have not been able to provide the three 
+to five years assurance necessary for 
+automotive use.
+The advanced control and diagnostics 
+capability of Vindax can be used to 
+extend the life of large automotive scale 
+Li-ion battery packs. We are coupling 
+this capability with the expertise of the 
+Axeon Power team in battery design, 
+battery sourcing and package assembly 
+to develop Li-ion battery management 
+controllers for automotive and Li-ion 
+battery packs for electric and hybrid 
+vehicles. 
+Our passion is to use our innovation to 
+enable better, cheaper, more reliable 
+and most importantly more fuel efficient 
+vehicles in the automotive market. In 
+so doing we believe we can create 
+significant shareholder value.
+Axeon’s Green Energy Innovation
+                    Axeon Holdings plc   
+Annual Report & Accounts 2005 
+US per barrel
+100
+80
+60
+40
+20
+0
+2003      2008    2013 2018 2023 2028
+1000                 800                  600                400                 200                 0
+Years before present
+370
+350
+330
+310
+280
+270
+250
+230
+CO 2 (ppm)
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+-0.2
+-0.4
+-0.6
+Temperature (difference)
+  Key trends 
+US Government Oil Price Forecast: Imported Low Sulfur Light Crude
+Years
+Chart 1
+CO
+2 
+level
+Source: Earth and 
+Space Research 
+Organisation,  
+Seattle, USA.
+Temperature in degrees centigrade (compared with 1960-1990 baseline)
+Atmospheric carbon dioxide (CO 2 in parts per million)
+Chart 2
+Oil price
+Source: Energy 
+Information 
+Administration,  
+US Government.
+  

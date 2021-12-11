@@ -1,0 +1,323 @@
+ STRATEGIC DEVELOPMENT –  
+DELIVERING ON OUR INVESTMENTS
+2015 saw further structural changes in the 
+test and measurement industry driven by 
+shifts in technological developments, such 
+as the move from lab-based testing to live 
+deployments; heightened emphasis on 
+virtual products and cloud infrastructure; 
+the maturity of the market for smartphones 
+in developed regions; and continued 
+consolidation of major customers. The 
+relentless growth in data volumes continues, 
+requiring higher speed Ethernet deployments 
+to provide enhanced capacity and resilience 
+against a background of an increasing 
+cyber security threat. 
+FINANCIAL HIGHLIGHTS
+Group revenue grew by 4 per cent in 
+2015 to $477.1 million (2014 $457.2 million), 
+whilst the order intake for the Group 
+was 3 per cent higher at $482.0 million 
+(2014 $469.4 million) with a book to bill 
+ratio of 101 (2014 103).
+Revenue growth was strong in Networks & 
+Applications, up 9 per cent, and in Service 
+Assurance, up 16 per cent. Wireless & 
+Service Experience revenue decreased 
+by 6 per cent, as it was impacted by the 
+change in demand for smartphone 
+development and validation testing. 
+Regionally the Americas and APAC were 
+strong, with EMEA somewhat weaker.
+The year started slowly with first half 
+revenues down $2.3 million compared 
+to 2014. Momentum improved during 
+the second half with revenue growing 
+$22.2 million, up 9 per cent over the 
+same period last year. This was even 
+more exaggerated at the level of adjusted 
+operating profit: first half profit decreasing 
+by $14.6 million to $6.0 million, but the 
+strong revenue growth combined with 
+expense constraint in the second half year 
+delivered a $10.7 million increase in profit 
+to $36.1 million, up 42 per cent over the 
+second half of 2014. This resulted in full 
+year adjusted operating profit of 
+$42.1 million.
+In 2015 the increased level of product 
+development was maintained at 
+$118.3 million (2014 $115.4 million), 
+with a marked increase in sales and 
+marketing activities at $127.2 million 
+(2014 $113.5 million). Spirent delivered 
+23 new product solutions to market in the 
+year, created a new platform for big data 
+analytics, delivered leading 100G Ethernet 
+and SDN protocol test solutions, and 
+significantly enhanced its cyber security 
+capabilities. The expansion in sales and 
+marketing delivered growth in major 
+accounts and resulted in the addition 
+of 498 new customers in the year.
+Return on sales was 9 per cent for the 
+year, a reduction against the 10 per cent 
+recorded for 2014, reflecting the significant 
+increase in sales and marketing efforts to 
+create new market opportunities for the 
+longer term. 
+Basic earnings per share for the Group 
+decreased in 2015 to 2.18 cents per share 
+(2014 3.35 cents). Adjusted basic earnings 
+per share was 5.00 cents (2014 5.82 cents).
+Free cash flow generation was strong at 
+$35.3 million in 2015 (2014 $10.7 million), a 
+cash conversion ratio of 2.7 times reported 
+earnings (2014 0.5 times). The Company 
+has no debt and cash balances were 
+$102.0 million at 31 December 2015 
+(2014 $99.8 million).
+The final dividend recommended is 
+2.21 cents per share, unchanged from 
+2014. The total dividend for 2015 is also 
+unchanged at 3.89 cents per share.
+“ 
+Momentum improved in the 
+second half with revenue 
+growth up 9 per cent over 
+the same period last year
+”
+Chief Executive Officer’s strategic review
+STRATEGIC REPORT GOVERNANCE FINANCIAL STATEMENTS OTHER INFORMATION
+7
+Spirent Communications plc Annual Report 2015 STRATEGY
+The second year of implementing our 
+strategy to invest for long term growth has 
+delivered a record range of new products, 
+solutions and services to address the 
+radically changing requirements for 
+verification, assurance and security of 
+data communications. Investments have 
+been made in customer service and 
+support, product development, marketing 
+and in acquiring new technologies. The 
+aim is to enhance Spirent’s competitive 
+differentiation, to expand the solutions 
+set to gain market share and to win new 
+customers. A long term objective is to 
+expand revenues through software 
+subscription, services and royalties in 
+addition to our core business providing 
+capital equipment as part of the sale of 
+test systems.
+Customers come to Spirent when they have 
+a need to test a network, device or service 
+they supply, either prior to or during 
+deployment and we develop a wide range 
+of innovative solutions to make that happen. 
+We remain committed to our strategy and as 
+explained below have made progress in all 
+areas of our strategic priorities during 2015. 
+Those priorities are to:
+• expand the markets we serve;
+• establish and maintain technology 
+leadership;
+• deepen our customer relationships;
+• acquire new capabilities 
+and technologies;
+• invest in our people; and
+• maintain financial strength and flexibility. 
+STRATEGIC DEVELOPMENT 
+AND GROWTH INITIATIVES
+Spirent is recognised as an expert in test 
+methodologies and the provision of new 
+efficient and effective solutions for live, 
+virtual and high speed, high density 
+network deployment utilising a wide range 
+of access technologies. As experts we 
+work closely with industry thought leaders, 
+standard setting bodies and researchers. 
+This sets the priorities for investment in the 
+business to adapt and change in order for 
+it to remain competitive and sustainable.
+There continue to be a number of themes 
+which are driving change in our industry 
+and where we see opportunities for  
+Spirent to build revenue streams that 
+are sustainable with long term growth 
+potential. The following major themes 
+remain the key objectives for our strategic 
+development throughout 2016.
+HIGH SPEED ETHERNET
+Order intake grew 10 per cent year-on-year 
+in 2015. Spirent offers leading test solutions 
+for 100G and 400G Ethernet and is well 
+positioned for the continued exponential 
+growth in network bandwidth. The latest 
+innovation to increase capacity in data 
+centers is through the development of high 
+speed Ethernet variants based on 25G, 
+which will stimulate growth in our core 
+business operations. Spirent was first to 
+launch 2.5G and 5G based Ethernet switch 
+testing solutions and in the fourth quarter 
+of 2015 was first to market with a 50G test 
+solution. In addition, we added Wi-Fi test 
+capability to Spirent TestCenter
+TM
+; and 
+updated and enhanced the user interface 
+to support software as a service (“SaaS”) 
+and web-based applications. 
+CLOUD AND VIRTUALISATION
+This represented 2 per cent of our 
+business in 2015 and is an area expected 
+to grow rapidly. We have developed and 
+launched new solutions for testing cloud 
+infrastructures and virtualisation. Proof of 
+concept trials are in progress at major 
+service providers, web services companies 
+and e-commerce providers. The trials 
+address the needs for telecom operators to 
+test, measure and validate the migration of 
+network functions and services to run in a 
+cloud infrastructure. This is an important 
+part of our strategy to expand our served 
+customer base. These offerings include a 
+SaaS solution, running multiple application 
+methodologies, such as Cloud Stress.
+MOBILITY INFRASTRUCTURE
+Order intake grew 31 per cent in 2015. 
+We have accelerated development to 
+continue to grow in the lab test market 
+for mobile core, Wi-Fi, IMS, Diameter and 
+virtualisation. There are a large number 
+of proof-of-concept trials in progress and 
+we have secured new contract wins across 
+the world with major service providers. 
+Landslide EDGE has been developed 
+to facilitate cell site turn-up and deliver 
+remote and end-to-end validation 
+in live networks. We have also added 
+a key partnership for network visibility 
+making a $5 million investment to take 
+a 28 per cent stake in Jolata, Inc. The 
+increasing trend for data usage driven 
+“ 
+As experts we work closely 
+with industry thought 
+leaders, standard setting 
+bodies and researchers
+”
+Chief Executive Officer’s strategic review continued
+8
+Spirent Communications plc Annual Report 2015 “ 
+The objective is to expand 
+our served customer base 
+in carriers worldwide
+”
+by video requirements is being satisfied 
+with a new acceleration module to offer a 
+massive increase in data test performance. 
+Channels to market have been expanded, 
+as has the technical capacity to support 
+many more customer engagements. 
+CYBER SECURITY
+This represented 6 per cent of our 
+business in 2015, and is expected to grow 
+rapidly. More and more breaches are 
+reported on a daily basis with increasing 
+levels of damage impacting commercial, 
+government and infrastructure networks 
+and services. Aspects of security and 
+safety concerns for connected vehicles are 
+demanding new security test processes to 
+which Spirent is actively responding. 
+Security consulting has been added to 
+provide threat detection services to test, 
+measure and manage security risks, initially 
+prioritising networks, wireless, applications, 
+Internet of Things and automotive. We are 
+utilising our expertise to supplement 
+research efforts for the addition of new 
+malware threat and fuzzing capabilities 
+to our solutions. It is planned to enhance 
+marketing initiatives to help expand our 
+served markets to include enterprise 
+customers in the financial services, 
+healthcare and hospitality industries.
+Vulnerability of the signals emanating 
+from satellite navigation constellations 
+is of increasing concern in critical safety, 
+infrastructure and commercial systems. 
+Further resources are being applied to 
+offer test systems, including a cyber threat 
+intelligence library, to allow customers to 
+deliver robust position, navigation and 
+timing metrics to their applications and 
+infrastructure networks. 
+ANALYTICS
+Big data analytics and virtualisation 
+are changing the landscape of service 
+provision and assurance. Advances here 
+have opened up the possibility not only to 
+find errors rapidly but also to predict them 
+so that issues can be averted. In addition, 
+virtualisation enables test probes to be 
+cost effectively inserted at any point in the 
+network. Spirent’s leadership position in 
+the service assurance market, along with 
+our field proven analytics platform, 
+presents a unique opportunity in the 
+analytics market. In 2015 we developed 
+and launched our first virtual probe and 
+won a first contract with our new high 
+performance analytics solution, InTouch 
+CNA. This is a more versatile, easier to 
+use and cost effective implementation 
+of our powerful Customer Experience 
+Management software system to address 
+the rapid growth market in the next-
+generation service assurance market. 
+The objective is to expand our served 
+customer base in carriers worldwide and 
+to give additional competitive advantage 
+to the deployment of Spirent technologies 
+in live networks.
+ADJACENT MARKETS (LONG TERM 
+GROWTH INITIATIVES):
+Internet of Things 
+Our Internet of Things (“IoT”) initiatives 
+combine capabilities across the Spirent 
+portfolio as well as the specific 
+development of new capabilities. As 
+billions of devices become connected, 
+mobile network operators and service 
+providers face major challenges to 
+manage service provision and quality 
+levels. Spirent has products and services 
+to enable and accelerate the development, 
+launch and operations of devices, network 
+management and optimisation. We plan 
+to supply embedded software, test and 
+assurance tools and systems to enable 
+the development of the IoT. The initial 
+offerings, to be announced from early 
+2016, will be software as a client, 
+connectivity and analytical tools.
+Automotive
+Our strategy to enter the test market for 
+automotive data networks is to utilise 
+Spirent’s expertise in Ethernet testing to 
+focus initially on the development and 
+deployment of Ethernet for in-vehicle 
+system communications. We will also 
+continue to serve automotive needs 
+through positioning technologies and 
+tools to test emergency call requirements.
+ERIC HUTCHINSON 
+Chief Executive Officer
+STRATEGIC REPORT GOVERNANCE FINANCIAL STATEMENTS OTHER INFORMATION
+9
+Spirent Communications plc Annual Report 2015

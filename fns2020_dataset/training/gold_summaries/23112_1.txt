@@ -1,0 +1,437 @@
+ CHIEF EXECUTIVE’S STATEMENT
+STRATEGY & BUSINESS MODEL 
+The Group’s primary business is the delivery of 
+large-scale solutions for high-stakes examination 
+processing, with a particular focus on electronic 
+marking. The business provides a combination of 
+electronic marking software solutions (e-Marker®) 
+and, in the UK, a bureau service for the secure 
+scanning of examination papers. The integration 
+of the software and services elements are an 
+important aspect of our operations in the UK.
+The business also offers solutions for selected election and 
+population census markets. Such solutions depend, in different 
+combinations, on the Group’s expertise in document design, 
+printing, scanning of forms, software development, logistics, 
+project management and consultancy. 
+The Group’s core strategy in recent years has been to 
+enhance and develop its software-based services business 
+in the Education sector. The Group’s product development 
+programmes have reflected that strategy and for several 
+years the Group has been directing its development effort 
+primarily into the research and development of a new 
+e-Marker® electronic marking software solution. In recent 
+years the Group has also been investing in the design and 
+development of a new PhotoScribe® scanner, the PS1000.
+Steve Gowers 
+CEO
+DRS Data and Research Services plc Annual Report and Accounts 2015
+8
+ STRATEGIC REPORT
+Education
+Our core education business focuses on the delivery 
+of solutions for student registration and examination 
+processing and the electronic marking of high-stakes, high-
+volume examinations. The Education market is a particular 
+focus because it offers regular and repeatable business 
+opportunities arising from the annual cycle of examinations. 
+We offer these services and solutions, including the 
+e-Marker® electronic marking solution, either directly or 
+in conjunction with selected partners in certain markets. 
+The licence model that DRS uses for e-Marker® is to charge 
+a recurring fee, with a per-transaction (per-examination 
+script) charge applied for the use of the licence. Other 
+DRS solutions, such as for Multiple Choice Questionnaire 
+processing (MCQ) may be licenced to clients for an up-front 
+initial licence fee. 
+The business model in the UK is based on direct sales 
+and the delivery model is to offer a full bureau service, 
+including script handling, scanning and image preparation 
+for electronic marking and the delivery of online marking 
+services to exam markers through the e-Marker® software 
+as a service, supported by DRS staff. 
+The opportunities for growth are targeted at carefully 
+selected overseas territories that the Group feels 
+represent the best opportunities for DRS, with the current 
+focus being on Africa and India. In these geographies 
+the coverage includes both secondary and higher 
+education examination processing. In overseas markets 
+the services which support the use of e-Marker® may 
+be offered directly or delivered through selected service 
+provider partners to provide script handling, scanning and 
+electronic marking services. We are currently working 
+with a number of partners in Africa and India to develop 
+these services.
+The existing e-Marker® solution provides awarding bodies 
+with the functionality for Item Level Marking (ILM), 
+allowing a script to be split into individual questions which 
+may be marked by different examiners. Such a solution 
+offers the potential for improvements in efficiency and 
+accuracy in marking and the reduction of the influence of a 
+single examiner over a whole script. 
+The new platform, e-Marker®2, is initially focused on the 
+provision of Whole Script Marking (WSM), which is aimed 
+principally at the overseas market as this form of marking 
+more closely replicates the existing manual processes in 
+use and therefore provides a simpler transition to electronic 
+marking. This functionality is complementary to the 
+existing ILM functionality in e-Marker®1. 
+The Group is in the process of completing the Whole Script 
+Marking solution and delivering this release to market. The 
+priority is to achieve live implementations of e-Marker®2 
+with selected overseas customers to demonstrate the value 
+of the platform and the functionality developed to date. In the UK customer requirements are driven in part by the 
+requirements of the regulating body, Ofqual. At present 
+Ofqual research is particularly focused on post-marking 
+processing of enquiries about results (‘EAR’), therefore it 
+is anticipated that certain enhancements will be required 
+to existing and new software to maintain compliance, and 
+this work will be scheduled when the regulator has finalised 
+the requirements. 
+Elections & Census
+In addition to the recurring opportunities offered by the 
+Education market, the Group is also continuing to pursue 
+one-off opportunities in the Elections and Census markets, 
+based on DRS software applications and the Group’s 
+PhotoScribe® scanners. The focus is primarily on paper-based 
+national population censuses in selected countries, and voter 
+registration and ballot counting for large statutory and non-
+statutory elections.
+Our customers may require a combination of data capture, 
+processing and reporting solutions as well as the delivery 
+of related services which include technology infrastructure 
+design, operational training, document printing, scanning 
+and data handling. The provision of services and project 
+management may be offered directly or may be provided 
+through a selected third-party partner. Any such projects 
+are expected to be profitable on an individual project-by-
+project basis.
+In the Elections market going forward the business will 
+continue to seek profitable one-off projects for which the 
+Group’s election solutions are deemed to be suitable. To 
+balance the ratio of risk to reward it expects to operate 
+principally as a provider of software and hardware to third-
+parties who will themselves be the prime contractor for 
+such projects. 
+In the Census market the Group will continue to seek 
+profitable one-off projects that are of a suitable size for the 
+business to offer a complete end-to-end solution.
+Objectives
+As a business we continue to focus on solutions 
+that provide for large-scale, secure capture and 
+processing of high-stakes data, primarily from 
+manually completed, paper-based forms and the 
+output of the results to a fixed timetable. These 
+results might be examination marks or they might 
+be election counts or census results. Elections and 
+Census projects offer opportunities that, while 
+they are high value are, by their nature, non-
+recurring and tend to be project based requiring 
+specific customisation. By contrast, events in 
+the Education market such as examinations are 
+STRATEGIC REPORT
+9
+DRS Data and Research Services plc Annual Report and Accounts 2015
+regular and repeatable and offer the opportunity 
+for recurring revenue streams. Because of this we 
+have a particular objective to increase revenue 
+from the Education market. 
+In line with this, a key objective for the business continues 
+to be the delivery of new products and related professional 
+services and the Group is continuing to invest in research 
+and development as part of a multi-year development and 
+implementation programme for the release and roll-out 
+of the new Whole Script Marking (WSM) functionality on 
+the e-Marker®2 platform, with a particular focus for that 
+product being new revenue opportunities. 
+The UK business operates on an annual cycle of 
+examination series in January, March, summer and 
+November. Recent structural changes led to all of these, 
+other than the summer series, reducing in importance and 
+volumes, and the volume in the summer series increasing. 
+This has resulted in the need to address greater peaks 
+and troughs in the processing cycle as a key element of 
+operating an efficient business. The business is also keen to 
+seek opportunities for revenue that lie outside this cycle to 
+balance the effects across the year.
+In the Elections market the primary objective is to continue 
+to successfully meet all the milestones for the multi-year 
+project with the Greater London Authority (GLA) for the 
+delivery of the Mayor of London and London Assembly 
+elections in May 2016. 
+Markets
+DRS is a specialist provider of automated data capture 
+technology and solutions in the UK and overseas to its 
+three main market sectors: Education, Elections and Census. 
+The provision of services, data acquisition and scanning 
+technology and printed forms provides the common link 
+between the three distinct market sectors in which the 
+Group operates. Specialised software has been created for 
+each market which is combined with the above elements to 
+produce the solutions which the Group sells.
+ Education
+For over four decades DRS has supported awarding bodies, 
+assessment authorities, schools, colleges and universities in 
+the UK and in selected overseas markets, providing secure 
+data capture and examination processing products and 
+specialist services.
+DRS is the provider of the longest established online 
+examination marking service in the UK. Awarding bodies and 
+professional bodies have been using electronic marking to 
+mark high-stakes, high-volume general qualifications such  CHIEF EXECUTIVE’S STATEMENT
+continued
+as GCSE and GCE A-level examinations since 2002. AQA 
+Education, a leading UK provider of academic qualifications, 
+remains the Group’s largest customer overall, among a range 
+of awarding bodies and other examining entities in the UK 
+and overseas.
+The products and services provided by the Group include:
+Software: DRS marking and examination software including 
+e-Marker® software for online electronic examination marking 
+and Multiple Choice Questionnaire (MCQ) marking software;
+Services: full service bureau operations in the UK, providing 
+secure receipt and storage of scripts, scanning and imaging 
+of completed exam answer booklets and electronic delivery 
+of online marking, as well as on-site professional services for 
+client’s in-house operations or to support partners delivering 
+such services overseas;
+Scanning equipment: DRS PhotoScribe® scanners: robust, 
+high speed, network-ready form scanners able to capture 
+complex data in real-time; and
+Printed forms: production of bespoke examination scripts 
+including fully optimised examiner answer and mark sheets 
+for electronic capture, exam entry and registration forms 
+incorporating photo capture and MCQ answer forms and 
+exam marking forms.
+Key market drivers include the size and growth of the student 
+populations in these markets, the investment being made in 
+education by governments and individuals and the potential 
+benefits that electronic marking offers as a replacement for 
+what are predominantly manual processes in the majority 
+of overseas markets. These benefits include enhancements 
+to the data collection process by reducing transportation of 
+answer booklets, improvements in marking quality and better 
+use of markers through targeted allocation and re-allocation 
+of scripts and real-time monitoring of marking, the removal 
+of bias and improved administration and reporting of the 
+marking process.
+ Elections
+DRS provides a solution for electronically counted elections 
+encompassing ballot design and printing, scanning hardware, 
+ballot counting software, support and training. We are able to 
+cover statutory and non-statutory elections including national 
+parliamentary elections, legislative and local council elections 
+as well as employee and trade union ballots. DRS’s principal 
+aim is to provide these solutions to selected local partners or 
+systems integrators as part of their programme of election 
+service delivery.
+We have developed knowledge and expertise from national and 
+local elections in a number of markets including Europe, Africa 
+and the Middle-East. In 2012, DRS, working in conjunction 
+with ERS (Electoral Reform Services Limited) under the 
+name IntElect®, provided the technology and expertise for 
+the electronic counting of ballots in London for the Mayor 
+of London and London Assembly elections, the third time 
+since 2000 that the Group has delivered this election. In 2014 
+IntElect® was awarded the contract to deliver the forthcoming 
+elections in 2016.
+DRS Election software, scanning equipment and services 
+include the following:
+Software: electronic counting (e-Counting) solutions for 
+statutory and non-statutory elections including national 
+elections, local and regional council elections and by-elections;
+Services: provision of support and technical services for 
+complex election projects;
+Scanning equipment: DRS PhotoScribe® scanners for ballot 
+scanning and for voter registration; and
+Printed forms: ballot paper design and forms production. 
+ Census
+DRS Census services provide data capture solutions for large-
+scale censuses including paper-based national or regional 
+population censuses and specialised industrial, commercial 
+and agricultural censuses. The Group has delivered national 
+population censuses around the world, with several in Africa. 
+We recognise that every census project is different and that 
+market requirements are constantly changing. DRS has 
+therefore developed a flexible, adaptable approach combined 
+with proven and innovative data capture methods and 
+technology. 
+The Group is able to provide bespoke solutions encompassing:
+Software: customised census software to handle Optical Mark 
+Recognition (OMR), Intelligent Character Recognition (ICR), 
+barcode recognition and image recognition;
+Services: provision of professional and technical services and 
+project management to cover all stages of a project from 
+planning through to project implementation, document 
+scanning of enumeration/census forms using DRS PhotoScribe® 
+PS900 series scanners, data processing and export of the data 
+to a chosen analysis package for complex census projects;
+Scanning equipment: DRS PhotoScribe® scanners; and
+Printed forms: enumeration/census forms design and printing. 
+A key factor in the Census market is that it is subject to a 
+decennial cycle, with the majority of censuses being clustered 
+on or around the decade end. Outside of those peaks there 
+are markedly fewer projects, limited to those countries which 
+have not held a census for some time or decide to carry out an 
+intercensal population survey. 
+DRS Data and Research Services plc Annual Report and Accounts 2015
+10
+ STRATEGIC REPORT Overview of the year
+Operationally the Group performed in line with expectations 
+in 2015, with Group revenue totalling £12,477 ,000 (2014: 
+£13,684,000).
+Although the multi-year reform of GCSE and A-level 
+examinations in the UK continues, as expected the volume 
+of examination marking broadly stabilised in 2015 and there 
+were no further structural changes in UK examinations of the 
+kind experienced in 2014. 
+At the same time local economic conditions in overseas 
+markets, in particular in Africa, have remained challenging 
+and the Group has continued to see reduced demand for 
+its traditional scanner and print business. As a result of the 
+combination of these conditions, Education revenue overall 
+amounted to £12,287 ,000 (2014: £13,027 ,000), a decline of 
+5.7%. Overall revenue from e-Marker® in the UK and overseas 
+was stable at £9,344,000 (2014: £9,301,000).
+In non-Education markets no revenue for large-scale Elections 
+and Census projects was recognisable during 2015. Non-
+Education revenue for the year totalled £190,000 (2014: 
+£657 ,000).
+STRATEGIC REPORT
+11
+DRS Data and Research Services plc Annual Report and Accounts 2015
+FINANCIAL PERFORMANCE
+EDUCATION COMMERCIAL ELECTIONS AND 
+CENSUS
+TOTAL
+£000 2015 2014 2015 2014 2015 2014 2015 2014
+UK Sales 9,740 9,872 15 19 20 1 9,775 9,892
+International Sales 2,547 3,155 47 53 108 584 2,702 3,792
+Total 12,287 13,027 62 72 128 585 12,477 13,684
+UK Sales
+Overall UK sales in 2015 were in line with expectations, with 
+revenue of £9,775,000, a reduction of 1.2% (2014: £9,892,000). 
+In the UK Education market we continue to provide electronic 
+marking services for a number of awarding bodies, including 
+AQA Education. These encompass the provision of service 
+bureau operations for the scanning and imaging of scripts and 
+for the delivery of DRS’s online marking software as a service. 
+In addition to these solutions the business also has a small 
+legacy of print and engineering services business. 
+An important milestone was achieved in the summer of 2015 
+as it represented the largest volume of scripts ever processed 
+by DRS in a summer series, with five million scripts processed. 
+It was the second year that we processed the summer series in 
+a cloud infrastructure environment, which provides a scaleable, 
+efficient and more robust environment for such services. 
+Full year UK Education revenue in 2015 from the combination 
+of these software and services offerings amounted to 
+£9,740,000 (2014: £9,872,000), a small decline arising from a 
+reduction in the legacy print and engineering services business.
+International Sales
+As expected during 2015, DRS saw lower revenue from 
+overseas markets as a result of a combination of the absence 
+of any large-scale elections and census projects and weak 
+demand in the Group’s traditional scanner and print business 
+in Africa which arose from the local economic conditions. 
+As a result international sales overall were further reduced, 
+with total revenue of £2,702,000 (2014: £3,792,000). 
+During 2015 we demonstrated e-Marker®2 to a number of 
+customers and carried out a non-live pilot with an existing 
+client in Africa. The feedback we are receiving demonstrates 
+that there is increasing acceptance of electronic marking in 
+overseas markets and therefore a likelihood of a growing 
+market opportunity. It is also clear that this progress has 
+gone hand-in-hand with a growing sophistication in the 
+user community, which is leading to increased demands 
+for a broader set of features to meet these international 
+market needs.
+While progress in signing new business in India has been 
+slower than expected, towards the end of the year we 
+achieved an important milestone when we received an order 
+for a pilot project from a new client in the Indian Higher 
+Education sector.
+Dividend Policy
+The Board follows a dividend policy which provides a return 
+to Shareholders whilst retaining sufficient cash to continue 
+to fund the development of the Group’s products. 
+As a consequence of trading conditions in 2015, the 
+Directors do not propose the payment of a final dividend 
+(2014: nil). CHIEF EXECUTIVE’S STATEMENT
+continued
+Research and Development
+Research and Development continues to be a fundamental 
+part of DRS’s strategy. A structured programme of work to 
+generate new products for our Education business and the 
+PhotoScribe® scanners has continued at a similar level of 
+expenditure. A breakdown of the investment over 2014 and 
+2015 is set out in the tables below:
+DRS Data and Research Services plc Annual Report and Accounts 2015
+12
+ STRATEGIC REPORT
+2014
+Income 
+Statement 
+Expense
+£000
+Balance Sheet 
+Expenditure
+Capitalised
+£000
+Customer 
+Projects 
+in Progress
+£000
+Total 
+£000
+Software Research and Development 1,192 981 - 2,173
+Hardware Research and Development 491 - 302* 793
+Total cash spend 1,683 981 302* 2,966
+Amortisation 135 - - 135
+Total Research and Development cost 
+(including amortisation)
+1,818 981 302* 3,101
+e-Marker®
+DRS’s largest development programme continues to be 
+investment in its examination marking software solution, 
+e-Marker®2. 2014 saw the release of Whole Script 
+Marking that will provide benefits to customers in the 
+UK and internationally over the next few years. This is 
+the foundation of a continuing development programme 
+for DRS’s examination products suite, which will be sold 
+alongside the current e-Marker®2 product that already 
+provides Item Level Marking.
+In 2016 further functional enhancements to the new 
+e-Marker®2 platform will be developed based on the new 
+platform.
+PhotoScribe®
+Development work to produce a new platform for the next 
+generation of PhotoScribe® scanning machines to support 
+a range of machines that can handle larger documents 
+than the current PS900 range has been completed by the 
+end of 2015. The new model, the PS1000, demonstrates 
+2015
+Income 
+Statement 
+Expense
+£000
+Balance Sheet 
+Expenditure
+Capitalised
+£000
+Customer 
+Projects 
+in Progress
+£000
+Total 
+£000
+Software Research and Development 703 695 - 1,398
+Hardware Research and Development 570 - 619* 1,189
+Total cash spend 1,273 695 619* 2,587
+Amortisation 264 - - 264
+Total Research and Development cost 
+(including amortisation)
+1,537 695 619* 2,851
+* These amounts are included within Trade and other receivables.
+The balance sheet expenditure capitalised shown in the tables above relates to the internally generated software development 
+expenditure that has been impaired in accordance with IAS 36 (see Note 10 Exceptional Items).

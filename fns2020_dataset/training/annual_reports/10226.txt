@@ -1,0 +1,2042 @@
+   
+ 
+ 
+  GU21 5BX
+U
+  +44 (0)1483 751577
+F  +44 (0)1483 757901
+E  info@microsaic.com
+W 
+Microsaic Systems plc
+Annual Report 2013
+ 
+ 
+ 
+ 
+Microsaic Cover 4pp cover_Microsaic Cover 4pp cover  07/05/2014  10:48  Page 2 Microsaic Systems is the innovative
+high-technology company developing
+and marketing a new generation of
+compact analysis equipment for
+chemists.
+Highlights 1
+Chairman’s statement 2
+Strategic report
+Company overview and business model 3
+Chief Executive’s review 4
+Risks and uncertainties 8
+Performance measurement 9
+Governance
+Board of Directors 10
+Directors’ report 11
+Directors’ remuneration report 14
+Corporate governance report 16
+Financial statements
+Independent auditors’ report 18
+Statement of comprehensive income 20
+Statement of changes in equity 21
+Statement of financial position 22
+Statement of cash flows 23
+Notes to the financial statements 24
+Annual general meeting
+Notice of the annual general meeting 40
+Notes 42
+Corporate information and advisors 44
+Microsaic Cover 4pp cover_Microsaic Cover 4pp cover  07/05/2014  10:48  Page 3 2013 Highlights
+• Signing of an additional OEM agreement for the sale of
+the 4000 MiD
+®
+as a stand-alone instrument
+• Launch of the Microsaic 4000 MiD
+®
+miniature mass
+spectrometer at Pittcon international trade fair
+• Launch of the Isolera™ Dalton by Biotage AB, the first
+OEM product containing 4000 MiD
+®
+Post-period update
+• Launch of the MiDas™ compact interface module
+• Signing of pre-contract OEM agreement for the sale of the
+4000 MiD
+®
+and MiDas™ for use in protein separation
+applications
+• Appointment of Andrew Darby as Finance Director 
+Financial summary
+• Revenue up 92% to £1.17 million (2012: £0.61 million)
+• Placing of 9,951,443 ordinary shares raising £4.28 million
+before costs
+• Cash at 31 December 2013 £3.24 million (2012:
+£1.79 million)
+• Total statutory loss for the year to 31 December 2013
+£2.29 million (2012: £1.87 million)
+Microsaic Systems plc Annual Report and Financial Statements 2013 1
+Highlights
+Microsaic_pp01_07_Microsaic_01_07  07/05/2014  10:38  Page 1 I am pleased to present the Company’s
+Annual Report & Financial Statements for
+the year ended 31 December 2013. 
+2013 was a year where Microsaic
+achieved a number of key milestones, most
+notably the launch of the 4000 MiD
+®
+.
+It also saw the launch of the first OEM
+product to contain the 4000 MiD
+®
+, the
+Biotage Isolera™ Dalton. The Company’s
+product development program continued
+apace with the more recent release of the
+MiDas™, which will extend the reach of
+Microsaic’s technology into a wider range
+of applications and environments.
+The 4000 MiD
+®
+and the MiDas™ together
+form the core technologies behind our
+successful recent signing of a further
+commercial agreement for the detection of
+proteins. We are excited by the opportunity
+to work with a major global healthcare
+equipment company. The opportunities
+provided by our ‘chip’ based technologies
+and ‘plug and play’ offering will continue
+to grow, as we extend the capabilities of
+our technology and product range over the
+years to come.
+Our relationship with Biotage AB has moved forward and
+we continue to work closely with them. In addition to this
+relationship, we are excited by the size and quality of
+companies that continue to approach us to discuss
+commercial opportunities. These relate to opportunities for
+our single quad technology, but also our in development
+triple quad where a number of major global companies are
+expressing a keen interest. This product has undergone
+successful prototype demonstrations and continues to make
+positive progress towards completion. 
+Over the last few years there has been a tangible
+transformation in the nature of our business. The evolution
+from a university spinout into a quoted commercial
+enterprise is evident. The Company’s strategy, structure,
+culture, and infrastructure have all developed significantly
+which has led to a growing level of public and industry
+recognitions. 
+In the past 12 months there have been two changes to the
+Board. Last summer Eric Yeatman stood down from the role
+of Chairman. I would like to thank Eric for his invaluable
+input during his nine year tenure as Chairman. During this
+time the Company has achieved a growing reputation in
+pioneering mass spectrometry miniaturisation. We are
+pleased that Eric continues to serve as a member of the
+Board and brings expertise to bear on the advancement
+of our unique technology. 
+More recently we announced the resignation of Malcolm
+Bateman who has stepped down as Finance Director and
+will leave the Company at the end of April 2014 to pursue
+his other interests. Malcolm joined Microsaic in 2006 as
+Financial Controller and was appointed to the Board in
+2011. He played a major part in the 2011 IPO and has
+been an important member of the management team over
+the past eight years. We would like to thank him for his
+contribution in securing Microsaic’s development, and wish
+him well in the next stage of his career. We are pleased to
+welcome Andrew Darby ACA as our new Finance Director.
+I would again like to thank our shareholders for their
+support during the last year. Over 2014 we shall continue
+to build upon the achievements already made and continue
+to capitalise on the opportunities that are becoming
+increasingly evident. 
+Colin Nicholl
+Chairman
+29 April 2014
+2 Microsaic Systems plc Annual Report and Financial Statements 2013
+Chairman’s statement
+for the year ended 31 December 2013
+Microsaic_pp01_07_Microsaic_01_07  07/05/2014  10:38  Page 2 Microsaic Systems plc develops
+microengineered analytical instruments that
+are based on the scientific technique of
+mass spectrometry (MS). MS is widely
+accepted as one of the most reliable
+methods for identifying the chemical
+make-up of substances and Microsaic is
+the first and only company to have
+commercialised and patented chip-based
+MS technology using silicon
+microengineering (MEMS).
+The analysis method of choice
+Mass spectrometry is an established analytical technique
+used in many laboratories which enables the accurate
+identification and quantification of trace levels of chemical
+or biological compounds by recording their unique
+molecular weight. Today, MS is the standard means of
+measuring the composition of samples in pharmaceuticals
+and biotechnology, but is also widely used in a variety of
+other industries including healthcare, environmental, food
+and drink, security, petrochemicals and mining.
+By miniaturising MS to desk-top size, Microsaic has made
+it practical for a much wider range of users and
+applications within these fields and opens up new
+opportunities for the growing $3 billion MS market.
+A step change in laboratory capability
+The Company’s first product, the Microsaic 3500 MiD
+®
+,
+was launched in January 2011 and became the world’s
+smallest MS system. Users are particularly impressed by the
+self-contained nature of the system – no other mass
+spectrometer for liquid analysis has eliminated external
+pumps and computers – and this gives the MiD
+®
+a
+revolutionary advantage in deployability, ease of use and
+cost of ownership. These advantages have been recognised
+within the wider industry too. The 3500 MiD
+®
+gained the
+New Product Award from the US Society of Laboratory
+Automation and Screening in 2011 and a prestigious
+R&D 100 award in 2012 as one of the most technologically
+significant products to enter the marketplace globally.
+Several articles have been published in scientific journals
+citing new discoveries made using the MiD
+®
+.
+Continuing evolution
+The Microsaic 4000 MiD
+®
+has an even smaller footprint
+than the 3500 MiD
+®
+and fits even more comfortably into
+a standard laboratory fume hood. Its ‘plug & play’
+components also enable users to maintain the system
+themselves, resulting in less down-time and greater flexibility
+within the laboratory. The 4000 MiD
+®
+was launched in
+March at Pittcon 2013, the world’s largest annual
+conference and exposition on laboratory science and
+scientific instrumentation. 
+We have an on-going R&D programme building on the
+achievements already made and focused on increasing the
+reach of our core Ionchip
+®
+technology, which underpins the
+MiD
+®
+. Our product pipeline includes more complex MS
+systems which will allow us to address more technically
+demanding market areas, such as food and drink, and
+environmental safety. 
+Tapping into established sales channels through
+value-added partnerships
+The Company’s strategy is to generate revenue streams by
+introducing compact, deployable MS products, based on its
+patented chip technologies, into a series of markets and
+applications by selling through partnerships with existing
+sales channels. Typically these sales channels will be
+international suppliers of complementary equipment. 
+In 2012 a partnership was formed with Biotage AB, a well
+established supplier in the areas of analytical and medicinal
+chemistry. Microsaic is providing its 4000 MiD
+®
+as an
+Original Equipment Manufacturer (OEM) as part of an
+integrated solution for mass-directed flash purification that
+is enabling a leap forward in chemists’ work flow and
+productivity.
+Further similar relationships are planned with other leading
+suppliers of scientific equipment, which will enable the
+Company to build up volume sales. Direct sales to end
+users in niche application areas will also continue in
+parallel.
+Quality innovation moving forward
+Microsaic Systems was established in 2001 from the highly
+regarded Optical and Semiconductor Devices Group at
+Imperial College London. It has been based at
+headquarters in Woking, UK since September 2004 and
+was admitted to AIM, a market of the London Stock
+Exchange, in April 2011 (ticker: MSYS).
+Microsaic Systems plc Annual Report and Financial Statements 2013 3
+Strategic report – Company overview and business model
+for the year ended 31 December 2013
+Microsaic_pp01_07_Microsaic_01_07  07/05/2014  10:38  Page 3 4 Microsaic Systems plc Annual Report and Financial Statements 2013
+Microsaic has enjoyed a highly productive
+year in 2013, making notable progress in
+our on-going evolution into a successful
+commercial business. We continue to
+execute our strategy of developing
+commercial partnerships, whilst at the
+same time growing direct sales to end
+users. In parallel, we have continued to
+make significant technological advances
+that will in time give us the capability
+needed for our next generation of
+products. This will further broaden the
+range of applications that our miniaturised
+mass spectrometry (MS) instruments can
+address.
+Microsaic’s chip-based technology has allowed us to
+miniaturise the mass spectrometer – the gold standard for
+chemical analysis – far beyond any other product on the
+market. This miniaturisation greatly simplifies deployment,
+drastically cutting power consumption and other running
+costs, and makes MS much more accessible to lab scientists
+than it has ever been before. 
+Our lead MS instrument, the Microsaic 4000 MiD
+®
+, was
+officially launched in March 2013 at Pittcon, the major
+annual international trade fair focused on scientific and
+laboratory equipment, which took place in Philadelphia,
+USA. The market’s response and subsequent acceptance
+of the 4000 MiD
+®
+has been enthusiastic and through
+a combination of direct sales and shipments to our OEM
+partner we achieved a near doubling of our revenue for
+the full year 2013 to £1.17 million (£0.61 million in 2012). 
+Commercial strategy
+Our main route to market for our product is as an original
+equipment manufacturer (OEM) through partnerships with
+companies that have established global sales channels.
+These companies also have complementary products that
+when combined with our product can deliver synergistic
+benefits for the end users. During the year, we strengthened
+our relationship with our existing OEM partner, Biotage AB.
+In June Biotage AB launched its fully integrated system for
+flash chromatography and mass identification which
+incorporated our core MS instrument, the 4000 MiD
+®
+.
+Demand for the integrated product, the Isolera™ Dalton,
+has been good and shipments of the 4000 MiD
+®
+to Biotage
+are in line with expectations.
+We continue to develop relationships with new potential
+commercial partners in the pharma, biotech and other
+related sectors. In this regard we were pleased to announce
+in April 2013 the signing of an OEM agreement for the
+global, non-exclusive marketing and sale of the 4000 MiD
+®
+as a stand-alone instrument for use in direct and rapid MS
+analysis. Successful trials have also been completed with
+a number of other potential partners and discussions are
+advancing with several of these aimed at securing
+commercial agreements. 
+Strategic report – Chief Executive’s review
+for the year ended 31 December 2013
+Microsaic_pp01_07_Microsaic_01_07  07/05/2014  10:38  Page 4 Microsaic Systems plc Annual Report and Financial Statements 2013 5
+We were pleased to announce on 14 April 2014 the
+signing of a pre-contract commercial agreement to provide
+the miniature mass spectrometer – the Microsaic 4000
+MiD
+®
+– as an Original Equipment Manufacturer (OEM).
+The agreement is for the global, exclusive marketing and
+sale of the 4000 MiD
+®
+, along with the recently released
+MiDas™ interface unit, as a stand-alone instrument for use
+in protein separation applications. The partner is a major
+international healthcare equipment company.
+The agreement is focused on the use of the 4000 MiD
+®
+in conjunction with protein separation, a major application
+that is used globally and has increasing market demand.
+It follows a period of R&D collaboration in which Microsaic
+has successfully adapted and enhanced the 4000 MiD
+®
+to address this new application. 
+We will work towards completion and signing of a full
+commercial contract, which is anticipated to include a
+commitment to purchase up to 50 units and consumables
+of the 4000 MiD
+®
+in the first year, increasing to over
+200 units and consumables from the fourth year onwards.
+The initial period of the contract is expected to be
+48 months. The selling price is in line with the Board’s
+expectations. Shipments under the agreement are
+anticipated to commence in Q1 2015.
+In addition to OEM agreements for our products in the
+major MS application areas, we achieved a number of
+direct sales to customers in new and high-value application
+areas. Direct contact with users is proving to be valuable as
+a means of prioritising future product development and
+R&D programmes. A number of key direct sales have
+already been achieved and a pipeline has been established
+for the coming year.
+The 4000 MiD
+®
+is currently manufactured at our facility in
+Woking, but in line with our commercial strategy, and as
+sales increase in 2014, we will be outsourcing the
+production of the units to an accredited third-party supplier.
+New technologies
+Our marketing plan for 2013 has been directed towards
+positioning Microsaic as a solution provider for chemical
+analysis, rather than simply as a mass spectrometer vendor.
+In line with this plan, we have been leveraging our technical
+expertise to develop next-generation products that we
+believe will significantly expand the range of applications
+that our innovative MS instruments can address and that
+end-users will increasingly demand.
+In January 2014, we launched the MiDas™ compact
+interface module. The MiDas™ unit has been designed to
+extend the use of MS in the laboratory from specialist
+analytical chemists to the wider research community.
+It connects to the 4000 MiD
+®
+and offers automated sample
+preparation and injection for direct MS analysis in real-time
+at the lab bench or in the fume hood.
+Our strategy is to commercialise MiDas™ alongside the
+4000 MiD
+®
+through partnerships with well-established
+suppliers in the areas of analytical and medicinal chemistry,
+and directly to customers in niche application areas.
+In June 2013, we presented a working prototype of our
+chip-based triple quadrupole mass spectrometer for the first
+time, at the American Society of Mass Spectrometry (ASMS).
+This new technology can analyse more complex materials,
+such as medical (e.g. blood or saliva) or environmental
+samples, and is an important achievement that has the
+potential to further extend Microsaic’s leading position in
+miniaturised MS instrumentation. We recently exhibited our
+latest progress with this system at the major trade fair
+Pittcon in March 2014, where the reception from delegates
+was very encouraging. Negotiations are on-going with
+a number of possible key MS instrument partners to develop
+the triple quadrupole into a fully commercial product, with
+an expected launch date in 2015. 
+At the same event, we displayed our concept product, 4500
+MiD
+®
+instrument for the first time. This system is an
+extension of the 4000 MiD
+®
+and has been designed for the
+mass identification of larger molecules in sample mixtures,
+such as proteins and peptides. We intend to launch this
+product in the next twelve months and are already engaged
+in discussions with potential OEM partners to develop this
+system further for commercialisation in several areas.
+Microsaic_pp01_07_Microsaic_01_07  07/05/2014  10:38  Page 5 Financial results
+Revenues increased 92% to £1,165,235 in 2013 (2012:
+£606,281). OEM sales volumes of the 4000 MiD
+®
+have
+been the principal contributor to this rise, with regular
+monthly shipments being made. Sales of consumables are
+also rising, and will become more significant over time as
+the installed base grows. 
+Research and development revenue streams are becoming
+a less significant proportion of the total company income,
+but continue to make a contribution. Spending on R&D
+amounted to £927,379 and was focused on product
+enhancements in order to open up new application
+opportunities for the MiD
+®
+and on our triple quadrupole
+mass spectrometer.
+The total comprehensive loss for the year was £2,285,158
+compared to £1,867,069 in the previous year. Excluding
+the effects of share-based payments accounting, the
+operating expenses for 2013 and 2012 were £1,462,395
+and £1,228,084 – the increase arising from business
+development and marketing activities and augmenting the
+business infrastructure as commercial operations ramp up.
+In May, the Company placed 9,951,443 ordinary shares
+with new and existing shareholders. This represented a 23%
+increase in the Company’s issued share capital. We wish to
+thank our investors for supporting this placing, which will
+enable the Company to execute its organic revenue growth
+plans, as well as allow investment in the development and
+production of instruments and technologies. The gross
+proceeds raised from the issue amounted to £4.28 million.
+Cash in hand at 31 December 2013 was £3.24 million.
+As with previous years, the going concern basis has
+continued to be adopted in preparing the financial
+statements. Following the progress made by the Company
+to date and the progress anticipated in the near term, the
+Directors have a reasonable expectation that the Company
+will have access to adequate funds to continue operations
+for at least twelve months. Further details are provided in
+the notes to the financial statements.
+Enhancing the team
+To ensure the Company is equipped with the necessary skills
+and personnel to drive continuing revenue growth and to
+support the transition into a successful commercial business,
+we have made a number of new hires during the year.
+We have created a new business development team, whose
+objective is to grow direct sales and establish new
+commercial relationships and routes to market. Our
+customer services team has been enhanced significantly and
+the engineering team has been expanded in order to ensure
+our OEM and direct customers have the technical support
+they require. I am now confident that we have the
+commercial and technical personnel in place to support
+senior management as we look to drive the growth of the
+business in the years ahead.
+I am delighted to report the appointment of Andrew Darby
+as Finance Director. Andrew Darby has over 17 years of
+experience in senior finance, strategic and operational roles
+within quoted companies in the information technology
+sector. He joins Microsaic from Active Risk Group plc,
+formerly an AIM-listed company specialising in enterprise
+risk management software solutions. 
+In October, we announced the formation of the Company’s
+first Scientific Advisory Group. Members of the Group have
+impressive credentials across a wide range of areas in
+industry and research, and will be able to advise us on
+future applications for our chip-based technology.
+6 Microsaic Systems plc Annual Report and Financial Statements 2013
+Strategic report – Chief Executive’s review (continued)
+for the year ended 31 December 2013
+Microsaic_pp01_07_Microsaic_01_07  07/05/2014  10:38  Page 6 Outlook 
+I am very pleased with the progress that Microsaic made
+across all areas of its business in 2013. We have built
+a strong foundation around the 4000 MiD
+®
+though our
+OEM partnerships and are confident of signing further
+agreements with other interested OEM partners who have
+established global sales distribution channels. Sales are
+building and we are gaining increasing recognition for the
+potential of our innovative MS technologies and new
+products within the scientific analytical instrumentation
+market, where we believe we have an opportunity to make
+MS accessible across a broader range of applications and
+to a much larger number of lab scientists than ever before.
+We now have the team in place needed to support the
+expected growth and development of our business.
+We are focused on three business strategies that underpin
+our ambitions for 2014 and beyond:
+• Developing OEM partnerships with synergistic
+companies, which can provide Microsaic with access
+to enhanced sales distribution channels alongside our
+own direct sales channel.
+• Stepping up marketing communications and the
+promotion of the core brand values of Microsaic.
+• Outsourcing the manufacture of the main product
+ensuring high-quality build, reliability and high volume
+capacity.
+All our activities are aligned to these three priorities. Our
+‘plug & play’ usability designs remain unique and the
+increasing market acceptance of our chip-based technology
+will provide the platform for further growth and
+differentiation from competitors. We remain intent on
+broadening the application base and enhancing user
+experience of the MiD
+®
+in order to make it the benchtop
+analytical tool of choice for chemists. It is my belief that
+these strengths, and focused strategy puts Microsaic
+Systems in a strong position to capitalise in an evolving
+market.
+Microsaic Systems plc Annual Report and Financial Statements 2013 7
+Microsaic_pp01_07_Microsaic_01_07  07/05/2014  10:38  Page 7 Strategic report – Risks and uncertainties
+for the year ended 31 December 2013
+8 Microsaic Systems plc Annual Report and Financial Statements 2013
+In common with other small companies developing new technologies, the Company is subject to a number of risks and
+uncertainties, which principally include:
+Risk area Key risks
+Company development — The early stage development of the business and its evolution into a successful
+trading Company with all the operational requirements that this entails
+— Current operating losses depleting the Company’s capital and cash 
+— The availability and terms of capital needed for continued business development and
+expansion
+— Recruitment and retention of personnel and requisite skills to run and build the
+business
+Customer markets — Market acceptance of the Company’s revolutionary products
+— Competing products emerging from other companies
+— The ability of the Company to generate sufficient revenue from the sale of its
+products
+— The economic environment and recessionary effects that may restrict customer
+spending on capital equipment 
+— Establishing and maintaining a high reputation as a supplier of equipment
+Technical — The product’s technical performance and specification meeting customer
+requirements
+— The reproducibility of the Company’s products as production volumes increase
+— The ability to protect Company intellectual property and defend infringement claims
+by others
+Financial — Sufficient cash flow liquidity
+— Credit risk attributable to trade receivables and cash deposits
+— Exchange rate risk on currency exposures
+The main financial risks arising from the Company’s activities are liquidity risk and credit risk.  The Company seeks to
+manage liquidity by ensuring sufficient funds are available to meet expected needs and to invest cash assets safely and
+profitably. In order to minimise risk to the Company’s capital, funds are invested with financial institutions with strong credit
+ratings. Cash forecasts are updated regularly to ensure that there is sufficient cash available for foreseeable requirements.
+The Company has no external financing facilities therefore its interest rate risk is limited to the level of interest received on
+its cash surpluses.
+There is further explanation of the financial risks in note 23 to the financial statements.
+This Annual Report contains certain forward looking statements that have been made by the Directors in good faith based
+on the information available at the time of the approval of the Annual Report. By their nature, such forward looking
+statements involve risks and uncertainties because they relate to events and depend on circumstances that may or may not
+occur in the future. Actual results may differ from those expressed in such statements.
+Microsaic_pp08_19_Microsaic_pp08_19  07/05/2014  10:36  Page 8 Microsaic Systems plc Annual Report and Financial Statements 2013 9
+Strategic report – Performance measurement
+for the year ended 31 December 2013
+The ongoing performance of the Company is managed and monitored using a number of key performance indicators,
+both financial and qualitative.
+Whilst there are many financial and operating measures regularly monitored by the Company, the primary financial metrics
+are:
+Year to Year to
+31 December 31 December
+2013 2012
+£ £
+Revenue 1,165,235 606,281
+Loss before tax and share based payments (2,331,671) (2,097,800)
+Cash used in operating and investing activities (2,552,302) (1,476,565)
+Cash and cash equivalents 3,239,283 1,788,579
+Revenues comprise sales of products and income from development projects. Product sales now form the majority of the
+Company’s revenue. Product launch is a key driver of our product revenue and 2013 saw both the launch of the Microsaic
+4000 MiD
+®
+chip based mass spectrometer and the first OEM product incorporating the 4000 MiD
+®
+, namely the Isolera™
+Dalton from Biotage AB, a fully integrated system for flash chromatography and mass identification.
+Maintaining tight control over costs is another key objective in managing the developing business. This is monitored
+through monthly management accounts for each cost type and in the overall trading results (which are calculated
+excluding share based payments).
+The Company is not yet profitable and utilises cash for its operational activities. The forecasting and monitoring of the
+Company’s cash resources is therefore critical in terms of the efficient allocation of those resources and in predicting
+future cash requirements. A key feature of the Company’s internal management reporting is therefore an emphasis
+on operational cash flow forecasts, which are monitored at both management and Board level on a monthly basis. 
+In terms of the Company’s wider performance, the progress of its research and development programmes are reviewed
+against key qualitative milestones on a monthly basis by the Board. The more detailed aspects of these programmes are
+also discussed and monitored through separate project reviews. Research and development programmes which feed into
+the Company’s product pipeline are planned and executed against identified objectives and timelines. The Company’s
+intellectual property rights provide an indicator of the success of its R&D activities and the protection of its technology from
+competitors. Microsaic maintains a large portfolio of patents, of which 52 are granted.
+This Strategic Report was approved by the Board of Directors on 29 April 2014 and signed on its behalf.
+Colin Jump
+Chief Executive Officer
+Microsaic_pp08_19_Microsaic_pp08_19  07/05/2014  10:36  Page 9 10 Microsaic Systems plc Annual Report and Financial Statements 2013
+Colin Nicholl, Non-executive Chairman
+Colin Nicholl joined the Board of the Company in 2005
+and has served as Chairman since July 2013, having
+previously been Deputy Chairman from 2006 until June
+2013. He sits on the Board’s Audit Committee. Colin brings
+a wealth of business, financial and city experience to the
+Company as a former partner of Cazenove & Co. and
+Chief Investment Officer of Cazenove Asset Management.
+He is a Non-executive Director of IM Asset Management
+and was, until its takeover, Chairman of Membrane
+Extraction Technology Limited. Colin has a degree in
+mathematics from the University of York, and has actuarial
+and company secretarial professional qualifications.
+Andrew Holmes, Non-executive Director
+Andrew Holmes is Professor of Micro-Electro-Mechanical
+Systems at Imperial College London and a co-founder of
+the Company. Professor Holmes was educated at
+Cambridge University and Imperial College London, where
+he has been a member of staff since 1995 and specialises
+in research into microfabrication and micropower
+technologies. Andrew has been Company Secretary of the
+Company since 2004, and sits on the Board’s Audit and
+Remuneration Committees.
+James Ramage, Non-executive Director
+James Ramage was appointed as a Director of the Company
+in April 2010. Dr Ramage is also Chairman of Tesla
+Engineering, a manufacturer of high value magnetic
+components for MRI scanners and other products. He is a
+veteran of the analytical instrumentation industry and served
+as a Director and Divisional Managing Director of
+VG Instruments plc and Fisons plc prior to becoming
+Chairman of Tesla. Dr Ramage sits on the Board’s Audit
+Committee and chairs the Board’s Remuneration Committee.
+Eric Yeatman, Non-executive Director
+Eric Yeatman is Professor of Micro-Engineering at Imperial
+College London. Professor Yeatman is a co-founder of the
+Company and was Chairman of the Board from 2004 to
+June 2013. He chairs the Board’s Audit Committee and sits
+on the Board’s Remuneration Committee. Eric was
+educated at Dalhousie University (Halifax, Canada) and
+Imperial College London, where he has been a member of
+staff since 1989. He specialises in micro-systems research
+and has acted as an advisor to two venture capital funds.
+Colin Jump, Chief Executive Officer
+Colin Jump has 30 years’ commercial and operational
+experience in the analytical instrumentation market.
+He joined Microsaic Systems in November 2012 from
+Shimadzu, a global manufacturer of scientific research
+instruments, where he spent 11 years as its UK Managing
+Director. He was previously European Commercial Director
+at SGE Europe (1999-2001) and prior to that, spent seven
+years in senior management and marketing positions at
+Mallinckrodt Baker in the UK and the Netherlands. Between
+1983 and 1991 Colin served in sales and marketing
+positions at Bayer Diagnostics, Boehringer Mannheim and
+Wellcome Diagnostics. He was appointed to the Board on
+1 November 2012.
+Andrew Darby, Finance Director
+Andrew Darby was appointed as Finance Director to the
+Company in April 2014. Mr Darby is a graduate of
+Cambridge University and a Chartered Accountant with
+over 17 years of experience in senior finance, strategic
+and operational roles within quoted companies.
+He joined Microsaic from Active Risk Group plc, formerly
+an AIM-listed company specialising in enterprise risk
+management software solutions, where he spent seven
+years as Chief Operations Officer and Chief Financial
+Officer until its successful sale to Sword Group SE. Prior
+to joining Active Risk, Andrew held senior positions with
+Misys plc and Generali SpA and qualified as a Chartered
+Accountant with Coopers & Lybrand (now
+PriceWaterhouseCoopers).
+Peter Edwards, Technical Director
+Peter Edwards joined the Company as Head of Research
+and Development in 2007 and was elected to the Board
+of Directors from June 2011. Mr Edwards, a Chartered
+Engineer, was awarded a BSc degree in engineering at
+Kingston Polytechnic, and between 1987 and 2007 served
+in senior positions with Applied Materials Inc., a Fortune
+500 company and the global leader in nano-manufacturing
+technology solutions and a supplier of semiconductor
+manufacturing equipment. Between 2001 and 2005 he
+served as Engineering Director and was responsible for
+development of Applied Material’s ion implanter products,
+before finally serving as Key Product Unit Director.
+Board of Directors
+for the year ended 31 December 2013
+Microsaic_pp08_19_Microsaic_pp08_19  07/05/2014  10:36  Page 10 Microsaic Systems plc Annual Report and Financial Statements 2013 11
+Directors’ report
+for the year ended 31 December 2013
+The Directors present their report for the year ended 31 December 2013.
+Principal activity, business review and business risks
+The principal activity of the Company continued to be the research, development and commercialisation of scientific
+instruments. A review of the business and its prospects is contained within the Strategic Report. 
+Results and dividends
+The results for the Company are given in the statement of comprehensive income set out on page 20. The Directors do not
+recommend the payment of a dividend (2012: nil).
+Directors
+Since 1 January 2013 the following Directors have held office:
+C J Nicholl
+C R Jump
+M R Bateman (Resigned 15 April 2014)
+A H Darby (Appointed 16 April 2014)
+P I T Edwards
+A S Holmes
+J C Ramage
+E M Yeatman
+Colin Jump, Colin Nicholl and James Ramage were re-appointed at the Annual General Meeting on 15 May 2013.
+At the forthcoming Annual General Meeting Peter Edwards and Eric Yeatman will retire by rotation and be proposed for re-
+appointment. Following his appointment since the year end, Andrew Darby will also retire at the Annual General Meeting
+and be proposed for re-appointment. 
+Directors’ interests
+The Directors’ interests in the shares of the Company at 31 December 2013 were:
+Ordinary shares of 0.25p each Ordinary shares of 0.25p each 
+at 31 December 2013 at 31 December 2012
+Number % Number %
+C J Nicholl 3,030,616 5.77 2,565,500 6.03
+C R Jump 23,256 0.04 ––
+M R Bateman 36,664 0.07 25,000 0.06
+P I T Edwards 31,977 0.06 25,000 0.06
+A S Holmes 2,936,656 5.59 2,913,400 6.85
+J C Ramage 261,190 0.50 163,480 0.38
+E M Yeatman 3,252,723 6.19 3,159,700 7.43
+9,573,082 18.22 8,852,080 20.81
+Microsaic_pp08_19_Microsaic_pp08_19  07/05/2014  10:36  Page 11 12 Microsaic Systems plc Annual Report and Financial Statements 2013
+Directors’ report (continued)
+for the year ended 31 December 2013
+Significant shareholdings
+Shareholders, excluding Directors, having a beneficial interest of 3% or more of the Company’s shares as at 29 April
+2014:
+Ordinary shares of 0.25p each 
+at 29 April 2014
+Number %
+BlackRock Investment Management 5,035,198 9.59
+Fidelity Worldwide Investment 4,684,841 8.92
+N W Wray 4,134,032 7.87
+R R A Syms 3,735,200 7.11
+Herald Investment Trust 2,745,348 5.23
+Hargreave Hale 2,537,000 4.83
+Octopus Investments 2,442,980 4.65
+Amati Global Investors 2,293,000 4.36
+A P Finlay 1,935,040 3.69
+Employees
+The Company regards the expertise and contributions of its employees as crucial to the future success of the business.
+The Company engages its employees to understand all aspects of the business and seeks to remunerate its employees fairly.
+The Company gives full and fair consideration to applications for employment received regardless of age, gender, colour,
+ethnicity, disability, nationality, religious beliefs or sexual orientation. The Board takes account of employees’ interests when
+making decisions and suggestions from employees aimed at improving the Company’s performance are encouraged.
+Company share ownership plans
+The Company operates two Share Ownership Plans for the benefit of its employees and Directors, an Employee Share
+Option Scheme (ESOS) and a Share Incentive Plan (SIP).
+The ESOS was formed in 2006 to enable the incentivisation of key employees to be aligned to the performance of
+the Company. Under the ESOS the Company grants to employees options to acquire the Company’s ordinary shares
+subject to:
+— vesting periods (normally 5 years for new grants)
+— a total exercise period of 10 years from date of grant
+— the exercise price normally being the market price of the ordinary shares at the date of grant
+— performance conditions, as appropriate 
+Options are granted to the maximum amount allowed under the limits of the Enterprise Management Incentive (‘EMI’)
+Scheme – these options are called ‘Approved Options’. The EMI scheme is subject to the provisions of Schedule 5 of the
+Income Tax (Earnings and Pensions) Act 2003. Any options granted above EMI limits are ‘Unapproved Options’.
+The SIP enables all employees (subject to minimum service criteria) the opportunity to take a continuing stake in the
+Company. It was approved by HMRC in November 2012 and operated for the first time in 2013. A Plan Trust has been
+established for the purposes of acquiring the Company’s shares. In accordance with SIP regulation employees can invest up
+to £1,500 from gross pay in any one year which is used to acquire shares known as ‘Partnership Shares’ and held within the
+Plan Trust. The Company may issue ‘Matching Shares’ in proportion to the Partnership Shares and also award employees
+with ‘Free Shares’. Matching Shares and Free Shares vest on the completion by the participating employee of a further three
+years’ service (and certain other events), and can be withdrawn from the plan tax-free after five years’ service.
+Health and safety and the environment
+The Company is committed to providing a safe environment for its staff and other parties for whom it has a responsibility.
+It has set up systems and processes to ensure compliance with health and safety legislation and the Board considers health
+and safety matters at its regular monthly meetings.
+The Company is also mindful of its corporate responsibilities concerning the impact of its activities on the environment and
+seeks to minimise this impact wherever possible.
+Microsaic_pp08_19_Microsaic_pp08_19  07/05/2014  10:36  Page 12 Microsaic Systems plc Annual Report and Financial Statements 2013 13
+Directors’ indemnity and insurance
+The Company has granted an indemnity to its Directors under which the Company will indemnify them, subject to the terms
+of the deed of indemnity, against all costs, charges, losses, damages and liabilities incurred by them in performance of
+their duties.
+The Company also maintains insurance for its Directors and Officers against the consequences of actions brought against
+them in relation to their duties for the Company.
+Payment of creditors
+The Company’s policy for payment of suppliers is to agree payment terms in advance of the supply and to adhere to those
+payment terms. The trade creditors of the Company at the year end as a proportion of amounts invoiced by suppliers
+during the year represent 47 days’ purchases (2012: 48 days).
+Related party transactions
+The interests of the Directors are shown above and their remuneration is detailed in the Directors’ remuneration report.
+There were no other related party transactions.
+Directors’ responsibilities
+The Directors are responsible for keeping proper accounting records which disclose with reasonable accuracy at any time
+the financial position of the Company, for safeguarding the assets of the Company, for taking reasonable steps for the
+prevention and detection of fraud and other irregularities and for the preparation of a Directors’ report which complies
+with the requirements of the Companies Act 2006.
+The Directors are responsible for preparing the annual report and the financial statements in accordance with the
+Companies Act 2006. The Directors have chosen to prepare financial statements for the Company in accordance with
+International Financial Reporting Standards (IFRSs) as adopted for use in the European Union.
+International Accounting Standard 1 requires that financial statements present fairly for each financial year the Company’s
+financial position, financial performance and cash flows. This requires the faithful representation of the effects of
+transactions, other events and conditions in accordance with the definitions and recognition criteria for assets, liabilities,
+income and expenses set out in the International Accounting Standards Board’s ‘Framework for the preparation and
+presentation of financial statements’. In virtually all circumstances, a fair presentation will be achieved by compliance with
+all applicable IFRSs. A fair presentation also requires the Directors to:
+— consistently select and apply appropriate accounting policies;
+— present information, including accounting policies, in a manner that provides relevant, reliable, comparable and
+understandable information; and
+— provide additional disclosures when compliance with the specific requirements in IFRSs is insufficient to enable users
+to understand the impact of particular transactions, other events and conditions on the entity’s financial position and
+financial performance. 
+Statement of disclosure to auditors
+So far as each Director is aware, there is no relevant audit information of which the Company’s auditors are unaware.
+Additionally the Directors have taken all the steps that they ought to have taken as Directors in order to make themselves
+aware of any relevant audit information and to establish that the Company’s auditors are aware of that information.
+Auditors
+Saffery Champness have expressed their willingness to remain in office as auditors of the Company, and a resolution for
+their re-appointment will be proposed at the forthcoming Annual General Meeting.
+This Directors’ Report was approved by the Board of Directors on 29 April 2014 and signed on its behalf.
+Andrew Holmes
+Company Secretary
+Company number 3568010
+Microsaic_pp08_19_Microsaic_pp08_19  07/05/2014  10:36  Page 13 14 Microsaic Systems plc Annual Report and Financial Statements 2013
+This report on the Directors’ remuneration sets out the Company’s policy on the remuneration of Executive and
+Non-executive Directors, together with details of Directors’ remuneration packages and service contracts.
+Remuneration Committee
+The remuneration policy for Executive Directors, determination of their individual remuneration packages and their
+performance appraisals have been delegated to the Board’s Remuneration Committee comprising three Non-executive
+Directors.
+In setting the remuneration levels, the Remuneration Committee considers a number of factors including:
+— the basic salaries and benefits available to Executive Directors of comparable companies;
+— the need to attract and retain Directors of an appropriate calibre;
+— the need to ensure Executive Directors’ commitment to the continued success of the Company by means of incentive
+schemes; and
+— the need for the remuneration awarded to reflect performance.
+Remuneration of the Non-executive Directors
+The remuneration of the Non-executive Directors is agreed by the Board following recommendation by the Remuneration
+Committee, having a view to rates paid in comparable organisations and appointments. The Non-executive Directors did
+not receive any pension, bonus or other benefits from the Company. Since becoming a public limited company, no share
+options have been issued to Non-executive Directors. Non-executive Directors may participate in Company share
+ownership plans on the same terms as other staff.
+Remuneration policy for Executive Directors
+The Company’s remuneration policy for Executive Directors is to:
+— have regard to the Directors’ experience and the nature and complexity of their work in order to pay a competitive
+salary that attracts and retains management of the quality required to serve the business;
+— link individual remuneration packages to the Company’s performance through the award of discretionary bonus
+schemes; and
+— provide employment-related benefits including life assurance and insurance relating to the Directors’ duties.
+Directors’ emoluments
+Year to Year to
+31 December 31 December
+Salaries Other Pension 2013 2012
+and fees payments contributions Total Total
+£££ £ £
+C J Nicholl 23,209 –– 23,209 18,010
+C R Jump 159,372 15,000 – 174,372 46,562
+(1)
+M R Bateman 79,128 5,961 4,670 89,759 66,219
+P I T Edwards 98,821 10,013 7,395 116,229 103,764
+A S Holmes 21,750 –– 21,750 18,800
+P R Selway –– – – 3,900
+(2)
+J C Ramage 19,577 –– 19,577 13,750
+E M Yeatman 22,772 –– 22,772 51,500
+424,629 30,974 12,065 467,668 322,505
+(1) from 1 November 2012
+(2) to 30 May 2012
+Directors’ remuneration report
+for the year ended 31 December 2013
+Microsaic_pp08_19_Microsaic_pp08_19  07/05/2014  10:36  Page 14 Share Incentive Plan (SIP)
+M R Bateman and J C Ramage participated in the Company SIP in 2013 and were each awarded 1,562 Matching shares
+under the terms of the scheme. These interests remained at 31 December 2013 (2012: nil).
+Directors’ share options
+Share options over the Company’s ordinary shares held by the Directors during the year were:
+At At
+1 January Lapsed Exercised 31 December
+2013 in the year in the year 2013 Exercise price
+Number Number Number Number p Exercise period
+C J Nicholl 116,000 (116,000) – – 43.10p 24 May 2006 – 24 May 2013
+116,000 –– 116,000 43.10p 24 May 2008 – 24 May 2015
+116,000 –– 116,000 43.10p 24 May 2009 – 24 May 2016
+C R Jump 1,276,191 –– 1,276,191 39.00p 10 Dec 2017 – 9 Dec 2022
+M R Bateman 40,600 –– 40,600 129.31p 1 Dec 2010 – 19 Feb 2018
+19,333 –– 19,333 25.86p 3 Dec 2012 – 2 Dec 2020
+38,667 –– 38,667 25.86p 3 Dec 2013 – 2 Dec 2020
+80,000 –– 80,000 42.00p 2 Jul 2015 – 1 Jul 2022
+P I T Edwards 191,400 –– 191,400 129.31p 11 Apr 2011 – 19 Feb 2018
+77,333 –– 77,333 25.86p 3 Dec 2012 – 2 Dec 2020
+154,667 –– 154,667 25.86p 3 Dec 2013 – 2 Dec 2020
+40,000 –– 40,000 42.00p 2 Jul 2015 – 1 Jul 2022
+2,266,191 (116,000) – 2,150,191
+The above share options are subject to service and/or performance conditions. None of the share options held by the
+Directors were exercised during the year.
+The share price on 1 January 2013 was 39p and on 31 December 2013 was 43.5p, with a high and low over the year of
+48p and 38p respectively.
+Directors’ service contracts
+Details of each Director’s service contract are as follows:
+Contract Date Term Notice period
+C J Nicholl 24 April 2006 Indefinite 3 months
+C R Jump 23 September 2012 Indefinite 6 months
+M R Bateman 11 July 2011 Indefinite 3 months
+P I T Edwards 30 June 2010 Indefinite 3 months
+A S Holmes 1 April 2006 Indefinite 3 months
+J C Ramage 21 June 2010 Indefinite 3 months
+E M Yeatman 1 April 2006 Indefinite 3 months
+Microsaic Systems plc Annual Report and Financial Statements 2013 15
+Microsaic_pp08_19_Microsaic_pp08_19  07/05/2014  10:36  Page 15 16 Microsaic Systems plc Annual Report and Financial Statements 2013
+Corporate governance report
+for the year ended 31 December 2013
+As an AIM-listed company, Microsaic Systems plc is not required to comply with the UK Corporate Governance Code
+(2010), a set of recommended corporate governance principles for UK public companies issued by the Financial Reporting
+Council. However, the Directors support high standards of corporate governance and have established a set of corporate
+governance principles which they regard as appropriate for the size, nature and stage of development of the Company
+based on the QCA Guidelines. 
+The Board
+In July 2013 Colin Nicholl became Chairman of the Board in succession to Eric Yeatman, who continues to serve as
+a Non-executive Director.
+Role of the Board
+The Board is responsible, inter alia, for strategy, budget, performance, approval of major capital expenditure and the
+framework of internal controls.
+Board processes
+The Board has established an Audit Committee and a Remuneration Committee with formally delegated responsibilities to
+assist with the execution of its responsibilities.
+The full Board holds regular meetings on a monthly basis and additional meetings at any other times as may be necessary
+to deal with any urgent matters that arise. The agenda for Board meetings is prepared in conjunction with the Chairman
+and submissions are circulated in advance. The Company management team prepares regular reports which allow the
+Board to assess the Company’s activities and review its performance and the Board has clearly specified the levels of
+authority delegated to management. Members of the Company’s management team are regularly involved in Board
+discussions and Directors are able to have discussions with other employees where appropriate.
+The Board is ultimately responsible for the Company’s system of internal control and for reviewing its effectiveness.
+This includes financial, operational and compliance controls and risk-management systems. Internal control systems are
+designed to meet the Company’s particular needs and the risks to which it is exposed. The internal control systems are
+designed to manage rather than eliminate the risk of failure to achieve business objectives, and by their nature can only
+provide reasonable and not absolute assurance against misstatement and loss.
+Composition of the Board
+The Board currently comprises seven Directors. 
+The role of the Chairman is filled by a Non-executive Director.
+Directors appointed by the Board are subject to re-election by shareholders at the following Annual General Meeting and
+thereafter Directors are subject to re-election at least every three years.
+Conflicts of interest
+Directors must keep the Board advised of any interest that could potentially conflict with those of the Company.
+Where a conflict exists, the Director concerned is not present at the meeting whilst the relevant matter is considered.
+Directors’ attendance record
+The following table shows the attendance at the meetings of the Board of Directors during 2013:
+Meetings
+Meetings held attended
+Number Number
+C J Nicholl 12 12
+C R Jump 12 11
+M R Bateman 12 11
+P I T Edwards 12 12
+A S Holmes 12 12
+J C Ramage 12 11
+E M Yeatman 12 11
+Microsaic_pp08_19_Microsaic_pp08_19  07/05/2014  10:36  Page 16 Microsaic Systems plc Annual Report and Financial Statements 2013 17
+Audit Committee
+The remit of the Audit Committee is documented in its terms of reference which were adopted by the Board of Directors
+on 31 March 2011.
+The purpose of the Committee is to assist the Board in the effective discharge of its responsibilities for corporate
+governance, financial reporting, corporate control and risk management. The Audit Committee normally meets at least
+twice a year and, amongst other things, reviews the annual report and accounts and interim statements with the external
+auditors. The Committee also approves external auditors’ fees and ensures auditors’ independence as well as focusing
+on compliance with legal requirements and accounting standards. The ultimate responsibility for reviewing and approving
+the annual financial statements and interim statements remains with the Board.
+The members of the Audit Committee for 2013 were E M Yeatman (from July 2013, Committee Chairman), C J Nicholl
+(Committee Chairman until June 2013), J C Ramage and A S Holmes. The external auditors, the Chief Executive Officer,
+Finance Director and other executives may be invited to the Audit Committee meetings at the discretion of the
+Committee. 
+The Audit Committee met three times in 2013.
+Remuneration Committee
+The remit of the Remuneration Committee is documented in its terms of reference which were adopted by the Board of
+Directors on 31 March 2011.
+The Remuneration Committee meets as required and at least once a year. Its responsibilities include reviewing the
+performance of the Executive Directors, setting their remuneration levels, determining the payment of bonuses and other
+benefits and considering the grant of options under the Company share option schemes.
+The members of the Remuneration Committee for 2013 were J C Ramage (Committee Chairman), C J Nicholl (until June
+2013), A S Holmes and E M Yeatman (from July 2013). 
+The Remuneration Committee met four times in 2013.
+Board nominations
+The appointment of replacement or additional Directors is the responsibility of the Board as a whole. 
+At this stage, it is not considered appropriate for the Company to have a formally constituted Nominations Committee,
+however this will be kept under review.
+Communications with shareholders
+The Board aims to keep shareholders informed of all major developments concerning the Company. Information is
+communicated through the following channels:
+— The release of announcements, trading updates and interim financial statements through the Regulatory News Service
+of the London Stock Exchange and on the Company’s website,
+— The annual report and financial statements are sent to all registered shareholders,
+— Notices of all meetings of shareholders are also sent to all registered shareholders.
+Microsaic_pp08_19_Microsaic_pp08_19  07/05/2014  10:36  Page 17 18 Microsaic Systems plc Annual Report and Financial Statements 2013
+We have audited the financial statements of Microsaic Systems plc for the year ended 31 December 2013 on pages 20
+to 39. The financial reporting framework that has been applied in their preparation is applicable law and International
+Financial Reporting Standards (IFRSs) as adopted by the European Union as applied in accordance with the provisions
+of the Companies Act 2006.
+This report is made solely to the Company’s members, as a body, in accordance with Chapter 3 of Part 16 of the
+Companies Act 2006. Our audit work has been undertaken so that we might state to the Company’s members those
+matters we are required to state to them in an auditors’ report and for no other purpose. To the fullest extent permitted by
+law, we do not accept or assume responsibility to anyone other than the Company and the Company’s members as
+a body, for our audit work, for this report, or for the opinions we have formed.
+Respective responsibilities of Directors and auditors
+As explained more fully in the Directors’ responsibilities statement set out on page 13, the Directors are responsible for
+the preparation of the financial statements and for being satisfied that they give a true and fair view. Our responsibility is
+to audit and express an opinion on the financial statements in accordance with applicable law and International Standards
+on Auditing (UK and Ireland). Those standards require us to comply with the Auditing Practices Board’s Ethical Standards
+for Auditors.
+Scope of the audit of the financial statements
+An audit involves obtaining evidence about the amounts and disclosures in the financial statements sufficient to give
+reasonable assurance that the financial statements are free from material misstatement, whether caused by fraud or error.
+This includes an assessment of: whether the accounting policies are appropriate to the Company’s circumstances and have
+been consistently applied and adequately disclosed; the reasonableness of significant accounting estimates made by the
+Directors; and the overall presentation of the financial statements. In addition, we read all the financial and non-financial
+information in the annual report to identify material inconsistencies with the audited financial statements and to identify any
+information that is apparently materially incorrect based on, or materially inconsistent with, the knowledge acquired by us
+in the course of performing the audit. If we become aware of any apparent material misstatements or inconsistencies we
+consider the implications for our report.
+Opinion on financial statements
+In our opinion the financial statements:
+— give a true and fair view of the state of affairs of the Company as at 31 December 2013 and of its loss for the year
+then ended; and 
+— have been properly prepared in accordance with IFRSs as adopted by the European Union and as applied in
+accordance with the provisions of the Companies Act 2006; and
+— have been prepared in accordance with the requirements of the Companies Act 2006.
+Opinion on other matter prescribed by the Companies Act 2006
+In our opinion the information given in the Strategic report and Directors’ report for the financial period for which the
+financial statements are prepared is consistent with the financial statements.
+Independent auditors’ report to the members of
+Microsaic Systems plc
+for the year ended 31 December 2013
+Microsaic_pp08_19_Microsaic_pp08_19  07/05/2014  10:36  Page 18 Emphasis of matter – going concern
+In forming our opinion, we have considered the adequacy of the disclosures made in note 3 to the financial statements
+concerning the Company’s ability to meet its future working capital needs. In view of the significance of this uncertainty
+we consider that it should be drawn to your attention but our opinion is not modified in this respect. 
+Matters on which we are required to report by exception
+We have nothing to report in respect of the following matters where the Companies Act 2006 requires us to report to you
+if, in our opinion:
+— adequate accounting records have not been kept, or returns adequate for our audit have not been received from
+branches not visited by us; or
+— the financial statements are not in agreement with the accounting records and returns; or
+— certain disclosures of Directors’ remuneration specified by law are not made; or
+— we have not received all the information and explanations we require for our audit.
+Lucy Brennan
+Senior Statutory Auditor
+For and on behalf of Saffery Champness
+Chartered Accountants and Statutory Auditors
+Lion House 
+Red Lion Street
+London WC1R 4GB
+29 April 2014
+Microsaic Systems plc Annual Report and Financial Statements 2013 19
+Microsaic_pp08_19_Microsaic_pp08_19  07/05/2014  10:36  Page 19 20 Microsaic Systems plc Annual Report and Financial Statements 2013
+Year to Year to
+31 December 31 December
+2013 2012
+Notes £ £
+Revenue 5 1,165,235 606,281
+Cost of sales (2,042,354) (1,486,490)
+Gross loss (877,119) (880,209)
+Operating expenses (1,536,398) (1,179,516)
+Loss from operations 6 (2,413,517) (2,059,725)
+Finance income 7 7,843 10,493
+Loss before tax (2,405,674) (2,049,232)
+Tax on loss on ordinary activities 8 120,516 182,163
+Total comprehensive loss for the year (2,285,158) (1,867,069)
+Loss per share attributable to the equity shareholders of the Company
+Basic and diluted loss per ordinary share 9 (4.71)p (4.56)p
+All operations are continuing operations.
+Statement of comprehensive income
+for the year ended 31 December 2013
+The notes on pages 24 to 39 form part of these financial statements.
+Microsaic_pp20_44_Microsaic_pp20-44  07/05/2014  10:35  Page 20 Microsaic Systems plc Annual Report and Financial Statements 2013 21
+Share
+Share Share option Retained Total
+Notes capital premium reserve earnings equity
+£££ ££
+At 1 January 2012 96,681 3,214,253 647,690 (1,712,505) 2,246,119
+Shares issued 9,668 1,537,231 –– 1,546,899
+Share issue costs – (100,074) –– (100,074)
+Transfer in respect of lapsed share options –– (99,552) 99,552 –
+Total comprehensive loss for the year ––– (1,867,069) (1,867,069)
+Share based payments – share options –– (48,568) – (48,568)
+At 31 December 2012 106,349 4,651,410 499,570 (3,480,022) 1,777,307
+Shares issued 16 24,922 4,259,698 –– 4,284,620
+Share issue costs – (281,614) –– (281,614)
+Transfer in respect of lapsed share options –– (190,761) 190,761 –
+Total comprehensive loss for the year ––– (2,285,158) (2,285,158)
+Share based payments – share options –– 74,003 – 74,003
+At 31 December 2013 131,271 8,629,494 382,812 (5,574,419) 3,569,158
+Statement of changes in equity
+for the year ended 31 December 2013
+The notes on pages 24 to 39 form part of these financial statements.
+Microsaic_pp20_44_Microsaic_pp20-44  07/05/2014  10:35  Page 21 22 Microsaic Systems plc Annual Report and Financial Statements 2013
+31 December 31 December
+2013 2012
+Notes £ £
+Assets
+Non-current assets
+Intangible assets 10 131,831 128,885
+Property, plant and equipment 11 210,546 84,265
+Total non-current assets 342,377 213,150
+Current assets
+Inventories 12 204,841 190,352
+Trade and other receivables 13 415,220 181,529
+Corporation tax receivable 80,000 150,000
+Cash and cash equivalents 3,239,283 1,788,579
+Total current assets 3,939,344 2,310,460
+Total assets 4,281,721 2,523,610
+Equity and liabilities
+Equity
+Share capital 16 131,271 106,349
+Share premium 17 8,629,494 4,651,410
+Share option reserve 17 382,812 499,570
+Retained earnings (5,574,419) (3,480,022)
+Total equity 3,569,158 1,777,307
+Current liabilities
+Trade and other payables 14 712,563 746,303
+Total equity and liabilities 4,281,721 2,523,610
+The financial statements were approved for issue by the Board of Directors on 29 April 2014.
+Colin Jump
+Chief Executive Officer
+Company number 3568010
+Statement of financial position
+as at 31 December 2013
+The notes on pages 24 to 39 form part of these financial statements.
+Microsaic_pp20_44_Microsaic_pp20-44  07/05/2014  10:35  Page 22 Microsaic Systems plc Annual Report and Financial Statements 2013 23
+Year to Year to
+31 December 31 December
+2013 2012
+Notes £ £
+Loss from operations (2,413,517) (2,059,725)
+Amortisation of intangible assets 10 56,843 67,169
+Depreciation of property, plant and equipment 11 93,261 58,513
+Share based payments 74,003 (48,568)
+(Increase) in inventories (14,489) (41,227)
+(Increase)/Decrease in trade and other receivables (233,691) 129,912
+(Decrease)/Increase in trade and other payables (33,740) 298,671
+Cash used in operations (2,471,330) (1,595,255)
+Taxation received 190,516 222,163
+Net cash used in operating activities (2,280,814) (1,373,092)
+Cash flows from investing activities
+Purchases of intangible assets 10 (59,789) (58,682)
+Purchases of property, plant and equipment 11 (219,542) (55,284)
+Interest received 7,843 10,493
+Net cash used in investing activities (271,488) (103,473)
+Cash flows from financing activities
+Proceeds from share issues 16 4,284,620 1,546,899
+Share issue costs (281,614) (100,074)
+Net cash from financing activities 4,003,006 1,446,825
+Net increase/(decrease) in cash and cash equivalents 1,450,704 (29,740)
+Cash and cash equivalents at the beginning of the year 1,788,579 1,818,319
+Cash and cash equivalents at the end of the year 3,239,283 1,788,579
+Statement of cash flows
+for the year ended 31 December 2013
+The notes on pages 24 to 39 form part of these financial statements.
+Microsaic_pp20_44_Microsaic_pp20-44  07/05/2014  10:35  Page 23 24 Microsaic Systems plc Annual Report and Financial Statements 2013
+1. Accounting policies
+The following principal accounting policies have been used consistently in the preparation of these financial
+statements. 
+Basis of preparation
+These financial statements have been prepared in accordance with International Financial Reporting Standards (IFRS)
+and the interpretations of the International Financial Reporting Interpretations Committee (IFRIC) as adopted by the
+European Union, and with those parts of the Companies Act 2006 applicable to companies reporting under IFRS.
+These financial statements have been prepared on the historic cost basis except where financial instruments are
+required to be carried at fair value under IFRS. 
+Revenue recognition
+Revenue represents amounts receivable from the sale of goods and services and from development contracts, net
+of value added tax and trade discounts.
+Revenue from the sale of goods is recognised when the risks and rewards of ownership of the goods passes to the
+customer, which is normally upon delivery.
+Revenue from rendering services is recognised in the period in which the service is provided. 
+Revenue from development contracts is recognised under the percentage-of-completion method.
+Income receivable in respect of government grants is included within revenue and is recognised in the same period
+as the related costs.
+Segmental reporting
+The Company currently has one business segment, being the research, development and commercialisation of
+scientific instruments. This is undertaken wholly within the United Kingdom and therefore a segmental analysis of
+turnover, profits/losses on ordinary activities before tax and net assets has not been presented. The Company is
+managed on the basis of its performance as a whole and not by any segments.
+Intangible assets
+Trademarks and patents are stated at historic cost of registration less accumulated amortisation and any accumulated
+impairment losses. Amortisation is calculated to write off the cost in equal annual instalments over five years, which is
+considered to be a prudent estimate of their useful economic lives.
+Property, plant and equipment
+Items of property, plant and equipment are stated at cost of acquisition or production costs less accumulated
+depreciation and impairment losses. 
+Depreciation is charged to the statement of comprehensive income on a straight-line basis to write-off the carrying
+value of each asset to residual value over its estimated useful economic life as follows:
+Plant and equipment – 20% to 33.3% on a straight line basis
+Fixtures and fittings – 33.3% on a straight line basis
+Pensions
+The Company operates a defined contribution retirement benefit scheme for its employees. Contributions are charged
+to the statement of comprehensive income in the period they are payable.
+Notes to the financial statements
+for the year ended 31 December 2013
+Microsaic_pp20_44_Microsaic_pp20-44  07/05/2014  10:35  Page 24 Microsaic Systems plc Annual Report and Financial Statements 2013 25
+Inventories
+Inventories are stated at the lower of cost and net realisable value. Cost is based on the first-in first-out principle and
+includes expenditure incurred in acquiring the inventories and bringing them into their present locations and
+condition. The cost of finished goods and work in progress comprises raw materials, direct labour and other direct
+costs. Net realisable value is the estimated selling price in the ordinary course of business less applicable selling
+expenses.
+Taxation
+Current taxes are based on the results of the Company and are calculated according to local tax rules, using the tax
+rates that have been enacted by the balance sheet date. 
+The Company recognises research and development tax credits receivable in cash as a current asset under the
+heading corporation tax receivable. Any difference with amounts actually received are dealt with as adjustments
+to prior period tax.
+Deferred tax is provided in full using the balance sheet liability method for all taxable temporary differences arising
+between the tax bases of assets and liabilities and their carrying values for financial reporting purposes. Deferred tax
+is measured using currently enacted or substantially enacted tax rates. 
+Deferred tax assets are recognised to the extent the temporary difference will reverse in the foreseeable future and that
+it is probable that future taxable profit will be available against which the asset can be utilised.
+Foreign currency translation
+Monetary assets and liabilities denominated in foreign currencies are translated into sterling at the rates of exchange
+ruling at the balance sheet date. Transactions in foreign currencies are recorded at the rate ruling at the date of
+transaction, or forward contract rate, if applicable. All differences are taken to the statement of comprehensive
+income.
+Government grants
+Grants towards revenue expenditure are released to the statement of comprehensive income as the related
+expenditure is incurred.
+Financial instruments
+The Company has adopted both IAS 32 and IAS 39.
+Financial assets and financial liabilities are recognised on the Company’s statement of financial position when the
+Company becomes a party to the contractual provisions of the instrument.
+Cash and cash equivalents
+The fair value of cash and cash equivalents is considered to be their carrying amount due to their short term maturity.
+Trade receivables
+Trade receivables do not carry interest and are stated at their nominal value as reduced by appropriate allowances for
+estimated irrecoverable amounts.
+Financial liability and equity
+Financial liabilities and equity instruments are classified according to the substance of the contractual arrangements
+entered into. An equity instrument is any contract that evidences a residual interest in the assets of the Company after
+deducting all of its liabilities.
+Bank borrowings
+Interest-bearing bank loans and overdrafts are recorded as the proceeds received, net of direct issue costs. Finance
+charges, including premiums payable on settlement or redemption and direct issue costs, are accounted for on an
+accrual basis to the statement of comprehensive income using the effective interest method and are added to the
+carrying amount of the instrument to the extent that they are not settled in the period in which they arise.
+Microsaic_pp20_44_Microsaic_pp20-44  07/05/2014  10:35  Page 25 26 Microsaic Systems plc Annual Report and Financial Statements 2013
+Notes to the financial statements (continued)
+for the year ended 31 December 2013
+1. Accounting policies (continued)
+Financial instruments (continued)
+Trade payables
+Trade payables are not interest bearing and are stated at their nominal value.
+Equity instruments
+Equity instruments issued by the Company are recorded at the value of the proceeds received net of direct issue costs.
+Leases
+Assets obtained under hire purchase contracts and finance leases are capitalised and depreciated over their useful
+lives. Obligations under such agreements are included in liabilities net of the finance charges allocated to future
+periods.
+All other leases are considered operating leases, the costs of which are expensed on a straight line basis over the
+lease term. Rent free periods and other incentives are spread on a straight line basis over the lease term.
+Research and development
+Expenditure on research is recognised as an expense in the period in which it is incurred.
+Development costs incurred on specific projects are capitalised when all the following conditions are satisfied:
+• completion of the intangible asset is technically feasible so that it will be available for use or sale
+• the Company intends to complete the intangible asset and use or sell it
+• the Company has the ability to use or sell the intangible asset
+• the intangible asset will generate probable future economic benefits. Among other things, this requires that there
+is a market for the output from the intangible asset or for the intangible asset itself, or, if it is to be used internally,
+the asset will be used in generating such benefits
+• there are adequate technical, financial and other resources to complete the development and to use or sell the
+intangible asset, and
+• the expenditure attributable to the intangible asset during its development can be measured reliably
+Costs incurred which do not meet the above criteria are expensed as incurred. No development costs have been
+capitalised to date.
+Share based payments
+In accordance with IFRS 2 “Share-based payments”, the Company reflects the economic cost of awarding shares and
+share options to directors, employees and advisors by recording an expense in the statement of comprehensive
+income equal to the fair value of the benefit awarded, fair value being determined by reference to option pricing
+models. The expense is recognised in the statement of comprehensive income over the vesting period of the award.
+Microsaic_pp20_44_Microsaic_pp20-44  07/05/2014  10:35  Page 26 Microsaic Systems plc Annual Report and Financial Statements 2013 27
+2. Application of new EU endorsed accounting standards, amendments to existing EU endorsed
+standards and interpretations
+New Standards, amendments and interpretations effective in 2013 and relevant to the Company’s results:
+IAS 1 Presentation of Financial Statements
+New requirements to group together items within other comprehensive income that may be reclassified to the
+profit or loss section of the income statement in order to facilitate the assessment of their impact on the overall
+performance of an entity.
+Annual Improvements 2009–2011 Cycle: Amendments clarifying the requirements for comparative information
+including minimum and additional comparative information required.
+New standards, amendments and interpretations effective in 2013 not relevant to the Company’s results
+or that do not have a significant impact on the Company’s financial statements, other than additional
+disclosures:
+IAS 12 Income Taxes 
+This standard has been amended to introduce the rebuttable presumption than an investment property will
+be recovered in its entirety through sale.
+IAS 16 Property, Plant and Equipment
+Annual Improvements 2009–2011 Cycle: Amendments to the recognition and classification of servicing
+equipment.
+IAS 19 Employee Benefits
+Amendments to the accounting for current and future obligations resulting from the provision of defined benefit
+plans. 
+IAS 32 Financial instruments: presentation (revised)
+Annual Improvements 2009–2011 Cycle amendments to clarify the tax effect of distribution to holders of equity
+instruments.
+IAS 34 Interim Financial Reporting (revised)
+Annual Improvements 2009–2011 Cycle amendments to improve the disclosures for interim financial reporting
+and segment information for total assets and liabilities.
+IFRS 1 First Time Adoption of International Financial Reporting Standards (revised)
+Standard amended to provide guidance for entities emerging from severe hyperinflation and resuming presentation
+of IFRS compliant financial statements, or presenting IFRS compliant financial statements for the first time.
+Standard amended to remove the fixed date of 1 January 2004 relating to the retrospective application of the
+derecognition requirements of IAS 39, and relief for first-time adopters from calculating day 1 gains on
+transactions that occurred before the date of adoption.
+Amendments add an exception to the retrospective application of IFRSs to require that first-time adopters apply
+the requirements in IFRS 9 Financial Instruments and IAS 20 Accounting for Government Grants and Disclosure
+of Government Assistance prospectively to government loans existing at the date of transition to IFRSs.
+Annual Improvements 2009–2011 Cycle amendments clarifying the options available to users when repeated
+application of IFRS 1 is required and to add relevant disclosure requirements.
+Annual Improvements 2009–2011 Cycle amendments to borrowing costs.
+Microsaic_pp20_44_Microsaic_pp20-44  07/05/2014  10:35  Page 27 28 Microsaic Systems plc Annual Report and Financial Statements 2013
+Notes to the financial statements (continued)
+for the year ended 31 December 2013
+2. Application of new EU endorsed accounting standards, amendments to existing EU endorsed
+standards and interpretations (continued)
+IFRS 7 Financial Instruments: Disclosures
+Amendments require entities to disclose gross amounts subject to rights of set-off, amounts set off in accordance
+with the accounting standards followed, and the related net credit exposure. This information will help investors
+understand the extent to which an entity has set off in its balance sheet and the effects of rights of set-off on the
+entity’s rights and obligations.
+IFRS 13 Fair Value Measurement
+New guidance on fair value measurement and disclosure requirements. 
+IFRIC 20 Stripping Costs in the Production Phase of a Surface Mine
+Clarifies the requirements for accounting for stripping costs associated with waste removal in surface mining.
+New Standards, amendments and interpretations not yet effective and relevant to the Company’s results:
+None.
+New Standards, amendments and interpretations not yet effective and not relevant to the Company’s
+results or do not have a significant impact on the Company’s financial statements, other than additional
+disclosures:
+IAS 27 Consolidated and Separate Financial Statements – Effective for periods beginning on or after 1 January 2014:
+Consequential amendments resulting from the issue of IFRS 10, 11 and 12. 
+Requirement to account for interests in ‘Investment Entities’ at fair value under IFRS 9, Financial Instruments,
+or IAS 39, Financial Instruments: Recognition and Measurement, in the separate financial statements of a
+parent.
+IAS 28 Investments in Associates – Effective for periods beginning on or after 1 January 2014:
+Consequential amendments resulting from the issue of IFRS 10, 11 and 12. 
+IAS 32 Financial Instruments: Presentation (revised) – Effective for periods beginning on or after 1 January 2014:
+Amendments require entities to disclose gross amounts subject to rights of set-off, amounts set off in accordance
+with the accounting standards followed, and the related net credit exposure. This information will help investors
+understand the extent to which an entity has set off in its balance sheet and the effects of rights of set-off on the
+entity’s rights and obligations.
+IAS 36 Impairment of Assets – Effective for periods beginning on or after 1 January 2014:
+Amendments to the disclosure requirements regarding the measurement of the recoverable amount for impaired
+assets.
+IAS 39 Financial Instruments – Effective for periods beginning on or after 1 January 2014:
+Amendments to provide an exception to the requirement for discontinuation of hedge accounting in
+circumstances where a hedging instrument is required to be novated to a central counterparty as a result of laws
+or regulations.
+IFRS 10 Consolidated Financial Statements – Effective for periods beginning on or after 1 January 2014:
+New standard that replaces the consolidation requirements in SIC-12 Consolidation—Special Purpose Entities
+and IAS 27 Consolidated and Separate Financial Statements. The standard builds on existing principles by
+identifying the concept of control as the determining factor in whether an entity should be included within the
+consolidated financial statements of the parent company and provides additional guidance to assist in the
+determination of control where this is difficult to assess. 
+Amendments to the transition guidance of IFRS 10 Consolidated Financial Statements, IFRS 11 Joint
+Arrangements and IFRS 12 Disclosure of Interests in Other Entities limiting the requirements to provide adjusted
+comparative information.
+Microsaic_pp20_44_Microsaic_pp20-44  07/05/2014  10:35  Page 28 Microsaic Systems plc Annual Report and Financial Statements 2013 29
+IFRS 10 exception to the principle that all subsidiaries must be consolidated; entities meeting the definition of
+‘Investment Entities’ must be accounted for at fair value under IFRS 9, Financial Instruments, or IAS 39 Financial
+Instruments: Recognition and Measurement.
+IFRS 11 Joint Arrangements – Effective for periods beginning on or after 1 January 2014:
+New standard that deals with the accounting for joint arrangements and focuses on the rights and obligations
+of the arrangement, rather than its legal form. The standard requires a single method for accounting for
+interests in jointly controlled entities.
+Amendments to the transition guidance of IFRS 10 Consolidated Financial Statements, IFRS 11 Joint Arrangements
+and IFRS 12 Disclosure of Interests in Other Entities limiting the requirements to provide adjusted comparative
+information. 
+IFRS 12 Disclosure of Interest in Other Entities – Effective for periods beginning on or after 1 January 2014:
+New and comprehensive standard on disclosure requirements for all forms of interests in other entities, including
+joint arrangements, associates, special purpose vehicles and other off balance sheet vehicles. 
+Amendments to the transition guidance of IFRS 10 Consolidated Financial Statements, IFRS 11 Joint
+Arrangements and IFRS 12 Disclosure of Interests in Other Entities limiting the requirements to provide adjusted
+comparative information.
+New disclosures required for Investment Entities (as defined in IFRS 10).
+3. Going concern
+The financial statements have been prepared on a going concern basis, which assumes that sufficient funds will
+be available for the Company to continue in operational existence for at least 12 months from the date of signing.
+The Company’s business activities together with the factors likely to affect its future development, performance and
+position are set out in the strategic review sections within the annual report. 
+The Company has been developing its technologies for the market place and as such has been absorbing funds.
+The Company is now in the commercialisation phase of its development, and the financing of operations in the future
+will be from employment of existing cash reserves and revenue from product sales. 
+The Directors have prepared trading and cash flow projections that extend beyond 12 months from the date of this
+report. These include increasing revenue levels which the Directors believe will be derived from the sale of its products
+and are supported by market feedback that has been received. There is no certainty that the expected level of sales
+will be achieved and if there were a significant shortfall it may be necessary for the Company to secure alternative
+sources of funding to enable it to remain a going concern. Whilst the Company has been successful securing funding
+in the past, this is no guarantee that it will be possible in the future. However, the Directors have a reasonable
+expectation that the Company will have access to sufficient funding to continue operations for at least twelve months
+from the signing of this report and therefore they continue to adopt the going concern basis for the preparation of the
+financial statements. 
+Microsaic_pp20_44_Microsaic_pp20-44  07/05/2014  10:35  Page 29 30 Microsaic Systems plc Annual Report and Financial Statements 2013
+Notes to the financial statements (continued)
+for the year ended 31 December 2013
+4. Critical accounting estimates and judgements
+Accounting estimates and judgements are continually evaluated and are based on past experience and other factors,
+including expectations of future events that are believed to be reasonable under the circumstances.
+The Company makes estimates and assumptions concerning the future. The resulting accounting estimates could, by
+definition, differ from the actual outcome. 
+The estimates and assumptions that have a significant risk of causing a material adjustment to the carrying amounts
+of assets and liabilities within the next financial year are summarised below:
+Going concern
+The financial statements have been prepared on a going concern basis, which assumes that sufficient funds will
+be available for the Company to continue in operational existence for at least 12 months. More details are provided
+in note 3.
+Revenue recognition 
+The revenue recognised from development contracts reflects management’s best estimate about the contract’s
+outcome and stage of completion. The Company’s management assesses the contracts at each balance sheet date,
+including the costs to completion, which are subject to estimation uncertainty. 
+Amortisation of trademarks and patents 
+Capitalised costs relating to trademarks and patents are amortised over their estimated useful lives. As the product
+development programme is still ongoing and the lifetime of the Company’s intellectual property is difficult to
+determine, the Directors have applied a prudent estimate of 5 years. This assumption is reviewed at each balance
+sheet date and amended if required.
+Share based payments 
+The calculation of the share based payments expense utilises assumptions and estimates (for example volatility, future
+exercise rates) which may differ from actual results. Details of the assumptions are set out in note 22.
+Research and development tax credits
+The Company recognises research and development tax credits receivable in cash as a current asset under the
+heading corporation tax receivable. These credits are subject to acceptance by HM Revenue & Customs and the
+resulting cash receipt from HM Revenue & Customs may be greater or less than this amount.
+5. Revenue
+Throughout 2013 the Company operated in one business segment, that of research, development and commercialisation
+of scientific instruments. All of the Company’s assets are held in the UK and all of its capital expenditure arises in the UK.
+The revenue of the Company for the year has been derived from its principal activity undertaken in the United Kingdom.
+An analysis of revenue by geographic market has not been presented as many of the Company’s products are sold
+through international distribution channels and it is not possible to determine their final destinations. The Directors
+consider that an analysis of revenue by geographic market using distributor locations would be misleading.
+Government grants
+Included within the Company’s revenue for the year ended 31 December 2013 is £157,841 (2012: £294,580) from
+UK Government grants and European grant funded projects.
+In 2013 the Company was awarded a grant of up to €308,000 under the European Commission’s 7th Framework
+Programme as part of a consortium for a research project. Revenue of £26,879 has been recognised to date as the
+Company believes it has fulfilled its practical and administrative obligations under this project and is committed to
+fulfilling its future obligations, which are subject to European Commission reviews annually and final project sign-off
+in 2015.
+Microsaic_pp20_44_Microsaic_pp20-44  07/05/2014  10:35  Page 30 In 2010 the Company was awarded a grant of up to €964,000 under the European Commission’s 7th Framework
+Programme as part of a consortium for a research project. Revenue of £704,649 has been recognised to date as the
+Company believes it has fulfilled its practical and administrative obligations under this project and is committed to
+fulfilling its future obligations, which are subject to European Commission reviews annually and final project sign-off
+in 2014.
+6. Expenses by nature
+Year to Year to
+31 December 31 December
+2013 2012
+£ £
+Loss from operations is stated after charging/(crediting)
+Amortisation of intangible assets 56,843 67,169
+Depreciation of property, plant and equipment 93,261 58,513
+Pension costs 60,998 54,755
+Share based payments – equity settled 74,003 (48,568)
+Operating lease rentals – land and buildings 78,225 66,225
+Exchange (gain)/loss (1,785) 2,618
+Research and development expenditure 927,379 1,298,129
+Directors’ emoluments 467,668 322,505
+Year to Year to
+31 December 31 December
+2013 2012
+£ £
+Services provided by the Company’s auditors
+Fees payable to the Company’s auditors for the audit of the financial statements 13,000 12,000
+Fees payable to the Company’s auditors for other services
+– Tax compliance 5,000 4,000
+– Other – 1,250
+18,000 17,250
+7. Finance income
+Year to Year to
+31 December 31 December
+2013 2012
+£ £
+Bank interest 7,843 7,313
+Other interest – 3,180
+7,843 10,493
+Microsaic Systems plc Annual Report and Financial Statements 2013 31
+Microsaic_pp20_44_Microsaic_pp20-44  07/05/2014  10:35  Page 31 8. Tax on loss on ordinary activities
+Year to Year to
+31 December 31 December
+2013 2012
+£ £
+Domestic current period tax
+UK corporation tax (80,000) (150,000)
+Adjustment for prior periods (40,516) (32,163)
+Current tax credit (120,516) (182,163)
+Deferred tax – –
+Tax on loss on ordinary activities (120,516) (182,163)
+Factors affecting the current tax credit for the period
+Loss before tax (2,405,674) (2,049,232)
+Loss before tax multiplied by standard rate of UK corporation tax 
+of 20% (2012: 20%) (481,135) (409,846)
+Effects of:
+Non deductible expenses 18,875 (7,207)
+Depreciation 18,652 11,703
+Capital allowances (47,592) (13,111)
+Research and development expenditure 13,523 (4,833)
+Tax losses carried forward 397,677 273,294
+Previous period research and development adjustment (40,516) (32,163)
+Current tax credit (120,516) (182,163)
+The Company has estimated tax losses of £7,746,000 (2012: £5,758,000) available for carry forward against future
+trading profits. A deferred tax asset in respect of these losses has only been recognised to the extent of the deferred
+tax liability in respect of accelerated capital allowances (see note 15). 
+9. Basic and diluted loss per ordinary share
+Year to Year to
+31 December 31 December
+2013 2012
+Loss after tax attributable to equity shareholders £(2,285,158) £(1,867,069)
+Weighted average number of ordinary 0.25p shares for the purpose of 
+basic and diluted loss per share 48,481,309 40,935,477
+Basic and diluted loss per ordinary share (4.71)p (4.56)p
+Potential ordinary shares are not treated as dilutive as the Company is loss making, therefore the weighted average
+number of ordinary shares for the purposes of the basic and diluted loss per share are the same.
+32 Microsaic Systems plc Annual Report and Financial Statements 2013
+Notes to the financial statements (continued)
+for the year ended 31 December 2013
+Microsaic_pp20_44_Microsaic_pp20-44  07/05/2014  10:35  Page 32 10. Intangible assets
+Intangible assets comprise patents and trademarks owned by the Company. The cost is amortised on a straight line
+basis over a five year period as this has been judged as their estimated useful life. 
+£
+Cost
+At 1 January 2013 342,164
+Additions 59,789
+Disposals (29,050)
+At 31 December 2013 372,903
+Amortisation
+At 1 January 2013 213,279
+Charge for the year 56,843
+Disposals (29,050)
+At 31 December 2013 241,072
+Net book value
+At 31 December 2013 131,831
+At 31 December 2012 128,885
+11. Property, plant and equipment
+Plant and Fixtures and
+equipment fittings Total
+£££
+Cost
+At 1 January 2013 556,103 123,494 679,597
+Additions 120,221 99,321 219,542
+Disposals (32,101) – (32,101)
+At 31 December 2013 644,223 222,815 867,038
+Depreciation
+At 1 January 2013 476,970 118,362 595,332
+Charge for the year 13,063 80,198 93,261
+Disposals (32,101) – (32,101)
+At 31 December 2013 457,932 198,560 656,492
+Net book value
+At 31 December 2013 186,291 24,255 210,546
+At 31 December 2012 79,133 5,132 84,265
+The gross carrying amount of fully depreciated assets still in use at 31 December 2013 is £441,931.
+Microsaic Systems plc Annual Report and Financial Statements 2013 33
+Microsaic_pp20_44_Microsaic_pp20-44  07/05/2014  10:35  Page 33 12. Inventories 
+Year to Year to
+31 December 31 December
+2013 2012
+£ £
+Raw materials 203,538 109,133
+Work in progress 1,303 66,371
+Finished goods – 14,848
+204,841 190,352
+13. Trade and other receivables
+Year to Year to
+31 December 31 December
+2013 2012
+£ £
+Amounts falling due within one year
+Trade receivables 178,132 24,000
+Other receivables 126,988 127,499
+Other taxes and social security 110,100 30,030
+415,220 181,529
+14. Trade and other payables
+Year to Year to
+31 December 31 December
+2013 2012
+£ £
+Amounts falling due within one year
+Trade payables 346,323 286,339
+Other taxes and social security 57,029 53,756
+Other payables 39,449 9,840
+Accruals and deferred income 269,762 396,368
+712,563 746,303
+15. Provisions
+Deferred tax
+£
+Balance at 1 January and 31 December 2013 –
+Deferred taxation provided in the financial statements
+31 December 31 December
+2013 2012
+£ £
+Accelerated capital allowances 36,321 15,602
+Tax losses carried forward (36,321) (15,602)
+––
+A deferred tax asset in respect of tax losses has only been recognised to the extent of the deferred tax liability in
+respect of accelerated capital allowances.
+34 Microsaic Systems plc Annual Report and Financial Statements 2013
+Notes to the financial statements (continued)
+for the year ended 31 December 2013
+Microsaic_pp20_44_Microsaic_pp20-44  07/05/2014  10:35  Page 34 16. Share capital
+Number £
+Allotted, called up and fully paid ordinary shares of 0.25p each
+Ordinary shares as at 31 December 2012 42,539,748 106,349
+Ordinary shares issued for cash in the year 9,968,628 24,922
+Ordinary shares as at 31 December 2013 52,508,376 131,271
+Following adoption of new articles of association in April 2011, the Company does not have a stated authorised share
+capital. The Company has one class of share, ordinary shares of 0.25p each, with each share carrying one vote and
+equal rights to discretionary dividends.
+The Company issued the following ordinary shares of 0.25p each for cash in the year:
+Shares Issue Cash
+issued price consideration
+Number p£
+Placing – May 2013 9,951,443 43 4,279,120
+Share Incentive Plan – June 2013 17,185 32 5,500
+9,968,628 4,284,620
+17. Reserves
+The share premium account represents the excess over the nominal value for shares allotted, less issue costs. 
+The share option reserve represents accumulated charges made under IFRS 2 in respect of share based payments.
+Where share options expire unexercised at the end of their exercise period, the amounts within the share option
+reserve relating to those options are transferred to retained earnings.
+18. Operating lease commitments
+At the year end the Company had future minimum lease payments under non-cancellable operating leases which fall
+due as follows: 
+31 December 31 December
+2013 2012
+£ £
+Land and buildings
+Within one year 97,400 47,557
+Between one and two years 164,768 –
+262,168 47,557
+19. Capital commitments
+At the balance sheet date the Company had the following capital commitments. 
+31 December 31 December
+2013 2012
+£ £
+Contracted for but not provided in the financial statements – –
+Microsaic Systems plc Annual Report and Financial Statements 2013 35
+Microsaic_pp20_44_Microsaic_pp20-44  07/05/2014  10:35  Page 35 36 Microsaic Systems plc Annual Report and Financial Statements 2013
+Notes to the financial statements (continued)
+for the year ended 31 December 2013
+20. Directors’ emoluments
+Year to Year to
+31 December 31 December
+2013 2012
+£ £
+Salaries and fees 424,629 282,357
+Other payments 30,974 29,025
+Pension costs 12,065 11,123
+467,668 322,505
+During the year, no options were exercised by or granted to the Directors. 
+In the year to 31 December 2013 two Directors accrued benefits under money purchase retirement benefit schemes
+(2012: two).
+Further information is provided in the Directors’ remuneration report.
+21. Employees 
+Year to Year to
+31 December 31 December
+2013 2012
+Number Number
+The average monthly numbers of employees
+Directors 7 7
+Other staff 28 24
+35 31
+Year to Year to
+31 December 31 December
+2013 2012
+£ £
+Employment costs (including Directors)
+Wages and salaries 1,556,991 1,329,969
+Social security costs 180,818 151,302
+Pension costs 60,998 54,755
+Employment related share based payments 74,003 (48,568)
+1,882,810 1,487,458
+The employment related share based payments credit of £48,568 for 2012 is due to the write back of prior year share
+based payment charges totalling £81,901 following the exit of staff members from the Company’s share option
+schemes. 
+Microsaic_pp20_44_Microsaic_pp20-44  07/05/2014  10:35  Page 36 22. Share-based payments
+Share option schemes
+The Company operates approved and unapproved share option schemes as a means of encouraging ownership and
+aligning interests of staff and shareholders.
+Year to 31 December 2013 Year to 31 December 2012
+Weighted Weighted
+Number of average Number of average
+options exercise price options exercise price
+Outstanding at the beginning of the year 3,312,388 53.5p 1,944,025 59.4p
+Granted during the year –– 1,984,863 41.2p
+Cancelled during the year (541,397) 88.3p (616,500) 32.4p
+Exercised during the year –– ––
+Outstanding at 31 December 2,770,991 46.8p 3,312,388 53.5p
+Exercisable at 31 December 904,800 60.8p 1,174,757 81.5p
+The estimated fair values of the share options were calculated by applying the Black Scholes model. The period
+of exercise for all options granted is between 1 and 10 years from date of grant and the vesting periods last up to
+five years from the date of grant. The model inputs were:
+Risk Gross
+Share free Expected dividend
+Date of grant price rate volatility yield
+May 2006 *107.50p 5.25% 35% –
+February 2008 *129.31p 5.25% 35% –
+December 2010 *25.86p 1.50% 75% –
+April 2011 32.00p 0.50% 50% –
+June 2012 40.00p 0.50% 33% –
+July 2012 42.00p 0.50% 33% –
+December 2012 39.00p 1.00% 33% –
+* The share prices and corresponding option exercise prices for grants made up to 2010 have been adjusted for a bonus issue and share
+sub-division that took place in April 2011.
+Number Number
+Latest of options of options
+Exercise exercise Estimated 31 December 31 December
+Date of grant price date fair value 2013 2012
+Director and employee share options:
+May 2006 43.10p May 2013 79.5p – 116,000
+May 2006 43.10p May 2015 79.5p 116,000 116,000
+May 2006 43.10p May 2016 79.5p 116,000 116,000
+February 2008 129.31p Feb 2018 26.6p 266,800 266,800
+December 2010 25.86p Dec 2020 11.0p 406,000 406,000
+July 2012 42.00p Jul 2022 12.1p 590,000 590,000
+December 2012 39.00p Dec 2022 13.6p 1,276,191 1,276,191
+Advisor share options:
+May 2006 100.67p May 2013 54.8p – 250,560
+April 2011 100.67p May 2013 1.1p – 136,165
+June 2012 100.67p May 2013 1.6p – 38,672
+2,770,991 3,312,388
+Microsaic Systems plc Annual Report and Financial Statements 2013 37
+Microsaic_pp20_44_Microsaic_pp20-44  07/05/2014  10:35  Page 37 22. Share-based payments (continued)
+Share Incentive plan (SIP)
+All employees are eligible to participate in the Company’s HM Revenue and Customs approved SIP after 12 months’
+service. The SIP operated for the first time in 2013. Participating employees made a cash contribution to the plan from
+their gross pay which was used by the Plan Trust to purchase Partnership Shares. The Company issued one Matching
+Share for each two Partnership Shares. The Matching shares vest on the completion by the participating employee of a
+further three years’ service and can be withdrawn from the plan tax-free after five years’ service.
+There were 4 participants in the scheme at 31 December 2013. During the year the Company issued 11,457
+ordinary shares as Partnership shares into the SIP for consideration of £5,500. 5,728 ordinary shares were issued as
+Matching shares with a market value of £2,750. At the year end the SIP held 17,185 ordinary shares (2012: nil) on
+behalf of the scheme participants. The fair value of the Matching Shares is taken as the Company share price at the
+time of the granting, and this is charged to the statement of income over the three year vesting period. The charge for
+2013 was £458 (2012: nil).
+23. Financial instruments
+The Company’s financial instruments comprise cash and various trade receivables and trade payables that arise
+directly from its operations. No trading in financial instruments is undertaken.
+The main risks arising from the Company’s financial instruments are liquidity, currency and interest rate. The Board
+oversees the management of these risks, which are summarised below.
+Liquidity risk
+The Company is financing its operations from equity funding provided by shareholders and revenues generated by the
+business. The Company seeks to manage liquidity risk to ensure sufficient funds are available to meet requirements. 
+The Company invests its cash reserves in bank and money market deposits as a liquid resource to fund its operations.
+The Company’s strategy for managing cash is to maximise interest income at low risk whilst ensuring availability to
+match the profile of the Company’s cash flows.
+Interest rate risk
+The Company does not face any significant interest rate risk as it has no borrowings.
+Surplus funds are invested to maintain a balance between accessibility of funds and competitive rates of return whilst
+investing funds safely.
+Credit risk
+The Company manages its credit risk in cash and cash equivalents by spreading surplus funds between creditworthy
+financial institutions. 
+The Company is also exposed to credit risk attributable to trade and other receivables. The maximum credit risk
+in respect of the financial assets at each period end is represented by the balance outstanding on trade and other
+receivables. The Company has limited exposure to credit risk, as the majority of its trade and other receivables are
+due from major international corporations and institutions. 
+Foreign currency risk
+The Company is based in the United Kingdom and the majority of its transactions are denominated in pounds sterling.
+The Company has no long term commitments to purchase goods or services in foreign currencies. Purchases
+denominated in foreign currency are expensed at the exchange rate prevailing at the date of the transaction, and
+comprise an immaterial proportion of the Company’s total expenditure. 
+The only assets and liabilities denominated in foreign currencies relate to trade receivables and trade payables with
+overseas counterparties together with small balances of US dollar and Euro currencies to settle these liabilities.
+The risks and sums involved are considered to be immaterial.
+38 Microsaic Systems plc Annual Report and Financial Statements 2013
+Notes to the financial statements (continued)
+for the year ended 31 December 2013
+Microsaic_pp20_44_Microsaic_pp20-44  07/05/2014  10:35  Page 38 Where a significant transaction in a foreign currency is anticipated with a high degree of certainty, the Company takes
+out a forward exchange contract to mitigate the risk of currency fluctuation. No such instruments were held at
+31 December 2013.
+Fair values
+The Directors consider that there is no material difference between the book value and the fair value of the financial
+instruments at 31 December 2013 and 31 December 2012.
+Capital management
+The Company’s capital base comprises equity attributable to shareholders, particularly as represented by cash. As the
+Company’s focus has been on establishing itself as a successful supplier of scientific instruments, the primary objective
+in managing cash spend has been to achieve progress on product development and commercialisation in a cost
+efficient manner and in managing liquidity risk to ensure the Company continues as a going concern.
+24. Related party transactions
+The remuneration paid to the Directors is shown in note 20 to the financial statements and in the Directors’ remuneration
+report.
+There were no other related party transactions.
+25. Control
+As at 31 December 2013, no individual shareholder had a controlling interest in the Company.
+26. Subsequent events
+There have been no significant events after the balance sheet date.
+Microsaic Systems plc Annual Report and Financial Statements 2013 39
+Microsaic_pp20_44_Microsaic_pp20-44  07/05/2014  10:35  Page 39 Microsaic Systems plc
+Company number 3568010
+Notice is hereby given that the Annual General Meeting of Microsaic Systems plc (the “Company”) shall be held at the
+offices of Numis Securities Limited, The London Stock Exchange Building, 10 Paternoster Square, London EC4M 7LT
+on 2 June 2014 at 11 a.m. for the purpose of considering and, if thought fit, passing the following resolutions of which
+resolutions 1 to 6 inclusive shall be proposed as ordinary resolutions and resolution 7 shall be proposed as a special
+resolution.
+Ordinary resolutions
+1. THAT the Company’s financial statements for the year ended on 31 December 2013, together with the Directors’
+report and auditors’ report thereon, be and are hereby received and adopted;
+2. THAT upon the recommendation of the Directors, Saffery Champness be and hereby are reappointed as auditors to
+the Company, and that the Board be authorised to fix the remuneration of the auditors;
+3. THAT Andrew Hamish Darby be and hereby is re-appointed as a Director of the Company, following his appointment
+to the Board with effect from 16 April 2014 and his subsequent retirement pursuant to Article 81.1(a) of the articles of
+association of the Company (the “Articles”);
+4. THAT Peter Ivor Tudor Edwards be and hereby is re-appointed as a Director of the Company, following his retirement
+pursuant to Article 81.1(b) of the Articles;
+5. THAT Eric Morgan Yeatman be and hereby is re-appointed as a Director of the Company, following his retirement
+pursuant to Article 81.1(c) of the Articles;
+6. THAT the Directors be and are hereby generally and unconditionally authorised, in accordance with section 551 of
+the Companies Act 2006, to exercise all the powers of the Company to allot equity securities (as defined by section
+560 of the Companies Act 2006) up to an aggregate nominal value of £43,756.98, representing one third of the
+Company’s issued share capital at the date of this document, provided that this authority shall (unless renewed, varied
+or extended by the Company in general meeting) expire on the date which is 15 months after the date on which this
+resolution is passed or, if earlier, on the conclusion of the next annual general meeting of the Company, save that the
+Company may before such expiry make an offer or agreement which would or might require equity securities to be
+allotted after such expiry, and the Directors may allot such equity securities in pursuance of such offer or agreement
+as if this authority had not expired, and provided further that this authority shall revoke and replace all unexercised
+authorities previously granted to the Directors to allot shares but without prejudice to any allotment of shares or grant
+of rights already made, offered or agreed to be made pursuant to such authorities;
+Special resolution
+7. THAT the Directors be and are hereby empowered, pursuant to section 570 of the Companies Act 2006, to allot
+equity securities (as defined by section 560 of the Companies Act 2006) for cash as if section 561(1) of the
+Companies Act 2006 did not apply to any such allotment, provided that this power shall be limited to:
+(a) the allotment of equity securities pursuant to an offer or issue by way of rights, open offer or other pre-emptive
+offer:
+(i) to the holders of ordinary shares in the capital of the Company and other persons entitled to participate
+therein in proportion (as nearly as may be practicable) to their respective holdings; and
+(ii) to holders of other equity securities as required by the rights of those securities or as the Directors otherwise
+consider necessary, but subject to such exclusions or other arrangements as the Directors may deem
+necessary or expedient in relation to treasury shares, fractional entitlements, record dates, legal or practical
+problems in or under the laws of any territory or the requirements of any regulatory body or stock exchange;
+and
+40 Microsaic Systems plc Annual Report and Financial Statements 2013
+Notice of the annual general meeting
+Microsaic_pp20_44_Microsaic_pp20-44  07/05/2014  10:35  Page 40 (b) the allotment (otherwise than pursuant to resolution 7(a) above) of equity securities up to an aggregate nominal
+amount of £26,254.19 representing 20 (twenty) per cent. of the Company’s issued share capital at the date of
+this document, and such power shall expire (if it has not previously expired by non-fulfilment of conditions) on the
+date which is 15 months after the date on which this resolution is passed or, if earlier, the conclusion of the
+Company’s next annual general meeting (unless renewed, varied or revoked by the Company prior to or on such
+date) save that the Company may, before such expiry make offers or agreements which would or might require
+equity securities to be allotted after such expiry and the Directors may allot equity securities in pursuance of any
+such offer or agreement notwithstanding that the power conferred by this resolution has expired. 
+provided that this authority revokes and replaces all unexercised powers previously granted to the Directors to allot
+equity securities as if section 561(1) of the Companies Act 2006 did not apply but without prejudice to any allotment
+of equity securities already made or agreed to be made pursuant to such authorities. 
+By order of the Board
+Andrew Holmes
+Company Secretary
+8 May 2014
+Explanatory comments on the resolutions proposed at the Annual General Meeting (the “Meeting”) of the
+Company to be held at the offices of Numis Securities Limited, The London Stock Exchange Building,
+10 Paternoster Square, London EC4M 7LT on 2 June 2014 at 11 a.m.
+Resolution 1 – The Company is required by its Articles and by the Companies Act 2006 to lay the Directors’ and auditors’
+reports and copies of the annual accounts before the Meeting.
+Resolution 2 – This resolution concerns the re-appointment of Saffery Champness (“SC”), recommended by the Directors,
+as auditors to the Company. Whilst resolving to reappoint SC as auditors to the Company, the resolution also authorises
+the Board to fix the auditors’ remuneration.
+Resolutions 3 to 5 – Directors appointed by the Board since the last annual general meeting are required to retire from
+office by the Articles of the Company and seek re-appointment at the Meeting. Similarly, a minimum of one third of the
+Directors are also required to retire each year and seek re-appointment at the Meeting. Biographies of the Directors are
+contained in the Company’s annual report for the year ended 31 December 2013.
+Resolutions 6 and 7 – These resolutions concern the authority of the Directors to allot up to one third of the Company’s
+existing issued share capital (including up to 20 per cent. as if the statutory pre-emption rights did not apply, so as to raise
+funds at short notice).
+Please also read the notes below which provide further information in respect of the Meeting.
+Registered Office
+GMS House
+Boundary Road
+Woking
+Surrey
+GU21 5BX
+Microsaic Systems plc Annual Report and Financial Statements 2013 41
+Microsaic_pp20_44_Microsaic_pp20-44  07/05/2014  10:35  Page 41 The following notes explain your general rights as a shareholder and your rights to attend and vote at the
+Meeting or to appoint someone else to vote on your behalf
+Notes
+Quorum
+1. The quorum for the Meeting shall be two shareholders present in person or by proxy. If, within fifteen minutes from the
+appointed time for the Meeting, a quorum is not present, then the Meeting will stand adjourned to the same day in the
+next week (or if that day is a public holiday to the next working day thereafter) at the same time and place or to such
+other day, time or place as the Directors may determine and no notice of such adjournment need be given. At an
+adjourned Meeting, shareholders present in person or by proxy will form a quorum.
+Website address
+2. Information regarding the Meeting, including information required by section 311A of the Companies Act 2006,
+is available from www.microsaic.com
+Entitlement to attend and vote
+3. Only those holders of ordinary shares of 0.25p each in the capital of the Company (“Shares”) registered on the
+Company’s register of members at 6 p.m. on 29 May 2014 shall be entitled to attend and vote at the Meeting.
+Appointment of proxies
+4. Members entitled to attend, speak and vote at the Meeting (in accordance with Note 3 above) are entitled to appoint
+one or more proxies to attend, speak and vote in their place. If you wish to appoint a proxy please use the form of proxy
+enclosed with this document (the “Form of Proxy”). In the case of joint members, only one need sign the Form of Proxy.
+The vote of the senior joint member will be accepted to the exclusion of the votes of the other joint members. For this
+purpose, seniority will be determined by the order in which the names of the members appear in the register of members
+in respect of the joint shareholding. The completion and return of the Form of Proxy will not stop you attending and
+voting in person at the Meeting should you wish to do so. A proxy need not be a member of the Company. You may
+appoint more than one proxy provided each proxy is appointed to exercise the rights attached to a different share or
+shares held by you. If you choose to appoint multiple proxies use a separate copy of this form (which you may
+photocopy) for each proxy, and indicate after the proxy’s name the number of shares in relation to which they are
+authorised to act (which, in aggregate, should not exceed the number of Shares held by you). Please also indicate if the
+proxy instruction is one of multiple instructions being given. All forms must be signed and returned in the same envelope.
+5. You can appoint the Chairman of the Meeting, or any other person, as your proxy. If you wish to appoint someone other
+than the Chairman, cross out the words “the Chairman of the Meeting” on the Form of Proxy and insert the full name
+of your appointee.
+6. You can instruct your proxy how to vote on each resolution by ticking the “For” and “Against” boxes as appropriate (or
+entering the number of shares which you are entitled to vote). If you wish to abstain from voting on any resolution please
+tick the box which is marked “Vote Withheld”. It should be noted that a vote withheld is not a vote in law and will not be
+counted in the calculation of the proportion of votes “For” and “Against” a resolution. 
+If you do not indicate on the Form of Proxy how your proxy should vote, he/she can exercise his/her discretion as to
+whether, and if how so how, he/she votes on each resolution, as he/she will do in respect of any other business (including
+amendments to resolutions) which may properly be conducted at the Meeting.
+A member that is a company or other organisation not having a physical presence cannot attend in person but can
+appoint someone to represent it. This can be done in one of two ways: either by the appointment of a proxy (described
+in Notes 4 to 6 above) or of a corporate representative. Members considering the appointment of a corporate
+representative should check their own legal position, the Company’s articles of association and the relevant provision
+of the Companies Act 2006
+A company incorporated in England and Wales or Northern Ireland should execute the Form of Proxy under its common
+seal or otherwise in accordance with Section 44 of the Companies Act 2006 or by signature on its behalf by a duly
+authorised officer or attorney whose power of attorney or other authority should be enclosed with the Form of Proxy.
+42 Microsaic Systems plc Annual Report and Financial Statements 2013
+Notice of the annual general meeting (continued)
+Microsaic_pp20_44_Microsaic_pp20-44  07/05/2014  10:35  Page 42 Appointment of proxy using hard copy form
+7. The Form of Proxy and any power of attorney (or a notarially certified copy or office copy thereof) under which it is
+executed must be received by Capita Asset Services at PXS1, 34 Beckenham Road, Beckenham, BR3 4ZF , United
+Kingdom at 11 a.m. on 29 May 2014 in respect of the Meeting. Any Forms of Proxy received before such time will be
+deemed to have been received at such time. In the case of an adjournment, the Form of Proxy must be received by
+Capita Asset Services no later than 48 hours before the rescheduled Meeting.
+On completing the Form of Proxy, sign it and return it to Capita Asset Services at the address shown on the reverse of the
+Form of Proxy. As postage has been prepaid no stamp is required. You may, if you prefer, return the Form of Proxy in
+a sealed envelope to the address shown above.
+Termination of proxy appointments
+8. In order to revoke a proxy instruction you will need to inform the Company. Please send a signed hard copy notice clearly
+stating your intention to revoke your proxy appointment to Capita Asset Services at PXS1, 34 Beckenham Road,
+Beckenham, BR3 4ZF , United Kingdom.
+In the case of a member which is a company incorporated in England and Wales or Northern Ireland, the revocation
+notice must be executed under its common seal or otherwise in accordance with section 44 of the Companies Act 2006
+or by signature on its behalf by an officer or attorney whose power of attorney or other authority should be included with
+the revocation notice. 
+If you attempt to revoke your proxy appointment but the revocation is received after the time of the Meeting or the taking
+of the vote at which the proxy is used, then, subject to the paragraph directly below, your proxy will remain valid.
+If you submit more than one valid proxy appointment in respect of the same Shares, the appointment received last before
+the latest time for receipt of proxies will take precedence.
+Completion of a Form of Proxy will not preclude a member from attending and voting in person. If you have appointed
+a proxy and attend the Meeting in person, your proxy appointment will be automatically terminated.
+Issued shares and total voting rights
+9. The total number of Shares in issue in the capital of the Company at the date of this notice is 52,508,376 ordinary
+shares of 0.25p each. 
+On a vote by a show of hands, every holder of Shares who (being an individual) is present in person, by proxy or (being
+a corporation) is present by a duly authorised representative, not being himself a member, shall have one vote. On a poll
+every holder of Shares who is present in person or by proxy shall have one vote for every complete Share held by him
+and such proportion of a vote that represents the number of fractions of a Share so held.
+Communication
+10. Except as provided above, members who have general queries about the Meeting should use the following means
+of communication (no other methods of communication will be accepted):
+• calling Capita Asset Services’ shareholder helpline (lines are open from 9.00am to 5.00pm Monday to Friday,
+excluding public holidays):
+(i) From the UK: 0871 664 0300 (calls cost 10p per minute plus network extras);
+(ii) From outside the UK: +44 208 639 3399 (calls from outside the UK are charged at applicable international
+rates); or
+• in writing to Capita Asset Services at The Registry, 34 Beckenham Road, Beckenham, BR3 4TU, United Kingdom.
+You may not use any electronic address provided either:
+• in this notice of Meeting; or
+• any related documents (including the Form of Proxy for this Meeting), to communicate with the Company for any
+purposes other than those expressly stated.
+Microsaic Systems plc Annual Report and Financial Statements 2013 43
+Microsaic_pp20_44_Microsaic_pp20-44  07/05/2014  10:35  Page 43 Directors C J Nicholl Chairman
+C R Jump Chief Executive Officer
+A H Darby
+P I T Edwards
+A S Holmes
+J C Ramage
+E M Yeatman
+Company Secretary A S Holmes
+Company number 3568010
+Company website www.microsaic.com
+Registered office GMS House
+Boundary Road
+Woking
+Surrey 
+GU21 5BX
+Auditors Saffery Champness
+Chartered Accountants
+Lion House
+Red Lion Street
+London 
+WC1R 4GB
+Bankers HSBC Bank plc
+95 Gloucester Road
+London 
+SW7 4SX
+Solicitors Dorsey & Whitney (Europe) LLP
+199 Bishopsgate
+London 
+EC2M 3UT
+Nominated adviser and broker Numis Securities Limited
+The Stock Exchange Building
+10 Paternoster Square
+London 
+EC4M 7LT
+Registrars Capita Asset Services
+The Registry
+34 Beckenham Road
+Beckenham 
+Kent 
+BR3 4TU
+Financial PR Citigate Dewe Rogerson Limited
+3 London Wall Buildings
+London Wall
+London 
+EC2M 5SY
+Corporate information and advisors
+44 Microsaic Systems plc Annual Report and Financial Statements 2013
+Microsaic_pp20_44_Microsaic_pp20-44  07/05/2014  10:35  Page 44 Linkway Financial Printers
+Typeset & Printed in London (UK) 16290
+Microsaic Cover 4pp cover_Microsaic Cover 4pp cover  07/05/2014  10:48  Page 4 Microsaic Systems plc
+GMS House
+Boundary Road
+Woking
+Surrey  GU21 5BX
+UK
+T:  +44 (0)1483 751577
+F:  +44 (0)1483 757901
+E:  info@microsaic.com
+W: www.microsaic.com
+  
+  
+ 
+ 
+ 
+ 
+Microsaic Cover 4pp cover_Microsaic Cover 4pp cover  07/05/2014  10:48  Page 1

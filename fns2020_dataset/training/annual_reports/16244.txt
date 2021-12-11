@@ -1,0 +1,1806 @@
+ Do you see what we see?
+Ubiquity Software Corporation PLC
+Annual report and financial statements 2005
+UK Office
+Eastern Business Park
+Building 3
+Wern Fawr Lane
+St Mellons
+Cardiff CF3 5EA
+T:  +44 (0) 29 2081 7500
+F:  +44 (0) 29 2081 7501
+US Office
+203 Redwood Shores Parkway
+Suite 500
+Redwood City
+CA 94065
+T:  +1 (650) 413 7100
+F:  +1 (650) 413 7120
+Canada Office
+515 Legget Drive
+Suite 400
+Ottawa
+Ontario K2K 3G4
+T: +1 (613) 271 2027
+F:  +1 (613) 271 8817
+Japan Office
+Level 15
+JT Building
+2-2-1 Toranomon
+Minato-ku
+Tokyo 105-0001
+T:  +81 (0)3 5114 8368
+F:  +81 (0)3 5114 8282
+China Office
+Suite 806A
+Union Plaza
+No. 20
+Chao Wai Da Jie
+Beijing 100020
+T:  +86 (10) 6588 7052/53
+F:  +86 (10) 6588 7054
+Customer Support
+In Europe and Asia
+T: +44 2920 817600
+In the Americas
+T: +1 888 830 5477
+T: +1 650 413 7125
+Ubiquity Software Corporation PLC  Annual report and financial statements 2005 Ubiquity Software develops and markets 
+SIP-based communications software  
+for fixed and mobile Service Providers, 
+System Integrators, Independent Software 
+Vendors and OEM partners worldwide.
+01	 Highlights
+02	 Ubiquity 	 at	 a	 glance
+Annual report and financial statements
+04	 Chairman’ s 	 statement
+06	 Chief 	 Executive’ s	 statement	 10	 Chief 	 Financial	 Officer’ s	 statement
+12	 Board 	 of	 Directors
+13	 Directors’ 	 report
+15	 Corporate 	 governance	 statement	 17	 Directors’ 	 remuneration	 report
+21	 Statement 	 of	 Directors’	 responsibilities
+22	 Independent 	 Auditors’	 report
+24	 Consolidated 	 profit	 and	 loss	 account
+25	 Combined 	 statement	 of	 movement	 in	 shareholders’	 funds	 and	 reconciliation	 	 of	 movements	 on	 reserves
+26	 Consolidated 	 balance	 sheet
+27	 Company 	 balance	 sheet
+28	 Consolidated 	 cash	 flow	 statement
+29	 Notes 	 to	 the	 financial	 statements
+42	 Company 	 information
+43	 Financial 	 calendar
+©	2006	Ubiquity	Software	Corporation	plc.	All	rights	reserved.		Ubiquity	is	a	 registered	trademark	of	Ubiquity	Software	Corporation	plc.	All	other	products,	 company	names,	logos,	and	services	are	the	trademarks	of	the	respective	holders. Ubiquity Software Corporation PLC  20 million
+>
+Highlights
+3 billion
+>
+ In 2005, contracts signed with Bell Canada 
+and two Tier-1 US Carriers. Since year-end 
+two further contracts with Tier-1 global 
+Carriers won via our partners
+ Network Equipment Vendor agreements 
+signed in 2005 include HP , Nokia and 
+Huawei. Since year-end agreement signed 
+with Lucent and integration completed with 
+Microsoft Connected Services Framework
+n
+n
+ Since the 2005 year-end, signed a contract 
+with Tier-1 UK carrier for the supply of 
+Ubiquity’s SIP Application Server
+ Chris Burke former CTO of Vodafone UK 
+joined the Board as Non-Executive 
+Chairman. David Seibel former Chairman  
+of Accenture Canada appointed as a  
+Non-Executive Director and as Chairman  
+of the Audit Committee
+n
+n
+Only 20 million have 
+switched to Voice over 
+Internet Protocol.
+In the world today, there are  
+3 billion telephone users. 
+Gatner Group 2005 
+Gatner Group 2005   Ubiquity Software Corporation PLC 
+Ubiquity SIP 
+Application Server
+The Telecoms 
+Industry
+Market
+Opportunity
+The hundred year old 
+telecommunications industry is 
+undergoing a fundamental and 
+highly disruptive transition. 
+Antiquated, voice-centric, “circuit-
+switched” networks are giving way 
+to digital, Internet Protocol (IP) 
+based packet networks that 
+enable the swift, efficient delivery 
+of voice, video and data services 
+in a ubiquitous manner to end 
+users, anytime and anywhere. This 
+is reshaping the industry’s overall 
+structure, and opening the door 
+to a new set of companies that 
+bring an Internet-centric approach 
+to delivering innovation within 
+the $2.1 trillion worldwide 
+telecommunications industry.
+Ubiquity’s award-winning  
+SIP Application Server (SIP A/S)  
+is a Java-based software platform 
+that allows telecom Service 
+Providers to develop and deploy 
+next-generation converged 
+communications services faster 
+and more easily than using 
+traditional methods.
+SIP A/S brings the distributed, 
+open application development 
+model of the Internet to 
+telecommunications. This 
+maximizes the ability of an 
+application developer to reuse 
+features and components from 
+one service offering to another 
+using open, familiar application 
+programming interfaces (APIs). 
+Migrating Internet development 
+practices to the telecoms industry 
+enables Service Providers and 
+applications developers to create 
+and rapidly deploy different 
+SIP-based applications across 
+fixed and mobile networks.
+The Yankee Group forecasts  
+the market for telecom-grade,  
+SIP-based Application Servers will 
+reach $4.7 billion by 2009, as they 
+are deployed for a myriad of 
+enhanced IP services, as well as  
+for service mediation and other 
+application routing functions within 
+the IP network. Yankee Group also 
+believes the opportunity for  
+SIP-based Application Servers will 
+be fully exploited by the advent of 
+IP Multimedia Subsystems within 
+carrier IP core networks as well as 
+the emergence of robust Service 
+Delivery Platforms within Service 
+Provider’ s networks.
+Ubiquity Software develops and markets 
+SIP-based communications software for 
+fixed and mobile Service Providers, System 
+Integrators, Independent Software 
+Vendors and OEM partners worldwide.
+Ubiquity at a glance  Ubiquity Software Corporation PLC
+Our Partners
+n Apertio
+n Brooktrout
+n Convedia
+n HP
+n Huawei
+n Microsoft
+n Lucent
+n Motorola
+n Movial
+n NEC
+n NewHeights
+n  Newport 
+Networks
+n Nokia
+n Nortel
+n Qualphone
+n Siemens
+n Sun
+n WebDialogs
+performance 
+& scalability Ubiquity Software Corporation PLC Annual report and financial statements 2005  Ubiquity Software Corporation PLC Annual report and financial statements 2005
+I became the Chairman of 
+Ubiquity in May 2005 timed with 
+the Company’s flotation on AIM. 
+Having spent the last 22 years in 
+the telecommunications industry 
+in roles ranging from Research  
+and Development through to 
+Chief Technology Officer of both 
+a fixed line and mobile operator,  
+I feel adequately grounded  
+to comment on the evolution  
+of technology in the 
+telecommunications industry.  
+It is my belief that Ubiquity is 
+uniquely positioned to take 
+advantage of the next round  
+of fundamental changes in the 
+telecommunications industry. 
+These changes are generally 
+characterised as the convergence 
+of information technology and 
+telecommunications technology. 
+This convergence will result in 
+large open standard information 
+technology-based architectures, 
+products and services which  
+were previously dominated  
+by proprietary and expensive 
+technology solutions. Industry 
+analysts project this spend to be 
+over $30 billion in the next several 
+years. Over time the ultimate 
+customers will have better value, 
+variety and better designed and 
+complementary families of 
+products and services available  
+to them. 
+The evolution to next-generation 
+architectures and their resultant 
+products and services will take 
+place at different paces for 
+different Service Providers. The 
+technology will also give rise to 
+completely new Service Providers 
+of which NetZero and Skype are 
+outstanding examples. One can 
+see very ambitious evolutions in 
+some of the traditional fixed-line 
+Service Providers, and one can see 
+Service Providers who have yet to 
+come to grips with the changes 
+enabled by this technology. 
+Ubiquity provides a very complex 
+and important part of the new 
+architecture which facilitates the 
+creation, coordination, and 
+sharing of common resources  
+for new products and services.
+You can best think of Ubiquity’s 
+offering as having two major 
+elements. First, it has a super-high-
+capacity server to run complex 
+and valuable services for Service 
+Providers (services in the future will 
+be written in a way that is much 
+more consistent with rich web 
+pages than monolithic, vertically 
+integrated software). Second, 
+Ubiquity provides the tools and 
+service creation environment to 
+make the job of designing services 
+(particularly those which can or 
+should inter-operate with other 
+services) much easier and 
+inherently faster. Early architecture 
+wins and the selection of Ubiquity 
+as a partner by many of the large 
+suppliers to the Service Providers’ 
+space is a good indication of the 
+respect and reputation that 
+Ubiquity continues to build.
+The Board
+Leading to the preparation for the 
+flotation, there were a number  
+of changes to the Board of 
+Directors, mostly driven by our 
+appetite to comply with best 
+practice recommendations.  
+I would like to thank those 
+Directors who left the Board for 
+their contribution during their 
+This exciting evolution in the 
+telecommunications industry provides 
+a tremendous opportunity; however, it 
+is not without challenges. Companies 
+like Ubiquity will have to both lead and 
+serve this evolution.
+Chairman’s statement
+Chris Burke, Chairman of the Board Ubiquity Software Corporation PLC Annual report and financial statements 2005 Ubiquity Software Corporation PLC Annual report and financial statements 2005   
+tenure. I would also like to 
+welcome a new Board member 
+and a new Company Secretary 
+who joined with me this year. 
+David Seibel, who brings a wealth 
+of experience from his former 
+position as Chairman of Accenture 
+Canada, also joined the Board as  
+a Non-Executive Director and is 
+Chairman of the Audit Committee.
+Rafferty Atha Jackson, a former 
+associate general counsel from 
+Macromedia, joined the Company 
+in 2004 as General Counsel  
+and was appointed to Company 
+Secretary in May 2005. 
+The Advisory Board
+We also have an Advisory Board. 
+This Advisory Board is chaired by 
+Patrick Smith, who brings 
+significant experience to the role 
+as a former executive board 
+member of Sprint US and Sprint 
+Canada. The composition of the 
+Advisory Board is designed to be 
+dynamic and fluid. Depending 
+upon specific windows of strategic 
+execution, the Advisory Board 
+pulls on various executives and 
+skill sets from within the industry. 
+The mandate of the Advisory 
+Board is to enhance shareholder 
+value by providing executive 
+management with support and 
+advice from leaders in industry, 
+academia and professional 
+societies with a focus on 
+development of strategic business 
+opportunities, product strategy 
+and brand.
+Outlook
+This exciting evolution in the 
+telecommunications industry 
+provides a tremendous 
+opportunity; however, it is not 
+without challenges. Companies 
+like Ubiquity will have to both lead 
+and serve this evolution. The 
+threats to the Service Providers as 
+we know them today are obvious 
+and well documented, but very 
+difficult for them to address. There 
+are few parallels and precedents 
+for this magnitude of change in 
+this industry. As such, predicting 
+the speed of reaction of the 
+various fixed, wireless and cable 
+Carriers, across multiple 
+geographies, all with differing 
+competitive challenges and 
+evolving pricing strategies, is very 
+difficult. We will therefore continue 
+to carefully invest in line with our 
+financial goal of matching revenue 
+growth with required expenses to 
+meet the demand of delivering to 
+a growing customer base. What is 
+predictable and inevitable is that 
+all of the various fixed, wireless, 
+and cable Carriers have started 
+moving towards addressing this 
+evolution. I have every faith in the 
+role Ubiquity is to play and the 
+value it brings across the spectrum 
+of new Service Providers to  
+mega-Carriers. We have an 
+excellent reputation in the industry, 
+a great and growing base of 
+customers, and a strong financial 
+position that I believe will enable 
+us to grow as we develop with  
+the market. We are very excited 
+about our prospects. 
+Chris Burke
+Chairman
+3 billion
+>
+In the world today, there are  
+3 billion telephone users, only 
+20 million have switched to 
+Voice over Internet Protocol.
+Gatner Group Ubiquity Software Corporation PLC Annual report and financial statements 2005  Ubiquity Software Corporation PLC Annual report and financial statements 2005
+ 00 in review
+In 2005, our revenues grew 40% 
+year over year; we captured several 
+new key customers; we developed 
+or strengthened relationships  
+with global channel partners; 
+we introduced pre-packaged 
+applications intended to drive 
+commercial deployments of our  
+SIP Application Server; and we 
+prepared the Company for growth 
+by raising £20 million through the 
+floatation on AIM.
+During 2005, we were selected by a 
+number of customers that we plan 
+to leverage in order to accelerate 
+our growth in the SIP market in 
+2006 and beyond. First, we 
+announced a deployment with 
+United Online Inc (Netzero), an 
+alternative Service Provider based 
+in the US who is an early adopter of 
+Voice over Internet Protocol (VoIP) 
+services. Second, we won 
+numerous trial engagements with 
+the early adopter Carriers that 
+include 7 of the 12 industry 
+recognised leading global Carriers. 
+Finally, we signed contracts with 
+Bell Canada and another two Tier-1 
+US Carriers and subsequent to the 
+2005 year-end, two further Tier-1 
+global Carriers via our partners. 
+These contracts currently represent 
+relatively small amounts of revenue 
+through the sale of licences for 
+development and initial small-scale 
+deployments. I believe that these 
+wins will form the foundation of  
+our future revenues, which will  
+grow as multiple new and existing 
+applications are deployed on our 
+SIP Application Server. I also believe 
+that through our hard work and 
+continued efforts at moving our 
+customers into wide-scale 
+deployments we have earned the 
+right to be recognised as a leader 
+in the SIP marketplace in 2006  
+and beyond. 
+In addition to winning the 
+architectural beachhead with 
+specific Carriers, we have been 
+successful in establishing 
+partnerships with leading Network 
+Equipment Vendors (NEVs), 
+including HP , Nokia, Lucent, 
+Siemens and Huawei and play an 
+important role in their product 
+portfolio with our open,  
+standards-based SIP platform.  
+We return value to these partners 
+by way of the applications 
+delivered on our platform, which 
+helps drive sales of their media 
+servers, gateways, session-border 
+controllers and other IMS-based 
+network elements. These 
+relationships provide incentives to 
+work together on joint marketing 
+and selling activities where both 
+parties can be successful. It is 
+through these partnerships that  
+a company of Ubiquity’s size and 
+scale is able to sell to and fulfil 
+Tier-1 Carrier requirements and we 
+therefore value them very highly. 
+Going forward our focus will be  
+on helping our partners become 
+even more effective in selling our 
+products. We intend to further 
+leverage this sales model to 
+accelerate our growth and further 
+extend our global reach.
+We also enjoy the benefit of 
+complementary technology 
+partners such as HP and Microsoft 
+where our products are integrated 
+into overall Service Delivery 
+Platforms. These technologies are 
+then used together to design, 
+Chief Executive’s statement 
+We won numerous trial engagements with the early 
+adopter Carriers that include 7 of the 12 industry 
+recognised leading global Carriers. Additionally, we 
+signed contracts with Bell Canada and another two 
+Tier-1 US Carriers and subsequent to the 2005 year-end, 
+two further Tier-1 global Carriers via our partners.
+Ian McLaren, President and Chief Executive Ubiquity Software Corporation PLC Annual report and financial statements 2005 Ubiquity Software Corporation PLC Annual report and financial statements 2005  develop and deliver specific 
+solutions in a common repeatable 
+framework. Recently, we 
+co-hosted a “developer’s 
+hothouse” with Microsoft for 
+British Telecom where we helped 
+developers from around the world 
+conceptualise, design, develop 
+and demonstrate several 
+applications created on the 
+Ubiquity SIP Application Server. 
+This was a compressed two-week 
+exercise that demonstrated  
+the speed and flexibility of 
+development using our rapid 
+service creation environment. 
+Additionally, we have worked  
+with Microsoft to integrate our  
+SIP Application Server with their 
+web-services-enabled Connected 
+Services Framework (CSF). The 
+resulting “I’m Lost” application 
+showcases our combined 
+strengths by allowing a mobile 
+subscriber to access an address  
+in their remote Outlook calendar, 
+map the location of the address, 
+and to get driving directions 
+spoken to them via natural speech 
+technology over their mobile 
+phone. This is just one example  
+of how we intend to leverage our 
+partners to help deliver new,  
+high-value services to our carrier 
+customers in the future.
+In 2005, we continued to invest in 
+our SIP Application Server Platform, 
+mediation platform and 
+application-creation environment. 
+We also invested in pre-packaged 
+application products that our 
+customers can deploy quickly for 
+a faster return on our investment 
+with little or no professional 
+services support. Currently, there 
+are an estimated 3 billion users of 
+the Public Switched T elephone 
+Network (PSTN), and less then 20 
+million users of VoIP , representing 
+a tremendous opportunity for 
+Carriers to capture new subscribers 
+as they migrate to VoIP . 
+Recognising this opportunity, 
+Ubiquity has introduced Voice Plus, 
+a pre-packaged consumer VoIP 
+solution that allows Carriers, 
+Internet Service Providers (ISPs), 
+and alternative Carriers to 
+participate and compete in this 
+growing market. Voice Plus is 
+developed and deployed on our  
+SIP Application Server Platform 
+and is designed to make it easy 
+for Service Providers to add new 
+features and scale to millions  
+of subscribers. 
+IP conferencing is another strategic 
+application area for Ubiquity as 
+conferencing minutes of use are 
+growing significantly. Legacy 
+conferencing applications are not 
+proving to serve mobile users well 
+as they have difficulty capitalising 
+on the advanced capabilities of the 
+web. SPEAK Conference Director 
+is a pre-packaged application that 
+takes advantage of the advanced 
+multimedia capabilities of the  
+SIP Application Server. SPEAK 
+offers a full-featured audio and 
+web conferencing solution at a 
+fraction of the cost of our 
+competitors. Easy-to-use SPEAK 
+web collaboration tools allow 
+moderators to share presentations, 
+web content, applications and 
+documents in real time with 
+individuals and groups around  
+the world. This product is moving 
+into deployment with two Tier-1 
+Carriers, and has several other 
+prospects in the near term.
+While Ubiquity is well prepared 
+to deliver and support the  
+Voice Plus and SPEAK solutions 
+described above, these 
+applications are only two 
+weapons in our strategy to 
+grow our market position 
+going forward. 
+“Being familiar with Ubiquity … and considering 
+they have a lot of mindshare, I have a feeling that 
+they’ll probably do well and this signals more 
+potential down the road.”
+Ron Gruia, Lead Analyst, Emerging T echnology, Frost & Sullivan Ubiquity Software Corporation PLC Annual report and financial statements 2005  Ubiquity Software Corporation PLC Annual report and financial statements 2005
+Chief Executive’s statement continued
+ 00 outlook
+The overall strategy for the 
+Company remains unchanged and 
+clear: to leverage our proven 
+technical strengths and continue 
+to do what we do best:
+ Build on beachhead of customer 
+wins, design wins and trials by 
+helping move our customers 
+towards commercial 
+deployments, and adding new 
+applications over time to 
+aggressively drive subscriber 
+growth on our platform.
+ Foster and grow our 
+relationship with our select 
+channel partners to ensure their 
+success with our platform.
+ Embed our platform in carrier 
+networks and enable ISVs and 
+third parties to develop new 
+applications that drive higher 
+utilisation of our platform and 
+enable our customers to 
+generate a greater return on 
+investment.
+ Manage our financial assets 
+wisely to grow the Company in 
+line with future revenues.
+ In 2006, it is our plan to launch  
+the Ubiquity Developer Network 
+(UDN). UDN will be a progressive 
+developer ecosystem focused on 
+bringing together Carriers, ISVs, 
+application developers, System 
+Integrators and Network 
+•
+•
+•
+•
+In an on-going effort to improve 
+our customer support services, 
+we are in the process of 
+implementing a variety of 
+exciting new tools.
+It is estimated that 
+SIP-based Application 
+Servers will reach 
+$4.7 billion by 2009.
+Yankee Group $4 . 7 billion
+> Ubiquity Software Corporation PLC Annual report and financial statements 2005 Ubiquity Software Corporation PLC Annual report and financial statements 2005  Equipment Vendors to help 
+address the needs of the 
+marketplace. These needs will be 
+articulated by our newly formed 
+Customer Advisory Council  
+made up of Carriers and Service 
+Provider customers. The goal  
+of UDN will be to facilitate the 
+building and delivering of a  
+wide range of applications by 
+providing development tools, 
+access to Carrier networks, 
+technical information, support 
+and advice aimed to take 
+developers from concept through 
+to deployment. We are excited 
+about our customer and key 
+partners support for UDN and 
+believe it will be a key enabler to 
+Ubiquity’s future growth. 
+In summary, I am pleased with 
+what we have accomplished in 
+2005. Our growing customer base 
+and market reputation sets us  
+up well for the future. While  
+we cannot dictate the timing  
+of the market’s full-scale move  
+to IP-based networks, I am 
+confident that Ubiquity and our 
+technologies will be considered  
+a “key” component of the Next 
+Generation Networks. We will 
+continue to focus on winning new 
+customers through technology 
+leadership and world-class 
+partnerships. This will be done 
+with a financial framework that 
+balances revenue growth with 
+expense management as we 
+continue to match our success 
+with the market as it matures.  
+In closing, I would like to extend 
+my appreciation to our investors, 
+customers and partners for their 
+continued support, trust and 
+confidence. I would also like to 
+thank our dedicated employees 
+for their passion and contributions 
+toward making Ubiquity a great 
+company. 
+Ian McLaren
+Chief Executive Officer
+Ubiquity Selected for 
+Next-Generation  
+SIP-Based Applications.
+“Ubiquity’s Application Server and application  
+creation environment allow us to significantly increase 
+the velocity at which we can deliver leading-edge 
+communications applications.”
+Eugene Roman, Group President,  
+Bell Canada Systems & Technology
+Case Study: Bell Canada Ubiquity Software Corporation PLC Annual report and financial statements 2005 0 Ubiquity Software Corporation PLC Annual report and financial statements 2005
+Profit and loss account
+In 2005, we had another year of 
+continued sound growth with 
+turnover increasing 40% to £7.5m 
+(2004: £5.3m). During the year, we 
+also saw significant increases in 
+turnover in our two core operating 
+regions with North America 
+increasing to £4.7m representing 
+growth of 133% (2004: £2.0m) and 
+Europe to £1.6m an increase of 
+58% (2004: £1m). Gross margin 
+was also consistent against 
+turnover remaining at 85% for the 
+year (2004: 85%). In line with our 
+business model, going forward we 
+will maintain focus on delivery of 
+strong gross margins. 
+Operating charges for the year 
+which comprises distribution  
+and administration expenses, 
+increased to £15.6m (2004: 
+£11.0m) of which £6.3m was 
+investment in research and 
+development. This represents an 
+increased investment of 63% year 
+on year (2004: £3.9m). Having 
+established Ubiquity as a leading 
+technology company it will 
+remain important to continue 
+investment in research and 
+development over forthcoming 
+years. All investment in research 
+and development is written off to 
+the profit and loss account in the 
+year that it is incurred. 
+Included in administration expenses 
+is a non-recurring exceptional cost 
+of £0.6m relating to a bad debt 
+provision. Since the year-end, the 
+customer has declared bankruptcy 
+and Ubiquity has filed the 
+appropriate documentation with 
+the administrator to make a claim 
+against its outstanding receivable. 
+However, the prospect of any 
+recovery is remote.
+During the year we changed the 
+basis for estimating income 
+receivable in the form of research 
+and development tax credits 
+from recognition on a cash-
+received basis to accruing 
+income for claims submitted and 
+expected to be submitted based 
+on the qualifying research and 
+development costs incurred  
+up to the balance sheet date.  
+As such the profit and loss 
+account for 2005 reflects £1.9m  
+of income from tax credits 
+representing the actual and 
+anticipated claims for financial 
+years 2003, 2004 and 2005. Of 
+this balance, £0.6m had been 
+received during the year and  
+a further £0.6m was received  
+after the year-end. In line with 
+continued investment in research 
+and development, we expect 
+these tax credits to continue  
+but they will start to reduce as  
+a percentage of research and 
+development investment as the 
+investment focus moves away 
+from innovative, new product 
+design towards product 
+development which supports 
+market penetration. 
+The overall loss for the financial 
+year increased by 18.4% to £6.9m 
+(2004: £5.8m) and the net cash 
+outflow before financing and 
+management of liquid resources 
+was £8.2m which is an increase of 
+15.6% over 2004 (2004: £7.1m). 
+Chief Financial Officer’s statement
+In line with our business model,  
+going forward we will maintain focus  
+on delivery of strong gross margins. 
+Richard Ralph, Chief Financial Officer Ubiquity Software Corporation PLC Annual report and financial statements 2005 Ubiquity Software Corporation PLC Annual report and financial statements 2005  Treasury 
+Ubiquity’s strong cash position is 
+largely due to the successful float 
+of the Company on AIM in May 
+2005, raising £18.6m in net cash 
+proceeds. At the year-end, total 
+cash and short-term investments 
+were £16.3m, of which £5.3m was 
+held in bank accounts with less 
+than 7 days to maturity. A further 
+£11.0m was held in money market 
+deposit accounts.
+Ubiquity has operations outside  
+of the United Kingdom and as 
+such is exposed to exchange-rate 
+movements. To protect cash  
+flows against high levels of  
+exchange-rate risk the Group 
+maintains the majority of its  
+short-term monetary assets in 
+sterling and pursues a natural 
+hedge between local currency 
+receipts and payments wherever 
+possible. Whenever possible, 
+once this natural hedge has been 
+satisfied, funds are held in sterling 
+to minimise any foreign exchange 
+risk arising from the consolidation 
+of overseas operations. At this 
+point, the Group does not enter 
+into any foreign-exchange or 
+derivative contracts to hedge 
+foreign exchange exposures. 
+Through 2005, the Group’s 
+treasury policy has been to 
+maintain a minimum of £10m 
+invested at fixed interest rates in 
+order to provide protection 
+against fluctuating interest rates. 
+Balance Sheet
+At the year-end, debtors had 
+increased to £4.3m (2004: £2.8m), 
+of which approximately £2.1m 
+relates to trade debtors and  
+£1.3m relating to research  
+and development tax credits. 
+Creditors also increased to £2.2m 
+at the end of 2005 (2004: £1.7m) 
+and included £0.6m of deferred 
+revenue which will be largely 
+recognised during 2006. 
+Richard Ralph
+Chief Financial Officer
+“Each year Internet Telephony Magazine bestows its Product of 
+the Year awards on companies that have demonstrated 
+excellence in technologies advancement and application 
+refinements. Ubiquity Software has confirmed that its SIP 
+Application Server has gone the extra mile to facilitate the 
+creation and deployment of enhanced VoIP services.”
+Rich T ehrani, President and Group Publisher of TMC,  
+publisher of Internet T elephony Magazine Ubiquity Software Corporation PLC Annual report and financial statements 2005  Board of Directors
+ . Christopher Burke 
+Non-executive Chairman
+Chris joined the Board in April 2005. He has spent 22 years in the telecoms industry since graduating from 
+Acadia University with a Computer Science degree. Until August 2004, Chris was Chief Technology Officer 
+for Vodafone UK and was responsible for all Vodafone UK technology and product architecture, design, 
+procurement, development, deployment, support and operations. Prior to this, Chris was Chief Technology 
+Officer with Energis (a UK fixed-line carrier) as part of the executive team which led Energis through its IPO.
+ . Ian McLaren 
+Chief Executive Officer 
+and President
+Ian joined the Board in 2001. Prior to joining Ubiquity, Ian held senior executive positions as vice president 
+of marketing at Digital Equipment Corporation (DEC), president of international operations at MCI 
+Systemhouse and, most recently, president and chief executive officer of CrossKeys Systems Corporation. 
+Ian is a Canadian national and is a director on several boards including March Networks Corporation, 
+NewHeights Software Corporation and Solace Systems. He also serves on two advisory boards.
+ . Michael Doyle 
+Executive Director and 
+Chief Technology Officer
+Michael co-founded the Company in 1993. He has over 20 years of telecoms experience and is 
+responsible for all technology functions of the Group. Prior to joining Ubiquity, Michael held various 
+positions at GEC telecommunications, in the software engineering group working on System X. He 
+subsequently became lead network designer at a medical monitoring company which provided one of 
+the first distributed healthcare information systems in the UK. He is an acknowledged expert in the field 
+of Java Performance and Tuning. Michael was one of the co-creators of the SIPStone consortia and holds 
+an Honours degree in Computer Science from University College London.
+ . Simon Gibson OBE 
+Chairman, Remuneration Committee
+Simon co-founded the Company in 1993. He is chief executive of Wesley Clover Corporation, a private 
+holding company and venture capital fund with interests in technology, the leisure industry and 
+commercial real estate. The fund specialises in early stage technology and inter-networking start-ups. 
+Simon also served as vice president of marketing and communications at Newbridge Networks 
+Corporation. He currently sits on the boards of Wesley Clover Corporation, Newport Networks, March 
+Networks Corporation, IQE and Enfis.
+ . David Seibel 
+Chairman, Audit Committee
+David joined the Board in April 2005. He is the former chairman of the board for Accenture Canada Inc. 
+and retired as managing director and chairman of the Geographic Council for Accenture in Canada in 
+September 2003, where he played a key role in the global Accenture organisation as a member of its 
+executive committee. Prior to joining Accenture, David was president of Synerlogic in 1987.
+ . Randl Shure 
+Non-executive Director
+Randl joined the Board in July 2000. Prior to founding CapVest Limited, Randl was the head of  
+BT Capital Partners Europe, which he joined in January 1997 after working for 12 years with Bankers Trust 
+in investment banking in New York and London. He is currently a director of Punch Taverns, Spirit Group, 
+IP Powerhouse, Young’s Bluecrest and Vaasan & Vaasan. Randl has a BA in History from Hamilton College 
+and graduated cum laude with a JD from Fordham Law School. Ubiquity Software Corporation PLC Annual report and financial statements 2005 13
+The directors present their Annual Report and the audited financial statements for the year-ended  
+31 December 2005.
+Activities
+The principal activity of the Group during 2005 continued to be software development and distribution and 
+related support and maintenance services. The Group operates throughout Europe, North America and Asia.
+Review of developments and future prospects
+A review of the business of the Group is set out in the Chief Financial Officer’s statement on page 10. The Chief 
+Executive’s statement on page 6 includes details of expected future developments in the business of the Group 
+and an indication of its activities in the field of research and development.
+In accordance with schedule 7 of the Companies Act 1985, the Company’s, and its subsidiaries’ undertaking, 
+use of financial instruments are disclosed in note 19 to the financial statements.
+Dividends
+The directors do not recommend the payment of a dividend (2004: £nil).
+Directors
+The directors who served during the year and the changes to date are as follows:
+S J Gibson Remuneration Committee Chairman
+M Doyle Chief Technology Officer, Executive Director
+R Shure Remuneration and Audit Committee Member
+I McLaren Chief Executive Officer, President
+C Burke  Non-executive Chairman (appointed 26 April 2005)
+D Seibel  Audit Committee Chairman (appointed 26 April 2005)
+S Paton   (resigned 24 March 2005)
+H Schulzerinne   (resigned 24 March 2005)
+P N Smith  (resigned 26 April 2005)
+R Maggs   (resigned 15 May 2005)
+R Humes   (resigned 15 May 2005)
+Directors’ interests 
+The directors who held office at the beginning and the end of the financial year had the following interests in 
+the shares of the Group undertaking:
+      1 January 
+      2005 
+     31 December or on 
+     2005 appointment 
+     No. No.
+S J Gibson Ordinary shares of 1.25p each  1,908,936 1,508,936
+M Doyle Ordinary shares of 1.25p each  1,852,500 1,372,500
+The shareholdings for 1 January 2005 are reported in a comparable basis with 31 December 2005, taking into 
+account the share split from one 2.5p share to two 1.25p shares that was completed on 12 May 2005.
+No director held interests in other Group companies during the year-ended 31 December 2005 (2004: none).
+Directors’ share options
+Details of the directors’ share options are provided in the directors’ remuneration report on pages 17 to 20. 
+Directors’ report Ubiquity Software Corporation PLC Annual report and financial statements 2005 14 Ubiquity Software Corporation PLC Annual report and financial statements 2005
+Supplier payment policy
+The Company’s policy, which is also applied by the Group, is to settle terms of payment with suppliers when 
+agreeing the terms of each transaction, ensure that suppliers are made aware of the terms of payment and 
+abide by the terms of payment. Trade creditors of the Company at 31 December 2005 were equivalent to  
+37 (2004: 34) days’ purchases, based on the average daily amount invoiced by suppliers during the year.
+Significant holdings
+As at 7 March 2006, the Company had been notified, in accordance with sections 198 to 208 of the  
+Companies Act 1985, of the following interests in the ordinary share capital of the Company.
+     No. of shares % holding
+CapVest Equity Partners LP     45,811,148 25%
+JK & B Capital III LP     19,556,338 10.7%
+Alcatel (Barbados) Corporation     17 ,587 ,576 9.6%
+Wesley Clover Corporation     12,405,632 6.8%
+Britel Fund Nominees Limited     8,408,059 4.6%
+Mellon Nominees (UK) Limited     8,090,000 4.4%
+Bank Of New York (Nominees) Limited    7 ,500,000 4.1%
+HSBC Global Custody Nominee (UK) Limited    7 ,383,000 4.0%
+Possfund Nominees Limited     6,082,241 3.3%
+Employee consultation
+The Group places considerable value on the involvement of its employees and has continued to keep them 
+informed on matters affecting them as employees and on the various factors affecting the performance of  
+the Group. This is achieved through Group-wide communication, formal and informal meetings and the 
+distribution of the annual financial statements to all employees. In January 2006, a Group-wide share scheme 
+was incepted that is open to all employees and allows them to save a set amount per month, over a three- 
+year period that can be exchanged for the option to purchase shares in the Company at an agreed price  
+below the year-end market value.
+Auditors
+Deloitte & Touche LLP have indicated their willingness to continue in office as the Company’s auditors and  
+a resolution for their reappointment will be proposed at the forthcoming Annual General Meeting.
+Annual General Meeting
+Notice of the Annual General Meeting is set out in the circular to shareholders accompanying this  
+Annual Report.
+Approved by the Board of Directors
+and signed on behalf of the Board.
+R Atha Jackson
+Secretary
+7 March 2006
+ 
+Directors’ report continued Ubiquity Software Corporation PLC Annual report and financial statements 2005 Ubiquity Software Corporation PLC Annual report and financial statements 2005 15
+The Board of Directors recognises the value of ensuring good corporate governance. Although, as an AIM 
+listed Company, Ubiquity is not required to comply with the provisions of the Combined Code, and does not 
+comply with those provisions, the Board of Directors is committed to applying the principles relevant to a 
+Company of its size. The statement below describes the framework for corporate governance and internal 
+controls that the directors have established. 
+The Board and committees
+The Board of Directors comprises a non-executive Chairman, three non-executive directors and two executive 
+directors. The positions of Chairman and Chief Executive Officer are separated and have clearly defined roles. 
+While none of the directors meets the Code’s definition of independence, the Board considers that the current 
+composition provides the right balance of experience and does not consider it necessary to appoint a senior 
+independent director.
+The Board of Directors is collectively responsible for the overall success of the Group and has a formal 
+schedule of matters reserved for its approval. The Board calendar of meetings is set out at the beginning  
+of the financial year and each Board meeting is preceded by a clear agenda and any relevant information is 
+provided to the Board in advance of the meeting. 
+Given the small size of the Board, and as permitted by the Code, the Board has not appointed a Nominations 
+Committee. The Board as a whole considers the appointment of all directors and chief officers. The Articles  
+of Association of the Company require directors to submit themselves for re-election at the first Annual 
+General Meeting following their appointment and every three years by rotation. In accordance with good 
+practice, one third of directors will be submitted for re-election annually. 
+The Audit Committee
+The Audit Committee comprises David Seibel (Chairman), Randl Shure and Simon Gibson. The Committee 
+operates under written terms of reference and meets as often as required in order to discharge its duties  
+but at a minimum of three times a year in accordance with the financial calendar. The Group Chief Executive 
+Officer and Group Chief Financial Officer are invited to attend all meetings as well as senior staff of the 
+external auditors although the Committee reserves the right to ask any of these individuals to withdraw  
+from the meeting. The Audit Committee is responsible for monitoring the integrity of the financial systems, 
+reviewing the Group’s management reports and financial statements and its internal financial controls. This  
+is achieved primarily through a review of the annual and interim financial statements and a review of the  
+nature and scope of the external audit. The Committee is also responsible for reviewing and monitoring the 
+external auditors’ independence and objectivity and proposing the appointment of the external auditors  
+to the Board. The Audit Committee has also considered the need for an internal audit function, but has 
+resolved that, due to the size of the Group, this is not required at present. 
+Remuneration Committee
+The Remuneration Committee comprises Simon Gibson (Chairman), Randl Shure and David Seibel. The  
+report on directors’ remuneration provides a detailed description of the remuneration policy, and the 
+directors’ emoluments, shareholdings and share options. 
+Relations with shareholders
+The Board of Directors seeks to ensure that shareholders are regularly informed about the Group and its 
+activities. Comprehensive annual and interim reports are issued to all shareholders and there is frequent 
+dialogue with institutional investors including presentations following interim and annual results 
+announcements. 
+Further information about the Group, its strategy and overall performance can be found on the Company’s 
+website (www.ubiquitysoftware.com) which includes copies of the Company’s press releases. 
+Corporate governance statement Ubiquity Software Corporation PLC Annual report and financial statements 2005 16 Ubiquity Software Corporation PLC Annual report and financial statements 2005
+Internal control
+The Board has overall responsibility for the Group’s systems of internal control and the monitoring of its 
+effectiveness. Although no system of internal control can provide absolute assurance against material 
+misstatement or loss, the Group’s systems are designed to provide the directors with reasonable assurance 
+that issues are identified on a timely basis and dealt with appropriately.
+ 
+The Group has an established organisational structure with clearly defined lines of authority, responsibility  
+and accountability, which is reviewed regularly. Group management are responsible for the identification and 
+evaluation of key risks applicable to their areas of business. 
+The external auditors are engaged to express an opinion on the financial statements. They review the  
+systems of internal financial controls and data contained in the financial statements, and discuss with 
+management the reporting of operational results and the financial condition of the Group, to the extent 
+necessary to express their audit opinion.
+Going concern
+The directors, having made appropriate enquiries, consider that the Company and the Group have sufficient 
+resources to continue in operational existence for the foreseeable future and therefore it is appropriate that 
+the going concern basis is adopted in preparing the financial statements. 
+Corporate governance statement continued Ubiquity Software Corporation PLC Annual report and financial statements 2005 Ubiquity Software Corporation PLC Annual report and financial statements 2005 17
+Introduction
+This report has been prepared in accordance with Schedule 7S of the Companies Act 1985. The report 
+describes how the Board has applied the principles relating to directors’ remuneration. As required by the  
+Act, a resolution to approve the report will be proposed at the Annual General Meeting of the Company at 
+which the financial statements will be approved.
+The regulations require the auditors to report to the Company’s members on the auditable part of the 
+directors’ remuneration report and to state whether in their opinion that part of the report has been properly 
+prepared in accordance with the Companies Act 1985. The report has therefore been divided into separate 
+sections for audited and unaudited information.
+Unaudited information
+Remuneration Committee
+The Remuneration Committee comprises Simon Gibson (Chairman), David Seibel and Randl Shure. These 
+directors were the only members of the Committee during the year.
+The Committee meets as often as is necessary in order for it to discharge its duties and is responsible  
+for determining all aspects of remuneration for executive directors and other senior managers. The  
+fees of the executive directors are determined by the Board as a whole. No director or employee  
+has a role in determining his own remuneration. 
+In determining the directors’ and executives’ remuneration for the year, the Committee consulted Ian  
+McLaren (Chief Executive), Richard Ralph (Chief Financial Officer) and Emma Gardner (Group Human 
+Resources Director) about its proposals.
+Remuneration policy
+The Committee determines overall policy for executive remuneration. It sets levels of remuneration to  
+attract, retain and motivate executive directors and other senior managers and, in doing so, takes into  
+account the level of remuneration throughout the industry, personal performance and independently 
+compiled salary survey information. Employees throughout the Group have performance reviews annually.
+The main elements of executive directors’ and senior managers’ remuneration are:
+A competitive base salary.
+An annual performance bonus.
+Benefits in kind.
+Share options.
+The Group operates a discretionary bonus scheme. The scheme applies to directors, senior managers  
+and certain other employees. Payments under the scheme to executive directors and senior managers  
+are dependent on a combination of financial objectives and other individual targets. 
+Permanent health insurance is in place for all employees of the Company and other customary benefits such  
+as company cars, car allowances and life assurance are made available as appropriate. 
+The Group has four share options schemes – the approved share option scheme, the unapproved share  
+option scheme, the EMI scheme and an employee share ownership scheme. All employees are eligible to 
+participate in these schemes. Full details of options granted under the schemes are given in note 15 to the 
+financial statements. 
+•
+•
+•
+•
+Directors’ remuneration report Ubiquity Software Corporation PLC Annual report and financial statements 2005 18 Ubiquity Software Corporation PLC Annual report and financial statements 2005
+90.0
+95.0
+100.0
+105.0
+110.0
+115.0
+120.0
+Listing
+May 05
+Jun 05
+Jul 05
+Aug 05
+Sep 05
+Oct 05
+Nov 05
+Dec 05
+Ubiquity
+AIM All Share Index
+Directors’ service contracts
+The service contracts of executive directors remain in force until terminated by either party. Ian McLaren’s 
+contract is terminable by either party with the Company not giving not less than six months’ written notice  
+and Ian McLaren providing not less than one months’ notice. Michael Doyle’s contract is terminable by either 
+party not giving less than six months’ notice.
+The service contracts of non-executive directors are for a fixed term of 12 months or until terminated by  
+either party giving to the other not less than three months’ written notice. 
+Performance graph
+The following graph shows the Company’s performance, measured by total shareholder return, compared 
+with the performance of the AIM All Share Index, also measured by total shareholder return.
+The graph is based on the AIM All Share Index as at month end dates, refactored to coincide with  
+shareholder returns from the date of Ubiquity’s listing on AIM.
+Audited information
+Directors’ remuneration
+The total amounts for directors’ remuneration were as follows:
+     2005 2004 
+     £000 £000
+Emoluments     620 484
+Gains on exercise of share options     122 –
+     742 484
+Directors’ remuneration report continued Ubiquity Software Corporation PLC Annual report and financial statements 2005 Ubiquity Software Corporation PLC Annual report and financial statements 2005 19
+The individual directors’ emoluments can be analysed as follows:
+ Basic Directors’  Taxable 2005 2004 
+ salaries fees Bonus benefits Total Total 
+ £000 £000 £000 £000 £000 £000
+Executive      
+I McLaren 232 – – – 232 273
+M Doyle 198 – 100 5 303 211
+Non-Executive      
+S J Gibson – 15 – – 15 –
+R Maggs – – – – – –
+R Shure – 12 – – 12 –
+S Paton – – – – – –
+R Humes – – – – – –
+H Schulzerinne – – – – – –
+P N Smith – – – – – –
+C Burke – 40 – – 40 –
+D Seibel – 18 – – 18 –
+Aggregate emoluments 430 85 100 5 620 484
+Directors’ share options
+Aggregate emoluments above do not include any amounts for the value of options to acquire ordinary shares 
+in the Company granted to, or held by, the directors. Details of the options exercised during the year are as 
+follows:
+     Market price Gains on 
+    Exercise at exercise exercise 
+   Number of price date 2005 
+Name of director  Scheme options £ £ £
+M Doyle  Unapproved 400,000 0.075 0.20 50,000
+M Doyle  EMI 80,000 0.100 0.37 21,600
+S J Gibson  Unapproved 400,000 0.075 0.20 50,000
+      121,600 Ubiquity Software Corporation PLC Annual report and financial statements 2005 20 Ubiquity Software Corporation PLC Annual report and financial statements 2005
+Details of options for directors who served during the year are as follows:
+  1 January   31 December   
+  2005, or date   2005 or date Exercise   
+  of appointment Granted Exercised of resignation price     Exercise period
+  No. No. No. No. £ From To
+Executive        
+I McLaren (ii) 5,000,000 – – 5,000,000 0.100 09/03 09/10
+ (ii) 1,000,000 – – 1,000,000 0.100 04/06 04/12
+ (iii) – 252,626 – 252,626 0.375 03/09 12/15
+M Doyle (ii) 400,000 – (400,000) – 0.075 04/97 03/05
+ (ii) 320,000 – – 320,000 0.095 11/00 11/06
+ (ii) 1,923,308 – – 1,923,308 0.100 12/02 09/10
+ (i) 999,990 – – 999,990 0.100 07/04 09/10
+ (ii) 240,000 – (80,000) 160,000 0.100  04/06 04/12
+ (iv) – 208,895 – 208,895 0.375 03/09 12/15
+Non-executive      
+S J Gibson (ii) 400,000 – (400,000) – 0.075 04/97 03/05
+ (ii) 320,000 – – 320,000 0.095 11/00 11/06
+ (ii) 962,386 – – 962,386 0.100 12/02 09/10
+ (ii) 240,000 – – 240,000 0.100 04/06 04/12
+R Maggs (ii) 64,000 – – 64,000 0.095 08/01 08/09
+H Schulzerinne (ii) 30,000 – – 30,000 0.100 10/03 10/10
+P N Smith (ii) 30,000 – – 30,000 0.100 10/03 10/10
+ (ii) 30,000 – – 30,000 0.100 04/05 04/12
+C Burke (ii) – 700,000 – 700,000 0.425 11/06 11/12
+D Seibel (ii) – 50,000 – 50,000 0.425 11/06 11/12
+(i) EMI – no performance conditions attached, time based vesting.
+(ii) Unapproved scheme – no performance criteria attached, time based vesting.
+(iii) Unapproved scheme – vesting after three years on achievement of 90% of budgeted EBITDA for each year.
+(iv) Approved scheme – vesting after three years on achievement of 90% of budgeted EBITDA for each year.
+ 
+Share options at 1 January 2005 are reported on a comparable basis with 31 December 2005, taking into 
+account the share split from one 2.5p share to two 1.25p shares which was completed on 12 May 2005.
+All share options have been granted for nil consideration, bar the exercise price.
+The market price of the ordinary shares at 31 December 2005 was £0.375, and the range during the year was 
+£0.33 to £0.425.
+Approval
+This report was approved by the Board of Directors on 7 March 2006 and signed on its behalf by:
+S J Gibson
+Chairman of the Remuneration Committee
+Directors’ remuneration report continued Ubiquity Software Corporation PLC Annual report and financial statements 2005 Ubiquity Software Corporation PLC Annual report and financial statements 2005 21
+United Kingdom company law requires the directors to prepare financial statements for each financial year 
+which give a true and fair view of the state of affairs of the Company and the Group as at the end of the 
+financial year and of the profit or loss of the Group for that period. In preparing those financial statements,  
+the directors are required to:
+select suitable accounting policies and then apply them consistently;
+make judgements and estimates that are reasonable and prudent; and
+state whether applicable accounting standards have been followed. 
+The directors are responsible for keeping proper accounting records which disclose with reasonable accuracy 
+at any time the financial position of the Company and enable them to ensure that the financial statements 
+comply with the Companies Act 1985. They are also responsible for the system of internal control, for 
+safeguarding the assets of the Company and hence for taking reasonable steps for the prevention and 
+detection of fraud and other irregularities.
+•
+•
+•
+Statement of Directors’ responsibilities Ubiquity Software Corporation PLC Annual report and financial statements 2005 22 Ubiquity Software Corporation PLC Annual report and financial statements 2005
+Independent Auditors’ report
+to the members of Ubiquity Software Corporation PLC (formerly Ubiquity Software Corporation Limited)
+We have audited the Group and individual Company financial statements (the ‘financial statements’) of 
+Ubiquity Software Corporation PLC for the year-ended 31 December 2005 which comprise the consolidated 
+profit and loss account, the combined statement of movement in shareholders’ funds and reconciliation of 
+movements on reserves, the balance sheets, the consolidated cash flow statement and the related notes 1  
+to 21. These financial statements have been prepared under the accounting policies set out therein.
+This report is made solely to the Company’s members, as a body, in accordance with section 235 of the 
+Companies Act 1985. Our audit work has been undertaken so that we might state to the Company’s  
+members those matters we are required to state to them in an auditors’ report and for no other purpose.  
+To the fullest extent permitted by law, we do not accept or assume responsibility to anyone other than the 
+Company and the Company’s members as a body, for our audit work, for this report, or for the opinions we 
+have formed.
+Respective responsibilities of directors and auditors
+The directors’ responsibilities for preparing the Annual Report and the financial statements in accordance  
+with applicable United Kingdom law and United Kingdom Generally Accepted Accounting Practice are set  
+out in the statement of directors’ responsibilities.
+Our responsibility is to audit the financial statements in accordance with relevant United Kingdom legal and 
+regulatory requirements and International Standards on Auditing (UK and Ireland).
+We report to you our opinion as to whether the financial statements give a true and fair view in accordance 
+with the relevant framework and are properly prepared in accordance with the Companies Act 1985. We also 
+report if, in our opinion, the directors’ report is not consistent with the financial statements, if the Company  
+has not kept proper accounting records, if we have not received all the information and explanations we 
+require for our audit, or if information specified by law regarding directors’ remuneration and transactions  
+with the Company and other members of the Group is not disclosed. We have also audited the information  
+in the part of the directors’ remuneration report that is described as having been audited.
+We read the other information within the Annual Report, and consider whether it is consistent with the  
+audited financial statements. The other information comprises only the Chairman’s Statement, the Chief 
+Executive’s Statement, the Chief Financial Officer’s Statement, the Director’s Report and the Corporate 
+Governance Statement. We consider the implications for our report if we become aware of any apparent 
+misstatements or material inconsistencies with the financial statements. Our responsibilities do not extend  
+to any other information.
+Basis of audit opinion
+We conducted our audit in accordance with International Standards on Auditing (UK and Ireland) issued  
+by the Auditing Practices Board. An audit includes examination, on a test basis, of evidence relevant to  
+the amounts and disclosures in the financial statements. It also includes an assessment of the significant 
+estimates and judgements made by the directors in the preparation of the financial statements and of  
+whether the accounting policies are appropriate to the circumstances of the Company and the Group, 
+consistently applied and adequately disclosed.
+We planned and performed our audit so as to obtain all the information and explanations which we 
+considered necessary in order to provide us with sufficient evidence to give reasonable assurance that the 
+financial statements are free from material misstatement, whether caused by fraud or other irregularity or  
+error. In forming our opinion, we also evaluated the overall adequacy of the presentation of information in  
+the financial statements. Ubiquity Software Corporation PLC Annual report and financial statements 2005 Ubiquity Software Corporation PLC Annual report and financial statements 2005 23
+Opinion
+In our opinion:
+ the financial statements give a true and fair view, in accordance with United Kingdom Generally Accepted 
+Accounting Practice, of the state of affairs of the Group and the individual Company as at 31 December 
+2005 and of the loss of the Group for the year then ended; and
+ the financial statements and the part of the directors’ remuneration report described as having been 
+audited have been properly prepared in accordance with the Companies Act 1985.
+Deloitte & Touche LLP
+Chartered Accountants and Registered Auditors
+Cardiff, United Kingdom
+7 March 2006 
+•
+• Ubiquity Software Corporation PLC Annual report and financial statements 2005 24 Ubiquity Software Corporation PLC Annual report and financial statements 2005
+	 	 	 	 	 2005	 	 2004	 	 	 	 	 Note	 £000	 £000
+Turnover	 	 	 	 2	 7,461	 5,315
+	 	 	 	 	 Cost	 of	 sales	 	 	 	 	 (1,141)	 (775)
+	 	 	 	 	 Gross	 profit	 	 	 	 	 6,320	 4,540
+	 	 	 	 	 Distribution	 expenses	 	 	 	 	 (3,402)	 (2,620)
+	 	 	 	 	 Exceptional	 provision	 for	 doubtful	 debtors	 	 	 4	 (558)	 –
+Other	 administrative	 expenses	 	 	 	 	 (11,590)	 (8,420)
+	 	 	 	 	 Total	 administrative	 expenses	 	 	 	 	 (12,148)	 (8,420)
+	 	 	 	 	 Operating loss	 	 	 	 5	 (9,230)	 (6,500)
+	 	 	 	 	 Interest	 receivable	 and	 similar	 income	 	 	 6	 493	 92
+	 	 	 	 	 Loss on ordinary activities before taxation	 	 	 	 (8,737)	 (6,408)
+Tax	 credit	 on	 loss	 on	 ordinary	 activities	 	 	 7	 1,862	 601
+Loss for the financial year 	 	 	 	 (6,875)	 (5,807)
+	 	 	 	 	 Loss per share (pence)	 	 	 	 8	 	 Basic	 and	 diluted	 	 	 	 	 (5p)	 (44p)
+	 	 	 	 	 All	 activities	 derive	 from	 continuing	 operations.
+There	 have	 been	 no	 recognised	 gains	 and	 losses	 for	 the	 current	 financial	 year	 or	 the	 prior	 financial	 year	 other	 than	 as	 stated	 in	 the	 profit	 and	 loss	 account	 and,	 accordingly,	 no	 separate	 statement	 of	 total	 recognised	 gains	 and	 losses	 is	 presented.
+Consolidated profit and loss account
+Year-ended 31 December 2005 Ubiquity Software Corporation PLC Annual report and financial statements 2005 Ubiquity Software Corporation PLC Annual report and financial statements 2005 25
+	 	 Issued	 Share	 Profit	 	 	 	 	 share	 premium	 and 	 loss	 Total	 Total	 	 	 capital	 account	 account	 2005	 2004	 	 	 £000	 £000	 £000	 £000	 £000
+The Group	 	 	 	 	 	 Balance	 at	 1	 January	 	 	 9,603	 25,271	 (29,076)	 5,798	 8,874
+Share	 option	 exercise	 	 66	 462	 –	 528	 –
+Share	 premium	 cancellation	 	 –	 (25,321)	 25,321	 –	 –
+Conversion	 of	 preference	 shares	 to	 	 	 ordinary	 shares	 	 (8,343)	 8,343	 –	 –	 –
+New	 shares	 issued	 	 963	 19,201	 –	 20,164	 2,731
+Loss	 for	 the	 financial	 year	 	 –	 –	 (6,875)	 (6,875)	 (5,807)
+Balance	 at	 31	 December	 	 	 2,289	 27 ,956	 (10,630)	 19,615	 5,798
+	 	 	 	 	 	 The Company	 	 	 	 	 	 Balance	 at	 1	 January	 	 	 9,603	 25,271	 (20,591)	 14,283	 17 ,542
+Share	 option	 exercise	 	 66	 462	 –	 528	 –
+Share	 premium	 cancellation	 	 –	 (25,321)	 25,321	 –	 –
+Conversion	 of	 preference	 shares	 to	 	 	 ordinary	 shares	 	 (8,343)	 8,343	 –	 –	 –
+New	 shares	 issued	 	 963	 19,201	 	 20,164	 2,731
+Loss	 for	 the	 financial	 year	 	 –	 –	 (7 ,929)	 (7,929)	 (5,990)
+Balance	 at	 31	 December	 	 	 2,289	 27 ,956	 (3,199)	 27,046	 14,283
+	 Combined statement of movement in shareholders’  
+funds and reconciliation of movements on reserves
+Year-ended 31 December 2005 Ubiquity Software Corporation PLC Annual report and financial statements 2005 26 Ubiquity Software Corporation PLC Annual report and financial statements 2005
+	 	 	 	 	 2005	 	 2004	 	 	 	 	 Note	 £000	 £000
+Fixed assets     
+Intangible	 assets	 	 	 	 9	 48	 –
+Tangible	 assets	 	 	 	 10	 1,031	 1,004
+Investments	 	 	 	 11	 316	 316
+	 	 	 	 	 1,395	 1,320
+	 	 	 	 	 Current assets     
+Debtors	 	 	 	 12	 4,257	 2,755
+Current	 asset	 investments	 –	 short-term	 deposits	 	 	 11,037	 1,573
+Cash	 at	 bank	 and	 in	 hand	 	 	 	 	 5,295	 2,017
+	 	 	 	 	 20,589	 6,345
+	 	 	 	 	 Creditors: amounts falling due within one year 	 	 13	 (2,219)	 (1,717)
+Net current assets	 	 	 	 	 18,370	 4,628
+Total assets less current liabilities	 	 	 	 	 19,765	 5,948
+	 	 	 	 	 Provisions for liabilities and charges	 	 	 14	 (150)	 (150)
+Net assets	 	 	 	 	 19,615	 5,798
+	 	 	 	 	 	 	 	 	 	 Capital and reserves	 	 	 	 	 Called	 up	 share	 capital	 	 	 	 15	 2,289	 9,603
+Share	 premium	 account	 	 	 	 27,956	 25,271
+Profit	 and	 loss	 account	 	 	 	 (10,630)	 (29,076)
+Total shareholders’ funds	 	 	 	 	 19,615	 5,798
+	 	 	 	 	 Shareholders’ funds may be analysed as	 	 	 	 	 Equity	 interests	 	 	 	 	 19,615	 (3,472)
+Non-equity	 interests	 	 	 	 	 –	 9,270
+	 	 	 	 	 19,615	 5,798
+	 	 	 	 	 These	 financial	 statements	 were	 approved	 by	 the	 Board	 of	 Directors	 on	 7	 March	 2006.
+Signed	 on	 behalf	 of	 the	 Board	 of	 Directors
+I McLaren     
+Director	 	 	 	 	 	 Consolidated balance sheet
+31 December 2005 Ubiquity Software Corporation PLC Annual report and financial statements 2005 Ubiquity Software Corporation PLC Annual report and financial statements 2005 27
+	 	 	 	 	 2005	 	 2004	 	 	 	 	 Note	 £000	 £000
+Fixed assets	 	 	 	 	 Intangible	 assets	 	 	 	 9	 48	 –
+Tangible	 assets	 	 	 	 10	 477	 531
+Investments	 	 	 	 11	 324	 324
+	 	 	 	 	 849	 855
+	 	 	 	 	 Current assets	 	 	 	 	 Debtors	 	 	 	 12	 11,794	 11,171
+Current	 asset	 investments	 	 	 	 	 11,037	 1,573
+Cash	 at	 bank	 and	 in	 hand	 	 	 	 	 4,617	 1,553
+	 	 	 	 	 27,448	 14,297
+	 	 	 	 	 Creditors: amounts falling due within one year  	 13	 (1,101)	 (719)
+Net current assets	 	 	 	 	 26,347	 13,578
+Total assets less current liabilities	 	 	 	 	 27,196	 14,433
+	 	 	 	 	 Provisions for liabilities and charges	 	 	 14	 (150)	 (150)
+Net assets	 	 	 	 27,046	 14,283
+	 	 	 	 	 Capital and reserves	 	 	 	 	 Called	 up	 share	 capital	 	 	 	 15	 2,289	 9,603
+Share	 premium	 account	 	 	 	 	 27,956	 25,271
+Profit	 and	 loss	 account	 	 	 	 (3,199)	 (20,591)
+Total equity shareholders’ funds	 	 	 	 	 27,046	 14,283
+	 	 	 	 	 Shareholders’ funds may be analysed as	 	 	 	 	 Equity	 interests	 	 	 	 	 27,046	 5,013
+Non-equity	 interests	 	 	 	 	 –	 9,270
+	 	 	 	 27,046	 14,283
+	 	 	 	 	 These	 financial	 statements	 were	 approved	 by	 the	 Board	 of	 Directors	 on	 7	 March	 2006.
+Signed	 on	 behalf	 of	 the	 Board	 of	 Directors
+I McLaren     
+Director	 	 	 	 	 	 Company balance sheet
+31 December 2005 Ubiquity Software Corporation PLC Annual report and financial statements 2005 28 Ubiquity Software Corporation PLC Annual report and financial statements 2005
+	 	 	 	 	 2005	 	 2004	 	 	 	 	 Note	 £000	 £000
+Net cash outflow from operating activities	 	 	 16	 (8,412)	 (6,812)
+	 	 	 	 	 Returns on investments and servicing of finance	 	 	 	 	 Interest	 received	 	 	 	 	 337	 92
+	 	 	 	 	 Taxation	 	 	 	 	 	 Receipt	 of	 research	 and	 development	 tax	 credit	 	 	 	 614	 601
+	 	 	 	 	 Capital expenditure and financial investment	 	 	 	 	 Payments	 to	 acquire	 tangible	 fixed	 assets	 	 	 	 (658)	 (952)
+Payments	 to	 acquire	 intangible	 fixed	 assets	 	 	 	 (51)	 –
+Receipts	 from	 sale	 of	 tangible	 fixed	 assets	 	 	 	 –	 2
+	 	 	 	 	 Net cash outflow from capital expenditure and financial investment	 	 (709)	 (950)
+	 	 	 	 	 Net cash outflow before financing and management of liquid resources	 	 (8,170)	 (7 ,069)
+	 	 	 	 	 Management of liquid resources	 	 	 	 	 Increase	 in	 short-term	 deposits	 	 	 	 	 (9,464)	 (1,573)
+	 	 	 	 	 Financing     
+Issue	 of	 ordinary	 share	 capital	 	 	 	 	 20,692	 3
+Issue	 of	 preference	 share	 capital	 	 	 	 	 –	 2,728
+	 	 	 	 	 Net cash inflow from financing	 	 	 	 	 	 20,692	 2,731
+Increase/(decrease) in cash in the year	 	 	 17 ,18	 3,058	 (5,911)
+	 	 	 	 	 	 Consolidated cash flow statement
+Year-ended 31 December 2005 Ubiquity Software Corporation PLC Annual report and financial statements 2005 Ubiquity Software Corporation PLC Annual report and financial statements 2005 29
+1. Accounting policies
+The	 financial	 statements	 are	 prepared	 in	 accordance	 with	 applicable	 United	 Kingdom	 accounting	 standards.	 The	 particular	 accounting	 policies	 adopted,	 which	 have	 been	 applied	 consistently	 throughout	 the	 financial	 year	 and	 the	 prior	 financial	 year,	 are	 described	 below.
+Accounting convention
+The	 financial	 statements	 are	 prepared	 under	 the	 historical	 cost	 convention.
+Basis of consolidation
+The	 consolidated	 financial	 statements	 incorporate	 the	 financial	 statements	 of	 the	 Company	 and	 all	 its	 subsidiaries.
+No	 profit	 and	 loss	 account	 has	 been	 presented	 for	 the	 parent	 Company	 as	 permitted	 by	 section	 230	 	 of	 the	 Companies	 Act	 1985.	 The	 loss	 attributable	 to	 members	 of	 the	 Company	 for	 the	 period	 is	 £7 ,929,000	 (2004:	 £5,990,000).
+Presentation of financial instruments
+The	 Company	 has	 adopted	 Financial	 Reporting	 Standard	 25	 during	 2005.	 The	 transitional	 provisions	 include	 an	 exemption	 from	 restating	 comparative	 information	 in	 the	 first	 year	 of	 adoption.	 Had	 FRS	 25	 been	 applied	 retrospectively	 to	 the	 results	 for	 the	 year-ended	 31	 December	 2004,	 convertible	 preference	 shares	 with	 a	 nominal	 value	 of	 £9,270,000	 would	 have	 been	 reclassified	 to	 include	 a	 proportion	 as	 a	 liability	 and	 a	 proportion	 (representing	 the	 value	 of	 the	 conversion	 feature)	 as	 equity.	 The	 preference	 shares	 were	 all	 converted	 to	 ordinary	 shares	 in	 May	 2005	 and,	 accordingly,	 the	 adoption	 of	 FRS	 25	 has	 no	 impact	 at	 31	 December	 2005.
+Turnover
+Turnover	 represents	 amounts	 derived	 from	 the	 Group’s	 principal	 activity,	 being	 that	 of	 software	 development,	 exclusive	 of	 value	 added	 tax.	 Revenue	 is	 recognised	 for	 each	 of	 the	 Group’s	 revenue	 streams	 as	 follows:
+Revenue stream Recognition
+Trials	 (the	 provision	 of	 software	 for	 a	 specified	 period)	 On 	 delivery
+Software	 platform	 sales	 (licences)	 for	 live	 deployment	 On 	 delivery
+Support	 and	 upgrades	 for	 a	 contracted	 period	 of	 time	 Spread 	 over	 the	 specified	 period
+Professional	 services	 and	 training	 On	 provision	 of	 the	 service
+Long-term	 software	 developments	 Over	 the	 period	 of	 the	 contract,	 in	 proportion	 	 	 to	 the	 amount	 of	 work	 done
+In	 the	 case	 of	 minimum	 commitment	 reseller	 agreements,	 where	 the	 level	 of	 actual	 sales	 does	 not	 reach	 the	 minimum	 annual	 level,	 the	 minimum	 annual	 revenue	 provided	 for	 in	 the	 agreement	 is	 recognised	 evenly	 over	 the	 period	 covered	 by	 the	 agreement.
+Tangible fixed assets
+Tangible	 fixed	 assets	 are	 stated	 at	 cost,	 net	 of	 depreciation	 and	 any	 provision	 for	 impairment.	 Depreciation	 is	 provided	 on	 all	 tangible	 fixed	 assets	 at	 rates	 calculated	 to	 write	 off	 the	 cost,	 less	 estimated	 residual	 value,	 of	 each	 asset	 on	 a	 straight-line	 basis	 over	 its	 expected	 useful	 life,	 as	 follows:
+Fixtures	 and	 fittings	 –	 25%
+Computer	 equipment	 –	 50%
+Intangible fixed assets
+Intangible	 fixed	 assets	 are	 stated	 at	 cost,	 net	 of	 depreciation	 and	 any	 provision	 for	 impairment.	 Depreciation	 is	 provided	 on	 all	 intangible	 fixed	 assets	 at	 rates	 calculated	 to	 write	 off	 the	 cost,	 less	 estimated	 residual	 value,	 of	 each	 asset	 on	 a	 straight-line	 basis	 over	 its	 expected	 useful	 life,	 as	 follows:
+Trademarks	 –	 25%
+Notes to the financial statements
+Year-ended 31 December 2005 Ubiquity Software Corporation PLC Annual report and financial statements 2005 30 Ubiquity Software Corporation PLC Annual report and financial statements 2005
+1. Accounting policies continued
+Investments
+Investments	 held	 as	 fixed	 assets	 are	 stated	 at	 cost	 less	 provision	 for	 impairment.
+Taxation
+Current	 tax	 is	 provided	 at	 amounts	 expected	 to	 be	 paid	 (or	 recovered)	 using	 the	 tax	 rates	 and	 laws	 that	 have	 been	 enacted	 or	 substantively	 enacted	 at	 the	 balance	 sheet	 date.	 Deferred	 taxation	 is	 provided	 in	 full	 on	 timing	 differences	 that	 result	 in	 an	 obligation	 at	 the	 balance	 sheet	 	 date	 to	 pay	 more	 tax,	 or	 a	 right	 to	 pay	 less	 tax,	 at	 a	 future	 date,	 at	 rates	 expected	 to	 apply	 when	 they	 	 crystallise	 based	 on	 current	 tax	 rates	 and	 law.	 Timing	 differences	 arise	 from	 the	 inclusion	 of	 items	 of	 income	 and	 expenditure	 in	 taxation	 computations	 in	 periods	 different	 from	 those	 in	 which	 they	 are	 included	 in	 the	 financial	 statements.
+Deferred	 tax	 assets	 are	 recognised	 to	 the	 extent	 that	 it	 is	 regarded	 as	 more	 likely	 than	 not	 that	 they	 will	 be	 recovered.	 Deferred	 tax	 assets	 and	 liabilities	 are	 not	 discounted.
+Leases
+Rentals	 under	 operating	 leases	 are	 charged	 to	 profit	 and	 loss	 in	 equal	 amounts	 over	 the	 lease	 term.	 A	 provision	 has	 been	 recognised	 for	 onerous	 lease	 based	 on	 the	 expected	 lease	 payments	 which	 will	 not	 be	 recovered	 by	 a	 sub-lease	 of	 the	 property.
+Research and development
+Research	 and	 development	 expenditure	 is	 charged	 to	 the	 profit	 and	 loss	 account	 as	 incurred.
+Foreign currency
+Transactions	 denominated	 in	 foreign	 currencies	 are	 translated	 into	 the	 functional	 currency	 at	 the	 rates	 ruling	 	 at	 the	 date	 of	 the	 transaction.	 Foreign	 currency	 balances	 are	 translated	 at	 the	 rate	 ruling	 at	 the	 balance	 sheet	 date.	 These	 translation	 differences	 are	 dealt	 with	 in	 the	 profit	 and	 loss	 account.
+The	 foreign	 subsidiaries	 are	 translated	 using	 the	 temporal	 method	 under	 SSAP	 20.
+The	 balance	 sheets	 of	 the	 foreign	 subsidiaries	 are	 translated	 into	 sterling	 at	 the	 closing	 rates	 of	 exchange	 for	 each	 period	 whilst	 the	 profit	 and	 loss	 accounts	 are	 translated	 into	 sterling	 at	 the	 average	 rates	 of	 exchange	 	 for	 the	 period.	 The	 resulting	 translation	 differences	 are	 taken	 to	 the	 consolidated	 profit	 and	 loss	 account.
+2. Analysis of turnover, loss before taxation, and net assets
+The	 turnover,	 loss	 before	 taxation	 and	 net	 assets	 are	 attributable	 to	 the	 Group’s	 principal	 activity.
+The	 geographical	 analysis	 by	 destination	 of	 the	 Group’s	 turnover	 is	 as	 follows:
+	 	 	 	 	 2005	 2004	 	 	 	 	 	 £000	 £000
+United	 Kingdom	 	 	 	 	 1,563	 992
+North	 America	 	 	 	 	 4,714	 2,027
+Asia	 Pacific	 	 	 	 	 1,184	 2,296
+	 	 	 	 	 7,461	 5,315
+	 	 	 	 	 	 Notes to the financial statements continued Ubiquity Software Corporation PLC Annual report and financial statements 2005 Ubiquity Software Corporation PLC Annual report and financial statements 2005 31
+2. Analysis of turnover, loss before taxation, and net assets continued
+The	 geographical	 analysis	 by	 origin	 is	 as	 follows:
+	 	 	 	 	 2005	 2004	 	 	 	 	 	 £000	 £000
+Turnover	 	 	 	 	 United	 Kingdom	 	 	 	 	 3,150	 992
+North	 America	 	 	 	 	 4,311	 4,323
+	 	 	 	 	 7,461	 5,315
+	 	 	 	 	 Loss before taxation	 	 	 	 	 United	 Kingdom	 	 	 	 (4,114)	 (4,849)
+North	 America	 	 	 	 	 (4,623)	 (1,559)
+	 	 	 	 	 (8,737)	 (6,408)
+	 	 	 	 	 Net assets	 	 	 	 	 United	 Kingdom	 	 	 	 17,594	 4,012
+North	 America	 	 	 	 	 2,021	 1,786
+	 	 	 	 	 19,615	 5,798
+3. Information regarding directors and employees	 	 	 	 The	 The The	 The	 	 	 	 Group	 Group Company	 Company 	 	 	 	 2005	 2004	 2005	 2004	 	 	 	 £000	 £000 £000	 £000
+Staff	 costs	 during	 the	 year	 (including	 directors)	 	 	 	 Wages	 and	 salaries	 	 	 9,563	 6,792 4,662	 3,367
+Social	 security	 costs	 	 	 925	 648 544	 387
+	 	 	 10,488	 7 ,440 5,206	 3,754
+	 	 	 	 The	 average	 monthly	 number	 of	 employees	 during	 the	 year	 was	 as	 follows:
+	 	 	 	 No.	 No. No.	 No.
+Selling	 and	 distribution	 	 	 44	 39 17	 12
+Service	 	 	 5	 15 –	 4
+Administration	 	 	 21	 14 11	 10
+Research	 and	 development	 	 	 116	 68 73	 54
+	 	 	 186	 136 101	 80
+	 	 	 	 	 Information	 regarding	 directors’	 remuneration	 is	 given	 in	 the	 directors’	 remuneration	 report	 on	 pages	 17	 to	 20.
+	 4. Exceptional items
+	 	 	 	 	 2005	 2004	 	 	 	 	 	 £000	 £000
+Exceptional	 provision	 for	 doubtful	 debtors	 	 	 	 558	 –
+The	 exceptional	 provision	 for	 doubtful	 debtors	 relates	 to	 one	 customer	 known	 to	 be	 in	 financial	 difficulties	 as	 at	 the	 year-end	 and	 which	 has	 subsequently	 declared	 bankruptcy.	 The	 provision	 specifically	 relates	 to	 revenue	 recognised	 during	 the	 current	 year. Ubiquity Software Corporation PLC Annual report and financial statements 2005 32 Ubiquity Software Corporation PLC Annual report and financial statements 2005
+5. Operating loss
+	 	 	 	 	 2005	 2004	 	 	 	 	 	 £000	 £000
+Operating loss is after charging/(crediting)     
+Depreciation	 of	 tangible	 assets	 	 	 	 	 631	 271 	 Amortisation	 of	 intangible	 assets	 	 	 	 	 3	 –
+Rentals	 under	 operating	 leases:	 	 	 	 	 	 –	 plant	 and	 machinery	 	 	 	 	 13	 12	 	 –	 other	 	 	 	 	 535	 347
+Loss	 on	 disposal	 of	 fixed	 assets	 	 	 	 	 –	 11
+Auditors’	 remuneration	 	 	 	 	 	 –	 as	 auditors	 (Group	 and	 Company)	 	 	 	 54	 8
+	 –	 taxation	 and	 advisory	 	 	 	 134	 94
+Foreign	 exchange	 (gains)/losses	 	 	 	 	 (220)	 372
+Research	 and	 development	 costs	 	 	 	 	 6,303	 3,856
+In	 addition	 to	 the	 above	 fees	 charged	 through	 the	 profit	 and	 loss	 account,	 fees	 of	 £185,000	 were	 paid	 to	 the	 auditors	 during	 the	 year-ended	 31	 December	 2005	 in	 their	 capacity	 as	 reporting	 accountants	 and	 for	 other	 advice	 in	 connection	 with	 the	 share	 issue	 in	 May	 2005.	 These	 amounts	 were	 recorded	 as	 a	 deduction	 from	 the	 proceeds	 of	 the	 share	 issue	 and	 were	 not	 charged	 to	 the	 profit	 and	 loss	 account.
+6. Interest receivable and similar income
+	 	 	 	 	 2005	 2004	 	 	 	 	 	 £000	 £000
+Interest	 on	 bank	 deposits	 	 	 	 	 486	 89
+Interest	 on	 research	 and	 development	 tax	 credit	 	 	 	 7	 3
+	 	 	 	 	 493	 92
+7. Tax credit on loss on ordinary activities
+	 	 	 	 	 2005	 2004	 	 	 	 	 	 £000	 £000
+Current taxation   
+United	 Kingdom	 corporation	 tax:	 	 	 Current	 tax	 on	 income	 for	 the	 year	 at	 30%	 (2004:	 30%)	 	 	 	 –	 –
+R&D	 tax	 credit	 in	 respect	 of	 current	 year	 	 	 	 588	 –
+R&D	 tax	 credit	 in	 respect	 of	 2004	 	 	 	 	 656	 –
+R&D	 tax	 credit	 in	 respect	 of	 2003	 (2002)	 	 	 	 618	 601
+Total current tax 	 	 	 	 	 1,862	 601
+	 	 	 Notes to the financial statements continued Ubiquity Software Corporation PLC Annual report and financial statements 2005 Ubiquity Software Corporation PLC Annual report and financial statements 2005 33
+7. Tax credit on loss on ordinary activities continued
+The	 difference	 between	 the	 total	 current	 tax	 shown	 above	 and	 the	 amount	 calculated	 by	 applying	 the	 standard	 rate	 of	 UK	 corporation	 tax	 to	 the	 loss	 before	 tax	 is	 as	 follows:
+	 	 	 	 	 2005	 2004	 	 	 	 	 	 £000	 £000
+Loss	 on	 ordinary	 activities	 before	 tax	 	 	 	 (8,737)	 (6,408)
+Tax	 on	 loss	 on	 ordinary	 activities	 before	 tax	 at	 30%	 (2004:	 30%)	 	 	 2,621	 1,922
+	 	 	 	 	 Factors affecting credit for the year	 	 	 	 Expenses	 not	 deductible	 for	 tax	 purposes	 	 	 	 (48)	 (22)
+Capital	 allowances	 in	 excess	 of	 depreciation	 	 	 	 (92)	 (20)
+Tax	 losses	 carried	 forward	 	 	 	 (2,481)	 (1,880)
+R&D	 tax	 credit	 current	 year	 	 	 	 588	 –
+R&D	 tax	 credit	 in	 respect	 of	 2004	 	 	 	 	 656	 –
+R&D	 tax	 credit	 in	 respect	 of	 2003	 (2002)	 	 	 	 618	 601
+Current tax credit for year	 	 	 	 	 1,862	 601
+	 	 	 	 	 As	 described	 in	 the	 Chief	 Financial	 Officer’s	 Statement,	 the	 basis	 for	 estimating	 the	 income	 receivable	 from	 research	 and	 development	 tax	 credits	 from	 recognition	 on	 a	 cash	 received	 basis	 to	 accruing	 income	 for	 	 claims	 submitted	 and	 expected	 to	 be	 submitted	 based	 on	 qualifying	 research	 and	 development	 costs	 incurred	 up	 to	 the	 balance	 sheet	 date.
+Factors that may affect the future tax charge
+A	 deferred	 tax	 asset	 has	 not	 been	 recognised	 in	 respect	 of	 timing	 differences	 relating	 to	 trading	 losses	 	 carried	 forward	 and	 accelerated	 depreciation,	 as	 there	 is	 currently	 insufficient	 evidence	 that	 the	 asset	 	 will	 be	 recovered	 in	 the	 short	 term.	 The	 amount	 of	 the	 asset	 not	 recognised	 is	 approximately	 £5,200,000	 	 (2004:	 £3,300,000).	 The	 asset	 would	 be	 recovered	 if	 sufficient	 trading	 profits	 were	 to	 arise	 in	 the	 future.
+8. Loss per share 
+	 	 	 	 	 2005	 2004	 	 	 	 	 	 £000	 £000
+Retained	 loss	 for	 the	 year	 	 	 	 	 (6,875)	 (5,807)
+	 	 	 	 	 	 	 	 	 	 No.	 No.
+Weighted	 average	 number	 of	 shares	 	 	 125,505,609	 13,301,260
+	 	 	 Loss	 per	 share	 	 	 	 	 (5p)	 (44p)
+Diluted	 loss	 per	 share	 is	 calculated	 by	 adjusting	 the	 weighted	 average	 number	 of	 ordinary	 shares	 in	 issue	 on	 the	 assumption	 of	 the	 conversion	 of	 all	 dilutive	 potential	 ordinary	 shares.	 Diluted	 loss	 per	 share	 is	 the	 same	 	 as	 basic	 since,	 for	 a	 loss-making	 period,	 this	 would	 assume	 the	 exercise	 of	 the	 out-of-the-money	 options,	 	 which	 would	 be	 irrational. Ubiquity Software Corporation PLC Annual report and financial statements 2005 34 Ubiquity Software Corporation PLC Annual report and financial statements 2005
+9. Intangible fixed assets 
+	 	 	 	 	 	 Trademarks 	 	 	 	 	 	 	 £000
+Group and Company
+Cost
+At	 1	 January	 2005	 	 	 	 	 	 –
+Additions	 	 	 	 	 	 51
+At	 31	 December	 2005	 	 	 	 	 	 51
+Accumulated amortisation
+At	 1	 January	 2005	 	 	 	 	 	 –
+Charge	 for	 the	 year	 	 	 	 	 	 3
+At	 31	 December	 2005	 	 	 	 	 	 3
+Net book value
+At	 31	 December	 2005	 	 	 	 	 	 48
+At	 31	 December	 2004	 	 	 	 	 	 –
+10. Tangible fixed assets
+	 	 	 	 	 Fixtures	 Computer	 	 	 	 	 	 and 	 fittings	 equipment	 Total	 	 	 	 	 £000	 £000	 £000
+The Group
+Cost
+At	 1	 January	 2005	 	 	 	 838	 1,618	 2,456
+Additions	 	 	 	 185	 473	 658
+At	 31	 December	 2005	 	 	 	 1,023	 2,091	 3,114
+Accumulated depreciation
+At	 1	 January	 2005	 	 	 	 333	 1,119	 1,452
+Charge	 for	 the	 year	 	 	 	 174	 457	 631
+At	 31	 December	 2005	 	 	 	 507	 1,576	 2,083
+Net book value
+At	 31	 December	 2005	 	 	 	 516	 515	 1,031
+At	 31	 December	 2004	 	 	 	 505	 499	 1,004
+Notes to the financial statements continued Ubiquity Software Corporation PLC Annual report and financial statements 2005 Ubiquity Software Corporation PLC Annual report and financial statements 2005 35
+10. Tangible fixed assets continued
+	 	 	 	 	 Fixtures	 Computer	 	 	 	 	 	 and 	 fittings	 equipment	 Total	 	 	 	 	 £000	 £000	 £000
+The Company
+Cost
+At	 1	 January	 2005	 	 	 	 581	 1,066	 1,647
+Additions	 	 	 	 77	 177	 254
+At	 31	 December	 2005	 	 	 	 658	 1,243	 1,901
+Accumulated depreciation
+At	 1	 January	 2005	 	 	 	 261	 855	 1,116
+Charge	 for	 the	 year	 	 	 	 114	 194	 308
+At	 31	 December	 2005	 	 	 	 375	 1,049	 1,424
+Net book value
+At	 31	 December	 2005	 	 	 	 283	 194	 477
+At	 31	 December	 2004	 	 	 	 320	 211	 531
+11. Investments
+	 	 	 	 	 The	 	 The	 	 	 	 	 	 Group	 Company 	 	 	 	 	 	 £000	 £000
+Cost and net book value
+Subsidiaries	 	 	 	 	 –	 8
+Investments	 	 	 	 	 316	 316
+At	 31	 December	 2005	 and	 31	 December	 2004	 	 	 	 316	 324
+	 	 %	 of	 voting	 	 	 Country	 of	 shares	 	 Company	 name	 incorporation	 held	 Type	 of	 share
+Investments
+NewHeights	 Software	 Corporation	 Canada	 6%	 	 Common	 shares	 	 	 	 without	 par	 value
+The	 principal	 activity	 of	 NewHeights	 Software	 Corporation	 is	 the	 developing,	 marketing	 and	 implementing	 of	 integrated	 web-convergence	 software	 solutions.
+Subsidiaries
+USCL	 Corporation	 Canada	 100%	 $1 	 Class	 A	 common	 shares
+Ubiquity	 Software	 Inc.	 USA	 100%	 1 	 cent	 common	 shares
+The	 principal	 activity	 of	 the	 subsidiaries	 is	 that	 of	 software	 development	 and	 distribution. Ubiquity Software Corporation PLC Annual report and financial statements 2005 36 Ubiquity Software Corporation PLC Annual report and financial statements 2005
+12. Debtors 
+	 	 	 The	 The The	 The	 	 	 	 Group	 Group Company	 Company 	 	 	 	 2005	 2004	 2005	 2004	 	 	 	 £000	 £000 £000	 £000
+Trade	 debtors	 	 	 2,062	 1,539 660	 691
+Called	 up	 share	 capital,	 unpaid	 	 	 1	 – 1	 –
+Amounts	 owed	 by	 subsidiary	 undertaking	 	 –	 –	 9,393	 10,265
+Other	 debtors	 and	 prepayments	 	 	 2,194	 1,216 1,740	 215
+	 	 	 4,257	 2,755 11,794	 11,171
+13. Creditors: amounts falling due within one year
+	 	 	 The	 The The	 The	 	 	 	 Group	 Group Company	 Company 	 	 	 	 2005	 2004	 2005	 2004	 	 	 	 £000	 £000 £000	 £000
+Trade	 creditors	 	 	 726	 408 413	 232
+Other	 taxation	 and	 social	 security	 	 	 231	 145 166	 130
+Deferred	 income	 	 	 587	 663 97	 175
+Accruals	 	 	 675	 501 425	 182
+	 	 	 2,219	 1,717 1,101	 719
+14. Provisions for liabilities and charges
+	 	 	 	 	 	 Onerous 	 	 	 	 	 	 	 lease	 	 	 	 	 	 	 provision 	 	 	 	 	 	 	 £000
+Group and Company
+At	 1	 January	 2005	 	 	 	 	 	 150
+Utilised	 in	 the	 year	 	 	 	 	 	 (75)
+Charge	 to	 the	 profit	 and	 loss	 account	 in	 the	 year	 	 	 	 	 75
+At	 31	 December	 2005	 	 	 	 	 	 150
+The	 onerous	 lease	 provision	 has	 been	 created	 in	 respect	 of	 leased	 property	 which	 the	 Company	 vacated	 during	 2004	 and	 for	 which	 it	 retains	 an	 obligation	 to	 pay	 the	 rentals	 under	 the	 lease.	 The	 property	 was	 vacant	 	 at	 31	 December	 2005;	 however,	 the	 Company	 is	 actively	 seeking	 a	 tenant	 to	 take	 over	 the	 lease.	 The	 provision	 represents	 the	 current	 estimate	 of	 the	 rental	 obligations	 which	 will	 be	 paid	 over	 the	 remaining	 term	 of	 the	 lease.
+Notes to the financial statements continued Ubiquity Software Corporation PLC Annual report and financial statements 2005 Ubiquity Software Corporation PLC Annual report and financial statements 2005 37
+15. Called up share capital
+	 	 	 	 	 2005	 2004	 	 	 	 	 	 £000	 £000
+Authorised
+500,000,000	 ordinary	 shares	 of	 1.25p	 (2004:	 38,000,000	 ordinary	 shares	 of	 2.5p)	 each	 6,250	 950
+Cancelled	 preference	 shares	 (2004:	 18,600,000	 preference	 shares	 of	 50p)	 	 –	 9,300
+	 	 	 	 	 6,250	 10,250
+Called up and allotted
+183,088,125	 ordinary	 shares	 of	 1.25p	 (2004:	 13,321,260	 of	 2.5p)	 each	 	 2,289	 333
+Cancelled	 preference	 shares	 (2004:	 18,540,237	 preference	 shares	 of	 50p)	 	 –	 9,270
+	 	 	 	 	 2,289	 9,603
+At	 an	 Extraordinary	 General	 Meeting	 on	 24	 March	 2005,	 approval	 was	 given	 conditional	 upon	 the	 proposed	 admission	 of	 the	 whole	 of	 the	 Company’s	 ordinary	 share	 capital,	 issued	 and	 to	 be	 issued,	 to	 trading	 on	 AIM,	 for	 a	 reorganisation	 of	 the	 Company’s	 share	 capital	 under	 which	 each	 existing	 ordinary	 share	 would	 be	 subdivided	 into	 two	 ordinary	 shares	 at	 1.25p	 each.	 The	 meeting	 also	 approved	 the	 re-registration	 of	 the	 Company	 as	 a	 public	 limited	 Company	 and	 the	 re-registration	 took	 place	 on	 12	 May	 2005.
+On	 the	 re-registration	 of	 the	 Company,	 all	 convertible	 preference	 shares	 were	 converted	 into	 ordinary	 shares	 at	 the	 rate	 of	 two	 ordinary	 shares	 for	 one	 convertible	 preference	 share.	 Ordinary	 shares	 with	 a	 par	 value	 of	 £927 ,000	 were	 created	 and	 the	 remaining	 balance	 of	 the	 preference	 share	 nominal	 value	 of	 £8,343,000	 was	 recorded	 as	 share	 premium.	 The	 ordinary	 shares	 that	 resulted	 from	 this	 conversion	 rank	 pari	 passu	 in	 all	 respects	 with	 the	 other	 ordinary	 shares	 in	 issue	 at	 the	 date	 of	 conversion.
+The	 following	 share	 warrants	 in	 the	 ordinary	 shares	 of	 the	 Company	 were	 outstanding	 at	 31	 December:
+	 	 	 2004	 Exercised	 Lapsed	 2005	 Exercise	 Exercise 	 	 	 	 No.	 No.	 No.	 No.	 price	 period
+	 	 	 1,065,236	 –	 (1,065,236)	 –	 62.5p	 up 	 to	 11/07
+	 	 	 19,188,276	 (16,425,765)	 (2,762,511)	 –	 10p	 up 	 to	 11/07
+	 	 	 20,253,512	 (16,425,765)	 (3,827 ,747)	 –	 	 On	 12	 May	 2005,	 16,425,765	 ordinary	 shares	 of	 1.25p	 were	 issued	 for	 cash	 consideration	 of	 £1,642,576	 on	 exercise	 of	 share	 warrants.	 All	 other	 share	 warrants	 were	 waived	 on	 the	 re-registration	 of	 the	 Company.	 On	 the	 same	 day,	 60,606,061	 shares	 were	 issued	 for	 cash	 consideration	 of	 £20,000,000.	 Issue	 costs	 were	 £1,478,000.
+The	 following	 options	 in	 the	 shares	 of	 the	 Company	 were	 outstanding	 at	 31	 December	 2005:
+	 	 2004	 Exercised	 Granted	 2005	 Exercise	 Exercise 	 	 	 No.	 No.	 No.	 No.	 price	 period
+	 	 900,000	 (800,000)	 –	 100,000	 7 .5p	 04/98–07/06
+	 	 1,648,000	 (260,000)	 –	 1,388,000	 9.5p	 01/00–08/07
+	 	 23,743,874	 (4,103,040)	 –	 19,640,834	 10p	 04/98–10/12
+	 	 815,000	 (68,000)	 3,254,000	 4,001,000	 42.5p	 11/06–11/12
+	 	 –	 –	 3,766,987	 3,766,987	 37 .5p	 12/06–12/15
+	 	 27 ,106,874	 (5,231,040)	 7 ,020,987	 28,896,821	 	 For	 comparative	 purposes,	 the	 2004	 share	 options	 have	 been	 reported	 in	 a	 consistent	 manner	 with	 the	 share	 split	 that	 was	 effected	 on	 12	 May	 2005. Ubiquity Software Corporation PLC Annual report and financial statements 2005 38 Ubiquity Software Corporation PLC Annual report and financial statements 2005
+15. Called up share capital continued
+In	 April	 2005,	 3,254,000	 options	 to	 purchase	 1.25p	 ordinary	 shares	 in	 the	 Company	 were	 granted	 at	 an	 	 exercise	 price	 of	 42.5p.	 On	 the	 re-registration	 of	 the	 Company,	 all	 options	 were	 reorganised	 in	 line	 with	 the	 ordinary	 shares	 of	 the	 Company.	 At	 this	 time,	 all	 unvested	 options	 vested	 for	 a	 period	 of	 three	 months	 and	 then	 reverted	 to	 the	 original	 time	 vesting	 periods.
+On	 27	 December	 2005,	 3,766,987	 options	 to	 purchase	 1.25p	 ordinary	 shares	 in	 the	 Company	 were	 granted	 	 at	 an	 exercise	 price	 of	 37 .5p.
+During	 the	 year,	 5,231,040	 options	 were	 exercised	 for	 cash	 consideration	 of	 £527 ,384.
+16. Reconciliation of operating loss to net cash outflow from operating activities 
+	 	 	 	 	 2005	 2004	 	 	 	 	 	 £000	 £000
+Operating	 loss	 	 	 	 	 (9,230)	 (6,500)
+Depreciation	 and	 amortisation	 charges	 	 	 	 634	 271
+Loss	 on	 disposal	 of	 tangible	 fixed	 assets	 	 	 	 	 –	 11
+Increase	 in	 debtors	 	 	 	 	 (98)	 (1,785)
+Increase	 in	 creditors	 	 	 	 	 502	 819
+Foreign	 exchange	 (gains)/losses	 	 	 	 	 (220)	 372
+Net	 cash	 outflow	 from	 operating	 activities	 	 	 	 	 (8,412)	 (6,812)
+17. Reconciliation of net cash flow to movement in net funds  
+	 	 	 	 	 2005	 2004	 	 	 	 	 	 £000	 £000
+Increase/(decrease)	 in	 cash	 in	 the	 year	 	 	 	 3,058	 (5,911)
+Increase	 in	 short-term	 deposits	 	 	 	 	 9,464	 1,573
+Foreign	 exchange	 movements	 	 	 	 	 220	 (372)
+Movement	 in	 net	 funds/(deficit)	 in	 the	 year	 	 	 	 12,742	 (4,710)
+Net	 funds	 at	 1	 January	 	 	 	 3,590	 8,300
+Net	 funds	 at	 31	 December	 	 	 	 	 16,332	 3,590
+18. Analysis of net funds
+	 	 	 At	 	 Foreign	 At	 	 	 	 1 	 January	 Cash	 exchange	 31 	 December	 	 	 	 2005	 flow	 movements	 2005	 	 	 	 £000	 £000	 £000	 £000
+Cash	 at	 bank	 and	 in	 hand	 	 	 2,017	 3,058	 220	 5,295
+Current	 asset	 investments	 	 	 1,573	 9,464	 –	 11,037
+Net	 funds	 	 	 3,590	 12,522	 220	 16,332
+Notes to the financial statements continued Ubiquity Software Corporation PLC Annual report and financial statements 2005 Ubiquity Software Corporation PLC Annual report and financial statements 2005 39
+19. Financial instruments
+The	 Chief	 Financial	 Officer’s	 statement	 on	 page	 10	 provides	 an	 explanation	 of	 the	 role	 of	 financial	 instruments	 during	 the	 period	 in	 creating	 or	 changing	 the	 risks	 the	 Group	 faces	 in	 its	 activities.	 The	 explanation	 summarises	 the	 objectives	 and	 policies	 for	 holding	 or	 issuing	 financial	 instruments	 and	 similar	 contracts,	 and	 the	 strategies	 for	 achieving	 those	 objectives	 that	 have	 been	 followed	 during	 the	 period.
+The	 numerical	 disclosures	 in	 this	 note	 deal	 with	 financial	 assets	 and	 financial	 liabilities	 as	 defined	 in	 Financial	 Reporting	 Standard	 13	 (FRS	 13)	 ‘Derivatives	 and	 other	 financial	 instruments:	 Disclosures’.	 Certain	 financial	 assets	 such	 as	 investments	 in	 subsidiary	 and	 associated	 companies	 are	 excluded	 from	 the	 scope	 of	 these	 disclosures.
+As	 permitted	 by	 FRS	 13,	 short-term	 debtors	 and	 creditors	 have	 been	 excluded	 from	 the	 disclosures,	 other	 	 than	 the	 currency	 disclosures.
+Interest rate profile
+The	 interest	 rate	 profile	 of	 the	 Group’s	 financial	 assets	 at	 31	 December	 2005	 was	 as	 follows:
+    Floating Fixed Non interest 
+   Total rate rate bearing 
+   2005 2005 2005 2005 
+   £000 £000 £000 £000
+Sterling	 	 	 14,157 4,157 10,000 –
+Euro	 	 	 245 – 224 21
+US	 dollar	 	 	 1,421 598 823 –
+Canadian	 dollar	 	 	 509 509 – –
+Total	 	 	 16,332 5,264 11,047 21
+As	 at	 31	 December	 2005	 the	 weighted	 average	 floating	 interest	 rate	 yield	 across	 the	 Group	 was	 4.25%	 and	 	 the	 weighted	 average	 fixed	 interest	 rate	 yield	 across	 the	 Group	 was	 4.32%.
+The	 profile	 as	 at	 31	 December	 2004	 for	 comparison	 purposes	 was	 as	 follows:
+	 	 	 	 Floating	 Fixed	 Non 	 interest	 	 	 	 Total	 rate	 rate	 bearing 	 	 	 	 2004	 2004	 2004	 2004	 	 	 	 £000	 £000	 £000	 £000
+Sterling	 	 	 26	 26	 –	 –
+Euro	 	 	 73	 –	 –	 73
+US	 dollar	 	 	 3,292	 1,719	 1,573	 –
+Canadian	 dollar	 	 	 199	 199	 –	 –
+Total	 	 	 3,590	 1,944	 1,573	 73 Ubiquity Software Corporation PLC Annual report and financial statements 2005 40 Ubiquity Software Corporation PLC Annual report and financial statements 2005
+19. Financial instruments continued
+Currency exposures
+As	 explained	 on	 page	 10	 in	 the	 Chief	 Financial	 Officer’s	 statement,	 the	 Group’s	 objectives	 in	 managing	 currency	 exposure	 arising	 from	 its	 overseas	 trade	 and	 operations	 are	 to	 minimise	 its	 exposure	 by	 firstly	 maintaining	 the	 majority	 of	 it’s	 short-term	 monetary	 assets	 in	 sterling,	 and	 secondly	 by	 pursuing	 a	 natural	 hedge	 between	 local	 currency	 receipts	 and	 payables	 whenever	 possible.
+The	 Group	 consolidates	 foreign	 subsidiaries	 using	 the	 temporal	 method.	 Gains	 and	 losses	 arising	 from	 these	 structural	 currency	 exposures	 are	 recognised	 in	 the	 profit	 and	 loss	 account.
+The	 table	 below	 shows	 the	 Group’s	 currency	 exposures;	 in	 other	 words,	 those	 transactional	 exposures	 described	 above	 that	 give	 rise	 to	 the	 net	 currency	 gains	 and	 losses	 recognised	 in	 the	 profit	 and	 loss	 account.	 Such	 exposures	 comprise	 monetary	 assets	 and	 monetary	 liabilities	 of	 the	 Group	 that	 are	 not	 denominated	 in	 the	 operating	 (or	 ‘functional’)	 currency	 of	 the	 Group.	 As	 at	 31	 December	 2005	 these	 exposures	 were	 as	 follows:	 Net foreign currency monetary assets/(liabilities) 
+	 	 	 Euro	 US	 $	 Canadian 	 $	 Total	 Currency	 	 	 £000	 £000	 £000	 £000
+Cash	 and	 short-term	 investments	 	 	 244	 1,421	 510	 2,175
+Other	 current	 assets	 	 	 433	 950	 570	 1,953
+Other	 current	 liabilities	 	 	 (5)	 (227)	 (97)	 (329)
+For	 comparative	 purposes,	 as	 at	 31	 December	 2004	 these	 exposures	 were	 as	 follows:
+Net foreign currency monetary assets/(liabilities)
+	 	 	 Euro	 US	 $	 Canadian 	 $	 Total	 Currency	 	 	 £000	 £000	 £000	 £000
+Cash	 and	 short-term	 investments	 	 	 73	 3,292	 199	 3.564
+Other	 current	 assets	 	 	 195	 934	 1	 1,130
+Other	 current	 liabilities	 	 	 –	 (134)	 (64)	 (198)
+As	 at	 31	 December	 2005,	 the	 Group	 held	 no	 currency	 swaps,	 forward	 contracts	 or	 other	 derivatives	 to	 	 manage	 these	 currency	 exposures.
+As	 at	 31	 December	 2004,	 the	 Group	 had	 an	 outstanding	 financial	 commitment	 under	 a	 forward	 exchange	 contract	 to	 purchase	 US$1,500,000	 for	 £778,776.	 The	 contract	 matured	 on	 4	 January	 2005.
+Notes to the financial statements continued Ubiquity Software Corporation PLC Annual report and financial statements 2005 Ubiquity Software Corporation PLC Annual report and financial statements 2005 41
+20. Financial commitments
+Operating lease commitments
+At	 31	 December	 2005,	 the	 Group	 was	 committed	 to	 making	 the	 following	 payments	 during	 the	 next	 year	 in	 relation	 to	 operating	 leases:
+	 	 	 	 Land 	 and	 Motor	 	 	 	 	 	 buildings	 vehicles	 Total	 	 	 	 	 £000	 £000	 £000
+Leases which expire
+Between	 two	 and	 five	 years	 	 	 	 613	 15	 628
+After	 five	 years	 	 	 	 73	 –	 73
+	 	 	 	 686	 15	 701
+At	 31	 December	 2004,	 the	 Company	 was	 committed	 to	 making	 the	 following	 payments	 during	 the	 next	 year	 	 in	 relation	 to	 operating	 leases:
+	 	 	 	 Land 	 and	 Motor	 	 	 	 	 	 buildings	 vehicles	 Total	 	 	 	 	 £000	 £000	 £000
+Leases which expire
+Between	 two	 and	 five	 years	 	 	 	 292	 15	 307
+After	 five	 years	 	 	 	 73	 –	 73
+	 	 	 	 365	 15	 380
+21. Related party transactions
+At	 31	 December	 2005	 BellNet	 Corporation	 owned	 7 .27%	 of	 the	 share	 capital	 of	 the	 Company	 (2004:	 13.2%).	 During	 2005,	 the	 Company	 made	 sales	 to	 BellNet	 Corporation	 of	 £930,006	 (2004:	 £2,057 ,399)	 under	 a	 minimum	 commitment	 reseller	 agreement.	 Of	 the	 revenue	 recognised,	 a	 provision	 of	 £558,000	 was	 made	 	 due	 to	 non-receipt	 of	 the	 final	 payment	 due	 under	 the	 above	 minimum	 commitment	 reseller	 agreement.	 BellNet	 Corporation	 disposed	 of	 its	 shares	 in	 Ubiquity	 after	 31	 December	 2005.
+Celtic	 House	 Investment	 Partners	 Limited	 owned	 6.8%	 of	 the	 share	 capital	 of	 the	 Company	 (2004:	 12.3%).	 During	 2005,	 the	 Company	 reimbursed	 Celtic	 House	 Investment	 Partners	 £14,583	 (2004:	 £nil)	 in	 relation	 to	 	 the	 provision	 of	 directors’	 services	 for	 S	 J	 Gibson.	 After	 the	 year-end,	 Celtic	 House	 Investment	 Partners	 	 Limited	 transferred	 its	 interest	 in	 Ubiquity	 to	 Wesley	 Clover	 Corporation.
+The	 Company	 has	 applied	 the	 exemption	 granted	 by	 Financial	 Reporting	 Standard	 8	 not	 to	 disclose	 related	 party	 transactions	 with	 Group	 Companies,	 where	 90%	 or	 more	 of	 the	 voting	 rights	 of	 the	 subsidiary	 company	 are	 controlled	 within	 the	 Group. Ubiquity Software Corporation PLC Annual report and financial statements 2005 42 Ubiquity Software Corporation PLC Annual report and financial statements 2005
+Company information
+Company Registration
+2719723
+Company Secretary
+Rafferty	 Atha	 Jackson
+Registered Office
+Building	 3
+Eastern	 Business	 Park
+Wern	 Fawr	 Lane
+St	 Mellons
+Cardiff	 CF3	 5EA
+	 Nominated Adviser & Broker
+Evolution	 Securities	 Limited
+100	 Wood	 Street
+London	 EC2V	 7AN
+	 Auditors
+Deloitte	 &	 Touche	 LLP
+Blenheim	 House
+Fitzalan	 Court
+Cardiff	 CF24	 0TS					 Solicitors
+Osborne	 Clarke
+1	 London	 Wall
+London	 EC2Y	 5EB
+Principal Bankers
+HSBC	 plc
+114	 St	 Mary	 Street
+Cardiff		 CF10	 1LF
+Registrars
+ComputerShare	 Investor	 Services	 plc
+The	 Pavilions
+Bridgwater	 Road
+Bristol	 BS99	 1XZ Ubiquity Software Corporation PLC Annual report and financial statements 2005 Ubiquity Software Corporation PLC Annual report and financial statements 2005 43
+Financial calendar
+2005 Results –	 8	 March	 2006	 AGM	 –	 2	 May	 2006	 Interim	 –	 September	 2006	 Year-end	 –	 31	 December	 2006	 •
+•
+•
+• Ubiquity Software Corporation PLC Annual report and financial statements 2005 44
+Notes Ubiquity Software develops and markets 
+SIP-based communications software  
+for fixed and mobile Service Providers, 
+System Integrators, Independent Software 
+Vendors and OEM partners worldwide.
+01	 Highlights
+02	 Ubiquity 	 at	 a	 glance
+Annual report and financial statements
+04	 Chairman’ s 	 statement
+06	 Chief 	 Executive’ s	 statement	 10	 Chief 	 Financial	 Officer’ s	 statement
+12	 Board 	 of	 Directors
+13	 Directors’ 	 report
+15	 Corporate 	 governance	 statement	 17	 Directors’ 	 remuneration	 report
+21	 Statement 	 of	 Directors’	 responsibilities
+22	 Independent 	 Auditors’	 report
+24	 Consolidated 	 profit	 and	 loss	 account
+25	 Combined 	 statement	 of	 movement	 in	 shareholders’	 funds	 and	 reconciliation	 	 of	 movements	 on	 reserves
+26	 Consolidated 	 balance	 sheet
+27	 Company 	 balance	 sheet
+28	 Consolidated 	 cash	 flow	 statement
+29	 Notes 	 to	 the	 financial	 statements
+42	 Company 	 information
+43	 Financial 	 calendar
+©	2006	Ubiquity	Software	Corporation	plc.	All	rights	reserved.		Ubiquity	is	a	 registered	trademark	of	Ubiquity	Software	Corporation	plc.	All	other	products,	 company	names,	logos,	and	services	are	the	trademarks	of	the	respective	holders. Do you see what we see?
+Ubiquity Software Corporation PLC
+Annual report and financial statements 2005
+UK Office
+Eastern Business Park
+Building 3
+Wern Fawr Lane
+St Mellons
+Cardiff CF3 5EA
+T:  +44 (0) 29 2081 7500
+F:  +44 (0) 29 2081 7501
+US Office
+203 Redwood Shores Parkway
+Suite 500
+Redwood City
+CA 94065
+T:  +1 (650) 413 7100
+F:  +1 (650) 413 7120
+Canada Office
+515 Legget Drive
+Suite 400
+Ottawa
+Ontario K2K 3G4
+T: +1 (613) 271 2027
+F:  +1 (613) 271 8817
+Japan Office
+Level 15
+JT Building
+2-2-1 Toranomon
+Minato-ku
+Tokyo 105-0001
+T:  +81 (0)3 5114 8368
+F:  +81 (0)3 5114 8282
+China Office
+Suite 806A
+Union Plaza
+No. 20
+Chao Wai Da Jie
+Beijing 100020
+T:  +86 (10) 6588 7052/53
+F:  +86 (10) 6588 7054
+Customer Support
+In Europe and Asia
+T: +44 2920 817600
+In the Americas
+T: +1 888 830 5477
+T: +1 650 413 7125
+Ubiquity Software Corporation PLC  Annual report and financial statements 2005

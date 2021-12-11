@@ -1,0 +1,3533 @@
+ Lombard Risk Management plc Annual report and accounts 2013
+Managing collateralised trading.
+Enabling regulatory compliance.
+Lombard Risk Management plc Annual report and accounts 2013 Lombard Risk Management plc has 
+continued to deliver industry-leading 
+risk management and regulatory 
+compliance software for over 
+twenty years.
+More recently, Lombard Risk has expanded its 
+portfolio of technology solutions to include 
+stress testing, transaction reporting and 
+management reporting. 
+Our award-winning solutions enable the 
+financial industry to improve the management 
+of counterparty risk, collateral risk, trading risk, 
+liquidity risk reporting, global regulatory reporting, 
+transaction reporting and the provision of 
+internal management information.
+Annual report and accounts 2013 Lombard Risk Management plc
+In this report
+Overview
+01 Highlights
+02 Lombard Risk at a glance
+04 How we work
+06 Chairman’s statement
+07	 Chief	Executive	Officer’s	statement
+11 Financial review
+13 Risk analysis
+Governance
+14 Board of Directors
+16 Corporate governance
+19 Directors’ report
+21 Report of the Audit Committee
+22 Report of the Remuneration Committee 
+Financial statements
+24 Independent auditor’s report
+25 Consolidated statement of comprehensive income
+26 Consolidated balance sheet
+27 Consolidated statement of changes in 
+shareholders’ equity
+28	 Consolidated	cash	flow	statement
+29	 Notes	to	the	financial	statements
+46 Independent auditor’s report
+47 Company balance sheet
+48	 Notes	to	the	Company	financial	statements
+52 Company information www.lombardrisk.com Annual report and accounts 2013
+Overview 01–13
+01
+  Revenue £16.8m (2012: £12.8m) of which second half £9.0m 
+(2012: £6.4m)
+  Licence revenues £8.2m (2012: £6.0m) 
+  EBITDA increased 77% to £5.3m (2012: £3.0m)
+	 	 Profit	before	tax	£3.9m	(2012:	£2.5m)
+  Cash at end of period £1.9m (2012: £0.1m) with net cash 
+of £0.2m (2012: net debt of £2.4m)
+  33 contracts signed for COREP , of which eleven are new names
+	 	 Significant	sale	of	REFORM	platform	to	satisfy	 DF A	and	EMIR	
+reporting requirements
+	 	 FY	2014	opens	with	record	revenue	backlog	in 	place
+	 	 Final	dividend	0.040p	per	share	(2012:	0.035p 	per	share)	
+recommended to shareholders
+  The Board continues to view the future with optimism
+Highlights
+Discover our website at 
+www.lombardrisk.com 
+for up-to-the-minute 
+news and investor 
+information
+Revenue
+ £ 16.8m 
++31%
+Total comprehensive income
+ £ 3.9m 
++56%
+Adjusted net cash / (debt)
+ £ 0.2m 
++£2.6m
+8.7
+11.8
+1.8
+8.9
+0.7
+(1.2)
+12.8
+(2.4)
+16.8
+0.2
+2009 2009 2009 2011 2011 2011 2010 2010 2010 2012 2012 2012 2013 2013 2013
+(1.1)
+1.3
+(1.6)
+2.5
+3.9
+Eleven with new customers.
+33
+contracts signed for 
+COREP solution
+33
+contracts signed for 
+COREP solution 2
+1
+1
+2
+3
+4 5
+4
+3
+6
+Annual report and accounts 2013 Lombard	Risk	Management	plc
+02
+The Lombard Risk integrated product suite enables financial 
+institutions to meet risk and regulatory requirements now 
+and as they continue to evolve.
+W e	are	committed	to	providing	innovative	specialised	products	that	stay	a	step	ahead	
+of	complex	collateralised	trading	demands,	changing	market	conditions,	increasing	
+regulatory	challenges,	on-going	financial	and	operational	risk	pressures,	and	a	host	
+of	other	financial	compliance	mandates.
+Lombard Risk
+At a glance
+ComplianceASSESSOR™
+Addressing regulatory risk
+–	 Off	the	shelf ,	plug	and	play	facilitates	same	
+day	set-up,	yet	can	be	tailored	to	accommodate	
+specific	requirements
+–	 Ability	to	load	multi-jurisdictional	regulations	
+to address cross-border requirements
+–	 Searchable,	centralised	library	provide s	“one-stop	
+shopping” when seeking applicable regulations
+REFORM
+®
+Adaptable transactional reporting
+–	 Event	engine	based	on	core	technolo gy	
+building blocks
+–	 Satisfies	reporting	requirements	unde r	
+Title	VII	of	The	Dodd-F rank	Act
+–	 T echnology	suitable	for	EMIR	and	similar	
+Asian	reporting	requirements	as	well	as	MiFID2
+REPORTER and  
+REG-Reporter
+Regulatory compliance
+– Basel III, EBA / European common reporting 
+–	COREP	and	FINREP	–	and	transaction	reporting,	
+as 	 well 	 as 	 Solvency 	 II 	 for 	 the 	 insurance 	 marketplace
+–	 Regulatory	computation	from	raw	data	
+with	comprehensive	capital,	liquidity	and	
+large	exposures	engines	as	well	as	detailed	
+statistical computations
+OBERON
+®
+ and FIRMAMENT
+®
+Trade valuation and risk management
+–	 Mature,	high	margin	product
+– Target clients include Tier 1 and Tier 2 banks, 
+service providers and asset managers
+– Sales in the UK, US and Asia
+–	 F unctional	and	performance	enhancements
+COLLINE
+®
+Integrated collateral management 
+and clearing
+–	 Multi-agreement,	multi-region	and	C ROS S-
+PRODUCT collateral management with real-time 
+view	across	product	types
+–	 Supports	F utures	Commission	Merchant	(“FCM”)	
+and	non-FCM	central	counterparty	CLEARING	
+(“CCP ”)	via	dedicated	CCP	dashboard,	workflow	
+and reporting
+MIS
+Dynamic management information suite
+–	 Highly	visible	management	information	
+in a moment
+–	 Easily	scalable	to	fit	business	growth, 	
+in	any	direction
+–	 Not	restricted	to	any	one	data	model
+– High performance instance report viewing
+LISA
+®
+Flagship interface
+–	 State-of -the-art	technology	with	a	po werful	and	
+attractive web-based graphical user interface, 
+LISA	satisfies	new	liquidity	risk	management	
+requirements	and	supports	urgent	regulatory	
+demands	for	timely	and	reliable	information
+–	 Liquidity	Management	Dashboard	provides	
+instant view of stressed and unstressed cash 
+flows	over	time	and	extensive	reporting	of	
+Liquid Asset Buffer composition and utilisation 2
+1
+1
+2
+3
+4 5
+4
+3
+6
+www.lombardrisk.com Annual report and accounts 2013
+Overview 01–13
+03
+1
+3
+5
+2
+4
+6
+Our locations
+Offices
+London (headquarters)
+New	Y ork	and	New	Jersey
+Shanghai
+Hong Kong
+Singapore
+Japan
+1
+3
+2
+4
+Partners/associates
+Luxembourg
+South Africa
+Thailand
+Indonesia
+Service selection
+Lombard Risk also offers 
+services in the form of 
+training, support, consulting, 
+and implementation and 
+deployment	related	to	
+our products.
+Worldwide presence
+Lombard	Risk	employs	over	
+270 people across the globe 
+and has customers in the UK, 
+mainland Europe, Africa, the 
+Middle	East,	the	Americas,	
+Asia and Oceania.
+Worldwide presence
+Lombard	Risk	employs	over	
+270 people across the globe 
+and has customers in the UK, 
+mainland Europe, Africa, the 
+Middle	East,	the	Americas,	
+Asia and Oceania.
+Service selection
+Lombard Risk also offers 
+services in the form of 
+training, support, consulting, 
+and implementation and 
+deployment	related	to	
+our products.
+Talent
+Every	staff	member	is	
+valued for their contribution 
+to	Lombard	Risk’s	ability	to	
+deliver	the	very	best	
+products and services 
+for its customers.
+Talent
+Every	staff	member	is	
+valued for their contribution 
+to	Lombard	Risk’s	ability	to	
+deliver	the	very	best	
+products and services 
+for its customers.
+Lombard Risk is headquartered in London, 
+employs	over	270	people	and	is	rapidly	
+expanding,	and	operates	globally	via	
+subsidiaries, who both develop and deliver 
+its products and a range of services. Annual report and accounts 2013 Lombard	Risk	Management	plc
+04 How we work
+Our business model
+Dedicated to managing risk and regulatory compliance
+The	mission	at	Lombard	Risk	is	to	provide	specialised	software	solutions	and	domain	expertise	to	safeguard	financial	
+institutions	and	global	enterprises	around	the	world	by	improving	the	management	of	risk	and	regulatory	compliance.	
+W e	do	this	by	taking	care	of	our	customers	first	and	foremost	with	a	proven	client	service	approach	and	in-depth	domain	
+expertise.	The	partnership	approach	we	take	with	our	customers	and	partners	has	enabled	us	to	achieve	a	customer	retention	
+rate	that	is	consistently	high.
+The market
+Lombard Risk delivers industry-leading risk management and regulatory compliance solutions to the financial services 
+industry and large corporations around the world.
+Our proven global solutions reduce the risk inherent in collateralised trading operations, enable firms to measure and 
+manage liquidity and meet the demands of global regulators.
+Our 300+ clients include over 30 of the world’s “Top 50” banks, nearly half of the banks operating in the UK (where 
+our corporate headquarters is located), as well as industry-leading banking businesses, investment firms, asset 
+managers, hedge funds, fund administrators and large corporations worldwide.
+Product and services cycle
+Our model is to provide 	high	quality	technology	solutions,	either	directly	or	through	our	partners;	implement 
+solutions,	usually	alongside	the	customer;	provide 	on-going	support;	and	maintain the product to a high technical 
+specification	and,	where	applicable,	to	satisfy	up-to-date	regulatory	requirements.	All	stages	are	revenue	opportunities.
+For over 23 years Lombard Risk has delivered industry-leading global risk 
+management and regulatory compliance solutions. T oday, Lombard Risk is one 
+of the world’s recognised leading providers of collateral management and clearing, 
+liquidity stress testing and analysis, regulatory reporting and compliance, and 
+event-driven workflow solutions to financial organisations and large corporations 
+around the world. Our proven global solutions reduce the risk inherent in 
+collateralised trading operations and the derivatives market, enable firms to 
+measure and manage liquidity and meet the demands of global regulators.
+Innovation
+Industry -leading	
+products provide risk 
+and	regulatory	solutions	
+for	global	financial	
+services operations
+Scalability
+Ability	for	solutions	to	be	
+attractive to organisations 
+of	any	size;	significant	
+data	processing	is	NOT	
+an issue
+Agility
+Adaptable	and	flexible	
+business model to suit 
+our clients’ requirements 
+(eg term licence or 
+annual subscription)
+Expertise
+Significant	pool	of	
+business practitioners 
+and	experienced	
+implementation 
+consultants
+New and
+detailed regulations
+continue to surface, 
+eg	FINREP ,	FR- Y14
+New and
+detailed regulations
+continue to surface, 
+eg	FINREP ,	FR- Y14
+New products
+and modules to 
+current products, eg 
+we are investing in 
+ComplianceASSESSOR™ 
+and 	 COLLINE
+® 
+Optimisation
+New products
+and modules to 
+current products, eg 
+we are investing in 
+ComplianceASSESSOR™ 
+and 	 COLLINE
+® 
+Optimisation
+Convergence
+of risk and regulation 
+– increased value 
+added from our 
+industry	practitioners
+Convergence
+of risk and regulation 
+– increased value 
+added from our 
+industry	practitioners
+Further 
+revenue visibility
+backlog and recurring 
+revenues continue at 
+record levels
+Further 
+revenue visibility
+backlog and recurring 
+revenues continue at 
+record levels
+Opportunities for growth www.lombardrisk.com Annual report and accounts 2013
+Overview 01–13
+05
+Our	strategy
+K ey	performance	indicators
+Build Maintain Grow
+ Enhance optimisation 
+functionality	in	COLLINE
+®
+ to 
+meet developing demands
+ Improve product design, 
+integration and performance
+	 Develop,	with	key 	customers,	
+next-generation	regulatory	
+reporting solution
+	 Execute	efficient	
+global operation
+	 Extend	partner	ba se
+	 Client 	 base, 	 especially 	 for	
+newer 	 products 	 (eg 	 REFORM
+®
+ 
+for transaction reporting 
+and messaging) 
+ Targeted global presence
+ Addressable market using 
+current	technology	platforms
+	 Company 	 organically 	 and, 	 if	
+appropriate, through acquisition
+	 Market-leading	position	
+in	regulatory	compliance
+	 Industry -leading 	 position 	 in 	 OT C	
+derivative risk management
+ Strong relationships with 
+our clients
+	 Understanding	of	regulatory	
+waves	and	benefits	therefrom
+Working capital management (£m) F unctional	costs	(fully	expensed)	as	a	proportion	
+of functional revenue (£m)
+2.5
+10.1
+0.2
+3.3
+2.3
+12.6
+0.6
+4.3
+2012
+2012
+2012
+2012
+2013
+2013
+2013
+2013
+Trade receivables
+Administrative 
+expenses
+Trade payables
+Investment in 
+development
+Professional 
+services
+Support and 
+maintenance
+Sales and 
+marketing*
+Research and 
+development*
+Administration*
+* versus total revenue
+F urther	information	on	
+how the Directors monitor 
+key	performance	indicators	
+in the Directors’ report 
+starting on page 19
+4.6 1.3 28%
+2.8 3.9 72%
+16.8 3.1 18%
+16.8 4.9 29%
+16.8 3.7 22%
+Cost Revenue
+Our	strategy	has	allowed	us	to	create	award-winning	global	solutions.
+Turnover by trading division (£m)
+2013
+2012
+7.9 8.9
+Risk management and 
+trading software
+Regulatory compliance 
+software
+2013
+2012
+6.5
+4.8
+4.2
+1.3
+Turnover by geography (£m)
+United Kingdom
+Rest of Europe, Middle 
+East and Africa
+The Americas
+Asia Pacific Annual report and accounts 2013 Lombard	Risk	Management	plc
+06
+I am pleased to report a progressive year at Lombard 
+Risk. The financial performance has met our growth 
+expectations. Sales of COREP , our solution for European 
+Banking Authority Common Reporting, and of our 
+transactional reporting platform, REFORM
+®
+, have been 
+at the forefront of this growth. As well as recording 
+top line growth in excess of 30% (18% organic), 
+we finished the year with a record revenue backlog 
+and appreciable visibility of future revenues as 
+a result of an improvement in the longevity 
+of contractual commitments.
+Last	year	I	highlighted	the	Group’s	strategy	of	building	
+a	high-quality	business	based	upon	intellectual	property .	
+This	strategy	of	continual	innovation	and	product	
+development 	 within 	 both 	 new 	 regulatory 	 reporting 	 solutions	
+and repeatable platforms ensures that we remain at the 
+forefront	of	providing	regulatory	reporting	and	risk	
+management in our chosen global markets. 
+Our progress has been achieved against the continuing 
+backdrop	of	a	global	economic	environment	dominated	by	
+key	economies	unable	to	drag	themselves	out	of	recession,	
+worldwide	inflationary	pressures	and	the	instability	of	the	
+Euro.	On	a	micro	level,	financial	institutions	are	seeking	
+to	retain	cash	and	either	cancelling	or	postponing	many	
+technology	initiatives.	In	addition,	regulatory	reporting	
+deadlines	are	regularly	being	delayed	causing	delivery	
+difficulties	for	both	our	customers	and	the	Group.	These	
+challenges also present opportunities, with the increasing 
+waves	of	regulation	in	financial	markets	showing	no	signs	
+of abating. Our target customer base continues to have 
+many	mandatory	technology	requirements,	for	which	
+budget	remains	available.	Lombard	Risk’s	technology	
+predominantly	satisfies	mandatory	needs.
+The 	 trading 	 highlight 	 was 	 the 	 sale 	 of 	 our 	 REFORM
+®
+ platform 
+to	a	major	global	bank	to	satisfy	its	DF A	(Dodd-F rank	Act)	
+and	EMIR	(European	Market	Infrastructure	Regulation)	
+transactional reporting requirements.
+Operationally ,	I	am	delighted	that	the	Group	achieved	
+CMMI-D	Level	3	accreditation	from	the	CMMI	Institute.	
+This	is	in	recognition	of	its	high-quality	software	design,	
+development and implementation processes. This, together 
+with 	 the 	 ISO 	 9001 	 certification, 	 is 	 a 	 prestigious 	 achievement 	
+for	our	technology	division.	W e	have	defined	CMMI-D	
+Level	3	processes	which	increase	delivery	efficiency	and	
+team effectiveness and are consistent and repeatable across 
+all projects and products. This further enhances our reputation 
+with 	 clients 	 and 	 partners 	 and 	 confirms 	 our 	 ability , 	 if 	 required, 	
+to scale up development work on multiple projects.
+The Board continues to review acquisition opportunities 
+where	strong	synergies	exist	with	the	Group	and	where	
+our	development	expertise	can	enhance	functionality	
+and	profitability	to	the	products	acquired.
+As	the	Group’s	results	have	indicated,	turnover	growth	
+has proved to be more than resilient to economic 
+challenges and we remain optimistic for the future.
+Philip Crawford
+Chairman
+13 May 2013
+Chairman’s statement
+Philip Crawford
+In summary
+ Revenue £16.8m (2012: £12.8m)
+	 Improvement	in	future	revenue	visibility
+	 Global	regulatory	reporting	requirements	continue	to	expand
+	 Major	contract	to	provide	transactional	reporting	using	REFORM
+®
+	 CMMI-D	Level	3	accreditation	achie ved
+	 The	Board	remain s	optimistic	for	the	future	outlook	of	the	Group
+CMII-D 3 Accreditation
+In	January	2013	Lombard	
+achieved accreditation from the 
+CMMI	Institute	in	recognition	of	
+its	high-quality	software	design,	
+development and 
+implementation processes.
+CMII-D 3 Accreditation
+In	January	2013	Lombard	
+achieved accreditation from the 
+CMMI	Institute	in	recognition	of	
+its	high-quality	software	design,	
+development and 
+implementation processes. www.lombardrisk.com Annual report and accounts 2013
+Overview 01–13
+07
+“ The Group continues to benefit 
+from a compelling combination 
+of a growing market, a healthy 
+mix of long-standing and new 
+customers, record recurring 
+and committed revenues, good 
+forward visibility and a leading 
+competitive position.”
+Summary
+The	year	was	a	record	both	for	revenue	and	profits,	with	
+over 30% headline growth and like for like revenue growth 
+of 18% after taking into account the impact of acquisitions. 
+EBITDA	increased	from	£3.0m	last	year	to	£5.3m	in	the	
+current	 year ,	 a	 77%	 rise.	 While	 this	 rise	 was	 expected	 it	 was	
+nevertheless pleasing that, at the same time, we were able 
+to 	 build 	 a 	 record 	 revenue 	 backlog 	 going 	 into 	 the 	 new 	 financial 	
+year . 	 All 	 this 	 was 	 achieved 	 in 	 spite 	 of 	 the 	 European 	 regulatory	
+deadlines 	 slipping 	 by 	 nine 	 months 	 or 	 more, 	 which 	 inevitably	
+affected	our	revenue	for	the	year .	The	second	half	of	the	
+year	was	especially	strong.	W e	have	now	grown	revenues	
+by	a	compound	20%	per	annum	over	the	last	four	years.
+The	Group	continues	to	benefit	from	a	compelling	
+combination	of	a	growing	market,	a	healthy	mix	of	
+long-standing and new customers, record recurring and 
+committed 	 revenues, 	 good 	 forward 	 visibility 	 and 	 a 	 leading	
+competitive	position.	As	a	result	we	remain	confident	
+of	further	growth	in	the	new	financial	year	and	beyond.	
+At	a	time	when	many	companies	in	the	software	sector	
+are struggling, we believe that in the near future the 
+market	will	recognise	that	we	not	only	have	a	strong	
+positioning in the growing areas of regulation and risk 
+but	that	we	are	executing	well	in	those	markets.	
+W e	invested	appreciably	during	the	year ,	both	in	product	
+development and in strengthening the sales team, including 
+the	appointment	of	a	Head	of	Global	Alliances.	There	are	
+significant	opportunities	in	our	markets,	particularly	at	
+present, which demand further investment in product 
+development and which the Board believes will contribute 
+appreciably	to	future	revenues.	Indirect	sales	will	become	
+an	increasingly	important	part	of	our	revenue	model	and	
+again this should contribute to revenue growth.
+W e 	 enter 	 the 	 new 	 financial 	 year 	 with 	 our 	 recurrent 	 revenues 	
+at an all-time high, our highest ever level of contractual 
+backlog, with a boost from the remaining COREP deals 
+that	we	anticipate	would	have	closed	before	March	2013	
+had	the	regulations	not	been	delayed.	
+Financial
+Revenue	for	the	year	increased	by	31%	to	£16.8m	
+(2012:	£12.8m).	Profit	before	taxation	was	£3.9m	
+(2012: 	 £2.5m) 	 and 	 profit 	 after 	 taxation 	 was 	 £3.7m 	
+(2012: £2.5m). EBITDA was £5.3m (2012: £3.0m). 
+W e 	 built 	 up 	 cash 	 during 	 the 	 year 	 to 	 £1.9m 	 at 	 the 	 same	
+time 	 as 	 repaying 	 debt 	 and 	 ended 	 the 	 year 	 with 	 a 	 positive	
+net cash position of £0.2m versus net debt in the previous 
+year	of	£2.4m,	an	improvement	of	£2.6m.	
+T o	put	these	numbers	into	full	context:
+i)	 	 W e	only	owned	the	REG-Reporter
+®
+ business for three 
+months	of	the	previous	financial	year .	The	pro	forma	
+revenue	number	for	FY	2012	would	have	been	£14.2m	
+rather	than	£12.8m	had	we	owned	it	for	the	full	year .	
+That gives a like for like revenue growth number for 
+the	Group	of	18%.
+ii)	 	 W e	raised	equity	during	the	year	of	£1.5m	after	costs,	
+so	that	we	were	cash	positive	by	£0.8m	from	our	
+operations	post-investing	activities,	despite	heavy	
+investment in our products and in our sales team.
+Chief Executive Officer’s statement
+John	W isbey
+In summary
+	 18%	organic	growth;	31%	total	rev enue	growth
+	 EBITDA	increased	 to	£5.3m	from	p rior	year	of	£3.0m	
+	 Many	COREP	and	FINREP	opportunities	exist
+ ComplianceASSESSOR launched
+	 Multiple	of	REFORM
+®
+	already	evide nt
+ Well placed for future growth Annual report and accounts 2013 Lombard	Risk	Management	plc
+08
+Regulatory and Compliance software products
+Lombard	Risk	is	the	market	leader	for	UK	bank	regulatory	
+reporting software in the UK through its REPORTER product. 
+Lombard 	 Risk 	 is 	 also 	 the 	 largest 	 supplier 	 by 	 far 	 of 	 regulatory	
+reporting software to foreign banks in the US.
+Regulatory 	 change 	 is 	 always 	 one 	 of 	 the 	 main 	 revenue 	 drivers	
+for	a	regulatory	business.	2014	is	now	the	key	deadline	for	
+common 	 reporting 	 (“COREP”) 	 and 	 common 	 financial 	 reporting 	
+(“FINREP ”) 	 at 	 European 	 Union 	 level 	 to 	 the 	 European 	 Banking	
+Authority	(“EBA ”).	Originally	COREP	had	been	expected	to	
+come	into	force	by	the	end	of	March	2013.	W e	have	been	
+successful in the UK in selling REPORTER COREP software 
+to 	 33 	 clients 	 (with 	 many 	 more 	 to 	 go). 	 It 	 is 	 very 	 encouraging	
+that so far eleven of these clients have been new names 
+for us. Interesting statistics are that of these eleven, seven 
+were won from competitors, two were start-ups and two 
+had	previously	used	manual	systems.	
+Revenues 	 for 	 Regulatory 	 Compliance 	 in 	 EMEA 	 were 	 inevitably	
+affected	by	the	nine	month	delay	in	COREP	as	there	were	
+further 	 delays 	 at 	 European 	 level 	 in 	 finalising 	 the 	 regulations. 	
+Banks also saw no need to accelerate implementation projects 
+when	it	was	increasingly	apparent	that	quite	a	lot	of	the	
+work might need to be redone when the regulations were 
+finalised.	Obviously	at	the	same	time	as	adversely	affecting	
+revenues 	 for 	 the 	 year 	 ending 	 March 	 2013, 	 regulatory 	 delays	
+have been helpful for our opening contractual backlog going 
+into	the	year	ending	March	2014	and	for	our	sales	pipeline	
+for 	 the 	 year 	 ending 	 March 	 2014. 	 In 	 addition 	 it 	 was 	 not 	 clear	
+last	year	whether	FINREP	would	apply	in	the	UK.	It	now	
+seems	most	likely	that	it	will	and	this	should	bring	an	
+additional	stream	of	revenue	in	the	current	financial	year .
+Financial	regulation	continues	much	as	before	at	UK	level	
+despite European EBA initiatives and the recent split of the 
+FSA	into	the	Prudential	Regulation	Authority	(“PRA ”)	and	
+the	Financial	Conduct	Authority	(“FCA ”)	is	likely	to	give	a	
+stable	UK	regulatory	environment	for	the	next	few	years.	
+It	will	not	affect	the	appreciable	regulatory	change	to	be	
+introduced	in	the	next	few	years,	and	we	expect	this	to	
+keep	us	very	busy .	
+Our 	 regulatory 	 reporting 	 acquisition 	 in 	 America 	 has 	 been 	 well	
+integrated. All client contracts were novated and we lost 
+no clients other than a foreign bank branch which closed 
+down	in	the	US.	W e	now	have	over	75	regulatory	clients	
+in	the	US,	many	of	them	Tier	1	foreign	banks.	In	Asia	work	
+continued 	 satisfactorily 	 on 	 Chinese 	 regulatory 	 reporting 	 and	
+in	finishing	a	number	of	regulatory	projects	in	Hong	K ong	
+and	Singapore.	W e	expect	Asia	to	perform	strongly	in	the	
+new	financial	year	thanks	to	investment	in	the	past	year .
+W e	made	strong	headway	with	our	REFORM
+®
+ product 
+in the area around transaction reporting and reporting 
+to	trade	repositories	like	the	DT CC	to	comply	with	US	CF T C	
+and	SEC	requirements	derived	from	the	Dodd-F rank	Act.	
+A major development in global markets is the development 
+of	trade	repositories	such	as	the	DT CC,	CME	and	REGIS.	
+The	Dodd-F rank	Act	in	the	US,	and	the	EMIR	and	REMIT	
+regulations in the EU, as well as similar developments in 
+Hong	K ong,	Japan,	Singapore	and	other	countries,	compel	
+Swap Dealers and other market participants to report derivative 
+transactions to trade repositories in minutes in the US and 
+at 	 least 	 daily 	 in 	 other 	 jurisdictions. 	 The 	 technology 	 in 	 REFORM
+®
+ 
+is	highly	reusable	for	message	transformation	generally	
+and we have also used it for message transformation in 
+the collateral space as described below.
+We also launched our ComplianceASSESSOR™ product. 
+This product puts good process around compliance with 
+regulations and creates a clear view and audit trail of how 
+an 	 institution 	 is 	 complying 	 with 	 individual 	 parts 	 of 	 its 	 regulatory	
+environment.	At	a	time	when	there	is	increasing	focus	by	
+UK regulators on conduct, and when some banks have 
+faced	very	heavy	fines	for	not	complying	with	regulations	
+(eg 	 making 	 payments 	 in 	 US$ 	 to 	 Iranian 	 entities), 	 this 	 product	
+is in the right place at the right time. There should be good 
+upside	from	this	product	in	the	next	year .
+Other	EMEA	opportunities	for	our	traditional	regulatory	
+business	over	the	next	few	years	after	COREP ,	FINREP	and	
+EMIR 	 will 	 come 	 from 	 Basel 	 3 	 and 	 MIFID 	 2, 	 with 	 opportunities	
+to	expand	our	client	base	for	Solvency	2.	The	need	to	
+report transactions to trade repositories should generate 
+additional business for us.
+Chief Executive Officer’s statement continued
+Total revenue
+ £16.8m +31%
+(2012: £12.8m)
+Average revenue growth since 2010
+24% p.a. www.lombardrisk.com Annual report and accounts 2013
+Overview 01–13
+09
+As	well	as	our	new	REFORM
+®
+ and ComplianceASSESSOR™ 
+products, we have made, and continue to make, some 
+important	technology	and	product	enhancements	to	our	
+regulatory	product	set.	This	will	be	a	focus	for	investment	
+in	the	coming	year ,	designed	to	make	our	regulatory	
+product set more attractive to global Tier 1 banks at 
+regional	or	head	office	level	as	well	as	enhancing	the	
+experience	and	providing	additional	modules	to	our	wider	
+client	set.	Our	REPORTER	Analysis	Centre	was	launched	
+during	the	year	and	has	already	generated	revenue.
+Risk Management and Trading products 
+W e 	 have 	 made 	 strong 	 progress 	 with 	 COLLINE
+®
+, our collateral, 
+clearing	and	repo	platform.	W e	now	have	just	under	fifty	
+direct	clients	for	COLLINE
+®
+	and	many	more	indirect	clients.	
+During	the	year	we	signed	up	another	top	German	bank,	
+adding	to	our	existing	German	bank	wins	and	Société	
+Générale	in	the	previous	year .	Several	clients	were	gained	
+for	our	COLLINE
+®
+ CCP clearing and repo modules. 
+Almost	all	our	clients	are	affected	by	either	Dodd-F rank	or	
+EMIR	regulatory	requirements.	This	has	been	helpful	to	us	
+by	forcing	banks	and	other	large	market	participants	to	
+review	systems	where	their	legacy	system	is	not	built	with	
+these	regulatory	changes	in	scope.	Our	COLLINE
+®
+ clearing 
+module has been built with this in mind and we have made 
+many 	 other 	 changes 	 to 	 COLLINE
+®
+ to ensure that it is compliant 
+with the new regulations.
+Much 	 work 	 has 	 been 	 done 	 on 	 opening 	 up 	 COLLINE
+®
+ through 
+APIs and allowing even greater automation through 
+connectivity 	 to 	 other 	 infrastructure. 	 W e 	 used 	 a 	 combination	
+of	our	COLLINE
+®
+	API	and	our	REFORM
+®
+ platform to create 
+two	way	real-time	links	with	a	collateral	market	messaging	
+system	called	Marginsphere	from	AcadiaSoft,	Inc.	This	is	
+now	almost	in	full	production	at	a	Tier	1	German	bank.	
+Greater	automation	and	straight	through	processing	is	
+important	to	most	large	bank	clients;	we	anticipate	more	
+initiatives in this regard.
+OBERON
+®
+, our most established product, which has the 
+ability	to	value	and	risk	manage	many	different	types	of	
+financial	instrument,	is	profitable	and	continues	to	move	
+forward with functional and performance enhancements. 
+Technology
+W e	continue	to	see	our	technology	as	an	increasingly	
+positive	part	of	our	commercial	story	and	a	key	driver	for	
+growth.	Our	IP	is	a	major	corporate	asset.	During	the	year	
+we 	 have 	 invested 	 heavily 	 in 	 developing 	 software, 	 particularly	
+to handle our clearing and repo/sec lending initiatives for 
+COLLINE
+®
+	but	also	to	develop	our	new	REFORM
+®
+ product 
+mentioned above and to prepare for our REPORTER 
+COREP module. 
+Our 	 model 	 is 	 to 	 do 	 much 	 of 	 the 	 business 	 analysis 	 in 	 London,	
+New	Y ork	and	other	financial	centres	but	to	handle	the	
+majority	of	development	and	testing	in	Shanghai,	China.	
+Efficiency	and	good	process	is	very	important	to	us.	During	
+the	year	our	Development	and	T esting	Centre	was	awarded	
+the 	 CMMI-D 	 Level 	 3 	 award. 	 This 	 is 	 a 	 very 	 significant 	 external 	
+validation of a well-managed operation with good processes.
+Much	progress	has	continued	to	be	made	on	moving	our	
+technology’s 	 look 	 and 	 feel 	 to 	 a 	 new 	 platform 	 and 	 in 	 building	
+components that can work across our various products. 
+Client reaction to the look and feel of the new platform 
+has	been	extremely	positive.	F unctionally ,	our	products	
+continued to make great progress.
+COLLINE
+®
+’s	scalability ,	resilience	and	performance	is	proven	
+at our largest client using active-active clustering in multiple 
+data centres, user locations in three continents and over 
+300	users.	This	means	we	now	have	every	confidence	that	
+our solution is scalable from the smallest collateral user to 
+the 	 largest 	 global 	 bank. 	 Similar 	 technology 	 is 	 being 	 deployed	
+for	our	other	products	where	performance	is	a	key	issue.
+W e	have	invested	in	greatly	upgrading	the	software	tools	
+which we use ourselves to monitor software project costs, 
+project	progress	and	individual	productivity	and	quality .
+Personnel and premises
+During the period we continued to make new hires appropriate 
+to 	 the 	 expected 	 growth 	 of 	 the 	 business. 	 Headcount 	 increased	
+to	273	at	31	March	2013	from	252	at	the	prior	year	end.	
+About 	 150 	 of 	 our 	 Group 	 headcount 	 are 	 in 	 our 	 Development	
+and Testing Centre in Shanghai.
+Investment in product development
+£4.3m +29%
+(2012: £3.3m)
+Net	assets
+ £10.5m +95%
+(2012: £5.4m) Annual report and accounts 2013 Lombard	Risk	Management	plc
+10
+“ COLLINE
+®
+’s scalability, resilience 
+and performance is proven at our 
+largest client using active-active 
+clustering in multiple data centres, 
+user locations in three continents 
+and over 300 users.”
+Prospects
+W e 	 enter 	 the 	 new 	 financial 	 year 	 with 	 a 	 good 	 level 	 of 	 optimism. 	
+Firstly , 	 our 	 recurrent 	 revenue 	 is 	 well 	 up 	 and 	 we 	 have 	 a 	 record	
+contractual	backlog	to	start	the	year .	Secondly ,	our	product	
+strategy	means	that	we	are	well	placed	to	benefit	from	the	
+considerable	opportunity	in	the	regulatory	and	risk	areas	in	
+which 	 we 	 operate. 	 Thirdly , 	 we 	 have 	 made 	 great 	 headway 	 with	
+our partnership module and see the likelihood of more revenue 
+through	third	parties	than	in	the	past.	Finally ,	COREP	is	a	
+greater	opportunity	for	this	year	than	we	expected	as	a	
+result	of	the	regulatory	delays.
+W e	clearly	continue	to	operate	in	an	environment	where	
+there	is	little	discretionary	spending	and	where	many	major	
+banks	and	the	countries	in	which	they	operate	are	far	from	
+financial 	 health. 	 There 	 also 	 remains 	 the 	 risk 	 of 	 high 	 government 	
+debt	levels	leading	to	inflationary	pressures	for	many	G20	
+countries including the main ones in which we operate. 
+While	no	company	can	be	immune	to	the	overall	
+macroeconomic situation, we do believe that Lombard 
+Risk	is	very	well	placed	in	its	target	markets.
+W e 	 anticipate 	 a 	 year 	 of 	 further 	 encouraging 	 growth. 	 I 	 would	
+like 	 to 	 thank 	 all 	 my 	 colleagues 	 as 	 well 	 as 	 our 	 advisers 	 for 	 their	
+hard work and commitment and our customers and investors 
+for their continued support.
+John Wisbey
+Chief Executive
+13 May 2013
+Chief Executive Officer’s statement continued www.lombardrisk.com Annual report and accounts 2013
+Overview 01–13
+11
+This Finance review expands the information on financial performance contained within the Chairman’s statement 
+and the Chief Executive Officer’s statement and seeks to give a clear picture of year -on-year progress.
+Users	of	the	annual	report	should	be	able	to	make	a	candid	assessment	of	the	financial	performance	of	the	Group.	
+The	FY	2012	acquisition	and	capitalisation	of	development	costs	for	the	last	two	years	inadvertently	reduce	the	
+transparency	of	the	financial	performance	of	the	Group.	The	Group’s	operating	budget	and	monthly	management	
+information	measures	financial	performance	assuming	no	capitalisation.	The	figures	below	help	enable	users	of	the	
+annual	report	to	enjoy	the	same	comparable	information:
+Y ear	ended	31	March
+2013
+£m
+2012
+£m
+2011
+£m
+Revenue	including	pro	forma	acquired	business	for	all	years 16.8 14.2 13.8
+EBITDA including acquired business with no capitalisation 1.0 (0.3) 0.7
+EBITDA including acquired business and capitalisation* 5.3 3.0 2.6
+Profit	before	tax	including	acquired	business	with	no	capitalisation 0.7 (0.5) 0.5
+Profit	before	tax	including	acquired	business	and	capitalisation* 3.9 2.5 2.4
+T otal	technology	expenditure** 6.1 4.5 2.7
+Cash generated from operations with no capitalisation 1.0 (1.5) 1.2
+	 *	Capitalisation	assumed	at	73%	of	research	and	development	costs	in	FY	2011. 
+** Includes research, development, testing, support and product maintenance.
+The 	 Group 	 has 	 experienced 	 respectable 	 revenue 	 growth, 	 with 	 only 	 professional 	 service 	 revenues 	 falling 	 below 	 expectations,	
+which	resulted	from	clients’	implementation	delays.	
+Must-have	technology	solutions	create	a	much-desired	compelling	sales	event	but	also	reduce	flexibility	on	the	timing	
+of	investment	in	development,	as	missing	regulatory	deadlines	is	not	an	option	for	our	customers.	W e	therefore	need	
+to	remain	agile	and	meet	our	customers’	delivery	expectations.	This	has,	in	turn,	resulted	in	technology	costs	increasing	
+year -on-year	by	35%	(2012:	66%).
+Financial review
+Paul Tuson
+Key messages
+ Organic revenue growth of 18% (2012: 4%)
+ Organic licence revenue growth of 31% (2012: 42%)
+	 Growth	is	still	challenged	by	difficult	macroeconomic	market	conditions
+	 Strong	performance	in	Europe	part ially	offset	by	underperformance	in	Americas	and	Asia	P acific
+	 At	31	March	2013,	contracted	bac klog	for	licence	and	professional	services	totalled	£4.4m	(2012:	£2.6m)
+ Average committed term of EBA COREP contracts (annual licence and support and maintenance) signed 
+to	31	March	2013	is	4.7	years
+	 Capitalisation	of	development	cost s	added	£3.2m	(2012:	£3.0m)	to	profi t	for	the	year
+	 US	regulatory	business	acquired	in	FY	2012	met	operating	expectations
+“ Must-have technology solutions 
+create a much-desired compelling 
+sales event but also reduce flexibility 
+on the timing of investment in 
+development, as missing regulatory 
+deadlines is not an option for our 
+customers. We therefore need 
+to remain agile and meet our 
+customers’ delivery expectations.” Annual report and accounts 2013 Lombard	Risk	Management	plc
+12
+Over 	 the 	 past 	 two 	 years, 	 the 	 Group 	 has 	 focussed 	 on 	 increasing	
+contract 	 longevity . 	 The 	 commitment 	 shown 	 by 	 our 	 customers	
+implies 	 a 	 high 	 level 	 of 	 satisfaction 	 with 	 the 	 Group’s 	 products	
+and levels of support and maintenance. In addition, it provides 
+solid	foresight	and	predictability	to	a	strong	level	of	
+future revenues.
+Profit and loss
+Revenues 	 increased 	 by 	 31% 	 to 	 a 	 record 	 £16.8m 	 for 	 the 	 year ,	
+compared	with	£12.8m	in	the	prior	year .	Licence	revenues	
+increased	in	the	year	by	37%	to	£8.2m	(2012:	£6.0m),	
+representing 49% of revenues (2012: 47%). Recurring 
+annual	revenues	totalled	£7.2m,	approximately	43%	of	
+revenue (2012: 43%) and now have a current annual run 
+rate	of	in	excess	of	£8.0m.	
+Operating	profit	before	share-based	charges,	depreciation	
+and amortisation and acquisition costs increased to £5.3m 
+(2012:	£3.1m).	Profit	before	tax	increased	to	£3.9m	
+(2012: £2.5m).
+The 	 effective 	 rate 	 of 	 tax 	 for 	 the 	 year 	 was 	 4.7% 	 (2012: 	 0.0%).	
+The	recognised	deferred	tax	asset	decreased	by	£0.2m	to	
+£0.5m	(2012:	£0.7m)	and	the	unrealised	deferred	tax	asset	
+is £0.7m (2012: £1.3m).
+Cash flow
+Cash generated in operations was £5.8m (2012: £1.8m). 
+As	for	many	growth	technology	companies,	the	pressure	
+on balancing working capital requirements with investing 
+in	longer -term	growth	continues.	The	Group	produces	
+cash forecasts close to real time which are monitored 
+closely .	The	decision	to	raise	£1.5m	in	June	2012	mitigated	
+any	risk	of	delays	by	regulatory	authorities	in	introducing	
+new	reporting	requirements	causing	an	extension	to	the	
+pay	back	on	new	product	developments.
+Investment	in	research	and	development	expenditure	that	
+was capitalised was £4.3m (2012: £3.3m).
+The	Group	raised	£1.5m	(net)	(2012:	£0.1m)	with	£0.1m	
+(2012:	£0.1m)	resulting	from	the	exercise	of	employee	
+stock options. 
+The	Group	had	cash	outflows	of	£1.2m	to	partially	
+satisfy 	 the 	 debt 	 incurred 	 to 	 finance 	 the 	 FY12 	 acquisition. 	
+In 	 December 	 2012, 	 the 	 Group 	 settled 	 the 	 loan 	 note 	 for	
+$550,000	due	for	repayment	by	31	December	2013	
+at 	 a 	 discount 	 of 	 $83,000. 	 This 	 was 	 partially 	 financed 	 by 	
+a short-term bank loan of €400,000. The loan was taken 
+in	Euros	to	mitigate	foreign	exchange	exposure	on	
+contractual	payments	due	in	Euros.
+Overall	there	was	a	net	cash	inflow	of	£1.7m	
+(2012:	outflow	£1.7m).
+Balance sheet
+Non-current 	 assets 	 at 	 31 	 March 	 2013 	 increased 	 to 	 £13.4m	
+(2012:	£10.4m),	predominantly	caused	by	the	increase	
+in capitalised development costs.
+Net 	 cash 	 at 	 31 	 March 	 2013 	 is 	 £0.2m 	 (2012: 	 net 	 debt 	 £2.4m).
+T rade	receivables	were	13%	of	revenues	at	31	March	2013,	
+compared	to	20%	and	5%	for	2012	and	2011	respectively .	
+The	decrease	this	year	partially	offset	the	working	capital	
+squeeze	 caused	 by	 the	 increase	 at	 the	 end	 of	 the	 prior	 year .
+Shareholder information
+The	Group’s	website	at	www .lombardrisk.com	contains	a	
+wide range of information about our activities and visitors 
+can download copies of the report and accounts as well 
+as newsletters and matters of interest.
+Paul Tuson
+Chief Finance Officer
+13 May 2013
+Financial review continued
+F or	further	details	on	our	
+financial	position,	turn to 
+the financial statements 
+starting on page 25 www.lombardrisk.com Annual report and accounts 2013
+Overview 01–13
+13
+Risk area Mitigation
+1. Market risk: Market	risk	includes	factors	that	
+impact	the	value	of	the	Group’s	assets	and	liabilities	
+and 	 the 	 expected 	 value 	 in 	 base 	 currency 	 of 	 the	
+Group’s	revenues	and	costs.
+i. Currency risk: The	Group	is	exposed	to	
+translational	and	transactional	foreign	exchange	
+risk as it operates in various currencies, including 
+US 	 Dollars, 	 the 	 Euro, 	 Chinese 	 Y uan, 	 Hong 	 K ong 	 Dollars	
+and Singapore Dollars which affect the management 
+and levels of working capital.
+Although,	through	its	own	software,	the	Group	has	access	to	sophisticated	
+models 	 for 	 the 	 management 	 of 	 foreign 	 exchange 	 risk, 	 there 	 has 	 historically 	 been	
+no 	 use 	 of 	 foreign 	 exchange 	 derivatives 	 to 	 manage 	 this 	 position 	 on 	 the 	 basis 	 that	
+the	overall	effect	on	the	Group’s	income	statement	has	not	been	large	enough	
+to	warrant	the	management,	costs	and	margin	requirements	of	this	activity .	
+The	Group	does	use	natural	hedges	where	the	appropriate	opportunity	arises.	
+In 	 addition, 	 the 	 Group 	 prepares 	 working 	 capital 	 forecasts 	 that 	 incorporate 	 sensitivity	
+analysis 	 on 	 exchange 	 rate 	 fluctuations. 	 The 	 Company’s 	 main 	 on-going 	 transactional 	
+exposure	is	to	be	long	of	Euro	and	US	Dollars	and	short	of	Chinese	Y uan.
+ii. Inflation risk: The	Group	has	exposure	to	the	
+inflationary	effect	of	operating	in	countries	in	which	
+it	 operates,	 offset	 by	 its	 ability	 to	 raise	 prices	 in	 those	
+countries	in	which	it	sells.	The	Group’s	cost	base	is	
+mainly	exposed	to	the	inflation	rates	and	changes	
+in	payroll	taxes	in	the	UK,	the	US	and	China.
+The 	 inflation 	 rate 	 for 	 salaries 	 in 	 specialised 	 parts 	 of 	 the 	 financial 	 sector 	 in 	 a 	 financial 	
+centre	such	as	London,	New	Y ork	or	Shanghai	is	often	different	from	the	relevant	
+country’s 	 overall 	 rate 	 of 	 wage 	 inflation. 	 Salary 	 inflation 	 in 	 these 	 markets 	 and 	 internally 	
+is	monitored.	No	specific	hedging	of	inflation	risk	has	been	carried	out.
+iii. Interest rate risk: Interest	 rate	 risk	 arises	 primarily	
+on	the	investment	of	the	Group’s	cash	balances	
+or on its borrowings and the present value of the 
+Group’s 	 receivables. 	 In 	 par ticu lar , 	 in tere s t 	 on 	 the	
+Grou p ’ s 	 borrowi ng s 	 i s 	 a f fec t ed 	 by 	 LIBOR .
+The	Group	finances	its	operations	through	retained	cash	reserves	and	overdraft	
+facilities. 	 The 	 policy 	 of 	 the 	 Group 	 is 	 to 	 monitor 	 exposure 	 to 	 interest 	 rate 	 risk 	 and	
+take	into	account	potential	movements	in	interest	rates	as	well	as	liquidity	
+considerations	when	selecting	methods	of	financing.
+2. Credit risk: Credit	risk	is	the	risk	that	a	third	party	
+might	fail	to	fulfil	its	performance	obligations	under	
+the	terms	of	a	financial	instrument.	F or	cash	and	
+cash equivalents and trade and other receivables, 
+credit	risk	represents	the	carrying	amount	on	the	
+balance	sheet,	net	of	any	overdraft	positions.
+Most	of	the	Group’s	business	is	with	banks,	asset	management	firms	and	other	
+high	quality	companies	and	the	Group’s	bad	debt	experience	over	fifteen	years	
+has 	 been 	 negligible. 	 The 	 Group 	 consequently 	 has 	 not 	 considered 	 taking 	 out 	 credit	
+insurance	and	is	not	likely	to	do	so	in	the	foreseeable	future.	Deposits	are	placed	
+with	high-quality	banks.	Although	through	its	own	Firmament
+®
+ software the 
+Group	has	access	to	sophisticated	models	for	the	management	of	credit	spreads	
+and credit derivatives, there has been no use of credit derivatives to mitigate 
+counterparty	risk	and	no	such	use	is	contemplated.
+3. Operational risk: This includes control over bank 
+accounts, processes for delivering and supporting 
+software	to	a	required	level	of	quality	and	on	a	
+timely	basis	and	retention	and	recruitment	of	key	
+personnel. Reputational risk might arise from poor 
+execution,	non-delivery	or	late	delivery	of	a	project	
+or	breach	of	client	confidentiality .	F urther	risks	
+may	arise	where	late	delivery	of	software	or	related	
+services	causes	a	client	to	miss	regulatory	deadlines.
+A detailed operational risk review is outside the scope of this report but the Board 
+attaches	importance	to	maintaining	appropriate	internal	controls	to	identify	and	
+limit these risks.
+This includes integrated project management across all functions of the business. 
+The	Group’s	Audit	Committee	regularly	reviews	controls	over	certain	aspects	
+of	the	operations	of	the	Group.
+4. Liquidity risk: Liquidity	risk	is	the	risk	of	loss	from	
+not	having	access	to	sufficient	funds	to	meet	both	
+expected	and	unexpected	cash	demands.
+T h e	G r o u p	s e e k s	t o	m a n a g e	fi n a n c i a l	r i s k	b y	e n s u r i n g	t h a t	s u f fi c i e n t	l i q u i d i t y	i s	
+a v a i l a b l e	t o	m e e t	f o r e s e e a b l e	n e e d s	a n d	b y	i n v e s t i n g	c a s h	a s s e t s	s a f e l y	a s	w e l l	
+as 	 p r ofi t ab l y . 	 T h e 	 G r o up ’ s 	 w or k in g 	 c ap i t al 	 r e p or t , 	 p r o duce d 	 e a ch 	 m ont h, 	 sh ow s 	
+fore c as t 	 mon thly 	 movemen t s 	 in 	 work ing 	 capital 	 and 	 cash 	 for 	 the 	 following 	 year .	
+When 	 req u i red 	 the 	 Grou p 	 h a s 	 a 	 shor t - t erm 	 o verd ra f t 	 faci l it y 	 wh ich 	 a t 	 the 	 yea r 	 end	
+has not been used.
+The Group’s multinational operations expose it to financial 
+risks that include market risk, credit risk, operational risk 
+and liquidity risk. 
+The Directors review and agree policies for managing each 
+of these and they are summarised below. These policies have 
+remained unchanged from previous years.
+Risk analysis Annual report and accounts 2013 Lombard	Risk	Management	plc
+14
+The Group is run by its Board of Directors, 
+which currently has five members, including 
+two Non-executive Directors, and meets regularly. 
+The Non-executive Directors make a valuable 
+contribution by bringing a breadth of business 
+and relevant professional experience to the Board.
+The Board has overall responsibility for the 
+Group and there is a formal schedule of matters 
+specifically reserved for decision by the Board. 
+It is responsible for the overall Group strategy, 
+acquisition and divestment policy, corporate 
+policies, approval of major capital expenditure 
+and consideration of significant capital matters.
+Board of Directors
+1
+3
+2
+4
+5 www.lombardrisk.com Annual report and accounts 2013
+15
+Governance 14–23
+1. Philip Crawford
+ Non-executive Chairman
+Philip Crawford joined the Board of Lombard Risk 
+in 	 2010. 	 He 	 has 	 been 	 working 	 in 	 the 	 IT 	 industry 	 since	
+1983. Philip has held a number of senior positions in 
+software, hardware and services companies including 
+senior vice president of Oracle Corporation with 
+membership 	 of 	 the 	 executive 	 board 	 and 	 Larry 	 Ellison’s	
+Strategy	Council,	president	of	EDS	International	with	
+responsibility	for	all	markets	outside	the	US,	chief	
+executive	of	Bull	UK	and	executive	vice	president	
+and	head	of	EMEA	for	i2	T echnologies.	
+Since	retiring	from	full	time	employment	in	2002,	
+Philip	has	concentrated	on	his	Non-executive	Director	
+portfolio	and	acts	as	a	“business	angel”.	He	is	currently	
+the chairman of Avanti Capital Plc and Crimsonwing Plc 
+as well as being chairman and investor in a small number 
+of	private	companies,	mainly	in	the	technology	space.
+2. John Wisbey
+ Chief Executive Officer
+John	W isbey	is	the	Chief	Executive	Officer	of	Lombard	
+Risk, which he has led since its launch in 1989 with the 
+introduction	of	OBERON
+®
+,	one	of	the	industry’s	original	
+software	systems	for	financial	instrument	valuation	and	
+risk 	 management. 	 John 	 has 	 guided 	 the 	 Company’s 	 organic	
+growth through the creation and development of several 
+successful	products,	initially	OBERON
+®
+,	followed	by	
+V aluSpread,	a	credit	derivative	data	service	(sold	to	Fitch	
+in 	 2005), 	 COLLINE
+®
+ for collateral management and, most 
+recently , 	 LISA
+®
+	 for 	 liquidity 	 risk 	 management 	 and 	 REFORM
+®
+ 
+for	event	reporting.	In	addition,	John	has	been	the	
+principal	architect	of	the	Company’s	inorganic	growth,	
+which	includes	the	acquisitions	of	Open	Image	Systems	
+in	1994	(later	floated	on	AIM	as	IDO X	plc	in	2000)	and	
+STB	Systems	(now	the	core	of	Lombard	Risk’s	regulatory	
+compliance	business)	in	2005	and	the	REG-Reporter
+®
+ 
+business 	 of 	 SOFGEN 	 in 	 2011. 	 T oday , 	 under 	 John’s 	 leadership,	
+Lombard Risk is an international leader in collateralised 
+trading, 	 liquidity 	 management 	 and 	 regulatory 	 compliance	
+offering a wide range of products and services to 
+multinational clients.
+Prior	to	establishing	Lombard	Risk,	John	was	head	
+of	option	trading	and	a	director	in	the	Swap	Group	
+at	Kleinwort	Benson	Limited.	John	acquired	a	broad	
+foundation 	 in 	 the 	 world’s 	 financial 	 markets 	 and 	 developed 	
+specialisations	in	derivatives	and	banking	technology	
+during	his	twelve	years	in	the	T reasury	Division	and	
+Banking Division at Kleinwort Benson while based in 
+London, 	 Hong 	 K ong 	 and 	 Singapore. 	 John 	 was 	 also 	 past	
+chairman	until	2005	of	IDO X	plc,	a	former	subsidiary	
+of	Lombard	Risk	and	now	a	leading	company	in	
+UK e-government.
+3. Paul Tuson 
+ Chief Finance Officer
+P aul 	 T uson 	 is 	 a 	 Chartered 	 Accountant 	 with 	 over 	 twenty	
+years’ 	 post-qualification 	 experience 	 gained 	 in 	 both 	 the 	
+profession	at	KPMG	and	in	industry	and	commerce	
+in	senior	finance	roles.	He	joined	the	Board	in	2011.
+P aul’s 	 experience 	 has 	 been 	 gained 	 within 	 a 	 broad 	 range	
+of	businesses,	with	emphasis	on	AIM	listed	companies.	
+He 	 has 	 particular 	 experience 	 in 	 the 	 media 	 and 	 technology	
+sectors, 	 with 	 additional 	 experience 	 in 	 telecoms 	 and 	 retail.	
+He	has	led	two	IPOs	(one	being	IPO	of	the	Y ear)	and	has	
+experience	of	rapid	growth,	business	re-engineering,	
+turnaround,	MB O	and	acquisitions	and	disposals.
+4. Nick Davies
+ Chief Technology Officer
+Nick 	 Davies 	 joined 	 the 	 Board 	 of 	 Lombard 	 Risk 	 in 	 2010	
+having	joined	the	firm	in	2008	as	the	Group’s	CTO .	
+As 	 CTO , 	 Nick 	 has 	 global 	 responsibility 	 for 	 Lombard 	 Risk’s	
+technical	vision	as	well	as	for	the	delivery	and	quality	of	
+all 	 software 	 products. 	 At 	 Lombard 	 Risk 	 Nick’s 	 achievements	
+include providing the architectural vision for the 
+rearchitecture 	 of 	 the 	 COLLINE
+®
+	 Collateral 	 Management	
+platform to provide additional business resilience and 
+processing	capacity	capabilities.	These	architecture	
+and 	 design 	 principles 	 contributed 	 to 	 COLLINE
+®
+ winning 
+its	first	Tier	1	enterprise	client	in	early	2009.	
+At	JP	Morgan	he	was	the	head	of	technology	for	three	
+global	businesses:	Globeclear ,	Collateral	Management	
+and	Global	T rust.	He	oversaw	the	technical	integration	
+of the hedge fund acquisitions into the Alternative 
+Investment group and was responsible for several high 
+profile	merger	projects.	He	was	responsible	for	the	
+technical teams that architected and implemented the 
+JP	Morgan	CommanD	product	servicing	OT C	derivatives.
+5. Brian Crowe
+ Non-executive Director
+Brian Crowe joined the Board of Lombard Risk in 2004 
+at	the	time	of	its	IPO	on	AIM.	He	was	the	chief	executive	
+of	Global	Banking	&	Markets	at	the	Royal	Bank	of	
+Scotland	plc	(“RB S”)	until	October	2008.	During	his	
+tenure at RBS, Brian was a member of the group ALCO, 
+credit and investment committees and a member of 
+the	group	executive	management	committee.	He	was	
+chairman of the wholesale committee of the British 
+Bankers’ Association from 2006 to 2008 and was a 
+member of the global banking issues committee of the 
+European	Banking	F ederation	(or	Fédération	Bancaire	
+Européenne)	from	2005	to	2008.	He	was	also	a	member	
+of	the	City	of	London	EU	Strategy	Group	for	2007/8.	
+Prior to joining RBS, he was head of derivatives at 
+Chase	Manhattan	Bank	in	London.	He	is	a	former	board	
+member of the International Swaps and Derivatives 
+Association	(“ISDA ”).
+	 	 Note: 	 The 	 Board 	 has 	 previously 	 announced 	 Brian 	 Crowe’s 	 intention	
+to resign as soon as a suitable replacement can be appointed. 16
+Annual report and accounts 2013 Lombard Risk Management plc
+The role of the Board
+The Company is controlled through its Board of Directors. 
+Ultimately, the Board’s role is the protection and 
+enhancement of shareholder value. The Board provides 
+overall strategy and direction for the Group and ensures 
+that the necessary financial and other resources are made 
+available to enable those objectives to be met. It has a 
+schedule of matters reserved for its approval including, 
+but not limited to, decisions on strategy and risk 
+management, approval of budgets, acquisitions and 
+disposals, major capital expenditure, legal and insurance 
+issues, Board structure and the appointment of advisers. 
+In some areas responsibility is delegated to committees 
+of the Board within clearly defined terms of reference.
+Once the strategic and financial objectives of the Company 
+have been set by the Board it is the role of the Chief Executive 
+to ensure that through the day-to-day management 
+of the Group’s business they are achieved.
+All Directors are subject to election by the shareholders 
+at the next general meeting following appointment 
+to the Board and to annual re-election. The Executive 
+Directors have service contracts, which are terminable 
+upon periods between three and twelve months’ notice.
+The names of the current Directors together with their 
+biographical details are set out in the “About us” page 
+within the Lombard Risk website. 
+The Directors are given access to independent professional 
+advice at the Group’s expense, when the Directors deem it is 
+necessary in order for them to carry out their responsibilities.
+The Board meets at least six times a year and the Audit 
+Committee and Remuneration Committee normally meet 
+on a formal basis twice a year. 
+The Board receives appropriate and timely information 
+prior to each meeting, with a formal agenda and Board 
+and committee papers being distributed several days 
+Corporate governance report 
+For the year ended 31 March 2013
+Note from the Chairman
+ 
+Dear Shareholder,
+The Board is committed to high standards of 
+integrity and corporate governance and consistently 
+seeks to apply the principles set out in the UK 
+Corporate Governance Code (“the Code”) as 
+judged appropriate by the Board for an AIM 
+listed company.
+We recognise the importance of diversity on 
+the Board and are currently seeking to replace 
+Brian Crowe, who has announced his intention 
+to resign after nine years’ committed, valuable 
+service, with two independent Non-executives 
+with business backgrounds that supplement 
+the remaining members of the Board.
+The Company is seeking to ensure it has 
+an appropriate balance of Executive and 
+Non-executive elements on its Board.
+On making the anticipated appointments, the 
+Board will be assessing the independence of its 
+Non-executive Directors and will subsequently 
+make arrangements to have its effectiveness 
+assessed as set out in the Code.
+Philip Crawford
+Chairman
+13 May 2013
+Board membership
+Executive Director
+Non-executive Director
+Philip Crawford 
+(Chairman)
+Brian Crowe
+(Non-executive 
+Director)
+John Wisbey 
+(Chief Executive 
+Officer)
+Nick Davies
+(Chief Technology 
+Officer)
+Paul Tuson 
+(Chief Finance 
+Officer)
+Remuneration Committee Audit Committee
+Philip Crawford Brian Crowe 
+(Committee 
+Chairman)
+Philip Crawford 
+(Committee 
+Chairman)
+John Wisbey
+Brian Crowe 17
+www.lombardrisk.com Annual report and accounts 2013
+Governance 14–23
+before meetings take place. Any Director may challenge 
+Group proposals and decisions are taken democratically 
+after discussion. Any Director who feels that any concern 
+remains unresolved after discussion may ask for that concern 
+to be noted in the minutes of the meeting. Any specific 
+actions arising from such meetings are agreed by the 
+Board and then followed up by management. 
+The Group maintains, for its Directors and officers, liability 
+insurance for any claims against them in that capacity.
+The Group has effective procedures in place to deal with 
+conflicts of interest. The Board is aware of other commitments 
+of its Directors and changes to these commitments are 
+reported to the Board.
+A summary of the Board’s main work in year ended 
+31 March 2013 includes:
+− − strategy and delivery, with a particular focus on the 
+development of the EBA common reporting solution 
+and the REFORM platform;
+− − evaluation of external growth opportunities;
+− − financial overview; and
+− − corporate governance and compliance.
+In order to ensure the effective co-operation of the Board, 
+there is a clear division between the responsibilities of the 
+Directors as set out below.
+Directors’ roles
+The Chairman’s role is to:
+− − ensure good corporate governance;
+− − lead the Board, ensuring the effectiveness of the Board 
+in all aspects of its role;
+− − ensure effective communication with shareholders; and
+− − set the Board’s agenda and ensure that all Directors 
+are encouraged to participate fully in the activities 
+and decision-making process of the Board.
+The Chief Executive Officer’s role is to:
+− − lead and provide strategic direction to the Company’s 
+management team;
+− − run the Company on a day-to-day basis;
+− − be responsible, along with the executive team, for 
+implementing the decisions of the Board and its 
+committees; and
+− − be the Company spokesperson, communicating with 
+external audiences, such as investors, analysts and 
+the media.
+The Non-executive Directors’ role is to:
+− − challenge the opinions of the Executive Directors, 
+provide fresh insight in terms of strategic direction 
+and bring their diverse experience and expertise to 
+the benefit of the leadership of the Group;
+− − assess the performance of the Chairman;
+− − provide a sounding board for the Chairman and serve 
+as an intermediary for the other Directors as necessary;
+− − scrutinise the performance of the Executive Directors 
+in terms of meeting agreed goals and objectives;
+− − be available to shareholders if they have concerns which 
+contact through the normal channels of Chairman, 
+Chief Executive Officer or other Executive Directors has 
+failed to resolve or for which such contact is inappropriate; 
+− − monitor the reporting of performance;
+− − ensure that the financial information, controls and 
+systems of risk management within the Group are 
+robust and defensible; and
+− − appoint or remove Executive Directors to or from 
+the Board, when necessary.
+Board length of service (years)
+Philip Crawford
+John Wisbey
+Paul Tuson
+Nick Davies
+Brian Crowe
+0 5 10 15 20 25 18
+Annual report and accounts 2013 Lombard Risk Management plc
+Corporate governance report continued
+For the year ended 31 March 2013
+Internal controls
+The Directors are responsible for the systems of internal 
+control. Although no system of internal control can provide 
+absolute assurance against material misstatement or loss, 
+the Group’s systems are designed to provide the Directors 
+with reasonable assurance that problems are identified 
+on a timely basis and dealt with appropriately. The Board 
+considers that there have been no substantial weaknesses 
+in internal financial controls resulting in any material losses, 
+contingencies or uncertainties and thus disclosable in the 
+accounts. The Board has considered the need for an internal 
+audit function and has concluded that there is no current 
+need for such a function within the Company.
+Accounting policies
+The Board considers the appropriateness of its accounting 
+policies on an annual basis. The Board believes that its 
+accounting policies and estimation techniques are 
+appropriate, in particular in relation to income recognition, 
+research and development and deferred expenses.
+Information
+Board reports and papers are circulated to the Directors 
+in advance of the relevant Board or committee meeting. 
+These papers are supplemented by information specifically 
+requested by the Directors from time to time. Minutes 
+of Board and committee meetings are circulated to all 
+Board members.
+The Non-executive Directors receive monthly management 
+accounts and regular management reports and information 
+which enable them to scrutinise the Group’s and 
+management’s performance against agreed objectives.
+Shareholder relations  
+and Annual General Meeting (“AGM”)
+The Company recognises the importance of dialogue 
+with all of its shareholders. The AGM is an opportunity 
+to communicate with institutional and other shareholders. 
+The outcome of the voting on AGM resolutions is disclosed by 
+means of an announcement on the London Stock Exchange.
+Additional information is supplied through the circulation 
+of the interim report and the annual report and accounts. 
+Lombard Risk Management plc maintains up-to-date 
+information on the investor section of its website,  
+www.lombardrisk.com.
+Every shareholder receives a full annual report after each 
+year end and has access to an interim report online after 
+each half year end. Care is taken to ensure that any price 
+sensitive information is released to all its shareholders, 
+institutional and private, at the same time in accordance 
+with London Stock Exchange requirements.
+Board committees
+Audit Committee
+The Audit Committee is a committee of the Board chaired 
+by Brian Crowe and also comprises Philip Crawford. The 
+Report of the Audit Committee can be found on page 21.
+Remuneration Committee
+The Remuneration Committee is a committee of the Board 
+chaired by Philip Crawford and also comprises Brian Crowe 
+and John Wisbey. The Report of the Remuneration 
+Committee can be found on page 22.
+Nominations Committee
+The Directors do not consider that, given the size of the 
+Board, it is appropriate at this stage to have a Nomination 
+Committee. However, this will be kept under regular 
+review by the Board. 19
+www.lombardrisk.com Annual report and accounts 2013
+Governance 14–23
+Directors’ report 
+For the year ended 31 March 2013
+The Directors submit their annual report together with 
+the consolidated financial statements for the year ended 
+31 March 2013.
+Directors’ responsibilities
+The Directors are responsible for preparing the annual 
+report and the financial statements in accordance with 
+applicable law and regulations.
+Company law requires the Directors to prepare financial 
+statements for each financial year. Under that law the 
+Directors have elected to prepare consolidated financial 
+statements in accordance with International Financial 
+Reporting Standards (“IFRS”) as adopted by the European 
+Union and Parent Company financial statements in 
+accordance with UK Generally Accepted Accounting 
+Practice (“UK GAAP”). Under Company law, the Directors 
+must not approve the financial statements unless they are 
+satisfied that they give a true and fair view of the state 
+of affairs and profit or loss of the Company and Group 
+for that period. In preparing these financial statements, 
+the Directors are required to:
+− − select suitable accounting policies and then apply 
+them consistently;
+− − make judgements and estimates that are reasonable 
+and prudent;
+− − state whether applicable IFRS and UK GAAP have been 
+followed, subject to any material departures disclosed 
+and explained in the financial statements; and
+− − prepare the financial statements on the going concern 
+basis unless it is inappropriate to presume that the 
+Company will continue in business.
+The Directors are responsible for keeping adequate 
+accounting records that are sufficient to show and explain 
+the Company’s transactions and that disclose with reasonable 
+accuracy at any time the financial position of the Company 
+and enable them to ensure that the financial statements 
+comply with the Companies Act 2006. They are also 
+responsible for safeguarding the assets of the Company 
+and hence for taking reasonable steps for the prevention 
+and detection of fraud and other irregularities.
+Insofar as each of the Directors is aware:
+− − there is no relevant audit information of which the 
+Company’s auditor is unaware; and
+− − the Directors have taken all steps that they ought to 
+have taken to make themselves aware of any relevant 
+audit information and to establish that the auditor 
+is aware of that information.
+The Directors are responsible for the maintenance and 
+integrity of the corporate and financial information included 
+on the Company’s website. Legislation in the UK governing 
+the preparation and dissemination of financial statements 
+may differ from legislation in other jurisdictions.
+Principal activities and Business review
+The Company is a holding company. The principal 
+activities of the Group are the provision of trading, 
+valuation and risk management systems and regulatory 
+compliance and transaction reporting systems to the 
+financial markets. A review of these activities, future 
+developments and financial risk management is provided 
+in the Chief Executive Officer’s statement and note 16 to 
+the consolidated financial statements. This information 
+forms a part of the Directors’ report.
+Principal risks and uncertainties
+The management of the business and the nature of 
+the Group’s strategy are subject to a number of risks. 
+The Directors have set out in note 16 the principal risks 
+facing the business.
+The Directors are of the opinion that a thorough risk 
+management process is adopted which involves the 
+formal review of all risks identified in note 16. Where 
+possible, processes are in place to monitor and mitigate 
+such risks. 
+Capital management
+The Group generally seeks to finance all operational 
+financing requirements through cash flows generated 
+from operating activities, although this may be 
+supplemented through capital injections if mutually 
+beneficial to the Group, current shareholders and 
+prospective investors. The Company’s equity structure 
+is set out in note 17 to the financial statements.
+Management’s objectives with respect to managing capital 
+include maintaining sufficient capital to enable the Group 
+to implement its strategy going forward with an optimal 
+level of external debt. Part of this strategy is to generate 
+a positive return to investors, both through dividend 
+income and capital growth. 20
+Annual report and accounts 2013 Lombard Risk Management plc
+Directors’ report continued
+For the year ended 31 March 2013
+Key performance indicators
+The Directors have monitored the performance of the 
+Group with particular reference to the following key 
+performance indicators:
+− − turnover by product line and geography compared 
+to prior year;
+− − backlog and contract longevity;
+− − utilisation and profitability of professional services 
+against budgets and market norms;
+− − cash management – actual compared to budget; and
+− − operating costs by function as an absolute measure 
+and as a proportion of revenues compared to prior 
+periods, forecasts and market norms.
+Turnover for both operating divisions, being Regulatory 
+Compliance and Risk Management and Trading, were both 
+in excess of 25% higher than the prior year. The increase 
+in revenues was predominantly in the UK and the Americas.
+Operating costs have been monitored and have increased 
+consistently across both operating divisions. Resulting profits 
+in the two divisions have both increased. 
+Results and dividends
+The audited financial statements for the year ended 
+31 March 2013 are set out on pages 25 to 45. The 
+Group’s profit for the year after taxation amounted 
+to £3.7m (2012: £2.5m). The Directors propose a final 
+dividend for the year of 0.040p (2012: 0.035p) per 
+Ordinary Share of 0.5p for a total dividend of 0.065p 
+(2012: 0.055p).
+Directors and their interests
+The Directors who served during the year and/or up to 
+the date of this report and their beneficial interests in 
+the Company’s Ordinary Share capital were as follows:
+31 March 2013
+Number
+31 March 2012
+Number
+John Wisbey
+1
+102,195,117 102,195,117
+Paul Tuson 1,760,000 1,500,000
+Nick Davies 441,176 441,176
+Philip Crawford 590,000 590,000
+Brian Crowe 5,825,000 5,825,000
+1  77,939,562 shares are owned directly. In addition John Wisbey is a beneficiary 
+of Advanced Technology Trust which owns a further 23,700,000 shares. 
+The balance, 555,555, is held by a third party.
+In addition to these shareholdings listed above, the Directors 
+have been granted options over Ordinary Shares.
+In accordance with best practice, all Directors will retire 
+at the forthcoming Annual General Meeting (“AGM”) 
+and, being eligible, will offer themselves for re-election.
+Payment of creditors
+It is the Group’s practice to agree credit terms with 
+all suppliers and to pay all approved invoices within 
+these agreed terms. The average trade creditors’ days 
+outstanding for the year was 26 days (2012: 35 days).
+Substantial shareholdings
+As at 31 March 2013 the Company has been notified 
+of the following interests in 3% or more of its issued 
+share capital:
+Number of shares % holding
+John Wisbey 102,195,117 44.0
+Legal & General Group plc 19,110,000 8.2
+National Bank of Canada 11,032,222 4.7
+Herald Investment Trust 7,880,000 3.4
+Research and development
+Research and development expenditure incurred on 
+the Group’s suite of products has been capitalised in line 
+with the Group’s accounting policy in the relevant period. 
+Amounts not capitalised have been expensed to the 
+Consolidated statement of comprehensive income.
+Going concern
+The financial statements have, as in previous years, 
+been prepared on a going concern basis. 
+The Directors are required by the Companies Act 2006 
+to prepare annual accounts that give a true and fair view 
+and, as part of this, to decide if it is appropriate to prepare 
+them on a going concern basis. In forming an opinion that 
+the Company and the Group is a going concern, the Directors 
+have taken particular note of the trading performance in 
+the year ended 31 March 2013. This shows an improvement 
+in the Group’s profits and cash balance.
+The Directors have prepared cash flow forecasts for the 
+period ending 30 June 2014 which show that the Company 
+and Group have sufficient facilities for on-going operations. 
+Whilst there will always remain some inherent uncertainty 
+within the aforementioned forecasts, the Directors believe 
+the Company and Group have sufficient resources to continue 
+in operational existence for at least twelve months from 
+the date of approval of these financial statements.
+Accordingly the Directors continue to adopt the going 
+concern basis in preparing the financial statements for 
+the year ended 31 March 2013.
+Auditor
+A resolution to re-appoint Grant Thornton UK LLP as auditor 
+and to authorise the Directors to agree its remuneration will 
+be placed before the forthcoming AGM of the Company.
+On behalf of the Board
+John Wisbey
+Director
+13 May 2013 21
+www.lombardrisk.com Annual report and accounts 2013
+Governance 14–23
+Report of the Audit Committee 
+For the year ended 31 March 2013 
+Membership and meetings of the Audit Committee
+The Audit Committee is a committee of the Board and is 
+composed entirely of Non-executive Directors, whom the 
+Board considers to be independent. The Audit Committee 
+invites the Executive Directors and other senior managers 
+to attend its meetings as appropriate.
+During the year the Audit Committee was chaired by 
+Brian Crowe. The Audit Committee is considered to have 
+sufficient, recent and relevant financial experience to 
+discharge its functions. The Audit Committee invites 
+others, including the external auditor, to attend its 
+meetings as appropriate.
+Role, responsibilities and terms of reference
+The Audit Committee’s role is to assist the Board in the 
+effective discharge of its responsibilities for financial 
+reporting and internal control.
+The Audit Committee’s responsibilities include:
+− − reviewing the integrity of the annual and interim financial 
+statements of the Group, ensuring they comply with 
+legal requirements, accounting standards and the AIM 
+Rules and any other formal announcements relating to 
+the Group’s financial performance;
+− − reviewing the Group’s internal financial control 
+and risk management systems;
+− − monitoring and reviewing the requirement for an 
+internal audit function; and
+− − overseeing the relationship with the external auditor, 
+including approval of its remuneration, reviewing 
+the scope of the audit engagement, assessing its 
+independence, monitoring the provision of non-audit 
+services and considering its reports on the Group’s 
+financial statements.
+Independence of external auditor
+The Audit Committee keeps under review the relationship 
+with the external auditor including:
+− − the independence and objectivity of the external 
+auditor, taking into account the relevant UK professional 
+and regulatory requirements and the relationship with 
+the auditor as a whole, including the provision of 
+non-audit services;
+− − recommending to the Board and shareholders the 
+re-appointment or otherwise of the external auditor 
+for the following financial period; and
+− − the consideration of audit fees and any fees for 
+non-audit services.
+The Audit Committee develops and recommends to the 
+Board the Company’s policy in relation to the provision 
+of non-audit services by the auditor and ensures that the 
+provision of such services does not impair the external 
+auditor’s independence.
+Brian Crowe
+Chairman of the Audit Committee
+13 May 2013 22
+Annual report and accounts 2013 Lombard Risk Management plc
+Report of the Remuneration Committee 
+For the year ended 31 March 2013 
+Companies quoted on AIM are not required to provide 
+a formal remuneration report. Therefore this report 
+is provided for information purposes to give greater 
+transparency to the way Directors are remunerated.
+Composition and role of the Remuneration Committee
+The Board has established a Remuneration Committee 
+which currently consists of Philip Crawford, Non-executive 
+Chairman, who chairs the committee, Brian Crowe, 
+Non-executive Director, and John Wisbey. The committee 
+determines the specific remuneration packages for each 
+of the Executive Directors and no Director is involved in 
+any decisions as to his own remuneration. 
+Framework and policy on 
+Executive Directors’ remuneration
+The Group’s remuneration policy is designed to provide 
+competitive rewards for its Executive Directors, taking 
+into account the performance of the Group and individual 
+Executives, together with comparisons of pay conditions 
+throughout the markets in which the Group operates. 
+It is the aim of the committee to attract, retain and 
+motivate high calibre individuals with a competitive 
+remuneration package. It is common practice in the 
+industry for total remuneration to be influenced by 
+bonuses and long-term incentives.
+The remuneration packages are constructed to provide 
+a balance between fixed and variable rewards. Therefore 
+remuneration packages for Executive Directors normally 
+include basic salary, discretionary bonuses, long-term 
+incentive awards and benefits in kind. In agreeing the 
+level of basic salaries and annual bonuses the committee 
+takes into consideration the total remuneration that 
+Executive Directors could receive.
+Basic salary
+Basic salaries are reviewed on an annual basis. The committee 
+seeks to establish a basic salary for each position, determined 
+by individual responsibilities and performance taking 
+into account comparable salaries for similar positions 
+in companies of a similar size in the same market.
+Incentive arrangements
+Annual discretionary bonuses
+These are designed to reflect the Group’s performance 
+taking into account the performance of its peers, the 
+markets in which the Group operates and the Executive 
+Directors’ contribution to that performance.
+Long-term incentive awards
+The Group operates an option scheme for qualifying staff, 
+including Executive Directors. Options are granted over 
+the Company’s shares that are capable of vesting on the 
+second anniversary of issue. The vesting period runs for 
+three to five years from the date the options first vest. 
+During the year ended 31 March 2013, options over 
+1,400,000 shares were awarded to participating staff, 
+none of which were awarded to Executive Directors.
+Other benefits
+Depending on the terms of their contracts, Executive 
+Directors are entitled to contributions to pension plans, 
+private medical insurance, permanent health insurance 
+and life assurance.
+Service contracts and notice periods
+All Executive Directors have employment contracts which 
+are subject to between three and twelve months’ notice 
+from either the Executive or the Group, given at any time. 
+Non-executive Directors
+All Non-executive Directors have a remuneration agreement 
+for an initial period of twelve months and thereafter on a 
+rolling basis subject to three months’ notice by either the 
+Non-executive Director or the Group, given at any time.
+In the event of termination of their appointment they are 
+not entitled to any compensation. 
+Non-executive Directors’ fees are determined by the 
+Executive Directors having regard to the need to attract 
+high calibre individuals with the right experience, the time 
+and responsibilities entailed and comparative fees paid 
+in the market in which the Group operates. They are not 
+eligible for pensions. They may be invited to participate 
+in the Group’s option scheme. 23
+www.lombardrisk.com Annual report and accounts 2013
+Governance 14–23
+Directors’ emoluments
+The remuneration of each Director during the year ended 31 March 2013 is detailed in the table below:
+ 
+Salary
+£000
+Benefits
+£000
+Bonus
+£000
+Total 
+for year
+ended
+31 March
+2013
+£000
+Total 
+for year
+ended
+31 March
+2012
+£000
+Pension
+contribution
+for year
+ended
+31 March
+2013
+£000
+Pension
+contribution
+for year
+ended
+31 March
+2012
+£000
+Executive
+John Wisbey 215 1 — 216 209 — —
+Paul Tuson 108 1 — 109 107 50 50
+Nick Davies 131 — — 131 116 23 23
+Non-executive
+Philip Crawford 45 — — 45 45 — —
+Brian Crowe 21 — — 21 20 — —
+Total 520 2 — 522 472 73 73
+Directors’ interest in performance share awards
+Full details of outstanding performance share awards in the Company held by Executive Directors at 31 March 2013 are 
+shown below:
+Share options At start of year Price paid Exercise price At end of year
+Date from 
+which exercisable Expiry dates
+Brian Crowe 800,000 — 5.5p 800,000 14/01/2013 14/01/2016
+Paul Tuson 2,400,000 — 5.5p 2,400,000 14/01/2013 14/01/2016
+Nick Davies 1,000,000 — 6.0p 1,000,000 20/06/2010 20/06/2013
+Nick Davies 3,600,000 — 4.5p 3,600,000 28/05/2012 28/05/2015
+Mike Shinya 1,050,000 — 4.5p — 28/05/2012 31/08/2012
+Philip Crawford 2,400,000 — 4.5p 2,400,000 28/05/2012 28/05/2015
+Philip Crawford 600,000 — 5.5p 600,000 14/01/2013 14/01/2016 24
+Annual report and accounts 2013 Lombard Risk Management plc
+Independent auditor’s report to the 
+members of Lombard Risk Management plc
+We have audited the consolidated financial statements 
+of Lombard Risk Management plc for the year ended 
+31 March 2013 which comprise the Consolidated 
+statement of comprehensive income, the Consolidated 
+balance sheet, the Consolidated statement of changes 
+in shareholders’ equity, the Consolidated cash flow 
+statement and the related notes. The financial reporting 
+framework that has been applied in their preparation 
+is applicable law and International Financial Reporting 
+Standards (“IFRS”) as adopted by the European Union.
+This report is made solely to the Company’s members, 
+as a body, in accordance with Chapter 3 of Part 16 
+of the Companies Act 2006. Our audit work has been 
+undertaken so that we might state to the Company’s 
+members those matters we are required to state to 
+them in an Auditor’s report and for no other purpose. 
+To the fullest extent permitted by law, we do not accept 
+or assume responsibility to anyone other than the Company 
+and the Company’s members as a body, for our audit 
+work, for this report, or for the opinions we have formed.
+Respective responsibilities of Directors and auditor
+As explained more fully in the Directors’ responsibilities 
+statement set out on page 19, the Directors are responsible 
+for the preparation of the consolidated financial statements 
+and for being satisfied that they give a true and fair view. 
+Our responsibility is to audit and express an opinion on 
+the consolidated financial statements in accordance with 
+applicable law and International Standards on Auditing 
+(UK and Ireland). Those standards require us to comply 
+with the Auditing Practices Board’s (“APB’s”) Ethical 
+Standards for Auditors.
+Scope of the audit of the financial statements
+A description of the scope of an audit of financial 
+statements is provided on the APB’s website at  
+www.frc.org.uk/apb/scope/private.cfm.
+Opinion on financial statements
+In our opinion the consolidated financial statements:
+− − give a true and fair view of the state of the Group’s 
+affairs as at 31 March 2013 and of its profit for the 
+year then ended; 
+− − have been properly prepared in accordance with 
+IFRS as adopted by the European Union; and
+− − have been prepared in accordance with the 
+requirements of the Companies Act 2006.
+Opinion on other matter 
+prescribed by the Companies Act 2006
+In our opinion the information given in the Directors’ 
+report for the financial year for which the consolidated 
+financial statements are prepared is consistent with the 
+consolidated financial statements.
+Matters on which we are 
+required to report by exception
+We have nothing to report in respect of the following:
+Under the Companies Act 2006 we are required to report 
+to you if, in our opinion:
+− − certain disclosures of Directors’ remuneration specified 
+by law are not made; or
+− − we have not received all the information and explanations 
+we require for our audit.
+Other matter
+We have reported separately on the Parent Company 
+financial statements of Lombard Risk Management plc 
+for the year ended 31 March 2013.
+Christopher Smith
+Senior Statutory Auditor
+for and on behalf of Grant Thornton UK LLP
+Statutory Auditor, Chartered Accountants
+London
+13 May 2013
+Independent auditor’s report 
+Consolidated financial statements 25
+Financial statements 24–51
+www.lombardrisk.com Annual report and accounts 2013
+Consolidated statement of comprehensive income 
+For the year ended 31 March 2013
+Note
+Year ended
+31 March 
+2013
+£000
+Year ended 
+31 March 
+2012
+£000
+Continuing operations
+Revenue 2 16,768 12,758
+Cost of sales (201) (123)
+Gross profit 16,567 12,635
+Administrative expenses (12,585) (10,118)
+Profit from operations 4 3,982 2,517
+Finance expense 5 (86) (32)
+Finance income 6 — 2
+Profit before taxation 3,896 2,487
+Tax (charge) / credit 7 (182) 18
+Profit for the year from continuing operations 3,714 2,505
+Profit for the year from continuing operations attributable to:
+Owners of the Parent 3,751 2,505
+Non-controlling interest (37) —
+3,714 2,505
+Other comprehensive income
+Exchange differences on translating foreign operations 28 (40)
+Total comprehensive income for the year 3,742 2,465
+Total comprehensive income attributable to:
+Owners of the Parent 3,779 2,465
+Non-controlling interest (37) —
+3,742 2,465
+Profit per share
+Basic (pence) 8 1.63 1.20
+Diluted (pence) 8 1.58 1.16
+The accompanying accounting policies and notes form an integral part of the financial statements. 26
+Annual report and accounts 2013 Lombard Risk Management plc
+Company number: 03224870 Note
+As at
+31 March 
+2013
+£000
+As at 
+31 March 
+2012
+£000
+Non-current assets
+Property, plant and equipment 11 221 186
+Goodwill 12 5,848 5,799
+Other intangible assets 12 6,868 3,669
+Deferred tax asset 7 503 721
+13,440 10,375
+Current assets
+Trade and other receivables 13 3,384 4,210
+Cash and cash equivalents 1,874 128
+5,258 4,338
+Total assets 18,698 14,713
+Current liabilities
+Borrowings 14 (1,013) (667)
+Trade and other payables 15 (2,223) (2,512)
+Deferred income (4,276) (4,449)
+(7,512) (7,628)
+Long-term liabilities
+Borrowings 14 (667) (1,333)
+Other deferred consideration 10 — (347)
+(667) (1,680)
+Total liabilities (8,179) (9,308)
+Net assets 10,519 5,405
+Equity
+Share capital 17 1,592 1,484
+Share premium account 6,622 5,221
+Foreign exchange reserves (96) (124)
+Other reserves 1,687 1,685
+Profit and loss account 751 (2,861)
+Equity attributable to owners of the Parent 10,556 5,405
+Non-controlling interest (37) —
+Total equity 10,519 5,405
+The financial statements were approved by the Board on 13 May 2013 and signed on its behalf by:
+John Wisbey  Paul Tuson
+Chief Executive Officer  Chief Finance Officer
+The accompanying accounting policies and notes form an integral part of the financial statements.
+Consolidated balance sheet
+As at 31 March 2013 27
+Financial statements 24–51
+www.lombardrisk.com Annual report and accounts 2013
+Consolidated statement of changes in shareholders’ equity
+For the year ended 31 March 2013
+Share
+capital
+£000
+Share
+ premium
+account
+£000
+Foreign 
+exchange
+reserves
+£000
+Other
+reserves
+£000
+Profit 
+and loss 
+account
+£000
+Total
+attributable 
+to the
+ owners 
+of the 
+Company 
+£000
+Non-
+controlling 
+interest
+£000
+Total
+equity
+£000
+Balance at 1 April 2012 1,484 5,221 (124) 1,685 (2,861) 5,405 — 5,405
+Issue of share capital 108 1,470 — — — 1,578 — 1,578
+Share issue costs — (69) — — — (69) — (69)
+Share-based payment charge — — — 2 — 2 — 2
+Dividends — — — — (139) (139) — (139)
+Transactions with owners 108 1,401 — 2 (139) 1,372 — 1,372
+Profit for the year — — — — 3,751 3,751 (37) 3,714
+Other comprehensive income
+Exchange differences on 
+translating foreign operations — — 28 — — 28 — 28
+Total comprehensive income 
+for the year — — 28 — 3,751 3,779 (37) 3,742
+Balance at 31 March 2013 1,592 6,622 (96) 1,687 751 10,556 (37) 10,519
+Share
+capital
+£000
+Share
+ premium
+account
+£000
+Foreign 
+exchange
+reserves
+£000
+Other
+reserves
+£000
+Profit 
+and loss 
+account
+£000
+Total
+attributable 
+to the
+ owners 
+of the 
+Company 
+£000
+Non-
+controlling 
+interest
+£000
+Total
+equity
+£000
+Balance at 1 April 2011 1,464 4,795 (84) 1,664 (5,263) 2,576 — 2,576
+Issue of share capital 20 426 — — — 446 — 446
+Share-based payment charge — — — 21 — 21 — 21
+Dividends — — — — (103) (103) — (103)
+Transactions with owners 20 426 — 21 (103) 364 — 364
+Profit for the year — — — — 2,505 2,505 — 2,505
+Other comprehensive income
+Exchange differences on 
+translating foreign operations — — (40) — — (40) — (40)
+Total comprehensive income 
+for the year — — (40) — 2,505 2,465 — 2,465
+Balance at 31 March 2012 1,484 5,221 (124) 1,685 (2,861) 5,405 — 5,405
+Other reserves relate to negative goodwill arising on the acquisition of a subsidiary undertaking prior to 1 April 1997, 
+share-based payment and the merger reserve.
+The accompanying accounting policies and notes form an integral part of the financial statements. 28
+Annual report and accounts 2013 Lombard Risk Management plc
+Consolidated cash flow statement
+For the year ended 31 March 2013
+Year ended
+31 March 
+2013
+£000
+Year ended 
+31 March 
+2012
+£000
+Cash flows from operating activities
+Profit for the period 3,714 2,505
+Tax charge / (credit) 182 (18)
+Finance income — (2)
+Finance expense 86 32
+Operating profit 3,982 2,517
+Adjustments for:
+Depreciation 140 122
+Amortisation 1,142 360
+Share-based payment charge 2 21
+Decrease / (increase) in trade and other receivables 825 (2,504)
+(Decrease) / increase in trade and other payables (114) 315
+(Decrease) / increase in deferred income (173) 1,018
+Foreign exchange gains (49) (84)
+Other non-cash credit (51) —
+Cash generated in operations 5,704 1,765
+Tax credit received 53 18
+Net cash inflow from operating activities 5,757 1,783
+Cash flows from investing activities
+Interest received — 2
+Purchase of property, plant and equipment and computer software (209) (195)
+Purchase of business (see note 10) (470) (1,963)
+Capitalisation of research and development costs (4,278) (3,318)
+Net cash used in investing activities (4,957) (5,474)
+Cash flows from financing activities
+Interest paid (86) —
+Loans from bank 329 2,000
+Loans and other consideration paid (667) —
+Shares issued, net of issue costs 1,509 140
+Dividend paid (139) (103)
+Net cash generated by financing activities 946 2,037
+Net increase / (decrease) in cash and cash equivalents 1,746 (1,654)
+Cash and cash equivalents at beginning of period 128 1,782
+Cash and cash equivalents at end of period 1,874 128
+The accompanying accounting policies and notes form an integral part of the financial statements. 29
+Financial statements 24–51
+www.lombardrisk.com Annual report and accounts 2013
+Notes to the consolidated financial statements 
+For the year ended 31 March 2013
+1. Accounting policies
+(A) Basis of preparation
+These consolidated financial statements are for the year ended 31 March 2013. They have been prepared in accordance 
+with International Financial Reporting Standards (“IFRS”) and IFRS Interpretation Committee (“IFRIC”) interpretations as 
+at 31 March 2013, as adopted by the European Union. They have been prepared under the historical cost convention.
+The preparation of financial statements under IFRS requires the Board to make judgements, estimates and assumptions 
+that affect the application of accounting policies, the reported amounts of balance sheet items at the period end and 
+the reported amount of revenue and expense during the reporting period. The estimates and associated assumptions 
+are based on historical experience and various other factors that are believed to be reasonable under the circumstances, 
+the results of which form the basis of making judgements that are not readily apparent from other sources. However, 
+the actual results may differ from these estimates. The estimates and underlying assumptions are reviewed on an 
+on-going basis.
+New standards, amendments and interpretations
+At the date of authorisation of these financial statements, certain new standards, amendments and interpretations 
+to existing standards have been published but are not yet effective and have not been adopted early by the Group.
+Management anticipates that all of the pronouncements will be adopted by the Group’s accounting policies for the 
+first period beginning after the effective date of the pronouncement. Information on new standards, amendments 
+and interpretations that are expected to be relevant to the Group’s financial statements is provided below. Certain 
+other new standards and interpretations have been issued but are not expected to have a material impact on the 
+Group’s financial statements.
+− − IFRS 9 “Financial instruments” (effective 1 January 2015)  
+IFRS 9 addresses the classification and measurement of financial assets and will replace IAS 39. The standard is mandatory 
+for accounting periods commencing on or after 1 January 2015, subject to adoption by the European Union.
+(B) Basis of consolidation
+The Group accounts consolidate the financial statements of the Parent Company (Lombard Risk Management plc) and 
+its subsidiary undertakings over which it has control (see note 5 to the Parent Company balance sheet). A description 
+of the principal activities and operations of the Group can be found in the Directors’ report.
+The consolidated financial statements include the financial statements of the Company and its subsidiary undertakings 
+made up to 31 March 2013. The acquisition method of accounting has been adopted. Under this method, the results 
+of subsidiary undertakings acquired or disposed of in the year are included in the Consolidated statement of comprehensive 
+income from the date of acquisition or up to the date of disposal. All of the Group’s assets and liabilities existing at the 
+date of acquisition are recorded at their fair values reflecting their condition at that date. Profits or losses on intra Group 
+transactions are eliminated in full. Goodwill is capitalised and under IFRS 3 goodwill is not amortised but an impairment 
+test is performed as appropriate, at least annually. The value of goodwill is to be written down according to the outcome 
+of the impairment test.
+Non-controlling interests, presented as part of equity, represent the portion of a subsidiary’s profit or loss and net 
+assets that is not held by the Group. The Group attributes total comprehensive income or loss of subsidiaries between 
+the owners of the Parent and the non-controlling interest based on their respective ownership interest.
+(C) Segment reporting 
+In identifying its operating segments, management generally follows the Group’s product lines. The Group operates two 
+main operating segments: Regulatory Compliance software and Risk Management and Trading software. Regulatory 
+Compliance software is for regulatory, anti-money laundering and compliance systems to financial markets. Risk Management 
+and Trading software provides trading, valuation and risk management systems to the financial markets. Each of these 
+product lines is managed separately as they each require different technology and other resources as well as marketing 
+approaches. Corporate overheads, assets and liabilities which are not directly attributable to either product line are not 
+allocated to segments. 30
+Annual report and accounts 2013 Lombard Risk Management plc
+Notes to the consolidated financial statements continued
+For the year ended 31 March 2013
+1. Accounting policies continued
+(D) Going concern
+The financial statements have, as in previous years, been prepared on a going concern basis. 
+In forming an opinion that the Company and the Group is a going concern, the Directors have taken particular note 
+of the trading performance in the year ended 31 March 2013, both in the signing of new business contracts and in the 
+realised financial results. These show an improvement in profitability and an increase in the cash balance at 31 March 2013. 
+The Directors have prepared a cash flow forecast for the period to 30 June 2014, which shows that the Company and 
+Group have sufficient facilities for on-going operations. Whilst there will always remain some inherent uncertainty within 
+the aforementioned forecasts, the Directors believe the Company and Group have sufficient resources to continue in 
+operational existence for at least twelve months from the date of approval of these financial statements.
+Accordingly the Directors continue to adopt the going concern basis in preparing the financial statements for the year 
+ended 31 March 2013.
+(E) Revenue
+Revenue represents the fair value of goods sold and services provided during the year, stated net of value added tax. 
+Revenue and profit before tax are wholly attributable to the principal activities of the Group.
+The recognition of revenue depends on the type of income:
+Licence income  For long-term projects which do not include the up-front delivery of immediately usable 
+software, revenue is recognised on both the consultancy and initial licence elements in line 
+with the estimated percentage of completion of the project. This estimation is based upon 
+the views of the consultants implementing the projects as to the proportion of the project 
+completed and this is supported by data from a time recording system. Annual licence/usage 
+fees and maintenance revenue invoiced simultaneously with the initial licence, but considered 
+to relate to the period when the licence is deemed to be live, is deferred in its entirety until 
+the live date, following which it is released to profit in equal daily instalments over the 
+duration of the relevant licence or maintenance. For other projects which do include the 
+up-front delivery of immediately usable software, revenue is recognised on a percentage 
+completion basis. For non-refundable licences, revenue is recognised in full on customer 
+acceptance as there are no on-going obligations in respect of such sales.
+Customisation income Recognised once the customisation has taken place.
+Maintenance income Recognised evenly over the term of the maintenance contract.
+Rental income  Recognised evenly over the term of the rental contract.
+Data subscription income  Recognised evenly over the term of the data contract.
+Training income Recognised when the relevant courses are run.
+Multiple element transactions are allocated to relevant revenue categories based on typical revenue splits for 
+transactions which are contracted separately and by using industry best practice.
+(F) Property, plant and equipment
+Property, plant and equipment are stated at cost, net of depreciation and any provision for impairment. No depreciation 
+is charged during the period of construction. Leasehold property is included in property, plant and equipment only 
+where it is held under a finance lease.
+The cost of computer hardware, fixtures, fittings and equipment is written down to the residual value and is 
+depreciated in equal annual instalments over the estimated useful lives of the assets. The residual values of assets 
+or groups of like assets and their useful lives are reviewed annually.
+The estimated useful lives of the assets are as follows: 
+Computer hardware two years
+Fixtures, fittings and equipment four years
+(G) Goodwill
+Goodwill, representing the excess of the cost of acquisition over the fair value of the Group’s share of the identifiable 
+net assets acquired, is capitalised and reviewed annually for impairment. Goodwill is carried at cost less accumulated 
+impairment losses. Negative goodwill is recognised immediately after acquisition in the Consolidated statement 
+of comprehensive income. 31
+Financial statements 24–51
+www.lombardrisk.com Annual report and accounts 2013
+1. Accounting policies continued
+(H) Intangible assets
+Research and development
+Expenditure on research is recognised as an expense in the period in which it is incurred.
+Development costs incurred are capitalised when all of the following conditions are satisfied:
+− − completion of the intangible asset is technically feasible so that it will be available for use or sale;
+− − the Group intends to complete the intangible asset and use or sell it;
+− − the Group has the ability to use or sell the intangible asset;
+− − the intangible asset will generate probable future economic benefits. Among other things, this requires that there 
+is a market for the output from the intangible asset or for the intangible asset itself, or, if it is to be used internally, 
+the asset will be used in generating such benefits;
+− − there are adequate technical, financial and other resources to complete the development and to use or sell the 
+intangible asset; and
+− − the expenditure attributable to the intangible asset during its development can be measured reliably.
+Development costs not meeting the criteria for capitalisation are expensed as incurred. Capitalised development costs 
+are amortised in equal monthly instalments over a period of five years from the end of the month in which the costs 
+were incurred. The residual values of the development assets are reviewed annually.
+Computer software
+The cost of computer software, net of estimated residual value and impairment, is depreciated in equal annual 
+instalments over one to three years based on the estimated useful lives of the assets. The residual values of assets 
+or group of like assets are reviewed annually.
+Customer relationships
+The cost of customer relationships, net of estimated residual value and impairment, is amortised in equal annual instalments 
+over nineteen years based on the estimated useful lives of the assets. The residual values of assets or group of like assets 
+are reviewed annually.
+Trademarks
+The cost of trademarks, net of estimated residual value and impairment, is amortised in equal annual instalments over 
+seven years based on the estimated useful lives of the assets. The residual values of assets or group of like assets are 
+reviewed annually.
+(I) Financial instruments
+Financial assets and liabilities are recognised on the Group’s balance sheet when the Group becomes a party to the 
+contractual provisions of the instrument. The Group’s financial instruments comprise cash, trade receivables, borrowings 
+and trade and other payables. Derivative instruments are not used by the Group and the Group does not enter into 
+speculative derivative contracts.
+Loans and receivables
+Loans and receivables are initially stated at their fair value plus transaction costs, then subsequently at amortised cost 
+using the effective interest method, if applicable, less impairment losses. Provisions against trade receivables are made 
+when there is objective evidence that the Group will not be able to collect all amounts due to it in accordance with the 
+original terms of those receivables. The amount of the write down is determined as the difference between the assets’ 
+carrying amount and the present value of the estimated future cash flows.
+Cash and cash equivalents
+The Group manages short-term liquidity through the holding of cash and highly liquid interest-bearing deposits. Only 
+deposits that are readily convertible into cash, with no penalty of lost interest, are shown as cash or cash equivalent.
+Trade payables
+Financial liabilities are obligations to pay cash or other financial assets and are recognised when the Group becomes a party 
+to the contractual provisions of the instrument. Financial liabilities categorised as at fair value through profit or loss are 
+recorded initially at fair value; all transaction costs are recognised immediately in the statement of comprehensive income. 
+All other financial liabilities are recorded initially at fair value, net of direct issue costs.
+Financial liabilities categorised as at fair value through profit or loss are re-measured at each reporting date at fair value, 
+with changes in fair value being recognised in the statement of comprehensive income. All other financial liabilities are 
+recorded at amortised cost using the effective interest method, with interest related charges recognised as an expense 
+in finance cost in the statement of comprehensive income.
+A financial liability is derecognised only when the obligation is extinguished, that is, when the obligation is discharged, 
+cancelled or expires. Where debt has been converted into equity, the liability is extinguished at no gain no loss. The equity 
+is measured at the carrying value of the extinguished debt. 32
+Annual report and accounts 2013 Lombard Risk Management plc
+Notes to the consolidated financial statements continued
+For the year ended 31 March 2013
+1. Accounting policies continued
+(J) Foreign exchange
+Transactions in foreign currencies are translated into the functional currency of the individual entity at the exchange 
+rate ruling at the date of the transaction. Monetary assets and liabilities in foreign currencies are translated at the rates 
+of exchange ruling at the balance sheet date. Non-monetary items that are measured at historical cost in a foreign currency 
+are translated at the exchange rate at the date of the transaction. 
+Any exchange differences arising on the settlement of monetary items or on translating monetary items at rates 
+different from those at which they were initially recorded are recognised in the profit or loss in the period in which 
+they arise. The assets and liabilities in the financial statements of foreign subsidiaries are translated into the Parent 
+Company’s presentation currency at the rate of exchange ruling at the balance sheet date. Income and expenses are 
+translated at the actual rate at the date of transaction. The exchange differences arising from the retranslation of the 
+opening net investment in subsidiaries are recognised in other comprehensive income and taken to the “Foreign exchange 
+reserve” in equity. On disposal of a foreign operation the cumulative translation differences (including, if applicable, 
+gains and losses on related hedges) are transferred to profit or loss as part of the gain or loss on disposal.
+(K) Taxation
+Current tax is the tax currently payable based on taxable profit for the year. Current tax credits arise from the UK legislation 
+regarding the treatment of certain qualifying research and development costs, allowing for the surrender of tax losses 
+attributable to such costs in return for a tax rebate.
+Deferred taxes are calculated using the liability method on temporary differences. Deferred tax is generally provided on 
+the difference between the carrying amounts of assets and liabilities and their tax bases. However, deferred tax is not 
+provided on the initial recognition of goodwill, nor on the initial recognition of an asset or liability unless the related 
+transaction is a business combination or affects tax or accounting profit. Deferred tax on temporary differences associated 
+with shares in subsidiaries and joint ventures is not provided if reversal of these temporary differences can be controlled 
+by the Group and it is probable that reversal will not occur in the foreseeable future. In addition, tax losses available to 
+be carried forward as well as other income tax credits to the Group are assessed for recognition as deferred tax assets.
+Deferred tax liabilities are provided in full, with no discounting. Deferred tax assets are recognised to the extent that it 
+is probable that the underlying deductible temporary differences will be able to be offset against future taxable income. 
+Current and deferred tax assets and liabilities are calculated at tax rates that are expected to apply to their respective 
+period of realisation, provided they are enacted or substantively enacted at the balance sheet date.
+Changes in deferred tax assets or liabilities are recognised as a component of tax expense in the statement of comprehensive 
+income, except where they relate to items that are charged or credited directly to other comprehensive income or equity 
+in which case the related deferred tax is also charged or credited directly to other comprehensive income or equity.
+(L) Leased assets
+The Group does not hold any finance leases.
+All leases referred to are regarded as operating leases and the payments made under them are charged to the statement 
+of comprehensive income on a straight line basis over the lease term. Lease incentives are spread over the term of the lease.
+Where leased buildings are vacated or under-utilised a provision is made for the loss of benefit over the remainder of the lease.
+(M) Pension costs
+The Group operates a number of defined contribution pension schemes. The assets of the schemes are held separately 
+from those of the Group in independently administered funds. The amount charged to profit or loss represents the 
+contributions payable to the schemes in respect of the accounting period.
+(N) Share options issued to employees
+All share-based payment arrangements granted after 7 November 2002 that had not vested prior to 1 April 2006 are 
+recognised in the financial statements.
+All goods and services received in exchange for the grant of any share-based payment are measured at their fair values. 
+Where employees are rewarded using share-based payments, the fair values of employees’ services are determined indirectly 
+by reference to the fair value of the instrument granted to the employee. This fair value is appraised at the grant date 
+using a binomial model, taking into account the terms and conditions upon which the options were granted.
+All equity-settled share-based payments are ultimately recognised as an expense in the statement of comprehensive 
+income with a corresponding credit to “other reserves”.
+If vesting periods or other non-market vesting conditions apply, the expense is allocated over the vesting period, based 
+on the best available estimate of the number of share options expected to vest. Estimates are subsequently revised if there 
+is any indication that the number of share options expected to vest differs from previous estimates. Any cumulative 
+adjustment prior to vesting is recognised in the current period. No adjustment is made to any expense recognised in 
+prior periods if share options ultimately exercised are different to that estimated on vesting.
+Upon exercise of share options the proceeds received net of attributable transaction costs are credited to share capital 
+and, where appropriate, share premium. 33
+Financial statements 24–51
+www.lombardrisk.com Annual report and accounts 2013
+1. Accounting policies continued
+(O) Impairment testing of goodwill, other intangible assets and property, plant and equipment
+For the purposes of assessing impairment, assets are grouped at the lowest levels for which there are separately identifiable 
+cash flows (cash-generating units). As a result, some assets are tested individually for impairment and some are tested 
+at cash-generating unit level. Goodwill is allocated to those cash-generating units that are expected to benefit from 
+synergies of the related business combination and represent the lowest level within the Group at which management 
+monitors the related cash flows.
+Goodwill, other individual assets or cash-generating units that include goodwill, other intangible assets with an indefinite 
+useful life and those intangible assets not yet available for use are tested for impairment at least annually. All other individual 
+assets or cash-generating units are tested for impairment whenever events or changes in circumstances indicate that 
+the carrying amount may not be recoverable.
+An impairment loss is recognised for the amount by which the assets or cash-generating unit’s carrying amount exceeds 
+its recoverable amount. The recoverable amount is the higher of fair value, reflecting market conditions less costs to sell, 
+and value in use based on an internal discounted cash flow evaluation. Impairment losses recognised for cash-generating 
+units, to which goodwill has been allocated, are credited initially to the carrying amount of goodwill. Any remaining 
+impairment loss is charged pro rata to the other assets in the cash-generating unit. With the exception of goodwill, all 
+assets are subsequently reassessed for indications that an impairment loss previously recognised may no longer exist.
+(P) Key judgements in applying the entity’s accounting policies and goodwill impairment
+The Group’s management makes estimates and assumptions regarding the future. Estimates and judgements are continually 
+evaluated based on historical experience and other factors, including expectations of future events that are believed to 
+be reasonable under the circumstances. In the future, actual experience may differ from these estimates and assumptions. 
+The estimates and assumptions that have a reasonable risk of causing material adjustment to the carrying amounts 
+of assets and liabilities within the next financial year are discussed overleaf.
+Recognition of revenue
+Revenue is recognised according to the accounting policies as stated and is dependent upon the type of income. 
+Where contracts include different elements of revenue, those elements are recognised in line with those policies, 
+with fair values attributed to each component part.
+Judgement is used in the recognition of revenue from long-term projects. 
+If work is contracted on a fixed-cost basis, revenue is recognised in line with an estimation of the percentage of completion 
+of the project. This estimation is based upon the views of the consultants implementing the projects as to the proportion 
+of the project completed and this is supported by data from a time recording system. There is, however, an element 
+of judgement involved that can impact the recognition of revenue. This process and individual project recognition is 
+reviewed regularly to ensure that, whilst still subjective, the reflection of revenue is the best approximation possible.
+Where projects include the up-front delivery of immediately usable software, the element of non-refundable licence 
+revenue is recognised on receipt of the software by the customer, with other revenue being recognised in line with 
+the performance of the contracted services. The unbundling of this contract revenue requires management to exercise 
+judgement as to the relative fair values of the component parts of the contract.
+Goodwill impairment
+An impairment loss is recognised if the amount by which the assets or cash-generating unit’s carrying amount exceeds 
+its recoverable amount. To determine the recoverable amount, management estimates expected future cash flows from 
+each cash-generating unit and determines a suitable discount rate in order to calculate the present value of those cash 
+flows. In the process of measuring expected future cash flows, management makes assumptions about future operating 
+results. These assumptions relate to future events and circumstances. The actual results may vary and may cause significant 
+adjustments to the Group’s assets within the next financial year.
+In most cases, determining the applicable discount rate involves estimating the appropriate adjustment to market risk 
+and the appropriate adjustment to asset-specific risk factors.
+Capitalisation of development costs
+Development costs are capitalised when all of the criteria (see accounting policy note above) have been met. 
+Employees’ time is recorded by product and activity and valued by reference to salaries and directly attributable 
+overheads. Values by product are reviewed with reference to future profitability.
+Judgement is used to determine which activities constitute development that should be capitalised. In addition, 
+judgement is used to determine future profitability of the products and timing thereof. 34
+Annual report and accounts 2013 Lombard Risk Management plc
+Notes to the consolidated financial statements continued
+For the year ended 31 March 2013
+1. Accounting policies continued
+(P) Key judgements in applying the entity’s accounting policies and goodwill impairment continued
+Deferred tax assets
+The assessment of the probability of future taxable income on which deferred tax assets can be utilised is based on the 
+Group’s latest approved budget forecasts, which is adjusted for significant non-taxable income and expense. If a positive 
+forecast of taxable income indicates the probable use of a deferred tax asset, especially when it can be utilised without 
+a time limit, that deferred tax asset is usually recognised in respect of the period for which future profits can be confidently 
+foreseen. The recognition of deferred tax assets that are subject to certain legal or economic limit or uncertainties is 
+assessed individually by management based on the specific facts and circumstances.
+2. Business segmentation
+Management currently identifies the Group’s two product lines as operating segments as further described in 
+the accounting policies. These operating segments are monitored and strategic decisions are made on the basis 
+of segment operating results.
+Segment information can be analysed as follows for the reporting periods under review:
+Year ended 
+31 March 
+2013
+£000
+Year ended
+31 March
+2012
+£000
+Revenue
+Regulatory Compliance software 7,834 5,690
+Risk Management and Trading software 8,934 7,068
+Group unallocated — —
+Total revenue 16,768 12,758
+Depreciation and amortisation
+Regulatory Compliance software (599) (216)
+Risk Management and Trading software (683) (266)
+Group unallocated — —
+Total depreciation and amortisation (1,282) (482)
+Interest expense
+Regulatory Compliance software — —
+Risk Management and Trading software — —
+Group unallocated (86) (30)
+Total interest expense (86) (30)
+Other costs
+Regulatory Compliance software (5,306) (4,408)
+Risk Management and Trading software (5,940) (4,976)
+Group unallocated (258) (375)
+Total other costs (11,504) (9,759)
+Total costs (12,872) (10,271)
+Profit
+Regulatory Compliance software 1,929 1,066
+Risk Management and Trading software 2,311 1,826
+Group unallocated (344) (405)
+Total profit before taxation and dividend 3,896 2,487
+Net assets
+Regulatory Compliance software 1,292 (637)
+Risk Management and Trading software 8,374 6,063
+Group unallocated 853 (21)
+Net assets 10,519 5,405
+The two segments operate independently and inter-segment income or expenditure is cross charged at arm’s length.  35
+Financial statements 24–51
+www.lombardrisk.com Annual report and accounts 2013
+2. Business segmentation continued
+The Group’s revenues from customers and its non-current assets are divided into the following geographical areas: 
+Year ended 
+31 March 
+2013
+£000
+Year ended
+31 March
+2012
+£000
+Revenue
+United Kingdom 6,541 4,426
+Rest of Europe, Middle East and Africa 4,777 4,440
+The Americas 4,155 2,364
+Asia Pacific 1,295 1,528
+Total revenue 16,768 12,758
+Non-current assets
+United Kingdom 6,439 3,175
+The Americas 576 598
+Asia Pacific 74 82
+Non-current assets 7,089 3,855
+In this year ended 31 March 2013 10% (2012: 10%) of the revenue depended on a single customer.
+3. Directors and employees
+Directors
+2013
+£000
+2012
+£000
+Emoluments 522 524
+Social security costs 78 61
+Pension costs 73 56
+673 641
+No share options were exercised by the Directors. There were no pension contributions made in respect of the highest 
+paid Director. During the year two Directors accrued benefits under a Company pension scheme (2012: two).
+The Directors of the Company are the key management personnel.
+Individual Director’s emoluments and compensation
+2013
+£000
+2012
+£000
+John Wisbey 216 209
+Paul Tuson 159 157
+Nick Davies 154 139
+Philip Crawford 45 45
+Brian Crowe 21 20
+Mike Shinya — 10
+Total 595 580
+Share options At start of year Price paid Exercise price At end of year
+Date from 
+which exercisable Expiry dates
+Brian Crowe 800,000 — 5.5p 800,000 14/01/2013 14/01/2016
+Paul Tuson 2,400,000 — 5.5p 2,400,000 14/01/2013 14/01/2016
+Nick Davies 1,000,000 — 6.0p 1,000,000 20/06/2010 20/06/2013
+Nick Davies 3,600,000 — 4.5p 3,600,000 28/05/2012 28/05/2015
+Mike Shinya 1,050,000 — 4.5p — 28/05/2012 31/08/2012
+Philip Crawford 2,400,000 — 4.5p 2,400,000 28/05/2012 28/05/2015
+Philip Crawford 600,000 — 5.5p 600,000 14/01/2013 14/01/2016 36
+Annual report and accounts 2013 Lombard Risk Management plc
+Notes to the consolidated financial statements continued
+For the year ended 31 March 2013
+3. Directors and employees continued
+Individual Director’s emoluments and compensation continued
+Staff costs including Directors
+2013
+£000
+2012
+£000
+Wages and salaries 10,080 7,877
+Social security costs 1,906 1,436
+Pension costs 172 135
+Share-based payments charge (note 18) 2 21
+Total staff costs 12,160 9,469
+The average monthly number of employees (excluding Directors) during the year was:
+2013
+Number
+2012
+Number
+Office and administration 17 16
+Operational 244 197
+Total 261 213
+4. Profit from operations
+The profit from operations before taxation is stated after charging / (crediting):
+2013
+£000
+2012
+£000
+Auditor’s remuneration – Company audit fee 25 25
+Fees payable to the Company auditor for other services:
+– subsidiary company audit fees 15 15
+– tax services 12 12
+– other services 5 5
+Depreciation 140 122
+Amortisation 1,142 360
+Foreign exchange (gain) / loss (92) 46
+Operating leases – land and buildings 1,289 1,148
+Research and development expenditure 1,869 1,226
+Fees payable to the Company’s auditor, Grant Thornton UK LLP, and its associates for non-audit services to the Company 
+itself are not disclosed in the individual financial statements of the Company because the Company’s Group financial 
+statements are required by the Companies (Disclosure of Auditor Remuneration and Liability Limitation Agreements) 
+Regulations 2008, Regulation 5(1) to disclose such fees on a consolidated basis.
+5. Finance expense
+2013
+£000
+2012
+£000
+Interest on bank loans and overdrafts 86 32
+6. Finance income
+2013
+£000
+2012
+£000
+Interest on bank deposits — 2 37
+Financial statements 24–51
+www.lombardrisk.com Annual report and accounts 2013
+7. Taxation
+(A) Analysis of charge in the period
+2013
+£000
+2012
+£000
+Current tax:
+– UK corporation tax on profits in the period — —
+– foreign tax on profits in the period (53) (18)
+Total current tax credit (53) (18)
+Deferred tax:
+– origination and reversal of timing differences 235 —
+Total deferred tax charge 235 —
+Taxation charge / (credit) on ordinary activities 182 (18)
+(B) Research and development tax credits
+The Group has received to date research and development tax credits of £816,082 (2012: £816,082) relating to financial 
+years ended 31 March 2002 to 2008. As for all companies that have received these credits, the amounts are subject 
+to potential future HM Revenue & Customs claw back.
+(C) Tax on profit on ordinary activities
+The tax assessed for the period is the standard rate of corporation tax in the UK of 24% (2012: 26%). The difference 
+is explained as follows:
+2013
+£000
+2012
+£000
+Profit on ordinary activities before tax 3,896 2,487
+Profit on ordinary activities multiplied by the standard rate  
+of corporation tax in the UK of 24% (2012: 26%) 935 647
+Effect of:
+– depreciation in excess of capital allowance for the period — 27
+– net utilisation of tax losses (718) (546)
+– expenses not deductible for tax purposes 18 28
+– tax deductibles — (156)
+– foreign tax credits (53) (18)
+Current tax charge / (credit) for the period 182 (18)
+(D) Unrecognised deferred tax
+A deferred tax asset of £0.7m (2012: £1.3m) is unrecognised and relates principally to trading losses carried forward.
+(E) Deferred tax asset
+The deferred tax asset included in the balance sheet relates principally to the carry forward of tax losses.
+2013
+£000
+2012
+£000
+Deferred tax asset 503 721
+The Directors have recognised a deferred tax asset in respect of carried forward trading tax losses as, based on current 
+estimates, the Group is forecast to make sufficient trading tax profit in the future against which these losses can be 
+offset. The recognised deferred tax asset is based on expected profits in the next financial year. The movement in the 
+deferred tax asset in the year is recognised in full in the profit for the year; no amount is recognised directly in equity.
+The deferred tax asset is expected to crystallise in full in the next financial year. 38
+Annual report and accounts 2013 Lombard Risk Management plc
+Notes to the consolidated financial statements continued
+For the year ended 31 March 2013
+8. Profit per share
+Basic profit per share has been calculated by dividing the profit after taxation by the weighted average number of 
+Ordinary Shares in issue during each period.
+For diluted earnings per share, the weighted average number of shares, 227,991,541 (2012: 207,946,233), is adjusted 
+to assume conversion of all dilutive potential Ordinary Shares under the Group’s Enterprise Management Incentive Plan, 
+being 6,755,180 (2012: 7,480,024), to give the diluted weighted number of shares of 234,746,721 (2012: 215,426,257). 
+Profit per share
+Year ended
+31 March 
+2013
+Year ended
+31 March 
+2012
+Profit for the year and basic and diluted earnings  
+attributable to ordinary shareholders (pounds) 3.714m 2.505m
+Weighted average number of Ordinary Shares 227,991,541 207,946,233
+Profit per share (pence) 1.63 1.20
+Adjusted weighted average number of Ordinary Shares 234,746,721 215,426,257
+Diluted profit per share (pence) 1.58 1.16
+9. Minority interest
+Swapval Limited, a previously wholly owned subsidiary of the Parent Company, changed its name to Lombard Risk 
+Compliance Policies Limited on 7 August 2012 and the company has since commenced trading. 20% of the issued 
+share capital of the company was transferred to a third party during the year under review for £Nil consideration.
+Prior to trading Lombard Risk Compliance Policies Limited had net assets of £2. 
+10. Acquisition 
+On 15 December 2011, the Group acquired the assets of the regulatory business of SOFGEN, including customers, 
+REG-Reporter
+®
+ software and trademarks together with the on-going business for a consideration of £2.8m, primarily 
+to expand its regulatory compliance business geographically.
+The main part of the business acquired, which in the past was known in the US regulatory market as IDOM USA, is the 
+US and Canada regulatory reporting product REG-Reporter
+®
+. REG-Reporter
+®
+ has a strong client base in North America. 
+The purchase price for the SOFGEN business included cash of £1.963m, the issue of Ordinary Shares with a fair value 
+of £305,000 and the issue of loan notes, of which £174,000 was due to be settled on 31 December 2012 and £347,000 
+on 31 December 2013. The loan note due for settlement on 31 December 2013 was settled during the year under review 
+for an adjusted amount of £296,000. 
+Further details of the SOFGEN business acquisition are provided in note 9 to the 2012 Group financial statements, 
+which are publicly available and which are also available on the Lombard Risk Management plc website. 39
+Financial statements 24–51
+www.lombardrisk.com Annual report and accounts 2013
+11. Property, plant and equipment
+Group
+Computer
+hardware
+£000
+Fixtures, 
+fittings and 
+equipment
+£000
+Total
+£000
+Cost
+At 1 April 2011 1,140 706 1,846
+Additions 124 71 195
+Retired assets — (68) (68)
+Foreign exchange effect 22 12 34
+At 31 March 2012 1,286 721 2,007
+1 April 2012 1,286 721 2,007
+Additions 138 32 170
+Foreign exchange effect 27 18 45
+At 31 March 2013 1,451 771 2,222
+Depreciation
+At 1 April 2011 1,063 679 1,742
+Charge for the year 84 38 122
+Retired assets — (68) (68)
+Foreign exchange effect 15 10 25
+At 31 March 2012 1,162 659 1,821
+At 1 April 2012 1,162 659 1,821
+Charge for the year 116 24 140
+Foreign exchange effect 23 17 40
+At 31 March 2013 1,301 700 2,001
+Net book value
+At 31 March 2013 150 71 221
+At 31 March 2012 124 62 186
+12. Intangible assets
+Group
+Goodwill
+£000
+Capitalised
+development 
+costs
+£000
+Other 
+intangible 
+assets
+£000
+Total
+£000
+Cost
+At 1 April 2011 3,633 — 277 3,910
+Additions 2,166 3,318 664 6,148
+Foreign exchange effect — — 36 36
+At 31 March 2012 5,799 3,318 977 10,094
+At 1 April 2012 5,799 3,318 977 10,094
+Additions — 4,278 39 4,317
+Foreign exchange effect 49 — 31 80
+At 31 March 2013 5,848 7,596 1,047 14,491
+Amortisation
+At 1 April 2011 — — 266 266
+Provided in the year — 287 73 360
+At 31 March 2012 — 287 339 626
+At 1 April 2012 — 287 339 626
+Provided in the year — 1,028 114 1,142
+Foreign exchange effect — — 7 7
+At 31 March 2013 — 1,315 460 1,775
+Net book value
+At 31 March 2013 5,848 6,281 587 12,716
+At 31 March 2012 5,799 3,031 638 9,468 40
+Annual report and accounts 2013 Lombard Risk Management plc
+Notes to the consolidated financial statements continued
+For the year ended 31 March 2013
+12. Intangible assets continued
+The goodwill at 31 March 2013 relates to the acquisition of STB Systems Limited, since renamed Lombard Risk 
+Compliance Limited, which was acquired in 2005 and which constituted the Group’s regulatory compliance business, 
+and to goodwill arising in 2011 relating to the acquisition of the regulatory reporting business of SOFGEN, further 
+details of which are provided in note 10. Both these businesses now represent the Group’s regulatory compliance 
+business. An impairment review has therefore been carried out on this cash-generating unit.
+The cash-generating unit has been assessed by comparing its carrying value to its recoverable amount. The recoverable 
+amount is the higher of fair value, reflecting market conditions less costs to sell, and value in use based on an internal 
+discounted cash flow evaluation.
+For the year ended 31 March 2013, the cash-generating unit recoverable amount was determined based on value-in-use 
+calculations, which are based on detailed five year discounted forecast cash flows (using a discount rate of 12%). Cash 
+flows for the regulatory compliance business are based on management forecasts, which are approved by the Board 
+and reflect management’s expectations of sales growth, operating costs and margin based on past experience as well 
+as the current order book. Management has used a five year period in the cash flow projections as the regulatory 
+compliance business experiences a low level of customer turnover and the technology is based on regulations which, 
+whilst subject to periodic amendment, are unlikely to be withdrawn.
+For the years 2014 to 2018 no new business is forecast with retention levels of recurring revenues averaging 90% per 
+annum. In view of this, no sales and marketing or research and development costs are forecast for the years 2014 to 2018.
+Sensitivity to changes in key assumptions: impairment testing is dependent on management’s estimates and judgements, 
+in particular in relation to the forecasting of future cash flows and the discount rate applied to the cash flows. Management 
+has concluded that no reasonably possible change in the key assumptions would cause the carrying value of goodwill 
+to exceed its recoverable account.
+Capitalised development costs reflect the expenditure attributable to the development of new technology that will 
+provide economic benefit in future periods as set out in note 1(H). 
+13. Trade and other receivables
+2013
+£000
+2012
+£000
+Trade receivables 2,261 2,539
+Other receivables 525 793
+Prepayments and accrued income 598 878
+3,384 4,210
+The amounts are short term and the Directors consider that the carrying amount of these trade and other receivables 
+approximates to their fair value. All of the Group’s trade and other receivables have been reviewed for indications of 
+impairment. As at 31 March 2013, trade receivables of £2.3m (2012: £2.5m) were fully recoverable. An impairment 
+provision of £0.04m (2012: £0.24m) has been made against the invoices of twelve clients (2012: seventeen clients). 
+In addition, some of the unimpaired trade receivables are past due as of the reporting date. Trade receivables past 
+due but not impaired are as follows:
+2013
+£000
+2012
+£000
+Not more than three months 593 985
+More than three months but not more than six months 45 179
+More than six months but less than one year 1 23
+More than one year 8 4
+647 1,191
+All other receivables (non-trade) are not past due.
+Movements in Group provisions for impairment of trade receivables, as included in administrative expenses, are as follows:
+2013
+£000
+2012
+£000
+Opening balance 239 202
+Movement in provision for receivables (200) 37
+Closing balance 39 239
+The Group operates in a global market with income arising in a number of different currencies, principally Sterling, 
+Euros or US Dollars. Other than natural opportunities to hedge, the Group does not hedge potential future income, 
+since the existence, quantum and timing of such income cannot be accurately predicted. 41
+Financial statements 24–51
+www.lombardrisk.com Annual report and accounts 2013
+14. Borrowings
+2013
+£000
+2012
+£000
+Bank loans payable within one year 1,013 667
+Bank loans payable after one year 667 1,333
+1,680 2,000
+Borrowings at 31 March 2013 comprise a Sterling bank loan and a Euro bank loan. 
+The Sterling bank loan is repayable in equal quarterly instalments over a three year term with the first repayment in 
+April 2012. The loan principal is £2.0m and interest is payable at the rate of LIBOR + 4%. The balance outstanding 
+at 31 March 2013 was £1.3m (2012: £2.0m).
+The Euro bank loan is repayable in one payment on 30 April 2013. The loan principal is €0.4m and interest is payable 
+at a rate of LIBOR + 4.25%. The balance outstanding at 31 March was £0.3m (2012: £Nil).
+15. Trade and other payables
+2013
+£000
+2012
+£000
+Trade payables 608 195
+Other taxes and social security costs 843 889
+Accruals and other payables 772 1,254
+Loan notes (see note 10) — 174
+2,223 2,512
+16. Financial risk management and financial instruments
+The Group’s multinational operations expose it to financial risks that include market risk, credit risk, operational risk 
+and liquidity risk. The Directors review and agree policies for managing each of these risks and they are summarised 
+below. These policies have remained unchanged from previous years.
+Market risk
+Market risk for the Group encompasses all those market risk factors that impact the value of the Group’s assets and 
+liabilities and the expected value in base currency of the Group’s revenues and costs. The main risk factors are currency 
+risk, inflation risk and interest rate risk. The Group’s policies for managing these are as follows:
+I) Currency risk
+The Group is exposed to translational and transactional foreign exchange risk as it operates in various currencies, including 
+US Dollars, the Euro, Chinese Yuan, Hong Kong Dollars and Singapore Dollars, which affect the management and levels 
+of working capital. Although, through its own software, the Group has access to sophisticated models for the management 
+of foreign exchange risk, there has historically been no use of foreign exchange derivatives to manage this position on 
+the basis that the overall effect on the Group’s income statement has not been large enough to warrant the management, 
+costs and margin requirements of this activity. The Group does use natural hedges where the appropriate opportunity 
+arises. In addition, the Group prepares working capital forecasts that incorporate sensitivity analysis on exchange 
+rate fluctuations. The Group’s main on-going transactional exposure is to be long of Euro and US Dollars and short 
+of Chinese Yuan. 
+II) Inflation risk
+The Group has exposure to the inflationary effect of operating in countries in which it operates, offset by its ability to 
+raise prices in those countries in which it sells. This exposure could affect the Group’s cost base. The Group’s cost base 
+is mainly exposed to the inflation rates and changes in payroll taxes in the UK, the US and China. The inflation rate for 
+salaries in specialised parts of the financial sector in a financial centre such as London, New York or Shanghai is often 
+different from the relevant country’s overall rate of wage inflation. Salary inflation in these markets and internally 
+is monitored. No specific hedging of inflation risk has been carried out. 
+III) Interest rate risk
+Interest rate risk arises primarily on the investment of the Group’s cash balances or on its borrowings and the present 
+value of the Group’s receivables. In particular, interest on the Group’s borrowings is affected by LIBOR. The Group 
+finances its operations through retained cash reserves and overdraft facilities. When the Group is a net depositor of 
+funds, the Group stands to gain if interest rates rise and to lose if interest rates fall, ignoring any possible positive or 
+negative correlation effects with business demand for the firm’s products or inflationary pressures on the firm’s cost 
+base that might arise from changes in interest rates. When the Group is a net borrower of funds, the opposite is the case. 
+Although through its own OBERON
+®
+ software the Group has access to sophisticated models for the management of interest 
+rate risk, there has been no use of interest rate derivatives to manage this position on the basis that the amounts are 
+not large enough to warrant this activity. The policy of the Group is to monitor exposure to interest rate risk and take 
+into account potential movements in interest rates as well as liquidity considerations when selecting methods of financing. 42
+Annual report and accounts 2013 Lombard Risk Management plc
+Notes to the consolidated financial statements continued
+For the year ended 31 March 2013
+16. Financial risk management and financial instruments continued
+Credit risk
+Most of the Group’s business is with banks, asset management firms and other high-quality companies and the Group’s 
+bad debt experience over fifteen years has been negligible. The Group consequently has not considered taking out 
+credit insurance and is not likely to do so in the foreseeable future. Deposits are placed with high-quality banks. 
+The Group closely monitors its credit risk.
+Although through its own Firmament
+®
+ software the Group has access to sophisticated models for the management 
+of credit spreads and credit derivatives, there has been no use of credit derivatives to mitigate counterparty risk and no 
+such use is contemplated.
+The Group’s exposure to credit risk is limited to the carrying amount of financial assets recognised at the balance sheet 
+date, as summarised below: 
+Classes of financial assets – carrying amounts
+2013
+£000
+2012
+£000
+Cash and cash equivalents 1,874 128
+Trade and other receivables 2,786 3,332
+Categorised as loans and receivables 4,660 3,460
+Operational risk
+The Group has numerous operational risks, ranging from control over bank accounts to its processes for delivering 
+and supporting software to a required level of quality and on a timely basis and retention and recruitment of key personnel. 
+A key risk, as for any group, is the reputational risk that might arise from poor execution, non-delivery or late delivery 
+of a high profile project or breach of client confidentiality for sensitive data. Further risks may arise where late delivery 
+of software or untimely delivery of related services causes a client to miss regulatory deadlines. A detailed operational 
+risk review is outside the scope of this report but the Board attaches importance to maintaining appropriate internal 
+controls to identify and limit these risks; this includes integrated project management across all functions of the business. 
+The Group’s Audit Committee regularly reviews controls over certain aspects of the operations of the Group.
+Liquidity risk
+The Group seeks to manage financial risk by ensuring that sufficient liquidity is available to meet foreseeable needs and 
+by investing cash assets safely as well as profitably. The Group’s working capital report, produced each month, shows 
+forecast monthly movements in working capital and cash for the following year. When required the Group has a short-term 
+overdraft facility which at the year end has not been used. At 31 March 2013 the Group’s financial liabilities were as follows:
+2013
+£000
+2012
+£000
+Current liabilities
+Trade and other payables 1,380 1,449
+Borrowings 1,013 667
+Loan notes — 174
+Non-current liabilities
+Borrowings 667 1,333
+Loan notes — 347
+Categorised as financial liabilities measured at amortised cost 3,060 3,970
+Maturity analysis
+At 31 March 2013 the Group’s liabilities have contracted maturities which are summarised below:
+2013 2012
+Up to 
+one year
+£000
+One to 
+five years
+£000
+Up to 
+one year
+£000
+One to 
+five years
+£000
+Bank borrowings 1,066 684 750 1,399
+Trade and other payables 1,380 — 1,449 —
+Loan notes — — 174 347
+Total 2,446 684 2,373 1,746
+The above contractual maturities reflect the payment obligations which may differ from the carrying value of the 
+liabilities at the balance sheet date. 43
+Financial statements 24–51
+www.lombardrisk.com Annual report and accounts 2013
+16. Financial risk management and financial instruments continued
+Interest rate sensitivity
+The Group is exposed to changes in market interest rates (LIBOR) through the bank borrowings obtained during the 
+current and prior year at a variable interest rate.
+The following table illustrates the sensitivity of profit and equity to a reasonably possible change in interest rates 
+(LIBOR) of +1% or –1%. These changes are considered to be reasonably possible based on observations of current 
+market conditions. These calculations are based on a change in the average market interest rate for each period and 
+the financial instruments held at each reporting date that are sensitive to changes in interest rates. All other variables 
+are held constant.
+Profit for the year Equity
+£000 £000 £000 £000
+LIBOR +1% –1% +1% –1%
+31 March 2013 3,697 3,731 10,502 10,536
+Capital management
+The Group’s capital management objectives are to ensure the Group’s ability to continue as a going concern and to 
+provide an adequate return to shareholders. The Group monitors capital in proportion to risk and makes adjustments 
+in the light of changes in economic conditions and the risk characteristics of the underlying assets. In order to maintain 
+or adjust the capital structure the Group may adjust the amount of dividends paid to shareholders, issue new shares or 
+sell assets to reduce debt.
+The Group had bank borrowings of £1.7m as at the year end. In line with the terms of that debt the Group monitors 
+capital on the basis of three covenants in place over the debt, being:
+− − total net debt to adjusted EBITDA;
+− − EBITDA to net finance charge; and
+− − cash flow to debt service.
+All covenants were satisfied at 31 March 2013.
+17. Share capital
+2013
+£000
+2012
+£000
+Authorised
+714,034,085 Ordinary Shares of 0.5p each (2012: 714,034,085) 3,570 3,570
+Allotted, called up and fully paid
+232,409,897 Ordinary Shares of 0.5p each (2012: 210,809,897) 1,162 1,054
+429,829,575 deferred shares of 0.1p each (2012: 429,829,575) 430 430
+1,592 1,484
+The deferred shares carry no rights to receive dividends or to participate in any profits of the Company. The shareholders 
+are not entitled to attend any meetings of the Company or have any rights to participate in any return of capital (except 
+on a winding up). The deferred shares are not transferable other than with the consent of all the Directors of the Company.
+Share issue
+On 6 June 2012, the Company issued 20,000,000 Ordinary Shares of 0.5p per share in order to accelerate growth, 
+to recruit certain key staff and to provide cash for potential acquisition opportunities. The shares were issued at a 
+premium of 7.0p per share, which has been credited to the share premium account, net of issue costs of £69,000.
+On 19 July 2012, the Company issued 1,050,000 Ordinary Shares of 0.5p per share as part of the Company’s share 
+option scheme; further details are provided in note 18. The shares were issued at a premium of 4.0p per share, which 
+has been credited to the share premium account.
+On 31 January 2012, the Company issued 250,000 Ordinary Shares of 0.5p per share as part of the Company’s share 
+option scheme; further details are provided in note 18. The shares were issued at a premium of 5.0p per share, which 
+has been credited to the share premium account.
+On 7 March 2013, the Company issued 300,000 Ordinary Shares at 0.5p per share as part of the Company’s share 
+option scheme; further details are provided in note 18. The shares were issued at a premium of 5.0p per share, which 
+has been credited to the share premium account. 44
+Annual report and accounts 2013 Lombard Risk Management plc
+Notes to the consolidated financial statements continued
+For the year ended 31 March 2013
+18. Share options
+Employee share options charge
+The fair value is based on a number of assumptions as stated below.
+In accordance with the accounting policy stated under note 1(N), the volatility of the Company’s shares for the relevant 
+period has been estimated at 30%, giving a charge to the profit and loss account for the year ended 31 March 2013 
+of £2,445 (2012: £21,000), with the same amount being credited to reserves. The expected volatility has been based 
+on historical volatility, using market prices of Lombard Risk Management plc shares between 4 September 2004 and 
+31 March 2010.
+Equity-settled share-based payments
+The Company has a share option scheme for all employees. Options are granted to employees based on the discretion 
+of the Directors to reward performance. The options are settled in equity once exercised. If the options remain unexercised 
+after the end of the exercising period, the options expire. Options are forfeited if the employee leaves the Company.
+The fair values of the options were calculated using a numerical binomial model assuming the inputs shown below:
+At start
+ of year Granted Exercised
+Lapsed/
+waived
+At end
+ of year
+Exercise
+ price (p)
+Exercise
+ date from
+Exercise
+ date to
+2004 EMI 
+Scheme
+1,790,000 — — (70,000) 1,720,000 9.00 April 2008 April 2013
+300,000 — — — 300,000 9.00 December 2008 December 2013
+1,500,000 — — — 1,500,000 6.00 October 2011 October 2016
+1,000,000 — — — 1,000,000 6.00 June 2010 June 2015
+1,414,365 — — — 1,414,365 4.50 May 2012–  
+May 2014
+May 2015
+4,710,000 — (550,000) — 4,160,000 5.50 January 2013 January 2016
+Unapproved 
+Scheme
+70,000 — — — 70,000 9.00 April 2008 April 2013
+6,685,635 — (1,050,000) (1,050,000) 4,585,635 4.50 May 2012–  
+May 2014
+May 2015
+1,700,000 — — (100,000) 1,600,000 5.50 January 2013 January 2016
+— 500,000 — — 500,000 12.00 April 2014 April 2017
+— 900,000 — — 900,000 12.00 May 2014 May 2017
+19,170,000 1,400,000 (1,600,000) (1,220,000) 17,750,000
+Details of share options granted during the year are as follows:
+Grant date
+15 May
+2012
+26 April
+2012
+Share price at grant 8.20p 7.95p
+Exercise price 12.00p 12.00p
+Contractual life (years) 3 3
+Staff turnover 50% 50%
+Risk-free rate Discount curve used for UK on the day of valuation
+Expected volatility 30% 30%
+Expected dividend yield — —
+Fair value of option 1.61p 1.07p
+Details of the number of share options and the weighted average exercise price (“WAEP”) outstanding during the year 
+are as follows:
+2013
+Number
+2013
+WAEP
+2012
+Number
+2012
+WAEP
+Outstanding at beginning of the year 19,170,000 5.54p 24,955,000 6.01p
+Granted during the year 1,400,000 12.00p — —
+Exercised during the year (1,600,000) 4.84p (1,555,555) 9.00p
+Lapsed during the year (1,220,000) 4.84p (4,229,445) 7.29p
+Outstanding at end of the year 17,750,000 6.16p 19,170,000 5.54p
+Exercisable at the year end 12,350,000 4,660,000 45
+Financial statements 24–51
+www.lombardrisk.com Annual report and accounts 2013
+18. Share options continued
+Equity-settled share-based payments continued
+The share options outstanding at the end of the year have the following exercise prices:
+Expiry date
+Exercise 
+price
+2013
+Number
+2012
+Number
+24 April 2013 9.0p 1,790,000 1,860,000
+28 May 2013 4.5p 2,000,000 2,700,000
+1 December 2013 9.0p 300,000 300,000
+28 May 2014 4.5p 2,000,000 2,700,000
+28 May 2015 4.5p 2,000,000 2,700,000
+20 June 2015 6.0p 1,000,000 1,000,000
+14 January 2016 5.5p 5,760,000 6,410,000
+19 October 2016 6.0p 1,500,000 1,500,000
+26 April 2017 12.0p 500,000 —
+15 May 2017 12.0p 900,000 —
+17,750,000 19,170,000
+The weighted average remaining contractual life of share options outstanding at the year end was 2.1 years (2012: 2.8 years).
+19. Operating leases
+The Group had commitments under non-cancellable operating leases in respect of land and buildings. The Group’s 
+future minimum operating lease payments are as follows:
+2013
+£000
+2012
+£000
+Within one year or less 1,220 1,218
+Within one to five years 933 2,130
+Total 2,153 3,348
+20. Pensions
+A Group company contributes to a defined contribution pension scheme on behalf of a limited number of employees 
+of that subsidiary. The assets of the scheme are administered by trustees in a fund independent of the Company. Other 
+defined contribution pension schemes to which the Group makes contributions on behalf of employees are of the 
+stakeholder variety, again totally independent of the Company.
+21. Related party transactions
+There are no related party transactions in this reporting year or comparative period. 
+Key management of the Group are the Directors of the Parent Company. Details of the Directors’ remuneration are set 
+out in note 3 and in the Remuneration Committee report.
+22. Controlling personnel related parties
+In the opinion of the Directors, there is no ultimate controlling party at 31 March 2013.
+23. Dividends
+During 2013, Lombard Risk Management plc paid a dividend of £139,000 (2012: £103,000) to its equity shareholders. 
+This represents a payment of 0.06p per share (2012: 0.04p).
+Also during 2013, the Directors proposed a dividend of 0.040p per share (2012: 0.035p). As the distribution of the 
+dividends by Lombard Risk Management plc requires the approval at the shareholders’ meeting, no liability in this 
+respect is recognised in the 2013 consolidated financial statements. No income tax consequences for Lombard Risk 
+Management are expected to arise as a result of this transaction. 46
+Annual report and accounts 2013 Lombard Risk Management plc
+Independent auditor’s report to the members of Lombard Risk Management plc
+We have audited the Parent Company financial statements of Lombard Risk Management plc for the year ended 
+31 March 2013 which comprise the Parent Company balance sheet and the related notes. The financial reporting 
+framework that has been applied in their preparation is applicable law and United Kingdom Accounting Standards 
+(United Kingdom Generally Accepted Accounting Practice).
+This report is made solely to the Company’s members, as a body, in accordance with Chapter 3 of Part 16 of the 
+Companies Act 2006. Our audit work has been undertaken so that we might state to the Company’s members those 
+matters we are required to state to them in an Auditor’s report and for no other purpose. To the fullest extent permitted 
+by law, we do not accept or assume responsibility to anyone other than the Company and the Company’s members 
+as a body, for our audit work, for this report, or for the opinions we have formed.
+Respective responsibilities of Directors and auditor
+As explained more fully in the Directors’ responsibilities statement set out on page 7, the Directors are responsible for 
+the preparation of the Parent Company financial statements and for being satisfied that they give a true and fair view. 
+Our responsibility is to audit and express an opinion on the Parent Company financial statements in accordance with 
+applicable law and International Standards on Auditing (UK and Ireland). Those standards require us to comply with the 
+Auditing Practices Board’s (“APBs”) Ethical Standards for Auditors.
+Scope of the audit of the financial statements
+A description of the scope of an audit of financial statements is provided on the APB’s website at  
+www.frc.org.uk/apb/scope/private.cfm.
+Opinion on financial statements
+In our opinion the Parent Company financial statements:
+− − give a true and fair view of the state of the Company’s affairs as at 31 March 2013;
+− − have been properly prepared in accordance with United Kingdom Generally Accepted Accounting Practice; and
+− − have been prepared in accordance with the requirements of the Companies Act 2006.
+Opinion on other matter prescribed by the Companies Act 2006
+In our opinion the information given in the Directors’ report for the financial year for which the financial statements 
+are prepared is consistent with the Parent Company financial statements.
+Matters on which we are required to report by exception
+We have nothing to report in respect of the following matters where the Companies Act 2006 requires us to report 
+to you if, in our opinion:
+− − adequate accounting records have not been kept by the Parent Company, or returns adequate for our audit have 
+not been received from branches not visited by us; or
+− − the Parent Company financial statements are not in agreement with the accounting records and returns; or
+− − certain disclosures of Directors’ remuneration specified by law are not made; or
+− − we have not received all the information and explanations we require for our audit.
+Other matter
+We have reported separately on the Group financial statements of Lombard Risk Management plc for the year ended 
+31 March 2013. 
+Christopher Smith
+Senior Statutory Auditor
+for and on behalf of Grant Thornton UK LLP
+Statutory Auditor, Chartered Accountants
+London
+13 May 2013
+Independent auditor’s report
+Parent Company financial statements 47
+Financial statements 24–51
+www.lombardrisk.com Annual report and accounts 2013
+Company number: 03224870 Note
+As at
+31 March 
+2013
+£000
+As at
+31 March 
+2012
+£000
+Fixed assets
+Tangible assets 4 109 61
+Intangible assets 4 10 22
+Investments in subsidiaries 5 12,611 12,611
+12,730 12,694
+Current assets
+Debtors due within one year 6 5,957 5,142
+Cash at bank and in hand 90 —
+6,047 5,142
+Creditors: amounts falling due within one year 7 (1,648) (1,558)
+Net current assets 4,399 3,584
+Total assets less current liabilities 17,129 16,278
+Creditors: amounts falling due after more than one year 8 (667) (1,333)
+Net assets 16,462 14,945
+Capital and reserves
+Called up share capital 10 1,592 1,484
+Share premium 11 6,622 5,221
+Other reserves 11 7,197 7,195
+Profit and loss account 11 1,051 1,045
+Shareholders’ funds 16,462 14,945
+The financial statements were approved by the Board on 13 May 2013 and signed on its behalf by:
+John Wisbey Paul Tuson
+Chief Executive Officer Chief Finance Officer
+The accompanying accounting policies and notes form an integral part of these financial statements.
+Company balance sheet
+As at 31 March 2013 48
+Annual report and accounts 2013 Lombard Risk Management plc
+1. Accounting policies
+(A) Basis of preparation
+The separate financial statements of the Company are presented as required by the Companies Act 2006. As permitted 
+by that Act, the separate financial statements have been prepared in accordance with all applicable United Kingdom 
+Accounting Standards and on a historical cost basis.
+(B) Going concern
+The financial statements have, as in previous years, been prepared on a going concern basis. 
+In forming an opinion that the Company and the Group is a going concern, the Directors have taken particular note 
+of the trading performance in the year ended 31 March 2013, both in the signing of new business contracts and in the 
+realised financial results. These show continued profitability and an increase in the cash balance at 31 March 2013. 
+The Directors have prepared a cash flow forecast for the period to 30 June 2014, which shows that the Company 
+and Group have sufficient facilities for on-going operations. Whilst there will always remain some inherent uncertainty 
+within the aforementioned forecasts, the Directors believe the Company and Group have sufficient resources to 
+continue in operational existence for at least twelve months from the date of approval of these financial statements.
+Accordingly the Directors continue to adopt the going concern basis in preparing the financial statements for the year 
+ended 31 March 2013.
+(C) Foreign exchange
+Transactions in foreign currencies are recorded at the rate ruling at the date of the transaction. Monetary assets and 
+liabilities denominated in foreign currencies are retranslated at the rate of exchange ruling at the balance sheet date. 
+All differences are taken to the profit and loss account.
+(D) Deferred taxation
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at the balance 
+sheet date where transactions or events that result in an obligation to pay more, or a right to pay less, tax in the future 
+have occurred at the balance sheet date. Deferred tax assets are recognised when it is more likely than not that they 
+will be recovered. Deferred tax is measured using rates of tax that have been enacted or substantively enacted by the 
+balance sheet date.
+(E) Leased assets
+All leases held by the Company are regarded as operating leases and the payments made under them are charged 
+to the profit and loss account on a straight line basis over the lease term.
+(F) Fixed and intangible assets
+Depreciation is provided using the following rates and bases so as to write off the cost or valuation of fixed and 
+intangible assets over their useful lives in the Company’s business:
+Computer software 50% to 100% straight line
+Computer hardware 50% straight line
+Fixtures, fittings and equipment 25% straight line
+(G) Investments in subsidiaries
+Investments in subsidiaries are recorded at cost less any provision for permanent diminution in value.
+2. Directors and employees
+Staff costs including Directors
+2013
+£000
+2012
+£000
+Wages and salaries 1,535 1,237
+Social security costs 252 208
+Pension costs 9 —
+Share-based payments charge (note 18 to the consolidated financial statements) 2 21
+Total staff costs 1,798 1,466
+3. Profit for the financial year
+The Parent Company has taken advantage of Section 408 of the Companies Act 2006 and has not included its own 
+income statement in these financial statements. The Parent Company’s profit for the year was £145,000 (2012: £172,000).
+Notes to the Company financial statements
+For the year ended 31 March 2013 49
+Financial statements 24–51
+www.lombardrisk.com Annual report and accounts 2013
+4. Fixed assets
+Company
+Computer
+hardware
+£000
+Fixtures, 
+fittings and 
+equipment
+£000
+Computer
+software
+£000
+Total
+£000
+Cost 
+At 1 April 2012 878 427 308 1,613
+Additions 82 23 26 131
+At 31 March 2013 960 450 334 1,744
+Depreciation 
+At 1 April 2012 829 415 286 1,530
+Charge for the year 50 7 38 95
+At 31 March 2013 879 422 324 1,625
+Net book value
+At 31 March 2013 81 28 10 119
+At 31 March 2012 49 12 22 83
+5. Investments in subsidiaries
+Investments in subsidiaries
+2013
+£000
+2012
+£000
+At 1 April and 31 March 12,611 12,611
+The Directors have considered the carrying value of the investments in subsidiaries and have concluded, on the basis 
+of forecast financial performance of the subsidiaries, that no impairment in value has taken place and therefore that 
+no provision is currently required.
+At 31 March 2013 the undertakings in which the Company held more than 20% of the allotted share capital were as follows:
+ 
+Proportion of Ordinary Share 
+capital held
+By Parent 
+(%)
+By Group 
+(%)
+Country of 
+incorporation Business
+Lombard Risk Systems Limited 100 100 UK Software
+Lombard Risk Compliance Limited 100 100 UK Software
+Lombard Risk International Limited 100 100 China Software
+Lombard Risk Systems Inc. — 100 US Software
+Lombard Risk International (USA) Inc. — 100 US Software
+Lombard Risk International (Hong Kong) Limited — 100 Hong Kong Software
+Lombard Risk International (Singapore) Limited — 100 Singapore Software
+Lombard Risk Consultants Limited 100 100 UK Services
+Lombard Risk Systems (Asia Pacific) Limited — 100 Hong Kong Dormant
+Lombard Risk Compliance Policies Limited (formerly Swapval Limited) 80 80 UK Software
+All of the subsidiary undertakings have been included in the consolidation. Swapval Limited changed its name to 
+Lombard Risk Compliance Policies Limited on 7 August 2012 and the company has since commenced trading. 20% 
+of the issued share capital of the company was transferred to a third party during the year under review.
+6. Debtors due within one year
+2013
+£000
+2012
+£000
+Amounts receivable from subsidiary undertakings 5,861 4,976
+Prepayments and sundry debtors 96 108
+Other debtors — 25
+Deferred tax asset (note 9) — 33
+5,957 5,142
+The amounts due from subsidiary companies are due on demand. However, in the opinion of the Directors, it is unlikely 
+that these amounts will be fully repaid within the next financial year.
+The deferred tax asset in 2012 crystallised in full during the year under review. 50
+Annual report and accounts 2013 Lombard Risk Management plc
+7. Creditors due within one year
+2013
+£000
+2012
+£000
+Borrowings 1,013 667
+Trade creditors 287 168
+Accruals 348 723
+1,648 1,558
+8. Creditors due after one year
+2013
+£000
+2012
+£000
+Borrowings 667 1,333
+Borrowings at 31 March 2013 comprise a Sterling bank loan and a Euro bank loan. 
+The Sterling bank loan is repayable in equal quarterly instalments over a three year term with the first repayment 
+in April 2012. The loan principal is £2.0m and interest is payable at the rate of LIBOR + 4%. The balance outstanding 
+at 31 March 2013 was £1.3m.
+The Euro bank loan is repayable in one payment on 30 April 2013. The loan principal is €0.4m and interest is payable 
+at a rate of LIBOR + 4.25%. The balance outstanding at 31 March 2013 was £0.3m.
+9. Taxation
+The deferred tax asset in the balance sheet relates to the carry forward of tax losses.
+2013
+£000
+2012
+£000
+Deferred tax asset — 33
+The Directors previously recognised a deferred tax asset in respect of carried forward trading tax losses as, based 
+on current estimates at 31 March 2012, the Company was forecast to make sufficient trading tax profit in the future 
+against which these losses could be offset. The deferred tax asset was utilised in full during the year under review. 
+There are no unrecognised tax losses carried forward at 31 March 2013 (2012: £Nil).
+10. Share capital
+2013
+£000
+2012
+£000
+Authorised
+714,034,085 Ordinary Shares of 0.5p each (2012: 714,034,085) 3,570 3,570
+Allotted, called up and fully paid
+232,409,897 Ordinary Shares of 0.5p each (2012: 210,809,897) 1,162 1,054
+429,829,575 deferred shares of 0.1p each (2012: 429,829,575) 430 430
+1,592 1,484
+Share issue
+On 6 June 2012, the Company issued 20,000,000 Ordinary Shares of 0.5p per share in order to accelerate growth, 
+to recruit certain key staff and to provide cash for potential acquisition opportunities. The shares were issued at a 
+premium of 7.0p per share, which has been credited to the share premium account, net of issue costs of £69,000.
+On 19 July 2012, the Company issued 1,050,000 Ordinary Shares of 0.5p per share as part of the Company’s share 
+option scheme; further details are provided overleaf. The shares were issued at a premium of 4.0p per share, which 
+has been credited to the share premium account.
+On 31 January 2012, the Company issued 250,000 Ordinary Shares of 0.5p per share as part of the Company’s share 
+option scheme; further details are provided overleaf. The shares were issued at a premium of 5.0p per share, which 
+has been credited to the share premium account.
+On 7 March 2013, the Company issued 300,000 Ordinary Shares at 0.5p per share as part of the Company’s share 
+option scheme; further details are provided overleaf. The shares were issued at a premium of 5.0p per share, which 
+has been credited to the share premium account.
+Notes to the Company financial statements continued
+For the year ended 31 March 2013 51
+Financial statements 24–51
+www.lombardrisk.com Annual report and accounts 2013
+10. Share capital continued
+Share options
+At start
+ of year Granted Exercised
+Lapsed/
+waived
+At end
+ of year
+Exercise
+ price (p)
+Exercise
+ date from
+Exercise
+ date to
+2004 EMI 
+Scheme 1,790,000 — — (70,000) 1,720,000 9.00 April 2008 April 2013
+300,000 — — — 300,000 9.00 December 2008 December 2013
+1,500,000 — — — 1,500,000 6.00 October 2011 October 2016
+1,000,000 — — — 1,000,000 6.00 June 2010 June 2015
+1,414,365 — — — 1,414,365 4.50 May 2012 May 2015
+4,710,000 — (550,000) — 4,160,000 5.50 January 2013 January 2016
+Unapproved 
+Scheme 70,000 — — — 70,000 9.00 April 2008 April 2013
+6,685,635 — (1,050,000) (1,050,000) 4,585,635 4.50 May 2012 May 2015
+1,700,000 — — (100,000) 1,600,000 5.50 January 2013 January 2016
+— 500,000 — — 500,000 12.00 April 2014 April 2017
+— 900,000 — — 900,000 12.00 May 2014 May 2017
+19,170,000 1,400,000 (1,600,000) (1,220,000) 17,750,000
+The deferred shares carry no rights to receive dividends or to participate in any profits of the Company. The shareholders 
+are not entitled to attend any meetings of the Company or have any rights to participate in any return of capital (except on 
+a winding up). The deferred shares are not transferable other than with the consent of all the Directors of the Company.
+11. Share premium and other reserves
+Share 
+capital
+£000
+Share 
+premium
+account
+£000
+Other
+reserves
+£000
+Profit 
+and loss 
+account
+£000
+Shareholders’
+funds
+£000
+Balance at 1 April 2012 1,484 5,221 7,195 1,045 14,945
+Issue of share capital, net of issue costs 108 1,401 — — 1,509
+Profit for the year — — — 145 145
+Dividend — — — (139) (139)
+Share-based payment charge — — 2 — 2
+Balance at 31 March 2013 1,592 6,622 7,197 1,051 16,462
+Other reserves relate to negative goodwill arising on the acquisition of a subsidiary undertaking prior to 1 April 1997, 
+merger reserve and net foreign exchange movements in connection with overseas subsidiaries.
+12. Related party transactions
+The Company has taken advantage of the exemption in Financial Reporting Standard 8 “Related party disclosures” and 
+has not disclosed transactions with wholly owned Group undertakings.
+The Company charged £64,000 (2012: £Nil) to Lombard Risk Compliance Policies Limited in respect of support services 
+provided. The balance owed by Lombard Risk Compliance Policies Limited to the Company at 31 March 2013 was 
+£263,000 (2012: £Nil).
+There are no other related party transactions in this reporting year or comparative period. 52
+Annual report and accounts 2013 Lombard Risk Management plc
+Company registration number
+03224870
+Directors
+Philip Crawford 
+Chairman
+John Wisbey
+Chief Executive Officer
+Paul Tuson 
+Chief Finance Officer
+Nick Davies
+Chief Technology Officer
+Brian Crowe
+Non-executive Director
+Company Secretary
+Paul Tuson
+Registered office
+7th Floor  
+Ludgate House 
+245 Blackfriars Road 
+London SE1 9UF
+Nominated adviser and broker
+Charles Stanley Securities
+131 Finsbury Pavement  
+London EC2A 1NT
+Auditor
+Grant Thornton UK LLP
+Grant Thornton House 
+Melton Street 
+Euston Square 
+London NW1 2EP
+Corporate solicitors
+Memery Crystal
+44 Southampton Buildings 
+London WC2A 1AP
+Registrars
+Computershare Investor Services PLC
+PO Box 859 
+The Pavilions 
+Bridgwater Road 
+Bristol BS99 1XZ
+Date
+Annual General Meeting 
+12 July 2013
+Company information  Lombard Risk Management plc
+7th Floor 
+Ludgate House 
+245 Blackfriars Road 
+London SE1 9UF 
+UK 
+tel: +44 (0)20 7593 6700 
+fax: +44 (0)20 7593 6780 
+e: investorrelations@lombardrisk.com
+www.lombardrisk.com
+Lombard Risk Management plc Annual report and accounts 2013

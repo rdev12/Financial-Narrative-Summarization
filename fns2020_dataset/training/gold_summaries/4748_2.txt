@@ -1,0 +1,199 @@
+  
+Dialog Semiconductor Plc | Annual report and accounts 2012 | Section 1 | Overview 02
+Our markets
+Mobile: 
+ ■ Power management ICs and audio CODECs for smartphones, 
+tablets and Ultrabooks™
+Automotive and industrial: 
+ ■ Custom motor control ICs for windscreen wipers and companion 
+processor integrated power management and clock ICs for automotive 
+infotainment systems
+ ■ Electronic ballasts for fluorescent or high-intensity industrial lighting 
+and energy-efficient retrofit bulb LED lighting solutions
+Connectivity: 
+ ■ Single chip transceivers for DECT-based wireless microphones, 
+headsets and gaming consoles 
+ ■ SmartPulse™ short-range wireless ICs, based on the Ultra Low 
+Energy DECT standard, for smart home applications
+ ■ Energy-efficient multicore Voice-over IP (VoIP) processors, audio codecs 
+and amplifiers, interfacing with Bluetooth, Wi-Fi and DECT, to enable 
+headset and handset connectivity
+2012 financial highlights – a record year
+ ■ US$774 million revenue in 2012, up 47% over 2011
+ ■ Full-year 2012 net profit of US$62.5 million or 8.1% of sales, 
+completing five years of successive profitable growth
+ ■ Full year gross margin of 37.8%
+ ■ Closing year cash balance of US$312 million
+ ■ Basic and diluted 2012 IFRS earnings per share (EPS) of 0.97 cents  
+and 0.93 cents respectively
+2012 operational highlights
+ ■ Sustained high demand for our power management technologies 
+from leading smartphone and tablet customers
+ ■ Momentum in our connectivity portfolio with the selection of our 
+short-range wireless audio ICs, VoIP and DECT solutions by leading 
+microphone, gaming and professional headset and cordless phone 
+customers, including VTech and Jabra
+ ■ Continued success in broadening our Processor Partner Programme 
+with companies including Intel, NVIDIA and Freescale. This includes 
+the selection of our Power Management ICs (PMICs) by Freescale 
+for a reference board using its i.MX series of multicore application 
+processors to enable the rapid development of tablets, infotainment 
+systems, media hubs and other smart devices
+ ■ Continuous innovation in our standard and custom product portfolios:
+ – Our latest PMIC, featuring an innovative multiphase buck converter 
+architecture to support the high currents increasingly required in 
+multicore application processors for smartphones and tablets was 
+sampled to key customers
+ – Dialog continued partnering with TSMC on state-of-the-art 0.13 
+micron bipolar-CMOS-DMOS (BCD) technology to integrate higher 
+voltage components into a smaller form factor, single-chip power 
+management IC to support next generation smartphones 
+and tablets
+– We licensed the ARM® Cortex™ M0 32-bit multicore processor for 
+use in our next generation PMICs, targeting multicore smartphones, 
+tablets and other embedded devices. The first of these PMICs was 
+sampled in 2012
+Dialog at a glance and our markets
+800
+600
+400
+200
+0
+08 09 10 11 12
+Total revenue 
+(US$m)
+* Year-on-year growth 2011-12
++47%*
+70
+60
+50
+40
+30
+20
+10
+0
+08 09 10 11 12
+Net profit 
+(US$m)
++9%*
+100
+80
+60
+40
+20
+0
+08 09 10 11 12
+Operating profit 
+(US$m)
++48%*
+1.00
+0.75
+0.50
+0.25
+0
+08 09 10 11 12
+Basic EPS 
+(US$)
++6%*   
+ 
+ 03
+3,000
+2,500
+2,000
+1,500
+1,000
+500
+0
+12 13 14 15 16
+World market for short-range 
+wireless ICs (million units)
+Source: GBI Research 2012
++2,000**
+350
+300
+250
+200
+150
+100
+12 13 14 15 16
+Media tablet market 
+(million units)
+Source: Gartner/Dialog 2012
++200**
+1,500
+1,300
+1,100
+900
+700
+500
+12 13 14 15 16
+Smartphone market 
+(million units)
+Source: IDC 2012
+** Forecast unit growth 2012-2016
++750**
+Q2 
+Samsung selected Dialog’s power management and audio 
+technology for a second smartphone platform – the  
+Galaxy Pocket S5300 – and our audio technology for its ultra 
+compact Pebble MP3 accessory that syncs with the Galaxy SIII 
+smartphone to enable runners and sportspeople to enjoy music  
+on the move. 
+SmartPulse™ DECT ULE (Ultra Low Energy) was adopted by a 
+European plug manufacturer for internet-enabled smart plugs, 
+enabling home appliances to be controlled from a smartphone 
+or tablet.
+Q3 
+Dialog introduced a new PMIC architecture for next generation 
+application processors through our Processor Partner Programme 
+to help drive and support innovation in the smartphone and 
+tablet markets.
+Q4 
+Dialog’s PMIC was selected by a Processor Partner  
+Programme member for a 4G LTE-based chipset platform  
+for Asia-based customers. 
+2012 saw Dialog achieve  
+US$774 million in revenues.  
+The customer base was further 
+diversified with additional platform 
+wins at Samsung. We laid the 
+groundwork for our entry into the 
+4G LTE market with sampling under 
+way of standardised PMICs on  
+a reference board for Asia-based 
+customers. Dialog also opened its 
+new Asian headquarters in Taipei 
+to meet increasing demand for our 
+products in Taiwan, China and 
+Korea and issued a convertible  
+bond offering for corporate 
+funding purposes. 
+Q1 
+Dialog extended its Green VoIP IC family with the launch  
+of the new SC14453, incorporating leading audio, security  
+and graphics functionality. 04 Dialog Semiconductor Plc | Annual report and accounts 2012 | Section 1 | Overview
+...
+Consumers today want to be able to use exciting new entertainment 
+apps on their smartphones and tablets and interact via high-speed,  
+4G LTE networks. Video streaming, sharing and calls are becoming 
+increasingly popular, alongside enhanced gaming, GPS, data and 
+voice services.
+...
+“Dialog’s innovative technology  
+increases the battery life that a 
+smartphone or tablet can deliver, 
+enabling consumers to multi-task and 
+enjoy high-quality multimedia content 
+on the go. Our power management 
+chips can be programmed to enable 
+each of the multicore processors to be 
+powered in and out of sleep mode in 
+specific sequences and meet the exact 
+voltage and current requirements 
+of each sub-system, including the 
+application and baseband processors, 
+display, audio, graphics, GPS and 
+memory components.”
+Udo Kratz
+Senior Vice President, General Manager,  
+Mobile Systems Business Group  05

@@ -1,0 +1,104 @@
+  ATTRAQT Group PLC 
+14 
+ 
+CEO’s Statement 
+for the year ended 31 December 2016 
+ 
+ 
+Introduction 
+  
+ATTRAQT continues to deliver strong operational and financial progress. We have grown our client base in both 
+the UK and North America, reaching out to larger multi-national retailers as evidenced by our increasing average 
+new client deal value and gross margin. 
+ 
+Business model 
+ 
+The Group’s business model is based on a recurring monthly service fee plus a one-off set-up fee and additional 
+follow-on project fees. Clients contract up for a minimum of 12 months, with some larger clients signing up for a 
+longer period of two years. 
+ 
+The current sales model is based on direct sales via a dedicated sales team. Due to the importance of the 
+functionality provided by the Platform to our clients, client retention is strong with most clients automatically 
+renewing at the end of the contractual term.  
+ 
+Growth strategy 
+ 
+The Group’s objective is to become the global leader in online visual merchandising. 
+ 
+Throughout the year ATTRAQT has continued to build on its business plan, founded on four key elements: 
+ 
+1) Invest in sales and marketing to grow client base and recurring revenue; 
+2) Expand the Group’s production capacity to keep pace with accelerating sales; 
+3) Develop strategic partnerships – both sales and technology – to accelerate sales growth and extend our 
+product offering; and 
+4) Extend the capabilities of the platform through continued investment in research and development, 
+adding new features and creating new products to initiate new revenue streams. 
+ 
+Review of Sales & Operations 
+ 
+ATTRAQT continues to deliver strong operational results, with 42 deals during the year, of which 31 were new 
+clients, bringing the total to 121 (FY15: 110). The Company also delivered 37 new customer implementations, 
+bringing the total number of live client sites to 185 (FY15: 154). 
+ 
+The Group experienced an outage at its data centre during H1, which was quickly addressed and subsequently 
+transitioned to a new data centre provider. There was an increase in customer attrition of nine clients directly as a 
+result of the outage. 
+ 
+A key focus for ATTRAQT remains the development of the North American business. Progress has been 
+encouraging as demonstrated by client wins in the region, including Eddie Bauer and Volcom. Given the size of the 
+market we believe there are still a significant number of opportunities available to expand ATTRAQT’s footprint in 
+the region. 
+ 
+The Group maintained investment in upgrading the Platform, with seven new core code releases in the period 
+including by example: 
+ Hypercaching: Hypercaching gives ATTRAQT the option to deploy its platform with an extra layer where 
+product details are cached at the rules engine level. This means that the merchandising database and search 
+engine do less work and only have to deliver product ID results to the hypercache layer once. The product 
+cache layer adds all the product information to the response that goes to the client rather than it having to be 
+retrieved from the search and merchandising database. The product ordering (balance factors) and guided 
+navigation also come from the product cache layer. This provides the platform with significant scale and 
+performance advantage. 
+ Built-in AB Testing: Allows the client to have ATTRAQT automatically split traffic between multiple 
+merchandising rules and report on comparative conversion rates of each test. 
+   ATTRAQT Group PLC 
+15 
+ 
+CEO’s Statement 
+for the year ended 31 December 2016 (continued) 
+ 
+ Rule Synchronisation: Functionality to copy merchandising rules so clients with multiple instances/regions 
+save time setting up rules that they want to be the same across regions.  
+Financial Review 
+ 
+Total revenue increased by 22.6 percent to £3.6m (FY15: £2.9m), as new customers were added and existing 
+customers commissioned additional sites. The recurring monthly revenue from live clients rose 21.7 percent from 
+£2.7m to £3.2m, now representing 90 percent (FY15: 91 percent) of total Group revenue. The Exit Rate (year-end 
+contracted annualised billing) for 2016 was up 15% percent to £3.9m.  
+ 
+The Group showed good management of costs to deliver recorded losses before tax and at EBITDA level in line 
+with management expectations. Losses before tax increased to £1.9m (FY15: £0.7m) and adjusted EBITDA losses 
+for the year increased to £1.6m (FY15: £0.2m). The planned investment of the proceeds of the 2015 fundraising in 
+expanding sales, marketing and production lead to the EBITDA losses increasing in the short-term, reflecting 
+investment in the Group’s operational expansion; however, the rate of growth is expected to accelerate as a result, 
+with a return to EBITDA profitability in the mid-term. 
+ 
+ATTRAQT continues to invest in technical enhancements to the existing product offerings and in new products. 
+Some of this cost is capitalised and some is absorbed as part of the operating costs of the business. 
+ 
+Outlook 
+ 
+ATTRAQT has seen another year of sustained growth of revenues and client base in the UK and North America, 
+whilst at the same time increasing gross margin. We have signed 42 new deals in the period, including several 
+marquee retailers and have delivered a 22 percent increase in revenue for the year. 
+  
+Our objective is to deliver strong profitable growth and become the technology partner of choice for leading online 
+retailers. With an exit rate of £3.9m, good growth in recurring revenue and a strong sales pipeline for H1 2017, we 
+are confident in the continued success of ATTRAQT for 2017 and the foreseeable future. 
+ 
+André Brown 
+Chief Executive Officer 
+3 March 2017 
+ 
+ 
+ 
+  

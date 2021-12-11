@@ -1,0 +1,288 @@
+ 6 Focus Solutions Group plc Annual Report & Accounts 2004
+Focus Solutions and Zurich won ‘Best use 
+of IT in insurance’ at the 2004 Financial Sector
+Technology Awards 
+Chief Executive’s Statement
+Last year was a difficult year in the UK
+insurance market. Against this backdrop,
+Focus was also managing a major
+transition in its business as the Norwich
+Union POS solution, RIO, was coming to
+the end of its development cycle in terms
+of revenue generation. In this tough
+environment, Focus delivered a very
+encouraging performance, with 30%
+growth in sales of goal:technology and
+associated services, the successful launch
+of XFormation and the signing of the first
+partnership deal with Milliman. 
+Underpinning our plans for the Group has
+been the recognition that we must make
+the business sustainable and scalable. 
+In terms of sustainability, it is our
+objective to extend the customer base
+by entering additional market sectors.
+A key medium term objective is for our
+recurring revenues to substantially cover
+our fixed cost base. While we remain
+someway from achieving this goal,
+substantial progress was made in the
+year. In the short term, our solutions
+business is close to sustainability based
+on our established strategy for the
+design, delivery and implementation of
+world class e-trading solutions based
+around our MCA components for the
+financial services markets, built using
+goal:technology, our XML toolkit.
+In terms of scalability we see the
+technology side of the business offering
+much greater short term opportunities.
+The exploitation of goal:technology in
+other markets through partners has 
+formed a major plank of our strategy for a
+number of years. We have now secured
+our first partnership arrangement with
+Milliman and have an ongoing business
+relationships with Fidelity Information
+Services. We have also joined the BEA
+Partner programme. The development
+and launch of XFormation, derived from
+the goal:technology family of software,
+is moving the business into other non-
+financial services related markets. 
+MCA solutions for the life and
+pensions market
+The past few years have been very
+difficult for the UK life and pensions
+industry, with falling stock markets,
+increasing regulation and consolidation in
+the industry. The move towards electronic
+trading, although slow to take off initially,
+is now gathering pace. A recent analysis
+of the percentage of transactions now
+being delivered electronically shows that
+17% were automated in 2003, compared
+to 4% over 2002. (Source: Focus Quotient
+2003). With all of the top 10 UK life and
+pensions companies using
+goal:technology, Focus is now a leading
+supplier of customer management
+solutions to this market, providing one
+of the key components required to make
+straight through processing of
+applications for pensions and insurance
+policies a reality. 
+Software that incorporates
+goal:technology has now been
+distributed to approximately 40,000
+users within the UK life insurers and
+the IFA community. This represents a
+significant foothold in our core market
+and provides an important reference for
+other markets inside and outside the
+financial services sector.
+During the past year, we have secured
+important new business with Winterthur
+Life UK, Webline, and Clerical Medical.
+Marlborough Stirling’s market leading 
+IFA Portal business, The Exchange, 
+has signed an agreement to use
+goal:technology in its Exweb Gold
+service. An established customer, 
+Zurich, has radically transformed its
+direct sales force POS using MCA based
+on goal:technology, over 98% of its
+transactions from this channel are now
+received electronically. It has also signed
+a contract to use MCA for new business
+based on goal:technology in its
+extranet, allowing the IFA channel to
+place transactions online. 
+Entry into the mortgage market
+During the last twelve months, MCA for
+mortgages was selected by Kensington
+Mortgages to build a new online
+mortgage application system and by
+Network Data, a leading mortgage
+sourcing company, to support the
+provision of mortgage products. Focus
+has previously worked with two major
+life insurers to develop solutions to
+capture and deliver mortgages and
+associated general insurance
+transactions electronically. With the
+proliferation of mortgage products and
+the introduction of legislation in
+October 2004 to regulate the provision
+of mortgage advice, mortgage lenders
+are looking for solutions to achieve the
+new compliance requirements.
+John Streets  Chief Executive Focus Solutions Group plc Annual Report & Accounts 2004 7
+goal:technology 
+goal:technology, Focus’ XML based
+toolkit is designed to enable the rapid
+development of components to
+automate the sales process. It comprises a
+suite of products that enable the simple
+design, development and deployment of
+complex data capture processes that can
+be implemented as a standalone
+technology or integrated within existing
+products or solutions to significantly
+enhance data capture capability. An XML
+data capture built using goal:technology
+can be reused in multiple business
+channels and environments.
+As a result, solutions built using
+goal:technology are built to change
+and are to a large extent “future proofed” .
+This compares to the traditional
+approach to building software, which has
+resulted in many legacy systems with
+long lead times for development, and
+software that is difficult and costly to
+change and maintain.  With speed and
+flexibility becoming key differentiators of
+company performance, these old models
+no longer make commercial sense. 
+Our customers are looking for solutions
+that enable them to gain competitive
+differentiation in their market and that
+are flexible enough to allow them to
+respond to continuing change in market
+conditions. They are looking for fast
+development and implementation
+timescales, solutions that are built in 90
+days, are easy to change and can deliver
+a return on investment within the
+current budget year. goal:technology
+is unique in meeting these requirements
+and underpinning the delivery of
+solutions to customers facing tough
+trading environments. 
+goal:technology is generic, and can be
+used in a wide range of industries where
+the simple creation of sophisticated front
+end applications is required. Our
+partnership programme has been set up
+to extend the reach of goal:technology
+into market sectors outside the life and
+pensions market, targeting software
+companies and systems integrators,
+where goal:technology can add value
+to their solutions and cut the costs of
+development and maintenance. Our US
+partner, Milliman, is making good
+progress, with goal:technology and is
+now ready to deploy solutions for three
+large US general insurance companies. 
+As standards continue to evolve, we have
+made an early move into the XForms
+market , which we see as an important
+development. XFormation has been
+developed as the first working XForms
+builder/ processor package and made
+available to the wider development
+community over the Internet. 
+The XForms standard defines a dialect
+for the next generation of forms
+technology that is set to replace HTML
+forms. The new XForms standard has
+been developed by the W3C, the
+worldwide community responsible for
+the standards that support the World
+Wide Web. The XForms specification
+overcomes current limitations of HTML
+and reduces the need for extensive
+script when developing interactive web
+pages. The XForms standard is device
+independent and will allow complex
+functionality to be deployed across the
+web and on other deployment devices
+such as mobile phones or pocket PCs.
+This in itself represents a major market
+opportunity for other sectors to gain the
+advantages currently enjoyed by our UK
+life and pensions customers.
+Focus will continue investing to ensure
+that our goal:technology XML toolkit
+exploits the recent advances in data
+capture led by the W3C Internet
+standards authority.
+Strategy
+It is our strategy to create a sustainable
+and scalable business. The provision of
+customer management solutions to the
+UK life and pensions market using
+goal:technology can generate
+sustainable profits in the foreseeable
+future, coupled with taking
+goal:technology into other associated
+markets (such as general insurance and
+mortgages). To achieve further growth,
+the Board believes there is significant
+opportunity in exploiting
+goal:technology more widely through
+developing partnership agreements
+with organisations operating in different
+geographical and vertical markets. 
+Prospects
+Although we expect market conditions
+to remain tough in the forthcoming
+year, our target market will continue to
+look for solutions that cut the costs of
+distributing their products and help
+them meet the challenge of the new
+regulations. We aim to capitalise on our
+strong position in the life and pensions
+market and build on our initial wins to
+establish a presence in the mortgage
+market.  We now have a track record of
+delivering benefits to customers,
+underpinned by innovative software
+that has global multi-market potential.
+Tight control on costs, coupled with a
+closely targeted approach to sales and
+partnership development will ensure
+that the Group continues to make good
+progress in implementing its strategy. 
+A Focus POS solution wins FST
+‘Best use of IT in Insurance’ award
+for 2nd consecutive year
+The Zurich Advice Network selected
+Focus Solutions to deliver their new
+Point of Sale (POS) solution called ETi
+(Electronic Trading instantly) using
+components of Focus’ Multi-Channel
+Advice (MCA) application suite. The two
+organisations worked closely together
+using a RAD (Rapid Application
+Development) approach to facilitate 
+a quick delivery. In January 2003 ETi
+was rolled out to all 3,500 of ZAN’s
+advisers, following just a three-month
+development period.
+The ETi project exceeded the original
+business objectives set by Zurich and
+since the implementation has delivered
+significant business benefits to the
+financial services organisation. Over 
+98% of Zurich’s non-regulated business
+is now delivered electronically and as a
+result of introducing ETi, business
+volumes for non-regulated products
+have more than doubled and this level 
+is increasing still month on month.
+In March 2004, ETi won the Financial
+Sector Technology 2004 award for the
+‘Best use of IT in Insurance’ – the second
+consecutive year that a POS solution
+built by Focus has won this category.
+“The ETi system has transformed the way
+we sell our non-regulated business and
+feedback from our advisers has been very
+positive. ”
+Paul Kenmir,
+Sales Process Director for Zurich
+Financial Services

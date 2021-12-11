@@ -1,0 +1,2325 @@
+ ANT plc
+Annual Report & Accounts
+For the year ended 31 December 2008
+ENABLING AND DELIVERING NEXT-GENERATION TV EXPERIENCES  Contents
+Financial Highlights 2
+ANT Business Model 4
+Chairman's Statement 5
+Chief Executive Officer's Review 6
+Board of Directors 10
+Corporate Governance Report 12
+Directors' Report 14
+Directors' Remuneration Report 17
+Independent Auditor's Report - Group 19
+Consolidated Income Statement 20
+Consolidated Balance Sheet 21
+Consolidated Statement of Cash Flows 22
+Notes to the Financial Statements 23
+Independent Auditor's Report - ANT plc 43
+Company Balance Sheet - UK GAAP 45
+Notes to the Financial Statements - UK GAAP 46
+Notice of Annual General Meeting 49
+Form of Proxy 55
+ANT PLC ANNUAL REPORT AND ACCOUNTS 2008   1 2 ANT PLC ANNUAL REPORT AND ACCOUNTS 2008
+Financial Highlights
+REVENUE
+GROSS MARGIN
+OPERATING COSTS
+£3.74m
+(2007: £2.9m)
+83%
+(2007: 85%)
+£4.44m
+(2007: £4.84m)
+ANT develops software that allows services like programme or channel guides to
+work on set top boxes and televisions.
+Around the world, television is changing.
+At the heart of this change ANT's products enable a wide range of exciting new TV
+services, creating the navigation and control functions and supporting attractive
+user interfaces. These can be delivered over broadband, digital terrestrial, cable or
+satellite networks. ANT ensures that services like video on demand or time-shift TV
+are simple to use for millions of users every day. Operational Highlights
+• Revenue, loss before tax and year end cash balance all ahead of expectations
+• 14 new licences signed (2007: 7)
+• 3.2m units shipped, up by 56% (2007: 2.0m)
+• Samsung ANT Galio Browser based hybrid STB launched to support next
+growth phase of France Telecom’s roll-out
+• Strong cost and cash management controls
+ANT PLC ANNUAL REPORT AND ACCOUNTS 2008  3
+LOSS BEFORE TAX
+CASH & OTHER FINANCIAL ASSETS
+CASH OUTFLOW
+£1.01m
+(2007: £2.02m)
+£5.65m
+(2007: £6.21m)
+£0.56m
+(2007: £1.33m) 4 ANT PLC ANNUAL REPORT AND ACCOUNTS 2008
+ANT generates revenue from the licensing of intellectual property (IP) and royalties from any product shipped
+containing that IP . In addition, revenue is generated from professional services in the form of consultancy and
+support and maintenance.
+The Group licences primarily to set top box (STB) manufacturers and it is these licences that generate revenue.
+Our professional services are relevant not only to the STB manufacturers, but also television operators and media
+owners.
+In order to best illustrate this, below is a description of a television operator’s commercial relationship with ANT.
+ANT increases its ability to market its software by:
+• Encouraging the device manufacturer to promote devices that carry ANT’s software 
+pre-integrated into new business opportunities;
+• Encouraging operators to include ANT’s software in their specifications for new deployments.
+The ANT business model detailed above is not only applicable to TV operators deploying their services over a
+single network type, for example over cable or broadband networks, but increasingly to operator deployment
+services over multiple combined networks. For example, France Telecom is deploying a service over a combination
+of satellite, terrestrial and broadband networks in France. The STBs use ANT Galio to receive their TV services
+across all three network infrastructures simultaneously. This trend of combining network type is rapidly increasing
+and plays to a strength of ANT’s software – its ability to manage complex TV service delivery into the home.
+ANT's Business Model
+Television operators license and develop television services, which
+they then sell to consumers using a subscription fee model.
+These services are provided over a network and received by the
+subscriber through an STB connected to the television or directly into
+the TV itself.
+ANT’s software goes into the STB or the TV and manages the TV’s
+presentation of the service, enables the service’s features and
+facilitates the consumer’s interaction with the TV services.
+The provision of ANT’s software to the STB or TV manufacturer is
+carried out under licence for which ANT charges a fee. The fee varies
+depending on the range of technology licensed. ANT charges a 
+per-unit royalty fee upon shipment of each STB or TV. As mentioned
+above, ANT charges additional fees in relation to the provision of
+consulting services and support and maintenance. ANT PLC ANNUAL REPORT AND ACCOUNTS 2008  5
+Chairman’s Statement
+for the year ended 31 December 2008
+2008 was a strong year for ANT. We saw a significant
+increase in our licensing business, with our licensees
+continuing to ship in increasing volumes. As a result, the
+Group reported results ahead of expectations and, despite
+difficult market conditions, is working to achieve another
+good year. The operational management team continues to
+exercise tight control over key business drivers which is
+underlined by the Group’s cash position of £5.6m at the
+year end. 
+ANT is a high margin business servicing the long term
+growth of the television market. The Group’s software,
+which has been designed specifically for television, has
+already achieved significant market share. The business is
+well positioned to take advantage of this growth, which is
+evident in the increase in units shipped, 56% up on 2007.
+ANT is also seeing its product portfolio growing in
+relevance to other digital television markets broadening the
+Group’s future opportunities.
+With operators facing increasing pressures to maximise
+revenue potential and offset falling advertising streams and
+consumers being driven by changes in technology (digital
+switch over and high definition upgrades) our products’
+ability to drive increased services and value into the
+consumers’ relationship with their television is key.
+Looking ahead, the Board is confident that ANT’s business
+model is robust and we look forward to delivering another
+successful year.
+On behalf of the Board, I would like to thank all our
+employees for their commitment and contribution to the
+continued development of the business in the last year. 
+Royston Hoggarth
+Chairman
+2nd March 2009  Chief Executive Officer’s Review
+Introduction
+2009 has started, as 2008 ended, on a positive note with the
+announcements by Taiwan’s Chunghwa Telecom’s Laboratories
+and SoftAtHome of their selection of ANT Galio for their next
+generation browser. While current economic conditions will
+inevitably constrain growth rates over the next few years, the
+ongoing structural changes in the TV market supports our
+confidence in the market’s long-term growth potential. With our
+significant market share, we are well placed to benefit from
+these.
+Financial Review
+Group revenues for the year at £3.7m, were 29% higher than
+2007 reflecting an increase in the number and variety of
+licences signed, an increase in units shipped and favourable
+exchange rate movements in the year.
+Revenue from Licencing and Royalties was £2.9m (2007: £2.1m)
+with Professional Services contributing £0.8m (2007: £0.8m). 
+14 new licences were signed in the year (2007: 7), which was
+the major factor behind the increase in licence and royalty
+income.
+Units shipped in the year from ANT licensees increased by 56%
+reflecting a general broadening of the Group’s shipping
+customer base and a more than doubling to 9 of the numbers
+of licensees shipping more than 100,000 units (2007: 4).
+However, royalty income was broadly unchanged year on year
+as there was a substantial reduction in advance royalties
+booked as part of the licensing deals signed during the year.
+This was offset by an increase in royalty income from licensees
+who had already exhausted their advance royalty payments.
+Gross margins remained stable in the year at 83% (2007: 85%).
+Operating costs at £4.4m (2007: £4.8m) were 8% lower than
+last year – although 2008 benefited from exchange rate gains.
+While spending on R&D in 2008 rose by 10%, operating
+expenses reduced by 23% of which 9% was due to exchange
+rate gains. Headcount at 31 December 2008 was 49 (2007: 45).
+The average headcount in the year was 47 (2007: 45).
+The average Sterling/US Dollar rate for the year was $1.80
+(2007: $2.01). Approximately 90 per cent of the Group’s
+business in the year was conducted outside the UK– the
+majority of which was denominated in US dollars.
+Losses before tax for the year halved to £1.0m (2007:
+£2.0m) of which £0.6m was due to favourable currency
+movements.
+The Group continued to focus on managing its working
+capital tightly with net cash outflow for the year being
+significantly reduced to £0.6m (2007: £1.3m outflow). Cash
+and cash equivalents and other financial assets as at 31
+December 2008 were £5.6m (2007: £6.2m). Our treasury
+policy for managing our cash balances is to ensure that we
+retain adequate cash on short term deposits to meet our
+daily operational needs while committing the surplus to
+treasury deposits of varying lengths spread across a number
+of “AA” rated financial institutions.
+The Group has unrecognised tax losses available to be offset
+against future profits of £10.6m. The Directors are not
+recommending the payment of a final dividend.
+Market Overview
+The evolution of digital media markets continues to drive
+significant change and disruption to the traditional modes of
+delivering media. Worldwide, consumers and providers are
+increasingly embracing the opportunities that digital media
+services have to offer and this momentum is growing. The
+consumer electronics and technology market continues to
+anticipate these new services and has ensured that home
+devices are ready to adapt quickly to the changing habits of
+the consumer, whether that is to store, share, watch
+now/later, recommend or interact with the abundance of
+content that is increasingly becoming available.
+Internet Protocol (IP) Networks (Broadband Networks) and
+the Internet are also providing new opportunities for non-
+traditional delivery of video content to the TV set through a
+variety of devices such as game consoles, media centres,
+media extenders, IP-enabled TV sets, operator and retail
+Hybrid (integrated multiple network) Set Top Boxes (“Hybrid
+STBs”) and Blu-ray Disc (BD) players. The proliferation of
+6 ANT PLC ANNUAL REPORT AND ACCOUNTS 2008 broadband services, both in terms of geographic expansion
+and increased bandwidth from operators, enables these
+devices to access a wealth of video content from video
+aggregators, consumer generated media sites and social
+networking sites.
+We are also seeing the rapid emergence of hybrid devices,
+such as STBs, that combine support for digital broadcast TV
+(satellite, cable or terrestrial) and broadband-based services.
+This trend plays strongly to ANT’s Galio platform strengths,
+providing the consumer with a simple unified TV experience in
+an increasingly complex infrastructure environment. Television
+providers are blending third party services with their own to
+increase differentiation. IMS Research predicts that this
+broadcast/broadband hybrid device market will grow from
+being in 350 million homes at the end of 2008 to more than
+600 million homes by the end of 2013.
+Televisions themselves are also becoming more sophisticated
+media platforms, with digital broadcast and broadband service
+capabilities built into many models. Recent forecasts by
+Screen Digest for such Integrated Digital TV (iDTV) reached
+nearly 70 million units shipped at the end of 2008 and are
+forecast to grow to over 100 million units by 2012. This was
+reinforced at the Consumer Electronics Show (CES) in Las
+Vegas in January 2009, where TV manufacturers, including
+Samsung, LG, Pioneer and Panasonic, demonstrated many
+iDTV models.
+Endorsing ANT’s vision of connected TV platforms, Yahoo
+launched their Connected TV ‘widgets’ platform (‘widgets’ are
+mini applications such as weather, news, sport) in 2008. We
+expect to see the advent of hybrid platforms with connected
+media services becoming mainstream from device
+manufacturers and TV operators in 2009. We believe that
+growth will come from increased user awareness and the
+enabling of access to multiple consumer services from these
+devices.
+Market Drivers
+In many markets, this growth in delivery of digital TV services
+has, at its core, continuing support from governments and
+regulators to accelerate the transition from the analogue to the
+digital TV spectrum. Other key drivers include the increase in
+broadband coverage, the adoption of new technologies in
+the home such as High Definition TV (‘HDTV’), and the
+rapidly accelerating demand for digital interactive content
+both online and via broadcast.
+In 2008, we saw positive trends in all these areas; the move
+from analogue to digital spectrum is on track in all major
+markets; in the UK over 88% of primary TV sets are able to
+receive digital television, whilst globally this figure is on
+average 75%. In the last eight years consumer broadband in
+the UK has reached 58% of homes (Ofcom 2008 International
+Review) and is poised for super broadband, as, through
+Government initiative, access speeds of 20Mbs or more to
+consumers become the target.
+In 2008, we also saw a significant shift from the purchase of
+physical multimedia (CD, DVD, Games) to online purchasing
+of digital media. Music downloads reached 1.07bn music
+tracks up 27% on 2007 and we saw an array of new video
+on demand (VoD) services, such as those from NetFlix,
+iTunes and Microsoft, achieve traction.
+Through our technology, and by virtue of our reputation in
+the industry, we are well placed to help operators, set top
+box manufacturers, and in the future, TV manufacturers,
+make this shift. These trends, supported by market
+projections from a number of sources, give us confidence
+that we are operating in a market that will grow substantially
+over the next three to five years.
+Market Growth
+While no market is or will be untouched by the global
+economic recession, the projected growth figures for the TV
+market indicate that there is already sufficient momentum
+underway for it to grow substantially over the next three to
+five years even if there were to be some shortfall in the
+current industry projections: 
+• Multimedia Research Group’s latest IPTV Global Forecast 
+predicts that global IPTV subscribers will grow from 
+approximately 20m in 2008 to approximately 90m in 2012
+driven by the investment by operators worldwide in 
+improved quality of service, ease of operation, HD content
+and time shifting.
+ANT PLC ANNUAL REPORT AND ACCOUNTS 2008  7 Chief Executive Officer’s Review
+continued
+In all major markets, the standard analogue spectrum is being
+shut down by 2012 to make way for digital services. This,
+supported by an ever increasing array of HD channels and
+premium programming events, such as the World Cup in 2010
+and the Olympic Games in 2012, illustrate some of the
+compelling events that will help drive consumers to move to
+digital.
+ANT is ideally placed to capitalise on these trends by providing
+device manufacturers with the middleware and applications to
+take advantage of this structural growth in the market. Through
+the use of such device manufacturers’ products, operators can
+provide the consumer with a compelling and intuitive user
+experience for which he or she should be willing to pay, even in
+these more economically constrained times.
+ANT’s software is being extensively deployed throughout the
+world by customers including France Telecom, Telecom Italia,
+Telekom Austria and Chunghwa Telecom. These deployments
+have been achieved through STB manufacturers licensing
+directly from ANT, including the likes of Amino Technologies,
+Advanced Digital Broadcast, Samsung, Cisco, Pirelli, Sagem,
+Thomson and Hwacom.
+Product Marketing Strategy
+The Group’s strategy for growing its revenues remains
+unchanged, namely to: 
+• Maximise royalty revenues from existing high volume Fresco 
+and ANT Galio deployments;
+• Migrate operators, and subsequently the STB manufacturers 
+who seek to sell through them, to the greater capability and 
+higher value of the ANT Galio platform; and
+• Enhance ANT’s value and revenue per subscriber through 
+the commercial exploitation of its new range of media 
+applications.
+ANT offers a flexible and media centric applications platform,
+a range of highly customisable media applications and portal
+services enabling direct access to such services as catch up
+TV, TV widgets and social networking, etc. Our software,
+including our Content Development Kits (CDKs), enable TV
+operators and device manufacturers to significantly reduce
+the time and cost to launch such new services. 
+ANT’s well established Fresco browser continues to support
+the majority of ANT deployments. Migration to ANT Galio is
+proceeding satisfactorily, however, thereby providing us with
+additional licence income and higher per unit royalties.
+The ANT Galio platform is an easy-to-use, non-proprietary
+platform solution for digital media delivery. It comprises:
+• ANT Galio Browser – an advanced standards-based web 
+browser engine optimised for complex TV application, 
+dynamic user interface and portal services support; and
+• ANT Galio Client – which provides a wide range of TV-
+focused extensions for manipulating digital media.
+ANT Galio is built on open standards. The familiarity of these
+standards provides immediate advantages for both operators
+and content developers, including the ability to quickly
+change/personalise/adapt user interfaces. This in turn
+provides operators with more opportunities to build brand
+awareness and to take advantage of potential revenue
+opportunities through targeted sponsorship and advertising.
+It is the unique flexibility and cross platform capability of
+ANT’s software that has made Fresco and latterly ANT Galio
+the market leading delivery platforms and products of
+choice, while enabling ANT to attain a market share of more
+than 50% of global IPTV deployments today.
+SoftAtHome has chosen ANT Galio to enhance its operating
+platform in order to deliver high quality user experience for
+service providers. ANT Galio continues to be selected by
+operators to support more sophisticated user interface
+designs and extend the capability of media applications to
+provide a significantly improved user experience. To support
+greater device value and revenues in the medium to long
+8 ANT PLC ANNUAL REPORT AND ACCOUNTS 2008 term, ANT has now developed a complete range of core TV
+applications. These include program guide, channel zapper,
+fully integrated Personal Video Recorder (PVR), parental
+control, video on demand and portal services. All applications
+support the full customisation of user interface design, and
+provide operators and device manufacturers with a highly
+optimised route to market for their products. 
+Operational and Technical Developments
+During the year we took a number of steps designed to 
+reinforce our technical leadership position and to improve the
+way in which we service our customers. In particular:
+• We adopted a process of sharing our technical roadmap 
+over the next two years with the Group’s key customers to 
+ensure that we take their plans into account in establishing 
+our future development plans and priorities, thereby 
+increasingly making ANT part of their own development 
+and service plans;
+• We worked with all the major chipset manufacturers to 
+ensure product compatibility, thereby enabling our software 
+to support whichever chipset our device manufacturer 
+should select;
+• ANT Galio Browser Release 3.0 was launched at IBC in 
+September 2008 providing device manufacturers with 
+improved performance and extended compliance with 
+industry standards;
+• We launched our CDK - an editing and content de-bugging
+tool that reduces application developers’ and operators’ 
+time to market.
+Outlook
+While in no way impervious to current economic conditions,
+there are a number of factors specific to our business that
+make us cautiously optimistic that we should see further
+growth in revenue in 2009. In particular: 
+• We started 2009 with a strong pipeline of deals which we 
+expect to close during the year – the first of which has 
+already been signed with SoftAtHome adopting ANT Galio
+Browser;
+• We expect our available markets to develop in 2009;
+• We expect to benefit from an increase in average royalty 
+rate as the unit shipments of ANT Galio based products 
+form a higher percentage of total unit shipments by our 
+licensees; and
+• We expect to continue to benefit from currency exchange 
+rates in 2009.
+Our market has strong structural reasons why it will continue
+to grow over the next three to five years. Provided we
+continue to deliver products to our customers that allow
+them to drive attractive services into the consumer market,
+more quickly and more efficiently than anything offered by
+our competitors, we believe that ANT has an exciting future
+ahead.
+Simon Woodward
+Chief Executive
+2nd March 2009
+ANT PLC ANNUAL REPORT AND ACCOUNTS 2008  9 Board 
+of Directors
+Royston Hoggarth
+NON-EXECUTIVE CHAIRMAN
+Royston joined ANT as Non-executive Chairman in
+March 2007. He is CEO of BT Global Services UK
+and has a wealth of industry experience having held
+a variety of senior management and CEO roles in
+IBM, LogicaCMC and Cable & Wireless PLC.
+Royston holds a BSC(hons) in Communications from
+London University.
+Tudor Brown
+NON-EXECUTIVE DIRECTOR
+Tudor joined ANT as a Non-executive Director in May
+2005 and became Senior Independent Director in May
+2006. One of the founders of ARM, Tudor is President
+of ARM Holdings plc. He was at Acorn Computers
+where he worked on the ARM R&D programme,
+before becoming ARM's Engineering Director and
+Chief Technical Officer in 1993. In 2000, he was
+appointed Executive Vice President, Global
+Development during which he was responsible for
+ARM's successful strategic development in the Far
+East, and served as Chief Operating Officer from 2001
+until 2008. Tudor holds an MA in Electrical Sciences
+from Cambridge University and is a Fellow of the
+Institution of Engineering and Technology.
+David Kynaston
+NON-EXECUTIVE DIRECTOR
+David joined ANT as a Non-executive Director in
+January 2005. David has 35 years' experience in the
+electronics industry including positions in scientific
+research through to operational and strategic
+management. He was Executive Senior Vice President
+at Solectron Corporation, a provider of electronics
+manufacturing and supply chain services, a position
+from which he retired in January 2002. Prior to joining
+Solectron, David was business unit director (Business
+Communications Systems) at Philips Electronics. David
+was recently a non-executive director of Achievo
+Corporation, an offshore software and information
+technology outsourcing provider.
+10 ANT PLC ANNUAL REPORT AND ACCOUNTS 2008
+Simon Woodward
+PRESIDENT AND CHIEF EXECUTIVE OFFICER
+Simon Woodward joined ANT in 1997 as Chief
+Executive and is responsible for developing and
+executing its commercial strategy. In 2005 he led ANT
+to a successful public offering on the London Stock
+Exchange (AIM). Prior to joining ANT, Simon ran an
+information technology management consulting
+company, and during a long and successful career in
+the IT industry has more than 25 years' experience. He
+has covered a range of business disciplines, including
+accounting, engineering and marketing. Simon initially
+trained as an accountant in practice and in 1983 joined
+Acorn Computer Group in the UK, where he held
+various senior managerial positions in R&D, marketing
+and business development, including taking
+responsibility for negotiating strategic relationships with
+a variety of major industry partners. Pauline Ingram
+GROUP FINANCE DIRECTOR
+Pauline joined ANT in June 2004 and has an in-depth
+knowledge of the business and its customer base. In
+July 2007 she was appointed as Finance Director to
+the trading company, ANT Software, and then to
+Group Finance Director of ANT plc in February 2008.
+Pauline has a BA (Hons) in Business Studies from 
+De Montfort University, Leicester and is a fellow of the
+Association of Chartered Certified Accountants. Prior
+to joining ANT she has worked in a variety of sectors
+including the automotive, pharmaceuticals, telematics
+and manufacturing.
+Bruce Anderson
+NON-EXECUTIVE DIRECTOR
+Bruce has a BA in Modern Languages from Manchester
+University and an MSc. in Management and Business
+Studies from Warwick University. He qualified as a Fellow
+of the Chartered Institute of Management Accountants
+while working with Coopers and Lybrand. Since then he
+has gained a wide range of experience over a twenty
+year period working in the automotive, defence and the
+mobile telecommunication sectors initially with Plessey
+which he re-joined in 1984 as Finance Director of
+Plessey Military Communications; with Varity Corp as
+Group Director Finance and Planning at Perkins Engines
+based at Peterborough, then as Group Financial
+Controller of Lucas Varity and from Sept 2000 as
+Finance Director and Company Secretary of TTP
+Communications Plc until their acquisition by Motorola in
+June 2006 following the successful integration of the
+business into Motorola.
+ANT PLC ANNUAL REPORT AND ACCOUNTS 2008  11
+Directors and Advisers
+DIRECTORS
+R Hoggarth
+S A Woodward
+P Ingram (appointed 28 February 2008)
+T Brown
+D Kynaston
+B Anderson (appointed 24 January 2008)
+SECRETARY
+M Lobo
+AUDITORS
+Ernst & Young LLP
+Compass House
+80 Newmarket Road
+Cambridge
+CB5 8DZ
+BANKERS
+Barclays Bank
+58 High Street
+Newmarket
+Suffolk
+CB8 8NH
+LEGAL ADVISERS
+Charles Russell LLP
+5 Fleet Place
+London 
+EC4M 7RD
+NOMINATED ADVISER AND BROKER
+Arbuthnot Securities Limited
+Arbuthnot House
+20 Ropemaker Street
+London 
+EC2Y 9AR
+REGISTRARS
+Computershare Investor Services PLC
+PO Box 82
+The Pavillions
+Bridgewater Road
+Bristol
+BS99 7NH
+REGISTERED OFFICE
+Cambridge Business Park
+Cowley Road
+Cambridge
+CB4 0WZ
+Registered No. 05372859 Corporate Governance Report
+Compliance with the Combined Code
+Under the rules of AIM (The Alternative Investment Market of
+the London Stock Exchange) the Company is not required to
+comply with the Combined Code as annexed to the Listing
+Rules of the Financial Services Authority.  Nevertheless, the
+Company has taken steps to comply with the provisions set
+out in Section 1 of the Combined Code in so far as is
+practical given the size of the Group and the nature of its
+operations.  
+Board of Directors
+As at the year end the Board consisted of the non-executive
+chairman, three non-executive directors and two executive
+directors; details of the directors’ are shown on page 10,
+and demonstrate a range of experience covering strategy,
+performance and resources which are vital to the success of
+the business. Mr Tudor Brown is the Senior Director.
+The Board meets each month to consider those matters
+which are required to be brought to it for decision, which
+ensures that it maintains full and effective control over
+appropriate strategic, financial, operational and compliance
+issues. Directors receive an information pack in the week
+before each Board meeting which contains background
+information on such matters.
+Board Committees
+There are three Board committees which deal with
+remuneration, audit and nominations to the Board. They are
+comprised solely of the non-executive directors with certain
+executive directors attending by invitation when required.
+David Kynaston is the Chairman of the remuneration and
+nominations committees and Bruce Anderson is the
+Chairman of the audit committee.  
+The audit committee meets at least once a year and the
+Company’s external auditors are invited to attend the
+meeting. Consideration is given to the auditor’s pre- and
+post-audit reports and these provide opportunities to review
+the accounting policies, internal control assessment and the
+financial information contained in the Annual and Interim
+Reports.
+Relations with Shareholders
+The Company’s executive directors meet regularly with
+institutional shareholders, fund managers and analysts as
+part of an active investor relations programme to discuss
+long-term issues and obtain feedback.  Private investors are
+encouraged to participate in the Annual General Meeting.
+Internal Control
+The directors acknowledge that they are responsible for the
+Group’s systems of internal control and for reviewing its
+effectiveness. The system is designed to manage rather than
+eliminate the risk of failure to achieve the Group’s strategic
+objectives and can only provide reasonable, and not
+absolute, assurance against material misstatement or loss.
+The Combined Code requires directors to review the
+effectiveness of the Group’s system of internal control in the
+wider sense, encompassing operational and compliance
+matters in addition to the traditional financial issues.
+The Group’s key risk management processes and system of
+internal control procedures include the following;
+• Management structure – The Group has an 
+organisational structure with clearly established 
+responsibilities and lines of accountability.  Authority to 
+operate the subsidiary company is delegated to executive
+Board members within limits set by the Board as a whole.
+The Group promotes the values of integrity and 
+professionalism.
+• Identification and evaluation of business risk – An 
+ongoing risk management process has been implemented
+which identifies the key business risks facing the Group, 
+including both financial and operational risks. The Board 
+monitors the activities of the Group through the 
+management accounts, monthly forecasts and other 
+reports which are presented at the monthly Board 
+meeting.
+• Investment appraisal – The Board has a schedule of 
+matters expressly reserved for its consideration. This 
+schedule includes acquisitions, major capital projects, 
+treasury, risk management policies and approval of 
+budgets. 
+12 ANT PLC ANNUAL REPORT AND ACCOUNTS 2008 The Board reviews and continues to review the effectiveness
+of the Group’s procedure in managing risk and, therefore,
+believes it meets the requirements of the guidance.
+The audit committee has considered the need for internal
+audit. It is of the opinion that given the size and nature of the
+Group’s operations and the other controls in place it is not
+necessary at this time. This matter will be reviewed formally
+on an annual basis.
+Going Concern
+After making enquiries and taking into account the Group’s
+cash resources, the directors have a reasonable expectation
+that the Group has adequate resources to continue in
+operational existence for a minimum of the next twelve
+months and, for this reason, they continue to adopt the
+going concern basis in preparing the financial statements.
+B K Anderson
+2nd March 2009
+ANT PLC ANNUAL REPORT AND ACCOUNTS 2008  13 Directors’ Report
+The directors present their report and financial statements for
+the year ended 31 December 2008.
+Overseas Branches
+ANT Software Limited, a subsidiary company of ANT plc,
+has a branch in Korea. The Korean branch has been set up
+on a cost plus basis to enable the Group to have a sales
+function in the region.
+Results and Dividends
+The consolidated loss for the year, before taxation,
+amounted to £1,012,955 (2007: £2,019,788). The directors
+do not recommend the payment of a dividend (2007: £nil).
+Principal Activity and Review of the Business
+The Group’s principal activity during the year continued to be
+the development and licensing of software solutions for use
+in the digital TV-related consumer electronics market.  
+The Group’s key financial and other performance indicators
+during the year were as follows:
+2008 2007 % 
+£’000 £’000 change
+Group revenue 3,741 2,906 29%
+Group loss before tax (1,013) (2,020) (50%)
+Cash & cash equivalents  
+and other financial assets 5,649 6,211 (9%)
+No. of ANT-enabled product  
+units shipped (‘000) 3,181 2,033 56%
+Further details of the business review are contained in the
+Chief Executive’s Review on page 6.
+Capital Management
+The primary objective of the Group’s capital management is
+to ensure an appropriate level of liquid resources is available
+to fund the daily operations of the business. At the time of
+the Company’s IPO, £10.3m was raised, net of expenses,
+via the issue of new equity to fund foreseen development. At
+this time the directors do not foresee any requirement to
+raise additional capital, on the basis that they consider that
+the Group has sufficient cash resources until the Group
+reaches profitability. Unutilised funds at the year end totalled
+£5.6m of which £4.0m are invested in ‘AA’ fixed term
+deposits to ensure maximum return for minimal risk (2007:
+£5.0m of £6.2m invested in fixed term deposits). Further
+discussion relating to financial risk management objectives
+and exposures is covered in note 18 to the accounts.  
+Principal Risks and Uncertainties
+• Foreign Currency Risk
+The majority of the Group’s revenues are denominated in
+US dollars, while its costs are principally denominated in
+sterling. As a result, the Group is subject to the risks of
+foreign currency movements. This risk will increasingly be
+managed through the judicious use of foreign currency
+hedging contracts.
+• Market Risk
+The TV-related consumer electronics market is a young and
+rapidly developing market in which the Group holds a strong
+position. While the directors regard the market as providing
+significant opportunities for long term growth, the exact rate
+and extent of the growth of that market is very difficult to
+predict. The Group will continue to utilise its strong asset
+position to invest in carefully targeted technological
+development to address the market’s needs and
+opportunities.
+• Technological Risk
+The Group has established a strong reputation in the market
+for its innovative and robust technological solutions.
+Maintenance of that position is dependent on the Group’s
+ability to continue to develop its solutions.
+Research and Development
+The Group undertakes continuous research and
+development activities in order to bring new innovations to
+market and to enhance the effectiveness of its software
+solutions in the consumer electronics market. Expenditure
+on research and development in 2008 amounted to
+£2,614,695 (2007: £2,407,224).
+Creditor Payment Policy
+The Company does not have a written code or standard on
+payment practice.  It negotiates settlement terms with each
+of its suppliers and payments are then made to suppliers in
+14 ANT PLC ANNUAL REPORT AND ACCOUNTS 2008 accordance with those terms provided the supplier has
+carried out the agreed obligations in a satisfactory manner.
+At the year end, the Group had 42 days’ purchases
+outstanding in trade creditors (2007: 28 days).
+Charitable Donations
+During the year, the Group made a charitable donation of
+£100 (2007: £180).
+Disabled Employees
+The Group gives full consideration to applications for
+employment from disabled persons where the candidate’s
+particular aptitudes and abilities are consistent with
+adequately meeting the requirements of the job.     
+Directors’ Indemnity Insurance
+The Group has granted an indemnity to one or more of its
+directors against liability in respect of proceedings bought
+by third parties, subject to the conditions set out in the
+Companies Act 1985. Such qualifying third party indemnity
+provision remains in force as at the date of approving the
+Directors’ Report.
+Directors
+The current directors and those who served during the year
+are shown on page 10. The directors who held office at 
+31 December 2008 had the following interests, including
+beneficial family interests, in the share capital of the
+Company: 
+31 Dec 2008 31 Dec 2007
+Ordinary Shares Ordinary Shares
+R Hoggarth - -
+S A Woodward 97,835 75,835
+P Ingram 22,000 -
+T Brown 28,800 28,800
+D Kynaston 28,800 28,800
+B K Anderson 150,000 -
+In addition to the above interests, directors had options to
+purchase a number of shares as set out in the Directors
+remuneration report.
+Substantial Shareholdings
+As at 15 January 2009 the following shareholders had
+notified the Company that they held an investment of 3% or
+more in the Company’s ordinary share capital:
+Number of Percentage
+ordinary of ordinary 
+shares share capital
+AXA Framlington Investment 
+Management 3,125,000 12.87%
+Richard Farleigh 3,039,767 12.52%
+ANT plc Employee Share 
+Trust Trustees 2,848,497 11.73%
+Blackrock Investment 
+Management 2,580,000 10.62%
+Fidelity Investments 2,393,636 9.86%
+Foresight Venture Partners 2,213,192 9.11%
+Invesco Asset Management 1,264,370 5.21%
+Inflexion Partners Limited 732,472 3.02%
+Disclosure of Information to the Auditors
+The directors who were members of the Board at the time of
+approving the directors’ report are listed on page 10. Having
+made enquiries of fellow directors and the Group’s auditors,
+each of these directors confirms that:
+• to the best of each director’s knowledge and belief, 
+there is no information relevant to the preparation of 
+their report of which the Group’s auditors are unaware: 
+and
+• each director has taken all the steps a director might 
+reasonably be expected to have taken to be aware of 
+relevant information and to establish that the Group’s 
+auditors are aware of that information.
+Auditors
+A resolution to re-appoint Ernst & Young LLP as the
+Company’s auditor will be put to the forthcoming Annual
+General Meeting.
+On behalf of the board
+S A Woodward
+Director
+2nd March 2009
+ANT PLC ANNUAL REPORT AND ACCOUNTS 2008  15 Directors’ Report continued
+Directors’ responsibilities
+The directors are responsible for preparing the Annual
+Report and the financial statements in accordance with
+applicable United Kingdom law and those International
+Financial Reporting Standards (IFRSs) as adopted by the
+European Union.
+The directors are required to prepare Group financial
+statements for each financial year which presents fairly the
+financial position of the Group and the financial performance
+and cash flows of the Group for that period. In preparing
+those financial statements, the directors are required to:
+• select suitable accounting  policies in accordance with 
+IAS 8 Accounting Policies, Changes in Accounting 
+Estimates and Errors and then apply them consistently;
+• present information, including accounting policies, in a 
+manner that provides relevant, reliable comparable and 
+understandable information;
+• provide additional disclosures when compliance with the 
+specific requirements in IFRSs is insufficient to enable 
+users to understand the impact of particular transactions,
+other events and conditions on the Group’s financial 
+position and financial performance; and
+• state that the Group has complied with IFRSs, subject to
+any material departures disclosed and explained in the 
+financial statements.
+The directors are responsible for keeping proper accounting
+records which disclose with reasonable accuracy at any time
+the financial position of the Group and to enable them to
+ensure that the Group financial statements comply with the
+Companies Act 1985. They are also responsible for
+safeguarding the assets of the Group and hence for taking
+reasonable steps for the prevention and detection of fraud
+and other irregularities.
+16 ANT PLC ANNUAL REPORT AND ACCOUNTS 2008 Directors’ remuneration report
+The remuneration committee comprises of David Kynaston,
+Tudor Brown, Royston Hoggarth and Bruce Anderson, all of
+whom are non-executive directors of the Company.
+The Board has accepted the remuneration committee’s
+recommendations in full.
+Remuneration policy
+The remuneration policy is based on the need to offer
+competitive packages to attract, motivate and retain senior
+executives of appropriate calibre. Regular reviews of the
+policy are carried out, supported by independent advice, to
+ensure that the range and level of emoluments and incentive
+schemes continue to match current market practices.
+Salary
+Salaries are measured against performance and market
+medians.
+Annual Performance bonus
+The service agreements provide that each executive director
+shall be entitled to receive an annual bonus to be
+determined by the remuneration committee based on the
+Group’s financial and operational performance.
+Service Agreements
+The service agreements for Simon Woodward and Pauline
+Ingram are terminable by both parties by giving 12 months
+and 6 months notice respectively.
+Benefits
+Executive directors, along with other permanent employees
+of the Company, are entitled to life assurance and
+permanent health insurance. In addition to this they are able
+to select additional benefits covering a pension, private
+medical cover and critical illness or disability insurance up to
+a value of 10% of basic salary. 
+The pension scheme is a defined contribution scheme and
+requires a minimum contribution of 5% of salary from the
+employee before any contributions will be made by the
+Company.
+Non-executive Directors
+The fees of the non-executive directors are determined by
+the executive directors. Non-executive directors receive
+travel expenses but do not participate in any incentive
+arrangements. The non-executive directors have entered into
+terms of appointment, with initial 3 year terms, terminable by
+either party upon 1 month’s notice in writing.
+ANT PLC ANNUAL REPORT AND ACCOUNTS 2008  17 18 ANT PLC ANNUAL REPORT AND ACCOUNTS 2008
+Basic Salary Benefits Bonus Pension Total Total
+contributions 2008 2007
+££ £ £ £ £
+Executive directors:
+S A Woodward 165,600 9,519 40,130 14,118 229,367 177,333
+P Ingram 
+(4)
+61,667 - 20,000 6,167 87,834 -
+P M R Dodd 
+(2)
+- - - - - 57,500
+C Shave 
+(1)
+- - - - - 59,241
+Non-executive directors:
+R Hoggarth 
+(3)
+45,000 - - - 45,000 42,045
+D Kynaston 22,500 - - - 22,500 26,250
+T Brown 22,500 - - - 22,500 26,250
+B K Anderson 
+(5)
+30,000 - - - 30,000 -
+A L Caplin 
+(1)
+- - - - 16,667
+347,267 9,519 60,130 20,285 437,201 405,286
+(1) Resigned 5 March 2007
+(2) Resigned 30 May 2007
+(3) Appointed 5 March 2007
+(4) Appointed 28th February 2008 – in additional to that shown above £10,833, represents total remuneration for the period prior to being appointed
+as a Director of plc.
+(5) Appointed 24th January 2008
+The interest of the directors in share options is detailed below:
+Date of Grant As at  Granted Exercised Lapsed As at
+1 Jan 2008* 31 Dec 2008
+Simon Woodward 1,720,695 100,000 - - 1,820,695 
+Pauline Ingram 27,717 200,000 - -    227,717
+1,748,412 300,000 - -   2,048,412
+*or held on appointment to Board
+Director Revenue Date Number Exercise Vesting Expiry 
+Status Granted Granted Price (p) Date Date
+S A Woodward Approved 07/03/2005 117,647 85.00 07/03/2005 07/03/2015
+S A Woodward Unapproved 07/03/2005 1,304,145 85.00 02/07/2004 07/03/2015
+S A Woodward* Unapproved 16/03/2005 60,000 0.005 16/03/2005 22/07/2009
+S A Woodward Unapproved 08/03/2005 25,600 85.00 08/03/2005 22/07/2009
+S A Woodward Unapproved 16/03/2005 213,303 126.00 16/03/2005 07/03/2015
+S A Woodward Unapproved 17/03/2008 100,000 22.50 17/03/2011 17/03/2018
+P Ingram Approved 07/03/2005 7,217  95.00 07/03/2005 07/03/2015
+P Ingram Approved 03/04/2006 8,000 80.00 03/04/2009 03/04/2016
+P Ingram Approved 30/03/2007 12,500 41.50 30/03/2010 30/03/2017
+P Ingram Approved 17/03/2008 200,000 22.50 17/03/2011 17/03/2018
+* these options were exercised on the 2nd March 2009.
+Options granted after March 2005 vest over a three year period, are subject to continued employment with the Company for
+the duration of this period, and corporate performance criteria based on an increase in Group revenues over that period.
+The options expire after 10 years and there are no cash settlement alternatives. The share price at the year end was 27.5p.
+The highest and lowest market price during the year for the ordinary shares was 38.5p and 15.5p respectively.
+During the year the number of options exercised by the directors’ was £nil (2007 - £nil). No options in respect of directors
+lapsed during the period. On 2nd March 2009 S A Woodward exercised 60,000 options.
+D Kynaston
+2nd March 2009
+Directors Remuneration  Independent Auditor’s Report to
+the Members of ANT plc
+ANT PLC ANNUAL REPORT AND ACCOUNTS 2008  19
+We have audited the group financial statements of ANT plc for
+the year ended 31 December 2008 which comprise the
+primary financial statements such as the Consolidated Income
+Statement, the Consolidated Balance Sheet, the Consolidated
+Statement of Cash Flows and the related notes 1 to 27.
+These group financial statements have been prepared under
+the accounting policies set out therein.
+We have reported separately on the parent company financial
+statements of ANT plc for the year ended 31 December 2008.
+This report is made solely to the company's members, as a
+body, in accordance with Section 235 of the Companies Act
+1985. Our audit work has been undertaken so that we might
+state to the company's members those matters we are
+required to state to them in an auditor's report and for no
+other purpose. To the fullest extent permitted by law, we do
+not accept or assume responsibility to anyone other than the
+company and the company's members as a body, for our
+audit work, for this report, or for the opinions we have formed.
+Respective responsibilities of directors and auditors
+The directors’ responsibilities for preparing the Annual Report
+and the group financial statements in accordance with
+applicable United Kingdom law and International Financial
+Reporting Standards (IFRSs) as adopted by the European
+Union are set out in the Statement of Directors’
+Responsibilities.
+Our responsibility is to audit the group financial statements in
+accordance with relevant legal and regulatory requirements
+and International Standards on Auditing (UK and Ireland).
+We report to you our opinion as to whether the group financial
+statements give a true and fair view and whether the group
+financial statements have been properly prepared in
+accordance with the Companies Act 1985. We also report to
+you whether in our opinion the information given in the
+directors' report is consistent with the financial statements.
+The information given in the directors' report includes that
+specific information presented in the Chairman’s Statement,
+Chief Executive’s Review and Corporate Governance Report
+that is cross-referred from the Review of the Business section
+of the Directors' Report.
+In addition we report to you if, in our opinion, we have not
+received all the information and explanations we require for our
+audit, or if information specified by law regarding directors’
+remuneration and other transactions is not disclosed.
+We read other information contained in the Annual Report and
+consider whether it is consistent with the audited group financial
+statements.  The other information comprises only the
+Chairman’s Statement, Chief Executive Review, Corporate
+Governance Report and the Directors’ Report.  We consider the
+implications for our report if we become aware of any apparent
+misstatements or material inconsistencies with the group
+financial statements.  Our responsibilities do not extend to any
+other information.
+Basis of audit opinion
+We conducted our audit in accordance with International
+Standards on Auditing (UK and Ireland) issued by the Auditing
+Practices Board. An audit includes examination, on a test basis,
+of evidence relevant to the amounts and disclosures in the
+group financial statements. It also includes an assessment of
+the significant estimates and judgments made by the directors
+in the preparation of the group financial statements, and of
+whether the accounting policies are appropriate to the group’s
+circumstances, consistently applied and adequately disclosed.
+We planned and performed our audit so as to obtain all the
+information and explanations which we considered necessary in
+order to provide us with sufficient evidence to give reasonable
+assurance that the group financial statements are free from
+material misstatement, whether caused by fraud or other
+irregularity or error. In forming our opinion we also evaluated the
+overall adequacy of the presentation of information in the group
+financial statements.
+Opinion
+In our opinion:
+• the group financial statements give a true and fair view, in 
+accordance with IFRSs as adopted by the European Union, 
+of the state of the group’s affairs as at 31 December 2008 
+and of its loss for the year then ended; 
+• the group financial statements have been properly prepared 
+in accordance with the Companies Act 1985; and
+• the information given in the directors' report is consistent 
+with the group financial statements.
+Ernst & Young LLP
+Registered auditor
+Cambridge
+2nd March 2009 Consolidated Income Statement
+for the year ended 31 December
+20 ANT PLC ANNUAL REPORT AND ACCOUNTS 2008
+2008 2007
+Notes £ £
+Revenue 5 3,741,002 2,906,192
+Cost of sales (632,528) (435,482)
+Gross profit 3,108,474 2,470,710
+Administrative expenses excluding share options (1,996,022) (2,670,710)
+Share option (expenses)/credit 21 (14,668) 51,287
+Administrative expenses (2,010,690) (2,619,223)   
+Research and Development expenses (2,428,015) (2,224,955)
+Loss from operations 6 (1,330,231) (2,373,468)
+Finance revenue 10 317,276 353,680
+Loss before tax (1,012,955) (2,019,788)
+Tax on loss on ordinary activities 11 98,477 117,544
+Loss for the year (914,478) (1,902,244)
+Basic and Diluted Loss per ordinary share 12 (0.04) (0.09)
+All activities relate to continuing activities
+2008 2007
+Notes £ £
+Net income recognised directly in equity - -
+Loss for the year (914,478) (1,902,244)
+Total recognised income and expense for the year (914,478) (1,902,244)
+Consolidated Statement of Recognised Income and Expense
+for the year ended 31 December ANT PLC ANNUAL REPORT AND ACCOUNTS 2008  21
+2008 2007
+Notes £ £
+Non-current assets
+Intangible assets 13 48,468 26,996
+Property, plant and equipment 14 100,687 104,908
+149,155 131,904
+Current assets
+Trade and other receivables 15 1,489,567 1,258,366
+Income Tax Recoverable 214,404 152,991
+Other financial assets 16 3,500,000 4,000,000
+Cash and cash equivalents 16 2,148,752 2,211,027
+7,352,723 7,622,384
+Total assets 7,501,878 7,754,288
+Current Liabilities 
+Trade and other payables 17 (1,823,447) (1,176,047)
+Net assets 5,678,431 6,578,241
+Capital and reserves
+Called up share capital 22 1,214,318 1,214,318
+Share premium account 22 12,066,990 12,066,990
+Merger reserve 22 9,787,208 9,787,208
+Retained losses 22 (17,390,085) (16,490,275)
+Total equity 5,678,431 6,578,241
+The financial statements were approved by the Board of Directors and authorised for issue on 2nd March 2009. 
+They were signed on its behalf by:
+Consolidated Balance Sheet
+as at 31 December
+S A Woodward
+Director
+2nd March 2009 Consolidated Statement of Cash Flows
+for the year ended 31 December
+22 ANT PLC ANNUAL REPORT AND ACCOUNTS 2008
+2008 2007
+Notes £ £
+Cash flows from operating activities
+Loss before tax (1,012,955) (2,019,788)
+Finance revenue (317,276) (353,680)
+Loss on disposal of property, plant and equipment 1,689 4,466
+Loss on disposal of intangible assets 181 -
+Depreciation of property, plant and equipment 74,822 89,712
+Amortisation of intangible assets 22,905 16,392
+Share-based payments charge / (credit) 14,668 (51,287)
+(Increase) / decrease in trade and other receivables (227,081) 700,500
+Increase / (decrease) in trade and other payables 609,643 (122,934)
+Cash used in operating activities (833,404) (1,736,619)
+Foreign withholding tax paid (115,927) (35,447)
+Research and development tax credit 152,991 189,479
+Net cash used in operating activities (796,340) (1,582,587)
+Cash flows from investing activities
+Interest received 313,156 337,271
+Purchase of property, plant and equipment (57,179) (71,069)
+Purchase of intangible assets (21,912) (16,283)
+Proceeds from the sale of property, plant and equipment - 705
+Disposal of/(investment) in other financial assets 500,000 (1,000,000)
+Net cash generated from / (used in) investing activities 734,065 (749,376)
+Net (decrease)/increase in cash and cash equivalents (62,275) (2,331,963)
+Opening cash and cash equivalents 2,211,027 4,542,990 
+Closing cash and cash equivalents 16, 23 2,148,752 2,211,027 ANT PLC ANNUAL REPORT AND ACCOUNTS 2008  23
+Notes to the Financial Statements
+as at 31 December 2008
+1. Corporate information
+ANT plc is a public limited company incorporated in the
+United Kingdom under the Companies Act 1985. The address
+of the registered office is Cambridge Business Park, Cowley
+Road, Cambridge, Cambridgeshire CB4 0WZ. ANT plc’s
+shares are publicly traded on AIM (The Alternative Investment
+Market of the London Stock Exchange).
+2. Basis of preparation and statement of compliance
+The Group’s financial statements have been prepared in
+accordance with International Financial Reporting Standards
+(IFRSs) as adopted by the European Union as they apply to
+the financial statements of the Group for the year ended 31
+December 2008.
+The accounting policies which follow set out those policies
+which apply in preparing the financial statements for the year
+ended 31 December 2008. 
+The consolidated financial statements have been prepared
+under the historical cost convention, and are presented in
+Sterling.
+Basis of consolidation
+The consolidated financial statements comprise the financial
+statement of ANT plc and its subsidiaries as at 31 December
+each year. The financial statements of the subsidiaries are
+prepared for the same reporting year as the parent Company,
+and are based on consistent accounting policies. 
+All inter-company balances and transactions have been
+eliminated in full.
+3. Significant accounting estimates
+The key source of estimation uncertainty that has a significant
+risk of causing material adjustment to the carrying amounts of
+liabilities within the next financial year is the estimation of
+share-based payment costs. Judgements are made in relation
+to share-based payment costs requires the selection of an
+appropriate valuation model, consideration as to the inputs
+necessary for the valuation model chosen and the estimation
+of the number of awards that will ultimately vest, inputs for
+which arise from judgements relating to the probability of
+meeting non-market performance conditions and the
+continuing participation of employees (see note 21).
+Research costs are not capitalised. Development costs
+however will be capitalised if it is sufficiently certain that future
+economic benefits to the Group will cover all selling,
+administration and support costs as well as the development
+costs themselves. However the Group has not currently
+achieved this position. The Board will continue to review the
+nature of the Group’s development activities on an ongoing
+basis and consider whether the conditions are being satisfied.
+Research and Development costs include work completed on
+generic ANT products and customer specific modifications.
+4. Accounting policies
+a) Revenue
+Revenue represents amounts receivable for goods and
+services provided in the normal course of business, net of
+trade discounts, VAT and other sales related taxes.  Amounts
+receivable consist of royalties, licence fees, professional
+services and support and maintenance payments. 
+Revenue is recognised for any element of a sale when all of the
+basic criteria are met for that element, these are given below.  
+Licence fees and Royalties – revenue is recognised when
+persuasive evidence for the arrangement exists, delivery has
+occurred, fees are fixed or determinable, non refundable and
+require no further commitments with fee collection being
+probable. Royalties are recognised on receipt of appropriate
+third party evidence.
+Professional Services – invoiced in line with customer
+contracts and recognised on the basis of work performed.
+Where contracts indicate time and materials, as the basis for
+charges, revenue is recognised directly in line with work
+completed. Where this is not the case project plans detailing
+resource requirement during a project are used to establish
+percentage completion at any point in time.    
+Revenue is accrued on the above elements when revenue can
+be recognised but has not been invoiced.
+Revenue is deferred on the above elements when it has not
+been recognised but the invoice has been raised.
+Revenue relating to contracts with multiple elements is
+allocated based on the fair value of each element and is
+recognised in accordance with the accounting principles for
+each element described above. 24 ANT PLC ANNUAL REPORT AND ACCOUNTS 2008
+b) Cost of Sale
+Cost of sale represents the cost to the business to deliver its
+revenue. It comprises commission, internal costs relating to
+customer specific projects and external third party software
+and contractor costs.
+c) Foreign currencies
+The functional and presentation currency of the Group and
+its subsidiaries is sterling (GBP).  Transactions in foreign
+currencies are recorded in the functional currency at the rate
+ruling at the date of the transaction. 
+Monetary assets and liabilities denominated in foreign
+currencies are retranslated at the rate of exchange ruling at
+the balance sheet date.  
+All differences are taken to the consolidated income
+statement.
+d) Research and development expenditure
+Development is the application of research findings or other
+existing knowledge to the design of new or improved
+processes, systems or technologies. Development includes
+those activities taking place over the period from design,
+through implementation testing, systems integration,
+productisation, engineering release, and final product
+qualification, but ceases at the stage of formal product
+release.
+Research costs are expensed as incurred. Development
+expenditure could be capitalised if it is sufficiently certain that
+future economic benefit to the Group will cover all selling,
+administration and support costs as well as the development
+costs themselves. However the Group has not currently
+achieved this position. The Board will continue to review the
+nature of the Groups development activities on an ongoing
+basis and consider whether the conditions have been
+satisfied.
+Research and development costs include work completed
+on generic ANT products and customer specific
+modifications. Revenue relating to customer specific
+modifications is recognised in line with the criteria set out in
+note 4a. Any research and development costs relating to the
+delivery of this revenue is recognised as incurred and
+expensed to cost of sale.
+e) Intangible assets
+Intangible assets acquired are stated at cost less
+amortisation and any accumulated impairment losses.
+Amortisation is provided on all intangible assets at rates
+calculated to write off the cost, less estimated residual value
+of each asset evenly over its expected useful life, as follows:
+Software  – over 3 years 
+The carrying values of intangible assets are reviewed for
+impairment in periods if events or changes in circumstances
+indicate the carrying value may not be recoverable.
+Residual values are reviewed on an annual basis.
+f) Property, plant and equipment
+Property, plant and equipment is stated at cost less
+depreciation and any accumulated impairment losses.
+Depreciation is provided on property, plant and equipment
+at rates calculated to write off the cost, less estimated
+residual value of each asset evenly over its expected useful
+life, as follows:
+Leasehold improvements – over 3 years
+Office equipment – over 2-5 years
+Computer equipment – over 3 years
+The carrying values of tangible fixed assets are reviewed for
+impairment in periods if events or changes in circumstances
+indicate the carrying value may not be recoverable.
+Residual values are reviewed on an annual basis.
+g) Taxation
+Deferred income tax assets are recognised for all temporary
+differences, carry-forward of unused tax assets and unused
+tax losses, to the extent that it is probable that taxable
+profits will be available against which the temporary
+differences, and the carry-forward of unused tax assets and
+unused tax losses can be utilised:
+• except where the deferred income tax asset relating to 
+the deductible temporary differences arises from the 
+initial recognition of an asset or liability in a transaction 
+that is not a business combination and, at the time of 
+Notes to the Financial Statements continued
+as at 31 December 2008 ANT PLC ANNUAL REPORT AND ACCOUNTS 2008  25
+the transaction, affects neither the accounting profit nor 
+the taxable profit or loss; and
+• in respect of deductible temporary differences associated 
+with investments in subsidiaries, deferred tax assets are 
+only recognised to the extent that it is probable that the 
+temporary differences will reverse in the foreseeable 
+future and taxable profit will be available against which 
+temporary differences can be utilised.
+Deferred income tax is measured at the tax rates that are
+expected to apply in the year when the asset is realised,
+based on tax rates and laws that have been enacted or
+substantively enacted at the balance sheet date.
+The carrying amount of deferred income tax assets is
+reviewed at each balance sheet date and reduced to the
+extent that it is no longer probable that sufficient taxable profit
+will be available to allow all or part of the deferred income tax
+asset to be utilised.
+The Group has taken advantage of the HMRC Research and
+Development (R&D) tax credit scheme that encourages small
+and medium sized companies to increase their R&D
+spending. Up to 150% of qualifying expenditure on R&D
+activities can be deducted when calculating the profit for tax
+purposes in return for surrendering tax losses. The majority of
+the qualifying expenditure for the Group is made up by staff
+costs. Tax credits are accounted for when cash receipt is
+probable.
+h) Share-based payments
+The cost of equity-settled transactions with employees is
+measured by reference to the fair value at the date at which
+they are granted and is recognised as an expense over the
+vesting period, which ends on the date on which the relevant
+employees become fully entitled to the award. Fair value is
+determined by the use of an appropriate option pricing model.
+No expense is recognised for awards that do not ultimately
+vest, except for awards where vesting is conditional upon a
+market condition, which are treated as vesting irrespective of
+whether or not the market condition is satisfied, provided that
+all other performance conditions are satisfied.
+At each balance sheet date before vesting, the cumulative
+expense is calculated, representing the extent to which the
+vesting period has expired and management’s best estimate
+of the achievement or otherwise of non-market conditions in
+relation to the number of equity instruments that will
+ultimately vest. The movement in cumulative expense since
+the previous balance sheet date is recognised in the income
+statement with a corresponding entry in equity. For any
+instrument that has vested no reversal of charges previously
+recognised as an expense will occur.
+i) Retirement benefit costs
+The Group provides arrangements through a defined
+contribution scheme. The amount charged to the
+consolidated income statement in respect of pension costs 
+is the contributions payable in the year.
+Differences between contributions payable in the year and
+contributions actually paid are shown as accruals in the
+balance sheet.
+j) Own shares held by Employee Benefit Trust
+Own shares held by the Employee Benefit Trust (“EBT”) are
+carried at cost and disclosed within total equity.
+k) Operating lease agreements
+Rentals payable under operating leases are charged to the
+consolidated income statement on a straight line basis over
+the lease term.
+l) Trade and other receivables
+Trade receivables, which generally have thirty to sixty day
+terms, are recognised and carried at original invoice amount.
+Provision is made when there is objective evidence that the
+Group will not be able to recover balances in full. Balances
+are written off when the probability of recovery is assessed as
+being remote and when legal notification has been provided
+and a further month has elapsed.
+m) Cash and cash equivalents
+Cash and cash equivalents comprise cash at bank and in
+hand and short-term highly liquid investments that are readily
+convertible to a known amount of cash and are subject to an
+insignificant risk of changes in value and with an original
+maturity of three months or less. n) Other financial assets
+Other Financial assets comprise term deposits with maturity
+of more than three months from commencement that relate
+to a known amount of cash and are subject to an
+insignificant risk in change in value.
+o) Finance revenue
+Revenue is recognised as interest accrues using the effective
+interest method. The effective interest rate is the rate that
+exactly discounts estimated future cash receipts through the
+expected life of the financial instrument to its net carrying
+amount.
+p) Derivative Financial Instruments
+The Group uses derivative financial instruments, such as
+foreign currency contracts to hedge its risks associated with
+foreign currency fluctuations. Such derivative financial
+instruments are initially recognised at fair value on the date
+on which a derivate contract is entered into and are
+subsequently measured for fair value. Changes in fair value
+are recognised in the income statement. No derivate financial
+instruments were in place at the year end.
+q) New standards and interpretations not applied
+The IASB and IFRIC have issued the following standards and
+interpretations with an effective date after the date of these
+financial statements:
+International Accounting Standards (IAS/IFRSs)
+Effective Date
+IFRS 8 Operating segments 1 January 2009
+IAS 1 Presentation of Financial 
+Statements - Revised 1 January 2009
+IAS 23 Borrowing Costs – Revised 1 January 2009
+IFRS 2 Share-based Payment (revised) 1 January 2009
+International Financial Reporting Interpretations
+Committee (IFRIC)
+Effective Date
+IFRIC 13 Customer Loyalty Programmes 1 July 2008
+The Group does not plan to adopt any of the standards
+detailed above prior to the effective date.
+The Group has not yet completed a detailed evaluation of the
+impact of the above standards and interpretations on its financial
+position but does not currently expect the adoption of these to
+have impact on its current financial condition. The adoption of
+IFRS 8 requires disclosure based on information presented to the
+board.  Whilst this is not expected to change the business
+segments about which information is given, additional disclosure
+on customers representing more than 10% of group revenue is
+likely.   
+5. Segmental information
+Revenue represents the amounts derived from the provision of
+goods and services which fall within the companies ordinary
+activities stated net of value added tax. 
+Revenue is attributable to one primary segment, the provision of
+computer software licensing and consultancy, originating from the
+head office situated in the UK.  
+The Group operates within three geographical markets
+(secondary segments), the United States, Europe and the Rest of
+the World. The majority of the Group’s assets and all assets
+acquired during the year are held in the UK.
+An analysis of revenue by geographical market is given below:
+2008 2007
+£ £
+United States 911,818 1,304,240
+Europe 1,663,184 933,191
+Rest of the World 1,166,000 668,761
+3,741,002 2,906,192
+The geographical segmental analysis shown above relates to
+our customers geographical location, not the location of the
+end users of the units or services provided.
+An analysis of revenue by type is given below:
+2008 2007
+£ £
+Licence and royalty revenue 2,880,154 2,110,630
+Professional Services 860,848 795,562
+3,741,002 2,906,192
+Finance revenue generated during the year was £317,276
+(2007: £353,680).
+26 ANT PLC ANNUAL REPORT AND ACCOUNTS 2008
+Notes to the Financial Statements continued
+as at 31 December 2008 6. Loss from operations
+This is stated after charging:
+2008 2007
+£ £
+Research and development 
+cost –Customer funded 186,680 182,269
+–Generic 2,428,015 2,224,955
+Amortisation of intangible 
+assets 22,905 16,392
+Depreciation of property, 
+plant and equipment 74,822 89,712
+Net foreign currency 
+differences (261,299) 23,248
+Loss on forward contract 24,947 -
+Operating lease rentals               
+–Land and buildings 136,503 111,433
+–Other 1,464 1,464
+Loss on disposal of property, 
+plant and equipment 1,689 4,466
+Loss on disposal of intangible 
+assets 181 -
+Research and Development costs that are customer funded,
+and included in cost of sales, relate to customer specific
+modification to which ANT retains the intellectual property to.
+The amortisation of intangible assets charge is charged to the
+income statement in administration expenses.
+7. Auditors' remuneration
+The Group had the following amounts charged by its auditors
+in respect of the audit of the financial statements and for
+other services.
+2008 2007
+£ £
+Audit of the financial statements
+ANT plc 25,000 25,000 
+ANT Software Limited 7,500 7,500
+Other fees to auditors
+IFRS conversion - 19,140
+Taxation 7,500 8,360
+Total 40,000 60,000
+ANT PLC ANNUAL REPORT AND ACCOUNTS 2008  27 28 ANT PLC ANNUAL REPORT AND ACCOUNTS 2008
+Notes to the Financial Statements continued
+as at 31 December 2008
+8. Compensation of Key Management
+including executive and non-executive directors  
+2008 2007
+£ £
+Short Term employee benefits 953,058 805,095 
+Post employee benefits 50,282 69,709
+Share based payments 4,898 1,837
+1,008,238 876,641
+Short term employee benefits include wages, payroll taxes, healthcare and performance related pay. Post employee benefits
+relate specifically to pension payments and share based payments show IRFS 2 charges relating to the issue of share
+options.
+The interests of the directors in the shares of the Company are detailed within the Directors’ report.
+9. Staff costs and directors’ emoluments
+(a) Staff costs 2008 2007
+£ £
+Wages and salaries 2,793,198 2,545,928
+Social security costs 273,087 277,803
+Other pension costs 213,502 229,339
+3,279,787 3,053,070
+Included in wages and salaries is a total credit relating to share-based payment of £14,668 (2007: credit of £51,287) arising
+from transactions accounted for as equity-settled share-based payment transactions and all directors’ emoluments.
+The monthly average number of employees during the year was as follows:
+2008 2007
+Engineering 30 26
+Sales 8 10
+Administration 9 9
+47 45
+(b) Directors’ emoluments 2008 2007
+Excluding non executives £ £
+Directors’ emoluments 296,915 377,442
+Contributions to defined contribution pension schemes 20,285 27,844
+Number of directors accruing benefits under:
+Defined contribution schemes 2 1
+The highest paid director received:
+Emoluments 215,249 163,256
+Pension contributions 14,118 14,077 ANT PLC ANNUAL REPORT AND ACCOUNTS 2008  29
+10. Finance revenue
+2008 2007
+£ £
+Bank interest receivable 317,276 353,680 
+11. Tax on loss on ordinary activities
+a) Tax on loss
+The tax credit represents:
+2008 2007
+£ £
+Research and development tax credit 214,404 152,991
+Foreign tax:
+Current tax on income for the period (115,927) (35,447)
+Current tax credit for the year 98,477 117,544
+b) Reconciliation of the tax credit
+The tax assessed on the loss on ordinary activities for the year is higher than the standard rate of corporation tax in the
+United Kingdom. The differences are explained below:
+2008 2007
+£ £
+Loss on ordinary activities before tax (1,012,955) (2,019,788)
+Loss on ordinary activities multiplied by standard rate of corporation tax 
+in the UK of 28.5% (2007: 30%) (288,692) (605,936)
+Effect of:
+Disallowed expenses 18,433 23,789
+Decelerated capital allowances 2,275 2,457
+Tax losses carried forward 263,283 579,690
+Impact of rate change on tax losses carried forward 4,701 -
+Research and development tax credit (214,404) (152,991)
+Other temporary differences - -
+Withholding tax 115,927 35,447
+Income tax credit reported in the consolidated income statement (98,477) (117,544)
+Historically, research and development tax claims have resulted in losses being surrendered in return for cash and are
+accounted for when receipt of cash is probable.  During the year the Group surrendered £1,340,024 of tax losses in return
+for £214,404 of cash which related to the R&D tax credit for 2007, (2007: £956,197 losses surrendered for £152,991 for
+2006 tax credit).  30 ANT PLC ANNUAL REPORT AND ACCOUNTS 2008
+11. Tax on loss on ordinary activities (continued)
+c) Deferred tax
+Deferred taxation assets provided in the financial statements and the amounts not provided are as follows:
+2008 2007 2008 2007
+£ £ £ £
+Capital allowances in arrears of depreciation - - 22,360 19,601
+Losses 2,976,794 3,088,718
+2,999,154 3,108,319
+There are approximately £10.6m (2007: £11.0m) of tax losses available to be carried forward subject to the agreement of
+HMRC. These losses may be further adjusted to reflect the surrender of the losses relating to qualifying research and
+development expenditure in accordance with the research and development tax credit scheme.
+No deferred tax asset has been recognised in relation to losses carried forward as the Group is currently loss-making. The
+Group will not recognise the deferred tax asset until sufficient taxable profits are available to allow all or part of the deferred
+tax asset to be utilised.
+12. Loss per ordinary share
+The calculations of earnings per share from continuing operations are based on the loss after tax for the year of £914,478
+(2007: £1,902,244) and the following weighted average number of shares:
+2008 2007
+£ £
+Loss for the period (914,478) (1,902,244)
+Weighted average number of ordinary shares 21,437,870 21,437,870
+Basic and diluted loss per ordinary share (0.04) (0.09)
+The options have no dilutive effect on loss making years, and hence the dilutive loss per share is the same as the basic loss
+per share in these years. The weighted average number of ordinary shares excludes treasury shares held in an Employee
+Benefit Trust of 2,848,497 (2007: 2,848,497).
+Notes to the Financial Statements continued
+as at 31 December 2008
+Not Provided Provided ANT PLC ANNUAL REPORT AND ACCOUNTS 2008  31
+13. Intangible assets
+Software
+Cost: £
+At 1 January 2007 42,802
+Additions 16,283
+At 31 December 2007 59,085
+Additions 44,558
+Disposals (1,147)
+At 31 December 2008 102,496
+Amortisation:
+At 1 January 2007 15,697
+Charge for the year 16,392
+At 31 December 2007 32,089
+Charge for the year 22,905
+Disposals (966)
+At 31 December 2008 54,028
+Net book value:
+At 1 January 2007 27,105
+At 31 December 2007 26,996
+At 31 December 2008 48,468
+At the end of the year the Group had amounts contracted for but not provided for of £nil (2007: £nil)  32 ANT PLC ANNUAL REPORT AND ACCOUNTS 2008
+14. Property, plant and equipment
+Leasehold Office Computer Total
+Cost: improvements equipment equipment 
+At 1 January 2007 82,194 171,031 220,938 474,163
+Additions 8,578 2,314 60,177 71,069
+Disposals - - (33,945) (33,945)
+At 31 December 2007 90,772 173,345 247,170 511,287
+Additions 4,606 948 66,736 72,290
+Disposals - - (25,258) (25,258)
+At 31 December 2008 95,378 174,293 288,648 558,319
+Depreciation:
+At 1 January 2007 43,510 163,415 138,516 345,441
+Charge for the year 29,297 6,008 54,407 89,712
+Disposals - - (28,774) (28,774)
+At 31 December 2007 72,807 169,423 164,149 406,379
+Charge for the year 14,678 3,088 57,056 74,822
+Disposals - - (23,569) (23,569)
+At 31 December 2008 87,485 172,511 197,636 457,632
+Net book value:
+At 1 January 2007 38,684 7,616 82,422 128,722
+At 31 December 2007 17,965 3,922 83,021 104,908
+At 31 December 2008 7,893 1,782 91,012 100,687
+At the end of the year the Group had amounts contracted for but not provided for of £nil (2007: £nil) 
+Notes to the Financial Statements continued
+as at 31 December 2008 ANT PLC ANNUAL REPORT AND ACCOUNTS 2008  33
+15. Trade and other receivables
+2008 2007
+£ £
+Trade receivables 1,011,519 819,623
+Prepayments 103,401144,946
+Accrued income 309,382 227,644
+Other debtors 65,265 66,153
+1,489,567 1,258,366
+Of the trade receivables at year end £979,881 is denominated in US dollars and £20,295 in Euro’s  
+(2007: US Dollars £721,719).
+Carrying amount Of which: neither Of which: not impaired on the reporting date and past 
+impaired nor past due in the following periods
+due on the less than between 30 between 61  
+reporting date 30 days and 60 days and 90 days
+££ £ £
+Trade receivables as at 31 Dec 2008 552,098 440,184 13,779 5,458
+Trade receivables as at 31 Dec 2007 793,247 26,376 - -
+Of the receivables neither past due nor impaired none of the counterparties have a history of defaulting.
+The amounts presented in the Balance sheet are net of allowances for doubtful receivables. The total allowance for bad
+debts that was charged to the Income Statement in the year was £25,556 (2007: £38,190). The bad debt provision included
+in the Balance Sheet at the year end is £49,710 (2007: £24,154). Exposure to credit risk is mitigated, where necessary, by
+payments in advance.
+2008 2007
+£ £
+Opening 24,154 57,042
+Arising during the year 49,710 38,190
+Utilised - (71,078)
+Released (24,154) -
+Closing 49,710 24,154 34 ANT PLC ANNUAL REPORT AND ACCOUNTS 2008
+16. Cash & Cash equivalents and other financial assets
+2008 2007
+£ £
+Cash at bank and in hand 1,648,752 1,211,027
+Cash equivalents (short term deposits) 500,000 1,000,000
+Net cash and cash equivalents per cash flow 2,148,752 2,211,027
+Other financial assets 3,500,000 4,000,000
+Cash at bank earns interest at floating rates based on daily bank deposit rates. Cash equivalents (short term deposits) are
+made for varying periods of between one day and three months depending on the immediate cash requirements of the
+Group, and earn interest at pre-arranged rates.
+Other financial assets are made up of cash deposits made for more than 3 months, typically less than 6 months, and earn
+interest on the same basis as short term deposits.  
+Net cash and cash equivalents currently held as follows;
+2008 £
+Bank of Scotland plc 827,771
+Barclays Bank plc 817,273
+Ulster Bank 500,000
+Other 3,708
+2,148,752
+2007 £
+Bank of Scotland plc 1,430,680
+Barclays Bank plc 777,781
+Other 2,566
+2,211,027
+Notes to the Financial Statements continued
+as at 31 December 2008 ANT PLC ANNUAL REPORT AND ACCOUNTS 2008  35
+16. Cash & Cash equivalents and other financial assets  continued
+Other financial assets currently held as follows:
+2008 Interest Maturity
+£ Rate Date
+Ulster Bank 500,000 2.85% 21st April 2009
+Ulster Bank 500,000 2.90% 26th May 2009
+Bank of Scotland 500,000 2.80% 24th March 2009
+Bank of Scotland 1,000,000 2.90% 29th June 2009
+Allied Irish Bank (GB) 1,000,000 3.20% 29th June 2009
+Total 3,500,000
+Interest Maturity
+2007 £ Rate Date
+Ulster Bank 1,000,000 6.50% 25th March 2008
+Ulster Bank 1,000,000 6.30% 22nd May 2008
+Bank of Scotland 2,000,000 6.23% 30th June 2008
+Total 4,000,000
+17. Trade and other payables
+2008 2007
+£ £
+Trade payables 181,078 150,004
+Tax and social security 92,290 92,092
+Accruals 894,967 507,098
+Deferred income 655,112 426,853
+1,823,447 1,176,047 36 ANT PLC ANNUAL REPORT AND ACCOUNTS 2008
+18. Financial instruments
+The Group’s principal financial instruments are restricted to cash & cash equivalents and other financial assets. The main
+purpose of these financial instruments is to fund the Group’s operations. The Group has various other financial instruments
+such as trade receivables and trade payables that arise directly from its operations. The management does not consider
+there to be any significant concentration of credit risk.
+The main risks arising from the Group’s financial instruments are liquidity and foreign currency risks. The Board reviews and
+agrees policies for managing each of these risks. 
+Foreign currency risk
+The Group makes sales in a number of overseas territories and therefore has transactional currency exposures.  Such
+exposures arise from sales made in currencies other than the underlying entity’s functional currency. The Group makes
+approximately 89% (2007: 91%) of its sales outside the UK, most of which is denominated in US dollars and therefore
+subject to foreign exchange movements. The Group has a number of foreign currency expenses which provide a natural
+hedge against these exposures and on occasion it has used forward contracts.  No such instruments were outstanding at
+the end of the current or prior year.
+The table below shows the Group’s currency exposures that give rise to the net currency gains and losses recognised in the
+profit and loss account. Such exposures comprise the monetary assets and monetary liabilities of the Group that are not
+denominated in sterling, being the operating (or ‘functional’) currency of the underlying entity.
+At 31 December, these currency exposures are as follows:
+Net foreign currency monetary assets
+Functional currency of Group operations US dollar Other Total
+££ £
+2008
+Sterling 379,751 31,650 411,401
+2007
+Sterling 131,677 21,081 152,758
+Notes to the Financial Statements continued
+as at 31 December 2008 ANT PLC ANNUAL REPORT AND ACCOUNTS 2008  37
+18. Financial instruments continued
+The following table demonstrates the sensitivity to a reasonably possible weakening/strengthening in the US dollar and Euro
+exchange rates. In relation to all other variables held constant, of the Group’s loss before tax.
+Change in Impact on loss Impact on loss
+US dollar/Euro  Rate before tax before tax 
+(positive exchange movement) (negative exchange movement)
+2008 – US dollar 10% / -10% (156,131) 190,826
+2008 – Euro 10% / -10% (5,819) 7,112
+2007 – US dollar 10% / -10% (93,290) 114,021
+2007 – Euro 10% / -10% (6,547) 8,001
+There is no impact on equity of changes in foreign exchange rates other than the impact on retained losses resulting from the
+change in loss before tax as detailed above.
+Liquidity risk
+The Group’s objective is to maintain a positive cash balance at a level adequate for daily operations. This is achieved through a
+detailed multicurrency forecast which assesses the Group’s requirements, taking into account all known and forecast factors.
+Interest rate risk and liquidity risk of the Group’s financial assets
+The Group’s policy is to minimise interest rate risk by placing funds in low risk cash deposits but also to maximise the return on
+funds placed on deposit. The Group invests its funds in short and medium term bank deposits and has access to these deposits
+at a maximum of 6 months notice. Interest rates on deposits are either fixed on the commencement of the term or are at a variable
+rate connected to LIBOR, £4,000,000 fixed (breakdown shown in note 16), £1,648,752 variable rate (2007: £5,000,000 Fixed,
+£1,211,027 Variable).
+Based on the Groups cash reserves at the year end, it is estimated that a reduction of 1% in interest rates would lead to a
+reduction in finance revenue of £51,307 (2007: £60,580), and vice versa for an increase.
+Credit risk
+The Group’s only material credit risk is attributable to trade receivables.  Cash, cash equivalents and other financial assets are held
+across a number of banks with our cash equivalents and other financial assets being held by “AA” rated institutions to minimise risk.
+Our customers are made up of substantial blue chip organisations, or their subsidiaries. It is the Group's policy that all customers
+who wish to trade on credit terms require the specific approval of senior management. Receivable balances are monitored on an
+ongoing basis with the result that the Group’s exposure to bad debts is not significant. Analysis of the bad debt provision included
+in the balance sheet is detailed in note 15.
+The maximum exposure to credit risk is the carrying value of financial assets.  
+Borrowing facilities
+The Group has no overdraft facility.
+The directors consider there to be no material difference between the fair value and carrying values of the financial instruments at
+the balance sheet dates. 38 ANT PLC ANNUAL REPORT AND ACCOUNTS 2008
+19. Obligations under operating leases
+At 31 December 2008 the Group had the following future minimum rental payable under non-cancellable operating leases:
+2008 2007
+£ £
+Not later than one year 146,328 38,608
+After one year but not more than five years 341,146 122
+After five years - -
+487,474 38,730
+The Group entered into a commercial lease for the Company registered address for a period of 4 years, with an optional
+break clause in May 2010.
+20. Share capital
+2008 2008 2007 2007
+No £ No £
+Authorised 
+Ordinary shares of 5p each 40,000,000 2,000,000 40,000,000 2,000,000
+Allotted, called-up and fully paid
+Ordinary shares of 5p each 24,286,367 1,214,318 24,286,367 1,214,318
+21. Share-based payments
+The Group operates an Enterprise Management Incentive (EMI) share option scheme relating to shares in the parent
+Company for the benefit of all its employees and employees are entitled to participate once they have completed three
+months’ service. Options granted to non-UK based employees or in excess of the qualifying limits for EMI are unapproved
+options for UK tax purposes or are outside the scope of UK taxation.
+Options granted before 31st March 2005 have all vested and are held by employees who were employed by the Group as
+at the year end. These 2,558,360 options (2007: 3,041,044) are not accounted for under IFRS 2 as they predate the
+introduction of the standard.  Options granted after this date are accounted for.
+Options granted after March 2005 vest over a three year period, subject to the employee remaining at the Company for the
+duration of this period, and corporate performance criteria based on an increase in Group revenues over that period. The
+options are all equity settled, expire after 10 years and there are no cash settlement alternatives.
+The Employee Benefit Trust, managed by an independent trust Company, holds 2,848,497 ordinary shares in the parent
+Company of 5p each, which were acquired at an average purchase price of 85p, all of which are the subject of options
+which have been granted and have vested in full. The market value of the shares in the parent Company at 31 December
+2008 was 27.5p per share. 
+Notes to the Financial Statements continued
+as at 31 December 2008 ANT PLC ANNUAL REPORT AND ACCOUNTS 2008  39
+21. Share-based payments continued
+The Group recognised a total change of £14,668 (2007: credit of £51,287) in the income statement in respect of options
+granted to staff.
+The number of options relating to current employees over 5p ordinary shares in the parent Company granted, exercised or
+lapsed during the year is as follows:
+Date Exercise As atGrantedExercised Forfeited As at Period
+granted price 1 January 31 December of exercise
+2008 2008
+Feb 2005 95p 159,673 - - (39,516 ) 120,157 Feb 2015
+Mar 2005 85p 2,274,868 - - (221,168 ) 2,053,700 Mar 2015
+Mar 2005 126p 435,313 - - (222,010 ) 213,303 Mar 2015
+Mar 2005 0.005p 120,000 - - - 120,000 July 2009
+Mar 2005 85p 51,200 - - - 51,200 July 2009
+Apr 2006 80p 184,000 - - (40,000 ) 144,000 Apr 2016
+Oct 2006 62.5p 30,000 - - (8,000 ) 22,000 Oct 2016
+Mar 2007 41.5p 277,500 - - (72,500 ) 205,000 Mar 2017
+Sep 2007 22.5p 760,000 - - (380,000 ) 380,000 Sep 2017
+Mar 2008 22.5p - 1,110,000 - (70,000 ) 1,040,000 Mar 2018
+Sep 2008 35.5p - 125,000 - - 125,000 Sep 2018
+4,292,554 1,235,000 - (1,053,194 ) 4,474,360
+The following table shows the number and weighted average exercise prices (WAEP) of, movements in, share options during
+the year.
+2008 2008 2007 2007
+No. WAEP No. WAEP
+Outstanding as at 1 January 4,292,554 £0.73 4,672,920 £0.86
+Granted during year 1,235,000 £0.24 1,355,000 £0.31
+Exercised during year - N/A - N/A
+Forfeited during year (1,053,194 ) £0.64 (1,735,366 ) £0.75
+Outstanding as at 31 December 
+1
+4,474,360 £0.62 4,292,554 £0.73
+Exercisable as at 31 December 2,558,360 £0.85 3,041,044 £0.88
+1
+Included in this balance are options over 2,585,360 shares (2007: 3,041,044) for which no charge has been recognised in
+accordance with IFRS 2 as the options vested before 1 January 2006.
+For the share options outstanding as at 31 December 2008, the weighted average remaining contractual life is 6.8 years
+(2007: 7.2 years). 40 ANT PLC ANNUAL REPORT AND ACCOUNTS 2008
+21. Share-based payments continued
+The weighted average fair value of options granted during the year was £0.12 (2007: £0.15).  
+The fair value of equity-settled options is estimated at the date of grant using a Black-Scholes model, taking into account
+the terms and conditions on which the options were granted. The following table lists the inputs to the model used for the
+year ended 31 December 2008 and 31 December 2007.
+2008 2007
+Dividend yield (%) 0% 0%
+Expected share price volatility (%) 63.4% 60.2%
+Risk-free interest rate (%) 4% 4.5%
+Expected life of option (years) 6 6
+Weighted average share price (pence) 23.9 27.6
+The expected life of the options is an estimate and is not necessarily indicative of exercise patterns which may occur. The
+expected volatility reflects the assumption that historical volatility is indicative of future trends, which may not necessarily be
+the actual outcome.
+No other features of options grant were incorporated into the measurement of fair value.
+22. Reconciliation of movements in equity
+Called up Share Merger Retained Total
+share capital premium account losses Equity
+££ £ £ £
+At 1 January 2007 1,214,318 12,066,990 9,787,208 (14,536,744) 8,531,772
+Share-based payments - - - (51,287) (51,287 )
+Total recognised expense - - - (1,902,244) (1,902,244 )
+At 1 January 2008 1,214,318 12,066,990 9,787,208 (16,490,275) 6,578,241
+Share-based payments - - - 14,668 14,668
+Total recognised expense - - - (914,478) (914,478 )
+At 31 December 2008 1,214,318 12,066,990 9,787,208 (17,390,085) 5,678,431
+Merger reserve
+This represents the difference between the fair value and the nominal value of shares issued in connection with the
+acquisition of ANT Software Limited in March 2005.
+Retained losses include an amount of £2,322,016 (2007: £2,322,016) in relation to treasury shares that are held in the
+Employee Benefit Trust.
+Notes to the Financial Statements continued
+as at 31 December 2008 ANT PLC ANNUAL REPORT AND ACCOUNTS 2008  41
+23. Additional cash flow information 
+Analysis of Group net debt
+At 1 January Cash At 31 December
+2008 Flow 2008
+£ £ £
+Cash and Cash equivalents 2,211,027 (62,275 ) 2,148,752
+Other financial assets 4,000,000 (500,000 ) 3,500,000
+6,211,027 (562,275 ) 5,648,752
+At 1 January Cash At 31 December 
+2007 Flow 2007
+£ £ £
+Cash and Cash equivalents 4,542,990 (2,331,963 ) 2,211,027
+Other financial assets 3,000,000 1,000,000 4,000,000
+7,542,990 (1,331,963 ) 6,211,027
+24. Pension commitments
+The Group operates a defined contribution pension scheme for its directors and employees. The assets of the scheme are
+held separately from those of the Group in an independently administered fund. At 31 December 2008 there were no
+outstanding pension contributions (2007: £nil).
+25. Other commitments
+The Group’s total other commitments as at 31 December 2008 is £nil (2007: £nil)
+26. Related party transactions
+Transactions between the Company and its subsidiaries which are related parties, have been eliminated on consolidation
+and are not disclosed in this note.
+During the period the Group had no related party transactions, during 2007 £42,300 was charged to the income statement
+relating to a connected party to the chairman.
+27. Post balance sheet events
+There have been no material post balance sheet events that require disclosure in these financial statements. 42 ANT PLC ANNUAL REPORT AND ACCOUNTS 2008
+The Directors are responsible for preparing the financial statements in accordance with applicable laws and regulations.
+Company law requires the directors to prepare financial statements in accordance with United Kingdom Generally
+Accepted Accounting Practice (United Kingdom Accounting Standards and applicable law). The financial statements are
+required by law to give a true and fair view of the state of affairs of the Company and of the profit or loss of the
+Company for that period.  In preparing those financial statements, the directors are required to:
+• select suitable accounting policies and then apply them consistently;
+• make judgements and estimates that are reasonable and prudent; 
+• state whether applicable UK Accounting Standards have been followed, subject to any material departures disclosed
+and explained in the financial statements; and
+• prepare the financial statements on the going concern basis unless it is inappropriate to presume that the Company 
+will continue in business.
+The directors are responsible for keeping proper accounting records which disclose with reasonable accuracy at any
+time the financial position of the Company and to enable them to ensure that the financial statements comply with the
+Companies Act 1985.  They are also responsible for safeguarding the assets of the Company and hence for taking
+reasonable steps for the prevention and detection of fraud and other irregularities.
+The directors are responsible for the maintenance and integrity of the corporate and financial information included on the
+Company’s website.  Legislation in the United Kingdom governing the preparation and dissemination of financial
+statements may differ from legislation in other jurisdictions.
+Directors’ statement of responsibilities in relation to the 
+parent Company financial statements ANT PLC ANNUAL REPORT AND ACCOUNTS 2008  43
+We have audited the parent company financial statements of ANT plc for the year ended 31 December 2008 which
+comprise of the company Balance Sheet and the related notes 1 to 27. These parent company financial statements have
+been prepared under the accounting policies set out therein.  
+We have reported separately on the group financial statements of ANT plc for the year ended 31 December 2008.
+This report is made solely to the company's members, as a body, in accordance with Section 235 of the Companies Act
+1985. Our audit work has been undertaken so that we might state to the company's members those matters we are
+required to state to them in an auditor’s report and for no other purpose. To the fullest extent permitted by law, we do not
+accept or assume responsibility to anyone other than the company and the company's members as a body, for our audit
+work, for this report, or for the opinions we have formed.
+Respective responsibilities of directors and auditors
+The directors’ responsibilities for preparing the Annual Report and the parent company financial statements in accordance
+with applicable United Kingdom law and Accounting Standards (United Kingdom Generally Accepted Accounting
+Practice) are set out in the Statement of Directors’ Responsibilities.
+Our responsibility is to audit the parent company financial statements in accordance with relevant legal and regulatory
+requirements and International Standards on Auditing (UK and Ireland).
+We report to you our opinion as to whether the parent company financial statements give a true and fair view and
+whether the parent company financial statements have been properly prepared in accordance with the Companies Act
+1985. We also report to you whether in our opinion the information given in the parent company directors' report is
+consistent with the financial statements. The information given in the Directors' Report includes that specific information
+presented in the Chairman’s Statement, Chief Executive Report and Corporate Governance report that is cross referred
+from the Business Review section of the directors' report.
+In addition we report to you if, in our opinion, the company has not kept proper accounting records, if we have not
+received all the information and explanations we require for our audit, or if information specified by law regarding directors’
+remuneration and other transactions is not disclosed.
+We read other information contained in the Annual Report and consider whether it is consistent with the audited parent
+company financial statements. The other information comprises only the Chairman’s Statement, Chief Executive Report,
+Corporate Governance report and the Directors’ Report. We consider the implications for our report if we become aware
+of any apparent misstatements or material inconsistencies with the parent company financial statements. Our
+responsibilities do not extend to any other information.
+Basis of audit opinion
+We conducted our audit in accordance with International Standards on Auditing (UK and Ireland) issued by the Auditing
+Practices Board. An audit includes examination, on a test basis, of evidence relevant to the amounts and disclosures in
+the parent company financial statements. It also includes an assessment of the significant estimates and judgments made
+by the directors in the preparation of the parent company financial statements, and of whether the accounting policies are
+appropriate to the company’s circumstances, consistently applied and adequately disclosed.
+Independent Auditor's Report to the Members of ANT plc 44 ANT PLC ANNUAL REPORT AND ACCOUNTS 2008
+We planned and performed our audit so as to obtain all the information and explanations which we considered necessary in
+order to provide us with sufficient evidence to give reasonable assurance that the parent company financial statements are
+free from material misstatement, whether caused by fraud or other irregularity or error. In forming our opinion we also
+evaluated the overall adequacy of the presentation of information in the parent company financial statements.
+Opinion
+In our opinion:
+• the parent company financial statements give a true and fair view, in accordance with United Kingdom Generally 
+Accepted Accounting Practice, of the state of the company's affairs as at 31 December 2008; 
+• the parent company financial statements have been properly prepared in accordance with the Companies Act 1985; and
+• the information given in the directors' report is consistent with the parent company financial statements.
+Ernst & Young LLP
+Registered auditor
+Cambridge
+2nd March 2009 
+Independent Auditor's Report to the Members of ANT plc
+continued ANT PLC ANNUAL REPORT AND ACCOUNTS 2008  45
+Company Balance Sheet – UK GAAP
+as at 31 December
+2008 2007
+Notes £ £
+Fixed Assets
+Investments 5 631,455 631,455
+631,455 631,455
+Current assets
+Debtors 6 11,181 34,238
+Other financial assets 3,500,000 4,000,000
+Cash and short term deposits 1,425,461 1,536,824
+4,936,642 5,571,062
+Creditors: Amounts falling due within one year 7 (70,371) (68,542)
+Net current assets 4,866,271 5,502,520
+Net assets 5,497,726 6,133,975
+Capital and reserves
+Called up share capital 8 1,214,318 1,214,318
+Share premium account 9 12,066,990 12,066,990
+Profit and loss account 9 (7,783,582) (7,147,333)
+5,497,726 6,133,975
+The financial statements were approved by the Board of Directors and authorised for issue on 2nd March 2009. They were
+signed on its behalf by:
+S A Woodward
+Director 1. Corporate Information
+ANT Group plc (the Company) is a limited company incorporated in England and Wales whose shares are publicly traded.
+The principal activity of the Company is that of a holding Company.
+2. Basis of preparation
+The separate financial statements of the Company are presented as required by the Companies Act 1985. They have been
+prepared under the historical cost convention and in accordance with the applicable United Kingdom accounting standards
+and law.
+As permitted by Financial Reporting Standard No.1 (Revised), 'Cash flow statements', the Company has not included a
+Cash flow statement as part of its financial statements because the consolidated financial statements of the Group (of which
+the Company is a member) include a cash flow statement and are publicly available.
+The Company has taken advantage of the exemption in Paragraph 3C of FRS 25 Financial Instruments: Disclosure and
+Presentation and has not disclosed information required by paragraphs 51 to 95 of that standard, as the Group’s
+consolidated financial statements, in which the Company is included, provide equivalent disclosures for the Group under
+IFRS 7 Financial Instruments: Disclosures.
+3. Accounting policies
+a) Taxation
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at the balance sheet date
+where transactions or events have occurred at that date that will result in an obligation to pay more, or a right to pay less or
+to receive more, tax, except that deferred tax assets are recognised only to the extent that the directors consider that it is
+more likely than not that there will be suitable taxable profits from which the future reversal of the underlying timing
+differences can be deducted.
+Deferred tax is measured on an undiscounted basis at the tax rates that are expected to apply in the periods in which timing
+differences reverse, based on tax rates and laws enacted or substantively enacted at the balance sheet date.
+b) Investments
+Investments are stated at cost, less any provisions for impairment in value.
+c) Trade and other receivables
+Trade receivables, which generally have thirty to sixty day terms, are recognised and carried at original invoice amount.
+Provision is made when there is objective evidence that the Group will not be able to recover balances in full. Balances are
+written off when the probability of recovery is assessed as being remote and when legal notification has been provided and a
+further month has elapsed.
+d) Other financial assets
+Other Financial assets comprise term deposits with maturity of more than three months from commencement that relate to a
+known amount of cash and are subject to an insignificant risk in change in value.
+46 ANT PLC ANNUAL REPORT AND ACCOUNTS 2008
+Notes to the Financial Statements – UK GAAP
+as at 31 December 2008 ANT PLC ANNUAL REPORT AND ACCOUNTS 2008  47
+4. Loss for the year
+As permitted by section 230 of the Companies Act 1985, the Company has elected not to present its own profit and loss
+account for the year. ANT plc reported a loss for the financial year ended 31 December 2008 of £636,249, which includes
+£270,141 relating to the removal of inter-company balances (2007: £4,066,311, which included the £3,582,204 relating to
+the removal of inter-company balances reflected in previous years on the Company balance sheet). 
+Director’s emoluments are disclosed in the Director’s remuneration report on pages 17 to 18.
+5. Fixed Asset Investments
+2008 2007
+£ £
+As at 31st December 631,455 631,455
+Name of Company Holding Country of Proportion Nature of
+Registration Held business
+ANT Software Limited Ordinary shares UK 100% Trading
+6. Debtors
+2008 2007
+£ £
+Trade receivables 4,829 12,261
+Prepayments 2,228 5,568
+Accrued income 4,124 16,409
+11,181 34,238
+7. Creditors: Amounts falling due within one year
+2008 2007
+£ £
+Trade payables 11,621 18,377
+Accruals 58,750 50,165
+70,371 68,542 48 ANT PLC ANNUAL REPORT AND ACCOUNTS 2008
+Notes to the Financial Statements – UK GAAP
+as at 31 December 2008
+8. Called-up Share Capital
+2008 2008 2007 2007
+No £ No £
+Authorised 
+Ordinary shares of 5p each 40,000,000 2,000,000 40,000,000 2,000,000
+Allotted, called-up and fully paid
+Ordinary shares of 5p each 24,286,367 1,214,318 24,286,367 1,214,318
+9. Reconciliation of shareholders’ funds and movement on reserves
+Share Share Profit and Total Equity
+capital premium Loss
+££ £ £
+At 1 January 2007 1,214,318 12,066,990 (3,081,022) 10,200,286
+Retained loss for the year - - (4,066,311) (4,066,311)
+At 1 January 2008 1,214,318 12,066,990 (7,147,333) 6,133,975
+Retained loss for the year - - (636,249) (636,249)
+At 31 December 2008 1,214,318 12,066,990 (7,783,582) 5,497,726 ANT PLC ANNUAL REPORT AND ACCOUNTS 2008  49
+NOTICE IS HEREBY GIVEN that the Annual General Meeting of the Company will be held at Autonomy
+House, Cambridge Business Park, Cowley Road, Cambridge CB4 0WZ on 21 May, 2009 at 9.00 am for
+the following purposes:
+ORDINARY BUSINESS
+To consider and, if thought fit, to pass the following Resolutions which will be proposed as ordinary Resolutions:
+1. To receive the annual accounts of the Company for the financial year ended 31 December 2008 together with the 
+Directors’ report and auditors’ report on those accounts.
+2. To re-appoint Ernst & Young LLP as auditors of the Company to hold office from the conclusion of the meeting to the 
+conclusion of the next meeting at which accounts are laid before the Company and to authorise the Directors to 
+determine their remuneration.
+3. To re-elect Tudor Brown, who retires by rotation and agrees to his re-election, as a director of the Company.
+4. To re-elect Simon Woodward, who retires by rotation and agrees to his re-election, as a director of the Company.
+5. To re-elect David Kynaston, who has agreed to retire as a director and agrees to his re-election, as a director of the 
+Company.
+SPECIAL BUSINESS
+To consider and, if thought fit, to pass the following Resolutions, of which Resolution 6 will be proposed as an ordinary
+Resolution and Resolutions 7 and 8 will be proposed as special Resolutions:
+6. That the Directors be and they are generally and unconditionally authorised pursuant to and in accordance with section 80
+of the Companies Act 1985 (the "Act") to exercise all the powers of the Company to allot relevant securities (within the 
+meaning of section 80 of the Act) up to an aggregate nominal amount of £404,770 provided that this authority shall expire
+on whichever is the earlier of the conclusion of the Company's next Annual General Meeting or 15 months from the date 
+on which this Resolution is passed save that the Company may pursuant to this authority make offers or agreements 
+before the expiry of this authority which would or might require relevant securities to be allotted after such expiry and the 
+Directors may allot relevant securities in pursuance of such offers or agreements as if the authority conferred by this 
+Resolution had not expired.  All authorities previously conferred upon the Directors pursuant to section 80 of the Act shall 
+be revoked but without prejudice to any exercise of such other authorities prior to the date on which this Resolution is 
+passed.
+7. That, subject to the passing of Resolution 6 above, the Directors be and they are empowered pursuant to section 95 of 
+the Act to allot equity securities (within the meaning of section 94(2) to section 94(3A) of the Act) wholly for cash pursuant 
+to the authority conferred by Resolution 6 above as if section 89(1) of the Act did not apply to such allotment provided 
+that this power shall be limited to the allotment of equity securities:
+(a) in connection with an offer of such securities by way of rights to holders of ordinary shares in proportion (as nearly as 
+may be practicable) to their respective holdings of such shares, but subject to such exclusions or other arrangements 
+as the Directors may deem necessary or expedient in relation to fractional entitlements or any legal or practical 
+problems under the laws of any territory, or the requirements of any regulatory body or stock exchange; and
+(b) pursuant to the terms of any share scheme for directors and employees of the Company and/or its subsidiaries 
+Notice of Annual General Meeting – ANT plc
+(Registered and incorporated in England and Wales with number 05372859) approved by the shareholders of the Company in general meeting; and
+(c) (otherwise than pursuant to sub-paragraphs (a) and (b) above) having (in the case of relevant shares (as defined in
+section 94 of the Act)) a nominal amount or (in the case of any other equity securities) giving the right to subscribe
+for or convert into relevant shares having a nominal amount, not exceeding in aggregate £60,710 (representing 5 
+per cent. of the Company’s issued share capital on 31 December 2008), 
+and such power shall expire on whichever is the earlier of the conclusion of the Company's next Annual General 
+Meeting or 15 months from the date on which this Resolution is passed save that the Company may, before the 
+expiry of such power, make offers or agreements which would or might require equity securities to be allotted 
+after such expiry and the Directors may allot equity securities in pursuance of such offers or agreements as if the 
+power conferred hereby had not expired.  All powers previously conferred upon the Directors pursuant to section 95 
+of the Act shall be revoked, but without prejudice to any exercise of such other powers prior to the date on which this
+Resolution is passed. This power applies in relation to a sale of shares which is an allotment of equity securities by 
+virtue of section 94(3A) of the Act as if in the first paragraph of this Resolution the words "pursuant to the authority 
+conferred by Resolution 6 above" were omitted.
+8. That the Articles of Association of the Company are amended by the deletion of the current Articles 110 to 112, 
+139(b) and 140 and replacement of those with the following articles
+110. Director conflict of interest
+A Director must declare to the Board any situation in which he/she has, or could have, a direct or indirect 
+interest that conflicts, or possibly might conflict, with the interests of the Company unless it relates to a 
+contract, transaction or arrangement with the Company or the matter has been authorised by Board or the 
+situation cannot reasonably be regarded as likely to give rise to a conflict of interest.
+111. Authorisation of conflict
+111.1 The Board may (subject to such terms and conditions, if any, as they may think fit to impose from time to 
+time, and subject always to their right to vary or terminate such authorisation) authorise, to the fullest extent 
+permitted by law:
+(a) any matter which would otherwise result in a Director infringing his duty to avoid a situation in which 
+he/she has, or can have, a direct or indirect interest that conflicts, or possibly may conflict, with the 
+interests of the Company and which may reasonably be regarded as likely to give rise to a conflict of 
+interest (including a conflict of interest and duty or conflict of duties);
+(b) a Director to accept or continue in any office, employment or position in addition to his office as a Director 
+of the Company and without prejudice to the generality of this Article 111.1 may authorise the manner in 
+which a conflict of interest arising out of such office, employment or position may be dealt with, either 
+before or at the time that such a conflict of interest arises;
+provided that for this purpose the Director in question and any other interested Director are not counted in the
+quorum at any Board meeting at which such matter, or such office, employment or position, is approved and 
+it is agreed to without their voting or would have been agreed to if their votes had not been counted.
+111.2 If a matter, or office, employment or position, has been authorised by the Board in accordance with this 
+Article 111 then:
+(a) the Director shall not be required to disclose any confidential information relating to such matter, or such 
+Notice of Annual General Meeting – ANT plc
+continued
+50 ANT PLC ANNUAL REPORT AND ACCOUNTS 2008 office, employment or position, to the Company if to make such a disclosure would result in a breach of a 
+duty or obligation of confidence owed by him/her in relation to or in connection with that matter, or that 
+office, employment or position;
+(b) the Director may absent himself/herself from Board meetings which anything relating to that matter, or 
+that office, employment or position, will or may be discussed; and
+(c) the Director may make such arrangements as such Director thinks fit for board and committee papers to 
+be received and read by a professional adviser on behalf of that Director.
+111.3 A Director shall not, by reason of his office, be accountable to the Company for any benefit which he derives 
+from any matter, or from any office, employment or position, which has been approved by the Board pursuant
+to this Article 111 (subject in any such case to any limits or conditions to which such approval was subject).
+112. Votes and director’s interest
+112.1 A Director who is in any way, directly or indirectly interested in a proposed or existing contract, transaction or 
+arrangement with the Company must forthwith declare the nature and extent of that interest to the Board 
+unless it cannot reasonably be regarded as likely to give rise to a conflict of interest.
+112.2 Save as herein provided, a Director shall not vote in respect of any contract, transaction or arrangement or 
+any other proposal whatsoever in which he/she has an interest which is to his/her knowledge a material 
+interest otherwise than by virtue of his/her interests in shares or debentures or other securities of or otherwise
+in or through the Company. A Director shall not be counted in the quorum at the meeting in relation to any 
+resolution on which he/she is debarred from voting.
+112.3 Subject to the provisions of the Statutes and always to the provisions of Articles 110 and 111, a Director shall 
+(in the absence of some other material interest than is indicated below) be entitled to vote (and be counted in 
+the quorum) in respect of any resolution concerning any of the following matters, namely:
+(a) the giving of any security, guarantee or indemnity in respect of money lent or obligations incurred by him or
+any other person at the request of or for the benefit of the Company or any of its subsidiaries;
+(b) the giving of any security, guarantee or indemnity in respect of a debt or obligation of the Company or any 
+of its subsidiaries for which he himself has assumed responsibility in whole or in part, either jointly with 
+others, under a guarantee or indemnity or by the giving of security; 
+(c) any contract, arrangement, transaction or proposal concerning an offer of shares, debentures or other 
+securities of the Company or any of its subsidiaries for subscription or purchase, in which offer he is or 
+may be entitled to participate as a holder of securities or in the underwriting of which he is to participate;
+(d) any contract, arrangement, transaction or proposal to which the Company is or is to be a party 
+concerning any other company (including any subsidiary of the Company) in which he/she is interested, 
+(directly or indirectly) and whether as an officer or shareholder, creditor or otherwise (a "relevant 
+company"), if he/she does not to his/her knowledge hold an interest in shares (as that term is used in 
+sections 820 to 825 of the 2006 Act) representing one per cent. or more of either any class of the equity 
+share capital, or the voting rights, in the relevant company;
+(e) any contract, arrangement, transaction or proposal for the benefit of the employees of the Company or 
+any of its subsidiaries (including any pension fund or retirement, death or disability scheme) which does 
+not award him a privilege or benefit not generally awarded to the employees to whom it relates to;
+ANT PLC ANNUAL REPORT AND ACCOUNTS 2008  51 (f) any contract, arrangement, transaction or proposal concerning the purchase and/or maintenance of any 
+insurance policy pursuant to Article 176.
+112.4 Subject as otherwise provided in the Statutes or these Articles, a Director may be in any way, directly or 
+indirectly, interested in any contract or arrangement or transaction with the Company and he may hold and be
+remunerated in respect of any office or place of profit (other than the office of auditor of the Company or any 
+subsidiary thereof) under the Company or any other company in which the Company is in any way interested 
+and he/she (or any firm of which he/she is a member) may act in a professional capacity for the Company or 
+any such other company and be remunerated therefore and in any such case as aforesaid (save as otherwise 
+agreed) he/she may retain for his/her own absolute use and benefit all profits and advantages accruing to him
+thereunder or in consequence thereof. For the avoidance of doubt, the Company shall have no claim arising 
+from, or in consequence of, the Director’s interest in any contract or arrangement or transaction within the 
+scope of this Article 112 and Article 110, 111, 113 and the Director shall not breach any of his/her duties to 
+the Company as a result of having that interest.
+112.5 An interest of a Director may be declared at a Board meeting, by notice in writing pursuant to s.184 of the 
+2006 Act or by means of a general notice under s.185 of the 2006 Act.
+112.6 Article 112 and 113 does not require a declaration of an interest of which the Director is not aware (and ought
+not reasonably to be aware of it) or where the Director is not aware of the contract, transaction or 
+arrangement in question (and ought not reasonably to be aware of it).
+139  Application of the Seal
+(b) every other instrument to which the Seal is affixed shall be signed by one Director and the Secretary or by
+two Directors or by one Director in the presence of a witness.
+140 Deed without sealing
+A document signed by a Director and by the Secretary or by two Directors or by a Director in the presence of
+a witness and expressed (in whatever form of words) to be executed by the Company shall have the same 
+effect as if it were executed under the Seal, provided that no instrument shall be so signed which makes it 
+clear on its fact that it is intended by the person or persons making it to have effect as a deed without the 
+authority of a resolution of the Board or of a committee of the Board authorised on that behalf.  An instrument
+or document which is executed by the Company as a deed shall not be deemed to be delivered by the 
+Company solely as a result of it being having been executed by the Company.
+BY ORDER OF THE BOARD REGISTERED OFFICE
+M Lobo Autonomy House
+Secretary Cambridge Business Park
+14 April 2009 Cowley Road
+Cambridge 
+CB4 0WZ
+Notice of Annual General Meeting – ANT plc
+continued
+52 ANT PLC ANNUAL REPORT AND ACCOUNTS 2008 Notes
+1. A member entitled to attend and vote at the meeting convened by the notice set out above is entitled to appoint 
+one or more proxy or proxies to attend, to speak and to vote instead of him. A proxy need not be a member of the 
+Company but must attend the meeting to represent you.  
+2. A form of proxy is enclosed. To be valid, it must be deposited at the office of the Company's registrars, 
+Computershare Investor Services PLC at PO Box 1075, The Pavilions, Bridgwater Road, Bristol BS99 7NH, so as to
+be received not later than 48 hours before the time appointed for holding the Annual General Meeting. Completion 
+and return of the form of proxy does not preclude a member from attending and voting at the meeting in person if 
+he so wishes.
+3. The memorandum and articles of association of the Company and copies of Directors' service contracts (or a 
+memorandum of the terms thereof) with the Company or any of its subsidiary undertakings will be available for 
+inspection at the registered office of the Company during normal business hours (Saturdays, Sundays and bank or 
+public holidays in England excepted) up to the date of and during the meeting.
+4. The register of interests of the Directors and their families in the securities of the Company or any of its subsidiary 
+undertakings will be available for inspection on the day of the meeting at the place of the meeting from the start of 
+the meeting until its conclusion.
+5. The Company, pursuant to Regulation 41 of the Uncertificated Securities Regulations 2001, specifies that only those
+members entered on the Register of Members of the Company not later than 9.00 am on 19 May 2009 (or, if the 
+meeting is adjourned, members entered on the Register of Members of the Company not later than 48 hours before
+the time fixed for the adjourned meeting) shall be entitled to attend and vote at the meeting. Changes to the entries 
+on the Register of Members of the Company after that time shall be disregarded in determining the rights of any 
+person to attend or vote at the meeting.
+6. Biographical details of the Directors seeking election are contained in the Annual Report 2008.
+7. Resolution 6 gives the Directors the general power to allot shares or securities convertible into shares up to an 
+aggregate nominal amount of £404,770, being approximately one-third of the Company's issued share capital.
+8. When shares are to be allotted for cash, section 89(1) of the Companies Act 1985 provides that existing 
+shareholders have pre-emption rights and that any new shares are offered first to such shareholders in proportion to
+their existing shareholdings. As well as providing for rights issues and exercise of options under existing schemes. 
+Resolution 7 is seeking to authorise the Directors to allot Shares of up to an aggregate nominal amount of £60,710 
+otherwise than on a pro-rata basis. This represents 5% of the Company’s issued share capital on 31 December 
+2008.
+9. Resolution 8 introduces new provisions to the Company’s existing Articles of Association which replaces existing 
+provisions for the purpose of adopting the new powers available to the Company that have been brought into effect 
+by the Companies Act 2006. The first proposed amendments under Articles 110 to 112 deal with the new power 
+for Directors to authorise conflicts and potential conflicts of other Directors. The second proposed amendments 
+under Articles 139(b) and 140 deal with the method of execution of documents.  
+Articles 110 to 112
+Under the Companies Act 2006, from 1 October 2008 a director must avoid a situation where he has, or can have, a
+ANT PLC ANNUAL REPORT AND ACCOUNTS 2008  53 54 ANT PLC ANNUAL REPORT AND ACCOUNTS 2008
+direct or indirect interest that conflicts, or possibly may conflict with the company's interests. The requirement is very
+broad and could apply, for example, if a director becomes a director of another company or a trustee of another
+organisation. The Companies Act 2006 also allows the articles of association to contain other provisions for dealing
+with director’s authority to approve such situations and to include other provisions to allow conflicts of interest to be
+dealt with in a similar way to current position.
+There are safeguards which will apply when directors decide whether to authorise a conflict or potential conflict. First,
+only directors who have no interest in the matter being considered will be able to make the relevant decision as to
+whether or not to waive such conflicts, and secondly, in taking the decision the non-conflicted directors must act in a
+way they consider, in good faith, will be most likely to promote the company's success. The non-conflicted directors
+will be able to impose limits or conditions when giving authorisation if they think this is appropriate.
+It is also proposed that the new Articles 110 to 112 should contain provisions relating to confidential information,
+attendance at board meetings and availability of board papers to protect a director being in breach of duty if a conflict
+of interest or potential conflict of interest arises. These provisions will only apply where the position giving rise to the
+potential conflict has previously been authorised by the directors.  
+Articles 139(b) to 140
+Section 44 of the Companies Act 2006 which came into effect on 8 April 2008 enable companies to execute
+documents by the signature of one director in the presence of a witness. The New Articles continue to allow the
+company to execute documents by the signature of one director and the secretary or by two directors, in addition,
+they also permit the Company to take advantage of the new provision which allows documents to be executed by
+one director in the presence of a witness whom may or may not be another director or the secretary. ANT plc – Form of Proxy
+For use by shareholders at the Annual General Meeting of the Company to be held at Autonomy House,
+Cambridge Business Park, Cowley Road, Cambridge CB4 0WZ on 21st May 2009 at 9.00am
+I/We (see note 1)
+(BLOCK CAPITALS PLEASE)
+Being a member/members of the above-named Company, hereby appoint the Chairman of the meeting or 
+(see note 2) 
+As my/our proxy to vote for me/us on my/our behalf at the Annual General Meeting of the Company to be held at Autonomy
+House, Cambridge Business Park, Cowley Road, Cambridge CB4 0WZ on 21st May 2009 at 9.00 am and at any adjournment
+thereof, and I/we direct the proxy to vote in respect of the Resolutions to be proposed at the meeting as indicated below:
+Please indicate with a X X in the boxes below how you wish your vote to be cast. (see note 3)
+Resolutions For Against Withheld
+1. ORDINARY RESOLUTION to receive the annual accounts of the Company 
+for the year ended 31st December 2008, together with the Directors’ report 
+and the auditors’ report for such period. 
+2. ORDINARY RESOLUTION to reappoint Ernst & Young LLP as auditors of the 
+Company and to authorise the Directors to determine their remuneration. 
+3. ORDINARY RESOLUTION to re-elect Tudor Brown as a director of the Company.
+4. ORDINARY RESOLUTION to re-elect Simon Woodward as a director of the Company.
+5. ORDINARY RESOLUTION to re-elect David Kynaston as a director of the Company.
+6. ORDINARY RESOLUTION to authorise the issue of ordinary shares for cash
+within the meaning of s80 of the Companies Act 1985.
+7. SPECIAL RESOLUTION to authorise the issue of ordinary shares for cash within the 
+meaning of s94 of the Companies Act 1985 (i) by way of a rights issue or (ii) pursuant to 
+the terms of any share scheme for directors and employees, (iii) or otherwise  having a 
+nominal amount not exceeding 5% of the Company’s issued share capital on 
+31st December 2008.
+8. SPECIAL RESOLUTION to authorise the proposed amendments to the Articles of 
+Association of the Company to take advantage of the new power available relating to 
+director’s conflict of interest and execution of documents brought into force by the 
+Companies Act 2006.  
+Signature(s) Date
+(see notes 4 and 5)
+Notes
+1. Members’ full names as registered should be stated, including account designations if any. The names of all joint holders should be stated 
+(but see also note 5).
+2. A member may appoint a proxy of his or her choice.  If such an appointment is made, delete the words “the Chairman of the meeting or”, initial the 
+alteration and PRINT the name and address of the person appointed proxy in the space provided. A proxy need not be a member of the Company. 
+If more than one proxy is appointed to act as proxy the number of shares in respect of which each such proxy is to vote must be specified.
+3. Where no indication is given as to how the person appointed proxy shall vote, the proxy will vote or abstain at his/her discretion.
+4. This form of proxy must be signed by the appointer or his/her attorney duly authorised in writing or, if the appointer is a corporation, either under its 
+common seal or under the hand of an officer or attorney duly authorised on its behalf.
+5. In the case of joint holders, the signature of any one shareholder is sufficient. If more than one joint holder is present at the meeting, whether in person 
+or by proxy, the vote of the first named standing in the register of members will be accepted to the exclusion of the votes of the other registered holders.
+6. To be valid, this form must be completed and deposited, with any authority under which it is executed (or a copy of the same certified notarially), at the 
+Company Registrars, Computershare Investor Services PLC, PO Box 1075, The Pavilions, Bridgwater Road, Bristol BS99 7NH not less than 48 hours 
+before the time fixed for holding the meeting or any adjournment thereof.
+7. A vote “Withheld” is not a vote in law and will not be counted in the calculation of the proportion of votes for and against a resolution.
+ANT PLC ANNUAL REPORT AND ACCOUNTS 2008  55
+FOLD
+TEAR ALONG PERFED LINE, MOISTEN GUM AND FOLD
+FOLD IN HALF AND MOISTEN ALONG GUMMED EDGE 
+FOLD
+    The Company Registrars
+Computershare Investor Services PLC
+PO Box 1075
+The Pavilions
+Bridgwater Road
+Bristol 
+BS99 7NH
+AFFIX
+STAMP
+HERE ANT plc
+Cambridge Business Park
+Cowley Road
+Cambridge 
+CB4 0WZ
+United Kingdom
+T  +44 (0)1223 716400
+F  +44 (0)1223 716401
+E info@antplc.com
+www.antplc.com

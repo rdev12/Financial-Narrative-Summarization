@@ -1,0 +1,99 @@
+ Rosslyn Data Technologies plc Annual report and accounts 2015
+Overview
+02
+At a glance
+2. RAPid then transforms and enriches this data providing the user with tools to build charts,  
+tables and apps in order to visualise the information.
+The Group’s founding management team has spent 
+over five years developing and commercialising the 
+Group’s data discovery platform, RAPid.
+BI Apps Visualize Integrate Discover Enrich Analyze Cleanse
+About RAPid
+Big data benefits
+We enable organisations of all sizes 
+to easily access and turn complex 
+data into meaningful information 
+to support smarter decisions.
+3. This is all performed over a secure cloud internet connection, giving access  
+to the data from wherever you are.
+1. RAPid extracts, combines and synchronises data from hundreds of sources.
+Accelerate time to value from 
+months to days by automating 
+manual data processes
+Empower business users to improve 
+the quality and relevancy of data 
+in real time
+Accelerate the development, 
+testing and deployment of big 
+data analytical applications
+Generate a faster  
+return-on-investment on your 
+existing big data assets
+Reduce IT infrastructure costs 
+and improve agility by taking 
+big data projects into the cloud
+Quickly integrate semi-structured 
+and unstructured data without the 
+need to code
+Embracing the intelligent concept of 
+“Fail fast, succeed faster,” Rosslyn Analytics’ 
+award-winning RAPid Cloud Data Platform 
+empowers you to: Rosslyn Data Technologies plc Annual report and accounts 2015 03
+As data analysis becomes more mainstream, 
+the Directors believe that every business that wishes 
+to pursue data-driven decisions, at scale, will need 
+to develop cost-effective analytical capabilities 
+and processes.
+According to the MarketsandMarkets study in 2013 more 
+than 13% of companies have cloud analytics and Business 
+Intelligence (BI) solutions and this is expected to reach 
+50% by 2018. The cloud BI market is growing rapidly as 
+compared to traditional on-premise BI solutions driven 
+by significant growth in the amount of internal 
+and external data.
+These solutions are more flexible than traditional IT 
+systems, reducing deployment time, requiring less storage 
+space and having a high processing capacity. Both small 
+and large enterprises are major adopters of cloud analytics 
+services and the Directors expect this trend to continue 
+for the next few years.
+The overall cloud analytics market stands with a total 
+revenue of $7.5bn in 2015, and is expected to grow to 
+$23.1bn at a compound annual growth rate (CAGR) 
+of 25.1% from 2015 to 2020.
+The growth in data is well documented with the majority 
+of industry analysts pointing towards exponential growth 
+in consumer, M2M, mobile and enterprise data while industry 
+players are basing their business models on 5–10x growth 
+in volume of data over the next five years.
+The Directors believe that the enterprise user base is 
+increasingly recognising the return on investment from 
+analysing their data.
+IDC estimates that around a third of data by 2020 will 
+be ‘‘useful data if tagged and analysed’’ . This equates to 
+approximately 13,000 exabytes compared with total big 
+data today of approximately 5,000 exabytes.
+13%
+13% of companies who are utilising cloud analytics
+This figure is expected to grow to 50% by 2018.
+$7.5bn
+Cloud analytics market revenue
+This figure is expected to grow to $23.1bn at a compound annual 
+growth rate of 25.1% from 2015 to 2020.
+1/3
+The amount of useful data by 2020
+This equates to approximately 13,000 exabytes compared to today 
+with approximately 5,000 exabytes.
+Our markets
+Our technology
+RAPid is built to accommodate data in all shapes and sizes, to support any analytics project.
+Relational Database
+Rosslyn Analytics has developed an advanced, highly optimized relational database built 
+on Microsoft SQL Server that provides unrivalled performance and scalability for the largest 
+and most demanding analytic workloads.
+Data Storage Technologies
+RAPid features cutting-edge NoSQL technologies such as Redis, Hadoop, MongoDB 
+and ElasticSearch to power the staging, enrichment and caching of high volumes of data.
+Infrastructure-as-a-Service Cloud Solutions
+RAPid provides organisations with an Infrastructure-as–a-Service running on Azure, enabling 
+clients to host applications on the platform.

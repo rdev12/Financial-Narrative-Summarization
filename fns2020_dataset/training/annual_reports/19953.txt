@@ -1,0 +1,3822 @@
+ WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015
+RESILIENT & 
+BUSINESS-READY 
+ DATA
+WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 IN THIS 
+REPORT
+TO STAY UP TO DATE WITH ALL THE LATEST NEWS VISIT 
+WWW.WANDISCO.COM
+Overview
+02 Financial and operational highlights
+04 WANdisco at a glance
+Strategic report
+06 Chairman’s statement
+07 Chief Executive’s report
+10 Our business model
+11 Our partners
+12 Our markets
+14 Our strategy
+15 Key performance indicators
+16 Risks
+18 Financial review
+20 Our people
+Governance
+22 Board of Directors
+24  Chairman’s introduction to governance
+25 Corporate governance report
+28 Audit Committee report
+29 Nomination Committee report
+30  R em u n er a t i o n C o m mi t t ee 
+and remuneration report
+32 Directors’ report
+34 Statement of Directors’ responsibilities
+Financial statements
+35 Independent auditor’s report
+36  Consolidated statement of profit and loss 
+and other comprehensive income
+37 Consolidated balance sheet
+38 Consolidated statement of changes in equity
+39 Consolidated statement of cash flows
+40 Notes to the consolidated financial statements
+61 Five year record
+62 Notice of Annual General Meeting
+65 Secretary, advisers and share capital information
+CONTENTS WANdisco is the leading 
+provider of data replication 
+technology helping globally 
+distributed organisations 
+to meet the challenges 
+of storage, scalability, 
+performance and availability 
+of both data and applications. 
+Our products make 
+data available consistently 
+and reliably, synchronised 
+both within and between 
+data centres. 
+The WANdisco Fusion
+®
+ platform delivers continuous availability 
+and performance with data consistency across data clusters 
+any distance apart.
+We are at heart a replication company with our own patented 
+technology to replicate both data and software code.
+Customers use our software to ensure that the data they 
+use in their mission-critical operations is synchronised 
+and complete at all times.
+ 
+RESILIENT & 
+BUSINESS-READY 
+ DATA FINANCIAL  
+PROGRESS
+Financial highlights
+$2.6m
++3%
+Net cash ($m)
+0.1
+2.5
+2.6
+11
+$(16.0)m
+-11%
+Adjusted EBITDA
+2
+ ($m)
+0.1
+15
+14
+12
+13
+11
+(3.0)
+(7.8)
+(17.9)
+(16.0)
+$11.0m
+-2%
+11 3.9
+Revenue ($m)
+12 6.0
+13 8.0
+14 11.2
+15 11.0
+4.5
+$34.6m
+-4%
+11
+Cash overheads
+1
+ ($m)
+12 11.4
+13 21.7
+14 36.0
+15 34.6
+Big Data
+• New WANdisco Fusion (“Fusion”) 
+product launched
+• Customer base expanded from 10 to 26
+• Customer wins with integrations to both 
+Hadoop distributors and non-Hadoop storage 
+platforms including HPE and Oracle
+• First six Big Data customers have gone live
+• Five scale-up contract expansions
+Application Lifecycle Management (“ALM”)
+• Refocus on Subversion open source 
+version control
+• Refocused sales and marketing focus 
+brought improved sales towards the 
+end of the year
+• Profitability (excluding central 
+overheads) achieved 
+Operational and strategic highlights
+1  Operating costs, excluding cost of sales, plus capitalised 
+product development costs. Annualised cash overheads 
+reduced to approximately $25m by March 2016 
+(31 December 2014: approximately $40m).
+2  EBITDA loss excluding equity-settled share-based payment, 
+capitalised product development costs, acquisition-related 
+items and exceptional items.
+12 14.5
+13 25.7
+14
+15
+WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 02
+FINANCIAL AND OPERATIONAL HIGHLIGHTS Leading US health 
+and life insurer
+For disaster recovery, recovered data 
+has to be synchronised with live 
+“production” data across its cluster 
+of servers. 
+In addition there is an ingest (capture) and 
+analysis use case – data is continuously 
+captured and continually accessed, with 
+WANdisco’s Fusion ensuring that neither 
+activity impinges on the other. 
+Fusion has achieved results not 
+possible with open source Hadoop. 
+The company sets great store by 
+Fusion achieving this without adding 
+significant workload to computing 
+operations… and concluding the 
+implementation in under a month.
+FIND OUT MORE ABOUT OUR STRATEGY 
+ON PAGE 14
+Fusion sits in front of our cluster, and replicates without having to do reads from inside the 
+cluster. WANdisco’s Fusion adds almost zero overhead to our production cluster, whereas if 
+you use “DistCp” as part of open source Hadoop, you are going to put extra file system load 
+on your cluster and that is going to impact you.
+We ingest all of our raw data, then we transform it and, from there, we use Fusion to replicate 
+it into our analytics cluster. As quick as we’re ingesting it, it becomes available for analytics.
+We do extensive analytics algorithms that are very invasive to our operational cluster. 
+Without Fusion that would have been a very difficult problem to solve. We would have had 
+to scale our operational cluster to an extreme amount to be able to run queries at the same 
+time as ingests and transformations. It would have scaled to a point that was untenable.
+We were able to implement Fusion from start to finish without a proof of concept, 
+and without a whole lot of upfront planning, in less than four weeks.  
+Manager, Database Platform and Engineering
+<4
+weeks’ implementation time
+100%
+uninterrupted data capture
+ANALYTICS AT SCALE
+OVERVIEW
+03 WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 WANDISCO AT A GLANCE
+DATA SYNCHRONISED 
+ACROSS THE WORLD
+36
+new customers
+Our products are differentiated by patented, active-active data replication technology, meeting 
+crucial continuous availability requirements for both Big Data and ALM. We eliminate the costs 
+of data loss, downtime and recovery.
+Big Data
+WANdisco’s patented active-active replication 
+technology enables 100% uptime for global 
+multi-data centre deployments of Hadoop 
+and other data platforms. Access and 
+analyse data anywhere, with the same 
+data available at every location.
+ALM
+The only products that allow widely 
+distributed software development teams 
+using Subversion and Git open source 
+code development tools to collaborate 
+as if they were all in the same location 
+without downtime or data loss.
+WANdisco Fusion platform Subversion and Git
+FUSION HYBRID 
+CLOUD
+Extend your 
+data centre
+FUSION ACTIVE 
+BACKUP
+No data loss
+FUSION ACTIVE DR
+100% availability
+FUSION ACTIVE 
+MIGRATION
+No disruption
+FUSION SDK
+Replicate anything
+FUSION ACTIVE 
+HBASE DR
+Always-on HBASE
+GIT MULTISITE
+Replicated 
+Git services
+ACCESS 
+CONTROL PLUS
+Global access 
+control and audit 
+across SVN and Git
+GERRIT MULTISITE 
+Replicated 
+Gerrit services
+Data  
+replication
+at the heart of our  
+business
+SVN MULTISITE PLUS
+Replicated Subversion 
+services
+Why do companies 
+choose WANdisco?
+Our patented active-active 
+replication technology provides 
+a range of performance and 
+consistency benefits.
+1. Continuous availability
+Removes the bottleneck of a single active 
+store of essential data across data centres, 
+and enables local speed read/write at any 
+global location without downtime or data 
+loss – even during upgrades and maintenance.
+2. 100% utilisation
+Eliminates read-only backup servers 
+by making all servers fully readable 
+and writeable, to take full advantage 
+of the hardware at each location.
+Non-stop replication 24/7/365
+WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 04 4
+patents awarded, 3 pending
+1,000
+support queries solved 
+per year
+87%
+ALM subscription 
+renewal rate
+137
+expanded or 
+renewed contracts
+3. Cluster zoning
+Delegates the most resource-intensive 
+data load and applications to high-spec 
+servers while running less critical batch 
+applications on commodity servers. 
+Eliminates the need for costly hardware.
+4. Multi-data centre ingest
+Ingests data at any number of locations 
+simultaneously, automatically replicates 
+where chosen and enables analysis from 
+anywhere with no single point of failure. 
+5. Selective replication
+Replicates only the specific data 
+required or permitted by regulations. 
+Across several locations, we have architects, engineers and technologists who are among 
+the best in the industry.
+Key Big Data customers Key ALM customers
+Supporting our key customers on a global scale
+WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 05
+OVERVIEW CHAIRMAN’S STATEMENT
+WANdisco made further progress against its strategic aims, 
+scaled up its partner activities and controlled costs well.
+ 
+WANdisco has a high 
+potential operating 
+platform for 2016. 
+Paul Walker, Chairman
+WANdisco’s replication products have 
+become well known in the marketplace for 
+providing unrivalled availability and resilience 
+for both mission-critical operating data and 
+software application code.
+Our underlying replication technology 
+remains leading edge and its reputation 
+has been enhanced over the year by the 
+award of further patents in addition to those 
+secured in previous years. The products we 
+have built on this replication technology are 
+unique in the way they enable synchronisation 
+and availability across globally distributed 
+organisations. In the Big Data market, we 
+have demonstrated this in numerous customer 
+trials and also with our current six live customers. 
+During the year, we progressed from a handful 
+of pilot customers to 26 licensed customers.
+The Big Data market opportunity remains 
+significant. During the year there has been 
+an increasing involvement of the data and 
+storage platform vendors, whose offerings 
+originated outside Hadoop but are now 
+integrated with Hadoop to form universal 
+data platforms. Our product and partnerships 
+have evolved to address this mixed-storage 
+world including emerging cloud data platforms.
+Our go-to-market activities have been 
+stepped up in the year. With global data 
+platform partners such as Oracle, IBM and 
+Amazon, we have progressed with sales 
+campaigns, technical integration and 
+sales fulfilment processes. In addition, our 
+direct salespeople continue to generate 
+opportunities with global corporations. 
+Whilst the timing of contract wins has been 
+variable, we have continued to attract major 
+global corporations. Our customers yield 
+multi-year revenue streams through long-term 
+subscriptions, and also scale up their solutions 
+by adding more users, replicating more data 
+over time and adding more data. In 2015, this 
+started to happen for the first time in Big Data, 
+to add to the revenue from the more 
+established ALM product.
+FIND OUT MORE ABOUT OUR BUSINESS 
+MODEL ON PAGE 10
+During the year we completed some significant 
+investments in product development, using 
+funds secured through a successful equity 
+fundraise at the start of the year. Now that both 
+our Big Data and ALM products have matured, 
+we have started to reduce costs significantly, 
+and in so doing have shown operational agility 
+and discipline. Our EBITDA loss for the year 
+narrowed compared with 2014. 
+We have maintained and developed the 
+skilled teams developing our products 
+and sales channels. With our exciting 
+partnerships, expanding customer base, 
+and lowered cost base, WANdisco has a 
+high potential operating platform for 2016.
+People
+The evolution of our strategy and the 
+sharpening of our focus on the most attractive 
+segment of our markets has been made 
+possible by the unique skills and application 
+of our experts in sales, business development, 
+product development, customer support, 
+administration and finance. The thanks of the 
+Board go to all our people for their dedication 
+to WANdisco.
+Paul Walker
+Chairman
+24 March 2016
+A KEY ROLE IN OUR 
+MARKETPLACE
+WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 06 CHIEF EXECUTIVE’S REPORT
+During 2015 we directed our efforts towards 
+three key priorities. First, we removed costs, 
+enabled both by the simplicity and openness 
+of the Fusion product and by generalised cost 
+disciplines across all operating functions. Second, 
+we placed renewed emphasis on our ALM 
+business, providing it with sales and marketing 
+focus in market segments where we believe 
+the most growth can be captured. This focus 
+translated into an improved financial performance 
+from ALM in the second half of the year. Third 
+– addressing the opportunity where we continue 
+to see the greatest potential for growth – we 
+evolved our core Big Data offering, achieving 
+important breakthroughs in our strategy of 
+becoming the leading all-purpose data 
+replication engine.
+We brought our Big Data and ALM software 
+products together on a single Fusion 
+replication platform and extended the platform 
+to encompass multiple types of data storage 
+beyond its Hadoop origins. We refocused our 
+ALM business on our leading position in 
+distributed version control on the open source 
+Subversion system, achieving improved sales 
+results towards the end of the year. In the Big 
+Data business, we added more customers, 
+took the first six of them into live production 
+and saw the first customers expand their 
+contracts with us. We deepened our 
+relationships with key data and storage 
+platform partners.
+Big Data
+The Big Data marketplace evolved significantly 
+during the year, broadening out beyond 
+Hadoop platforms. Data continues to grow 
+much faster than the budgets that enterprises 
+can devote to storing it. Storage vendors 
+have brought to market new data platforms, 
+responding to their customers’ requirements 
+to store and process data on combinations of 
+Hadoop, more traditional but Hadoop-compatible 
+platforms, and cloud data platforms whereby 
+the customer does not have to own infrastructure. 
+These new and hybrid environments have 
+brought with them requirements to migrate 
+data onto the new platforms without 
+interruption to data processing, to back up 
+data, and to synchronise active data between 
+different locations and operations where 
+it is being used. 
+To address this emerging market for 
+mixed storage, we evolved our product from 
+Non-Stop Hadoop, which replicated data 
+within single Hadoop distributions, to Fusion, 
+which replicates data across multiple storage 
+platforms. Fusion performs this mixed replication 
+without the need for invasive access to the 
+host platforms, making it easy for customers 
+to install. We have integrated Fusion with the 
+on-premise and cloud storage and analytics 
+platforms of partners such as IBM, Microsoft, 
+Amazon, Google and Oracle. 
+Fusion ensures continuous data availability with 
+guaranteed data consistency between data 
+centres, high levels of processing performance 
+to meet demanding service level requirements 
+and, above all, cost savings from high utilisation 
+of computing resource. Amongst our Fusion 
+customers, the majority are taking Big Data 
+into live operations rather than running trial 
+projects or non-critical operations. New 
+enterprise features in Fusion include two 
+features that were granted new US patents, 
+relating to addition and removal of servers, 
+without downtime, from replicated data 
+networks. This enables hardware and software 
+upgrades, addition of new locations, data 
+migrations and rollouts of new applications 
+– all without interruption of service. 
+SIGNIFICANT 
+BREAKTHROUGHS
+2015 was a breakthrough year in our progress towards 
+becoming the leading all-purpose data replication engine.
+ 
+Our presence in 
+the Big Data market 
+has taken a big step 
+forward. 
+David Richards, Chief Executive
+WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 07
+STRATEGIC REPORT Big Data continued
+During the year, we added 16 new customers 
+to reach 26 licensed customers. All are large 
+organisations in our key industry segments 
+of financial services, government agencies, 
+consumer products and telecommunications. 
+Their business requirements combine regulatory 
+compliance, customer analysis and storage 
+cost efficiencies. 
+All of our Big Data customers have intentions 
+to scale up significantly their WANdisco 
+solutions once their implementations are in 
+live production, as they take more data into 
+their mission-critical applications. The first 
+six of our Big Data customers are now in live 
+production. During the year we secured five 
+contract expansions with existing customers, 
+some of them even before the customer 
+went into live usage of our product. 
+ALM
+We continue to see strong potential in the 
+source code management segment of the ALM 
+market that we focus on, as customers continue 
+to move off old proprietary platforms and on to 
+modern, agile open source platforms. Software 
+development continues to become more 
+geographically and organisationally distributed, 
+bringing greater challenges in control and 
+efficiency, both amongst software publishers 
+and in industry more generally.
+Our assessment of the ALM market confirms 
+that we have the right products for the market 
+at this stage in its evolution. Our product 
+for Subversion fits with customers’ needs 
+in replicated open source version control. 
+There is untapped potential in traditional 
+industries developing internal software, in 
+addition to newer software vendors developing 
+gaming, media and mobile applications 
+for consumers.
+We have high credibility in Subversion, a 
+good track record and over 200 Subversion 
+customers, from which we consistently get 
+high satisfaction ratings given the quality 
+of our support.
+Our core ALM product Subversion Multisite 
+Plus has been upgraded to incorporate 
+improvements in performance, resource 
+utilisation and administration.
+We have refocused on ALM to restore an 
+appropriate level of emphasis on this business. 
+Sales and marketing activities have been 
+reoriented to our Subversion product. We 
+have directed sales prospecting efforts towards 
+traditional industry segments where open 
+source adoption is strong, and have renewed 
+our focus on up-selling and renewals for our 
+installed base of over 200 customers. Sales 
+were impacted while we completed the 
+changes, but results improved in the second 
+half of the year and new sales bookings in 
+the final quarter were the highest of the year.
+Outlook
+Our presence in the Big Data market 
+has taken a big step forward, with our live 
+customers demonstrating that our Fusion 
+product for Big Data, in on-premise, cloud 
+or hybrid environments, is highly relevant 
+in its marketplace. 
+Fusion is increasingly viewed as a crucial 
+technology enabling customers to migrate 
+onto our partners’ emerging cloud data 
+platforms. With partners such as IBM, Amazon 
+and Microsoft, we are working increasingly 
+closely on data migration offerings and 
+go-to-market activities.
+Our product for Subversion 
+fits with customers’ needs in 
+replicated version control. 
+Adding new customers
+Cumulative contract wins
+Developing our Big Data customer base
+Installed base sales
+All customers have scale-up intentions
+H1 H2 H1 H2
+2014 2015
+H1 H2 H1 H2
+2014 2015
+4
+10
+20
+26 6
+2
+1
+WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 08
+CHIEF EXECUTIVE’S REPORT CONTINUED  B U ILD IN G 
+TRUST
+Our Fusion product is proven in the marketplace.
+Six global corporations have progressed in their 
+implementations and are now in live usage – 
+which ranges from first trial workloads to live 
+customer-facing operations.
+All are large-scale operations with exacting 
+service standards promised to their stakeholders.
+These and others will now be able to scale up 
+and renew their contracts, which will progressively 
+enhance the predictability of our revenue stream.
+ 6
+live Big Data customers 
+In our ALM business, we are pleased with our 
+improved sales bookings towards the end of 
+the year, responding to our increased focus 
+on this market. Our offering remains well 
+suited to today’s increasingly distributed 
+software development operations, and our 
+live customer base of over 200 corporations 
+offers ample sales opportunities. 
+We reduced costs progressively through the 
+year. Whilst the timing of contract wins remains 
+variable, we are confident that WANdisco enters 
+2016 on a strengthened operational footing 
+and is moving significantly closer to cash flow 
+break-even. With a compelling product for Big 
+Data in the cloud, increasing engagement of 
+partners and a well established ALM product, 
+we expect to build momentum through the 
+rest of this year.
+David Richards
+Chief Executive
+24 March 2016
+Industry spread with hotspots in regulated industries
+Six Big Data customers now live
+Financial services
+Utilities and telecoms
+Consumer goods
+Information technology
+Healthcare and public 7%
+10%
+10%
+31%
+42%
+WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 09
+STRATEGIC REPORT Maintain and develop our Fusion 
+platform of replication products, 
+drawing on the underlying patented 
+DConE replication technology.
+BUILD, GO TO MARKET, 
+LAND AND EXPAND
+BUILD: all-purpose data replication engine
+GO TO MARKET
+Global corporations
+Addressing large corporations 
+with data and software 
+development operations 
+of massive scale.
+Data platform partners
+Integrating with Big Data 
+partners, both the new Hadoop 
+distributors and the established 
+global IT giants.
+Online marketplaces
+Our channels also now include 
+the online marketplaces where 
+cloud storage and computing 
+are sold self-service.
+CLOUD
+FUSION
+Customer lifecycle
+ 
+With new customers we capture 
+initial levels of replication activity. 
+ 
+We scale up contracts as customers 
+process more data over time. 
+ 
+We renew licences at the end of 
+the subscription term, enhancing the 
+predictability of our revenue stream.
+REVENUE: LAND AND EXPAND
+Market adoption
+ 
+ 
+Market penetration
+We are able to increase 
+revenues progressively 
+through market penetration, 
+maximising the initial size 
+of the data platform and 
+scaling up the data 
+platform over time.
+Maximising the 
+data platform
+With replication solved, 
+customers will put more 
+data on the platform, 
+particularly with Fusion as 
+part of a production-ready 
+platform provided by one 
+of our partners.
+Scale-up of contracts
+With Fusion in live 
+production, customers 
+tend to move quickly to 
+bring more data under 
+replication, in some cases 
+doubling the value of their 
+contracts within one year. 
+WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 10
+OUR BUSINESS MODEL OUR CLOUD PARTNERS 
+ARE INVESTING HEAVILY
+Partnerships between platforms provided by IBM, Oracle, Amazon, 
+Google and others, and mission-critical infrastructure components 
+such as Fusion will be critical in removing the friction experienced by 
+customers in moving their data operations from “lab” environments 
+to mission-critical “production” environments governed by service 
+level agreements around data availability. We believe that the market 
+is ready to make that transition, and that Big Data cannot be made 
+enterprise ready by customers doing “self-assembly” using only 
+Hadoop distributions with no surrounding data management.
+Not only is the market mixed storage, it is also becoming mixed 
+deployment. Self-assembly by the customer offers massive cost 
+savings on servers and hardware, but the assembly process risks 
+adding unnecessary costs and take time. 
+So a pre-configured appliance or reference architecture is 
+increasingly preferred. However, the fastest-growing method is 
+the third alternative of the cloud, where no hardware is required 
+by the customer. Its share of Big Data workloads is projected 
+to grow rapidly.
+Fusion works with all three methods. The cloud is potentially very 
+attractive because organisations are using it to process massive 
+amounts of data at low cost, taking advantage of the ease of setting 
+up and closing down cloud storage clusters so that they are only 
+paying for storage and compute exactly when they need to. 
+WANdisco works with partners in all three types of deployment, 
+helping them migrate customers’ data onto the new platforms, 
+replicate to backup storage, and use data synchronously between 
+locations and servers without any interruption to continuous data 
+access or continuous data capture.
+Cloud infrastructure points of presence
+Cloud partner 
+data centres
+WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 11
+STRATEGIC REPORT
+OUR PARTNERS WELL POSITIONED 
+IN OUR MARKETPLACE
+Big Data
+The Big Data marketplace evolved 
+significantly during the year. Storage 
+vendors have brought to market new data 
+platforms, responding to their customers’ 
+requirements to store and process data on 
+combinations of Hadoop, more traditional 
+but Hadoop-compatible platforms, and 
+cloud data platforms whereby the customer 
+does not have to own infrastructure. These 
+new and hybrid environments have brought 
+with them requirements to migrate data 
+onto the new platforms without interruption 
+to data processing, to back up data, and 
+to synchronise active data between 
+different locations and operations where 
+it is being used. 
+Data is growing much faster than the budgets 
+that enterprises can devote to storing it.
+Efficient and cheaper Hadoop and other 
+data and application platforms are handling 
+burgeoning new data processing workloads.
+Replication is relevant for corporations using 
+Hadoop and related technologies to scale out 
+their data platforms for mission-critical use 
+cases. WANdisco offers a patented method 
+of solving availability and speed challenges 
+over a WAN, by replicating data so that idle 
+investments in backup data centres are no 
+longer needed. We enable data infrastructures 
+to scale out at little or no extra storage cost.
+We become essential when the use case 
+moves from experimental data operations 
+in a “lab” to live “production operations” – 
+that is, when there is a data availability 
+service-level agreement (“SLA”) to be met. 
+The market is moving through the “lab” phase 
+and into the “production” phase – in our 
+experience it takes individual customers one 
+to two years. In the production phase, the 
+global data and storage platform giants are 
+beginning to orchestrate the market with their 
+new Hadoop-compatible offerings. It has 
+become a mixed-storage market. It is these 
+partners that our go-to-market strategy is 
+now oriented around. This has evolved from 
+our earlier focus purely on Hadoop distributors.
+The market is moving through the “lab” phase and into the “production” phase.
+60%
+growth in stored data
+8,000+
+subscribers to Hadoop  
+data platforms
+34%
+of Big Data workloads fulfilled  
+in the cloud by 2019
+Sources: Gartner, IDC,  
+Enterprise Strategy Group.
+Workloads moving to the cloud
+Share of Hadoop deployments, 2015
+Hybrid 
+Cloud
+35%
+Cloud
+27%
+On-
+Premise
+38%
+WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 12
+OUR MARKETS Every other solution moves  
+data in batches risking data  
+loss, downtime and  
+business disruption.
+19m
+software developers
+57%
+of software developers are in 
+businesses that do not sell software
+60%
+of developers use open source 
+version control
+Collaboration software enables 
+more efficient “agile” methods 
+of team software development.
+ALM
+WANdisco serves the “Source Code 
+Management” segment of Application 
+Lifecycle Management.
+Software development is everywhere – even 
+more outside software vendors than inside 
+them. Modern working methods like “agile” 
+are bringing efficiency, but these more fluid 
+methods need management software in order 
+to realise those efficiencies in a controlled 
+manner, especially since there are not 
+enough developers to go around.
+In the version control market, customers are 
+steadily moving off old proprietary platforms 
+and on to modern, agile, open source 
+platforms such as Subversion. 
+The market surrounding the Subversion open 
+source version control system is the right one 
+to focus on at this stage. It provides centralised 
+control to offset the local freedom offered 
+by other more distributed systems like Git.
+We have increased our focus on Subversion, 
+selling a commercial replication and enterprise 
+management layer on top of free Subversion 
+open source version control software, whilst 
+also providing tools for Git.
+WANdisco solves the problem of...
+Legacy 
+proprietary
+40%
+Distributed 
+open source
+30%
+Centralised 
+open source
+30%
+
+Share of developers, 2015
+Sources: Gartner, Evans Data Corporation, 
+US Bureau of Labor Statistics.
+1–2% 
+a year
+WANdisco’s active transactional data replication for the cloud
+WANdisco’s active transactional  
+data replication moves data  
+as it changes.
+OUT OF DATE 
+CURRENT AND 
+CONSISTENT
+Data moved in “blocks” at specific times Continuous flow of data
+WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 13
+STRATEGIC REPORT
+13
+MORE DATA = 
+MORE COSTS INCREASING CUSTOMER 
+AND PARTNER ADOPTION
+ 
+Our product and partnerships have 
+evolved to address the mixed-storage 
+world including emerging cloud data 
+platforms and we have continued 
+to attract and retain major 
+global corporations. 
+BUILD GO TO MARKET REVENUE
+Our progress in 2015
+• Evolved Non-Stop Hadoop into Fusion 
+to address the mixed-storage data 
+platform market
+• Built new features into Fusion, 
+responding to customers’ demand for 
+migration, backup and active real-time 
+ingest and analytics
+• Two new patents for our DConE 
+replication engine
+• Started to bring together all our ALM 
+and Big Data products on the single 
+Fusion platform 
+• Simplicity and openness of Fusion 
+facilitated cost efficiencies
+Our priorities for 2016
+• Complete single Fusion platform 
+• Build out further storage and file 
+system choices
+• Build out mixed deployment and 
+purchasing options including cloud
+Our progress in 2015
+• Attracted a further 16 global 
+corporations to our Fusion platform 
+• Refocused on Subversion open source 
+version control within the ALM market 
+• Established and deepened our 
+partnerships with IBM, Oracle, Amazon 
+and Microsoft
+Our priorities for 2016
+• Further deepen our partnerships 
+• Attract further global corporations
+• Become a referenceable part of standard 
+data platform architecture
+Our progress in 2015
+• Expanded Big Data customer base
+• First contract scale-ups 
+by Big Data customers
+• ALM new sales bookings back 
+to growth by the end of the year
+Our priorities for 2016
+• Further grow the Big Data customer base
+• Further and significant Big Data 
+contract scale-ups
+• Continued recovery of ALM sales to new 
+and renewing customers
+We aim to be the leading provider of enterprise-scale data replication.
+Build our products Attract new customers, 
+evolve our partnerships
+Realise customer potential 
+to scale up solutions
+WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 14
+OUR STRATEGY Key Performance Indicators (“KPIs”)
+Our KPIs reflect the business’ financial performance in 2015. 
+Commentary on the actual performance of the Group against each of these KPIs is set out in the Chairman’s statement, 
+the Chief Executive’s report and the Financial review.
+Indicator and description Performance in 2015
+New sales bookings declined compared to prior year. This was primarily due 
+to the ALM bookings reducing to $6.5m (2014: $14.6m). ALM bookings 
+in the prior year included a number of multi-year arrangements which 
+were not due for renewal in 2015 and which were not offset by bookings 
+from new customers. Steps were taken early in the year to sharpen our 
+focus on the ALM market and increase the productivity of our sales 
+operations. New sales bookings improved towards the end of the year.
+We reduced operating costs progressively throughout the year, 
+with cash overheads, as expected, lower in the second half than in 
+the first half. These reductions have resulted both from the simplicity 
+and openness of the Fusion product’s architecture and from generalised 
+cost disciplines across all operating functions.
+During the year we launched our new Fusion product. Our customer 
+base expanded from 10 to 26. In addition, our first six Big Data customers 
+have gone live and five customers have expanded their contracts 
+during the year.
+Revenue for the year ended 31 December 2015 was $11.0m 
+(2014: $11.2m). Despite new sales bookings continuing to show 
+variability, revenue benefited from deferred revenue released from 
+prior period bookings, many of them multi-year contracts.
+Links to strategy:
+Links to strategy:
+Links to strategy:
+Links to strategy:
+$9.0m
+-48%
+13 14.8
+14 17.4
+15  9.0
+New sales bookings ($m)
+$11.0m
+-2%
+13 8.0
+14 11.2
+15  11.0
+Revenue ($m)
+16
++78%
+14 9
+15  16
+Big Data customer wins
+$34.6m
+-4%
+13 21.7
+14 36.0
+15  34.6
+Cash overheads ($m)
+ 1
+13
+WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 15
+STRATEGIC REPORT
+KEY PERFORMANCE INDICATORS
+MEASURING 
+SUCCESS KEY RISKS AND 
+RISK MANAGEMENT
+The Group’s operations expose it to a variety of risks.
+RISK DESCRIPTION RISK MITIGATION RISK CHANGE
+People
+Our future success depends on retention of senior 
+management and key technical personnel. Whilst much 
+of our proprietary knowledge is documented, our technical 
+experts contribute valuable skills and knowledge and, 
+despite contractual confidentiality agreements, there can 
+be no guarantee that those individuals will not in future 
+join competitors or establish themselves in competition.
+During the year the headcount reduced from 182 to 143 heads. 
+These reductions resulted mainly from the simplification of our 
+product portfolio and channel strategy. It is essential that we 
+retain and motivate our remaining workforce and attract the 
+right talent in the case of any replacement hires in the future.
+Our People Services function oversees employee 
+communications to ensure, given our rapidly developing 
+markets, employees’ understanding of our strategic direction 
+enables them to make meaningful contributions to the 
+achievement of our goals.
+Stock-based compensation has proved to be an important 
+component of retaining, motivating and attracting key 
+talent and so we will continue to deploy stock selectively.
+Increase
+Financing risk
+Our product, Fusion, addresses a still emerging market 
+in which contract wins continue to exhibit variability and 
+therefore we have limited forward visibility. We are a loss 
+making business with a consequent dependency on a 
+variety of existing and potential sources of finance.
+Following the release of Fusion our sales pipeline is promising. 
+Operating costs were progressively reduced throughout 
+the year, resulting in an annualised cash overheads base of 
+approximately $25m. We have prepared a detailed budget and 
+forecasts of the Group’s expected performance over a period 
+covering at least the next twelve months from the date of 
+these financial statements. As well as modelling the realisation 
+of the sales pipeline, these forecasts also cover a number of 
+scenarios. We maintain close relationships with our principal 
+and potential providers of finance and continue to review 
+the need for additional or alternative funding. See also Note 2.
+New
+Competition
+There can be no guarantee that competitors will not develop 
+superior products. Competitors may have or develop greater 
+financial, marketing or technical resources, enabling them 
+successfully to develop and market competing products.
+As the open source software on which we depend is 
+licensed for free, our ability to sell value-added products 
+may be limited by potential customers opting to rely purely 
+on the underlying open source software, together with any 
+free extensions that might be developed to address the 
+same challenges as our software.
+We protect our intellectual property by securing 
+patents whenever possible. Four key patents for our 
+underlying replication technology have already been 
+allowed or issued, and a further three patent applications 
+are in process. We continue to dedicate significant 
+resource to the constant enhancement of our core 
+intellectual property.
+Senior management devotes significant time and resource 
+to monitoring product releases by potential competitors in 
+the data replication software market both for replication 
+of ALM and Big Data.
+No change
+Effective risk management aids decision 
+making, underpins the delivery of the Group’s 
+strategy and objectives and helps to ensure 
+that the risks the Group takes are adequately 
+assessed and actively managed. 
+The Group regularly monitors its key risks and 
+reviews its management processes and systems 
+to ensure that they are effective and consistent 
+with good practice. The Board is ultimately 
+responsible for the Group’s risk management.
+The risk management process involves the 
+identification and prioritisation of key risks, 
+together with appropriate controls and plans for 
+mitigation, which are then reported to the Board. 
+As with all businesses, the Group is affected 
+by a number of risks and uncertainties, some 
+of which are beyond our control.
+The table below shows the principal risks and 
+uncertainties which could have a material 
+adverse impact on the Group. This is not an 
+exhaustive list and there may be risks and 
+uncertainties of which the Board is not aware, 
+or which are believed to be immaterial, which 
+could have an adverse effect on the Group.
+WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 16
+RISKS The Group regularly monitors its key risks and 
+reviews its management processes and systems 
+to ensure that they are effective and consistent 
+with good practice. 
+RISK DESCRIPTION RISK MITIGATION RISK CHANGE
+Channel partner engagement
+Our replication products serve both the ALM and Big Data 
+markets. In the Big Data market we are in partnership with an 
+array of vendors that distribute Hadoop, support Hadoop 
+and provide data storage that is compatible and integrates 
+with Hadoop.
+Some of these partnerships are relatively new business 
+relationships. There is a risk that we mismanage these 
+relationships or that partners decide not to devote 
+significant sales or product integration resource to 
+our products.
+We have devoted experienced leadership resource, 
+recruited from within the business, focused on proactively 
+developing our new partner relationships and creating new 
+commercial propositions that derive long-term value from 
+these relationships.
+Increase
+Resource allocation and operational execution
+We address a significant and rapidly growing market, but 
+as a small company, we have limited people and capital 
+resources. Over time it will be essential to keep adding 
+to and refreshing this resource, but at all times it will remain 
+essential that we ensure that resource is effectively directed 
+to addressing and delivering on our strategic goals.
+We have a business planning process which aims to ensure 
+the investments we make and the allocation of existing 
+resource are aligned with our strategic goals, which in 
+turn are responsive to the evolution of our marketplace.
+We have significantly improved internal financial reporting 
+and cost control processes. These financial reports are 
+regularly monitored by senior management and the Board.
+No change
+Products
+The software on which our products are based is complex 
+and the products may contain undetected defects which 
+may be discovered after first introduction. Such defects 
+could damage the Group’s reputation, and reduce revenue 
+from subscription renewals and extensions. Many of our 
+products are designed for use with open source software, 
+whose development, by the open source community, 
+we do not solely control. Changes to its structure 
+and development path may impair the effectiveness 
+of our products.
+Regulation of data transfer is rapidly evolving and additional 
+compliance on user privacy, content liability, data encryption 
+and copyright protection may reduce the value added by 
+our products.
+We have invested in quality control processes and training 
+within our engineering team. We have a dedicated team 
+committing code to relevant open source tools, to ensure 
+our products interact well with open source components, 
+and to monitor evolving open source projects to which 
+we could potentially add commercial value.
+Our product roadmap is based on requirements expressed 
+by customers with whom we are pursuing sales opportunities. 
+Features such as “selective replication” deal with regulatory 
+constraints on data transfer. Our product managers are 
+mandated to propose roadmap alterations if regulations 
+render our intended features either more or less relevant.
+No change
+Sales cycles, capability and customers’ 
+budget constraints
+Any economic downturn may have an adverse effect 
+on the funds available for customers to invest in our 
+products. Increasing budget scrutiny may periodically 
+extend sales cycles, from customers’ evaluations through 
+to commencement of subscription contracts.
+Variability of sales cycles across different sizes and types 
+and customer may bring volatility to our quarterly results.
+Any new sales executives joining the business, in a rapidly 
+changing marketplace, may take longer than expected to 
+reach full productivity in concluding sales transactions.
+Our products enable significant savings on data storage 
+and processing and therefore, demand should be relatively 
+insensitive to economic conditions.
+Our strategy is oriented to generating a broad-based set 
+of sales opportunities, across regions, industries, sizes of 
+customer and technology use cases. We have invested in 
+senior management and systems to manage the completion 
+of sales engagement in an efficient and commercially 
+beneficial manner.
+No change
+WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 17
+STRATEGIC REPORT RESILIENT REVENUE, EFFECTIVE 
+COST CONTROL, REDUCED LOSSES
+Revenue for the year ended 31 December 2015 was $11.0m 
+(2014: $11.2m). Despite the decline in new sales bookings 
+($9.0m in 2015 compared with $17.4m in 2014), revenue 
+benefited from deferred revenue released from prior year 
+bookings, many of them multi-year contracts. 
+Deferred revenue (including unbilled 
+receivables) from sales booked during 2015 
+and in previous years, and not yet recognised 
+as revenue, was $16.2m at 31 December 2015 
+(31 December 2014: $19.3m). Unbilled 
+receivables were $6.5m (2014: $8.0m), see 
+Note 16. Our deferred revenues represent 
+future revenue from new and renewed contracts, 
+many of them spanning multiple years.
+Strong cost control, with cash overheads 
+materially below the prior year, resulted 
+in the adjusted EBITDA loss narrowing 
+to $16.0m (2014: $17.9m).
+Big Data
+Revenues were $1.8m (2014: $0.8m), 
+showing growth on the prior year and, for 
+the first time, a consistent revenue stream 
+from our new and continuing contract wins.
+Contract pricing was strong, particularly in 
+those cases where we combined with global 
+established storage vendors such as Oracle, 
+demonstrating added value as part of 
+pre-engineered stack.
+Contract wins continue to exhibit variability 
+in the timing of their completion. An increasing 
+number of contract wins are resulting from 
+scale-ups with existing customers, showing 
+the benefit of the growth in our customer 
+base. New sales bookings from initial and 
+expanded contracts were $2.5m (2014: $2.8m). 
+Our implementations have accelerated, with 
+six of our Big Data customers now live and 
+others in advanced deployment. We expect 
+these implementations to lead in due course 
+to additional scale-up contracts. 
+ALM 
+ALM revenue was $9.2m (2014: $10.4m), 
+benefiting from the rollout of deferred 
+revenue from prior year sales bookings.
+Steps were taken early in the year to sharpen 
+our focus on the ALM market and increase 
+the productivity of our sales operations. 
+New sales bookings improved between the 
+first and second half of the year, and totalled 
+$6.5m for the year (2014: $14.6m). 
+New customers during the year include 
+corporations developing applications for 
+gaming, hospital systems and securities 
+trading. Add-ons for existing customers 
+benefited from greater sales focus, and have 
+included a large user expansion at a global 
+telephony software developer. Renewals 
+have continued to contribute a substantial 
+proportion of sales, including a significant 
+renewal from a wireless network 
+testing business. 
+Based on its operating scale, product maturity 
+and revenue base, we moved the business into 
+profit (excluding central overheads) in 2015.
+Operating costs 
+We reduced operating costs progressively 
+throughout the year, with cash overheads, 
+as expected, lower in the second half than in 
+the first half. These reductions have resulted 
+both from the simplicity and openness of 
+the Fusion product’s architecture and from 
+generalised cost disciplines across all 
+operating functions. 
+Product development expenditure was 
+$8.4m (2014: $9.0m). All of this expenditure 
+was devoted to new product features and 
+was capitalised. 
+Total cash overheads (excluding cost of sales 
+and including capitalised product development) 
+of $34.6m were below the prior year (2014: 
+$36.0m). Cost control continued to be strong, 
+and as a result cash overheads were, as 
+expected, lower in the second half than in 
+We reduced 
+operating costs 
+progressively 
+throughout 
+the year. 
+Paul Harrison, Chief Financial Officer
+WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 18
+FINANCIAL REVIEW the first half. The ongoing benefits of this, 
+coupled with additional cost actions taken 
+early in 2016, will result in a significantly 
+reduced cost base for 2016, with the current 
+annualised run rate of cash overheads 
+at approximately $25m. 
+Our headcount was 143 as at 31 December 
+2015 (31 December 2014: 182). Headcount 
+reductions in the year resulted from efficiencies 
+in IT administration, sales and marketing, 
+and ALM product engineering and testing. 
+After the end of the year, the headcount 
+was further reduced to 130 by March 2016.
+Profit and loss
+The adjusted EBITDA loss for the year 
+(excluding equity-settled share-based 
+payment, capitalised product development, 
+acquisition-related items and exceptional 
+items) was $16.0m (2014: $17.9m loss). 
+Balance sheet and cash flow
+Trade and other receivables at 31 December 
+2015 were $6.7m (31 December 2014: $6.4m). 
+This includes $3.5m of trade receivables 
+(31 December 2014: $4.4m) and $3.2m related 
+to non-trade receivables (31 December 2014: 
+$2.0m). In addition to this, receivables not billed by 
+the year end were $6.5m (31 December 2014: 
+$8.0m) largely from multi-year contracts.
+Principally as a result of reductions in cash 
+overheads, our net consumption of cash was 
+significantly reduced during the course of 
+the year, resulting in a net cash balance of 
+$2.6m at the close of the year (31 December 
+2014: $2.5m). This includes the benefit of $26.1m 
+of new equity funds (net of fees) announced 
+on 23 January 2015. In addition, we retain a 
+$10m revolving credit facility with HSBC Bank plc. 
+The first drawings on this facility were made 
+during the first quarter of 2016. 
+With strong cash collection, benefiting from 
+subscription payments in advance of revenue 
+recognition, and further cost reductions so 
+far in 2016, we have moved significantly 
+closer to cash flow break-even.
+Paul Harrison
+Chief Financial Officer
+24 March 2016
+Measuring progress
+ALM subscription renewal rate
+87%
+With strong cash collection and 
+further cost reductions so far in 
+2016, we have moved significantly 
+closer to cash flow break-even. 
+87%
+Deferred revenue release
+2016 $7.9m (49%)
+2017 $5.2m (32%)
+2018 $2.4m (15%)
+2019+ $0.7m (4%)
+$16.2m
+2014 2015
+Cost base evolution
+$40.2m
+$40.2m 
+annualised 
+run rate in 2014
+$25.3m 
+annualised 
+run rate in 2016
+$25.3m
+$36.0m
+$34.6m
+$25.3m
++$4.2m
+-$3.9m
+-$3.6m
+-$1.8m
+-$5.6m
+2014 cash 
+cost base
+Annualised 
+2014 
+increase
+2015 
+reduction
+2015 cash 
+cost base
+Annualised 
+2015 
+reduction
+2016 
+actions
+2016 actions 
+annualised
+2016 cash 
+cost base
+Cost of sales excluded
+WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 19
+STRATEGIC REPORT OUR MOST 
+VALUABLE ASSETS
+We pride ourselves on our people and their intellectual expertise. 
+Across our global offices, we have a team of 143 people 
+comprised of the best and brightest architects, engineers 
+and technologists in the industry, including several PhDs 
+and a management team of thought leaders. 
+Employee recognition
+We seek to identify those employees 
+who are making contributions to the 
+Group. Our Bravo award programme 
+is designed to recognise and celebrate 
+those exceptional achievements.
+There are four nomination categories:
+Customer First
+Recognises outstanding individual 
+contribution to improving overall internal 
+and external customer satisfaction.
+Making a Difference
+Recognising someone who has performed 
+an extraordinary act in order to contribute 
+to our success or culture.
+Scientific or Technical
+Where someone has pushed the boundaries 
+of what it is possible to do with our products 
+and solutions or has significantly contributed 
+to the innovation and quality of our products. 
+Excellence
+This award is reserved for an individual who 
+is deemed to have contributed significantly 
+outside the scope of his or her position.
+Our programme is run twice a year and 
+the winners are announced at the Company 
+all-hands meetings. The winners receive 
+either a cash award or an experience day 
+of their choice.
+Employee benefits 
+We offer discounted gym membership, 
+employee discounts on retail, entertainment 
+and recreation activities as well as IT equipment 
+and a range of other benefits. We also offer 
+flexible working hours. 
+In the UK this year we introduced private medical 
+coverage in addition to life assurance at 4x an 
+employee’s salary. Further benefits include 
+a cycle to work programme and childcare 
+vouchers for employees with childcare costs. 
+We also offer unlimited paid vacation.
+Pension
+With effect from 1 October 2015, all eligible 
+WANdisco employees within the UK were 
+automatically enrolled into our pension 
+scheme. The contribution rates offered are 
+higher than the minimum requirements, and 
+employees have the opportunity to increase 
+their contributions from entry into the scheme. 
+The Company will automatically increase 
+minimum contribution rates each year to 
+ensure all legislative requirements are met. 
+A communications programme and 
+pensions portal were also rolled out.
+Social time 
+We recognise that our employees value 
+some time to socialise with other employees. 
+We stop working for an hour each week to 
+gather for a social hour where employees 
+take some time away from their work to 
+meet and greet other employees.
+Ethical business practices 
+Our policies detail the standards expected 
+throughout the organisation, including 
+free and fair competition, the prohibition 
+of bribery, honest and fair dealing with 
+suppliers, and ensuring that the welfare 
+of workers and employment conditions 
+within the organisation meet or exceed 
+internationally recognised standards. We 
+have a statement of ethics to ensure ethical 
+business practice across the organisation.
+Donations
+We encourage our employees to get 
+involved with local and national charities. 
+These are some of the activities that we 
+undertook during the year:
+Neurocare bake-off in Sheffield
+As part of our community involvement, our 
+Sheffield team raised funds for Neurocare, 
+an organisation which raises money to buy 
+lifesaving equipment for use in the neuro wards 
+of Sheffield’s NHS hospitals. The team was 
+involved in a bake-off. 
+Supporting Cancer Research at the 
+Annual Sales Kickoff
+Attendees at the 2015 Annual Sales Kickoff 
+donated money to support Cancer Research. 
+They raised over $350 and the Company 
+matched that donation.
+Toys for Tots toy drive
+Employees donated to the Toys for Tots 
+programme during the holiday season 
+by donating toys for children of all ages. 
+The toys were then delivered to the local 
+fire department for onwards distribution.
+Annual food drive
+Each year employees have continued to 
+provide food donations that are delivered 
+to the local foodbanks in their area.
+WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 20
+OUR PEOPLE Global financial 
+and investment 
+information provider
+A leading 24/7 provider of financial data, 
+breaking news and expert business analysis 
+adopted Fusion to deliver continuous 
+availability and performance for predictive 
+customer analytics applications built on 
+the Hadoop Big Data software platform 
+provided by Hortonworks, Inc. These 
+applications enable real-time decisions 
+on which information services to offer 
+subscribers, based on their profile 
+and past buying behaviour.
+Many financial services firms choose 
+Hadoop for consolidating subscriber data 
+and mapping it to portfolios of financial 
+information offerings. Critical requirements 
+include real-time simultaneous ingest and 
+sharing of data across multiple locations 
+with continuous availability, to meet the 
+round-the-clock needs of customers. 
+Implementing predictive customer 
+analytics applications on Hadoop is a big 
+step forward in offering the timeliest and 
+most relevant financial information to 
+subscribers. Other challenges included 
+24/7 availability and automated disaster 
+recovery. Every other solution evaluated 
+only partially met these requirements, with 
+downtime during upgrades, something 
+no financial services firm can afford. With 
+Fusion, there was no need to compromise.
+Fusion’s flexible architecture eliminates 
+vendor lock-in and supports staggered 
+upgrades of Hadoop across locations without 
+any interruption in operations. Fusion can 
+be implemented across different versions 
+of the same data platform, as well as 
+mixed-storage environments, including 
+Oracle, Cloudera, Hortonworks and MapR.
+Real-time financial news and information 
+is mission critical for financial services 
+providers. The highest availability and 
+performance requirements are essential 
+for success. Our customer achieved, with 
+Fusion, an adaptable, future-proof solution 
+that avoids proprietary lock-in. 
+FIND OUT MORE ABOUT OUR STRATEGY 
+ON PAGE 14
+real-time decisions
+24/7
+availability and automated 
+disaster recover
+CONTINUOUS AVAILABILITY 
+FOR PREDICTIVE ANAL YTICS
+WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 21
+STRATEGIC REPORT
+WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 Paul Walker
+Chairman and Non-executive Director
+Age 58 
+Appointed 1 May 2012 (Chairman from 
+20 March 2014)
+Skills and experience
+Paul served as Chief Executive Officer 
+of The Sage Group plc from 1994 to 2010. 
+Paul joined Sage as Company Accountant 
+in 1984 and served as its Finance Director 
+from 1987 until 1994.
+Paul serves as Non-executive Chairman 
+of Halma plc. He is also a Non-executive 
+Director of Experian plc, a Non-executive 
+Director of Sophos plc, Chair of Governors 
+at Newcastle Royal Grammar School and a 
+Member of Council at Newcastle University.
+Paul previously served as a Non-executive 
+Director of MyTravel Group plc from 
+December 2000 to December 2004 and 
+as a Non-executive Director of Diageo plc 
+from 2002 to 2011. 
+Committee membership
+Audit, Nomination (Chair) 
+and Remuneration (Chair).
+David Richards
+President, CEO and Co-founder
+Age 45 
+Appointed 11 May 2012 
+Skills and experience
+Since co-founding the business in Silicon 
+Valley in 2005, David has led the Group on 
+a course for rapid international expansion, 
+opening offices in the UK, Japan and China. 
+David spearheaded the acquisition of AltoStor, 
+which accelerated the development of the 
+Group’s first products for the Big Data market.
+With over 15 years’ executive experience in the 
+software industry, David sits on a number of 
+advisory and executive boards of Silicon Valley 
+start-up ventures. A passionate advocate of 
+entrepreneurship, he has established many 
+successful start-up companies in enterprise 
+software and is recognised as an industry 
+leader in enterprise application integration 
+and its standards. David is also a Non-executive 
+Director and interim Non-executive Chairman 
+of 1Spatial plc.
+David is a frequent commentator on a range 
+of business and technology issues, appearing 
+regularly on Bloomberg and CNBC.
+Paul Harrison
+Chief Financial Officer
+Age 51 
+Appointed 2 September 2013 
+Skills and experience
+Prior to joining the Group in September 2013, 
+Paul spent over 16 years with The Sage Group plc. 
+Paul joined Sage in 1997, becoming its 
+Chief Financial Officer in 2000. 
+Paul is also a Non-executive Director of 
+Hays plc, one of the world’s largest specialist 
+recruiters. He joined Hays in 2007, becoming 
+its Senior Independent Director in 2011 
+and chairs Hays’ remuneration committee. 
+In January 2016, Paul became a Non-executive 
+Director of Ascential plc, an international 
+business-to-business media company. 
+He chairs Ascential’s audit committee.
+A chartered accountant, Paul’s earlier career 
+was spent in professional practice, latterly 
+with PwC.
+WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 22
+BOARD OF DIRECTORS
+OUR  
+BOARD James Campigli
+Chief Product Officer and Co-founder
+Age 56 
+Appointed 11 May 2012 
+Skills and experience
+James, known as Jim, has over 25 years 
+of software industry experience at both 
+early-stage and public companies. In 
+his previous role as a founder and Chief 
+Technology Officer (“CTO”) of Librados 
+from 2003 to 2004, Jim was responsible 
+for overall product strategy and product 
+messaging and served as an evangelist 
+for Librados’ standards-based approach 
+to enterprise application integration. Jim 
+was also a member of the management 
+team that led the acquisition of Librados 
+by NetManage, Inc. Following its acquisition, 
+Jim joined NetManage as CTO for the 
+Librados products group.
+Prior to Librados, Jim was the Vice President 
+of Product Management for Insevo, Inc. from 
+2001 to 2003. Jim also held senior product 
+management and consulting management 
+positions at BEA Systems and SAP AG.
+Ian Duncan
+Non-executive Director
+Age 55 
+Appointed 16 April 2012 
+Skills and experience
+Ian was Group Finance Director of 
+Royal Mail Holdings plc from 2006 to 2010. 
+Prior to this, Ian served for eight years as Chief 
+Financial Officer and Senior Vice President 
+of Westinghouse Electric Company LLC in 
+Pennsylvania, US. Between 1993 and 1998 
+Ian was at British Nuclear Fuels plc, latterly 
+as Corporate Finance Director. Prior to this, 
+Ian was an Associate Director at Lloyds 
+Merchant Bank Limited and a manager 
+at Dresdner Kleinwort Wasserstein Limited. 
+Ian qualified as a chartered accountant at 
+Deloitte and Touche in 1985. 
+Ian is currently a Non-executive Director and 
+Chairman of the audit committee at Babcock 
+International Group plc and Bodycote plc.
+Committee membership
+Audit (Chair), Nomination and Remuneration.
+GOVERNANCE
+WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 23 Dear shareholder
+After due consideration, the Board seeks to 
+apply those aspects of the Code as far as it 
+considers appropriate for a business of the 
+Group’s size and nature. Further details can 
+be found in the Corporate governance 
+report on pages 25 to 27 inclusive and a copy 
+of the Code can be found at www.frc.org.uk. 
+We have continued to review the composition 
+of our Board and, as a result, this year has been 
+a stable year with no changes to the Board 
+or its Committees. In future appointments to 
+and succession planning for the Board (and 
+already within the business), we will take into 
+account the need for diversity generally and 
+support the principle of encouraging women 
+in the Group. The Board has not set express 
+diversity quotas or measurable objectives 
+for implementing its policy as such, but it is 
+the Board and management’s intention that 
+female talent, as one element of diversity, 
+is encouraged. 
+The Board holds all its strategic decision 
+making meetings at the Group’s US offices 
+and, as a result, takes the opportunity to 
+meet with members of the Executive Team 
+and to build on knowledge of the business. 
+There are regular interactive presentations 
+from, and discussions with, the Executive 
+Team and in 2015, these have included the 
+topics of product strategy, global business 
+development progress and progress 
+against the business plan.
+Lastly, if you are able to find the time to 
+attend our AGM on 25 May 2016, my fellow 
+Directors and I look forward to seeing you. 
+It is an excellent opportunity to meet the 
+Board and to raise questions on the matters 
+in hand at the meeting.
+Paul Walker
+Chairman
+24 March 2016
+ 
+The Board remains 
+committed to the 
+maintenance of 
+high standards 
+of corporate 
+governance. 
+WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 24
+CHAIRMAN’S INTRODUCTION TO GOVERNANCE
+I am delighted to address you on the topic of governance. Whilst, 
+as an AIM company, WANdisco plc is not required to comply with 
+the UK Corporate Governance Code 2014 (“the Code”), the Board 
+recognises the importance of the principles set out in the Code 
+and remains committed to the maintenance of high standards 
+of corporate governance.
+Paul Walker, Chairman
+HIGH STANDARDS OF 
+CORPORATE GOVERNANCE The Board is responsible for the 
+long-term success of the Group. 
+It sets strategic aims and oversees 
+implementation within a framework 
+of prudent and effective controls. 
+GOVERNANCE
+WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 25
+CORPORATE GOVERNANCE REPORT
+Board composition
+Non-executive Director 
+(including the Chairman) (2)
+Executive Director (3)
+Company Secretary (1)
+Sector experience
+Technology (80%)
+Other (20%)
+Tenure
+0–3 years (100%)
+Board composition
+The Board comprises three Executive and 
+two Non-executive Directors (including 
+the Chairman). This ensures compliance with 
+the UK Corporate Governance Code 2014, 
+which states that a smaller company should 
+have at least two independent directors. 
+Board responsibilities
+The Board is responsible for the long-term 
+success of the Group. It sets strategic aims 
+and oversees implementation within a 
+framework of prudent and effective controls, 
+ensuring only acceptable risks are taken. 
+It provides leadership and direction and is also 
+responsible for corporate governance and the 
+overall financial performance of the Group. 
+The Board has agreed the schedule of matters 
+reserved for its decision, which includes ensuring 
+that the necessary financial and human resources 
+are in place to meet its obligations to its 
+shareholders and others. It also approves 
+acquisitions and disposals of businesses, 
+major capital expenditure and annual 
+financial budgets and sets dividend policy. 
+Comprehensive Board papers are circulated 
+before Board meetings in sufficient time to 
+enable their review and consideration 
+in advance of meetings.
+Board meetings and attendance
+There were five scheduled Board meetings 
+in 2015 with an additional four informal update 
+meetings and three short notice Board meetings 
+held as necessary, resulting in a total of twelve 
+Board meetings during the course of the year. 
+The table below shows the number of Board 
+meetings and Audit, Remuneration and 
+Nomination Committee meetings held during 
+the year and the attendance of each Director.
+Committee meetings
+Board meetings* Audit Remuneration Nomination
+Possible Attended Possible Attended Possible Attended Possible Attended
+Executive Directors
+David Richards 5 5 — — — — — —
+James Campigli 5 5 — — — — — —
+Paul Harrison 5 5 — — — — — —
+Non-executive Directors
+Paul Walker 5 5 3 3 4 4 1 1
+Ian Duncan 5 5 3 3 4 4 1 1
+*  There were an additional four informal update meetings attended by all, and another three meetings 
+called at short notice with full attendance by all Directors with the exception of one meeting which, 
+for practical reasons, could not be attended by Messrs Campigli, Walker and Duncan. WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 26
+Board Committees
+To assist the Board in carrying out its functions and to ensure that there is independent oversight of internal controls and risk management, 
+the Board delegates certain responsibilities to its three principal Committees as shown in the governance framework diagram below.
+More detail on each of the Committees can be found on pages 28 to 31.
+CORPORATE GOVERNANCE REPORT CONTINUED
+Board activities throughout the year: At each scheduled meeting:
+January (three short notice meetings)
+• Consideration and approval 
+of non-pre-emptive conditional 
+placing of shares
+February
+• Informal, update meeting
+March
+• Review and approval of preliminary 
+announcement of FY14 results
+• Review and approval of Annual Report 
+and Accounts 2014
+• Consideration and approval of 
+appointment of external auditor
+• Review of Non-executive Director fees
+• Review of product strategy
+• Review of global business 
+development progress
+• Review of the level of voluntary compliance 
+with the UK Corporate Governance Code
+April
+• Review and approval of certain tax matters 
+June
+• Review of product strategy
+• Review of performance against 
+the 2015 Business Plan
+July
+• Review of performance generally
+September (two meetings)
+• Review and approval of the 2016 
+Business Plan
+• Review and approval of the 2015 
+interim results announcement
+• In addition, an informal update meeting
+October
+• Informal update meeting
+December
+• Informal update meeting
+Review and approval of the 2016 
+budget was deferred from early 
+December 2015 to early January 2016.
+Discuss:
+• Strategic and operational matters
+• Trading results
+• Management accounts and 
+financial commentary
+• Treasury matters
+• Legal, company secretarial 
+and regulatory matters
+• Investor relations
+• Corporate affairs
+Review:
+• Minutes of previous meetings
+• The implementation of actions 
+agreed at previous meetings
+• The rolling annual agenda items
+Governance framework
+Audit  
+Committee
+Nomination 
+Committee
+Remuneration 
+Committee
+Chaired by the Chief Executive Officer, it 
+comprises the three Executive Directors and 
+senior management representation from product, 
+marketing, engineering, business development, 
+finance, sales and support. It assists the Executive 
+Directors in implementing the business plan and 
+policies and managing the operational and 
+financial performance of the Company.
+SEE PAGE 28
+FOR MORE INFORMATION
+SEE PAGE 29
+FOR MORE INFORMATION
+Executive Team
+Board
+SEE PAGES 30 TO 31
+FOR MORE INFORMATION GOVERNANCE
+WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 27
+Board effectiveness
+The performance of the Board was evaluated 
+informally on an ongoing basis with reference 
+to all aspects of its operation including, but not 
+limited to: the appropriateness of its skill level; 
+the way its meetings were conducted and 
+administered (including the content of those 
+meetings); the effectiveness of the various 
+Committees; whether corporate governance 
+issues were handled in a satisfactory manner; 
+and whether there was a clear strategy and 
+objectives. The conclusion was that the 
+Board was performing as expected.
+Each Director’s performance is appraised 
+through the normal appraisal process. Save for 
+the Chief Executive, who was appraised by the 
+Chairman, the Executive Board members were 
+appraised by the Chief Executive. The Chairman 
+was appraised by the other Non-executive 
+Director and that Non-executive Director 
+was appraised by the Chairman.
+Directors’ independence
+The Non-executive Directors are 
+considered by the Board to be independent 
+of management and are free to exercise 
+independence of judgement. They have 
+never been employees of the Group nor 
+do they participate in the Group’s bonus 
+arrangements. They receive no other 
+remuneration from the Group other 
+than Directors’ fees. 
+Board appointments
+Whilst there were no new appointments 
+in the year, a new Director, on appointment, 
+is briefed on the activities of the Group. 
+Professional induction training is also given as 
+appropriate. The Chairman briefs Non-executive 
+Directors on issues arising at Board meetings 
+if required and Non-executive Directors have 
+access to the Chairman at any time. Ongoing 
+training is provided as needed. Directors were 
+updated on a frequent and regular basis on 
+the Group’s business.
+Directors are subject to re-election at the 
+Annual General Meeting following their 
+appointment. In addition, at each Annual 
+General Meeting one-third (or the whole 
+number nearest to one-third) of the 
+Directors retire by rotation.
+Access to independent advice 
+and support
+In the furtherance of his duties or in relation 
+to acts carried out by the Board or the Group, 
+each Director has been informed that he is 
+entitled to seek independent professional 
+advice at the expense of the Company. The 
+Company maintains appropriate cover under 
+a directors’ and officers’ insurance policy in 
+the event of legal action being taken against 
+any Director. Each Director has access to the 
+advice and services of the Company Secretary 
+if required, who is responsible to the Board 
+as a whole for ensuring that Board procedures 
+are properly followed and that applicable 
+rules and regulations are complied with.
+Internal controls and risk management
+The Board is responsible for the Group’s 
+system of internal controls and for reviewing 
+its effectiveness. Such a system is designed 
+to mitigate against and manage, rather than 
+eliminate, the risk of failure to achieve 
+business objectives and can only provide 
+reasonable and not absolute assurance 
+against material misstatement or loss.
+Executive management considered the 
+potential financial and non-financial risks 
+which may impact on the business as part 
+of the quarterly management reporting 
+procedures. The Board received the principal 
+risk outputs of these quarterly management 
+reports and monitored the position at Board 
+meetings. The principal risks are set out on 
+pages 16 and 17.
+The Board confirms that there are ongoing 
+processes for identifying, evaluating and 
+mitigating the significant risks faced by the 
+Group. The processes, which have been in 
+place throughout the year and up to the date 
+of approval of the Annual Report and Accounts, 
+are consistent, so far as is appropriate for the 
+nature and size of the Group’s business, with 
+the guidance issued by the Financial 
+Reporting Council.
+The Group’s internal financial control 
+and monitoring procedures include:
+• clear responsibility on the part of line and 
+financial management for the maintenance 
+of good financial controls and the production 
+of accurate and timely financial 
+management information;
+• the control of key financial risks through 
+appropriate authorisation levels and 
+segregation of accounting duties;
+• detailed monthly budgeting and reporting 
+of trading results, balance sheets and cash 
+flows, with regular review by management 
+of variances from budget;
+• reporting on any non-compliance with 
+internal financial controls and procedures; and 
+• review of reports issued by the external auditor.
+The Audit Committee on behalf of the Board 
+reviewed reports from the external auditor 
+together with management’s response 
+regarding proposed actions. In this manner, it 
+has reviewed the effectiveness of the system 
+of internal controls for the year under review.
+Shareholder communications
+The Chief Executive Officer and the 
+Chief Financial Officer regularly meet with 
+institutional shareholders to foster a mutual 
+understanding of objectives. In particular, 
+an extensive programme of meetings with 
+analysts and institutional shareholders is held 
+following the interim and preliminary results 
+announcements. Feedback from these 
+meetings and market updates prepared by 
+the Company’s Nomad are presented to the 
+Board to ensure they have an understanding 
+of shareholders’ views. The Chairman and 
+the other Non-executive Director are available 
+to shareholders to discuss strategy and 
+governance issues. 
+The Directors encourage the participation 
+of all shareholders, including private investors, 
+at the Annual General Meeting and as a matter 
+of policy the level of proxy votes (for, against 
+and vote withheld) lodged on each resolution 
+is declared shortly after the meeting by means 
+of an announcement on the London Stock 
+Exchange and via the Company’s website.
+The Annual Report and Accounts is published 
+on the Company’s website, www.wandisco.com, 
+and can be accessed by shareholders. WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 28
+Committee composition
+Ian Duncan is the Chairman of the Committee 
+and the other member of the Committee is 
+Paul Walker. The Board considers Ian Duncan 
+to have relevant and recent financial experience 
+given his biography set out on page 23.
+Committee responsibilities
+The Audit Committee (“the Committee”) 
+is established by and is responsible to the 
+Board. It has written terms of reference, which 
+are available for review at www.wandisco.com. 
+Its main responsibilities are:
+• to monitor and be satisfied with the 
+truth and fairness of the Group’s financial 
+statements before submission to the Board 
+for approval, ensuring their compliance 
+with the appropriate accounting standards, 
+the law and the AIM Rules;
+• to monitor and review the effectiveness 
+of the Group’s system of internal control;
+• to make recommendations to the Board in 
+relation to the appointment of the external 
+auditor and its remuneration, following 
+appointment by the shareholders in general 
+meeting, and to review and be satisfied 
+with the auditor’s independence, objectivity 
+and effectiveness on an ongoing basis; and
+• to implement the policy relating to any 
+non-audit services performed by the 
+external auditor.
+The Committee is authorised by the Board 
+to seek and obtain any information it requires 
+from any officer or employee of the Group 
+and to obtain external legal or other 
+independent professional advice 
+as is deemed necessary by it.
+Committee meetings
+There were three meetings of the Committee 
+during the year scheduled to coincide with 
+the review of the scope of the external audit 
+and observations arising from its work in 
+relation to internal control and to review the 
+financial statements. A fourth meeting, which 
+was originally scheduled for December 2015, 
+was held in January 2016. The external auditor 
+attended all three of these meetings. Since 
+the end of the financial year, the Committee 
+has met twice (in January and March 2016) 
+to consider, amongst other matters, this 
+Annual Report, with the external auditor 
+being present at both of these meetings. 
+The Committee also met with the external 
+auditor, without the Executive Directors 
+being present, once during the year.
+The Audit Committee carried out a full review 
+of the year-end financial statements and of 
+the audit, using as a basis the reports to the 
+Committee prepared by the CFO and external 
+auditor and taking into account any significant 
+accounting policies, any changes to them 
+and any significant estimates or judgements. 
+Questions were asked of management 
+of any significant or unusual transactions 
+where the accounting treatment could 
+be open to different interpretations. 
+The Committee received reports from 
+management on the effectiveness of the 
+system of internal controls. It also received 
+from the external auditor a report of matters 
+arising during the course of the audit, which 
+the auditor deemed to be of significance for 
+the Committee’s attention. The statement 
+on internal controls and the management of 
+risk, which is included in the Annual Report, 
+is approved by the Committee.
+Significant matters considered by the 
+Committee in relation to the financial 
+statements and areas of judgement routinely 
+considered and challenged were as follows: 
+• revenue recognition;
+• commission costs;
+• capitalised development costs and other 
+intangible assets;
+• share-based payments; and
+• going concern.
+The Committee is satisfied that the 
+judgements made by management are 
+reasonable and that appropriate disclosures 
+in relation to key judgements and estimates 
+have been included in the financial statements. 
+In reaching this conclusion the Committee 
+has considered reports and analysis prepared 
+by management and has also constructively 
+challenged assumptions. The Committee has 
+also considered detailed reporting from and 
+discussions with the external auditor.
+Committee performance
+The Committee carried out an annual 
+assessment of its own performance during 
+the year and the conclusion was that the 
+Committee was performing as expected.
+External auditor
+KPMG has been the external auditor since 
+2012, when the Company’s shares were 
+admitted to trading on AIM. As such, an 
+audit partner rotation process commenced 
+in 2015, with shadowing of the existing audit 
+partner anticipated in 2016 in time for the 
+2017 rotation.
+As required, the external auditor provided 
+the Committee with information for review 
+about policies and processes for maintaining 
+its independence and compliance regarding 
+the rotation of audit partners and staff. The 
+Committee considered all relationships 
+between the external auditor and the 
+Group and was satisfied that they did 
+not compromise the auditor’s judgement 
+or independence particularly with the 
+provision of non-audit services. 
+An internal review of the effectiveness of the 
+external audit process was carried out during 
+the year and no deficiencies were found. 
+Management was satisfied with the external 
+audit team’s knowledge of the business and 
+that the scope of the audit was appropriate, 
+all significant accounting judgements had 
+been challenged robustly and the audit had 
+been effective.
+All of the above was taken into account 
+before a recommendation was made by 
+the Committee to the Board to propose 
+KPMG for re-election at the AGM.
+Internal audit function
+Given the Group’s size and development, 
+the Board did not consider it necessary 
+to have an internal audit function during 
+the year. The Board will continue to 
+monitor this requirement annually.
+AUDIT COMMITTEE REPORT
+Ian Duncan, Committee Chairman GOVERNANCE
+WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 29
+Committee composition
+The Nomination Committee is chaired 
+by Paul Walker and the other member 
+of the Committee is Ian Duncan. 
+Committee responsibilities
+The primary purpose of the Committee is 
+to lead the process for Board appointments 
+and to make recommendations to the Board 
+to achieve the optimal composition of the 
+Board having regard to:
+• its size and composition;
+• the extent to which required skills, experience 
+or attributes are represented; 
+• the need to maintain the highest standard 
+of corporate governance; and
+• ensuring that it consists of individuals who 
+are best able to discharge the responsibilities 
+of Directors.
+It has written terms of reference, which are 
+available for review at www.wandisco.com.
+Committee meetings
+The Nomination Committee met once 
+in the year, with the Chief Executive Officer 
+in attendance. The Nomination Committee 
+considered the composition of the Board 
+and determined that it was not yet an 
+appropriate time to recommend the 
+addition of a further Non-executive 
+Director to the Board.
+The Board has considered diversity in broader 
+terms than just gender and believes it is also 
+important to reach the correct balance of skills, 
+experience, independence and knowledge 
+on the Board. All Board appointments will be 
+made on merit and with the aim of achieving 
+a correct balance. The Group has formal 
+policies in place to promote equality of 
+opportunity across the whole organisation 
+and training is provided to assist this. 
+The Board currently does not have any women 
+on the Board, although the Company Secretary 
+is female. As opportunities arise the Board 
+will seek to increase the presence of women 
+on the Board consistent with the above 
+policy and the terms of reference of 
+the Nomination Committee.
+NOMINATION COMMITTEE REPORT
+Paul Walker, Committee Chairman WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 30
+The Remuneration Committee
+Committee composition
+The Remuneration Committee is chaired by 
+Paul Walker and the other member of the 
+Committee is Ian Duncan. 
+Committee responsibilities
+The Remuneration Committee’s primary 
+purpose is to assist the Board in determining 
+the Company’s remuneration policies and, in 
+so doing, agree the framework for Executive 
+Directors’ remuneration with the Board. It 
+has written terms of reference, which are 
+available for review at www.wandisco.com.
+Committee meetings
+The Remuneration Committee met four times 
+in the year, with the other Board members in 
+attendance as appropriate.
+Remuneration Committee report
+As an AIM listed company, WANdisco plc 
+is not required to comply with Schedule 8 to 
+the Large and Medium-sized Companies and 
+Groups (Accounts and Reports) Regulations 
+2008. The content of this report is unaudited 
+unless stated.
+Membership of the 
+Remuneration Committee
+During the year, the Remuneration Committee 
+comprised the Non-executive Chairman 
+(Paul Walker) and the Non-executive Director 
+(Ian Duncan).
+The Remuneration Committee reviews 
+the performance of the Executive Directors 
+and makes recommendations to the Board 
+on matters relating to remuneration, terms 
+of service, granting of share options and 
+other equity incentives.
+Remuneration policy
+The objectives of the remuneration policy 
+are to ensure that the overall remuneration 
+of Executive Directors is aligned with the 
+performance of the Group and preserves 
+an appropriate balance of income and 
+shareholder value.
+Non-executive Directors
+Remuneration of the Non-executive Directors 
+is determined by the Executive Directors. 
+Non-executive Directors are not entitled 
+to pensions, annual bonuses or employee 
+benefits. They are entitled to participate in 
+share option arrangements relating to the 
+Company’s shares but neither of them does at 
+this time. Each of the Non-executive Directors 
+has a letter of appointment stating his annual 
+fee and that his appointment is initially for 
+a term of three years renewable for further 
+periods of three years. Their appointment 
+may be terminated with three months’ 
+written notice at any time.
+Directors’ remuneration
+The normal remuneration arrangements 
+for Executive Directors consist of basic salary 
+and annual performance-related bonuses. 
+In addition, they receive private health care. 
+The Committee intends to make further 
+awards under the Long-Term Incentive Plan 
+(“LTIP”) during 2016. Details of any awards 
+will be disclosed in next year’s Remuneration 
+Committee report.
+2015 annual bonus
+The 2015 Bonus Plan comprised a target 
+bonus of 75% of salary and a maximum bonus 
+opportunity of 100% of salary. The Company 
+operates a scorecard which reflects its financial 
+and strategic KPIs. Executive Directors will 
+be rewarded for their contribution to these 
+goals as well as the achievement of 
+personal objectives.
+Based on the 2015 KPIs, the Company 
+met the following targets: a) cost control, 
+b) launch of WANdisco Fusion, c) ALM targets 
+and d) DConE 1.3 release, but did not meet 
+the bookings target. Having regard to 
+the performance of the business, the 
+Remuneration Committee resolved 
+to pay bonuses as set out on page 31.
+Based on the criteria established by the 
+Remuneration Committee for 2015, the 
+Executive Directors could have received 
+annual bonuses totalling 68% of salary 
+which equated to 91% of target. However, 
+despite the achievement of certain financial 
+KPIs that related to cost management, the 
+underperformance on bookings resulted in 
+the Committee exercising its discretion to 
+reduce bonus outcomes. As a result, a bonus 
+of 37.5% of salary (equating to 50% of target) 
+has been accrued and shall be paid at such 
+time as the Committee considers is appropriate, 
+taking into account the delivery of certain 
+business performance targets.
+Similar bonus principles will be adopted for 
+2016. Performance targets and weightings 
+were set by the Remuneration Committee 
+at the start of the year.
+REMUNERATION COMMITTEE AND REMUNERATION REPORT
+Paul Walker, Committee Chairman GOVERNANCE
+WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 31
+Directors’ interests
+Details of the Directors’ shareholdings are included in the Directors’ report on page 32.
+Directors’ share options
+Aggregate emoluments disclosed below do not include any amounts for the value of options to acquire ordinary shares in the Company 
+granted to or held by the Directors. Details of options for Directors who served during the year are as follows:
+Number of
+options at
+31 December Exercise
+2015 price
+Executive
+David Richards 97,441 $0.16
+James Campigli 62,931 $0.16
+Paul Harrison 558,183 $0.16
+Non-executive
+Paul Walker (Chairman) — —
+Ian Duncan — —
+This table is audited.
+31 December 31 December
+2015 2014
+Payment Salary/fees Bonus Benefits 
+1
+Total Total
+currency ’000 ’000 ’000 ’000 ’000
+Executive
+David Richards $ 487 184 26 697 645
+James Campigli $ 315 119 17 451 436
+Paul Harrison $ 487 184 160 831 665
+Non-executive
+Paul Walker (Chairman) £ 130 — — 130 110
+Ian Duncan £ 70 — — 70 40
+Notes:
+1  Benefits include the provision of private health insurance for Executive Directors and their immediate families. In addition, on 31 August 2015, Paul Harrison 
+was awarded a tax equalisation claim of $142,000 (gross) as part of his employment agreement. 
+The total Directors’ remuneration for the period ended 31 December 2015, in US dollars, was $2,284,000 (2014: $1,992,000).
+Paul Walker
+Chairman of the Remuneration Committee
+24 March 2016 WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 32
+The Directors present their report and the 
+audited financial statements for the year 
+ended 31 December 2015.
+Principal activity
+The principal activity of the Group is the 
+development and provision of global 
+collaboration software.
+Business review and future developments
+A review of the Group’s operations and future 
+developments is covered in the Strategic report 
+section of the Annual Report and Accounts on 
+pages 6 to 21. This report includes sections on 
+strategy and markets and considers key risks 
+and key performance indicators.
+Financial results
+Details of the Group’s financial results are set 
+out in the Consolidated statement of profit 
+and loss and other comprehensive income 
+and other components on pages 36 to 60.
+Dividends
+The Directors do not recommend the 
+payment of a dividend.
+Going concern
+After making enquiries, the Directors have 
+confidence the Group has adequate resources 
+to continue in operational existence for the 
+foreseeable future. For this reason they continue 
+to adopt the going concern basis in preparing 
+the Annual Report and Accounts. This is 
+described in more detail in Note 2.
+Annual General Meeting
+On pages 62 to 64 is the notice of the 
+Company’s fourth Annual General Meeting 
+to be held at 10am on 25 May 2016 at the 
+offices of WANdisco plc in Sheffield.
+Directors
+The Directors who served on the Board 
+and on Board Committees during the year 
+are set out on pages 22 and 23. One-third 
+of the Directors are required to retire at the 
+Annual General Meeting and can offer 
+themselves for re-election. 
+The Directors benefited from qualifying third 
+party indemnity provisions in place during the 
+financial year and at the date of this report.
+Information on Directors’ remuneration and 
+share option rights is given in the Remuneration 
+Committee report on pages 30 and 31.
+% of issued
+ordinary
+Number share
+of shares capital
+Oppenheimer 5,276,000 17.66%
+Schroder Investment Management 3,464,870 11.60%
+Dr Yeturu Aahlad 2,825,021 9.45%
+David Richards 2,783,153 9.31%
+T Rowe Price 2,138,676 7.16%
+James Campigli 1,544,143 5.17%
+Global Asset Management 1,454,623 4.87%
+Directors’ shareholdings
+The beneficial interests of the Directors in the share capital of the Company at 31 December 2015 and at 24 March 2016 were as follows:
+31 December 2015 24 March 2016
+% of issued % of issued
+ordinary ordinary
+Number share Number share
+of shares capital of shares capital
+Executive
+David Richards 2,783,153 9.41% 2,783,153 9.31%
+James Campigli 1,544,143 5.22% 1,544,143 5.17%
+Paul Harrison 70,285 0.24% 191,455 0.64%
+Non-executive
+Paul Walker (Chairman) 111,111 0.38% 111,111 0.37%
+Ian Duncan — — — —
+DIRECTORS’ REPORT
+Significant shareholders
+The Company is informed that, at 24 March 2016, individual registered shareholdings of more than 3% of the Company’s issued share capital 
+were as follows: GOVERNANCE
+WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 33
+None of the Directors had any interest in 
+the share capital of any subsidiary company. 
+Further details of options held by the 
+Directors are set out in the Remuneration 
+Committee report on pages 30 and 31.
+The middle market price of the Company’s 
+ordinary shares on 31 December 2015 was 
+86.00 pence and the range during the year 
+was 77.50 pence to 540.00 pence with an 
+average price of 236.21 pence.
+Research and development
+The Group expended $8,369,000 
+during the year (2014: $9,040,000) on 
+research and development, of which 
+$8,369,000 (2014: $9,040,000) was capitalised 
+within intangible assets and $nil (2014: $nil) 
+was charged to the income statement. 
+In addition, an amortisation charge of 
+$8,548,000 (2014: $6,855,000) has been 
+recognised against previously capitalised costs.
+Derivatives and financial instruments
+The Group’s policy and exposure to 
+derivatives and financial instruments 
+is set out in Note 19.
+Employee involvement
+It is the Group’s policy to involve employees 
+in its progress, development and performance. 
+Applications for employment by disabled 
+persons are fully considered, bearing in mind 
+the respective aptitudes and abilities of the 
+applicants concerned. The Group is a 
+committed equal opportunities employer 
+and has engaged employees with broad 
+backgrounds and skills.
+It is the policy of the Group that the 
+training, career development and promotion 
+of a disabled person should, as far as possible, 
+be identical to that of a person who does not 
+have a disability. In the event of members of 
+staff becoming disabled, every effort is made 
+to ensure that their employment with the 
+Group continues.
+Political and charitable donations
+During the year ended 31 December 2015 
+the Group made political donations of $nil 
+(2014: $nil) and charitable donations of 
+$9,960 (2014: $168).
+Supplier payment policy and practice
+The Group does not operate a standard 
+code in respect of payments to suppliers. 
+The Group agrees terms of payment with 
+suppliers at the start of business and then 
+makes payments in accordance with 
+contractual and other legal obligations.
+The number of creditor days outstanding at 
+31 December 2015 was 28 days (2014: 45 days).
+Disclosure of information to auditor
+The Directors who held office at the date 
+of approval of this Directors’ report confirm that, 
+so far as they are aware, there is no relevant 
+audit information of which the Company’s 
+auditor is unaware and each Director has taken 
+all the steps that he or she ought to have taken 
+to make himself or herself aware of any relevant 
+audit information and to establish that the 
+Company’s auditor is aware of that information.
+Auditor
+A resolution for the re-appointment of 
+KPMG LLP as auditor of the Company is to 
+be proposed at the forthcoming Annual 
+General Meeting.
+By order of the Board
+Paul Harrison
+Chief Financial Officer
+24 March 2016 WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 34
+The Directors are responsible for preparing the financial statements in accordance with applicable law and International Financial Reporting 
+Standards (“IFRS”).
+Company law requires the Directors to prepare financial statements for each financial year which give a true and fair view of the state 
+of affairs of the Group and of the profit or loss of the Group for that period. As required by the AIM Rules of the London Stock Exchange, 
+they are required to prepare the financial statements in accordance with IFRS as adopted by the European Union (”EU”) and applicable law. 
+In preparing these financial statements, the Directors are required to:
+• select suitable accounting policies and apply them consistently;
+• make judgements and estimates which are reasonable and prudent;
+• state whether they have been prepared in accordance with IFRS as adopted by the EU; and
+• prepare the financial statements on the going concern basis unless it is inappropriate to presume that the Group will continue in business.
+The Directors are responsible for keeping proper accounting records that disclose with reasonable accuracy at any time the financial 
+position of the Group and enable them to ensure that the financial statements comply with the Companies (Jersey) Law 1991. They are 
+also responsible for safeguarding the assets of the Group and hence for taking reasonable steps for the prevention and detection of fraud 
+and other irregularities. 
+STATEMENT OF DIRECTORS’ RESPONSIBILITIES
+IN RESPECT OF THE ANNUAL REPORT AND THE FINANCIAL STATEMENTS WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 35
+FINANCIAL STATEMENTS
+We have audited the Group financial statements of WANdisco plc for the year ended 31 December 2015 which comprise the Consolidated 
+statement of profit and loss and other comprehensive income, the Consolidated balance sheet, the Consolidated statement of changes 
+in equity, the Consolidated statement of cash flows, and the related notes. The financial reporting framework that has been applied in 
+their preparation is applicable law and IFRS as adopted by the EU.
+This report is made solely to the Company’s members, as a body, in accordance with Article 113A of the Companies (Jersey) Law 1991. 
+Our audit work has been undertaken so that we might state to the Company’s members those matters we are required to state to them in 
+an auditor’s report and for no other purpose. To the fullest extent permitted by law, we do not accept or assume responsibility to anyone 
+other than the Company and the Company’s members as a body, for our audit work, for this report, or for the opinions we have formed. 
+Respective responsibilities of Directors and auditors
+As explained more fully in the Statement of Directors’ responsibilities set out on page 34, the Directors are responsible for the preparation 
+of financial statements which give a true and fair view. Our responsibility is to audit, and express an opinion on, the financial statements 
+in accordance with applicable law and International Standards on Auditing (UK and Ireland). Those standards require us to comply with 
+the Auditing Practices Board’s Ethical Standards for Auditors.
+Scope of the audit of the financial statements
+An audit involves obtaining evidence about the amounts and disclosures in the financial statements sufficient to give reasonable assurance 
+that the financial statements are free from material misstatement, whether caused by fraud or error. This includes an assessment of: 
+whether the accounting policies are appropriate to the Group’s circumstances and have been consistently applied and adequately disclosed; 
+the reasonableness of significant accounting estimates made by the Directors; and the overall presentation of the financial statements. 
+In addition, we read all the financial and non-financial information in the annual report to identify material inconsistencies with the audited 
+financial statements and to identify any information that is apparently materially incorrect based on, or materially inconsistent with, 
+the knowledge acquired by us in the course of performing the audit. If we become aware of any apparent material misstatements 
+or inconsistencies we consider the implications for our report.
+Opinion on financial statements
+In our opinion the financial statements:
+• give a true and fair view, in accordance with IFRS as adopted by the EU of the state of the Group’s affairs as at 31 December 2015 
+and of the Group’s loss for the year then ended; and
+• have been properly prepared in accordance with the Companies (Jersey) Law 1991.
+Matters on which we are required to report by exception
+We have nothing to report in respect of the following matters where the Companies (Jersey) Law 1991 requires us to report to you if, 
+in our opinion:
+• proper accounting records have not been kept by the Company; or
+• proper returns adequate for our audit have not been received from branches not visited by us; or
+• the Company financial statements are not in agreement with the accounting records and returns; or
+• we have not received all the information and explanations we require for our audit.
+Johnathan Pass
+for and on behalf of KPMG LLP
+Chartered Accountants
+24 March 2016
+Notes
+The maintenance and integrity of the WANdisco.com website is the responsibility of the Directors; the work carried out by auditors does 
+not involve consideration of these matters and accordingly, KPMG LLP accepts no responsibility for any changes that may have occurred 
+to the financial statements or our audit report since 24 March 2016. KPMG LLP has carried out no procedures of any nature subsequent 
+to 24 March 2016 which in any way extends this date.
+Legislation in Jersey governing the preparation and dissemination of financial statements may differ from legislation in other jurisdictions. 
+The Directors shall remain responsible for establishing and controlling the process for doing so, and for ensuring that the financial statements 
+are complete and unaltered in any way.
+INDEPENDENT AUDITOR’S REPORT
+TO THE MEMBERS OF WANDISCO PLC WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 36
+Year ended 31 December 2015 Year ended 31 December 2014
+Pre- Exceptional Pre- Exceptional
+exceptional items Total exceptional items Total
+Continuing operations Notes $’000 $’000 $’000 $’000 $’000 $’000
+Revenue 5 10,994 — 10,994 11,218 — 11,218
+Cost of sales (749) — (749) (2,165) — (2,165)
+Gross profit 10,245 — 10,245 9,053 — 9,053
+Operating expenses 6 (40,160) (614) (40,774) (47,529) (1,441) (48,970)
+Loss from operations (29,915) (614) (30,529) (38,476) (1,441) (39,917)
+Finance income 9 59 — 59 584 — 584
+Finance costs 9 (565) — (565) (27) — (27)
+Net finance (costs)/income 9 (506) — (506) 557 — 557
+Loss before tax 8 (30,421) (614) (31,035) (37,919) (1,441) (39,360)
+Income tax 11 1,129 — 1,129 1,053 — 1,053
+Loss for the year (29,292) (614) (29,906) (36,866) (1,441) (38,307)
+Other comprehensive income
+Items that are or may be reclassified to profit or loss:
+Foreign operations – foreign currency translation differences 55 — 55 (444) — (444)
+Other comprehensive income for the year, net of tax 55 — 55 (444) — (444)
+Total comprehensive income for the year (29,237) (614) (29,851) (37,310) (1,441) (38,751)
+Loss per share
+Basic and diluted 12 $1.04 $1.59
+CONSOLIDATED STATEMENT OF PROFIT AND LOSS AND OTHER COMPREHENSIVE INCOME
+FOR THE YEAR ENDED 31 DECEMBER 2015 WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 37
+FINANCIAL STATEMENTS
+Re-presented
+(Note 2)
+2015 2014
+Notes $’000 $’000
+Assets
+Intangible assets 13 8,583 9,814
+Property, plant and equipment 14 230 410
+Non-current assets 8,813 10,224
+Trade and other receivables 16 6,728 6,447
+Cash and cash equivalents 17 2,555 2,481
+Current assets 9,283 8,928
+Total assets 18,096 19,152
+Liabilities
+Borrowings – finance lease liabilities — (8)
+Trade and other payables 18 (2,714) (3,195)
+Deferred income 18 (6,060) (6,076)
+Deferred government grant (28) (81)
+Current tax liabilities — (2)
+Current liabilities (8,802) (9,362)
+Deferred income 18 (3,697) (5,188)
+Deferred tax liabilities 11 (5) (5)
+Non-current liabilities (3,702) (5,193)
+Total liabilities (12,504) (14,555)
+Net assets 5,592 4,597
+Equity
+Share capital 20 4,667 3,879
+Share premium 20 81,974 56,587
+Translation reserve 20 (247) (302)
+Merger reserve 20 1,247 1,247
+Retained earnings 20 (82,049) (56,814)
+Total equity 5,592 4,597
+The financial statements on pages 36 to 60 were approved by the Board of Directors on 24 March 2016 and signed on its behalf by:
+David Richards  Paul Harrison
+Chief Executive Officer Chief Financial Officer
+Company registered number: 110497
+CONSOLIDATED BALANCE SHEET
+AS AT 31 DECEMBER 2015 WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 38
+Share Share Translation Merger Retained Total
+capital premium reserve reserve earnings equity
+$’000 $’000 $’000 $’000 $’000 $’000
+Balance at 1 January 2015 3,879 56,587 (302) 1,247 (56,814) 4,597
+Total comprehensive income for the year 
+Loss for the year — — — — (29,906) (29,906)
+Other comprehensive income — — 55 — — 55
+Total comprehensive income for the year — — 55 — (29,906) (29,851)
+Transactions with owners of the Company
+Contributions and distributions
+Equity-settled share-based payment — — — — 4,671 4,671
+Proceeds from share placing 737 25,341 — — — 26,078
+Share options exercised 51 46 — — — 97
+Total transactions with owners of the Company 788 25,387 — — 4,671 30,846
+Balance at 31 December 2015 4,667 81,974 (247) 1,247 (82,049) 5,592
+Share Share Translation Merger Retained Total
+capital premium reserve reserve earnings equity
+$’000 $’000 $’000 $’000 $’000 $’000
+Balance at 1 January 2014 3,755 53,882 142 1,247 (30,353) 28,673
+Total comprehensive income for the year 
+Loss for the year — — — — (38,307) (38,307)
+Other comprehensive income — — (444) — — (444)
+Total comprehensive income for the year — — (444) — (38,307) (38,751)
+Transactions with owners of the Company
+Contributions and distributions
+Shares issued as part of OhmData, Inc. acquisition 47 2,317 — — (1,502) 862
+Equity-settled share-based payment — — — — 13,348 13,348
+Share options exercised 77 388 — — — 465
+Total transactions with owners of the Company 124 2,705 — — 11,846 14,675
+Balance at 31 December 2014 3,879 56,587 (302) 1,247 (56,814) 4,597
+CONSOLIDATED STATEMENT OF CHANGES IN EQUITY
+FOR THE YEAR ENDED 31 DECEMBER 2015 WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 39
+FINANCIAL STATEMENTS
+2015 2014
+Notes $’000 $’000
+Cash flows from operating activities
+Loss for the year (29,906) (38,307)
+Adjustments for:
+– Depreciation of property, plant and equipment 14 270 267
+– Amortisation of intangible assets 13 9,600 8,283
+– Net finance costs/(income) 133 (31)
+– Income tax 11 (1,129) (1,053)
+– Foreign exchange 42 156
+– Equity-settled share-based payment 21 4,671 13,348
+(16,319) (17,337)
+Changes in:
+– Trade and other receivables 275 (2,938)
+– Trade and other payables (432) 737
+– Deferred income (1,507) 6,145
+– Deferred government grant (49) (147)
+Net working capital change (1,713) 3,797
+Cash used in operating activities (18,032) (13,540)
+Interest paid (192) (11)
+Income tax received/(paid) 552 (3)
+Net cash used in operating activities (17,672) (13,554)
+Cash flows from investing activities
+Purchase of property, plant and equipment and computer software 14 (95) (475)
+Development expenditure 13 (8,369) (9,040)
+Interest received 9 59 58
+Net cash used in investing activities (8,405) (9,457)
+Cash flows from financing activities
+Net proceeds from share issues 26,175 465
+Payment of finance lease liabilities (8) (27)
+Net cash from financing activities 26,167 438
+Net increase/(decrease) in cash and cash equivalents 90 (22,573)
+Cash and cash equivalents at the start of the year 2,481 25,673
+Effect of movements in exchange rates on cash and cash equivalents (16) (619)
+Cash and cash equivalents at the end of the year 17 2,555 2,481
+CONSOLIDATED STATEMENT OF CASH FLOWS
+FOR THE YEAR ENDED 31 DECEMBER 2015 WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 40
+1. Reporting entity
+WANdisco plc is a public limited company incorporated and domiciled in Jersey. The Company’s ordinary shares are traded on AIM. 
+The consolidated financial statements of the Company for the year ended 31 December 2015 comprise the Company and its subsidiaries 
+(together referred to as “the Group”).
+2. Basis of preparation
+(a) Statement of compliance
+The financial statements have been prepared in accordance with International Financial Reporting Standards (“IFRS”) as endorsed by the EU, 
+IFRIC Interpretations, and under the historical cost accounting convention, and those parts of Companies (Jersey) Law 1991 applicable to 
+companies under IFRS.
+Under Article 105(11) of the Companies (Jersey) Law 1991, a parent company preparing consolidated financial statements need not present 
+solus (parent company only) financial information, unless required to do so by an ordinary resolution of the company’s members.
+(b) Going concern
+As at 31 December 2015 the Group had net assets of $5.6m (31 December 2014: $4.6m), including cash of $2.6m (2014: $2.5m) as set out in the 
+Consolidated balance sheet above and an unused revolving credit facility of $10.0m (2014: $10.0m). In the year ended 31 December 2015, the Group 
+incurred a loss before tax of $31.0m (2014: $39.4m) and net cash outflows before financing of $26.1m (2014: $23.0m).
+Contract wins continue to exhibit variability and despite the decline in new sales bookings, i.e. signed sales contracts ($9.0m in 2015 compared 
+with $17.4m in 2014), revenue benefited from deferred revenue released from prior year bookings, many of them multi-year contracts. At the same 
+time, the sales pipeline is encouraging, particularly following the release of the Fusion product during the year. Operating costs were progressively 
+reduced throughout the year, with cash overheads, including development costs, lower in the second half of the year than in the first half. These 
+reductions have resulted both from the simplicity and openness of the Fusion product’s architecture and from generalised cost disciplines across 
+all operating functions, both of which have demonstrated the ability of the Group to be operationally agile. Total cash overheads of $34.6m were 
+below the prior year (2014: $36.0m). Since then, the ongoing benefits of these operating cost reduction measures, coupled with additional cost 
+actions taken early in 2016, have significantly reduced the expected cash overhead base for 2016, to an annualised run rate of approximately $25m. 
+The Directors have prepared a detailed budget and forecasts of the Group’s expected performance over a period covering at least the next 
+twelve months from the date of these financial statements. As well as modelling the realisation of the sales pipeline, these forecasts also 
+cover a number of scenarios and sensitivities in order for the Board to satisfy itself that the Group remains within its revolving credit facility 
+of $10m over this period (which can be drawn down based on the Group’s bookings not yet collected in cash).
+Whilst the Directors are confident in the Group’s ability to grow bookings, the Board’s sensitivity modelling shows that the Group can remain 
+within its facilities in the event that bookings growth is delayed (i.e. bookings do not increase from the level reported in 2015) for a period in 
+excess of twelve months. The Directors’ financial forecasts and operational planning and modelling also include the actions that the Group 
+could take to further significantly reduce the cost base during the coming year in the event that longer-term bookings was set to remain 
+consistent with the level reported in 2015. On the basis of this financial and operational modelling, the Directors believe that the Group has 
+the capability and the operational agility to react quickly, cut further costs from the business, and ensure that the cost base of the business 
+is aligned with its sales bookings, cash revenue and funding scale.
+As a consequence, the Directors have a reasonable expectation that the Group can continue to operate and to be able to meet its commitments 
+and discharge its liabilities in the normal course of business for a period not less than twelve months from the date of these financial statements. 
+Accordingly, they continue to adopt the going concern basis in preparing the Group financial statements.
+(c) Functional and presentational currency
+The consolidated financial statements are presented in US dollars, which is also the presentational currency of the Group. Billings to the Group’s 
+customers during the year were all in US dollars by WANdisco, Inc. with certain costs being incurred by WANdisco International Limited in sterling 
+and WANdisco, Pty Ltd in Australian dollars. All financial information has been rounded to the nearest thousand US dollars unless otherwise stated.
+(d) Use of estimates and judgements
+The preparation of financial information in conformity with adopted IFRS requires management to make judgements, estimates and 
+assumptions that affect the application of accounting policies and the reported amounts of assets, liabilities, income and expenses. 
+Actual results may differ from these estimates.
+Estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting estimates are recognised in the period 
+in which the estimates are revised and in any future periods affected.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+FOR THE YEAR ENDED 31 DECEMBER 2015 WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 41
+FINANCIAL STATEMENTS
+2. Basis of preparation continued
+(d) Use of estimates and judgements continued
+Estimates 
+Information about significant areas of estimation uncertainty in applying accounting policies that have the most significant effect 
+on the amounts recognised in the consolidated financial statements is included in the following notes:
+• Note 13 – valuation of intangible assets; and
+• Note 21 – valuation of share-based payment.
+Judgements
+The accounting policy descriptions set out the areas where judgement needs to be exercised, the most significant of which are:
+• Research and development – Development costs are capitalised in accordance with the accounting policy given below. Initial capitalisation 
+of costs is based on management’s judgement that technological and economical feasibility is confirmed, usually when a product 
+development project has reached a defined milestone.
+• Intangible assets – The judgements in relation to intangible impairment testing relate to the assumptions applied in calculating the 
+value in use of the cash-generating unit being tested for impairment. The key assumptions applied in the calculation relate to the future 
+performance expectations of the business. The carrying value of intangible assets and the key assumptions used in performing the annual 
+impairment assessment are disclosed in Note 13.
+(e) Prior year re-presentation
+The prior year balance sheet has been re-presented to offset unbilled receivables (previously included in trade and other receivables) against 
+the deferred revenue balance. This had $nil impact on net assets. The re-presentation was made to improve the clarity of our statutory 
+reporting. A reconciliation to the gross position is shown in Note 16.
+3. Significant accounting policies
+The accounting policies set out below have been applied consistently to all periods presented in these consolidated financial statements.
+(a) Basis of consolidation
+As a result of IFRS 10 (2011) “Consolidated Financial Statements”, the Group has changed its accounting policy for determining whether it 
+has control over and consequently whether it consolidates its investees. IFRS 10 introduces a new control model that focuses on whether the 
+Group has power over an investee, exposure or rights to variable returns from its involvement with the investee and ability to use its power to 
+affect those returns. In accordance with the transitional provisions of IFRS 10, the Group reassessed the control conclusion for its investees 
+at 1 January 2014. No modifications of previous conclusions about control regarding the Group’s investees were required. The financial 
+information of subsidiaries is included from the date that control commences until the date that control ceases.
+Intra-group balances and transactions, and any unrealised income and expenses arising from intra-group transactions, are eliminated 
+in preparing the consolidated financial statements.
+Business combinations
+All business combinations are accounted for by applying the acquisition method. Business combinations are accounted for using 
+the acquisition method as at the acquisition date, which is the date on which control is transferred to the Group. 
+Acquisitions on or after 1 January 2009
+For acquisitions on or after 1 January 2009, the Group measures goodwill at the acquisition date as:
+• the fair value of the consideration transferred; plus 
+• the recognised amount of any non-controlling interests in the acquiree; plus
+• the fair value of the existing equity interest in the acquiree; less
+• the net recognised amount (generally fair value) of the identifiable assets acquired and liabilities assumed. 
+When the excess is negative, the negative goodwill is recognised immediately in profit or loss.
+Costs related to the acquisition, other than those associated with the issue of debt or equity securities, are expensed as incurred. WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 42
+3. Significant accounting policies continued
+(b) Foreign currency
+(i) Foreign currency transactions
+Transactions in foreign currencies are translated to the respective functional currencies of Group entities at the foreign exchange rate ruling 
+at the date of the transaction. Monetary assets and liabilities denominated in foreign currencies at the balance sheet date are retranslated to 
+the functional currency at the foreign exchange rate ruling at that date. Foreign exchange differences arising on translation are recognised 
+in the income statement. Non-monetary assets and liabilities that are measured in terms of historical cost in a foreign currency are translated 
+using the exchange rate at the date of the transaction. Non-monetary assets and liabilities denominated in foreign currencies that are stated 
+at fair value are retranslated to the functional currency at foreign exchange rates ruling at the dates the fair value was determined.
+(ii) Foreign operations
+The assets and liabilities of foreign operations, including goodwill and fair value adjustments arising on consolidation, are translated to the Group’s 
+presentational currency, US dollars, at foreign exchange rates ruling at the balance sheet date. The revenues and expenses of foreign operations 
+are translated at an average rate for the year, where this rate approximates to the foreign exchange rates ruling at the dates of the transactions.
+Exchange differences arising from this translation of foreign operations are reported as an item of other comprehensive income and 
+accumulated in the translation reserve or non-controlling interest, as the case may be. 
+(c) Financial instruments
+(i) Non-derivative financial instruments
+Non-derivative financial instruments comprise trade and other receivables, trade and other payables, cash and cash equivalents, 
+and interest-bearing borrowings.
+Trade and other receivables
+Trade and other receivables are recognised initially at fair value. Subsequent to initial recognition they are measured at amortised cost using 
+the effective interest method, less any impairment losses.
+Trade and other payables
+Trade and other payables are recognised initially at fair value. Subsequent to initial recognition they are measured at amortised cost using 
+the effective interest method.
+Cash and cash equivalents
+Cash and cash equivalents comprise cash balances and call deposits. Bank overdrafts that are repayable on demand and form an integral part 
+of the Group’s cash management are included as a component of cash and cash equivalents.
+Interest-bearing borrowings
+Interest-bearing borrowings are recognised initially at fair value less attributable transaction costs. Subsequent to initial recognition, interest-bearing 
+borrowings are stated at amortised cost using the effective interest method, less any impairment losses.
+(ii) Classification of financial instruments issued by the Group
+Following the adoption of IAS 32 ”Financial Instruments: Presentation”, financial instruments issued by the Group are treated as equity only 
+to the extent that they meet the following two conditions: 
+(a)  they include no contractual obligations upon the Group to deliver cash or other financial assets or to exchange financial assets or financial 
+liabilities with another party under conditions that are potentially unfavourable to the Group; and 
+(b)  where the instrument will or may be settled in the Group’s own equity instruments, it is either a non-derivative that includes no obligation 
+to deliver a variable number of the Company’s own equity instruments or is a derivative that will be settled by the Company’s exchanging 
+a fixed amount of cash or other financial assets for a fixed number of its own equity instruments.
+To the extent that this definition is not met, the proceeds of issue are classified as a financial liability. Where the instrument so classified takes 
+the legal form of the Company’s own shares, the amounts presented in these financial statements for called up share capital and share 
+premium exclude amounts in relation to those shares. 
+(d) Property, plant and equipment
+(i) Recognition and measurement
+Items of property, plant and equipment are measured at cost less accumulated depreciation and accumulated impairment losses. The cost 
+of property, plant and equipment at 1 January 2009, the Group’s date of transition to IFRS, was determined by reference to its carrying value 
+under UK and US Generally Accepted Accounting Principles.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+FOR THE YEAR ENDED 31 DECEMBER 2015 WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 43
+FINANCIAL STATEMENTS
+3. Significant accounting policies continued
+(d) Property, plant and equipment continued
+(ii) Depreciation
+Depreciation is recognised in profit or loss on a straight-line basis over the estimated useful lives of each part of an item of property, 
+plant and equipment.
+The estimated useful lives for the current and comparative periods are as follows:
+• Computer equipment – 3 years
+• Fixtures and fittings – 3 years
+• Leasehold improvements – 3 years
+Depreciation methods, useful lives and residual values are reviewed at each reporting date.
+(e) Intangible assets
+(i) Goodwill
+Goodwill is stated at cost less any accumulated impairment losses. Goodwill is allocated to cash-generating units and is not amortised 
+but is tested annually for impairment.
+(ii) Research and development
+Expenditure on research activities, undertaken with the prospect of gaining new technical knowledge and understanding, is recognised 
+in profit or loss when incurred.
+Development activities relate to software development and involve a plan or design for the production of new or substantially improved 
+products and processes. Development expenditure is capitalised only if:
+• development costs can be measured reliably;
+• the product or process is technically and commercially feasible;
+• future economic benefits are probable; and
+• the Group intends to, and has sufficient resources to, complete development and to use or sell the asset.
+The expenditure capitalised includes direct labour and overhead costs that are directly attributable to preparing the asset for its intended use.
+Capitalised development expenditure is measured at cost less accumulated amortisation and accumulated impairment losses.
+(iii) Amortisation
+Amortisation of capitalised research and development costs is recognised in profit or loss on a straight-line basis over the estimated useful life 
+of two years.
+Intangibles in relation to computer software are amortised over an estimated useful life of two years.
+Amortisation of the intangible assets recognised on the acquisitions of AltoStor, Inc. and OhmData, Inc. is recognised in profit or loss 
+on a straight-line basis over their estimated useful lives of three years.
+(f) Impairment (excluding deferred tax assets)
+(i) Financial assets (including receivables)
+A financial asset not carried at fair value through profit or loss is assessed at each reporting date to determine whether there is objective 
+evidence that it is impaired. A financial asset is impaired if objective evidence indicates that a loss event has occurred after the initial recognition 
+of the asset and that the loss event had a negative effect on the estimated future cash flows of that asset that can be estimated reliably.
+An impairment loss in respect of a financial asset measured at amortised cost is calculated as the difference between its carrying amount 
+and the present value of the estimated future cash flows discounted at the asset’s original effective interest rate. Interest on the impaired 
+asset continues to be recognised through the unwinding of the discount. When a subsequent event causes the amount of impairment loss 
+to decrease, the decrease in impairment loss is reversed through profit or loss. WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 44
+3. Significant accounting policies continued
+(f) Impairment (excluding deferred tax assets) continued
+(ii) Non-financial assets
+The carrying amounts of the Group’s non-financial assets are reviewed at each reporting date to determine whether there is any indication 
+of impairment. If any such indication exists, then the asset’s recoverable amount is estimated. For goodwill, and intangible assets that have 
+indefinite useful lives or that are not yet available for use, the recoverable amount is estimated each year at the same time.
+The recoverable amount of an asset or cash-generating unit is the greater of its value in use and its fair value less costs to sell. In assessing 
+value in use, the estimated future cash flows are discounted to their present value using a pre-tax discount rate that reflects current market 
+assessments of the time value of money and the risks specific to the asset. For the purpose of impairment testing, assets that cannot be tested 
+individually are grouped together into the smallest group of assets that generate cash inflows from continuing use that are largely independent 
+of the cash inflows of other assets or groups of assets (“the cash-generating unit”). The goodwill acquired in a business combination, for the purpose 
+of impairment testing, is allocated to cash-generating units (“CGUs”). Subject to an operating segment ceiling test, for the purposes of goodwill 
+impairment testing, CGUs to which goodwill has been allocated are aggregated so that the level at which impairment is tested reflects the 
+lowest level at which goodwill is monitored for internal reporting purposes. Goodwill acquired in a business combination is allocated to 
+groups of CGUs that are expected to benefit from the synergies of the combination.
+An impairment loss is recognised if the carrying amount of an asset or its CGU exceeds its estimated recoverable amount. Impairment losses 
+are recognised in profit or loss. Impairment losses recognised in respect of CGUs are allocated first to reduce the carrying amount of any 
+goodwill allocated to the units and then to reduce the carrying amounts of the other assets in the unit (group of units) on a pro rata basis.
+An impairment loss in respect of goodwill is not reversed. In respect of other assets, impairment losses recognised in prior periods are 
+assessed at each reporting date for any indications that the loss has decreased or no longer exists. An impairment loss is reversed if there has 
+been a change in the estimates used to determine the recoverable amount. An impairment loss is reversed only to the extent that the asset’s 
+carrying amount does not exceed the carrying amount that would have been determined, net of depreciation or amortisation, if no 
+impairment loss had been recognised.
+(g) Employee benefits
+(i) Pension plans
+In the UK there is a company personal pension scheme, which is a defined contribution scheme, for employees. Contributions are recognised 
+in the income statement as they become payable in accordance with the rules of the scheme.
+(ii) Termination benefits
+Termination benefits are recognised as an expense when the Group is demonstrably committed, without realistic possibility of withdrawal, 
+to a formal detailed plan to either terminate employment before the normal retirement date or to provide termination benefits as a result 
+of an offer made to encourage voluntary redundancy.
+(iii) Short-term benefits
+Short-term employee benefit obligations are measured on an undiscounted basis and are expensed as the related service is provided.
+A liability is recognised for the amount expected to be paid under short-term cash bonus or commission plans where the Group has a 
+present legal or constructive obligation to pay this amount as a result of past service provided by the employee and the obligation can 
+be estimated reliably.
+(iv) Share-based payment
+The grant date fair value of share-based payment awards granted to employees is recognised as an employee expense, with a corresponding 
+increase in equity, over the period that the employees unconditionally become entitled to the awards. The amount recognised as an expense 
+is adjusted to reflect the number of awards for which the related service and non-market vesting conditions are expected to be met, such 
+that the amount ultimately recognised as an expense is based on the number of awards that do meet the related service and non-market 
+performance conditions at the vesting date. For share-based payment awards with non-vesting conditions, the grant date fair value of the 
+share-based payment is measured to reflect such conditions and there is no true-up for differences between expected and actual outcomes.
+Share-based payment arrangements in which the Group receives goods or services as consideration for its own equity instruments are 
+accounted for as equity-settled share-based payment transactions, regardless of how the equity instruments are obtained by the Group.
+No cash-settled share-based payment awards have been granted to employees.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+FOR THE YEAR ENDED 31 DECEMBER 2015 WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 45
+FINANCIAL STATEMENTS
+3. Significant accounting policies continued
+(h) Revenue recognition
+(i) Software licences
+Sales of software licences are recognised once the licence has been granted and the customer has been provided with access to the software. 
+Revenue derived from sales of licences is spread over the period of the licence. Where licences are perpetual, revenue is recognised in full 
+once the agreement is in place.
+(ii) Support subscriptions
+Sales of support subscriptions are recognised on a straight-line basis over the period of the contract.
+(iii) Maintenance, training and other services
+Sales of maintenance, training and other services are recognised on a straight-line basis over the period of the contract.
+(i) Operating lease payments
+Payments made under operating leases are recognised in profit or loss on a straight-line basis over the term of the lease.
+(j) Finance income and costs
+Finance costs comprise interest expense on borrowings and exchange differences on intra-group balances.
+(k) Taxation
+Income tax comprises current and deferred tax. Income tax is recognised in profit or loss except to the extent that it relates to items 
+recognised directly in equity, in which case it is recognised in equity.
+Current tax is the expected tax payable on the taxable income for the year, using tax rates enacted or substantively enacted at the reporting 
+date, and any adjustment to tax payable in respect of previous years.
+Deferred tax is recognised using the statement of financial position method, providing for temporary differences between the carrying 
+amounts of assets and liabilities for financial reporting purposes and the amounts used for taxation purposes. Deferred tax is not recognised 
+in respect of temporary differences relating to investments in subsidiaries to the extent that it is probable that they will not reverse in the 
+foreseeable future. Deferred tax is measured at the tax rates that are expected to be applied to temporary differences when they reverse, 
+based on the laws that have been enacted or substantively enacted by the reporting date.
+A deferred tax asset is recognised to the extent that it is probable that future taxable profits will be available against which temporary 
+differences can be utilised. Deferred tax assets are reviewed at each reporting date and are reduced to the extent that it is no longer 
+probable that the related tax benefit will be realised.
+(l) Government grants
+Government grants are recognised where there is reasonable assurance that the grant will be received and all attaching conditions 
+will be complied with.
+When the grant relates to an expense item, it is recognised as income over the period necessary to match the grant on a systematic basis 
+to the costs that it is intended to compensate. Where the grant relates to an asset, the fair value is credited to a deferred income account 
+and is released to the statement of comprehensive income over the expected useful life of the asset.
+(m) Segmental reporting
+The Directors consider there to be one operating segment, being that of development and sale of licences for software and related maintenance.
+The Group has adopted IFRS 8 “Operating Segments” from the date of transition to IFRS. IFRS 8 requires the Group to determine and present 
+its operating segments based on information which is provided internally to the chief operating decision maker (“CODM”). The CODM, who is 
+responsible for allocating resources and assessing the performance of the operating segment, has been identified as the Chief Executive Officer.
+(n) Provisions
+Provisions are created where the Group has a present legal or constructive obligation as a result of a past event, where it is probable it will 
+result in an outflow from the Group.
+(o) Cost of sales
+Cost of sales includes commissions earned on sales and direct costs relating to software supply.
+(p) Exceptional items
+Exceptional items comprise items of income and expense that are material in amount and unlikely to recur and that merit separate disclosure 
+in order to provide an understanding of the Group’s underlying financial performance. WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 46
+3. Significant accounting policies continued
+(q) New accounting standards and amendments
+(i) New and amended standards adopted by the Group
+The following new standards and amendments to standards are mandatory for the first time for the financial year beginning on 1 January 2015:
+• Amendments to IAS 19 “Employee Benefits” – Defined Benefit Plans: Employee Contributions.
+• Annual Improvements to IFRSs 2010–2012 Cycle.
+• Annual Improvements to IFRSs 2011–2013 Cycle.
+These standards and amendments to standards have not had a material impact on the consolidated financial statements.
+(ii)  New and amended standards and interpretations issued but not effective for the financial year beginning 1 January 2015 
+and not early adopted
+The following Adopted IFRSs have been issued but have not been applied by the Group in these financial statements. Their adoption is not 
+expected to have a material effect on the financial statements unless otherwise indicated:
+• IFRS 9 Financial Instruments (effective date 1 January 2018).
+• IFRS 15 Revenue from Contract with Customers (effective date 1 January 2018).
+• Clarification of Acceptable Methods of Depreciation and Amortisation – Amendments to IAS 16 and IAS 38 (effective date 1 January 2016).
+• Annual Improvements to IFRSs – 2012–2014 Cycle (effective date 1 January 2016).
+• Disclosure Initiative – Amendments to IAS 1 (effective date 1 January 2016).
+4. Determination of fair values
+A number of the Group’s accounting policies and disclosures require the determination of fair value, for both financial and non-financial assets 
+and liabilities. Fair values have been determined for measurement and/or disclosure purposes based on the following methods. When applicable, 
+further information about the assumptions made in determining fair values is disclosed in the notes specific to that asset or liability.
+(a) Intangible assets
+Whilst development costs are valued at cost less amortisation, their carrying values are assessed to ensure that they do not exceed the 
+recoverable amount at the end of each reporting period. The recoverable amount of other intangible assets is based on the discounted 
+cash flows expected to be derived from the use and eventual sale of products developed.
+(b) Trade and other receivables
+The fair value of short-term trade and other receivables is deemed to be its book value less any impairment provision. The effect of discounting 
+is considered to be immaterial.
+(c) Non-derivative financial liabilities
+Fair value, which is determined for disclosure purposes, is calculated based on the present value of future principal and interest cash flows, 
+discounted at the market rate of interest at the reporting date.
+5. Segmental analysis
+Operating segments
+The Directors consider there to be one operating segment, being that of development and sale of licences for software and related maintenance.
+Geographical segments
+The Group recognises revenue in three geographical regions based on the location of customers, as set out in the following table:
+2015 2014
+Revenue $’000 $’000 
+North America 7,255 9,414
+Europe 2,983 1,376
+Rest of the world 756 428
+10,994 11,218
+Management makes no allocation of costs, assets or liabilities between these segments since all trading activities are operated as a single 
+business unit.
+The Group has no customers representing individually over 10% of revenue (2014: nil).
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+FOR THE YEAR ENDED 31 DECEMBER 2015 WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 47
+FINANCIAL STATEMENTS
+5. Segmental analysis continued
+Geographical segments continued
+The Group’s core patented technology, Distributed Co-ordinated Engine “DConE”, enables the replication of data. The Group has developed 
+software based on this technology which is applied into two key markets being the Big Data and Source Code Management (ALM) markets:
+2015 2014
+Revenue $’000 $’000 
+ALM 9,158 10,446
+Big Data 1,836 772
+10,994 11,218
+6. Operating expenses
+2015 2014
+Loss from operations has been arrived at after charging: Notes $’000 $’000 
+Staff costs 10 18,493 25,886
+Research and development – amortisation charge 13 8,548 6,855
+Amortisation of intangible assets 13 1,052 1,428
+Depreciation of property, plant and equipment 14 270 267
+Auditor’s remuneration 7 80 89
+Reconciliation of loss from operations to adjusted earnings before interest, taxation, depreciation and amortisation 
+(“Adjusted EBITDA”)
+2015 2014
+Notes $’000 $’000 
+Operating loss (30,529) (39,917)
+Adjusted for:
+Amortisation and depreciation 9,870 8,550
+Acquisition-related items — 145
+Exceptional items within operating expenses 8 614 1,441
+EBITDA before exceptional items (20,045) (29,781)
+Equity-settled share-based payment (excluding exceptional item) 21 4,057 11,907
+Adjusted EBITDA before exceptional items (15,988) (17,874)
+Development expenditure capitalised 13 (8,369) (9,040)
+Adjusted EBITDA before exceptional items including development expenditure (24,357) (26,914)
+Acquisition-related items include legal and professional costs of $nil (2014: $145,000), which were incurred on the acquisition of OhmData, Inc. 
+in the prior year.
+7. Auditor’s remuneration
+2015 2014
+$’000 $’000 
+Audit of these financial statements 67 70
+Amounts receivable by auditor in respect of:
+Audit of financial statements of subsidiaries pursuant to legislation 13 14
+Other services pursuant to legislation — 5
+80 89 WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 48
+8. Exceptional items
+2015 2014
+Exceptional items comprise the following: Notes $’000 $’000 
+Equity-settled share-based payment charge in relation to acquisitions:
+– AltoStor, Inc. 21 249 659
+– TortoiseSVN.net 21 124 290
+– OhmData, Inc. 21 241 492
+21 614 1,441
+The equity-settled share-based payment charge recognised in the year in relation to the acquisitions of OhmData, Inc. and AltoStor, Inc. 
+and the purchase of the intellectual property of TortoiseSVN.net has been classified as exceptional. See Note 21 for further details.
+9. Net finance (costs)/income
+2015 2014
+$’000 $’000 
+Interest receivable – bank 59 58
+Exchange gain — 526
+Finance income 59 584
+Unwind of discount on pledged shares (16) (16)
+Exchange loss (373) —
+Interest payable on bank borrowings (48) (2)
+Bank charges — (9)
+Loan amortisation costs (128) —
+Finance costs (565) (27)
+Net finance (costs)/income (506) 557
+10. Staff numbers and costs
+2015 2014
+Notes $’000 $’000 
+Wages and salaries 19,734 20,258
+Social security costs 1,818 1,621
+Other pension costs 88 —
+Equity-settled share-based payment 21 4,057 11,907
+Development expenditure capitalised (7,204) (7,900)
+Total staff costs 18,493 25,886
+Average number of persons employed
+The average number of persons employed by the Group (including Directors), analysed by category, was as follows:
+2015 2014
+Number Number
+Software development 92 103
+Selling and distribution 49 48
+Administration 18 14
+Total number of employees 159 165
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+FOR THE YEAR ENDED 31 DECEMBER 2015 WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 49
+FINANCIAL STATEMENTS
+10. Staff numbers and costs continued
+Remuneration of key management personnel
+2015 2014
+$’000 $’000
+Short-term employee benefits of key management personnel 4,531 4,192
+There were no other long-term benefits or post-employment benefits in the year ended 31 December 2015 (2014: $nil).
+In addition to the above, an equity-settled share-based payment charge of $3,609,000 in relation to share options granted to key 
+management personnel, was incurred in the year ended 31 December 2015 (2014: $8,231,000).
+Further details on the remuneration, share options and pension entitlement of the Directors are included in the Remuneration Committee 
+report on pages 30 and 31.
+11. Income tax
+2015 2014
+$’000 $’000 
+Current tax expense
+Current year 739 478
+Adjustment for prior years 390 575
+Total tax credit 1,129 1,053
+Reconciliation of effective tax rate
+2015 2015 2014 2014
+% $’000 % $’000
+Loss before taxation 31,035 39,360
+Expected tax credit based on the Group’s domestic tax rate of 40% 40% 12,414 40% 15,744
+Effects of:
+Non-deductible expenses (9%) (2,683) (14%) (5,523)
+Tax rates in foreign jurisdictions (7%) (2,215) (5%) (2,101)
+R&D tax credits 4% 1,129 3% 1,053
+Losses not recognised for current or deferred tax (24%) (7,516) (21%) (8,120)
+Taxation credit for the year 4% 1,129 3% 1,053
+Factors affecting the current and future tax charges
+Reductions in the UK corporation tax rate from 23% to 21% (effective from 1 April 2014) and 20% (effective from 1 April 2015) were 
+substantively enacted on 2 July 2013. Further reductions to 19% (effective from 1 April 2017) and to 18% (effective from 1 April 2020) were 
+substantively enacted on 26 October 2015. This will reduce the Group’s future current tax charge accordingly. The deferred taxation liability 
+for UK tax resident members of the Group at 31 December 2015 has been calculated based on the rate of 20% substantively enacted at the 
+balance sheet date.
+Deferred tax assets and liabilities
+Deferred tax liabilities are attributable to the following temporary differences in respect of property, plant and equipment:
+2015 2014
+$’000 $’000 
+Deferred tax liability (5) (5)
+The Group has unrecognised deferred tax assets of $19,205,000 (2014: $11,689,000) in respect of tax losses arising in the Group.
+The Directors consider that there is not sufficient certainty over the availability of future taxable profits against which these losses may 
+be offset and no asset has therefore been recognised. WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 50
+12. Loss per share
+Basic loss per share
+Basic loss per share is calculated based on the loss attributable to ordinary shareholders and the weighted average number of ordinary 
+shares outstanding:
+2015 2014
+$’000 $’000 
+Loss for the year attributable to ordinary shareholders 29,906 38,307
+Weighted average number of ordinary shares
+2015 2014
+Shares Shares
+‘000s ‘000s
+At the start of the year 24,018 23,693
+Effect of shares issued in the year 4,765 325
+Weighted average number of ordinary shares during the year 28,783 24,018
+2015 2014
+$ $
+Basic loss per share 1.04 1.59
+Adjusted loss per share
+Adjusted loss per share is based on the result attributable to ordinary shareholders before exceptional items, acquisition-related items 
+and the cost of equity-settled share-based payment, and the weighted average number of ordinary shares outstanding:
+2015 2014
+Adjusted loss per share: $’000 $’000 
+Loss for the year attributable to ordinary shareholders 29,906 38,307
+Add back:
+Exceptional items (614) (1,441)
+Acquisition-related items (16) (161)
+Equity-settled share-based payment (excluding exceptional items) (4,057) (11,907)
+Adjusted basic loss for the year 25,219 24,798
+2015 2014
+$ $
+Adjusted loss per share 0.88 1.03
+Diluted loss per share
+Due to the Group having losses in each of the years, the fully diluted loss per share for disclosure purposes, as shown in the Consolidated 
+statement of profit and loss and other comprehensive income, is the same as for the basic loss per share.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+FOR THE YEAR ENDED 31 DECEMBER 2015 WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 51
+FINANCIAL STATEMENTS
+13. Intangible assets
+Other
+intangible Development Computer
+assets costs software Total
+At 31 December 2015 $’000 $’000 $’000 $’000
+Cost
+At 1 January 2015 3,154 22,787 1,189 27,130
+Additions – own work capitalised — 8,369 — 8,369
+Disposals — — (1,000) (1,000)
+At 31 December 2015 3,154 31,156 189 34,499
+Amortisation
+At 1 January 2015 (1,795) (14,375) (1,146) (17,316)
+Amortisation charge for the year (1,009) (8,548) (43) (9,600)
+Disposals — — 1,000 1,000
+At 31 December 2015 (2,804) (22,923) (189) (25,916)
+Net book value 
+At 31 December 2015 350 8,233 — 8,583
+Other
+intangible Development Computer
+assets costs software Total
+At 31 December 2014 $’000 $’000 $’000 $’000
+Cost
+At 1 January 2014 2,308 13,747 1,030 17,085
+Reclassification from property, plant and equipment — — 30 30
+Acquisitions through business combinations 846 — — 846
+Additions – externally purchased — — 103 103
+Additions – own work capitalised — 9,040 — 9,040
+Effect of movements in exchange rates — — 26 26
+At 31 December 2014 3,154 22,787 1,189 27,130
+Amortisation
+At 1 January 2014 (860) (7,520) (613) (8,993)
+Reclassification from property, plant and equipment — — (19) (19)
+Amortisation charge for the year (935) (6,855) (493) (8,283)
+Effect of movements in exchange rates — — (21) (21)
+At 31 December 2014 (1,795) (14,375) (1,146) (17,316)
+Net book value
+At 31 December 2014 1,359 8,412 43 9,814 WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 52
+13. Intangible assets continued
+The carrying amount of the intangible assets is allocated across cash-generating units (“CGUs”). A CGU is defined as the smallest group of 
+assets that generate cash inflows from continuing use that are largely independent of the cash inflows of other assets or groups thereof. 
+The recoverable amount of the CGUs are determined using value in use (“VIU”) calculations. As at 31 December 2015 the Group had one 
+CGU, the DConE CGU, which represents the Group’s patented DConE replication technology, forming the basis of products for both the ALM 
+and Big Data markets, including the new Fusion platform that was launched in 2015.
+Other intangible assets arose as part of the acquisitions of OhmData, Inc. in June 2014 and AltoStor, Inc. in November 2012. The intangibles 
+arising as part of these acquisitions are allocated to the DConE CGU. The recoverable amount of the DConE CGU has been calculated on a 
+VIU basis at both 31 December 2015 and 31 December 2014. These calculations use cash flow projections based on financial forecasts, which 
+anticipate growth in the Group’s installed base along with new customer growth along with stable cost base, and appropriate long-term growth rates. 
+To prepare VIU calculations, the cash flow forecasts are discounted back to present value using a pre-tax discount rate of 10% (2014: 10%) 
+and a terminal value growth rate of 2% from 2020. The Directors have reviewed the recoverable amount of the CGU and do not consider 
+there to be any indication of impairment.
+Development costs are predominantly capitalised staff costs associated with new products and services. Development costs are allocated 
+to the DConE CGU, the recoverable amount of which has been determined on a VIU basis as described above.
+On 20 February 2015 WANdisco International Limited sold software to SyntevoGmbH for consideration of €1. This software became fully 
+amortised during the year ended 31 December 2014 so there was no material profit/(loss) on disposal.
+The amortisation charge on intangible assets is included in operating expenses in the Consolidated statement of profit and loss and other 
+comprehensive income.
+14. Property, plant and equipment
+Leasehold Fixtures and 
+improvements fittings Computers Total
+At 31 December 2015 $’000 $’000 $’000 $’000
+Cost
+At 1 January 2015 130 370 451 951
+Reclassification — (22) 22 —
+Additions — — 95 95
+Effect of movements in exchange rates (2) (7) (10) (19)
+Disposals — — (2) (2)
+At 31 December 2015 128 341 556 1,025
+Depreciation
+At 1 January 2015 (74) (222) (245) (541)
+Depreciation charge for the year (43) (84) (143) (270)
+Effect of movements in exchange rates 1 6 8 15
+Disposals — — 1 1
+At 31 December 2015 (116) (300) (379) (795)
+Net book value
+At 31 December 2015 12 41 177 230
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+FOR THE YEAR ENDED 31 DECEMBER 2015 WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 53
+FINANCIAL STATEMENTS
+14. Property, plant and equipment continued
+Leasehold Fixtures and 
+improvements fittings Computers Total
+At 31 December 2014 $’000 $’000 $’000 $’000
+Cost
+At 1 January 2014 96 289 224 609
+Reclassification to intangible assets — — (30) (30)
+Additions 34 81 257 372
+At 31 December 2014 130 370 451 951
+Depreciation
+At 1 January 2014 (31) (136) (131) (298)
+Reclassification to intangible assets — — 19 19
+Depreciation charge for the year (44) (89) (134) (267)
+Effect of movements in exchange rates 1 3 1 5
+At 31 December 2014 (74) (222) (245) (541)
+Net book value
+At 31 December 2014 56 148 206 410
+15. Investments in subsidiaries
+The Group has the following investments in subsidiaries:
+Country of Proportion
+Company name incorporation Holding of shares held Nature of business
+WANdisco International Limited UK Ordinary shares 100% Development and provision of global collaboration software
+WANdisco, Inc. US Ordinary shares 100% Development and provision of global collaboration software
+OhmData, Inc. US Ordinary shares 100% Development and provision of global collaboration software
+AltoStor, Inc. US Ordinary shares 100% Development and provision of global collaboration software
+WANdisco, Pty Ltd Australia Ordinary shares 100% Development and provision of global collaboration software
+WANdisco Software (Chengdu) Ltd China Ordinary shares 100% Development and provision of global collaboration software
+All of the above entities are included in the consolidated financial statements.
+16. Trade and other receivables
+Re-presented
+(Note 2)
+2015 2014
+Due within a year: Notes $’000 $’000 
+Trade receivables 3,538 4,440
+Other receivables 
+– Unbilled receivables ($2,808,000 is due in more than one year (2014: $4,895,000)) 6,482 8,005
+– Other receivables 1,061 556
+Less: Unbilled receivables deferred ($2,808,000 is due in more than one year (2014: $4,895,000)) 18 (6,482) (8,005)
+Total other receivables 1,061 556
+Corporation tax 1,631 1,056
+Prepayments 498 395
+Total trade and other receivables 6,728 6,447 WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 54
+16. Trade and other receivables continued
+The Directors consider that the carrying amount of trade and other receivables approximates to their fair value.
+Ageing of trade receivables
+2015 2014
+$’000 $’000 
+Due from current month 2,788 4,278
+Due from previous month 329 121
+Due from earlier months 421 41
+Total trade receivables 3,538 4,440
+All trade receivables are denominated in US dollars.
+17. Cash and cash equivalents
+2015 2014
+$’000 $’000 
+Cash at bank and in hand 2,555 2,481
+18. Current liabilities
+Trade and other payables
+2015 2014
+$’000 $’000 
+Trade payables 597 722
+Accruals 2,117 2,473
+2,714 3,195
+Deferred income
+Deferred income represents contracted sales for which services to customers will be provided in future years.
+Re-presented
+(Note 2)
+2015 2014
+Deferred income which falls due: Notes $’000 $’000
+Within a year 6,060 6,076
+In more than a year 3,697 5,188
+Unbilled receivables deferred ($2,808,000 is due in more than one year (2014: $4,895,000)) 6,482 8,005
+Deferred income (including unbilled receivables) 16,239 19,269
+Less: Unbilled receivables deferred 16 (6,482) (8,005)
+Total deferred income 9,757 11,264
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+FOR THE YEAR ENDED 31 DECEMBER 2015 WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 55
+FINANCIAL STATEMENTS
+19. Financial instruments and risk management
+The Group’s principal financial instruments are cash and trade receivables.
+The Group has exposure to the following risks from its use of financial instruments:
+Market risk
+The Group may be affected by general market trends, which are unrelated to the performance of the Group itself. The Group’s success 
+will depend on market acceptance of the Group’s products and there can be no guarantee that this acceptance will be forthcoming. 
+Market opportunities targeted by the Group may change and this could lead to an adverse effect upon its revenue and earnings.
+The Group is currently not exposed to interest rate risk as it has not drawn down on its $10.0m (31 December 2014: $10.0m) revolving 
+credit facility.
+Credit risk
+Credit risk arises from cash and cash equivalents and credit exposure to the Group’s customers.
+Credit ratings of institutions which hold the Group’s financial assets are regularly monitored to ensure they meet the minimum credit criteria 
+set by the Board through the Group treasury policy.
+The credit quality of customers is assessed by taking into account their financial position, past experience and other factors.
+Liquidity risk
+Liquidity risk is the risk that the Group will not be able to meet its financial obligations as they fall due. The Board is responsible for ensuring 
+that the Group has sufficient liquidity to meet its financial liabilities as they fall due and does so by monitoring cash flow forecasts and 
+budgets. The Board has considered the cash flow forecasts for the next twelve months which show that the Group expects to operate 
+within its working capital facilities throughout the year. Details of the going concern review are included in Note 2.
+Any excess cash balances are held in short-term, interest-bearing deposit accounts.
+All financial liabilities (trade and other payables) mature within one year of the balance sheet date.
+Capital management 
+The Group defines the capital that it manages as its total equity. The Group’s objectives when managing capital are to safeguard the Group’s 
+ability to continue as a going concern and support the growth of the business.
+Foreign currency risk
+The Group’s operations are split between the US, the UK, mainland Europe, Australia and China, and as a result the Group incurs costs in 
+currencies other than its presentational currency of US dollars. The Group also holds cash and cash equivalents in non-US dollar denominated 
+bank accounts. 
+The following table shows the denomination of the year-end cash and cash equivalents balance:
+Australian
+Sterling dollar US dollar Total
+$’000 $’000 $’000 $’000
+2015 cash and cash equivalents 374 35 2,146 2,555
+2014 cash and cash equivalents 359 105 2,017 2,481
+Had the foreign exchange rate between US dollar and sterling changed by 5%, this would affect the loss for the year and net assets 
+of the Group by $659,000 (2014: $694,000).
+Fair values of financial assets and financial liabilities
+There are no material differences between the fair value and the book value of the Group’s financial assets and liabilities. WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 56
+20. Share capital and reserves
+2015 2015 2014 2014
+Number $’000 Number $’000
+Share capital
+Allotted and fully paid 29,564,059 4,667 24,435,035 3,879
+The ordinary share capital of WANdisco plc is designated in sterling.
+Share Share Translation Merger Retained
+capital premium reserve reserve earnings
+$’000 $’000 $’000 $’000 $’000
+At 1 January 2015 3,879 56,587 (302) 1,247 (56,814)
+Loss for the year — — — — (29,906)
+Foreign currency translation differences — — 55 — —
+Proceeds from share placing 737 25,341 — — —
+Equity-settled share-based payment — — — — 4,671
+Shares options exercised 51 46 — — —
+At 31 December 2015 4,667 81,974 (247) 1,247 (82,049)
+Share Share Translation Merger Retained
+capital premium reserve reserve earnings
+$’000 $’000 $’000 $’000 $’000
+At 1 January 2014 3,755 53,882 142 1,247 (30,353)
+Loss for the year — — — — (38,307)
+Foreign currency translation differences — — (444) — —
+Shares issued as part of OhmData, Inc. acquisition 47 2,317 — — (1,502)
+Equity-settled share-based payment — — — — 13,348
+Shares options exercised 77 388 — — —
+At 31 December 2014 3,879 56,587 (302) 1,247 (56,814)
+Share capital and share premium
+During the year, 330,165 ordinary shares were issued as a result of employees exercising share options.
+On 23 January 2015, the Company issued an additional 4,798,859 ordinary shares at a price of £3.75 each, raising funds of $26.1m 
+net of transaction costs.
+Costs relating directly to the new issue of shares have been deducted from the share premium account.
+Translation reserve
+The translation reserve comprises all foreign exchange differences arising from the translation of the financial statements of foreign operations.
+Merger reserve
+The acquisition by WANdisco plc of the entire share capital of WANdisco, Inc. in 2012 was accounted for as a reverse acquisition. 
+Consequently the previously recognised book values and assets and liabilities were retained and the consolidated financial information 
+for the period to 16 May 2012 has been presented as a continuation of the WANdisco business, which was previously wholly owned by 
+the WANdisco, Inc. Group. 
+The share capital for the period covered by these consolidated financial statements and the comparative periods is stated at the nominal 
+value of the shares issued pursuant to the above share arrangement. The difference between the nominal value of these shares and the 
+nominal value of WANdisco, Inc. shares at the time of the acquisition has been transferred to the merger reserve.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+FOR THE YEAR ENDED 31 DECEMBER 2015 WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 57
+FINANCIAL STATEMENTS
+21. Share-based payment
+WANdisco plc operates share option plans for qualifying employees of the Group. Options in the plans are settled in equity in the Company 
+and are normally subject to a vesting schedule but not conditional on any performance criteria being achieved.
+Analysis of equity-settled share-based payment charge
+2015 2014
+Notes $’000 $’000 
+Exceptional equity-settled share-based payment charge in relation to acquisitions:
+– AltoStor, Inc. 249 659
+– TortoiseSVN.net 124 290
+– OhmData, Inc. 241 492
+Total equity-settled share-based payment charge in relation to acquisitions 8 614 1,441
+Non-exceptional equity-settled share-based payment charge 10 4,057 11,907
+Total equity-settled share-based payment charge 4,671 13,348
+Terms and conditions of share option grants
+The terms and conditions of the share option grants between 16 May 2012 (the date WANdisco plc acquired WANdisco, Inc.) 
+and 31 December 2015 are as follows:
+Date of grant
+Expected
+term
+(years)
+Exercise
+price
+Vesting
+schedule
+(see page 58)
+Outstanding at
+31 December
+2015
+Exercisable between
+Commencement Lapse
+16 May 2012 7 16 May 2012 3 August 2019 £0.24 2 1,146
+16 May 2012 8 16 May 2012 15 September 2020 $0.36 2 35,000
+16 May 2012 8 16 May 2012 7 October 2020 £0.45 2 13,886
+16 May 2012 9 16 May 2012 20 September 2021 £0.46 2 9,680
+16 May 2012 9 22 July 2012 14 September 2021 $0.36 3 85,000
+16 May 2012 9 22 July 2012 20 September 2021 £0.46 3 80,033
+16 May 2012 9 1 August 2012 20 September 2021 £0.46 3 2,000
+16 May 2012 9 13 January 2013 12 January 2022 $0.36 3 455,000
+16 May 2012 9 13 January 2013 30 January 2022 £0.23 3 714,185
+21 June 2012 10 21 June 2012 20 June 2022 £2.00 4 55,400
+7 December 2012 10 7 December 2012 6 December 2022 £4.55 5 218,525
+21 January 2013 10 21 January 2013 20 January 2023 £5.68 5 25,000
+1 February 2013 10 1 February 2013 31 January 2023 £6.40 5 23,750
+25 February 2013 10 25 February 2013 24 February 2023 £8.20 5 15,000
+18 March 2013 10 18 March 2013 17 March 2023 £7.47 5 25,000
+1 April 2013 10 1 April 2013 31 March 2023 £8.03 5 25,000
+13 May 2013 10 13 May 2013 12 May 2023 £9.80 5 20,000
+15 July 2013 10 15 July 2013 14 July 2023 £9.55 5 65,000
+29 July 2013 10 29 July 2013 28 July 2023 £9.25 5 20,000
+16 September 2013 10 16 September 2013 15 September 2023 £11.68 5 5,000
+27 September 2013 2.5 27 September 2013 17 March 2016 £0.10 6 100,000
+27 September 2013 2.5 27 September 2013 17 March 2016 £0.10 7 58,122
+27 September 2013 2.5 27 September 2013 17 March 2016 £0.10 6 70,030
+27 September 2013 2.5 27 September 2013 17 March 2016 £0.10 7 70,031
+11 November 2013 10 11 November 2013 10 November 2023 £12.71 5 10,000
+27 November 2013 10 27 November 2013 26 November 2023 £14.30 5 40,000
+27 December 2013 10 27 December 2013 26 December 2023 £11.93 5 140,000
+14 March 2014 4 14 March 2014 15 March 2018 £0.10 8 50,000
+9 April 2014 3 9 April 2014 8 April 2024 £0.10 9 65,968
+14 May 2014 10 14 May 2014 13 May 2024 £5.79 5 15,000 WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 58
+21. Share-based payment continued
+Terms and conditions of share option grants continued
+Date of grant
+Expected
+term
+(years)
+Exercise
+price
+Vesting
+schedule
+(see below)
+Outstanding at 
+31 December
+2015
+Exercisable between
+Commencement Lapse
+16 June 2014 10 16 June 2014 15 June 2024 £4.30 5 25,000
+26 June 2014 3 26 June 2014 25 June 2024 £0.10 9 158,312
+18 August 2014 3 18 August 2014 17 August 2024 £0.10 9 80,000
+15 September 2014 10 15 September 2014 14 September 2024 £4.00 5 126,000
+3 November 2014 10 3 November 2014 2 November 2024 £4.00 5 45,000
+5 December 2014 3 5 December 2014 4 December 2024 £0.10 9 15,000
+22 December 2014 3 22 December 2014 21 December 2024 £0.10 9 40,000
+10 April 2015 10 10 April 2015 9 April 2025 £2.25 10 35,000
+11 May 2015 1 11 May 2015 10 May 2025 £0.10 11 75,000
+2 June 2015 10 2 June 2015 1 June 2025 £2.55 10 110,000
+12 June 2015 3 12 June 2015 11 June 2025 £0.10 10 115,751
+19 June 2015 3 19 June 2015 18 June 2025 £0.10 10 140,000
+23 June 2015 3 23 June 2015 22 June 2025 £0.10 10 10,000
+24 June 2015 3 24 June 2015 23 June 2025 £0.10 10 25,000
+25 June 2015 3 25 June 2015 24 June 2025 £0.10 10 39,804
+26 June 2015 3 26 June 2015 25 June 2025 £0.10 10 15,000
+29 June 2015 3 29 June 2015 28 June 2025 £0.10 10 10,000
+30 June 2015 3 30 June 2015 29 June 2025 £0.10 10 25,000
+6 July 2015 3 6 July 2015 5 July 2025 £0.10 10 10,000
+16 July 2015 3 16 July 2015 15 July 2025 £0.10 10 457,931
+17 July 2015 3 17 July 2015 16 July 2025 £0.10 10 112,441
+24 July 2015 3 24 July 2015 23 July 2025 £0.10 10 25,000
+28 July 2015 3 28 July 2015 27 July 2025 £0.10 10 15,000
+28 August 2015 3 28 August 2015 27 August 2025 £0.10 10 10,000
+23 September 2015 10 23 September 2015 22 September 2025 £1.27 10 120,000
+23 October 2015 3 23 October 2015 22 October 2025 £0.10 10 40,000
+29 October 2015 3 29 October 2015 28 October 2025 £0.10 10 20,000
+2 November 2015 3 2 November 2015 1 November 2025 £0.10 10 15,000
+10 November 2015 3 10 November 2015 9 November 2025 £0.10 10 10,000
+4,437,995
+The following vesting schedule applies:
+1. Fully vested at grant date.
+2. Partially vested at grant date; 1/48 of granted option shares vest monthly thereafter.
+3. 25% of option vests on exercisable commencement date; 1/48 of granted option shares vest monthly thereafter.
+4. Option vests on third anniversary of the grant date.
+5. Option vests 25% on first anniversary of the vesting commencement date, with the balance vesting monthly thereafter until final vesting date.
+6. Option vests 50% on 1 September 2014 and 50% on 1 September 2015.
+7. Option vests 40% on 1 January 2014 and 60% on 1 January 2015.
+8. Option vests one-third on 31 January 2015 and then one-sixth every six months until final vesting date.
+9.  Option vests one-third on first anniversary of vesting commencement date, with the balance vesting monthly thereafter until final vesting date.
+10.  Option vests in three instalments. One-third on first anniversary of vesting commencement date, one-third on second anniversary 
+and one-third on third anniversary.
+11. Option vests 100% on first anniversary of vesting commencement date.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+FOR THE YEAR ENDED 31 DECEMBER 2015 WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 59
+FINANCIAL STATEMENTS
+21. Share-based payment continued
+Share-based payment charges related to acquisitions
+As part of the acquisitions of OhmData, Inc. in June 2014, AltoStor, Inc. in November 2012 and TortoiseSVN.net community website in June 2013, 
+restricted shares were issued to the former owners of the business for OhmData, Inc. and AltoStor, Inc. and the lead developer of the website 
+for TortoiseSVN.net community website. These shares were treated as contingent payments and have been accounted for under IFRS 2 
+“Share-based Payment” rather than as part of the acquisition consideration under IFRS 3 “Business Combinations”.
+Equity-settled
+share-based
+Restricted payment
+shares charge
+Acquisition $’000 $’000
+OhmData, Inc. 25,990 241
+AltoStor, Inc. — 249
+TortoiseSVN.net 16,000 124
+41,990 614
+Number and weighted average exercise price of shares
+The number and weighted average exercise price of share options (including previous options in WANdisco, Inc.) were as follows:
+2015 2014
+Number Number
+Balance at the start of the year 4,301,667 3,305,201
+Granted 1,550,927 1,878,561
+Forfeited (1,086,309) (414,100)
+Exercised (328,290) (467,995)
+Balance at the end of the year 4,437,995 4,301,667
+Exercisable at the end of the year 1,435,100 675,631
+Vested at the end of the year 1,856,870 1,081,844
+Weighted average exercise price for:
+2015 2014
+$ $
+Shares granted 0.69 3.25
+Shares forfeited 6.75 11.06
+Options exercised 0.19 0.99
+Exercise price in the range:
+From 0.15 0.16
+To 18.19 20.96
+2015 2014
+Years Years
+Weighted average contractual life remaining 6.2 6.5 WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 60
+21. Share-based payment continued
+Number and weighted average exercise price of shares continued
+The fair value of each option grant is estimated on the date of grant using the Black-Scholes option pricing model with the following 
+weighted average assumptions:
+2015 2014
+Dividend yield 0.00% 0.00%
+Risk-free interest rate 1.53% 2.28%
+Stock price volatility 30% 30%
+Expected life (years) 3.8 4.9
+Weighted average fair value of options granted during the year $2.76 $7.61
+• The dividend yield is based on the Company’s forecast dividend rate and the current market price of the underlying common stock 
+at the date of grant.
+• Expected life in years is determined from the average of the time between the date of grant and the date on which the options lapse.
+• Expected volatility is based on the historical volatility of shares of listed companies with a similar profile to the Company.
+• The risk-free interest rate is based on the treasury bond rates for the expected life of the option.
+22. Disposal
+On 20 February 2015 WANdisco International Limited disposed of software to SyntevoGmbH for a consideration of €1. This software was fully 
+written down at the point of disposal so there was no material profit/(loss) on disposal.
+23. Commitments and contingent liabilities
+Operating lease commitments
+The total amounts payable under non-cancellable operating leases are as follows:
+2015 2014
+Land and buildings $’000 $’000
+Within one year 507 290
+Between two and five years 576 477
+1,083 767
+Capital commitments and contingent liabilities
+At 31 December 2015 the Group had no capital commitments (2014: $nil).
+The Group had no contingent liabilities at 31 December 2015 (2014: None).
+24. Related parties and related party transactions
+Identity of related parties 
+The Group has a related party relationship with its subsidiaries and with its Directors.
+25. Post-balance sheet events
+There are no significant or disclosable post-balance sheet events.
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS CONTINUED
+FOR THE YEAR ENDED 31 DECEMBER 2015 WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 61
+FINANCIAL STATEMENTS
+FIVE YEAR RECORD
+2011 2012 2013 2014 2015
+31 December $’000 $’000 $’000 $’000 $’000
+New sales bookings 4,618 7,916 14,768 17,360 9,012
+New sales bookings growth 50% 71% 87% 18% -48%
+Revenue 3,878 6,031 8,012 11,218 10,994
+Revenue growth 30% 56% 33% 40% -2%
+Deferred revenue (including unbilled revenue) 4,466 6,368 13,124 19,269 16,239
+Deferred revenue growth 20% 43% 106% 47% -16%
+Net cash 74 14,545 25,673 2,481 2,555
+Operating loss (1,154) (8,541) (19,268) (39,917) (30,529)
+Development costs and software amortised 980 2,018 4,918 8,283 9,600
+Depreciation 46 52 138 267 270
+Acquisition-related items — — — 145 —
+Exceptional items 205 2,656 2,276 1,441 614
+EBITDA before exceptional items 77 (3,815) (11,936) (29,781) (20,045)
+Add back equity-settled share-based payment charge 73 813 4,104 11,907 4,057
+Adjusted EBITDA before exceptional items 150 (3,002) (7,832) (17,874) (15,988)
+Development expenditure capitalised (1,207) (2,912) (7,443) (9,040) (8,369)
+Adjusted EBITDA before exceptional items including development expenditure (1,057) (5,914) (15,275) (26,914) (24,357) WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 62
+Notice is given that the fourth Annual General Meeting of WANdisco plc (“the Company”) will be held at the Company’s offices, 
+Electric Works, 3 Concourse Way, Sheffield Digital Campus, Sheffield S1 2BJ on 25 May 2016 at 10am for the following purposes:
+To consider and, if thought fit, to pass the following resolutions as ordinary resolutions:
+1.  That the Company’s financial statements for the year ended 31 December 2015, the Strategic report and the reports of the Directors 
+and auditor thereon be received and considered.
+2. That Paul Harrison, who retires by rotation as a Director of the Company, be re-appointed as a Director of the Company.
+3. That Ian Duncan, who retires by rotation as a Director of the Company, be re-appointed as a Director of the Company.
+4. That KPMG LLP be re-appointed as auditor of the Company.
+5. That the Directors be authorised to determine the remuneration of the auditor.
+6.  That in substitution for all existing authorities but without prejudice to any allotment, offer or agreement already made pursuant thereto, 
+the Directors be and are hereby generally and unconditionally authorised pursuant to Article 2.3 of the Company’s Articles of Association 
+(“Articles”) to exercise all powers of the Company to allot, grant options over or otherwise dispose of relevant securities (as that term is 
+defined in the Articles) in respect of up to an aggregate nominal amount of £995,996, provided that (unless previously revoked, varied 
+or renewed) this authority shall expire on the earlier of the date which is 15 months after the date the resolution was passed and the 
+conclusion of the next Annual General Meeting of the Company, save that the Company may before such expiry make an offer or 
+agreement which would or might require relevant securities to be allotted after such expiry and the Directors may allot equity securities 
+in pursuance of such an offer or agreement as if the power had not expired.
+To consider and, if thought fit, to pass the following resolutions as special resolutions:
+7.  That, subject to the passing of resolution 6 and pursuant to Article 2.10 of the Articles, the Directors be and are hereby generally 
+empowered to allot, grant options over or otherwise dispose of equity securities (within the meaning of the Articles) wholly for cash, 
+pursuant to the general authority described in resolution 6 above, as if pre-emption rights did not apply to any such allotment, such 
+power being limited to:
+ 7.1  the allotment of equity securities in connection with a rights issue, open offer or pre-emptive offer to holders on the register of 
+the ordinary shares in the capital of the Company (“ordinary shares”) on a date fixed by the Directors where the equity securities 
+respectively attributable to the interests of all those shareholders are proportionate (as nearly as practicable) to their respective 
+holdings on that date subject to any exclusions or other arrangements as the Directors may consider necessary or expedient in 
+relation to fractional entitlements, legal or practical problems under the law of any territory or the regulations or requirements 
+of any relevant regulatory authority or stock exchange in any territory; and
+ 7.2  the allotment (other than pursuant to resolution 7.1 above) wholly for cash of ordinary shares up to an aggregate nominal amount 
+of £298,799, 
+  provided that (unless previously revoked, varied or renewed), such authorities shall expire on the earlier of the date which is 15 months 
+after the date the resolution was passed and the conclusion of the next Annual General Meeting of the Company, save that the Company 
+may before such expiry make an offer or agreement which would or might require equity securities to be allotted after such expiry and 
+the Directors may allot equity securities in pursuance of such an offer or agreement as if the power had not expired.
+8.  That the Directors be and are hereby authorised pursuant to Article 13 of the Articles and Article 57 of the Companies (Jersey) Law 1991, 
+as amended (“the Law”) to make market purchases of ordinary shares, subject to the following conditions:
+ 8.1  the maximum number of ordinary shares authorised to be purchased may not be more than 15% of the issued share capital 
+of the Company as at the date of this notice;
+ 8.2 the minimum price (exclusive of expenses) which may be paid for an ordinary share is £0.001; and
+ 8.3 the maximum price (exclusive of expenses) which may be paid for an ordinary share shall not exceed:
+  8.3.1  an amount equal to 105% of the average middle market quotation for ordinary shares taken from the London Stock 
+Exchange plc Daily Official List for the five business days immediately preceding the date on which such shares are 
+to be contracted to be purchased; and
+  8.3.2  the higher of the price of the last independent trade and the highest current independent bid on the London Stock 
+Exchange plc Daily Official List at the time,
+  such authority to expire on the earlier of the date which is 15 months after the date the resolution was passed and the conclusion 
+of the next Annual General Meeting of the Company, unless such authority is varied, revoked or renewed prior to such date.
+NOTICE OF ANNUAL GENERAL MEETING WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 63
+FINANCIAL STATEMENTS
+9.  That, pursuant to Article 58A(1)(b) of the Law and Article 13 of the Articles, an ordinary share purchased pursuant to resolution 8 above 
+may be held by the Company as treasury shares in accordance with Articles 58A and 58B of the Law.
+By order of the Board
+Louise Hall
+Company Secretary
+24 March 2016
+Registered office 
+47 Esplanade 
+St. Helier 
+Jersey 
+JE1 0BD
+Registered in Jersey under the Companies (Jersey) Law 1991 with company number 110497.
+Notes
+Entitlement to attend and vote
+1.  In accordance with Article 40(1) of the Companies (Uncertificated Securities) (Jersey) Order 1999, the right to vote at the meeting is 
+determined by reference to the register of members. Only those shareholders registered in the register of members of the Company 
+as at 10am on 23 May 2016 (or, if the meeting is adjourned, 48 hours before the time of the adjourned meeting) shall be entitled to 
+attend and vote at the meeting in respect of the number of shares registered in their name at that time. Changes in entries in the register 
+of members after that time shall be disregarded in determining the rights of any person to attend or vote (and the number of votes they 
+may cast) at the meeting.
+Proxies
+2.  A shareholder is entitled to appoint another person as his or her proxy to exercise all or any of his or her rights to attend and to speak 
+and vote at the meeting and, on a poll, vote instead of him or her. A proxy need not be a shareholder of the Company.
+  A shareholder may appoint more than one proxy in relation to the meeting, provided that each proxy is appointed to exercise the rights 
+attached to a different share or shares held by that shareholder. Failure to specify the number of shares each proxy appointment relates 
+to or specifying a number which when taken together with the numbers of shares set out in the other proxy appointments is in excess 
+of the number of shares held by the shareholder may result in the proxy appointment being invalid.
+  A special resolution means a resolution passed by a majority of three-quarters of the holders who (being entitled to do so) vote in person, 
+or by proxy, at a general meeting of the Company or at a separate meeting of a class of members of the Company.
+3. A proxy may only be appointed in accordance with the procedures set out in Note 4 and the notes to the proxy form.
+ The appointment of a proxy will not preclude a shareholder from attending and voting in person at the meeting.
+  CREST members who wish to appoint a proxy or proxies or to give an instruction to a proxy (whether previously appointed or otherwise) 
+by utilising the capital and CREST electronic proxy appointment service may do so in relation to the meeting, and any adjournment(s) 
+thereof, by utilising the procedures described in the CREST Manual. In order for a proxy appointment made by means of CREST to be 
+valid, the appropriate CREST message must be transmitted via the CREST system so as to be received by Neville Registrars Limited 
+(whose CREST ID is 7RA11) by the latest time for receipt of proxy appointments specified above. For this purpose, the time of receipt 
+will be taken to be the time (as determined by the timestamp applied to the message by the CREST Applications Host) from which the 
+Company’s agent is able to retrieve the message by enquiry to CREST in the manner prescribed. The Company may treat as invalid 
+a CREST Proxy Instruction in the circumstances set out in the Companies (Uncertificated Securities) (Jersey) Order 1999.
+  A proxy does not need to be a member of the Company but must attend the Annual General Meeting to represent you. Details of how 
+to appoint the Chairman of the Annual General Meeting or another person as your proxy using the proxy form are set out in the notes 
+to the proxy form. You may appoint more than one proxy to attend on the same occasion. WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 64
+Notes continued
+Proxies continued
+4.  A form of proxy is enclosed. When appointing more than one proxy, complete a separate proxy form in relation to each appointment. 
+Additional proxy forms may be obtained by the proxy form being photocopied. State clearly on each proxy form the number of shares 
+in relation to which the proxy is appointed.
+  A vote withheld is not a vote in law, which means that the vote will not be counted in the calculation of votes for or against the resolution. 
+If no voting indication is given in the proxy form, your proxy will vote or abstain from voting at his or her discretion. Your proxy will vote 
+(or abstain from voting) as he or she thinks fit in relation to any other matter which is put before the AGM.
+  In the case of joint holders, where more than one of the joint holders purports to appoint a proxy, only the appointment submitted 
+by the most senior holder will be accepted. Seniority is determined by the order in which the names of the joint holders appear in the 
+Company’s register of members in respect of the joint holding (the first-named being the most senior).
+  To be valid, a proxy form must be received by post or (during normal business hours only) by hand at the offices of the Company’s 
+transfer agent, Neville Registrars Limited, 18 Laurel Lane, Halesowen, West Midlands B63 3DA, no later than 10am on 23 May 2016 
+(or, if the meeting is adjourned, no later than 48 hours (excluding any part of a day that is not a working day) before the time of any 
+adjourned meeting).
+  To change your proxy instructions simply submit a new proxy appointment using the methods set out above. Any amended proxy 
+appointment received after the time specified above will be disregarded.
+  Where you have appointed a proxy using the hard-copy proxy form and would like to change the instructions using another hard-copy 
+proxy form, please contact Neville Registrars Limited.
+  If you submit more than one valid proxy appointment, the appointment received last before the latest time for the receipt of proxies 
+will take precedence.
+  In order to revoke a proxy instruction you will need to inform the Company by sending a signed hard-copy notice clearly stating your 
+intention to revoke your proxy appointment to Neville Registrars Limited. In the case of a member which is a company, the revocation 
+notice must be executed under its common seal or signed on its behalf by a duly authorised officer of the company or an attorney for 
+the company. Any power of attorney or any other authority under which the revocation notice is signed (or a notarially certified copy 
+of such power or authority) must be included with the revocation notice. The revocation notice must be received by Neville Registrars 
+Limited prior to the commencement of the Annual General Meeting or adjourned meeting at which the vote is given or, in the case 
+of a poll taken otherwise than on the same day as the meeting or adjourned meeting, before the time appointed for taking the poll.
+  If you attempt to revoke your proxy appointment but the revocation is received after the time specified then your proxy appointment 
+will remain valid.
+Corporate representatives
+5.  A shareholder which is a corporation may authorise one or more persons to act as its representative(s) at the meeting. Each such 
+representative may exercise (on behalf of the corporation) the same powers as the corporation could exercise if it were an individual 
+shareholder, provided that (where there is more than one representative and the vote is otherwise than on a show of hands) they do not 
+do so in relation to the same shares. A Director, the Secretary or other person authorised for the purpose by the Secretary may require all 
+or any such persons to produce a copy of the resolution of authorisation certified by an officer of the corporation before permitting him 
+to exercise his powers.
+Method of voting
+6.  Voting on all resolutions will be decided on a show of hands unless, before or on declaration of the result of, a vote on the show 
+of hands, or on the withdrawal of any other demand for a poll, a poll is duly demanded.
+Documents available for inspection
+7.  The following documents will be available for inspection during normal business hours at the registered office of the Company and at 
+the Company’s business address, Electric Works, Sheffield Digital Campus, Sheffield S1 2BJ, from the date of this notice until the time of 
+the meeting. They will also be available for inspection at the place of the meeting from at least 15 minutes before the meeting until it ends:
+ 7.1 copies of the service contracts of the Executive Directors; and
+ 7.2 copies of the letters of appointment of the Non-executive Directors. 
+Biographical details of Directors
+8.  Biographical details of all those Directors who are offering themselves for appointment or re-appointment at the meeting are set out 
+on pages 22 and 23 of the enclosed Annual Report and Accounts.
+NOTICE OF ANNUAL GENERAL MEETING CONTINUED WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 65
+FINANCIAL STATEMENTS
+SECRETARY, ADVISERS AND SHARE CAPITAL INFORMATION
+ 
+Design Portolio is committed to planting 
+trees or every corporate communications 
+project, in association with Trees or Cities.
+Secretary
+Louise Hall
+Offices
+UK office
+Electric Works
+Sheffield Digital Campus
+Sheffield S1 2BJ
+US office
+5000 Executive Parkway
+Suite 270
+San Ramon, CA 94583
+USA
+Registered office
+47 Esplanade
+St. Helier
+Jersey JE1 0BD
+Company registered number
+110497
+Nominated adviser and joint broker
+Investec Bank plc
+2 Gresham Street 
+London EC2V 7QP
+Joint broker
+UBS Investment Bank
+1 Finsbury Avenue
+London EC2M 2PP
+Auditor
+KPMG LLP
+1 Sovereign Square
+Sovereign Street
+Leeds LS1 4DA
+Legal advisers
+DLA Piper UK LLP
+1 St. Paul’s Place
+Sheffield S1 2JX
+Carey Olsen
+47 Esplanade
+St. Helier
+Jersey JE1 0BD
+Bankers
+HSBC Bank plc
+Yorkshire and North East Corporate Banking Centre
+4th Floor
+City Point
+29 King Street
+Leeds LS1 2HL
+Barclays Bank plc
+St. Paul’s Place
+121 Norfolk Street
+Sheffield S1 2JW
+Registrars
+Neville Registrars Limited
+18 Laurel Lane
+Halesowen
+West Midlands B63 3DA
+Share capital
+The ordinary share capital of WANdisco plc is listed on AIM, a market 
+operated by London Stock Exchange Group plc. The shares are listed 
+under the trading ticker WAND. The ISIN number is JE00B6Y3DV84. WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015
+WANdisco plc
+47 Esplanade
+St. Helier
+Jersey JE1 0BD

@@ -1,0 +1,158 @@
+ We saw many fundamental changes in the data communications 
+industry in 2014, which in turn caused uncertainty and volatility in 
+demand across all sectors, customer types and regions. Changes 
+in technologies and deployment of virtual networks challenge 
+established products and business models, but change also 
+creates opportunity, driving new business for Spirent. Constantly 
+evolving and developing data technologies demand new test 
+methodologies and solutions, the lifeblood of Spirent’s business. 
+There are a number of major themes which are driving these 
+changes, and it is in these areas that we see significant 
+opportunities for our business. We have divided these 
+opportunities into six specific growth categories, as follows:
+High speed Ethernet
+One of the major themes for fundamental change in our industry 
+is the continued exponential growth in network bandwidth. 
+In particular, the transport of video across our networks has 
+continued to create the need for faster networks. In 2015, 
+we will see widespread deployment of 100G networks by 
+the service providers and the trialling of 400G. 
+Maintaining performance at these speeds requires precise 
+equipment and sophisticated testing techniques. Spirent will 
+continue to invest in its core products to help its customers 
+meet these rapidly growing bandwidth demands. 
+Chief Executive Officer’s strategic review
+Eric Hutchinson
+Chief Executive Officer
+Our vision
+To be recognised as the 
+leading experts in test 
+methodologies and 
+solutions for data 
+communications.
+How we will achieve our vision
+— pages 14 and 15
+Spirent Communications plc
+Annual Report 2014
+10 Analytics
+There is more data than ever being generated on the network, 
+at the cell site and on user equipment. Service providers are keen 
+to analyse this data as it helps them improve customer retention, 
+increase revenue and strengthen market share. Data analytics also 
+improve information accuracy and increases operational efficiency, 
+all of which leads to an enhanced experience for the service 
+providers’ customers.
+For customers trying to analyse the experience across their 
+network, disparate data silos make it hard to get a complete view. 
+Spirent’s Customer Experience Management (“CEM”) solutions 
+bring together data from different silos, helping our customers 
+to pinpoint and resolve problems fast. Additionally, our device 
+analytics offerings improve decision making in all areas of the 
+operator’s business, including marketing, sales, customer care 
+and network infrastructure, and as input for targeted campaigns.
+Adjacent markets
+The acquisition of key protocols and test tools and solutions have 
+reinforced our capabilities to assure the testing of the provision 
+of connectivity for machine-to-machine, the internet of things, 
+indeed, the internet of everything. 
+Spirent has made inroads into providing new capabilities  
+in automotive data and connected cars, again acquiring 
+technologies during the year. These are laying the foundations 
+for long term market expansion and diversification.
+Our approach
+The vision for Spirent is to be recognised as the leading expert 
+in test methodologies for data communications. Spirent has the 
+technical capabilities to satisfy the needs created by all of the 
+above opportunities and is differentiated compared with other 
+test and measurement suppliers in having such a wide portfolio of 
+capabilities. Spirent exists to create solutions to solve customers’ 
+problems, to reduce time to market, to ensure quality of service 
+and of experience, to create value through more efficient and 
+effective development engineering and operations and to optimise 
+our customers’ capital expenditure and ensure their customers’ 
+brand reputation is protected. The implementation of Agile 
+software development, continuous integrated test optimization 
+and automation by our customers is transitioning Spirent’s 
+business to be consultative, to focus on the business case for the 
+customer and to create test solutions and methodologies utilising 
+all the capabilities across the Spirent portfolio and the integration 
+of third party products and services. Nowhere is this more 
+pertinent than in the move to NFV and SDN. The implementation 
+of these technologies enables far more rapid system provisioning, 
+to turn up new services, more effective utilisation of resources and 
+lower costs to operators. Spirent has leading capabilities in virtual 
+test methodologies, working closely with the innovators in this 
+industry to develop test standards.
+The dynamic nature of the markets which Spirent serves can be 
+seen in this review. We are making investment decisions to target 
+those areas which offer the most value to our existing and future 
+customers. This in turn will deliver the best return on investment 
+for the Company. Uncertainty and volatility are expected to 
+continue through the near term followed by a renewed level of 
+demand for services and solutions as the industry invests in the 
+next wave of deployment.
+Eric Hutchinson
+Chief Executive Officer
+Cloud and virtualization
+Many parts of the service providers’ networks are being virtualized. 
+This virtualization is causing the established ways of deployment 
+of data technologies (through ever-increasing capital investment 
+in complex hardware) to become a commoditised market. This, 
+in turn, means that service providers, multiple service operators 
+and internet service suppliers are significantly reorganising their 
+business processes and seeking new ways to provide content to 
+subscribers, beyond traditional data networks. The virtualization of 
+networks, also referred to as software-defined networking (“SDN”) 
+or network functions virtualization (“NFV”), is aimed at increasing 
+the elasticity of network provisioning to provide on-demand 
+service creation through a dynamic programmable network. 
+It is blurring the boundaries that exist in current legacy networks. 
+Spirent’s test solutions ensure that the performance of the virtual 
+network can be assessed, the availability of the services can be 
+ascertained, that the provision is secure and scalability can be 
+measured. The emerging virtual network will need to coexist with the 
+legacy network for an extended period of time. Here Spirent enables 
+the emulation in laboratory modelling to be taken into the live network 
+to provide continuous assurance in the hybrid virtual/physical world. 
+Security
+The concern over cyber security is ever present and becoming 
+more challenging. The interconnection of devices, systems and 
+networks that were never originally intended to be connected 
+is creating new vulnerabilities for enterprise, government and in 
+critical infrastructures. The constant availability of network services 
+is the over-arching concern and cyber security threats, intrusion 
+and denial of service attacks all impact on network availability. 
+In this area, Spirent’s ability to provide realism in test traffic 
+enables our customers to optimise the balance between defence 
+and the continued service provision. Spirent has invested in the 
+development of more realistic emulation of real-world traffic to 
+test applications and security and will add more capabilities 
+through 2015. 
+In addition, Spirent has the technology to test satellite navigation 
+vulnerability, not only to allow the strengthening of defences in 
+navigation but also to test the resilience of systems that utilise 
+satellite navigation time signals in critical systems. Security will 
+be a major line of business for Spirent in the near future.
+Mobility
+Mobile communications continues to see rapid deployment of 
+new high speed high density data communications. Existing 
+revenue streams from telephony are altering with the deployment 
+of digital technologies across all networks, wireline or wireless. 
+The polarisation of the smartphone market is well documented 
+as is the rise of new manufacturers challenging the position of 
+newly dominant suppliers. Wireless carriers need to optimise their 
+investment in the deployment of 4G LTE, Wi-Fi offload and small 
+cell. They are also deploying digital voice through VoLTE, which 
+in turn enables the provision of rich communication services. 
+Interoperability challenges are now the main theme in this industry 
+and Spirent has developed the world’s first test platform to enable 
+interoperability test on device-to-device systems and on emulated 
+network domains. Our leading capabilities in mobile infrastructure 
+test are facilitating the rapid deployment of 4G LTE networks which 
+allows wireless carriers to model traffic patterns in advance of 
+significant capital expenditure, meaning they optimise their 
+investment and provide the best quality of service to subscribers. 
+Spirent Communications plc
+Annual Report 2014
+11
+Strategic report Governance Financial statements

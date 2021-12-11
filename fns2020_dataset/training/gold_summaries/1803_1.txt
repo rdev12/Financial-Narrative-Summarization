@@ -1,0 +1,237 @@
+ Dec 02
+Jun 03
+Dec 03
+Jun 04
+Dec 04
+Jun 05
+Dec 05
+Jun 06
+Dec 06
+300
+250
+200
+150
+100
+50
+0
+Weekly user spending
+UK£ including VAT (thousands)
+CEO’s report
+0 CEO’s report
+During the year ended March 2007, I am pleased to report that we 
+have made significant progress towards developing a Company that 
+is positioned to take full advantage of the growth in the mobile web.  
+It has been a year of honing our products and our organization to 
+become more efficient and more focused on where market demand is 
+growing fastest. 
+ 
+Specific activities include investment in our sales and marketing 
+presence in the USA and Spain; development of our products and 
+technology to make them easier to use and to expand their capability 
+and efficiency; and the establishment of relationships with companies 
+such as Yahoo! that we believe will be key to our success as the 
+mobile web becomes mainstream. 
+Bango’s product strength together with our sales and marketing 
+activity won us more than 250 new Pro level customers including big 
+brands such as Paramount Pictures, MTV and Gameloft and many 
+smaller content providers.  These customers signed up to one of our 
+mobile web focussed products which generate recurring revenues for 
+the business. 
+In addition many of these new customers have been successful 
+in gaining business on the mobile web, resulting in a significant 
+increase in transaction volumes over the year. Comparing March 
+2007 with March 2006, average daily user spending was up 48%. 
+We revised our revenue growth expectations downwards during the 
+year as a result of three factors: a 2 month pause in growth in the 
+UK in mid 2006, a slowness by larger companies in deploying their 
+Bango powered solutions and a higher attrition rate among smaller 
+US customers than we had experienced in other countries. I am 
+pleased to report that revenue growth resumed at the end of 2006 
+and that we are seeing lower attrition among customers as we refine 
+our products and the market starts to expand. 
+In January 2007 we initiated a drive to increase efficiency and 
+effectiveness where we are seeing most growth and on reducing 
+other activities.  An example of this approach has been to exploit key 
+partner relationships established in 2006  to implement operating 
+cost reductions while increasing sales volumes.   A reduced monthly 
+cash burn of under £100,000 at financial year end show progress 
+towards positive cash flow and profitability.  Our year end cash 
+balance of almost £2 million is considered sufficient to do this.  We 
+have adopted a more conservative approach to forecasting and remain 
+focused on achieving the transition to profitability in the coming year.
+The market continues to develop broadly in the way we envisaged, 
+to favour the use of the mobile web as a way to sell and market 
+content to users.  UK and Spanish mobile operators announced “flat 
+rate” and low cost mobile internet tariffs.  Operators also started to 
+open up their portals by including search engines. Major internet 
+companies such as Google, Yahoo!, eBay and MySpace are beginning 
+to push their PC users to mobiles. Our sales pipeline is expanding 
+and customer sign-up rates are increasing. Our unique technology 
+and product offering, together with the benefits of our expanding 
+network of customers give us competitive advantage. We therefore 
+enter the new financial year with confidence and enthusiasm.
+Sales and marketing
+We continued to develop our regional sales teams, modelled after our 
+successful UK operations. The USA team based out of New York is 
+making good progress. We expect many successful mobile websites 
+will originate there and that many of the global leaders in mobile web 
+will be most active in that market. We have a smaller presence in 
+Spain, where we see many companies developing mobile sites with 
+global appeal. 
+Our sales operations focussed in Germany did not show the traction 
+we expected. Larger German content providers seem focussed 
+on their local market, so the power of Bango’s global reach is not 
+as valuable. In addition those German companies with a global 
+perspective prefer to engage with the UK based teams.  We therefore 
+scaled down our German-specific activities and re-allocated resources 
+to a “Pan-European” team. As outlined previously, this is also in line 
+with our aim to increase operational efficiency. 
+ 
+We believe that the US mobile content market is currently about 12 
+months behind the UK market but growing fast. Complexities of text 
+messaging may mean that the US transitions more quickly from the 
+SMS messaging phase that we saw in the UK to an internet model. 
+The advertising led culture in the US is stimulating growth in the 
+mobile web in a way not seen so far outside Japan. The launch of  
+the Apple iPhone is raising the awareness of web access through 
+mobiles.  
+ 
+Bango Partner Program
+During 2006 we invested considerable time and resource in building 
+a base of “development partners” who build mobile sites for content 
+providers. With more than 30 partners actively participating in this 
+program versus 14 a year earlier, we have shifted our focus towards 
+making these partners successful and transferred the responsibilities 
+of our global partner program into our regional sales, marketing and 
+support teams. 
+Bango salespeople now engage partners faster in the selling cycle, 
+shortening lead times and accelerating sales. Partners get direct 
+access to Bango’s customer service teams to enable them to 
+better support opportunities. We have a special offering for new 
+development partners, enabling them to learn about and integrate 
+Bango technology without having to find an initial customer. The 
+result of this has been an increased efficiency in dealing with 
+partners, lowering costs and with the expectation of increased sales 
+productivity in the coming years. 
+In the expectation of a rapid acceleration in demand for small, 
+low cost mobile websites, we continue to work closely with a 
+handful of companies we believe will be important providers of 
+such services to “embed” Bango technology into their products.
+ 
+Product development
+Our unique technology and the service it enables is key to our 
+competitive differentiation.  The development team continued to 
+add significant new features and functions to the Bango platform  CEO’s report  
+to enable content providers to offer a better user experience and 
+to reduce the costs of doing business in the mobile internet. For 
+example, our BillRank technology finds the lowest cost biller for any 
+payment transaction.  
+We also added features to the Bango platform that increased the 
+number of visitors to content providers’ sites by providing better 
+integration with mobile search engines such as Yahoo!, JumpTap and 
+Google. We believe that promotion of content through mobile search 
+engines will become an important driver of end user activity in the 
+coming years, and it is an area where we see good opportunities to 
+leverage our independent industry position. 
+System availability exceeded 99.995% during the year. With 
+transaction volumes constantly increasing, scalability at low cost 
+and without service outage is vital. Our R&D team has steadily 
+increased the capacity of the Bango system to stay ahead of demand 
+at low cost. We established a third hosting facility and acquired new 
+hardware and software for our data-centres from Zeus (cacheing and 
+cross-server load balancing) and NetApp (reliable highly scalable 
+storage). We also succeeded in achieving Level 2 PCI Data Security 
+Standard certification.  
+We reinforced our IPR position by applying for further patents relating 
+to our BillRank technology.   We were also first to demonstrate the 
+new UK “Payforit” user experience which is now automatically 
+available to all our content providers. Payforit, a cross network mobile 
+internet billing scheme, will become a mandatory requirement for 
+mobile commerce in the UK later in calendar year 2007, and will 
+accelerate the move away from SMS based payment systems. 
+Work to streamline and simplify our “self-service” proposition 
+continued and we introduced a zero cost of entry “starter package” 
+in preparation for marketing activity with key partners later in 2007. 
+If the market develops as we anticipate we need to be able to service 
+hundreds of thousands of content provider customers rather than the 
+thousands we handle today.  This work is ongoing.  
+Financial performance
+Revenues grew 38% to £10.43m (£7.53m) and gross profit grew 
+12% to £2.47m (£2.19m FY06). 
+After slower growth in content access fees in the first half of the 
+year, more substantial growth returned in the second half of the year, 
+with revenue for the year up by 37% on the previous year.  In line 
+with Bango’s decision to increase payouts to larger content provider 
+customers, the gross margin percentage on content access fees 
+reduced to 13% (2006: 20%).  In absolute terms the gross margin 
+earned on content access fees held broadly level at £1.17m (2006: 
+£1.31m). 
+Content provider revenues grew to £1.54m (2006: £1.00m), up by 
+53% compared with the previous year, with margin also increasing by 
+a similar percentage to £1.26m (2006: £0.82m). 
+Revenue and margin from services to mobile operators decreased to 
+£0.03m (2006: £0.06m) as the Company continues to move away 
+from one-off sources of income. 
+ 
+Operating expenses (excluding share based payments) increased by 
+48% to £5.53m (£3.75m) due to our expansion into new territories, 
+product development and increased marketing spend. They reduced 
+from around £550,000 per month in October 2006 to below 
+£400,000 per month in March 2007. 
+The period to December 2006 was marked by investment in 
+marketing, sales and partner recruitment to gain presence in 
+Germany, USA and Spain. In January 2007 the changes in our 
+partner program and sales focus enabled us to reduce our cost base 
+by around 30% over a 3-month period while still increasing monthly 
+revenues and gross margin. 
+Our expectation is that we can continue to grow revenues and 
+margins considerably with current operating cost levels, as a result of 
+the high leverage we gain from our systems and partners. 
+A key focus on entering the current financial year is reducing 
+customer acquisition cost to ensure we are in a good position to 
+capitalize on our position when the market accelerates. 
+The loss before tax was £3.32m, £2.92m before share based 
+payments. (£1.53m, £1.36m before share based payments).   
+The loss was mostly due to investments in international roll-out, 
+primarily in sales and marketing activity. 
+The cash outflow from operations was broadly in line with the trading 
+results for the period, reflecting the small change in working capital 
+requirements despite the substantial increase in revenue and the 
+purchase of new hardware to support future increases in demand as 
+expected as existing and new customers increase their transaction 
+volumes. 
+We experienced an increase in attrition rates during the year. Some 
+early customers in the USA proved over-optimistic in their revenue 
+forecasts and postponed their entry into the mobile web. Some of 
+these have since returned now that there are ways to market more 
+efficiently.  Bango wishes to supply all potential customers without 
+necessarily being able to predict which of those customers will 
+succeed in monetizing their content. Therefore our business model 
+and technologies concentrate on reducing costs and barriers to 
+becoming a Bango customer and ensuring the running costs in the 
+early stages of developing a mobile business are low.  
+Entering FY2007/8 the net monthly cash burn was around 
+£100,000. Further sign-ups of customers and increasing transaction 
+volumes are generating increasing gross margin. With costs stable we 
+believe our existing resources and further business growth will take us 
+to positive cash flow and profitability. 
+ 
+Outlook and strategy for FY2007/ We have established an effective and scalable business in an 
+early stage market.  Growth is continuing and current performance 
+indicators are favourable. 
+With largely predictable and stable operational costs, our focus for the 
+year to March 2008 is to continue to drive down customer acquisition 
+costs and to strengthen the product proposition.  This will enable 
+us to increase our growth rates while maintaining stable operating 
+expenditure.  
+Our goal is to reach profitability and to be cashflow positive with a 
+significantly reduced cost of customer acquisition this year – and 
+before the market enters a fast growth phase. This will enable us to 
+capitalize on market growth from a position of strength. 
+On behalf of the Board, I would like to express my gratitude to 
+Bango’s partners and employees for their continued support. Working 
+with mobile operators, content providers, billing companies and other 
+commercial partners and investors, we look forward to increasing 
+success in the year ahead. 
+Ray Anderson 
+Chief Executive Officer

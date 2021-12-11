@@ -1,0 +1,317 @@
+ Ubiquity Software Corporation PLC Annual report and financial statements 2005  Ubiquity Software Corporation PLC Annual report and financial statements 2005
+ 00 in review
+In 2005, our revenues grew 40% 
+year over year; we captured several 
+new key customers; we developed 
+or strengthened relationships  
+with global channel partners; 
+we introduced pre-packaged 
+applications intended to drive 
+commercial deployments of our  
+SIP Application Server; and we 
+prepared the Company for growth 
+by raising £20 million through the 
+floatation on AIM.
+During 2005, we were selected by a 
+number of customers that we plan 
+to leverage in order to accelerate 
+our growth in the SIP market in 
+2006 and beyond. First, we 
+announced a deployment with 
+United Online Inc (Netzero), an 
+alternative Service Provider based 
+in the US who is an early adopter of 
+Voice over Internet Protocol (VoIP) 
+services. Second, we won 
+numerous trial engagements with 
+the early adopter Carriers that 
+include 7 of the 12 industry 
+recognised leading global Carriers. 
+Finally, we signed contracts with 
+Bell Canada and another two Tier-1 
+US Carriers and subsequent to the 
+2005 year-end, two further Tier-1 
+global Carriers via our partners. 
+These contracts currently represent 
+relatively small amounts of revenue 
+through the sale of licences for 
+development and initial small-scale 
+deployments. I believe that these 
+wins will form the foundation of  
+our future revenues, which will  
+grow as multiple new and existing 
+applications are deployed on our 
+SIP Application Server. I also believe 
+that through our hard work and 
+continued efforts at moving our 
+customers into wide-scale 
+deployments we have earned the 
+right to be recognised as a leader 
+in the SIP marketplace in 2006  
+and beyond. 
+In addition to winning the 
+architectural beachhead with 
+specific Carriers, we have been 
+successful in establishing 
+partnerships with leading Network 
+Equipment Vendors (NEVs), 
+including HP , Nokia, Lucent, 
+Siemens and Huawei and play an 
+important role in their product 
+portfolio with our open,  
+standards-based SIP platform.  
+We return value to these partners 
+by way of the applications 
+delivered on our platform, which 
+helps drive sales of their media 
+servers, gateways, session-border 
+controllers and other IMS-based 
+network elements. These 
+relationships provide incentives to 
+work together on joint marketing 
+and selling activities where both 
+parties can be successful. It is 
+through these partnerships that  
+a company of Ubiquity’s size and 
+scale is able to sell to and fulfil 
+Tier-1 Carrier requirements and we 
+therefore value them very highly. 
+Going forward our focus will be  
+on helping our partners become 
+even more effective in selling our 
+products. We intend to further 
+leverage this sales model to 
+accelerate our growth and further 
+extend our global reach.
+We also enjoy the benefit of 
+complementary technology 
+partners such as HP and Microsoft 
+where our products are integrated 
+into overall Service Delivery 
+Platforms. These technologies are 
+then used together to design, 
+Chief Executive’s statement 
+We won numerous trial engagements with the early 
+adopter Carriers that include 7 of the 12 industry 
+recognised leading global Carriers. Additionally, we 
+signed contracts with Bell Canada and another two 
+Tier-1 US Carriers and subsequent to the 2005 year-end, 
+two further Tier-1 global Carriers via our partners.
+Ian McLaren, President and Chief Executive Ubiquity Software Corporation PLC Annual report and financial statements 2005 Ubiquity Software Corporation PLC Annual report and financial statements 2005  develop and deliver specific 
+solutions in a common repeatable 
+framework. Recently, we 
+co-hosted a “developer’s 
+hothouse” with Microsoft for 
+British Telecom where we helped 
+developers from around the world 
+conceptualise, design, develop 
+and demonstrate several 
+applications created on the 
+Ubiquity SIP Application Server. 
+This was a compressed two-week 
+exercise that demonstrated  
+the speed and flexibility of 
+development using our rapid 
+service creation environment. 
+Additionally, we have worked  
+with Microsoft to integrate our  
+SIP Application Server with their 
+web-services-enabled Connected 
+Services Framework (CSF). The 
+resulting “I’m Lost” application 
+showcases our combined 
+strengths by allowing a mobile 
+subscriber to access an address  
+in their remote Outlook calendar, 
+map the location of the address, 
+and to get driving directions 
+spoken to them via natural speech 
+technology over their mobile 
+phone. This is just one example  
+of how we intend to leverage our 
+partners to help deliver new,  
+high-value services to our carrier 
+customers in the future.
+In 2005, we continued to invest in 
+our SIP Application Server Platform, 
+mediation platform and 
+application-creation environment. 
+We also invested in pre-packaged 
+application products that our 
+customers can deploy quickly for 
+a faster return on our investment 
+with little or no professional 
+services support. Currently, there 
+are an estimated 3 billion users of 
+the Public Switched T elephone 
+Network (PSTN), and less then 20 
+million users of VoIP , representing 
+a tremendous opportunity for 
+Carriers to capture new subscribers 
+as they migrate to VoIP . 
+Recognising this opportunity, 
+Ubiquity has introduced Voice Plus, 
+a pre-packaged consumer VoIP 
+solution that allows Carriers, 
+Internet Service Providers (ISPs), 
+and alternative Carriers to 
+participate and compete in this 
+growing market. Voice Plus is 
+developed and deployed on our  
+SIP Application Server Platform 
+and is designed to make it easy 
+for Service Providers to add new 
+features and scale to millions  
+of subscribers. 
+IP conferencing is another strategic 
+application area for Ubiquity as 
+conferencing minutes of use are 
+growing significantly. Legacy 
+conferencing applications are not 
+proving to serve mobile users well 
+as they have difficulty capitalising 
+on the advanced capabilities of the 
+web. SPEAK Conference Director 
+is a pre-packaged application that 
+takes advantage of the advanced 
+multimedia capabilities of the  
+SIP Application Server. SPEAK 
+offers a full-featured audio and 
+web conferencing solution at a 
+fraction of the cost of our 
+competitors. Easy-to-use SPEAK 
+web collaboration tools allow 
+moderators to share presentations, 
+web content, applications and 
+documents in real time with 
+individuals and groups around  
+the world. This product is moving 
+into deployment with two Tier-1 
+Carriers, and has several other 
+prospects in the near term.
+While Ubiquity is well prepared 
+to deliver and support the  
+Voice Plus and SPEAK solutions 
+described above, these 
+applications are only two 
+weapons in our strategy to 
+grow our market position 
+going forward. 
+“Being familiar with Ubiquity … and considering 
+they have a lot of mindshare, I have a feeling that 
+they’ll probably do well and this signals more 
+potential down the road.”
+Ron Gruia, Lead Analyst, Emerging T echnology, Frost & Sullivan Ubiquity Software Corporation PLC Annual report and financial statements 2005  Ubiquity Software Corporation PLC Annual report and financial statements 2005
+Chief Executive’s statement continued
+ 00 outlook
+The overall strategy for the 
+Company remains unchanged and 
+clear: to leverage our proven 
+technical strengths and continue 
+to do what we do best:
+ Build on beachhead of customer 
+wins, design wins and trials by 
+helping move our customers 
+towards commercial 
+deployments, and adding new 
+applications over time to 
+aggressively drive subscriber 
+growth on our platform.
+ Foster and grow our 
+relationship with our select 
+channel partners to ensure their 
+success with our platform.
+ Embed our platform in carrier 
+networks and enable ISVs and 
+third parties to develop new 
+applications that drive higher 
+utilisation of our platform and 
+enable our customers to 
+generate a greater return on 
+investment.
+ Manage our financial assets 
+wisely to grow the Company in 
+line with future revenues.
+ In 2006, it is our plan to launch  
+the Ubiquity Developer Network 
+(UDN). UDN will be a progressive 
+developer ecosystem focused on 
+bringing together Carriers, ISVs, 
+application developers, System 
+Integrators and Network 
+•
+•
+•
+•
+In an on-going effort to improve 
+our customer support services, 
+we are in the process of 
+implementing a variety of 
+exciting new tools.
+It is estimated that 
+SIP-based Application 
+Servers will reach 
+$4.7 billion by 2009.
+Yankee Group $4 . 7 billion
+> Ubiquity Software Corporation PLC Annual report and financial statements 2005 Ubiquity Software Corporation PLC Annual report and financial statements 2005  Equipment Vendors to help 
+address the needs of the 
+marketplace. These needs will be 
+articulated by our newly formed 
+Customer Advisory Council  
+made up of Carriers and Service 
+Provider customers. The goal  
+of UDN will be to facilitate the 
+building and delivering of a  
+wide range of applications by 
+providing development tools, 
+access to Carrier networks, 
+technical information, support 
+and advice aimed to take 
+developers from concept through 
+to deployment. We are excited 
+about our customer and key 
+partners support for UDN and 
+believe it will be a key enabler to 
+Ubiquity’s future growth. 
+In summary, I am pleased with 
+what we have accomplished in 
+2005. Our growing customer base 
+and market reputation sets us  
+up well for the future. While  
+we cannot dictate the timing  
+of the market’s full-scale move  
+to IP-based networks, I am 
+confident that Ubiquity and our 
+technologies will be considered  
+a “key” component of the Next 
+Generation Networks. We will 
+continue to focus on winning new 
+customers through technology 
+leadership and world-class 
+partnerships. This will be done 
+with a financial framework that 
+balances revenue growth with 
+expense management as we 
+continue to match our success 
+with the market as it matures.  
+In closing, I would like to extend 
+my appreciation to our investors, 
+customers and partners for their 
+continued support, trust and 
+confidence. I would also like to 
+thank our dedicated employees 
+for their passion and contributions 
+toward making Ubiquity a great 
+company. 
+Ian McLaren
+Chief Executive Officer
+Ubiquity Selected for 
+Next-Generation  
+SIP-Based Applications.
+“Ubiquity’s Application Server and application  
+creation environment allow us to significantly increase 
+the velocity at which we can deliver leading-edge 
+communications applications.”
+Eugene Roman, Group President,  
+Bell Canada Systems & Technology
+Case Study: Bell Canada

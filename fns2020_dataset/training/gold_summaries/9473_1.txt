@@ -1,0 +1,419 @@
+ 05 Lombard Risk Management plc Annual report and accounts 2011
+Chief Executive Officer’s statement John Wisbey
+Summary
+The Company has made great progress in the 
+year and is now well positioned, profitable and 
+cash generative. Moreover we believe that there 
+are good opportunities to advance the business 
+performance even further in the coming year which 
+we enter with a strong sales pipeline, leading-edge 
+products, a strengthened management team, an 
+appropriately structured cost base and a strong 
+balance sheet.
+Revenues grew at 32%, all of it organic growth, 
+profitability was achieved and we ended the year 
+with cash of £1.8m and no borrowings, an advance 
+of £1.1m on the previous year’s cash position. All 
+these numbers were ahead of market expectations. 
+The board is recommending a maiden dividend 
+of 0.03p per share.
+The highlights of the year were the success of 
+the UK Liquidity Regulatory programme, prompted 
+by changes in the FSA’s new reporting requirements 
+for liquidity risk which resulted in over 30 contract 
+wins, and the go live of a major Tier 1 German bank 
+for our collateral management product COLLINE
+®
+. 
+This contract had been announced in April 2009 and 
+went live in April 2010. We have now proven the 
+scalability and resilience of the COLLINE® product 
+in a leading Tier 1 bank in a global environment 
+and will roll this technology out to other products 
+requiring similar scalability and resilience. 
+Much progress was made on moving our 
+technology’s look and feel to a new platform 
+and in building components that can work across 
+our various products. Client reaction to the look 
+and feel of the new platform has been extremely 
+positive. Functionally, our products continued 
+to make great progress.
+We changed our NOMAD to Allenby Capital in 
+mid-April 2010 and shortly afterwards announced 
+several board changes, including the appointment 
+of a new Non-executive Chairman. It is particularly 
+pleasing that the growth achieved in the year 
+was able to occur during a period of considerable 
+change. Towards the end of the financial year 
+we strengthened the management team further 
+with a number of senior appointments.
+The Board considers that the Company’s 
+products are well placed with an emphasis 
+on risk management, regulatory compliance 
+and on related management reporting. 
+The valuations of our peer group on the AIM 
+market, as well as the premium trade sale prices 
+achieved by companies in a very comparable 
+space of operation like FRSGlobal or related 
+spaces like Complinet or Sophis, are at revenue 
+multiples very much higher than the Company’s 
+current market valuation on AIM. We are 
+continually being told that our specialities of 
+risk management and regulation are regarded 
+Summary
+•   32% organic revenue growth
+•   Operating in one of the hottest sectors 
+in the market for valuation
+•   Worldwide growth of regulation looks set 
+to continue with new opportunities for the 
+Company outside Europe
+•   Regulatory driven movement of derivatives 
+to clearing houses is a major opportunity
+•   New technology platform is very 
+significant driver
+•   Strengthened depth of management team
+•   Recommendation of a maiden dividend 06 Lombard Risk Management plc Annual report and accounts 2011
+Chief Executive Officer’s statement continued
+“ We enter the current financial year with 
+a strong sales pipeline, leading-edge 
+products, a strengthened management 
+team, an appropriately structured cost 
+base and a strong balance sheet.”
+Summary continued
+as the “hottest” areas of financial technology. 
+The current AIM valuation effectively reduces 
+our ability to make value-enhancing acquisitions. 
+We hope that the results being achieved will 
+result in a market re-rating in due course for 
+the benefit of all shareholders.
+Financial
+Revenues for the year increased by 32% to £11.8m 
+(2010: £8.9m). Profit before taxation was £0.6m 
+(2010: loss of £1.6m) and profit after taxation was 
+£1.3m (2010: loss of £1.6m). EBITDA was £0.7m 
+and normalised profit (stripping out one off staff 
+reduction costs and the London office move) 
+was £0.9m. Net cash was £1.8m, a considerable 
+improvement from the previous year’s £0.7m. 
+There were no borrowings.
+The profit before tax was achieved without any 
+capitalisation of software development. We have 
+been happy to expense software development 
+costs but under our accounting policy, which is 
+in accordance with IFRS, we now satisfy all of the 
+capitalisation qualifying conditions for many of 
+our products, which consequently will result in 
+the creation of an intangible asset. We have taken 
+soundings from some leading industry analysts 
+on what other companies in the sector report as 
+R&D for capitalisation purposes and it is evident 
+that there is a wide difference between companies, 
+which is relatively opaque in company accounts. 
+We will continue to be at the conservative end. 
+In the last year our total expenditure on software 
+development was £2.7m, being 23% of revenue. 
+We would welcome greater consistency of 
+presentation between companies in this area 
+to make it easier for investors to compare like 
+with like.
+The strong growth in profit after taxation is partly 
+because of the inclusion of a £0.7m deferred tax 
+asset arising from the likely realisation of some 
+of our tax losses. It should be stressed that this 
+does not recognise the total after tax benefit of 
+our tax losses which still totalled £4.8m at the 
+end of March 2011.
+Risk management and trading products 
+As well as the positive impact from the aftermath 
+of the credit crisis, there has been additional 
+regulatory impetus that helps our business. 
+In the United States the impact of the Dodd-Frank 
+legislation, and how derivatives are transacted 
+with central counterparties and cleared more 
+on exchanges has given an opportunity to 
+develop our Clearing offerings with the launch 
+of COLLINE
+®
+ CCP Clearing. The product suite 
+we are now able to market to clients for COLLINE
+®
+ 
+is a far wider one than three years ago with 
+substantially all the main requirements of a 
+collateral business met including OTC derivative 
+margin management, repo and securities lending, 
+central clearing, trade reconciliation, inventory 
+management and margin messaging plus related 
+workflow, straight through processing and reporting. 
+This broader coverage has a positive impact on 
+the price per customer that we are able to achieve.
+Net assets
+Net cash
+£2.6m
+£1.8m 07 Lombard Risk Management plc Annual report and accounts 2011
+Revenue by geographical area
+ UK
+ The Americas
+  Rest of Europe,  
+Middle East and Africa
+ Asia Pacific
+Total revenue
+£11.8m
+Operating cash generated
+£1.2m
+Revenue growth since 2010
+32%
+In April 2010 COLLINE
+®
+ went live globally at the 
+major Tier 1 German bank which was announced 
+in April 2009 and by the end of the financial year 
+we had completed a new installation for another 
+prestigious German bank. We won other deals 
+for COLLINE
+®
+ among banks and asset managers. 
+The sales pipeline is very promising.
+COLLINE
+®
+’s scalability, resilience and performance 
+has been proven in the Tier 1 German bank 
+environment using active-active clustering in multiple 
+data centres, user locations in three continents 
+and well over 200 users. This means we now have 
+every confidence that our solution is scalable from 
+the smallest collateral user to the largest global bank. 
+Similar technology is being deployed for our other 
+products where performance is a key issue.
+OBERON
+®
+, our most established product, which 
+has the ability to value and risk manage many 
+different types of financial instrument, is profitable 
+and continues to move forward with functional 
+and performance enhancements. 
+During the year we launched our LISA
+®
+ product 
+and we have now signed up several customers 
+for it in conjunction with our regulatory success 
+for liquidity. LISA
+®
+, will evolve into a risk product 
+which is very complementary to our regulatory 
+products, starting with Liquidity Risk, and using 
+the most modern technology. Lombard Risk has 
+always been strong on risk management and 
+the convergence of risk and regulation plays 
+to our strengths.
+Regulatory and compliance software products
+Lombard Risk is the market leader for UK Bank 
+Regulatory Reporting with approximately 130 
+of the 350 banks in the UK and approximately 
+15 investment firms in the UK using the 
+STB-Reporter product for regulatory reporting 
+to the FSA. 
+During the year the major market development was 
+the implementation of the FSA’s new regulations on 
+Liquidity which allowed us to earn significant initial 
+and annual licence fees as well as implementation 
+revenue. In all, over thirty clients were won for 
+Liquidity reporting, more than twice as many 
+as a key competitor highlighting our growing 
+market share. 
+Regulatory change is always one of the main 
+revenue drivers for a regulatory business. 
+This financial year does not see quite the same 
+opportunity in the UK as last year’s Liquidity 
+Regulatory Programme but we believe that the 
+opportunities from unified European COREP 
+reporting at the end of 2012 (the first reports which 
+will be identical rather than similar for all EU 
+countries) will provide useful revenue opportunities 
+this year in both the UK and other European 
+countries as well as preparation for Basel III 
+and Solvency II in 2012/2013. The appreciable 
+regulatory change in other countries, notably 
+in various Asian countries including India, is an 
+opportunity that we will exploit.
+£6.5m
+£2.5m
+£1.0m
+£1.9m 08 Lombard Risk Management plc Annual report and accounts 2011
+Regulatory and compliance software products 
+continued
+The Group’s ability to offer global or regional 
+regulatory solutions has been greatly enhanced 
+by having regulatory offerings available or under 
+production for several EMEA and Asian countries 
+as well as the United States. This process continues 
+with product under development for Indian, Chinese 
+and Korean regulatory reporting. Our Asian offices 
+have made a number of worthwhile product wins, 
+including business in Singapore won away from 
+our main competitor, and we went live with our 
+first customer for Japanese reporting. 
+We are making some important technology and 
+product enhancements to our regulatory products, 
+including an exciting Web 2 front end, more 
+performance and resilience at the back end, 
+and other features designed to make the product 
+more attractive to global Tier 1 banks as well 
+as to our existing client base. Our existing ETL 
+(Extract, Transform and Load) tool is long tried 
+and tested in the regulatory environment and 
+provides a secure foundation for development. 
+Technology
+We see our technology as an increasingly positive 
+part of our commercial story and a key driver for 
+growth. Our IP is a major corporate asset. 
+Much progress has been made on moving our 
+technology’s look and feel to a new platform 
+and in building components that can work across 
+our various products. Several of the liquidity 
+contract wins included licensing of parts of this 
+new technology. Client reaction to the look and 
+feel of the new platform has been extremely 
+positive. Functionally, our products continued 
+to make great progress with new technology 
+launched for repos, collateral management 
+for centrally cleared derivative transactions 
+and flexible management reporting. 
+As mentioned earlier, COLLINE
+®
+’s scalability, resilience 
+and performance has now been proven to work 
+very effectively in a Tier 1 bank environment 
+using active-active clustering in multiple data 
+centres, user locations in three continents and 
+well over 200 users. Similar technology is being 
+deployed for our other products where 
+performance is a key issue.
+Our Shanghai development centre now has almost 
+100 people in it and our model is to do much of 
+the business analysis in London and New York 
+and other financial centres but the majority of 
+development in China. 
+We have spent money on appreciably upgrading 
+our equipment and the software tools that 
+we use ourselves in order to achieve efficiency 
+gains for our staff and we have made further 
+progress on automating large parts of our 
+software testing routines.
+Personnel and premises
+During the financial year we continued to make 
+new hires appropriate to the expected growth 
+of the business but we also benefited from cost 
+actions taken in the preceding financial year. 
+We continue to build on last year’s profitability 
+in all parts of the business and to re-allocate 
+Q1. 
+Regulatory contracts won in the UK 
+from new clients and existing ones 
+extending the scope to include 
+the new liquidity standards.
+Appointed new Directors 
+to the Board.
+Q2. 
+Relocated London head office 
+to Blackfriars.
+BNP ParibasSecurities go live with 
+COLLINE
+® 
+for collateral management.
+Q3. 
+New contract won with SEI, a global 
+operational outsourcing firm, who 
+will be using COLLINE
+®
+ to assist 
+delivery of its new collateral 
+management service.
+Profitability announced for first 
+half year.
+A year of continued growth
+Chief Executive Officer’s statement continued
+For more information for investors, visit 
+www.lombardrisk.com 09 Lombard Risk Management plc Annual report and accounts 2011
+“ Lombard Risk has always been strong 
+on risk management and the convergence 
+of risk and regulation plays to our strengths.”
+resources to those parts of the business where 
+we see the best prospects. Costs should continue 
+to be contained and to reduce as a percentage 
+of revenue as we achieve greater efficiency gains. 
+We now have more than half of our Group 
+headcount in Shanghai.
+The Board changes at the beginning of the 
+financial year, including the appointment of 
+Philip Crawford as Non-executive Chairman, 
+were covered in the interim announcement. 
+Towards the end of the financial year we made 
+three senior hires. Paul Tuson, who had been 
+interim CFO since September 2010, joined our 
+board as CFO. Philip Stanning joined as Group 
+Sales Director, and Rebecca Bond as Group 
+Marketing Director. Together with the existing 
+strong team, these new hires should greatly help 
+our plans to scale up the business further over 
+the next few years.
+In July 2010 we moved to high quality premises 
+at Ludgate House, 245 Blackfriars Road in London. 
+We have also recently moved to larger and higher 
+quality premises in New York.
+Prospects
+With the 32% organic revenue growth achieved in 
+the last year, the Company has attained a profitable 
+position based on a leading product portfolio in 
+a market with an ever-greater need to buy regulatory 
+or risk management products. As a result of our 
+disciplined product development strategy and 
+a clear focus on the needs of our customers, 
+our business continues to develop strongly. 
+Looking ahead, we will continue to expand our 
+core businesses – Regulatory Compliance and 
+Risk Management in the financial services market – 
+by improved product functionality, smarter 
+technology solutions and increased geographic 
+reach. The aim of this strategy is to deliver 
+significant and sustainable turnover and earnings 
+growth over the next five years. It is anticipated 
+that this will lead to a positive return to the 
+Company’s investors via both dividend income 
+and capital growth. 
+The continued hard work and contribution made 
+by all my colleagues has been a major contributory 
+factor to the Company’s positive results. I would 
+like to thank them for their hard work and 
+commitment, as well as our advisors Allenby 
+Capital, Grant Thornton, Memery Crystal and 
+others, for their assistance, and our customers 
+and investors for their continued support.
+John Wisbey
+Chief Executive Officer 
+27 May 2011
+Q4. 
+COLLINE
+®
+ selected by second large 
+German bank to automate OTC 
+derivatives, repos and stock lending 
+collateral management and risk 
+mitigation by consolidating multiple 
+asset classes.
+Build 
+•  Tier 1 client wins for COLLINE
+®
+•  Product proven to work with 
+high volumes
+Grow 
+•  Develop and market new products
+•  Meet the needs of the financial 
+services industry
+Maintain 
+•  M a r k e t - l e a d i ng p o si t io n 
+in regulatory compliance
+•  Continue to ride the wave of FSA 
+regulation and build on success 
+of liquidity reporting
+What’s next

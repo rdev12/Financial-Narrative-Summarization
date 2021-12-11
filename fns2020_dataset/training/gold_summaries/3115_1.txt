@@ -1,0 +1,530 @@
+ We have made significant
+progress, establishing a
+solid platform in growing
+markets, and building very
+strong relationships with
+partners, helping us to
+continue to remain at the
+forefront of new
+technological developments.
+OVERVIEW
+During the year, we have continued to make
+significant progress in our strategic growth
+segments of embedded systems and accelerated
+computing. We have built very strong
+relationships with customers and partners and
+are expanding our role and importance as a
+member of the electronics industry value chain.
+We have invested in the continued development
+of our product solutions and have targeted a
+number of emerging market applications that
+demonstrate the value of these new products.
+STRATEGY
+Celoxica’s goal is to become one of the primary
+global suppliers of electronic system level design
+technology for the embedded systems and
+accelerated computing markets. We continue to
+develop our core technology to strengthen our
+growth in these markets. We believe that our
+customers can significantly improve productivity
+in the design of electronics systems and greatly
+increase the usability, performance and range of
+applications made possible by the deployment
+of Celoxica’s technology.
+MARKET DEVELOPMENT
+The ESL (embedded design) market
+We continue to see a spectrum of opportunity
+in the ESL market and significant growth is
+forecast. Gartner Dataquest forecasts that the
+ESL market will grow from approximately
+$200m in 2005 to $1.6bn by 2009. This
+growth is being driven by the increasing
+complexity of semiconductors. This complexity
+stimulates demand for high productivity design
+solutions such as those offered by Celoxica. Our
+solutions can be applied to an extensive range
+of applications within the embedded space
+and our focus is directed at the high growth
+segments of automotive, communications,
+consumer, imaging and industrial.
+The accelerated computing market
+This market offers Celoxica a potential £1.5bn
+opportunity, growing at 30% p.a. (according to
+IDC). The use of programmable semiconductors
+for accelerated computing is growing and our
+technology allows developers to explore 
+co-processor algorithm acceleration within a
+familiar design environment. Our solutions have
+already been used in the development of a wide
+range of accelerated computing applications such
+as virus checking, real-time image processing and
+scientific and industrial computing calculations.
+The wide array of applications within the
+accelerated computing market is expected to
+lead to continued rapid growth opportunities.
+PARTNERSHIPS
+Partnerships provide the Group additional routes
+to market for our technology solutions. The focus
+of these partnerships includes semiconductors,
+software solutions, hardware board suppliers and
+research and teaching universities.
+During the year, the Group developed and
+expanded its relationship with key partners in
+the industry. In the semiconductor space we
+continue to work closely with Altera and Xilinx
+who are the dominant market leaders in FPGA
+based programmable semiconductor market. We
+have launched new versions of our products that
+exploit and utilise the latest FPGA based
+products from these two key partners. We have
+also created FPGA based development and
+acceleration boards that deploy their highest
+performance FPGA devices. This approach is
+increasing the demand for our software products
+and supports our complementary relationships
+with global DSP leaders Texas Instruments and
+Analog Devices. FPGA technology is increasingly
+being used alongside DSP technology and we
+expect this trend to continue. Another important
+partner for us in the semiconductor space is
+Toshiba. At the beginning of 2005 we
+announced software support for Toshiba’s Media
+embedded Processor or MeP. Our MeP
+agreement has resulted in a new product the
+“MeP kit” that leverages both our hardware and
+software offerings to provide a strong
+prototyping capability for ASIC designers who
+are looking to integrate the MeP processor.
+Our software partners help us maintain
+compatibility with design flows that help
+leverage our products. This year we introduced
+the new Agility Compiler product, which
+targets FPGA and ASIC design flows. To allow
+us to better address the ASIC market we
+initiated a partnership with Synopsys and
+have provided Agility support for their
+industry leading ASIC synthesis solutions.
+At the hardware board and system level, we
+have developed board support packages for end
+system suppliers. As part of our accelerated
+computing strategy we initiated software
+support for high-performance computing leaders
+Silicon Graphics (SGi) and Cray, and Sundance in
+the embedded DSP + FPGA space. Supporting
+these hardware solutions unlocks a wider user
+base for our software design solutions.
+Our university program continues to provide a
+strong mechanism for collaboration with over 
+600 research and teaching universities worldwide.
+These institutions provide local customer reference
+points, potential for commercial opportunity and
+are great sources of ideas and innovations.
+CUSTOMERS
+We have a blue-chip customer base that
+continues to grow with over 100 customers in
+all regions of the world including the Americas,
+Asia Pacific (China, India, Japan, Singapore,
+South Korea and Taiwan) and Europe. These
+continued on page 4
+Celoxica Holdings plc Annual Report and Accounts 2005  page 3  
+Chief Executive’s review
+a year of significant progress
+Celoxica’s goal is to
+become one of the
+primary global suppliers
+of electronic system level
+design technology… customers actively use more than 400 software
+licenses and many more of our hardware
+development and acceleration products. With
+this existing customer base we are in an
+enviable position to increase our growth across
+these geographies. In 2005 we engaged with
+24 new customers and these new customers
+spanned the Americas, Asia Pacific and Europe.
+By design, we focused on ensuring that these
+customers would provide strategic wins in both
+the embedded design and accelerated
+computing markets.
+PRODUCTS
+Celoxica sells software based design tools, IP,
+hardware and consulting solutions. Our
+software products provide dramatic productivity
+and competitive advantage for the design and
+simulation of programmable semiconductor
+devices. Our hardware products are based on
+programmable semiconductors and provide
+prototyping and acceleration solutions for a
+wide range of industry applications. We also
+provide consulting services to augment the sale
+of software and hardware and to provide a
+complete solution to customers.
+Progress in software and IP
+In 2005 we continued to develop our core ESL
+design and synthesis product leading to the
+launch of version 4.1 of the DK Design Suite.
+DK 4.1 is the most advanced and customer
+proven ESL design and synthesis solution on the
+market with improved performance and
+integration over past product revisions. We have
+also extended our Pixelstreams product.
+Pixelstreams is an IP library of over 140 video
+filters. These filters can be used to graphically
+capture video algorithms leading to optimised
+programmable implementations when
+synthesised with the DK Design Suite.
+Additionally, in the past year we introduced the
+Agility Compiler. Agility is our first software
+design tool that supports the electronics
+industry standard language for higher-level
+design, SystemC. We believe Agility will enjoy
+broad market appeal and will open up our total
+addressable market. Agility was launched early
+in the year and has gained customer traction
+with some strategic design wins.
+In the programmable board market, we have
+extended our product range. In the past year
+we have added low-end prototyping solutions
+and high-end prototyping or acceleration
+solutions utilising the latest high-end
+semiconductor devices from our partners
+Altera, Texas Instruments and Xilinx.
+FINANCIALS
+Our financial performance reflects the success
+of the Group. Overall we delivered turnover
+growth of 24% and I am particularly pleased
+that the Americas recorded 71% sales growth
+with turnover up from £0.9m in 2004 to
+£1.5m in 2005. This was due to strong
+customer wins in both the accelerated
+computing and embedded ESL markets. I am
+also pleased that we generated impressive
+growth in Europe, reflecting the global nature
+of our business.
+MANAGEMENT AND STAFF
+During the year, we averaged 57 employees.
+Of those, 29 (51%) work in the engineering
+department, 20 in sales and marketing (35%)
+and 8 in administration (14%). Headcount
+has remained flat through 2005 though we
+will invest in a number of additional sales and
+engineering personnel in the coming year. We
+rely heavily on the commitment of our staff
+and through their dedication and attention to
+detail, we have accomplished a number of
+significant milestones. I would like to express
+my appreciation to them for their hard work,
+enthusiasm and support.
+OUTLOOK
+We enter 2006 with great optimism. The
+Group has made significant progress during
+the year and we have established a solid
+platform in two growing markets – embedded
+design (ESL) and accelerated computing. We
+will continue to invest in developing and
+commercialising new technology for these
+markets. In addition, we have invested
+resources to support our growing number of
+strategic partners and customers which we
+believe will enable the Group to continue to
+grow its revenue in the coming years. Our two
+key markets are growing rapidly and we are
+extremely well positioned to take advantage
+of this growth. Trading to date is in line with
+our expectations and we expect a successful
+outcome for the year.
+Philip Bishop Chief Executive Officer
+Customer Applications
+We sell and market our products into the
+following end markets: Automotive;
+Bioinfomatics; Communications; Computing;
+Industrial; Consumer Electronics; Defence &
+Aerospace; Enterprise & High Performance
+Imaging and Security.
+Typical applications developed using our
+technology include:
+Automotive Our technology is enabling the
+design of next-generation in-car electronics and
+automotive safety systems such as adaptive
+cruise control, ‘Infotainment’ and navigation.
+Bioinformatics This market includes
+biometrics and gene sequencing. Celoxica’s
+solutions provide computing acceleration to
+speed up the information analysis that is
+essential for cutting-edge bioinformatics and
+medical applications.
+Communications Our design tools facilitate
+faster, more reliable design of complex SoCs
+and programmable chips that are essential to
+the digital communications infrastructure.
+Consumer electronics Our technology is ideally
+suited to the design needs of high-performance
+and multi-function consumer electronics
+products with their ever-shortening life cycles.
+Our design tools have been used to create a
+range of consumer devices such as digital
+cameras, digital scanners and 3D LCD screens.
+Defence & Aerospace The Group’s
+technology has been deployed in this market,
+where innovation, complexity and reliability
+are critical. Typical applications include
+sonar/radar systems, satellite communications
+and infrared image processing.
+Enterprise & High Performance Computing
+(HPC) Our products provide a design flow
+that enables the easy migration and
+acceleration of existing software algorithms
+into high performance, low power
+programmable semiconductors used for data
+mining and data processing.
+Imaging, Industrial and Security Image
+processing capabilities are becoming essential
+in desktop printers, digital cameras,
+multimedia devices and security systems.
+Within industrial, Celoxica’s customers design
+factory automation. Machine Vision is an
+example area where Celoxica’s technology
+and ESL design is enabling innovation in the
+industrial design and manufacture process. It
+rapidly brings the benefits of real-time video
+and image processing to production
+manufacture environments.
+page 4 Celoxica Holdings plc Annual Report and Accounts 2005
+Chief Executive’s review
+Turnover by origin
+Europe, Middle East and 
+Africa £1.3m
+Asia Pacific £1.5m
+The Americas £1.5m   The electronic products
+designed using our tools
+serve markets where
+complex algorithms 
+are common…
+Celoxica Holdings plc Annual Report and Accounts 2005  page 5
+Chief Executive’s review
+about us
+our business 
+& markets
+how we work –
+meeting future  
+design challenges
+Celoxica develops and
+markets software design
+tools, development boards,
+intellectual property cores
+and professional services
+that enable innovative
+electronic design solutions
+for growth markets.
+In a typical application, customers use
+Celoxica’s tools to compile software
+algorithms to programmable semiconductors
+to massively accelerate performance and
+drastically shorten the product design cycle.
+The programmable chips in these products
+may be deployed stand-alone, but are often
+combined with general purpose
+microprocessors or DSP processors. The
+electronic products designed using our tools
+serve markets where complex algorithms are
+common such as consumer electronics,
+automotive, aerospace, defence, image
+processing, security and high performance
+computing. In addition to software, Celoxica
+offers these market sectors complementary
+solutions including development and
+acceleration boards, IP, training and
+professional services. These additional
+elements speed technology adoption, promote
+customer success and grow revenue
+opportunities for Celoxica. our technology is enabling the automotive value chain to
+deliver greener solutions
+Chief Executive’s review
+page 6 Celoxica Holdings plc Annual Report and Accounts 2005
+Automotive electronics
+leader Fujitsu Ten selected
+Celoxica’s ESL design
+technology after a period of
+comprehensive evaluation
+and testing. The decision
+was based on the results of
+a large scale project to
+develop an advanced motor
+control hardware-in-the-loop
+simulator. They have
+deployed Celoxica technology
+for internal Fujitsu Ten
+project development and
+customer services business.
+Products deployed: DK Design Suite; Celoxica
+Co-simulation Manager.
+HELPING TO DEVELOP HIDDEN BOMB
+DETECTION SOLUTIONS
+HiEnergy Technologies, Inc., a developer of
+advanced stoichiometric sensor devices, adopted
+Celoxica’s DK Design Suite to accelerate
+chemical formula analysis algorithms. These
+algorithms were implemented into HiEnergy’s
+SIEGMA TM 3E3 product used for the remote
+detection of hidden homemade bombs. The
+SIEGMA TM 3E3, including the Celoxica boards,
+has been adopted by the South eastern
+Pennsylvania Transportation Authority (SEPTA)
+to enhance the safety of the United States fifth
+largest public transportation system.
+Products deployed: DK Design Suite; PAL –
+platform modeling and board level integration;
+RC2000 Series – acceleration platform.
+DEVELOPING NEXT GENERATION
+MILITARY COMMUNICATIONS EQUIPMENT
+Tadiran Communication Ltd., a leading provider
+of military communications technology, adopted
+Celoxica’s ESL technology to accelerate its next
+generation product design. Development
+focuses upon Military Tactical Radios and
+Systems in the HF, VHF and UHF bands. The DK
+Design Suite will be deployed to implement
+very complex signal processing and
+communications algorithms in programmable
+FPGA hardware.
+Products deployed: DK Design Suite; PAL –
+platform modeling and board level integration.
+“We chose to work with Celoxica
+because they provided us with a
+complete software and hardware
+acceleration solution for optimizing 
+the performance of our C algorithms…”
+Dr. Bogdan Maglich, CEO and Chief Scientist
+HiEnergy Technologies, Inc. 
+“The type of design work we
+undertake is becoming more complex
+and more time critical, and we
+needed a design tool that would
+enable us to achieve increased
+flexibility, faster development and
+easier maintenance…”
+Danny Koenig, Modems Director
+Tadiran Communications Ltd
+Image courtesy of US DoD “THROUGH EXTENSIVE TESTING
+WE HAVE PROVED THAT WE CAN
+INTEGRATE C-BASED DESIGN
+AND SYNTHESIS WITH MODEL
+BASED DESIGN APPROACHES.
+THIS BETTER ENABLES US TO
+TURN SOFTWARE INTO SILICON
+AND IT WILL HAVE A
+BENEFICIAL IMPACT ON OUR
+PRODUCTIVITY AND OUR
+CUSTOMER RESPONSIVENESS…”
+Mr. Tonou, 
+Department General Manager, 
+Fujitsu Ten
+Celoxica Holdings plc Annual Report and Accounts 2005  page 7
+Chief Executive’s review our vision is enabling the consumer 
+Chief Executive’s review
+“…Using C-based design and synthesis
+technology we were able to easily
+capture the complex watermarking
+algorithms and accelerate the
+detection scheme in a co-processor,
+exploiting the power and performance
+benefits of programmable hardware.”
+Yasushi Inoguchi, Associate Professor at 
+the Center for Information Science at JAIST
+”…We chose to work with Celoxica as
+it has the proven tools in C-based
+design and synthesis that enables our
+internal and external customers to
+design more quickly, with lower risk.”
+Tohru Furuyama, Ph.D., General Manager, 
+SoC Research & Development Center,
+Toshiba Corporation Semiconductor Company
+page 8 Celoxica Holdings plc Annual Report and Accounts 2005
+Leading Japanese consumer
+electronics companies have
+selected Celoxica’s ESL
+design technology and IP to
+accelerate the prototyping
+and development of their
+imaging products, from
+hand held volume consumer
+devices to high-end office
+equipment and peripherals.
+Advanced digital imaging
+products such as modern
+digital cameras, scanners,
+copiers and integrated
+media devices rely upon
+increasingly sophisticated
+and powerful algorithms
+that are embedded in
+electronic circuits.
+Products deployed: DK Design Suite;
+PixelStreams – video IP library; DSM – hardware/
+software co-design tool; PAL – platform modeling
+and board level integration; RC Series –
+prototyping and development platforms.
+HELPING TO SECURE DIGITAL INFORMATION
+Researchers at Japan’s Advanced Institute of
+Science and Technology (JAIST) used Celoxica
+technology to develop a high speed digital
+watermarking detection system with real-time
+operation across the Internet. Digital
+watermarking is increasingly used in response to
+the escalating misuse, and illegal copying and
+distribution of multimedia content. Digital
+watermarks embed hidden data into digital
+content or media and contain copyright
+information identifying the origins, ownership
+and authenticity of the content. The Digital
+watermarking algorithms were accelerated in a
+hardware co-processor resulting in a low-power
+solution that runs detection scanning 148 times
+faster than software only configurations. The
+complex algorithm design was implemented
+using Celoxica’s ESL tools and RC Series
+development boards.
+Products deployed: DK Design Suite; PAL –
+platform modeling and board level integration;
+RC2000 Series – acceleration platform.
+TOSHIBA CHOOSE CELOXICA FOR
+ADVANCED DIGITAL MEDIA
+Toshiba selected Celoxica as a key technology
+provider for its digital media System-On-Chip
+solution called the Media embedded Processor
+(MeP). Celoxica’s technology provides a
+comprehensive design, simulation and
+prototyping environment for complex digital
+media SoC designs based on the MeP. By
+combining Celoxica’s ESL design tools and RC
+Series development boards, designers targeting
+the Media embedded Processor have a low-risk,
+high-productivity route to design exploration for
+digital media SoC. Consumer applications such
+as digital audio processing can be developed
+more quickly and coprocessing technology can
+be leveraged for better end product performance
+and lower power consumption.
+Products deployed: DK Design Suite; Celoxica
+Co-simulation Manager; DSM – hardware/
+software co-design tool; PAL – platform
+modeling and board level integration; RC300
+Series – prototyping and development platform.
+our vision is enabling the consumer
+have greater vision Chief Executive’s review
+Celoxica Holdings plc Annual Report and Accounts 2005  page 9
+“BY USING OUR TECHNOLOGY,
+CONSUMER ELECTRONICS
+DESIGNERS HAVE A MORE
+RAPID AND DIRECT ROUTE TO
+SILICON FROM THEIR SOFTWARE
+ALGORITHMS AND CAN
+OPTIMIZE COMPONENTS SUCH
+AS CODECS, FILTERS AND
+COMPLEX MATHEMATICAL
+CALCULATIONS MORE QUICKLY
+FROM THE SYSTEM LEVEL.
+PRODUCTS CAN BE DEVELOPED
+MORE QUICKLY, WITH LESS RISK
+AND AT A LOWER COST.”
+Edouard Vincent,
+Engineering Manager

@@ -1,0 +1,164 @@
+ 02
+ClearSpeed Annual Report and Accounts 2005
+At a glance
+Markets
+High-performance computing 
+Growth in demand for high-performance computers (HPC) is being driven 
+by a combination of factors, two of which are particularly important. 
+Firstly, HPC systems are no longer required just by government and academic
+research laboratories, they are now also a critical tool in key industries which we
+see as the wider commercial space for HPC and include important sectors such as: 
+• Life Sciences & Biotechnology 
+• Energy, Oil & Gas 
+• Scientific Computing 
+• Digital Content Creation 
+• Financial Analysis & Modelling 
+Secondly, while specialised systems such as IBM’s Blue Gene, or those from 
+Cray, NEC and SGI, meet the need for special purpose systems at the very high
+end, in the wider commercial space for HPC a fundamental change has occurred.
+Here the use of standard processors, those that have delivered so much in terms
+of the cost and capability of PC’s and servers, has come to dominate – for example,
+in the year 2000, there were 4 Intel processor-based systems in the TOP500
+supercomputer list, whereas in 2005 this had grown to 333.
+As in other spaces, the use of these Central Processing Units (CPUs) has brought
+HPC systems to a price point where they can be increasingly widely adopted by
+these important industries. This has been made possible because companies such
+as Intel and AMD have been so successful in exploiting “Moore’s Law” to deliver
+CPUs in which performance has doubled approximately every two years. 
+Applications
+Life sciences & biotechnology
+This is a rapidly growing market due to the need
+to accelerate the testing of new drug candidates
+based on the information made available by
+sequencing the human genome. ClearSpeed 
+is working with a number of organisations to
+accelerate their applications. As part of the 
+Tokyo Institute of Technology project, we are
+porting amber – a package of molecular
+simulation programmes.
+Energy, oil & gas
+When it costs over $5 million to drill 10,000 feet
+below the earth’s surface, high-fidelity seismic
+imaging is critical to minimise the risks.
+ClearSpeed is committed to help solve the
+computational challenges of high-resolution
+seismic imaging. ClearSpeed’s roadmap for
+delivering high-performance, low-power
+streaming co-processors is an ideal enabler 
+to the rapid adoption of industry-standard 
+CPU-based systems.
+In practice
+“This is a significant
+achievement by ClearSpeed.
+We are very pleased that 
+the company has chosen 
+to demonstrate the potential
+of the CSX600 on our
+IntelliStation at Heidelberg.”
+Dave Turek
+Vice President of Deep Computing 
+IBM
+“We see ClearSpeed as
+delivering a key technology
+for the next wave of cluster
+development and are
+delighted that the value 
+of this within Sun’s solutions
+was immediately validated 
+by the Tokyo Institute 
+of Technology win.”
+Marc Hamilton
+Director of Technology, Global Education 
+and Research
+Sun Microsystems ClearSpeed Annual Report and Accounts 2005
+At a glance
+03 03
+Scientific computing
+Research institutions that depend on 
+high-performance computing can use
+ClearSpeed’s co-processors to accelerate 
+existing clusters or workstations. ClearSpeed 
+is developing maths libraries such as BLAS,
+LAPACK, and FFT.
+Digital content creation
+With the need to render more complex models
+using more sophisticated algorithms, the
+processing requirements for visualisation are
+increasing continuously. ClearSpeed’s processors
+can accelerate these applications, bringing the
+performance of a render farm to the desktop.
+Applications include animation, physics
+modelling, rendering and non-linear editing.
+Financial analysis & modelling
+Financial companies need to get accurate results
+fast to minimise their risk. By accelerating the
+analysis and processing of data, ClearSpeed’s
+processors can speed the generation of results
+and allow more sophisticated models to be used.
+The requirement for performance that exceeds the rules of Moore’s Law has been
+achieved by increasing the number of CPUs employed in a system. 
+In HPC, while adding CPUs is the best solution for many users, there are costs in
+terms of power consumption, cooling and space which, for other customers, drive
+the need for a new class of processor. Such a processor, termed a “co-processor”
+because it would be designed to run alongside and complement those general
+purpose CPUs, enables the CPU to continue to do all of the mainstream
+processing but off-load the particularly compute-intensive floating point
+operations in which HPC performance is measured. 
+ClearSpeed is focused on providing this new class of co-processor to a growing
+market need, and is becoming increasingly recognised as a leader in the market. 
+Embedded systems 
+Although ClearSpeed designs its processors primarily to meet the needs of the
+HPC market, it has also seen interest within Embedded Systems markets. These
+are markets in which systems are not designed as conventional computers but
+have intense processing requirements; for example those used in medical
+imaging systems.
+“Intel’s leading processor-
+based HPC platforms are 
+the most widely deployed
+across high-performance
+computing. We see
+ClearSpeed’s CSX600 
+as a complementary
+architecture enhancing
+solutions for industries 
+such as engineering design,
+bio-sciences and research.”
+Ben Bennett
+Manager of Intel’s world wide 
+HPC Program Office
+“ClearSpeed’s CSX600
+delivers impressive
+computational performance
+per watt… Combined 
+with industry-standard
+processors, users can create
+accelerated systems with
+performance and density far
+superior to non-accelerated
+systems… that’s pretty 
+cool stuff.”
+Nathan Brookwood
+Principal analyst
+Insight 64
+“ClearSpeed’s technical
+innovation brings high velocity
+acceleration to the AMD64
+platform for high-performance
+computing applications.
+ClearSpeed co-processors 
+are complementary to 
+single- and multicore 
+AMD64 solutions and enable
+significant acceleration 
+in high-performance
+computing applications for
+workstations and servers
+powered by the AMD
+Opteron
+™
+processor with
+Direct Connect Architecture.”
+Pat Patla
+Director of Server/Workstation Marketing,
+Microprocessor Solutions Sector
+AMD

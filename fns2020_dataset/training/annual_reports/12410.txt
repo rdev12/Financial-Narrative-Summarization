@@ -1,0 +1,3097 @@
+ PORTRAIT SOFTWARE PLC
+ANNUAL REPORT AND ACCOUNTS
+FOR THE YEAR ENDED 31 MARCH 2005
+www.portraitsoftware.com
+PORTRAIT SOFTWARE PLC ANNUAL REPORT AND ACCOUNTS 2005
+EUROPE
+Portrait Software
+The Smith Centre
+The Fairmile
+Henley-on-Thames
+Oxfordshire, RG9 6AB
+UK
+Email: contactus@portraitsoftware.com
+TEL: +44 (0)1491 416600
+FAX: +44 (0)1491 416601
+AMERICAS
+Portrait Software
+265 Church Street
+Suite 404
+New Haven, CT 06510
+USA
+Email: contactus@portraitsoftware.com
+TEL: +1 203 782 2300
+FAX: +1 203 782 7961
+ASIA PACIFIC
+Portrait Software
+10 Faber Park
+129101
+Singapore
+Email: contactus@portraitsoftware.com
+TEL: +65 9752 1759
+FAX: +65 6872 6764
+Make every interaction count PORTRAIT SOFTWARE PLC
+ANNUAL REPORT AND ACCOUNTS 2005
+Main Board
+Non Executives
+John O’Connell – Chairman
+Felda Hardymon
+Rob Stavis
+Hugh McCartney
+Geoff Probert
+Advisors
+Auditors
+Deloitte & Touche LLP
+Abbots House 
+Abbey Street 
+Reading
+Berkshire RG1 3BD
+Stockbrokers & Nominated Advisors 
+Shore Capital & Corporate Ltd
+Bond Street House 
+14 Clifford Street
+London W1S 4JU
+Registrars
+Capita Registrars
+Northern House 
+Woodsome Park 
+Fenay Bridge
+Huddersﬁeld HD8 0LA
+Solicitors
+Taylor Wessing
+Carmelite
+50 Victoria Embankment
+Blackfriars
+London EC4Y 0DX
+Executives
+Nick Randall – Chief Executive Officer
+Robin Martin – Chief Operating Officer
+Matthew White – Chief Financial Officer & Company Secretary
+Principal Bankers
+National Westminster Bank plc
+Abbey Gardens 
+4 Abbey Street
+Reading
+Berks RG1 3BA
+Registered Office
+The Smith Centre
+The Fairmile
+Henley-on-Thames 
+Oxfordshire RG9 6AB
+Company Number
+3358035
+Contents
+2 Highlights
+3 Chairman’s Statement
+5 Chief Executive Officer’s Review
+8 Platform Division
+11 Applications Division
+12 Client Services Division
+14 Financial Review
+16 Board of Directors
+17 Directors’ Report
+19 Corporate Governance Statement
+21 Directors’ Remuneration Report
+23 Independent Auditors’ Report
+24 Group Proﬁt and Loss Account
+24 Group Statement of Total Recognised
+Gains and Losses
+25 Group Balance Sheet
+26 Group Cashﬂow Statement
+27 Notes to the Group Cashﬂow Statement
+28 Company Balance Sheet
+29 Notes to the Financial Statements
+39 Notice of Annual General Meeting
+Portrait Software is the 
+new name of the company
+formerly known as AIT. 
+We specialise in Customer
+Interaction Management software
+that handles the interaction
+processes that enterprises care
+most about: the ones that affect
+their customers.  PORTRAIT SOFTWARE PLC
+ANNUAL REPORT AND ACCOUNTS 2005
+1
+Portrait takes the hardest, most important
+processes, those that actually touch the
+customer, and intelligently automates them.
+It lets businesses develop ﬂexible interaction
+processes that drive intelligent, personalised
+interactions across any channel, integrating
+with any system and collaborating with any
+partners. This means that organisations
+wanting to respond to dynamic market
+conditions can implement new policies,
+campaigns and new products in a few hours
+instead of a few months, giving organisations
+a distinct competitive advantage.
+The beneﬁts of Portrait to an
+organisation include the ability to:
+• gain greater customer insight and keep
+their promises;
+• identify and execute new sales
+opportunities in a non-intrusive way
+through inbound customer interactions;
+• improve customer loyalty and brand
+differentiation by providing consistently
+excellent personalised service;
+• enforce compliance and process
+adherence through auditable, rules-based
+customer interaction processes;
+• improve the performance and effectiveness
+of customer-facing staff and the efficiency
+of the follow-through processes; and
+• maximise the potential of existing
+infrastructure and unlock value from 
+legacy IT investments.
+How does Portrait
+differentiate from Customer
+Relationship Management
+(CRM)?
+Until Portrait arrived on the scene, large
+companies who serve the business to
+consumer market were between a rock and 
+a hard place if they wanted to automate their
+most important business processes. On the
+one hand they could opt for packaged CRM
+software. This was costly to acquire and
+maintain, and difficult to change leaving 
+little room for competitive advantage. Such
+CRM packages typically had a prescriptive
+approach to business processes which were
+unsuitable for the demands of dealing with
+millions of individual customers in a complex
+and rapidly evolving business environment. 
+The alternative was to opt for bespoke
+solutions which were frequently delivered 
+too late for the business and massively over
+budget. Portrait provides the best of both
+worlds by offering ﬂexible pre-packaged
+components for common customer-facing
+processes along with a process conﬁguration
+suite which allows the user to rapidly
+develop their own tailored CIM applications.
+What about Business
+Process Management
+(BPM)?
+Business Process Management (BPM)
+software was also pitched as a better 
+way of making applications that improve
+customer service. Whilst it’s a powerful
+concept, most BPM tools fall far short of 
+this ideal: these packages are generally
+limited to driving cost efficiencies in simple
+business-to-business processes within 
+a department, or more often used as
+gloriﬁed forms-routing tools that are 
+strong on workﬂow but weak on real-time
+intelligent interactions.
+What is Portrait Foundation ™?
+Portrait Foundation™ is the only Microsoft .NET
+Application Platform Suite (APS) designed 
+to enable the rapid development of CIM
+applications for today’s service-oriented
+software world.
+What’s an Application
+Platform Suite (APS)?
+An Application Platform Suite uses next
+generation tools to allow an organisation 
+to build and deploy composite applications
+which for the ﬁrst time links the customer
+experience to ﬁnancial performance. An APS
+integrates Business Process Management
+with powerful application integration tools
+within a service-oriented architecture 
+to provide consistent common business
+processes, and a single view of the customer
+across any channel of customer interaction.
+What makes Portrait
+Foundation™ so special?
+It delivers what we call Living Apps™ –
+process-centric, composite applications
+that do three things better: deliver better
+customer interactions in real time;
+orchestrate super-efficient Customer
+Interaction Management processes; 
+and integrate with legacy systems the 
+way service-oriented applications should.
+Portrait Living Apps™ can be built in half
+the time it takes to develop applications
+using raw development tools. Portrait Living
+Apps™ can be highly tuned to any industry
+and speciﬁc business needs, and can be
+adapted as and when required.
+What is Customer Interaction
+Management (CIM)?
+It’s the management of customer
+information and the execution of the
+customer facing processes which support 
+an organisation in providing a continuous 
+high level of service in what they do, 
+say and offer to their customers. 
+Each and every customer interaction is
+unique and requires a personalised intelligent
+response. Whatever the interaction, getting 
+it right ﬁrst time is expected by the customer.
+You can’t predict how and when the
+customer wishes to interact with you, it may
+be through the call centre, branch, Internet,
+email, letter, fax or mobile device. The
+interaction could be a complaint, the need 
+to pay a bill, a call to say a wallet has been
+stolen, a desire to open a new account or 
+a call requiring emergency assistance. If any
+interaction is poorly handled it will have a
+dramatic effect on customer experience and
+may result in lost customers, missed sales
+opportunities, regulatory action for non-
+compliance or in the case of an emergency
+call, it could lead to a potential loss of life.
+Customer interaction processes are the
+priority for every enterprise with hundreds of
+thousands or millions of customers, because
+while customers may not recognise poorly
+synchronised business processes, they do
+notice lousy service, uninformed staff and
+irrelevant offers.  PORTRAIT SOFTWARE PLC
+ANNUAL REPORT AND ACCOUNTS 2005
+Highlights
+2
+“I am pleased that we
+have now completed two
+full years of proﬁtability
+and believe that we are
+now well positioned to
+exploit the full potential 
+of Portrait software in 
+an expanding market.”
+Nick Randall
+Chief Executive Officer 
+FINANCIAL 
+Fourth consecutive half-year 
+of operating proﬁtability.
+£4.75 million (net) fund raising
+post year-end to strengthen
+balance sheet and provide
+additional working capital 
+to enable implementation of
+business development strategy.
+Operating proﬁt excluding
+exceptional income increased 
+by 17% to £1.5 million
+before exceptional income of 
+£0.2 million (2004: £1.3 million
+before exceptional income of 
+£1.0 million).
+Pre-tax proﬁt of £1.4 million
+including exceptional income
+(2004: £2.0 million including
+exceptional income).
+Adjusted diluted earnings per
+share of 2.45p (2004: 3.27p)
+after excluding goodwill
+amortisation, exceptional items 
+and movement in deferred tax
+asset (see note 4). Unadjusted
+diluted earnings per share of
+2.49p (2004: 7.49p).
+OPERATIONAL 
+Appointment of John O’Connell 
+as Non Executive Chairman and
+Robin Martin as Chief Operating
+Officer.
+Core Portrait product gaining
+momentum:
+– First order in China recently
+announced from China Automobile
+Association.
+– Major new business collaboration
+signed with Fiserv CBS.
+– Entered new Emergency Call
+Handling market.
+Reorganised into three divisions 
+to focus on selling Portrait through
+key partners worldwide.
+Positioned to take advantage 
+of projected growth in the use 
+of Application Platform Suites 
+for demanding customer
+applications based on the
+Microsoft .NET platform. Chairman’s Statement
+PORTRAIT SOFTWARE PLC
+ANNUAL REPORT AND ACCOUNTS 2005
+3
+It is very pleasing to report, in this my ﬁrst
+report to shareholders as Chairman of the
+Company, on the second complete year 
+of the successful turnaround of Portrait
+Software. Accordingly, it is very pleasing to
+be able to report that 2005 was the second
+successive year when the Company was 
+able to declare a proﬁt from its operations.
+This has been followed by the recent
+announcement of an over-subscribed 
+placing of the Company’s shares to 
+raise approximately £4.75 million, net 
+of expenses. This means the ﬁnancial 
+re-structuring of the Group, started in
+September 2002, is now virtually complete
+and will ensure the Company is well
+positioned to pursue its business strategy 
+on a ﬁrm ﬁnancial footing.
+Market development
+We believe that the emerging market 
+for Application Platform Suites (APS) will
+expand signiﬁcantly over the next few years
+and I believe that Portrait Software is well
+positioned to exploit this opportunity.
+Importantly this is not a new market
+dependent upon many external factors, 
+but it is a displacement one, where
+developers of complex high volume
+Customer Interaction Management
+applications, will choose Portrait Software to
+be their main development tool, rather than
+older, less efficient and more cumbersome
+development programming languages. 
+Business development
+In order to get a better focus on 
+core activities, Nick Randall completed 
+a reorganisation into three divisions 
+earlier this year. The fruits of this
+refocusing are already coming through 
+in terms of more management attention
+on the critical success factors in having
+the Company’s products and services
+distributed more aggressively to both
+existing and new customers, in most 
+cases via Partner Channels.
+The most exciting development has been 
+to see our core Portrait product gaining
+momentum (we now have thirteen Portrait
+customers worldwide) and real traction in
+the market leading to new business wins
+and partnerships on an international basis,
+for example, our ﬁrst major customer in the
+Emergency Call Handling market going live. 
+Perhaps the most signiﬁcant event of 
+the year came in our last quarter when 
+we signed an important new collaboration
+agreement with Fiserv CBS Worldwide, 
+a division of Fiserv, Inc. Fiserv, Inc. is one 
+of the top providers of IT products and
+services to the ﬁnance sector with reported
+sales exceeding $3.7 billion last year. This
+agreement will see Fiserv CBS Worldwide
+developing a range of products under its 
+own brand (CBS Aperio) for the banking 
+and ﬁnancial services sector which will be
+‘powered by Portrait’ and which will be 
+sold through its global distribution network. 
+Another more recent important development
+in the ﬁrst quarter of FY06 has been the
+signing of our ﬁrst order for Portrait software
+with the China Automobile Association, 
+who have recently been purchased by IAG.
+We plan to work with Ultrapower, who 
+are a leading Chinese Microsoft software
+partner, to help develop a Portrait based
+sales and service platform. In addition, 
+we will work with Ultrapower to develop 
+other opportunities in the rapidly expanding
+ﬁnancial services market in China.
+Product development
+The Board strongly believe that the Portrait
+suite of development tools is integral to
+the future development of the Company.
+Our opinion is that the three components:
+a powerful back-end process engine,
+comprehensive integration capability 
+and a fully functional front-end Customer
+Interaction module, supporting multi-channel
+communications over the Internet, in the
+branch, by telephone, post, fax and so on
+are second to none.
+During the last year, 25% of total revenue
+was spent on Portrait product R&D. This is 
+at the high end for any proﬁtable company 
+in the software sector, worldwide, where 
+in my experience the industry average is in
+the order of 13-15%. We believe this is the
+core asset of your company and this degree
+of investment should help to ensure it
+maintains its leading edge in the emerging
+market for Application Platform Suites. 
+Financial highlights
+Regarding the year ended 31 March 2005,
+turnover was £14.3 million which was below
+the £19.6 million achieved in 2004. This
+was mainly due to our continuing strategy 
+of focusing on licence sales by partners who
+themselves carry out most of the services
+work associated with these contracts. 
+A result of this strategy was a reduction in
+services revenue from £8.6 million in 2004
+to £4.0 million in 2005.
+Operating proﬁt excluding exceptional
+income was £1.5 million before exceptional
+income of £0.2 million (2004: £1.3 million
+before exceptional income of £1.0 million).
+Pre-tax proﬁt was £1.4 million including
+exceptional income (2004: £2.0 million
+including exceptional income). Adjusted
+diluted earnings per share were 2.45p
+(2004: 3.27p) after excluding goodwill
+amortisation, exceptional items and
+recognition of deferred tax asset. 
+Unadjusted diluted earnings per 
+share were 2.49p (2004: 7.49p).
+Our results for the year have been impacted
+by a number of one-off revenue and cost
+adjustments, being mainly a legacy of the
+massive restructuring activities initiated in
+2002. Cash outﬂow from operating activities
+during the year was £3.2 million (2004:
+outﬂow of £1.0 million) which included 
+£1.6 million cash outﬂow arising from
+settlement of inherited legacy obligations 
+in respect of onerous property leases and
+other commercial liabilities. Reported cash
+outﬂow was also affected by the reduction 
+in deferred income of £2.5 million, of which
+£2.0 million related to the recognition of
+prepaid licence revenues previously deferred,
+and which accordingly did not contribute to
+cash during the year. Consequently our cash
+resources were depleted last year, which has
+now been addressed by the £4.75 million
+fund raising. John O’Connell
+Non Executive Chairman
+PORTRAIT SOFTWARE PLC
+ANNUAL REPORT AND ACCOUNTS 2005
+Chairman’s Statement
+4
+Change of name
+The Board wanted to mark what it considers
+to be a new beginning with a new name for
+the Group; and AIT Group plc became Portrait
+Software plc effective on 9 June 2005. The
+new name reﬂects the focus on the Portrait
+product suite which we see as being the
+lynchpin of our success going forward.
+Dividend policy
+No dividend is recommended for this year.
+The Board believes that capital should be
+allocated to developing our products and
+driving future growth.
+Board changes
+I was delighted to accept the Board’s
+invitation to become Chairman as announced
+on 9 June 2005. I look forward to leveraging
+my experience in growing a successful listed
+UK based software business internationally,
+having been founder, CEO and Chairman of
+Staffware plc. I look forward to helping the
+Board achieve the Group’s potential as a
+leader in its chosen markets, following the
+successful completion of its turnaround
+initiated by Nick Randall, CEO and Matthew
+White, CFO approximately two and a half
+years ago.
+Richard Hicks, having moved from an
+Executive Chairman position to a Non
+Executive one last year, has now stepped
+down completely from the Board. On behalf
+of the Board, I would like to express our
+great gratitude for Richard’s participation 
+in the Company’s development and we 
+wish him all the best in the future. 
+We also announced recently that Robin
+Martin will be joining the Board as Chief
+Operating Officer, starting full-time in July.
+Robin, who had a similar role at Staffware
+plc where he worked very closely with
+myself, has been asked by Nick Randall to
+lead the Company’s drive to sell software
+licences worldwide mainly through our
+Partner Channel.
+Staff
+Portrait Software has the beneﬁt of a 
+highly talented and loyal workforce which
+has been through some major corporate
+changes in the last few years. The Board
+would like to thank all members of our 
+team around the world for their commitment
+during a sometimes difficult period. Throughout
+this time their contribution to retaining the
+vast majority of our customers plus helping
+to win some very notable new contracts has
+been magniﬁcent. 
+Outlook
+2005 was a year of major transition 
+for our company. We now have a 
+proven product with key reference sites. 
+We address an established Customer 
+Interaction Management software market
+where we believe that Application Platform
+Suites will play an increasingly important
+part. We are well positioned to exploit the
+opportunities in this growing area and are
+increasingly convinced that our approach 
+has signiﬁcant beneﬁts in terms of cost,
+performance and ﬂexibility both for our
+partners and end user customers.
+We now have a clear ‘go to market’ strategy
+via key partners worldwide (including Fiserv,
+Inc). Our goal for the next phase is to
+increase the number and effectiveness 
+of our key partners so that we can steadily
+grow sales, improve our proﬁtability and take
+full advantage of the opportunities within 
+the market in which we operate. Laying ﬁrm
+foundations for our future growth via partner
+channels will be our priority this year. 
+John O’Connell
+Non Executive Chairman
+2 August 2005
+“I am very pleased to
+report, in this my ﬁrst
+report to shareholders 
+as Chairman of the
+Company, on the second
+complete year of the
+successful turnaround 
+of Portrait Software.
+Accordingly, it is very
+pleasing to be able to
+report that 2005 was the
+second successive year
+when the Company was
+able to declare a proﬁt
+from its operations.”
+John O’Connell
+Non Executive Chairman PORTRAIT SOFTWARE PLC
+ANNUAL REPORT AND ACCOUNTS 2005
+5
+Chief Executive Officer’s Review
+Introduction
+As highlighted by our new Chairman, this
+year represents the second full year of
+proﬁtable trading following the issues that
+the Company faced in 2002. This is a very
+encouraging indicator of the potential of the
+Company to deliver future shareholder value.
+It also represents the solidifying of a more
+robust and secure business platform from
+which to build the Company and launch 
+new business initiatives.
+We therefore have reported an operating 
+proﬁt of £1.8 million on sales of £14.3
+million for the year. Our Chief Financial
+Officer, Matthew White, will provide more
+detail on our ﬁnancial performance in his
+Financial Review.
+With the business in a healthier state it 
+is particularly important to bring on board 
+the right people who are best positioned 
+to leverage the Company’s potential. 
+I am therefore delighted to welcome John
+O’Connell to the Board as Non Executive
+Chairman and Robin Martin as our new,
+sales orientated Chief Operating Officer. 
+Both John and Robin were integral in
+developing Staffware into one of the UK’s
+leading Business Process Management
+software companies, prior to its sale to 
+Tibco in 2004. They will both bring vital
+experience to our team as we seek to
+become a much more product orientated
+and international business.
+I would also like to take this opportunity 
+to thank Richard Hicks for his enormous
+contribution to the Company since he
+founded it 19 years ago. Richard has 
+been an invaluable help to myself and our
+Executive team since we embarked on the
+turnaround in September 2002 and the
+culture he has encouraged to develop 
+within our business, in terms of technical
+excellence and creative vision, will continue
+to thrive and be the cornerstone for our
+future success. Richard is resigning from 
+the Board but will continue to be available 
+to help our team as needed in the future.
+Progress
+In previous reports to shareholders, I have
+mentioned that we viewed the turnaround 
+of the business in three distinct phases. 
+Phase 1 was the initial restructuring and 
+re-organisation, including the integration 
+of the IMA acquisition in the USA with the
+original UK based activities. Phase 2 has
+been all about stabilising the business and
+returning the Company to proﬁtability. This
+has been the main focus for myself and 
+the management team over the course 
+of the last two years. We have faced many
+challenges in achieving this objective,
+however I believe that we now have a 
+much stronger business platform from 
+which we can move with more conﬁdence
+into the business development phase 3 
+of our recovery program.
+Commercial acceptance of Portrait
+The key objective that we have set for
+ourselves for the business development
+phase is to exploit more fully and more
+effectively the potential of our Portrait 
+based technology and to return the
+company, step by step, to a growth path.
+In September 2002, Portrait was not yet
+complete nor was it running in any demanding
+customer interaction applications. Today we
+have 13 Portrait customers, including our
+largest reference site, Nationwide Building
+Society (which has won yet more awards this
+year) as well as a new and very mission
+critical emergency call handling system. As 
+a result of the success achieved with Portrait,
+we are now more conﬁdent than ever that 
+we have a powerful, cutting-edge technology,
+which is capable of being used much more
+extensively across a wide range of demanding
+customer interaction applications in different 
+market sectors internationally.
+Nick Randall
+Chief Executive Officer
+“As highlighted in the
+Chairman’s Statement,
+perhaps the most
+signiﬁcant event of the
+year was the signing of 
+a major new collaboration
+agreement with Fiserv
+CBS Worldwide, a division
+of Fiserv, Inc.”
+Nick Randall
+Chief Executive Officer PORTRAIT SOFTWARE PLC
+ANNUAL REPORT AND ACCOUNTS 2005
+Chief Executive Officer’s Review
+6
+Strengthening our brand
+Our conﬁdence in Portrait is reﬂected in the
+recent change of the name of the combined
+AIT and IMA business to Portrait Software
+plc. The main purpose of the change is to
+align our product branding with the company
+name so that we can fully maximise the
+potential of our new ‘Powered by Portrait™’
+branding concept. The whole idea is to get
+our Portrait brand more widely recognised
+and accepted as the software platform of
+choice by our target users. 
+Our aim is for as many partners, OEM’s and
+customers as possible to deploy the Portrait
+platform in order to develop demanding,
+process-centric, customer interaction
+applications much more rapidly and
+powerfully than by using conventional
+development tools. The change of name
+signals a new beginning for our company 
+as we move forward into the next phase 
+of our business development program.
+Favourable market dynamics
+In relation to the above it is worth spending
+a little time on the approach to putting in
+place Customer Interaction Management
+systems. There are generally two ways in
+which companies have historically implemented
+a CIM solution. The ﬁrst is to buy a
+‘conventional’ off the shelf, inﬂexible and
+expensive CIM solution and try to ‘make 
+it ﬁt’ to your requirements once installed.
+Generally, this is unsatisfactory in its
+performance, it is difficult and costly to
+‘make it ﬁt’ and once installed, it is very
+difficult to ‘uninstall’ it and switch to an
+alternative. Consequently, many companies
+ﬁnd themselves trapped with a rapidly more
+obsolete and costly CIM solution. The other
+alternative is to direct signiﬁcant corporate
+resources to developing a solution from
+scratch in-house. This may well mean that 
+it does exactly what you want it to do but 
+it is extremely expensive to build since it is
+completely bespoke and, as such, so is 
+all related development and maintenance. 
+The market is therefore looking for an
+answer to the downside associated with
+these two approaches. The answer is
+Portrait™. Our approach enables the creation
+of tailored CIM solutions using our modular
+building blocks or applications. This approach
+is efficient, fast and ﬂexible. This is the
+favourable dynamic in the market which
+gives us conﬁdence that we will see
+continued demand for our solutions. 
+New strategic relationship with Fiserv
+As highlighted in the Chairman’s Statement,
+perhaps the most signiﬁcant event of the
+year was the signing of a major new
+collaboration agreement with Fiserv CBS
+Worldwide, a division of Fiserv, Inc. We have
+enjoyed a long-standing relationship with
+Fiserv, however the new agreement enables
+us to partner in a much broader way. Fiserv
+is developing a range of products under its
+own brand for the banking and ﬁnancial
+services sector which will be ‘powered by
+Portrait™’. We have been working with
+Fiserv’s product development, marketing 
+and sales teams and a few of our staff have
+transferred to Fiserv as part of the product
+development process. We will receive an 
+ongoing royalty of all future sales of these
+products. Initial products have already been
+launched and their ﬁrst beta customer has
+now gone live successfully.
+I am convinced that this new agreement
+represents a major step forward in terms 
+of our ability to access the international
+ﬁnancial services market through partnerships.
+New divisional structure
+During the year, we formed the Company
+into three very focused divisions. The purpose
+of this re-alignment was to ensure that we
+had dedicated teams working towards our
+speciﬁc strategic objectives for each area
+which I am pleased to detail as follows.
+Platform Division
+Our Platform Division is now responsible for
+the ongoing development of our Application
+Platform Suite, which we now call Portrait
+Foundation™. This team has been working
+with a number of key partners (including
+Fiserv CBS Worldwide) who wish to use 
+our software platform to accelerate the
+development of complex customer
+interaction software. Our platform is based
+on the Microsoft .NET architecture and we
+believe that more and more products will 
+be built using Portrait™ for two key reasons.  PORTRAIT SOFTWARE PLC
+ANNUAL REPORT AND ACCOUNTS 2005
+7
+Firstly, because it is much more efficient 
+to develop applications using our platform
+(typically two to three times faster) but
+perhaps most importantly, the products built
+using Portrait Foundation™ have at their
+centre our ﬂexible Business Process Engine,
+which allows the customer to quickly change 
+and improve processes. Our new market
+positioning is that we allow our users to
+develop living (rather than static) applications,
+which is a vital aspect for all fast moving and
+complex business to consumer processes.
+You will ﬁnd more information on the
+importance of ‘living applications’ further 
+on in this report.
+Applications Division
+Our new Applications Division focuses on
+developing innovative solutions using the key
+differentiation enabled by our core software
+for the ﬁnancial services and public safety
+markets. During the year we focused
+speciﬁcally, through partners, on developing
+and selling solutions for critical emergency
+call handling, insurance and compliance.
+Client Services Division
+Our Client Services Division has been formed
+to focus on providing a high level of support
+to our existing 150 plus customers who are
+increasingly international. Our customer 
+base have been extremely loyal users of our
+products over the past three years and we
+now have a dedicated team who provide
+software support as well as services to our
+customer community worldwide. A key aim
+for this group is to provide a roadmap for our
+existing customers so that they can start to
+use some of the major beneﬁts associated
+with our new Portrait architecture but without
+the costs associated with re-developing
+processes built in previous versions of our
+products. To achieve this, during the year 
+we developed a Gateway product, enabling
+existing Edge users to access our new
+architecture so that they can start to use 
+our ﬂexible Business Process Engine and
+have access, in a very effective way, to the
+beneﬁt of our web services structure. Our
+ﬁrst customer went live last year and we
+hope to work with an increasing number 
+of users who wish to adopt this approach.
+Typically in our industry, customers have
+bought software and spent considerable
+sums developing applications that are then
+wasted when new architecture is purchased.
+Our aim is to allow our family of customers
+to continue to use existing applications that
+they like, whilst having the ability to gradually
+move in a low cost manner to our next
+generation Portrait software platform. 
+The above changes have been far reaching
+within our organisation and I would like to
+take this opportunity to thank all our staff
+for the enthusiastic way they have responded
+to the major changes over the past two
+years and for their hard work, talent 
+and commitment.
+New Business 
+In the ﬁrst quarter of ﬁnancial year 2006
+we signed our ﬁrst order for Portrait
+Software with the China Automobile
+Association (CAA), who have recently 
+been purchased by IAG, one of the world’s
+largest insurance companies. We plan to
+work with Ultrapower, who are a leading
+Chinese Microsoft software partner, to help
+develop a leading Portrait based sales and
+service platform to enable CAA to both
+provide the usual breakdown services 
+to their 10 million customers as well as
+providing a platform for insurance and
+other product sales initiatives. We plan 
+to work with Ultrapower to develop other
+opportunities in the rapidly developing
+ﬁnancial services market in China.
+The signiﬁcance of this business win 
+and others is that it is evidence of the 
+true potential of our product in terms of
+ﬂexibility, functionality, modularity, and
+importantly, scalability. These are extremely
+important attributes that are highly valued
+and required by our customers. I look
+forward to continued success based on
+these important competitive advantages. 
+Outlook
+The past two years have been challenging
+and as ever there remain further challenges
+ahead of us. However, I feel that the most
+difficult issues are now behind us. With 
+the right team on board, a solid ﬁnancial
+structure, and a clear business strategy 
+I believe we have now ‘steadied the ship’ 
+in advance of the next phase of our
+development. With a focus on products 
+and partnership, I believe we are now 
+well positioned to take advantage of 
+the opportunities presented to us in 
+an expanding market.
+Nick Randall
+Chief Executive Officer
+2 August 2005
+OUR STRUCTURE
+The Company has three business
+units that respond to market
+needs and opportunities.
+PLATFORM DIVISION
+This division sells Portrait Foundation™
+(Application Platform Suite) to
+Independent Software Vendors and
+Business Process Outsourcers to 
+enable them to build packaged 
+business applications for their own
+markets ‘powered by Portrait™’.
+APPLICATIONS DIVISION
+This division sells business solutions
+solving speciﬁc business needs in
+ﬁnancial services, emergency services
+and compliance. These applications 
+are all developed with Partners using 
+the Portrait Foundation™ platform
+CLIENT SERVICES DIVISION
+This division supports and develops 
+our 150+ customers and where
+possible enhances their existing
+solutions through our Extend and 
+Evolve program.
+Robin Martin
+Chief Operating Officer 8
+PORTRAIT SOFTWARE PLC
+ANNUAL REPORT AND ACCOUNTS 2005
+Platform Division
+Portrait Foundation™ is the ﬁrst Application
+Platform Suite (APS) designed to generate
+Customer Interaction Management (CIM)
+applications for the new service-oriented
+software world. It helps get process-driven,
+composite applications to market twice as
+fast as traditional development environments.
+Service-oriented architectures have changed
+forever the way applications are developed.
+For the ﬁrst time, developers don’t have 
+to be limited by legacy environments;
+business processes won’t be constrained 
+by hard-coded applications; and customer
+interactions need not be spoiled by inﬂexible,
+standalone systems.
+Our Platform Division targets independent
+software vendors and outsourcers to help
+them deliver next-generation products 
+and applications that aren’t limited by 
+legacy environments. 
+Fiserv accelerates new Living Apps™ 
+with Portrait
+Fiserv, Inc. is a leading provider of
+technology and item processing to the
+ﬁnancial services industry, with more than
+16,000 clients worldwide. Fiserv CBS
+Worldwide has clients around the world
+utilising its core banking, customer, channel
+and business process management, middle
+office and business intelligence solutions.
+Two years ago, Fiserv began an initiative to
+re-architect its front-office CRS application,
+an industry-leading retail banking system –
+covering processes such as sales campaign
+management, contact centre, customer
+acquisition and servicing operations and
+teller services, including security. 
+The new solution had to integrate back-end
+systems enabling Fiserv customers to fully
+utilise their existing applications and data, 
+enable a single view of the customer,
+automate processes and deliver the 
+new services consumers expected.
+After investigating a number of ways of
+delivering the new functionality, Fiserv opted
+to use Portrait Foundation™. The outcome
+was a new multi-channel sales and service
+solution called CBS Aperio. 
+The ﬁrst four releases of this product were
+developed in just nine months, which was
+faster than Fiserv had expected. A major 
+US bank was the beta test site. It had tried
+to build new customer service applications
+using one of the major off-the-shelf CRM
+applications and had ended the project. 
+It was attracted by CBS Aperio’s real 
+time environment, easy links to their core
+banking systems and data along with the
+ability to transform their manual processes
+into automatic ones that revolutionised 
+customer service. 
+CBS Aperio delivers a real-time, ‘single-view’
+of each customer across all systems and
+channels: branch, call centre, Internet, IVR,
+payment network or dealer/introducer. 
+This enables rapid response to customer
+enquiries, accurate targeting of sales
+campaigns, efficient application processing
+and consistent follow-up. 
+Portrait and Microsoft
+Microsoft .NET is without doubt the most
+powerful development and integration
+environment available to developers (which
+is why we built Portrait Foundation™ with it). 
+Portrait supplements Microsoft .NET by
+including the essentials of process-centric,
+customer-critical Applications, what we call
+Living Apps™. 
+“Process Management, service-
+orientation and customer interaction
+are three hotspots in enterprise IT
+today – particularly within Financial
+Services and Public Services. Our
+customers in these sectors are all
+looking to squeeze more from their 
+IT systems with fewer resources. 
+This has led to a generational shift 
+in the way applications are
+developed, delivered and managed
+where speed to market and agility is
+key. We’re excited that Portrait’s
+Application Platform Suite together
+with .NET tools such as BizTalk
+Server and Sharepoint Portal Server
+can help our ISVs bring to market 
+a new wave of process-centric
+business applications.”
+Mark Quirk
+Head of Technology for Microsoft’s 
+Developer and Platform Group
+Microsoft UK Ltd
+“Among platform suites, Portrait is
+competitively differentiated through
+the combination of well-deﬁned
+process design and execution
+environments, support of multiple
+interaction channels, and 
+service-oriented integration. This
+combination is unique, particularly
+within the .NET environment.”
+Nathaniel Palmer
+Chief Analyst
+Delphi Group
+OUR PARTNERS
+“We chose Portrait Foundation™ 
+as the development tool and run-time
+environment for our new Aperio
+application. We went through product
+training and delivered our ﬁrst three
+Aperio product version releases
+ahead of schedule, and we have
+recently won our ﬁrst major Aperio
+victory in the US. Fantastic results 
+in a very short period of time.”
+John Macaluso
+CTO, Fiserv CBS Worldwide
+Introducing Living Apps™  
+Living Apps™ are applications that drive super-efficient, customer-critical processes by 
+combining the power of Business Process Management with the ease of integration and 
+flexibility of Service-Oriented Architectures.
+In short, Living Apps™ are what enterprises need to address the challenges posed by their 
+customer-critical processes.
+Whether you’re a CIO thinking about your next front-end applications or a software developer, 
+integrator or outsourcer thinking about the needs of your enterprise customers, you need to 
+be thinking about Living Apps™ now.
+Living Apps™ differ from traditional ‘static apps’ in these important ways
+Living Apps™
+Process driven
+Loose-coupled to legacy
+Composite
+Service-oriented
+Adapt to business processes
+Embrace collaboration
+Business users drive
+Multi-channel support
+Minimal code development
+Constantly refreshable
+Static apps
+Data driven
+Hard-wired to legacy
+Monolithic
+Application silos
+Business processes adapt to apps
+Inhibit collaboration
+IT department drives
+Build one channel at a time
+Programmer-intensive
+In-built obsolescence PORTRAIT SOFTWARE PLC
+ANNUAL REPORT AND ACCOUNTS 2005
+9
+“Portrait helps partners
+develop Livings Apps™ 
+in half the time.” 10
+PORTRAIT SOFTWARE PLC
+ANNUAL REPORT AND ACCOUNTS 2005
+“If you’re wondering which
+business processes 
+to improve ﬁrst, ask 
+a customer.” Applications Division
+PORTRAIT SOFTWARE PLC
+ANNUAL REPORT AND ACCOUNTS 2005
+11
+The Applications Division sells business
+solutions solving speciﬁc business needs
+in ﬁnancial services, emergency services
+and compliance. These applications are
+all developed with partners using the
+Portrait Foundation™ platform.
+The Applications Division has been established
+to leverage our successes in the ﬁnancial
+services and public services markets. In
+particular, Europe’s largest police force 
+uses Portrait to revolutionise emergency 
+call handling and response. 
+The Applications Division works with partners
+to deliver new process-driven applications
+that we call Living Apps™. These Living
+Apps™ are centred around speciﬁc
+challenges that customers face around
+compliance, sales campaign effectiveness
+and improving the customer experience.
+Living Apps™ are loosely coupled services
+that integrate with any legacy system.
+They’re easy to design, deploy, monitor 
+and change (which is why enterprises 
+want them).
+The most important processes
+Some processes are more important than
+others. And the most important are the ones
+that affect customers. Unfortunately, these
+also tend to be the fastest-changing and 
+the most complex – often involving real-time
+interactions, multiple legacy systems and
+different people spread throughout the
+enterprise (and beyond).
+We call these customer-critical processes
+because they’re the ones that make the
+biggest impact on the way customers
+perceive the companies that serve them.
+And, they offer the greatest opportunity 
+for differentiation.
+The industries that value Portrait’s ﬂexibility
+are characterised by:
+• Millions of customers – like ﬁnancial
+services and public services.
+• Real-time interactions – requiring live 
+data updates.
+• Many channels – web, contact centre,
+branch, email, self-service.
+• Tight regulation – requiring compliance,
+traceability and full process auditing.
+• Multiple products and siloed systems
+– requiring an integrated view of all 
+products and services.
+Armed with Portrait™ and utilising our
+partners’ domain expertise, we aim to
+generate Living Apps™ in about half the 
+time as would be the case using raw
+development environments. It’s a faster,
+more proﬁtable way to build better, more
+ﬂexible applications. So as different as these
+applications may seem, they all share four
+key features:
+• Process-driven – created with intuitive
+process maps.
+• Multi-channel – design once, deploy 
+to all channels.
+• Massively conﬁgurable – easy to build and
+change with minimal coding.
+• Easily integrated – with a service-oriented
+integration layer for loose coupling to any
+underlying systems.
+Because Portrait Foundation™ makes it 
+so easy to develop new applications, the
+Portrait Living Apps™ portfolio of templates 
+is always growing. Here’s a small sample to
+give you a sense of the kinds of customer-
+critical processes that Portrait™ was built 
+to manage.
+Aperio powered by Portrait™: A retail banking
+speciﬁc sales and service platform built by
+Fiserv to drive better customer interactions
+across all channels and seamlessly integrate
+with legacy systems.
+Portrait Emergency Services: Life or death
+response management and call handling for
+emergency services and other public sector
+agencies to reduce the burden on contact
+and command centres while increasing the
+speed and quality of response.
+Portrait Authenticate: A fail-safe way of
+proving your customers are who they say
+they are. Built in conjunction with GB Group
+and BT, Portrait Authenticate is an online
+service that checks billions of records 
+to prove identity. More comprehensive 
+than traditional credit checking, Portrait
+Authenticate reduces fraud and cuts down
+account opening from weeks to days.
+Portrait Underwrite: an application illustration
+of next generation underwriting – designed to
+streamline and automate key life underwriting
+processes leading to immediate underwriting
+decisions at the point of sale.
+OUR PARTNERS
+“Identity theft costs UK plc over 
+£1.3 billion every year. As fraudulent
+paper documents become more
+sophisticated, traditional methods 
+of identiﬁcation fall down on a number
+of levels; many fake documents are
+difficult to detect; the process can
+take up to four weeks; and critical
+personal documents can easily be 
+lost. URU™ is an effective, reliable 
+way to verify that individuals are 
+who they say they are.”
+Rob Laurence 
+Managing Director, Data Authentication
+Division, GB Group plc
+“The Portrait alliance with Unisys
+continues to generate innovative 
+and lucrative sales opportunities 
+on a global scale in both Financial
+Services and Emergency Services. As
+organisations change their thinking
+from static, data driven, hard coded
+systems to the new world of process-
+driven applications, Portrait delivers
+ﬂexibility by placing power in the
+hands of the business user.”
+Steve Olyha 
+Vice-President and Global Managing
+Partner, Unisys Enterprise Solutions PORTRAIT SOFTWARE PLC
+ANNUAL REPORT AND ACCOUNTS 2005
+Client Services Division
+12
+Business in the 21st Century is process.
+That’s why enterprises are tired of
+applications that can’t actually help them
+create better processes. Especially when
+the processes are the ones that drive
+customer interactions and relationships.
+Applications built on Portrait Foundation™
+don’t just deliver functionality, they deliver
+ﬂexibility – to create new processes, then
+model, change, deploy and monitor them.
+That’s why we have over 150 existing
+customers using our technology.
+Some already use Portrait™ at the heart 
+of their business processes like Nova KBM 
+in Slovenia and Cheshire Building Society.
+Others are long-standing customers using
+products of an older vintage, who are looking
+to Portrait to take them into the process-
+centric, service-oriented world such as 
+HMR, an existing EDGE customer.
+The Client Services Division supports these
+customers and partners and provides them
+with ﬁrst rate services and support as well 
+as helping them adopt new Portrait-based
+solutions. 
+Moving EDGE towards the 
+service-oriented future
+The original EDGE product was the industry’s ﬁrst
+call centre solution with a built-in development
+environment that allowed call centres to design
+their own interaction processes.
+Today, hundreds of call centres have valuable
+libraries of processes created in EDGE.
+Under a programme called EDGE 2020™, 
+we are helping these customers transition 
+to next generation contact centre functionality
+– without ‘ripping and replacing’ existing
+systems or processes.
+Using Portrait, our extensive EDGE
+customer base is augmenting their existing
+contact centre investments across other
+channels. For EDGE customers who want
+to embrace web architectures and multi-
+channel service and selling, we are offering
+the perfect solution.
+Nationwide Building 
+Society and Portrait Sales 
+Campaign Effectiveness
+The Nationwide Building Society decided to
+remodel its relationships with its 10 million
+customers in response to a rapidly changing
+competitive environment where customers
+were more demanding and regulations were
+testing the ﬂexibility of business systems. 
+Nationwide needed systems that could
+handle such a cycle of change. Using
+Portrait, Nationwide was able to design 
+and model the processes that drove
+customer interactions and satisfaction,
+deploy them efficiently and consistently
+across all channels (in the branch, on the
+phone and across the web) and manage or
+change these processes quickly and easily. 
+With Portrait, Nationwide was also able 
+to deliver Intelligent Prompts which delivers
+advanced customer intelligence to the
+desktop in the contact centre, branch
+network and across the web. Customer
+interactions are now highly personalised; 
+and no longer do customers receive 
+offerings for products they have already
+rejected in the past. 
+Portrait is deployed throughout Nationwide
+on over 12,000 desktops and plays a
+strategic role in the Society’s drive to be 
+the best in the industry for customer service. 
+The installation is also the largest multi-
+channel implementation on Microsoft
+technology in the world.
+OUR CLIENTS
+“Portrait has helped us to have more
+relevant and timely conversations
+with customers. This has led to an
+increase in sales that is running well
+ahead of our original expectations.
+We are very pleased with our returns
+from this investment.”
+Simon Baines 
+Head of Customer Insight, 
+Nationwide Building Society
+“Competitive differentiation through
+customer service is going to be 
+key to the success of the CAA as 
+it seeks to win business in China’s
+massive market. With Portrait
+Foundation™ we’re building agile,
+ﬂexible applications that will be 
+light and nimble allowing us to 
+scale easily as demand increases. 
+And they’re easily integrated with
+existing systems and, critically, 
+easily changed.”
+Ivica Orsolic 
+General Manager, People & Technology
+Service at CAA
+Proven return of investment for 
+Portrait Software customers
+Builds auditable process-centric customer facing applications 50% faster than raw 
+development tools.
+Maximises ROI – Nationwide exceeded sales targets by 150% with a payback within 
+less than 30 months of deployment.
+Adds value to customer interactions by delivering personalised sales and service 
+messages that drive revenue and delight customers. PORTRAIT SOFTWARE PLC
+ANNUAL REPORT AND ACCOUNTS 2005
+13
+“Call centres are only as
+good as the processes
+behind them.” PORTRAIT SOFTWARE PLC
+ANNUAL REPORT AND ACCOUNTS 2005
+Financial Review
+14
+£14.3m
+turnover
+adjusted earnings per share
+2.45p
+“Of greater interest in
+terms of future potential
+has been the performance
+of our core software
+product, Portrait, which
+has been gaining
+momentum as attributable
+licence and maintenance
+revenues grew 197% to
+£4.8 million...”
+Matthew White
+Chief Financial Officer
+Trading performance
+Revenues
+Turnover for the ﬁnancial year 2005 was
+£14.3 million, down £5.3 million on the
+prior year revenues of £19.6 million. This
+decrease was primarily attributable to the
+reduction in professional services revenues,
+which decreased to £4.0 million from 
+£8.6 million in 2004, following the move 
+we signalled last year away from lower
+margin direct services engagements 
+towards a higher margin product-driven
+business model where software product 
+is sold via service delivery partners.
+Professional services will remain an
+important source of revenue in the future
+but the growth in our indirect partner
+channels will mean that we will focus 
+more on adding value to projects working
+alongside our partners, rather than providing
+commodity services where margin pressure
+is strong.
+This shift in the business model is underscored
+by the fact that software licence and related
+maintenance revenues of £10.3 million
+(2004: £11.0 million) represented 72% of 
+all revenues for the year compared to 56% 
+of all revenues in ﬁnancial year 2004. 
+Of greater interest in terms of future potential
+has been the performance of our core
+software product, Portrait, which has been
+gaining momentum as attributable licence
+and maintenance revenues grew 197% to
+£4.8 million, which included £2.0 million
+from the recognition of pre-paid licence
+revenues previously deferred.
+In terms of geographical split, Europe
+remains our biggest developed market
+representing 72% of all sales by destination.
+Sales in the North America region have held
+up very well despite the weak dollar and now
+represent 24% of all global sales, up from
+18% in the prior year. The remaining 4% of
+sales came from the developing Asia Paciﬁc
+and South American markets.
+Operating costs
+Operating costs excluding exceptional 
+items were £12.7 million compared to 
+£18.3 million in the prior year, and the
+greater part of this saving came from a 
+£3.2 million reduction in cost of sales
+reﬂecting the decrease in professional
+services revenues and from improved
+efficiencies in our global support centre. 
+Total gross margin before exceptionals
+increased to 79% from 68% in prior year 
+as a result. Further cost efficiencies were
+achieved by reducing distribution costs 
+by £0.4 million and by reducing
+administrative expenses by £2.0 million. 
+Both numbers are stated before the 
+impact of exceptional items.
+Operating costs including exceptional items
+were £12.5 million (2004: £17.3 million)
+which included a substantial cost beneﬁt
+arising from the release of £1.0 million 
+of provisions no longer required, offset 
+by further provisions made of £0.4 million. 
+Although we have continued to manage
+expenditure very carefully we recognise the
+critical importance of continued sustainable
+investment in research and development
+and targeted marketing activities. The
+savings delivered by our cost management
+programme have not been at the expense 
+of future business development.
+Sales and marketing spend represented
+approximately 24% of turnover (2004:
+20%), while research and development 
+costs were approximately 25% (2004: 22%).
+Exceptional items
+The £246,000 balance of exceptional
+income recognised in the year largely
+relates to the management of the Group’s
+exposure to onerous property leases and
+other commercial liabilities. We negotiated
+exits from two surplus property leases
+during the year and also settled our
+remaining commitments under an 
+onerous outsource contract. We have 
+come a very long way in dealing with 
+the various legacy commitments we
+inherited at the time of the 2002
+reﬁnancing and the residual exposures 
+are now at very manageable levels.
+The provision releases identiﬁed in the 
+ﬁrst half of the year have been partially
+offset by additional amounts provided 
+in the second half to top up the carrying
+value of our provisions for property
+exposures. We continue to maintain a
+relatively high level of provisions in our
+balance sheet reﬂecting our cautious
+approach to identifying and providing
+against potentially onerous liabilities of 
+the business. We continue to work hard 
+to ensure that wherever possible these
+risks are mitigated or eliminated entirely.
+Earnings per share
+Diluted earnings per share of 2.49p (2004:
+7.49p) compares unfavourably with prior year
+as the comparatives were bolstered by
+signiﬁcant exceptional income and the
+recognition of a deferred tax asset during 
+that ﬁnancial year. In order to provide a more
+comparable indication of underlying trading
+performance, we have disclosed adjusted
+earnings per share information in note 8 to
+the ﬁnancial statements, on the same basis
+as in the prior year. Adjusted diluted earnings
+per share of 2.45p compares more fairly to
+earnings per share of 3.27p in 2004. PORTRAIT SOFTWARE PLC
+ANNUAL REPORT AND ACCOUNTS 2005
+15
+Cashﬂow
+Total cash outﬂow before ﬁnancing 
+was £3.6 million (2004: cash outﬂow 
+£0.7 million) and £0.7 million was 
+raised from the placing of shares with
+institutional investors in September 2004
+to help fund settlement of the onerous
+outsource contract referred to above. 
+Debt repayments accounted for £1.1
+million. Total net cash outﬂows from
+ﬁnancing amounted to £0.4 million 
+(2004: net inﬂows £5.9 million).
+The net cash decrease for the year after
+ﬁnancing was £4.0 million (2004: net cash
+increase of £5.2 million). Cash and deposits
+at year end stood at £3.6 million (2004:
+£7.7 million).
+The Group’s net debt position was £2.2 million
+at year end compared to a net funds
+position of £0.8 million at prior year end.
+July 2005 fundraising
+We have recently completed a £5 million
+fundraising (£4.75 million net of costs)
+which strengthens our balance sheet
+signiﬁcantly and ensures the Group has
+sufficient funds to implement our business
+development strategy.
+In conjunction with the fundraising we have
+also secured the agreement of our bankers
+to extend our existing loan facility to 2010.
+This will provide greater ﬁnancial ﬂexibility 
+to the Group by ensuring that repayment 
+of the legacy debt does not compromise 
+the availability of working capital required 
+for investment in the business in the
+medium term.
+Summary
+The ﬁrst two stages of the Group’s
+turnaround were all about creating a 
+stable platform for sustainable business
+growth. Our second full year of proﬁtability
+combined with the tremendous work 
+that has been done to unshackle the
+business from the inherited burden of the
+legacy debt, lease and other contractual
+obligations, gives us a stable and signiﬁcantly
+less fettered ﬁnancial platform to take the
+business forward with renewed conﬁdence.
+The injection of additional cash from 
+the fundraising and the extension of our 
+loan facilities since the year end have
+signiﬁcantly bolstered our ﬁnancial position
+and have secured our working capital
+requirements for the foreseeable future.
+We remain grateful for the renewed support
+of our investors and our bankers in sharing
+our conviction that by leveraging its core
+assets of its products, customers and
+people, Portrait Software has enormous
+potential for the future.
+Matthew White
+Chief Financial Officer
+2 August 2005
+Matthew White
+Chief Financial Officer 16
+PORTRAIT SOFTWARE PLC
+ANNUAL REPORT AND ACCOUNTS 2005
+Board of Directors
+1. John O’Connell (60)
+Non Executive Chairman, 
+Chairman of the Remuneration Committee,
+(appointed 9 June 2005)
+John, a qualiﬁed accountant, was Founder,
+Chairman and CEO of Staffware a workﬂow/
+BPM company, which listed on AIM in 1996
+and went on the LSE main market in 2000.
+Staffware operated proﬁtably in 22 countries
+and was the leading independent in its ﬁeld
+until it was sold to Tibco in June of 2004 
+for approximately $230 million. John is 
+now on the board of four companies in 
+the Technology sector; Clarity Commerce
+Solutions (Chairman), Columba Systems,
+InforSense and Portrait Software plc, and 
+is a board member/shareholder of London
+Wasps Rugby Club.
+2. Nick Randall (54)
+Chief Executive Officer 
+Nick has enjoyed success in growing and
+turning around companies. He founded
+Oxford Magnetic Technology Limited in
+1981, the revenues for which grew to
+approximately £50 million within ﬁve years.
+He left Oxford Magnetic Technology to
+purchase Airtech Limited and returned it 
+to proﬁtability within two years. He sold 
+two divisions of Airtech for £13 million 
+and formed Airtech plc, which obtained 
+an AIM quotation in 1996 and merged 
+with Remec Inc, in 1999. Post acquisition, 
+Nick managed Remec’s worldwide wireless
+infrastructure group, and oversaw mergers
+and acquisitions activities for the company.
+3. Robin Martin (40)
+Chief Operating Officer
+(appointed 9 June 2005)
+Robin has been a consistent high achiever 
+in Sales and Management roles with UK
+headquartered IT companies. Robin worked
+for Staffware plc from 1994 until its sale to
+Tibco and was Chief Operating Officer from
+2001. During his time at Staffware, Robin
+was responsible for building the company’s
+worldwide Sales and Partner network.
+Between 1994 and 2004, Staffware’s
+sales grew from £6.4 million per year 
+to £42 million per year. At Tibco, Robin
+became SVP Global Field Operations. 
+Robin is a Computer Science graduate 
+who has also worked in technical and 
+sales roles for companies including 
+Hytec Information Systems, TIS Limited 
+(a division of Misys) and COBOL 
+specialist Micro Focus.
+4. Matthew White (38)
+Chief Financial Officer
+(appointed 14 June 2004)
+Matthew has extensive experience in business
+turnaround and ﬁnancial management and
+has worked alongside Nick Randall as Finance
+Director of quoted technology companies
+since 1998. Before joining Portrait Software
+(then AIT) in 2002, he was European Finance
+Director for Remec Inc, a NASDAQ listed
+Electronic Engineering group, and before that
+he was Group Finance Director of Airtech plc.
+Prior to that Matthew had gained seven years’
+international corporate recovery experience 
+as a manager in the Corporate Financial
+Services team at Arthur Andersen (London)
+and Binder Hamlyn, and prior to that he 
+spent six years in audit practice. Matthew 
+is a Chartered Accountant and a qualiﬁed
+Insolvency Practitioner.
+5. Felda Hardymon (57)
+Non Executive Director 
+Felda is Professor of Management Practice 
+at Harvard Business School where he teaches
+Venture Capital and Private Equity. Prior to
+that, he joined Bessemer Venture Partners 
+as a general partner in 1981 where he
+remains a Venture Partner. He has led
+investments in young companies in the
+software, communications and retail sectors,
+including American Superconductor, Cascade
+Communications (acquired by Ascend),
+Celcore (acquired by DSC), Parametric
+Technology, the Sports Authority, Staples,
+LBMS (acquired by Platinum Technology),
+Celtel International (acquired by MTC) and
+Sirocco Systems (acquired by Sycamore
+Systems). He currently serves on the Board 
+of Silicon Valley Bancshares (NASDAQ:SIVB)
+and several private companies.
+6. Hugh McCartney (55)
+Non Executive Director 
+Hugh has over 25 years’ experience in the
+computer software industry, most recently 
+as Senior Vice President Worldwide Operations
+for enterprise software company Merant 
+based in San Francisco, California. Prior 
+to Merant, Hugh held senior Sales and 
+General Management positions in Europe 
+with database vendors Sybase Inc and Ingres
+Inc and application software company MSA
+Inc. Hugh is Chairman of NeverFail Holdings
+Ltd, Centennial Software Ltd and Scapa
+Technologies Ltd and also serves on the Board
+of UK quoted company Alterian Plc. Hugh is
+considered independent by the Board.
+7. Robert Stavis (42)
+Non Executive Director, 
+Chairman of the Audit Committee 
+Robert joined Bessemer Venture Partners 
+in July 2000 and is now a partner in the
+ﬁrm’s New York investment office, located 
+in Larchmont, New York. He primarily
+focuses on early-stage investments in
+ﬁnancial services, ﬁnancial services
+technologies and consumer software. 
+Prior to joining Bessemer, Robert was a
+private equity investor, managing a portfolio
+of private equity interests in a variety of
+industries including telecommunications,
+software, technology, gaming and
+restaurants. Until July 1998, Robert was 
+the co-head of global arbitrage trading 
+for Salomon Smith Barney. Some of 
+the companies with which he is currently
+involved are The Gerson Lehrman Group,
+Soliel Securities, PXRE Reinsurance
+(NYSE:PXT), Skype and Inﬁnitrust.
+8. Geoff Probert (51)
+Non Executive Director 
+Geoff was previously a Main Board Director
+at Perpetual plc responsible for information
+systems. He joined Perpetual in 1984. He
+was closely associated with the setting up 
+of both the EMX Co and Cofunds initiatives
+within the Unit Trust industry. Following the
+takeover of Perpetual plc by AMVESCAP Plc
+he was employed as a technical strategist
+and is a private investor. Prior to joining
+Perpetual, he worked for a number of
+software houses supplying the ﬁnancial
+services industry. He is a Trustee of 
+POWER, an international charity working 
+for motor disabled victims of conﬂict.
+Other Directors serving during 
+the year
+In addition to the above, Richard Hicks
+served during the year as Non Executive
+Chairman. Mr Hicks retired from the Board
+on 9 June 2005. Directors’ Report
+for the year ended 31 March 2005
+The Directors present their annual report on the affairs of the Group,
+together with the audited financial statements, for the year ended
+31 March 2005. 
+Principal activity
+The Group’s principal activity, which has remained unchanged
+throughout the year, is the provision of information technology
+solutions, based on a core product set, concentrating on specialist
+computer software design, systems integration and systems support. 
+Results and dividends
+The results for the year are set out on page 24 and the movements
+in reserves are shown in Note 19 to the financial statements.
+Further commentary is given in the Chairman’s Statement, the 
+Chief Executive Officer’s Review and the Financial Review. 
+The Directors are not recommending the payment of a dividend
+(2004: £nil).
+Review of the business
+A review of the Group’s business and future prospects is given 
+in the Chairman’s Statement, Chief Executive Officers’s Review 
+and the Financial Review.
+Following an extraordinary general meeting held on 9 June 2005 
+the Company changed its name from AIT Group plc to Portrait
+Software plc.
+Post balance sheet events
+On 30 June 2005 the Company announced the placing of
+20,000,000 Ordinary Shares with institutional investors at 
+a subscription price of 25 pence per share. The shares were 
+issued for a total cash consideration of £5 million (before costs 
+of approximately £250,000) including share premium arising 
+of £4,500,000 for the purposes of providing additional working
+capital to enable the Company to exploit the full potential of its
+Portrait based technology and to further strengthen the Company’s
+balance sheet.
+Research and development
+The Group continues to invest significantly in research and
+development and the Directors believe that investment in this area
+is a prerequisite for success in the medium to long term. During 
+the year Portrait Software plc invested £3.6 million in research 
+and development (2004: £4.4 million).
+Share capital
+Details of movements in share capital are given in Note 18 to 
+the financial statements.
+Directors and their interests
+The current Directors of the Company and all other Directors who
+served during the year are shown on page 16. The Directors’ interests
+in the share capital of the Company are shown in the Report of the
+Remuneration Committee. No Director had a material interest in any
+contract of significance to which the Company, or any subsidiary,
+was a party during the year.
+Directors’ and officers’ insurance
+The Company maintains insurance cover for all Directors and
+Officers of Group companies against liabilities which may be 
+incurred by them while acting in those capacities.
+Substantial shareholdings
+As at 15 June 2005, the Company had been notified that 
+the following were interested in 3% or more of the Company’s 
+share capital.
+Name (other than directors) No. of shares Percentage
+Deer V & Co. LLC (see note below)* 9,135,426 17.36%
+Richard Hicks (former director) 3,907,580 7.43%
+The Bank of New York (Nominees) Limited 2,870,500 5.45%
+Quester VCT 4 PLC 2,615,240 4.97%
+Close Brothers Group plc 2,505,352 4.76%
+Finsbury Technology Trust 2,439,091 4.63%
+Trustees Martyn Arbib ’79 Settlement 2,356,327 4.47%
+Royal Bank of Scotland plc/ 
+West Register (Investments) Limited 1,911,428 3.63%
+*Note: The interest of Deer V & Co. LLC is shown in its capacity as general
+partner of Bessemer Venture Partners VLP ., Bessemer Ventures Investors III
+LP ., Bessec Ventures V .L.P ., and BIP 2001 LP ., and as a managing member of
+BVE 2001 LLC and BVE 2001(Q) LLC.
+Donations
+During the year the Group made donations of £1,750 (2004:
+£1,000) to various charities. No contributions were made for
+political purposes.
+Payment policy
+The Group’s policy is to abide by the terms of payment agreed 
+with suppliers. At 31 March 2005 the number of days of annual
+purchases represented by trade creditors amounted to 36 days
+(2004: 34 days). The Company has no trade creditors.
+Economic and monetary union
+All relevant parts of the Group are able to handle transactions 
+in the Euro when required.
+Employment policy
+It is the policy of the Group to consider all applicants for employment
+on the basis of qualification for the specific job without regard to
+race, colour, religion, sex, age, disability or national origin. This 
+policy extends to all aspects of employment including recruitment,
+placement, training, compensation, career development, transfer
+and promotion.
+Employee development and involvement
+The contribution of employees is vital to enable the Group to achieve
+its commercial and financial objectives. The Group’s ability to sustain
+a competitive advantage over the long term will depend, in large
+part, on the continuous development of all employees. For this
+reason the Group is committed to providing an environment which
+values continuous learning and which creates development
+opportunities across all business areas. Various programmes exist 
+to meet the learning and development needs of employees. 
+17
+PORTRAIT SOFTWARE PLC
+ANNUAL REPORT AND ACCOUNTS 2005 Directors’ Report
+for the year ended 31 March 2005
+The Group places considerable value on the involvement of its
+employees and has continued to keep them informed on matters
+affecting them as employees and on the various factors affecting 
+the performance of the Group. This is achieved through regular
+formal and informal meetings, newsletters and the Group intranet.
+Employee representatives are consulted regularly on a wide range 
+of matters affecting their current and future interests.
+A shared commitment by all employees to the success of the
+business is of fundamental importance. All employees have share
+option entitlements with vesting terms linked directly to the Group’s
+financial performance. The allocation of share options provides all
+staff with a direct stake in the growth and prosperity of the business.
+In addition, all employees who do not already participate in sales
+commission schemes are entitled to an annual bonus which is
+dependant on the overall profitability of the Group. 
+Share schemes
+The Company maintains two employee trusts. These are the AIT
+Group Employee Share Ownership Plan Trust (the ‘ESOP’) and the 
+AIT Qualifying Employee Share Ownership Trust (the ‘QUEST’). The
+original purpose of these trusts was to hold and distribute Ordinary
+Shares in the Company under current and future share option
+schemes. The trustees of both trusts include an executive director, 
+a non-executive director, an employee representative and a third 
+party professional.
+The Company adopted a new share option scheme in September
+2002, which allowed for the grant of options under the Enterprise
+Management Incentive Scheme. The options vest and are
+exercisable in accordance with the rules of the Scheme and 
+subject to the following conditions:
+1 Normal Vesting: 
+a One-quarter of the Ordinary Shares comprised in each 
+Option Grant on the first anniversary of the Date of Grant; and
+b One thirty-sixth of the remaining three-quarters of the
+Ordinary Shares comprised in each Option Grant on the last
+day of each calendar month between the first and fourth
+anniversaries of the Date of Grant.
+2 Accelerated Vesting: the conditions for accelerated vesting of the
+options shall depend, inter alia, on the performance of the Group
+as measured by the audited yearly Trading Profit released by the
+Group. Trading Profit is defined as the Profit on Ordinary Activities
+Before Taxation, excluding any windfall gains from the release of
+unutilised provisions and including any exceptional items. The date
+on which this accelerated vesting condition will become applicable
+shall be the date on which the Company announces its Preliminary
+Results for the year. The residual balance of non-vested options
+after the accelerated vesting condition has occurred shall be
+calculated and the Normal Vesting conditions shall continue to
+apply to that balance.
+a One-half of the Ordinary Shares comprised in each Option
+Grant (including options already vested) on the first year that
+Trading Profit is greater than £3 million; and
+b All of the Ordinary Shares comprised in each Option Grant
+(including options already vested) on the first year that
+Trading Profit is greater than £5 million.
+Annual General Meeting
+Notice of the Annual General Meeting of shareholders on 
+13 September 2005, together with details of the resolutions 
+to be proposed at the meeting, are included on page 39. 
+Auditors
+A resolution for the re-appointment of Deloitte & Touche LLP 
+will be proposed at the forthcoming Annual General Meeting.
+Approved by the Board of Directors and signed on behalf of the Board.
+John O’Connell
+Non Executive Chairman
+2 August 2005 
+PORTRAIT SOFTWARE PLC
+ANNUAL REPORT AND ACCOUNTS 2005
+18 Corporate Governance Statement
+for the year ended 31 March 2005
+In June 1998, the Hampel Committee and the London Stock
+Exchange published the Principles of Good Governance and Code 
+of Best Practice (‘the Combined Code’) which embraces the work 
+of the Cadbury, Greenbury and Hampel Committees and became
+effective in respect of accounting periods ending on or after 
+31 December 1998. In July 2003 the UK Listing Authority 
+published the new Combined Code (‘the new code’).
+Although the Group is not governed by the Listing Rules of the 
+UK Listing Authority the Directors have given consideration to the
+Combined Code and the new code and have applied its principles
+where appropriate for the limited size of the Company and its
+position as described below.
+The Board and its Committees
+The Board
+The composition of the Board is set out on page 16. The Board
+comprises a Non Executive Chairman plus up to three Executive
+Directors and four further Non Executive Directors. The Board meets
+regularly and has a formal schedule of matters which are reserved
+for its decision. It has delegated specific responsibilities to the
+Remuneration and Audit Committees which have specific terms 
+of reference approved by the Board. Board and Committee papers
+are circulated in advance of each meeting and are supplemented 
+by reports and presentations so that all Directors are fully briefed
+and provided with the information they need. All Directors may take
+independent professional advice in furtherance of their duties at the
+Company’s expense.
+The primary function of the Board is to set Group strategy and 
+to oversee the effective implementation of that strategy. The 
+Board meets regularly throughout the year with an established
+agenda of items dealing with important aspects of the Group’s 
+affairs including monitoring strategy, approving acquisitions 
+and disposals, management performance, major capital and
+development expenditure, approving budgets and significant
+financing matters. The Board monitors exposures to key business
+risks and reviews business performance against strategic and
+budgetary goals and development programmes. The Board 
+also considers employee issues, key appointments and reporting 
+to shareholders.
+Details of the Directors’ service contracts are given in the Report 
+of the Remuneration Committee.
+Division of Responsibilities
+The Board structure provides demonstrable separation of executive
+responsibility for running the business and responsibility for running
+the Board. This structure ensures there is appropriate accountability
+to the Board and helps safeguard the independence and objectivity
+of the Board.
+The Board has delegated specific responsibilities to two principal
+Committees, each of which has written terms of reference. In 
+line with best practice, the terms of reference of the following
+committees have been subject to review within the last 12 months.
+Audit Committee
+The Audit Committee comprises Robert Stavis (Chairman) and Hugh
+McCartney. The role of the Audit Committee is key both to ensuring
+that a sound system of internal control is maintained within the
+Group and to ensuring that Portrait Software plc presents (and its
+policies support) a balanced, clear and understandable assessment
+of its position and prospects. The Audit Committee meets twice a
+year and more frequently if required. 
+The Committee examines the process of financial reporting within
+the Group. It reviews annually the adequacy of the Group’s system
+of internal controls and the processes for monitoring and evaluating
+the risks facing the Group. The Committee reviews the scope and
+results of the audit, as well as the fees of the auditors for both 
+audit and non-audit services. The Committee is authorised to seek
+information from any member of the Group and to obtain external
+professional advice if it considers it necessary. The Committee also
+reviews the interim and annual results and the annual report and
+financial statements, prior to their submission to the Board and
+ensures an appropriate relationship is maintained between the
+Group and its external auditors.
+Remuneration Committee
+The Remuneration Committee comprises John O’Connell
+(Chairman), Felda Hardymon and Hugh McCartney and meets
+periodically as required. The role of the Committee is to approve
+terms of service, agree the remuneration of the Executive Directors
+and to determine the allocation of share options within the terms 
+of a remuneration policy which is approved annually by the Board. 
+Nominations Committee
+In view of the size of the Board, the appointment of new Directors 
+is considered by the Board as a whole, accordingly there is no
+Nominations Committee. 
+Shareholder communication
+The Company encourages two-way communication with 
+both institutional and private investors and endeavours to 
+respond promptly to queries received. The Group’s website
+(www.portraitsoftware.com) provides detailed financial and business
+information about the Group. It is the policy of the Company to
+ensure that all our market announcements are made immediately
+available to all our shareholders via the medium of the Internet. 
+Meetings between Directors, designated senior management,
+institutional shareholders and other market professionals are held
+regularly in accordance with the Company’s investor management
+programme and always follow the terms of the Company’s Market
+Communications Policy. 
+Shareholders attending the AGM are invited to ask questions during
+the meeting and to meet the Directors and other members of senior
+management after the formal proceedings have ended. 
+Internal controls
+The Board attaches considerable importance to the Group’s systems
+of internal control and risk management with specific emphasis in
+the areas of financial, legal/commercial and compliance risk.
+These procedures include financial, operational and compliance
+19
+PORTRAIT SOFTWARE PLC
+ANNUAL REPORT AND ACCOUNTS 2005 Corporate Governance Statement
+for the year ended 31 March 2005
+controls as well as risk management, which accord with the criteria
+contained in the Internal Control Guidance for Directors on the
+Combined Code published by the ICAEW in September 1999.
+However the internal controls are designed to manage rather than
+eliminate risk and the Board recognises that any system can only
+provide reasonable and not absolute assurance against material
+misstatement or loss. It acknowledges its responsibility for ensuring
+that the Group’s system of internal financial control provides
+reasonable assurance regarding the reliability of financial information
+used both within the business and for publication and to safeguard
+shareholders’ investment and the Group’s assets. 
+The Board delegates day to day responsibility for internal control 
+and risk issues to the Chief Executive Officer who conducts 
+meetings with his senior management team on a regular basis. 
+In these management meetings the exposures to financial,
+operational and compliance risks are identified, reported on,
+assessed and controlled. 
+The Audit Committee is also responsible for reviewing the ongoing
+financial and compliance control procedures. The Board reviews 
+the effectiveness of the systems of internal control and risk
+management on a continuing basis by:
+• Considering Group strategy and approving an annual budget
+based on that strategy and medium-term projections. Core to 
+this process is the review of the risks and opportunities facing 
+the Group undertaken on a continuing basis.
+• Regularly reviewing operational performance and updated forecasts.
+• Retaining primary responsibility for acquisition and divestment
+policy, the approval of major capital expenditure and financing
+arrangements. Below Board level there are clearly defined
+management authority limitations for the approval of capital
+expenditure, Human Resource actions, significant contracts,
+investments, acquisitions and divestments.
+• Receiving reports on environmental, social, ethical and health 
+and safety matters as they relate to the Group’s operations.
+• Receiving regular reports from the Audit Committee as to whether
+the systems of internal control and risk management are
+operating effectively.
+These procedures have been in place since the start of the
+accounting period, have been reviewed and improved to enhance
+their effectiveness during the year, and have remained in place 
+up to the date of approval of the annual report.
+The Board acknowledges that companies without an internal audit
+function should, from time to time, review the need to establish
+one. At present the Board and the Audit Committee feel that current
+internal controls are adequate to meet the needs of the business
+and, while constantly reviewing controls in all areas, will consider 
+the need for an internal audit function as the Group continues 
+to develop.
+Business and environmental ethics
+The Board requires that its employees comply with the laws and
+standards of conduct of the countries in which it does business. 
+The Directors and employees are all required to avoid personal
+conflicts of interest regarding Company business.
+In complying with the Public Interest Disclosure Act 1998 in the
+United Kingdom, the Group has established a procedure enabling
+employees to bring matters to the attention of an appropriate
+manager outside of their own department in the event that they 
+do not feel able to approach their local line management.
+The Board recognises that it is important, both for its employees and
+the communities in which it operates, that the Group maintains high
+standards of health and safety and takes effective measures to
+ensure that its activities do not damage the environment.
+In particular the Group recognises the responsibility it has toward the
+environment. The Group Environmental Policy addresses compliance
+with environmental legislation, conformity with standards for air, 
+waste disposal and noise, the economical use of materials and the
+establishment of environmental performance standards. The Group
+commenced implementation of this policy during 2003, a process
+that has continued in 2005.
+Going concern basis
+After making enquiries, the Directors have formed a judgement, 
+at the time of approving the financial statements, that there is a
+reasonable expectation that the Group has adequate resources to
+continue in operational existence for the foreseeable future. For this
+reason the Directors continue to adopt the going concern basis in
+preparing the financial statements.
+Statement of responsibilities
+United Kingdom company law requires the Directors to prepare
+financial statements for each financial year which give a true and 
+fair view of the state of affairs of the Company and Group and of 
+the profit and loss of the Group for that period.
+In preparing those financial statements, the Directors are required to:
+• select suitable accounting policies and then apply them
+consistently;
+• make judgements and estimates that are reasonable and 
+prudent; and
+• state whether applicable accounting standards have been
+followed.
+The Directors are responsible for keeping proper accounting records
+which disclose with reasonable accuracy at any time the financial
+position of the Company and enable them to ensure that the
+financial statements comply with the Companies Act 1985. They 
+are also responsible for the system of internal control and for
+safeguarding the assets of the Company and hence for taking
+reasonable steps for the prevention and detection of fraud and 
+other irregularities.
+PORTRAIT SOFTWARE PLC
+ANNUAL REPORT AND ACCOUNTS 2005
+20 Directors’ Remuneration Report
+for the year ended 31 March 2005
+Although the Group is not governed by Schedule 7A of the
+Companies Act 1985, the directors have given consideration 
+to the requirements under this schedule to the Act and applied
+them where appropriate for the limited size of the Company and 
+its position.
+Membership
+The Committee consists of three Non Executive Directors, John
+O’Connell (Chairman), Felda Hardymon and Hugh McCartney. 
+The Committee, while reserving the right of decision, consults 
+with the Chairman and Chief Executive Officer about its proposals 
+and is empowered to seek professional advice, as it deems
+appropriate. The Board of Directors determines the remuneration 
+of the Non Executive Directors.
+Objectives
+The objectives of the Committee are:
+• to set the remuneration of the Group’s Executive Directors 
+to ensure that they are fairly rewarded for their individual
+contribution to the Group’s overall performance; and
+• to assist the Board by monitoring wider aspects of remuneration
+as may from time to time be assigned to the Committee.
+Remuneration policy
+The Committee is responsible for determining and reviewing a
+remuneration policy to attract and retain high quality executives
+capable of achieving the Group’s objectives. The remuneration
+package of Executive Directors consists of basic salary, a discretionary
+annual bonus, pension, and other benefits. The individual
+components of the remuneration package are discussed below.
+Base salary and benefits
+Salaries are reviewed annually and are set to reflect the
+responsibilities, knowledge, skill and experience of the individual. 
+In addition, the Group provides life assurance cover, health care
+benefits and, in the case of Executive Directors, a car allowance.
+Performance-related bonuses
+The approach for setting Directors’ bonuses is to establish 
+a framework at the beginning of the year, related to business
+performance and profitability, as a base for the assessment 
+of achievements and performance bonus awards at year end. 
+Senior managers are assessed in a similar manner and reviewed 
+by the Remuneration Committee. 
+Pension
+The Company contributes to a defined contribution pension scheme
+for the Executive Directors.
+Share options
+The Committee is also responsible for ensuring the proper
+constitution and operation of the Group’s share option schemes.
+These options are distributed to all Group employees. Details of
+Directors’ share options in the year ending 31 March 2005 are
+disclosed below.
+Contracts of service
+None of the Directors’ service contracts provides for more than 
+12 months’ notice of termination. 
+Directors’ interests in shares
+The beneficial and non-beneficial interests of the Directors at the end of the year in the share capital of the Company were as follows:
+31 March 2005 31 March 2004
+Ordinary 2.5p shares Ordinary 2.5p shares
+Beneficial Warrants Beneficial Warrants
+Director
+Richard Hicks 3,907,580 926,757 3,907,580 926,757
+Nick Randall 2,145,423 724,029 2,145,423 724,029
+Geoff Probert 551,267 115,844 551,267 115,844
+Matthew White 102,857 11,449 102,857 11,449
+6,707,127 1,778,079 6,707,127 1,778,079
+21
+PORTRAIT SOFTWARE PLC
+ANNUAL REPORT AND ACCOUNTS 2005 Directors’ Remuneration Report
+for the year ended 31 March 2005
+Share Options
+Options held Options held Market price Date
+at 31 March Granted Surrendered at 31 March Exercise at date  from first 
+Director 2004 in year in year** 2005 price of grant exercisable Expiry date
+Nick Randall 360,000 – (360,000) – £0.875 £0.635 20/10/03 20/10/12
+Nick Randall – 227,273 – 227,273 £0.025* £0.685 24/09/04 24/06/14
+Nick Randall – 500,000 – 500,000 £0.255 £0.255 24/08/05 24/08/14
+Geoff Probert 100,000 – (100,000) – £0.875 £0.635 20/10/03 20/10/12
+Geoff Probert – 151,515 – 151,515 £0.025* £0.685 24/09/04 24/06/14
+Geoff Probert – 100,000 – 100,000 £0.255 £0.255 24/08/05 24/08/14
+Richard Hicks 100,000 – (100,000) – £0.875 £0.635 20/10/03 20/10/12
+Richard Hicks – 151,515 – 151,515 £0.025* £0.685 24/09/04 24/06/14
+Richard Hicks – 100,000 – 100,000 £0.255 £0.255 24/08/05 24/08/14
+Matthew White 100,000 – (100,000) – £0.875 £0.635 20/10/03 20/10/12
+Matthew White 50,000 – (50,000) – £0.740 £0.725 15/01/04 15/01/13
+Matthew White – 53,030 – 53,030 £0.025* £0.685 24/09/04 24/06/14
+Matthew White – 200,000 – 200,000 £0.255 £0.255 24/08/05 24/08/14
+Felda Hardymon 50,000 – (50,000) – £0.740 £0.725 15/01/04 15/01/13
+Felda Hardymon – 100,000 – 100,000 £0.255 £0.255 24/08/05 24/08/14
+Robert Stavis 50,000 (50,000) – £0.740 £0.725 15/01/04 15/01/13
+Robert Stavis – 100,000 – 100,000 £0.255 £0.255 24/08/05 24/08/14
+Hugh McCartney 50,000 – (50,000) – £0.740 £0.725 15/01/04 15/01/13
+Hugh McCartney – 100,000 – 100,000 £0.255 £0.255 24/08/05 24/08/14
+Total 860,000 1,783,333 (860,000) 1,783,333
+*Options granted in settlement of contractual performance bonus for year ended 31 March 2004.
+** See Note 18.
+The closing price of an Ordinary Share on 31 March 2005 was 31.5p. The share price range during the year was 75p (high) and 25p (low).
+Emoluments of Directors
+The emoluments of Directors serving during the year ended 31 March 2005 are disclosed below:
+Salary and Benefits Pension 
+fees in kind contributions Total 2005 Total 2004
+Director £££££
+EXECUTIVE
+Nick Randall 201,750 3,123 28,125 232,998 374,182
+Matthew White* 94,684 2,826 4,354 101,864 –
+Richard Hicks* 5,000 140 – 5,140 138,725
+Geoff Probert* 9,966 369 – 10,335 239,000
+Sub Total 311,400 6,458 32,479 350,337 751,907
+NON EXECUTIVE
+Richard Hicks * 19,000 530 – 19,530 –
+Geoff Probert* 36,667 841 – 37,508 –
+Hugh McCartney 16,000 – – 16,000 16,000
+Felda Hardymon 10,000 – – 10,000 10,000
+Robert Stavis 10,000 – – 10,000 10,000
+Sub Total 91,667 1,371 – 93,038 36,000
+Total 403,067 7,829 32,479 443,375 787,907
+* The figures for Matthew White, Geoff Probert, and Richard Hicks are shown pro-rata for the period in office.
+The Remuneration Committee has approved the Report of the Remuneration Committee.
+By order of the Board
+John O’Connell
+Chairman of the Remuneration Committee
+2 August 2005
+PORTRAIT SOFTWARE PLC
+ANNUAL REPORT AND ACCOUNTS 2005
+22 Independent Auditors’ Report to the Members 
+of Portrait Software plc 
+for the year ended 31 March 2005
+We have audited the financial statements of Portrait Software plc 
+for the year ended 31 March 2005 which comprise the Group 
+Profit and Loss Account, the Balance Sheets, the Group Cash Flow
+Statement, the Group Statement of Total Recognised Gains and
+Losses and the related Notes numbered 1 to 22 together with 
+the notes to the Group Cash Flow Statement. These financial
+statements have been prepared under the accounting policies 
+set out therein. 
+This report is made solely to the Company’s members, as a body, 
+in accordance with section 235 of the Companies Act 1985. Our
+audit work has been undertaken so that we might state to the
+Company’s members those matters we are required to state to
+them in an auditors’ report and for no other purpose. To the fullest
+extent permitted by law, we do not accept or assume responsibility
+to anyone other than the Company and the Company’s members 
+as a body, for our audit work, for this report, or for the opinions 
+we have formed.
+Respective responsibilities of Directors and auditors
+As described in the statement of Directors’ responsibilities, the
+Company’s Directors are responsible for the preparation of the
+financial statements in accordance with applicable United Kingdom
+law and accounting standards. They are also responsible for the
+preparation of the other information contained in the Annual Report
+including the Director’s Remuneration Report. Our responsibility is 
+to audit the financial statements in accordance with relevant United
+Kingdom legal and regulatory requirements and auditing standards.
+We report to you our opinion as to whether the financial statements
+give a true and fair view and whether the financial statements have
+been properly prepared in accordance with the Companies Act
+1985. We also report to you if, in our opinion, the Directors’ Report
+is not consistent with the financial statements, if the Company 
+has not kept proper accounting records, if we have not received 
+all the information and explanations we require for our audit, or if
+information specified by law regarding directors’ remuneration and
+transactions with the Company and other members of the Group 
+is not disclosed.
+We read the Directors’ Report and the other information contained
+in the Annual Report for the above year as described in the contents
+section and consider the implications for our report if we become
+aware of any apparent misstatements or material inconsistencies
+with the financial statements. 
+Basis of audit opinion
+We conducted our audit in accordance with United Kingdom auditing
+standards issued by the Auditing Practices Board. An audit includes
+examination, on a test basis, of evidence relevant to the amounts
+and disclosures in the financial statements. It also includes an
+assessment of the significant estimates and judgements made 
+by the Directors in the preparation of the financial statements 
+and of whether the accounting policies are appropriate to the
+circumstances of the Company and of the Group, consistently
+applied and adequately disclosed.
+We planned and performed our audit so as to obtain all the
+information and explanations which we considered necessary 
+in order to provide us with sufficient evidence to give reasonable
+assurance that the financial statements are free from material
+misstatement, whether caused by fraud or other irregularity or 
+error. In forming our opinion we also evaluated the overall adequacy
+of the presentation of information in the financial statements.
+Opinion
+In our opinion the financial statements give a true and fair view of the
+state of affairs of the Company and of the Group at 31 March 2005
+and of the profit of the Group for the year then ended and have been
+properly prepared in accordance with the Companies Act 1985.
+Deloitte & Touche LLP
+Chartered Accountants and Registered Auditors
+Reading 
+2 August 2005
+23
+PORTRAIT SOFTWARE PLC
+ANNUAL REPORT AND ACCOUNTS 2005 Group Profit and Loss Account
+for the year ended 31 March 2005
+Exceptional
+Before income/ Total
+exceptional (charges) including
+items (Note 3) Total exceptionals*
+2005 2005 2005 2004
+Note £’000 £’000 £’000 £’000
+TURNOVER 2 14,288 – 14,288 19,648
+Cost of sales (2,988) 342 (2,646) (5,772)
+GROSS PROFIT 11,300 342 11,642 13,876 
+Distribution costs (3,410) – (3,410) (4,074)
+Administrative expenses (6,347) (96) (6,443) (7,493)
+OPERATING PROFIT 4 1,543 246 1,789 2,309 
+Finance charges (net) 6 (356) (291)
+PROFIT ON ORDINARY ACTIVITIES BEFORE TAXATION 1,433 2,018 
+Tax (charge)/credit on profit on ordinary activities 7 (55) 948
+RETAINED PROFIT AFTER TAXATION FOR THE FINANCIAL YEAR 1,378 2,966
+Retained loss brought forward (37,216) (40,182)
+RETAINED LOSS CARRIED FORWARD (35,838) (37,216)
+Basic earnings per Ordinary Share of 2.5p 8 2.67p 8.06p
+Diluted earnings per Ordinary Share of 2.5p 8 2.49p 7.49p 
+Adjusted diluted earnings per Ordinary Share of 2.5p 8 2.45p 3.27p 
+* The results for 2004 include exceptional income of £985,000 (refer to Note 3).
+All amounts derive from continuing operations.
+Note 2005 2004
+£’000 £’000
+Profit for the financial year 1,378 2,966
+Exchange translation differences 19 (13) 427
+Total recognised gains and losses relating to the year 1,365 3,393
+PORTRAIT SOFTWARE PLC
+ANNUAL REPORT AND ACCOUNTS 2005
+24
+Group Statement of Total Recognised Gains and Losses Group Balance Sheet
+as at 31 March 2005
+2005 2005 2004 2004
+Note £’000 £’000 £’000 £’000
+FIXED ASSETS
+Intangible assets – goodwill 9(a) 1,827 2,051
+Intangible assets – licences 9(b) 120 300
+Tangible assets 10 999 1,293
+2,946 3,644
+CURRENT ASSETS
+Debtors 12 2,512 3,191
+Cash at bank and in hand 20(a) 3,610 7,668
+6,122 10,859
+CREDITORS:
+Amounts falling due within one year 13 (3,410) (3,614)
+NET CURRENT ASSETS 2,712 7,245
+TOTAL ASSETS LESS CURRENT LIABILITIES 5,658 10,889
+CREDITORS: Amounts falling due after more than one year 14 (3,805) (5,024)
+PROVISIONS FOR LIABILITIES AND CHARGES 16 (2,329) (4,525)
+ACCRUALS AND DEFERRED INCOME 17 (3,842) (8,646)
+NET LIABILITIES (4,318) (7,306)
+CAPITAL AND RESERVES
+Called up share capital 18 3,354 3,296
+Share premium 19 28,222 27,542
+Other reserve 19 1,635 763
+Merger reserve 19 (1,162) (1,162)
+Profit and loss account 19 (35,838) (37,216)
+Own shares held 19 (529) (529)
+SHAREHOLDERS’ DEFICIT (4,318) (7,306)
+Shareholders’ deficit may be analysed as:
+Equity interests (6,357) (9,345)
+Non equity interests 2,039 2,039
+(4,318) (7,306)
+25
+PORTRAIT SOFTWARE PLC
+ANNUAL REPORT AND ACCOUNTS 2005 2005 2004
+Note £’000 £’000
+NET CASH OUTFLOW FROM OPERATING ACTIVITIES (i) (3,205) (1,025)
+Returns on investments and servicing of finance 
+Interest received 52 103
+Interest paid (358) (216)
+Interest element of finance leases (50) (52)
+(356) (165)
+Taxation
+Taxation (paid)/received (55) 367
+Capital expenditure
+Payments to acquire tangible fixed assets (39) (28)
+Payments to acquire intangible fixed assets – (630)
+(39) (658)
+Acquisitions
+Investments in associated undertakings – (4)
+Loan recovery from former associate – 500
+– 496
+Management of liquid resources
+Decrease in cash deposits 82 280
+CASH OUTFLOW BEFORE FINANCING (3,573) (705)
+Financing
+Issue of new shares (net of expenses) 738 2,689
+Repayment of bank loan (750) –
+Repayment of IMA Loan Note – (969)
+Issue of Convertible Loan Notes (net of expenses) – 4,656
+Finance lease repayments in year (391) (458)
+Cash (outflow)/inflow from financing (403) 5,918
+(DECREASE)/INCREASE IN CASH IN THE YEAR (ii) & (iii) (3,976) 5,213
+The accompanying notes are an integral part of this group cashflow statement.
+Group Cashflow Statement
+for the year ended 31 March 2005
+PORTRAIT SOFTWARE PLC
+ANNUAL REPORT AND ACCOUNTS 2005
+26 Notes to the Group Cashflow Statement
+for the year ended 31 March 2005
+(i) RECONCILIATION OF OPERATING PROFIT TO NET CASH OUTFLOW FROM OPERATING ACTIVITIES 
+2005 2004
+£’000 £’000
+Operating profit 1,789 2,309
+Depreciation charges 292 355
+Amortisation of goodwill 224 246
+Amortisation of intangible licences 180 330
+Loss on disposal of fixed assets 41 –
+Decrease in debtors 679 1,520
+IMA Loan Note waiver (before costs) – (969)
+Decrease in creditors (332) (386)
+Decrease in accruals and deferred income (3,847) (1,717)
+Decrease in provisions (2,196) (2,328)
+Other (35) 115
+Loan recovery from former associate (see Note 3) – (500)
+Net cash outflow from operating activities (3,205) (1,025)
+(ii) ANALYSIS OF MOVEMENT IN NET FUNDS/(NET DEBT)
+At 1 April At 31 March
+2004 Cashflow 2005
+£’000 £’000 £’000
+Cash at bank and in hand 7,225 (3,976) 3,249
+Restricted cash deposits 443 (82) 361
+Bank term loan (6,000) 750 (5,250)
+Finance leases (865) 341 (524)
+Net funds/(net debt) 803 (2,967) (2,164)
+(iii) RECONCILIATION OF (DECREASE)/INCREASE IN CASH TO MOVEMENT IN (NET DEBT)/NET FUNDS
+2005 2004
+£’000 £’000
+(Decrease)/increase in cash in the year (3,976) 5,213
+Decrease in cash deposits (82) (280)
+Cash outflow/(inflow) from decrease/(increase) in debt and lease financing 1,091 (3,573)
+Change in net debt resulting from cash flows (2,967) 1,360
+Waiver of IMA Loan Note – 941
+Translation difference – 312
+Conversion of former Director’s loans into equity – 754
+Equity conversion – 5,000
+Increase in finance leases – (1,323)
+Movement in net debt in year (2,967) 7,044
+Net funds/(debt) as at beginning of year 803 (6,241)
+Net (debt)/funds at end of year (2,164) 803
+27
+PORTRAIT SOFTWARE PLC
+ANNUAL REPORT AND ACCOUNTS 2005 2005 2005 2004 2004
+Note £’000 £’000 £’000 £’000
+FIXED ASSETS
+Investments 11 1,863 1,863
+CURRENT ASSETS
+Debtors – amounts falling due within one year 12 31 –
+Debtors – amounts falling due after one year 12 26,417 21,631
+Cash at bank and in hand 2,541 6,653
+28,989 28,284
+CREDITORS 
+Amounts falling due within one year 13 (98) (433)
+NET CURRENT ASSETS 28,891 27,851
+NET ASSETS 30,754 29,714
+CAPITAL AND RESERVES
+Called up share capital 18 3,354 3,296
+Share premium 19 28,222 27,542
+Other reserves 19 885 –
+Profit and loss account 19 (1,707) (1,124)
+SHAREHOLDERS’ FUNDS 30,754 29,714
+Shareholders’ funds may be analysed as:
+Equity interests 28,715 27,675
+Non equity interests 2,039 2,039
+30,754 29,714
+On behalf of the Board
+John O’Connell – Chairman Nick Randall – Chief Executive Officer
+Approved by the Board on 2 August 2005
+Company Balance Sheet
+as at 31 March 2005
+PORTRAIT SOFTWARE PLC
+ANNUAL REPORT AND ACCOUNTS 2005
+28 Notes to the Financial Statements
+for the year ended 31 March 2005
+1. Accounting policies
+Basis of accounting
+The financial statements have been prepared under the historical cost convention and in accordance with the Companies Act 1985 and
+applicable UK accounting standards, applied consistently throughout the year and the preceding year.
+Basis of consolidation
+The financial statements include the financial statements of the Company and its subsidiary undertakings, Portrait Software International
+Limited, Portrait International, Inc., AIT Group Qualifying Employee Share Ownership Trust and AIT Group ESOP Trust. The employee benefit
+trusts are consolidated on the basis of dominant influence exercised by the officers of the Company over the direction of the Trusts. For
+associated undertakings the Group includes its share of profits and losses in the Consolidated Profit and Loss Account and its share of post
+acquisition retained profits or accumulated deficits in the Consolidated Balance Sheet. The consolidated financial statements are based on
+financial statements which are coterminous with those of the parent company.
+The acquisition method of accounting has been adopted. Under this method, the results of subsidiary and associated undertakings acquired
+or disposed of in the year are included in the Consolidated Profit and Loss Account from the date of acquisition or up to the date of
+disposal. Goodwill arising on consolidation (representing the excess of the fair value of the consideration given over the fair value of the
+separable net assets acquired) is capitalised and written off over a period of 10 years, its expected useful life. Any excess of the aggregate
+of the fair value of the separable net assets acquired over the fair value of the consideration given (negative goodwill) is credited to the profit
+and loss account in the period(s) expected to benefit.
+The merger reserve represents the excess of the nominal value of the shares issued by the Company over the nominal value of the share
+capital and share premium of Portrait Software International Limited.
+No profit and loss account is presented for Portrait Software plc as permitted by section 230 of the Companies Act 1985. The Company’s
+retained loss for the year is disclosed in Note 19.
+Turnover
+Turnover represents revenue recognised in the period net of value added tax.
+Licence fees are recognised when there is a binding arrangement with a customer and there is entitlement to consideration based on
+performance. Licence sales to channel partners (resellers) are recognised on the earlier of sales to end users and the licence expiring. 
+If after two years neither of these events has occurred and payment has been made in full, the Directors assess the attributable value 
+of any existing or potential future obligations connected with the sale of the licences or the partner relationship and carry forward a 
+deferral amount which recognises the attributable value of these existing or potential obligations. The amount of licence is accounted 
+for net of amounts due for product maintenance and amounts due to third parties. 
+Royalties and maintenance are recognised in accordance with contract terms on an accruals basis.
+Contracts for the supply of services at fixed rates are accounted for as and when the work is performed, irrespective of the contract duration.
+Revenue on fixed price contracts is taken while the contract is in progress, having regard to the proportion of the contract which has been
+completed at the balance sheet date. Provision is made for foreseeable losses.
+Amounts recoverable on contracts
+Amounts recoverable on contracts represent revenue that has not yet been invoiced to clients. Such amounts are separately disclosed within
+debtors. Amounts billed but not recognised as revenue in the reporting period, are shown as deferred income.
+Research and development
+Research and development expenditure is written off as it is incurred.
+Intangible fixed assets – licences
+Acquired long term licences for the distribution rights to third party software are capitalised and amortised to the profit and loss account over
+the period in which economic benefit is received by the Group.
+Tangible fixed assets
+Tangible fixed assets are shown at original historical cost, net of depreciation and any provision for impairment. Depreciation is provided 
+on a straight line basis at the following rates, calculated to write down the cost of tangible fixed assets over their estimated useful lives. 
+Leasehold improvements Shorter of lease or useful life
+Fixtures and fittings 20%
+Motor vehicles 25%
+Computer equipment 33%
+29
+PORTRAIT SOFTWARE PLC
+ANNUAL REPORT AND ACCOUNTS 2005 Notes to the Financial Statements
+for the year ended 31 March 2005
+1. Accounting policies continued
+Investments
+Long term investments are classified as fixed assets. Unlisted investments and own shares are stated at cost less any provision for impairment.
+Foreign currency transactions
+Transactions in foreign currencies are translated at contracted rates or the exchange rate on the date of the transaction. Assets and liabilities
+in foreign currencies are translated at the year end rate of exchange or, if hedged, at the forward contract rate. The exchange differences are
+taken to the profit and loss account.
+The results of overseas subsidiary undertakings are translated into sterling at average rates for the year. The exchange differences are taken
+to reserves and reported in the Statement of Total Recognised Gains and Losses.
+Pensions
+The Group operates a group personal pension scheme on a defined contribution basis. Contributions payable for the year are charged to the
+profit and loss account. Differences between contributions payable in the year and contributions actually paid are shown as either accruals
+or prepayments in the balance sheet.
+Employee share schemes
+The issue of shares under employee share schemes is charged to the profit and loss account over the period to which participants’
+performance relates. The charge is based on the market value of the shares, less any potential consideration, at the time of granting rights
+thereto. Annual adjustments are made for staff who have left the Group during the year.
+Taxation
+Current tax, including UK corporation tax and foreign tax, is provided at amounts expected to be paid (or recovered) using the tax rates 
+and laws that have been enacted or substantially enacted by the balance sheet date. 
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at the balance sheet date where
+transactions or events that result in an obligation to pay more tax in the future or a right to pay less tax in the future have occurred at 
+the balance sheet date. Timing differences are differences between the Group’s profits and its results as stated in the financial statements
+that arise from the inclusion of gains and losses in tax assessments in periods different from those in which they are recognised in the
+financial statements.
+A net deferred tax asset is regarded as recoverable and therefore recognised when it is more likely than not that there will be suitable
+taxable profits from which the future reversal of the underlying timing differences can be deducted.
+Deferred tax is measured at the average tax rates that are expected to apply in the periods in which the timing differences are expected 
+to reverse, based on tax rates and laws that have been enacted or substantively enacted by the balance sheet date.
+Hire purchase and leasing commitments
+Assets obtained under hire purchase contracts or finance leases are capitalised in the balance sheet when they give rights approximating 
+to ownership.
+Those held under hire purchase contracts are depreciated over their estimated useful lives. Assets held under finance leases are
+depreciated over their estimated useful lives or the lease term, whichever is the shorter. The interest element of these obligations is
+charged to the profit and loss account over the relevant period. The capital element of the future payments is treated as a liability. 
+Rentals paid under operating leases are charged to the profit and loss account as incurred. Profit on sale and leaseback is amortised 
+over the period to the first rent review. 
+2. Segmental information
+Turnover includes revenue recognised from licence, maintenance, support, integration and development. Throughout the year, turnover was
+derived from a single class of business, being the provision and maintenance of information technology products and solutions.
+Turnover by geographical destination for the year was as follows:
+2005 2004
+£’000 £’000
+Europe 10,244 15,414
+North America 3,367 3,449
+Rest of World 677 785
+14,288 19,648
+Turnover by type of revenue for the year was as follows:
+2005 2004
+£’000 £’000
+Licence and maintenance revenues 10,251 11,002
+Professional services revenues 4,037 8,646
+14,288 19,648
+PORTRAIT SOFTWARE PLC
+ANNUAL REPORT AND ACCOUNTS 2005
+30 Notes to the Financial Statements
+for the year ended 31 March 2005
+2. Segmental information continued
+Turnover, operating profit and net assets by geographical source for the year were as follows:
+United Kingdom USA Group
+2005 2004 2005 2004 2005 2004
+£’000 £’000 £’000 £’000 £’000 £’000
+Turnover 11,535 15,839 2,753 3,809 14,288 19,648
+Operating profit/(loss) 2,145 2,015 (356) 294 1,789 2,309
+Finance income/(charges) (356) 4 – (295) (356) (291)
+Profit/(loss) on ordinary activities before taxation 1,789 2,019 (356) (1) 1,433 2,018
+Net assets/(liabilities) 11,228 5,868 (15,546) (13,174) (4,318) (7,306)
+3. Exceptional items
+Exceptional income/(charges) comprises:
+2005 2004
+£’000 £’000
+Restructuring and reorganisation costs – (615)
+Onerous leases and other commercial liabilities 246 159
+Gain on IMA Loan Note settlement – 941
+Loan recovery from former associate – 500
+246 985
+Exceptional income/(charges) in 2004 comprised £395,000 attributable to cost of sales, (£234,000) attributable to distribution costs, and
+£824,000 attributable to administrative expenses.
+4. Operating profit
+The operating profit is stated after charging/(crediting):
+2005 2004
+£’000 £’000
+Operating lease rentals – plant and machinery 185 223
+Operating lease rentals – land and buildings 582 931
+Operating lease rentals – other 246 639
+Depreciation – owned assets 180 262
+Depreciation – assets on finance lease contracts 112 93
+Amortisation of goodwill 224 246
+Amortisation of other intangible assets – licences 180 330
+Loss on disposal of fixed assets 41 –
+Auditors’ remuneration:
+• Audit services – Deloitte & Touche LLP – Group 35 37
+• Audit services – Deloitte & Touche LLP – Company 10 10
+• Non-audit services – Deloitte & Touche LLP 46 126
+Release of unutilised provisions (1,022) (1,525)
+Increase in provisions 404 1,204
+Research and development 3,609 4,357
+31
+PORTRAIT SOFTWARE PLC
+ANNUAL REPORT AND ACCOUNTS 2005 Notes to the Financial Statements
+for the year ended 31 March 2005
+5. Information regarding Directors and employees
+2005 2004
+Directors’ emoluments £’000 £’000
+Remuneration 411 750
+Pension contributions 32 38
+443 788
+2005 2004
+The highest paid Director received £’000 £’000
+Remuneration 205 348
+Pension contributions 28 26
+233 374
+2005 2004
+Staff costs (including Directors) £’000 £’000
+Wages and salaries 7,160 9,400
+Social security costs 745 941
+Pension contributions 333 377
+8,238 10,718
+Employee and employer pension contributions payable at 31 March 2005 were £44,218 (2004: £38,463).
+2005 2004
+Average number of employees ’000 ’000
+Professional services and product development 83 109
+Management and administration 17 22
+Sales and marketing 31 28
+131 159
+The total number of employees at the year end was: 128 135
+6. Finance charges
+2005 2004
+£’000 £’000
+Interest receivable and similar income 52 103
+Interest payable:
+– on bank loan, overdrafts and other loans (358) (342)
+– on finance lease agreements (50) (52)
+(356) (291)
+7. Tax on profit on ordinary activities 
+The tax (charge)/credit on the profit on ordinary activities for the year was as follows:
+2005 2004
+£’000 £’000
+Adjustment in respect of prior years, being total current tax credit – 18
+Recognition of deferred tax asset – 930
+Overseas tax suffered (55) –
+Total tax (charge)/credit on profit on ordinary activities (55) 948
+PORTRAIT SOFTWARE PLC
+ANNUAL REPORT AND ACCOUNTS 2005
+32 Notes to the Financial Statements
+for the year ended 31 March 2005
+7. Tax on profit on ordinary activities continued
+The difference between the total current tax (charge)/credit shown above and the amount calculated by applying the standard rate of UK
+Corporation tax to the profit before tax is as follows:
+2005 2004
+£’000 £’000
+Profit on ordinary activities before tax 1,433 2,018
+Profit on ordinary activities multiplied by the standard rate of UK corporation tax 430 606
+Effects of:
+Higher tax rates on overseas earnings (39) 145
+Capital allowances in excess of depreciation 80 (80)
+Expenses not deductible for tax purposes 55 607
+Movement in short term timing differences (326) (296)
+Increase/(decrease) in potential deferred tax asset not recognised 413 (964)
+State tax deduction – (3)
+Excess withholding tax suffered 39 –
+Adjustment in respect of prior years – (33)
+Income not taxable (22) –
+Deduction for shares exercised (19) –
+Utilisation of losses brought forward (556) –
+Current tax charge/(credit) 55 (18)
+The tax charge in future periods will be principally affected by the Group’s ability to generate taxable profits. As at 31 March 2005 there
+were estimated tax losses in the UK, including associates’ losses of £22,686,085 (2004: £23,240,000), and overseas losses of
+£1,259,816 (2004: £2,074,000).
+Deferred tax
+Deferred tax assets have been recognised in respect of tax losses that are likely to be utilised in the two years to 31 March 2007. The
+assets will be recognised in future periods as their recoverability becomes foreseeable. There were no unrecognised deferred tax liabilities 
+at either year end. A reconciliation of the deferred tax assets contained in the Group balance sheet and shown in Note 12 is given below:
+2005 2004
+£’000 £’000
+Deferred tax asset brought forward 930 –
+Movement in the year – 930
+Deferred tax asset carried forward 930 930
+There were unrecognised potential deferred tax assets as set out below:
+2005 2004
+£’000 £’000
+Accelerated depreciation 124 51
+Short-term timing differences 3,140 3,332
+Tax losses carried forward 7,473 6,941
+10,737 10,324
+The net effect of the movement in the deferred tax asset recognised in the year was nil. £556,000 of the deferred tax asset brought forward
+was utilised in the period as reflected in the reconciliation above. The deferred tax asset to be recognised at 31 March 2005 is £930,000
+and hence the utilisation of £556,000 is offset by the recognition of further deferred tax assets of £556,000.
+8. Earnings per share
+Earnings per share has been calculated in accordance with Financial Reporting Standard 14 by dividing the consolidated profit after tax
+attributable to shareholders by the weighted average number of 2.5p Ordinary Shares outstanding during the year.
+Diluted earnings per share has been calculated on the same basis as above except that the weighted average number of 2.5p Ordinary
+Shares that would be issued on the conversion of all the dilutive potential Ordinary Shares into Ordinary Shares has been added to the
+denominator. There are no changes to the profit (numerator) as a result of the dilutive calculation. 
+The calculations of earnings per share are based on profit on ordinary activities after taxation of £1,378,000 (2004: profit £2,966,000). 
+Adjusted earnings per share information has been disclosed to provide a more comparable indication of the underlying trading performance. 
+33
+PORTRAIT SOFTWARE PLC
+ANNUAL REPORT AND ACCOUNTS 2005 Notes to the Financial Statements
+for the year ended 31 March 2005
+8. Earnings per share continued
+The earnings per share and adjusted earnings per share information has been calculated as follows:
+2005 2004
+£’000 £’000
+Profit after taxation 1,378 2,966
+Adjustment to exclude amortisation of goodwill 224 246
+Adjustment to exclude exceptional income (246) (985)
+Adjustment to exclude movement in deferred tax asset – (930)
+Adjusted profit 1,356 1,297
+2005 2004
+Number Number
+Weighted average number of shares in issue 51,535,409 36,782,407
+Effect of dilutive potential Ordinary Shares – share options 1,556,061 100,969
+Effect of dilutive potential Ordinary Shares – warrants 2,212,758 2,725,657
+Diluted weighted average number of shares 55,304,228 39,609,033
+2005 2004
+Pence Pence
+Basic earnings per share 2.67 8.06
+Dilution impact (0.18) (0.57)
+Diluted earnings per share 2.49 7.49
+Adjustment to exclude amortisation of goodwill 0.40 0.62
+Adjustment to exclude exceptional income (0.44) (2.49)
+Adjustment to exclude movement in deferred tax asset – (2.35)
+Adjusted diluted earnings per share 2.45 3.27
+9(a). Intangible assets – Goodwill
+GROUP £’000
+COST
+At 1 April 2004 and 31 March 2005 13,832
+AMORTISATION
+At 1 April 2004 11,781
+Charge for year 224
+At 31 March 2005 12,005
+NET BOOK VALUE
+At 31 March 2005 1,827
+At 31 March 2004 2,051
+9(b). Intangible assets – Licences
+GROUP £’000
+COST
+At 1 April 2004 and 31 March 2005 630
+AMORTISATION
+At 1 April 2004 330
+Charge for year 180
+At 31 March 2005 510
+NET BOOK VALUE
+At 31 March 2005 120
+At 31 March 2004 300
+PORTRAIT SOFTWARE PLC
+ANNUAL REPORT AND ACCOUNTS 2005
+34 Notes to the Financial Statements
+for the year ended 31 March 2005
+10. Tangible fixed assets
+GROUP Leasehold Fixtures and Computer
+improvements fittings equipment Total
+£’000 £’000 £’000 £’000
+COST
+At 1 April 2004 1,941 233 727 2,901
+Additions 27 – 12 39
+Disposals (65) (16) – (81)
+Exchange adjustment – (2) (6) (8)
+At 31 March 2005 1,903 215 733 2,851
+DEPRECIATION
+At 1 April 2004 946 211 451 1,608
+Charge for year 143 8 141 292
+Disposals (30) (10) – (40)
+Exchange adjustment – (2) (6) (8)
+At 31 March 2005 1,059 207 586 1,852
+NET BOOK VALUE
+At 31 March 2005 844 8 147 999
+At 31 March 2004 995 22 276 1,293
+Fixed assets, included in the above, which are held under finance lease contracts comprise computer equipment with a net book value of
+£131,000 (2004: £244,000).
+There were no capital commitments contracted but not provided for at the year end.
+11. Investments
+COMPANY £’000
+Cost and net book value
+At 1 April 2004 and 31 March 2005 1,863
+Shares in Group Country of registration % of share capital
+undertakings or incorporation and voting rights held Principal activity
+Portrait Software International Limited England and Wales 100% Development and 
+sale of computer 
+software and services
+Portrait International, Inc. Ohio, USA 100%* Development and 
+sale of computer
+software and services
+AIT Quest Trustee Limited England and Wales 100% Trustee for AIT Group 
+Employee Share 
+Ownership Trust
+*Wholly owned subsidiary of Portrait Software International Limited.
+12. Debtors
+GROUP 2005 2004
+£’000 £’000
+Trade debtors 1,036 1,826
+Amounts recoverable on contracts 78 53
+Deferred tax asset 930 930
+Prepayments and other debtors 468 382
+2,512 3,191
+COMPANY 2005 2004
+Amounts falling due within one year £’000 £’000
+Prepayments and other debtors 31 –
+35
+PORTRAIT SOFTWARE PLC
+ANNUAL REPORT AND ACCOUNTS 2005 Notes to the Financial Statements
+for the year ended 31 March 2005
+12. Debtors continued
+COMPANY 2005 2004
+Amounts falling due after more than one year £’000 £’000
+Amounts owed by Group undertakings 26,417 21,631
+13. Creditors: Amounts falling due within one year
+GROUP 2005 2004
+£’000 £’000
+Bank loan (refer to Note 14) 1,500 1,500
+Trade creditors 631 563
+Social security and other taxes 639 1,162
+Finance lease contracts 469 341
+Other creditors 171 48
+3,410 3,614
+2005 2004
+COMPANY £’000 £’000
+Other creditors 98 433
+14. Creditors: Amounts falling due after more than one year
+GROUP 2005 2004
+£’000 £’000
+Bank loan repayable between one and five years 3,750 4,500
+Finance lease contracts repayable between one and five years 55 524
+3,805 5,024
+At 31 March 2005, the remaining bank loan was scheduled as repayable in 14 equal quarterly instalments between April 2005 and July 2008.
+The bank loan attracts interest at 2% above National Westminster Bank base rates and is secured on substantially all of the Group’s assets.
+Following the year end, the Group’s bankers agreed to reschedule the bank loan to be repayable over an extended term to October 2010.
+15. Operating lease commitments
+At 31 March 2005 there were annual commitments under operating leases as follows:
+Land and buildings Other leases
+2005 2004 2005 2004
+£’000 £’000 £’000 £’000
+Expiring within one year – 257 131 143
+Expiring between one and five years 45 – 73 304
+Expiring in more than five years 822 942 – 6
+867 1,199 204 453
+16. Provision for liabilities and charges
+Onerous leases/
+other commercial liabilities
+GROUP £’000
+At 1 April 2004 4,525
+Utilisation of provision (1,578)
+Release of unutilised provision (1,022)
+Increase in provision 404
+As at 31 March 2005 2,329
+The provision for onerous leases and other commercial liabilities represents provision for commitments of the Group that are not expected 
+to generate future economic benefit. These commitments include leases for property and other operating assets which the Directors have
+assessed as excessive following the restructuring of the business in prior years, and provision for the resolution of commercial matters with
+business partners. The provision represents the Directors’ estimate of the costs to the Group of settling these commitments. The Directors
+expect the provision for onerous leases and other commercial liabilities to be utilised over the course of the three financial years ending 
+31 March 2008.
+PORTRAIT SOFTWARE PLC
+ANNUAL REPORT AND ACCOUNTS 2005
+36 Notes to the Financial Statements
+for the year ended 31 March 2005
+17. Accruals and deferred income 
+Falling due within one year 2005 2004
+£’000 £’000
+Accruals 689 3,005
+Deferred income 2,935 5,367
+3,624 8,372
+Falling due after one year
+Deferred income 218 274
+3,842 8,646
+18. Called-up share capital
+Authorised Nominal 2005 2004
+Number Class value £’000 £’000
+91,882,081 Ordinary 2.5p 2,297 2,016
+2,038,947,966 Deferred 0.1p 2,039 2,039
+4,336 4,055
+Allotted, issued and fully paid Nominal 2005 2004
+Number Class value £’000 £’000
+52,618,827 (2004: 50,290,820 shares) Ordinary 2.5p 1,315 1,257
+2,038,947,966 Deferred 0.1p 2,039 2,039
+3,354 3,296
+The Deferred Shares have no right to vote or receive dividends and, in all practical respects, no rights to a return of capital on a liquidation
+of the Company. 
+On 13 September 2004, the Company announced the placing of 2,142,857 Ordinary Shares with institutional investors at a price of 
+35 pence per share. The shares were issued for a total cash consideration of £750,000 (before costs) including share premium arising 
+of £696,428 for the purposes of providing funds to terminate a contract with a sub-contractor.
+During the year, 185,150 share options were exercised for a consideration of £12,225, including share premium arising of £7,597.
+Share options in issue at 31 March 2005, all of which may normally be exercised up to nine years from the date on which they first vest,
+are shown below:
+Grant date Option price Exercisable from Number
+20 October 2002 £0.875 20 October 2003 2,800
+25 June 2003 £0.275 25 June 2004 214,000
+24 June 2004 £0.025 24 September 2004 1,003,443
+24 June 2004 £0.1725 24 September 2004 184,102
+24 August 2004 £0.255 24 August 2005 2,445,500
+18 September 2004 £0.3525 18 September 2005 14,000
+6 December 2004 £0.345 6 December 2005 15,000
+29 March 2005 £0.325 29 March 2005 10,500
+3,889,345
+Following a Remuneration Committee review of incentive policies in August 2004, the Company provided employees the opportunity to
+surrender their existing out of the money share options and receive new options on similar terms based on the prevailing market price, with
+the vesting schedule recommencing anew. 1,880,050 options were surrendered at this time and 1,991,000 new share options were issued.
+There are also 4,865,990 warrants in issue, at a subscription price of 25p. The subscription rights conferred by warrants are capable of
+exercise at any time between 7 September 2003 and 7 September 2009. Ordinary Shares allotted pursuant to any exercise of subscription
+rights conferred by the existing warrants shall be allotted and issued fully paid; shall not rank to any dividends or other distributions declared,
+paid or made on the Ordinary Share capital of the Company by reference to a record date prior to the date of exercise of such subscription
+rights; but subject thereto, shall otherwise rank pari passu in all other respects with the Ordinary Shares then in issue.
+In the event that the number and/or nominal value of Ordinary Shares to be subscribed will be increased/decreased, the warrantholder’s
+proportion of voting rights in the Company and rights to participate in the profits and assets of the Company will be maintained.
+37
+PORTRAIT SOFTWARE PLC
+ANNUAL REPORT AND ACCOUNTS 2005 Notes to the Financial Statements
+for the year ended 31 March 2005
+18. Called-up share capital continued
+Certain events may trigger adjustments to the number of warrants and/or the subscription price, including capital reorganisation, or where
+the Company issues shares at a price lower than the warrant subscription price or the Company issues shares at a subscription price lower
+than market price per share on the date of the relevant offer.
+The grant of options under employee share schemes is charged to the profit and loss account over the period to which participants’
+performance relates. The charge is based on the market value of the shares at the time of granting rights thereto, less any potential
+consideration. Annual adjustments are made for staff who have left the Group during the year.
+19. Shareholders’ (deficit)/funds
+Share Share Other Merger Own Profit and 
+capital premium reserves reserve Shares Loss Account Total
+GROUP £’000 £’000 £’000 £’000 £’000 £’000 £’000
+At 1 April 2004 3,296 27,542 763 (1,162) (529) (37,216) (7,306)
+Profit for year ––––– 1,378 1,378
+Shares issued 58 704–––– 762
+Costs of share issue – (24) –––– (24)
+Bonus share options – – 885––– 885
+Foreign exchange – – (13) – – – (13)
+At 31 March 2005 3,354 28,222 1,635 (1,162) (529) (35,838) (4,318)
+COMPANY
+At 1 April 2004 3,296 27,542––– (1,124) 29,714
+Loss for year ––––– (583) (583)
+Shares issued 58 704–––– 762
+Costs of share issue – (24) –––– (24)
+Bonus share options – – 885––– 885
+At 31 March 2005 3,354 28,222 885 – – (1,707) 30,754
+Other reserves shown for both Group and Company at 31 March 2005 included £885,000 in respect of share options granted to
+employees at a discount to market value in lieu of cash bonus payments (2004: £nil).
+20. Financial Instruments
+Group policy prohibits speculative transactions and no trading activity in financial instruments is undertaken. Treasury policies are 
+determined by the Chief Financial Officer, based on forecast business requirements, and are reviewed regularly by the Board. 
+Certain financial assets, such as investments in subsidiary undertakings are excluded from the scope of these disclosures. As permitted 
+by FRS 13, short term debtors and creditors have been excluded from the disclosures, except for the currency disclosures.
+a) Interest rate profile
+All of the Group’s financial assets, comprising £3,463,382 denominated in sterling and £146,493 denominated in US dollars 
+(2004: £7,508,370 denominated in sterling and £159,390 denominated in US dollars), are held at floating interest rates.
+The financial assets of the Group comprise cash and cash equivalents of £3,609,785 (2004: £7,667,759). Of this amount £361,000 
+was held on deposit not available on 24 hours notice (2004: £442,145).
+Details of the interest rate profile of the Group’s bank loan obligations are shown in Note 14. In addition the Group has finance lease
+obligations of £524,607 (2004: £864,959), which are classified as financial liabilities and are held at fixed interest rates.
+b) Currency exposures
+Substantially all of the monetary assets and liabilities of the Group are denominated in the functional currency of the operating unit involved.
+21. Fair values of the Group’s financial assets, liabilities and instruments
+As at 31 March 2005 the book values of the Group’s financial assets, financial liabilities and financial instruments were not materially
+different to their estimated fair values.
+22. Post balance sheet events
+Following an extraordinary general meeting held on 9 June 2005 the Company changed its name from AIT Group plc to Portrait Software plc.
+On 30 June 2005 the Company announced the placing of 20,000,000 Ordinary Shares with institutional investors at a subscription price of
+25 pence per share. The shares were issued for a total cash consideration of £5 million (before costs of approximately £250,000) including
+share premium arising of £4,500,000 for the purposes of providing additional working capital to enable the Company to exploit the full
+potential of its Portrait based technology and to further strengthen the Company’s balance sheet.
+PORTRAIT SOFTWARE PLC
+ANNUAL REPORT AND ACCOUNTS 2005
+38 39
+PORTRAIT SOFTWARE PLC
+ANNUAL REPORT AND ACCOUNTS 2005
+Notice of Annual General Meeting
+Notice is hereby given that the Annual General Meeting of Portrait Software plc (‘the Company’) will be held at The Smith Centre, 
+The Fairmile, Henley-on-Thames, Oxfordshire RG9 6AB on Thursday 15 September 2005 at 10.00 am, for the following purposes:
+Ordinary Business
+To consider and, if thought fit, to pass Resolutions 1 to 6 (inclusive) as ordinary resolutions of the Company:
+Resolution 1
+To receive and adopt the accounts of the Company for the financial year ended 31 March 2005, together with the reports of the Directors 
+of the Company and the auditors of the Company on those accounts.
+Resolution 2
+To receive, adopt and approve the remuneration report for the financial year ended 31 March 2005.
+Resolution 3
+To re-appoint Deloitte & Touche LLP as auditors of the Company to hold office until the conclusion of the next general meeting at which
+accounts are laid before the Company and to authorise the Directors of the Company to fix and determine Deloitte & Touche LLP’s
+remuneration for the ensuing year.
+Resolution 4
+To re-elect Geoff Probert as a Director of the Company.
+Resolution 5
+To re-elect John O’Connell as a Director of the Company.
+Resolution 6
+To re-elect Robin Martin as a Director of the Company.
+Special business
+To consider and, if thought fit, to pass the following resolutions, of which Resolutions 7 and 8 will be proposed as ordinary resolutions 
+of the Company and Resolution 9 as a special resolution of the Company:
+Resolution 7
+That the authorised share capital of the Company be increased by £470,000 from £4,336,000 to £4,806,000 by the creation 
+of 18,800,000 Ordinary Shares of 2.5p each in the Company ranking pari passu with the existing Ordinary Shares of 2.5p each in 
+the Company.
+Resolution 8
+That in substitution for any existing authority:
+(a) in accordance with Section 80 of the Companies Act 1985 (the ‘Act’) the Directors be and are hereby generally and unconditionally
+authorised to exercise all the powers of the Company to allot relevant securities within the terms of the following restrictions and
+provisions, namely:
+(i) this authority shall (unless previously revoked, varied or renewed by the Company in general meeting) expire on the earlier of the
+conclusion of the next Annual General Meeting of the Company following the passing of this Resolution and the date 15 months after
+the date of passing of such Resolution; and
+(ii) this authority shall be limited to the allotment of relevant securities up to an aggregate nominal amount of £606,263; and
+(b) for the purpose of sub-paragraph (a) above:
+(i) the said power shall allow and enable the Directors to make an offer or agreement which would or might require relevant securities to
+be allotted after such expiry and the Directors may allot relevant securities in pursuance of such an offer or agreement as if the power
+conferred hereby had not expired; and
+(ii) words and expressions defined in or for the purpose of Part IV of the Act shall bear the same meaning herein.
+Resolution 9
+That:
+(a) conditionally upon the passing of Resolution 8 above and in accordance with Section 95 of the Act, the Directors be and are hereby
+given power to allot equity securities for cash pursuant to the authority conferred by Resolution 8 above as if sub-section (1) of 
+Section 89 of the Act did not apply to any such allotment provided that:
+(i) the power hereby granted shall be limited:
+(aa) to the allotment of equity securities in connection with or pursuant to an offer by way of rights to the holders of shares in the
+Company and other persons entitled to participate therein, in the proportion (as nearly as may be) to such holders’ holdings of
+such shares (or, as appropriate, to the number of shares which such other persons are for these purposes deemed to hold)
+subject only to such exclusions or other arrangements as the Directors may feel necessary or expedient to deal with fractional
+entitlements or the regulations or requirements of any recognised regulatory body in any territory;
+(bb) to the grant of options to subscribe for shares in the Company and the allotment of such shares pursuant to the exercise of
+options granted, under the terms of any share option scheme adopted or operated by the Company; and
+(cc) to the allotment of equity securities, otherwise than pursuant to sub-paragraphs (aa) and (bb) above, up to an aggregate 
+nominal amount of £181,880;
+(ii) the power hereby granted shall expire on the earlier of the conclusion of the next Annual General Meeting of the Company 
+following the passing of this Resolution and the date 15 months after the passing of such Resolution;  PORTRAIT SOFTWARE PLC
+ANNUAL REPORT AND ACCOUNTS 2005
+40
+Notice of Annual General Meeting
+(b) (i) the said power shall allow and enable the Directors to make an offer or agreement before the expiry of the said power which would 
+or might require equity securities to be allotted pursuant to such offer or agreement after such expiry as if the power conferred herein
+had not expired; and
+(ii) words and expressions defined in or for the purpose of Part IV of the Act shall bear the same meaning herein.
+By order of the Board 
+Registered Office
+The Smith Centre 
+The Fairmile 
+Henley-on-Thames 
+Oxfordshire, RG9 6AB
+Matthew White
+Company Secretary
+2 August 2005
+Notes:
+(1) Only those shareholders registered in the register of members of the Company as at 10.00 am on 13 September 2005 shall be entitled to attend and vote
+at the meeting in respect of the number of shares registered in their name at that time. Changes to entries on the relevant register of securities after 10.00 am
+on 13 September 2005 shall be disregarded in determining the rights of any person to attend or vote at the meeting.
+(2) Any shareholder who is entitled to attend and vote at this meeting is entitled to appoint a proxy to attend and, on a poll, vote on his or her behalf. A proxy need
+not be a shareholder of the Company. Completion and return of the Form of Proxy will not preclude a shareholder from attending and voting at the meeting.
+(3) A Form of Proxy is enclosed which to be effective must be completed and received by the Company’s registrars at, Capita Registrars, The Registry, 
+34 Beckenham Road, Beckenham, Kent BR3 4TU, not later than 10.00 am on 13 September 2005.
+(4) The following documents are available for inspection on any day (except Saturday, Sunday and Bank Holidays) during usual business hours at the registered
+office of the Company and will, on the date of the Annual General Meeting, be available for inspection from 15 minutes prior to, until the conclusion of 
+the meeting:
+(i) the register of interests of Directors (and their family interests) in the share capital of the Company;
+(ii) copies of all the contracts of service and letters of engagement between the Directors of the Company and the Company or any of its subsidiaries;
+and
+(iii) the Memorandum and Articles of Association of the Company.
+In view of the voting and quorum requirements for the Annual General Meeting, shareholders are particularly requested to complete and
+return their Forms of Proxy whether or not they intend to be present at the Annual General Meeting.
+The Annual General Meeting starts at 10.00 am, however the doors to the Meeting will be open from 9.45 am and you may wish to arrive
+by 9.45 am to take your seat in good time for the start of the Meeting.
+Annual Report and Accounts and Remuneration Report (Resolutions 1 and 2)
+The Directors of the Company (the ‘Directors’) must lay the accounts of the Company for the financial year ended 31 March 2005, 
+the report of the Directors and the report of the auditors of the Company on those accounts before the Meeting.
+In addition, Resolution 2 provides for the remuneration report for the financial year ended 31 March 2005 to be received, adopted 
+and approved by the Meeting.
+An extract from the auditors’ report on page 23 of the Annual Report and Accounts will be read at the Meeting.
+Appointment and remuneration of auditors (Resolution 3)
+The Company is required to appoint auditors at each general meeting at which accounts are laid before the Company, to hold office until the
+next such meeting. Resolution 3 proposes the re-appointment of Deloitte & Touche LLP as auditors of the Company and authorises the
+Directors to fix and determine their remuneration for the ensuing year.
+Re-election of Directors (Resolutions 4, 5 and 6)
+Under the regulations of the Company’s articles of association concerning retirement by rotation and re-election, Geoff Probert is required 
+to retire as Director and is recommended by the Directors for re-election.
+John O’Connell and Robin Martin have been appointed since the Company’s last Annual General Meeting and are offering themselves for 
+re-election. Brief biographical details of the Directors appear on page 16 of the Annual Report and Accounts.
+Special business (Resolutions 7, 8 and 9)
+Resolution 7 is to increase the authorised share capital of the Company in order to ensure that there is sufficient headroom to allow for the
+issue of shares pursuant to the exercise of warrants granted by the Company to certain investors as part of the re-financing of the Company
+in September 2002, the issue of shares pursuant to the exercise of options granted and to be granted under the terms of share option
+schemes adopted or operated by the Company and in order to give the Board flexibility for the future.
+Resolution 8 is to confer on the Directors authority to allot Ordinary Shares pursuant to Section 80 of the Act, amounting to approximately
+one-third of the anticipated issued share capital of the Company (as diluted).
+Resolution 9 is to confer on the Directors power to allot Ordinary Shares as if the statutory pre-emption rights set out in Section 89 of 
+the Act did not apply to such allotments plus, in order to give the Board flexibility for the future, an additional authority amounting to
+approximately 10% of the current issued share capital of the Company.

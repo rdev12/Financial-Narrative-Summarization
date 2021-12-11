@@ -1,0 +1,4006 @@
+ iSOFT GROUP PLC 2004 ANNUAL REPORT AND ACCOUNTS
+FOR THE TWELVE MONTH PERIOD ENDED 30 APRIL 2004
+INNOVATIVE APPLICATIONS FOR HEALTHCARE COMMUNITIES CONTENTS
+01 FINANCIAL HEADLINES
+02 LETTER FROM THE CHAIRMAN
+06 CHIEF EXECUTIVE’S REPORT
+10 OPERATING AND FINANCE REVIEW
+14 REPORT OF THE DIRECTORS
+18 CORPORATE GOVERNANCE REPORT
+24 CORPORATE SOCIAL RESPONSIBILITY STATEMENT
+28 REMUNERATION REPORT
+34 AUDIT COMMITTEE REPORT
+36 INDEPENDENT AUDITORS’ REPORT
+37 FINANCIAL STATEMENTS
+70 FIVE YEAR SUMMARY
+72 COMPANY INFORMATION
+73 NOTABLE DATES 63.1%
+>
+Turnover growth of 63.1% 
+to £149.3m
+56.5%
+>
+Normalised profit before tax*
+increased 56.5% to £36.8m
+a profit margin of 24.7%
+£35.9m
+>
+Net cash inflow from
+operating activities
+#
+totalled
+£35.9m, representing a
+normalised profit before 
+tax* cash conversion ratio 
+of 97.6% 
+17.3%
+>
+Underlying earnings per
+share* for the year increased
+17.3% to 17.70 pence
+Year ended 30 April 2004 2003 2002 2001 2000
+Turnover (£’m) 149.3 91.5 60.1 31.1 17.0
+Normalised operating profit* (£’m) 39.5 25.6 16.4 7.6 3.5
+Normalised profit before tax* (£’m) 36.8 23.5 15.4 7.2 3.1
+Underlying earnings per share* 17.70p 15.09p 10.49p 4.77p 2.46p
+Average monthly employees 1,338 580 430 252 162
+IN THE YEAR ENDED 30 APRIL 2004
+01
+FINANCIAL HEADLINES
+page one
+* stated before amortisation of goodwill and exceptional items
+#
+stated before the cash impact of exceptional items LETTER FROM THE CHAIRMAN
+page two
+02
+INNOVATIVE APPLICATIONS FOR HEALTHCARE COMMUNITIES 03
+LETTER FROM THE CHAIRMAN
+page three
+Dear Shareholder,
+Since its listing on the London Stock Exchange in July 2000, iSOFT has grown strongly to
+become a healthcare software applications company of international significance. The year
+ended 30 April 2004 continued the consistent record of strong growth in turnover 
+and profitability.
+Our progress as a publicly quoted company is testimony to our ability to deliver software
+applications of unique value to our growing healthcare industry customer base. From its
+inception, the iSOFT business has had the ambition to be the global leader in the provision 
+of software applications for healthcare provider organisations.
+The rate of progress made in the year ended 30 April 2004 has been pleasing with a number
+of new business wins overseas to complement our outstanding success in winning contracts
+under the National Programme for Information Technology (NPfIT) in England. Global leadership
+as an application software supplier to the healthcare market is within our reach and we remain
+committed to this goal for your benefit and that of our customers and employees.
+Leadership in our market depends on reading future trends in healthcare better than our
+competitors, developing innovative software application responses to these trends and
+establishing distribution networks to get our products to market effectively. In the year ended
+30 April 2004, we have continued to invest heavily in our LORENZO software application to
+meet the current and emerging information systems requirements of hospital organisations and
+primary care physicians.
+Our use of technology in delivering comprehensive functionality and utility to support healthcare
+processes positions LORENZO favourably against international requirements for healthcare
+software. The demonstrable strength of our software applications led to the announcement in
+April 2004 of our alliance with Microsoft to package LORENZO for ease of implementation by
+third party organisations on an international basis. Increasingly, we expect to work with the
+large IT service organisations to hasten the introduction of our applications into new
+international markets.
+The year ended 30 April 2004 was significant in corporate development terms because of our
+merger with Torex PLC (Torex). The merger completed on 23 December 2003 and was finally
+cleared by the Office of Fair Trading (OFT) on 24 March 2004. The rationale for the merger
+was well understood and supported by the investor community, customers and staff of both
+iSOFT and Torex. From the outset we made it clear that the combined entity will have a single
+application portfolio, based primarily on the iSOFT suite of software. The strength of the former
+Torex service organisation will be deployed increasingly to support the LORENZO offering either
+through direct involvement with customers or via our work with IT service organisations
+engaged in implementing iSOFT applications.
+The rationale for the merger anticipated significant synergies and, despite a protracted period
+of competition review by the OFT, we completed all planning work for the integration of the two
+businesses by our year end. We are confident, based on that work, that we have increased the
+capacity of our organisation to be an effective international healthcare software application
+vendor. Additionally we expect to realise considerable cost structure improvements from the
+opportunity to rationalise our operations, particularly in, but not confined to, the UK.
+WE HAVE CONSIDERABLE INNOVATIVE TALENT WITHIN OUR
+ORGANISATION AND A FERVENT DESIRE TO EXPRESS IT LETTER FROM THE CHAIRMAN
+page four
+04
+Overall, we are very pleased with the merger progress and are re-inforced in our view that the
+transaction represents a step-change in iSOFT’s progression towards being the global leader in
+healthcare software applications.
+A key factor in the successful development of the iSOFT business is the strength of your Board
+in terms of its experience, enthusiasm and commitment to good governance. The changes
+made since our last year end position us well for the next stage of corporate development of iSOFT.
+Of course good strategic direction requires a strong execution capability. During the last year
+we have strengthened our operational management team as a priority for the business. The
+merger with Torex brought with it considerable operational management talent, particularly in
+the software services area. We were pleased to welcome these new colleagues into the
+enlarged iSOFT business. However, we have also recognised the need for investment staffing
+in order to maintain the rate of growth that we have come to expect. Accordingly, we have
+made a number of senior external recruitments aimed at consolidating our position in
+established markets and opening new international territories for our software applications.
+I would like to express my personal thanks to all our staff for their hard work and commitment
+to the iSOFT business over the last year.
+The success that we have achieved is only possible because we have considerable innovative
+talent within our organisation and a fervent desire to express it through our application
+products for the benefit of our healthcare customers.
+The iSOFT business has performed well to date and the strength of the Group’s current market
+position is such that I am confident that we are poised for further profitable growth over the
+coming years.
+Yours sincerely
+Patrick Cryne
+Executive Chairman 05
+LETTER FROM THE CHAIRMAN
+page five
+INNOVATIVE APPLICATIONS FOR HEALTHCARE COMMUNITIES CHIEF EXECUTIVE’S REPORT
+page six
+06
+INNOVATIVE APPLICATIONS FOR HEALTHCARE COMMUNITIES 07
+CHIEF EXECUTIVE’S REPORT
+page seven
+emphasise intermediate, community and
+domiciliary care. Realising the benefits of
+connecting up individual healthcare
+providers and establishing an effective
+supply chain of services across entire
+healthcare communities therefore
+represents the principal objective of these
+reform initiatives.
+Importantly, investment in modern
+information technology solutions is
+recognised as a key tool in the efficient
+organisation and delivery of care.
+With the administrative and clinical
+practice of medicine largely common
+around the world, new generation software
+applications that support the capture,
+collation, processing, distribution and
+presentation of information for all those
+involved in the delivery of healthcare in a
+given community are in great demand in
+each of the major healthcare economies.
+At the heart of this new information
+systems requirement is the introduction 
+of comprehensive electronic health records 
+for citizens.
+The requirement for healthcare information
+services to have extended reach across
+communities has led to the procurement of
+these solutions being conducted on a
+scaled-up, regional, or even national,
+basis. This represents a significant
+international opportunity for a leading
+modern applications expert, such as iSOFT.
+DEVELOPING MODERN
+INNOVATIVE APPLICATIONS
+The success of the iSOFT business to
+date, and the ability to capitalise on the
+significant market opportunity now
+available to us, depends principally on the
+strength of our application offering.
+A YEAR OF CONSIDERABLE PROGRESS
+The year ended 30 April 2004 was a
+period of considerable progress for the
+iSOFT business. Group revenues grew
+63.1% to £149.3m, with the normalised
+operating profit* result of £39.5m
+representing an increase of 54.4% from
+the previous year.
+Strong operating cash generation together
+with the sale of the former Torex Retail
+Division in February 2004 contributed to a
+net cash generation before financing of
+£71.6m. As a result we are pleased to
+report a year end net cash position of
+£3.8m. This balance sheet strength will
+help the Group take advantage of new
+business development opportunities as
+they present themselves.
+In addition to the positive financial
+performance, this year has seen a clear
+strengthening of our position in the
+international healthcare applications
+market. The recent successes in major
+regional and national procurements 
+have established iSOFT as one of the
+leading international healthcare 
+application suppliers.
+THE INTERNATIONAL HEALTHCARE
+APPLICATIONS MARKET
+The need to cap the rate of growth in the
+cost of providing healthcare services,
+whilst at the same time delivering against
+patient demands for improvement in the
+quality and effectiveness of the healthcare
+treatments they receive, is a challenge
+facing every modern economy.
+The answer lies in identifying ways to
+improve efficiency and reduce the burden
+on expensive, scarce resources. In order
+to meet this objective, healthcare delivery
+networks are forming that are designed to
+reduce the load on acute services and
+iSOFT applications remain positively
+differentiated from competitor offerings 
+as a result of constant innovation in
+architecture, functionality, utility and the
+effective use of technology.
+LORENZO, our latest generation 
+application, addresses fully the
+administrative and clinical information
+management requirements of the modern
+healthcare economy.
+Our ability to maintain this leadership is
+due to the expert analysis and design
+capability across the Group’s international
+operations and, significantly, the strength
+of our dedicated offshore software
+application development centre in Chennai,
+India. Established in January 2001, this
+centre is responsible for software code
+development and maintenance for all
+strategic applications.
+The centre represents a major competitive
+advantage by bringing world class
+technology solutions to market with
+unprecedented speed. As a result, we will
+continue our commitment to building our
+offshore capability aggressively over the
+course of the next few years.
+A SUBSTANTIAL 
+ESTABLISHED BUSINESS
+The iSOFT business has established a
+substantial presence in a number of
+international healthcare systems markets.
+At the date of this Annual Report, more
+than 1,500 hospital organisations and
+other healthcare institutions together with
+over 5,000 primary care physicians
+depend on iSOFT applications to deliver
+care. This user base extends into 14
+countries, with representation on 
+five continents.
+INVESTMENT IN MODERN INFORMATION TECHNOLOGY SOLUTIONS
+IS RECOGNISED AS A KEY TOOL IN THE EFFICIENT ORGANISATION
+AND DELIVERY OF CARE
+* stated before amortisation of goodwill and exceptional items CHIEF EXECUTIVE’S REPORT
+page eight
+08
+The NHS National Programme for
+Information Technology (NPfIT) in England,
+provided an opportunity to test the strength
+of the iSOFT application proposition against
+a shortlist of the other leading international
+healthcare application vendors. This
+procurement process represented arguably
+the stiffest test ever applied to the array of
+international suppliers who lay claim to
+having advanced application solutions
+relevant to the needs of modern 
+healthcare economies.
+The selection approach addressed not 
+only the scope of the functional
+requirements of healthcare applications,
+but also their large scale implementation
+and system performance capabilities.
+Our significant success in securing the
+application provider role in three of the 
+five regional contracts awarded under the
+NPfIT procurement is testimony to the
+completeness and competitiveness of our
+applications. It has created an extremely
+strong international reference for iSOFT
+and has stimulated a significant amount 
+of interest from healthcare economies
+around the world that are considering
+similar IT reform initiatives and 
+associated procurements.
+NEW INTERNATIONAL 
+MARKET OPPORTUNITIES
+The success of iSOFT’s international
+expansion to date evidences the quality of
+the upfront analysis performed on any
+prospective individual market opportunity,
+the rigour applied in identifying the most
+effective means of entry and our strong
+track record of execution.
+Given the widespread healthcare IT reform
+agenda and the international attractiveness
+of our application offering, the iSOFT
+business is certainly not opportunity
+constrained. As we plan and prepare for
+further geographic expansion, the challenge
+is for us to grow our analytical capability
+and maintain our capacity to execute.
+Over the years we have developed
+considerable experience of operating both
+with third party service organisations, as
+distributors of our product, and with an
+acquisition-led approach to entering a new
+geographic market. The decision on
+whether to partner, to acquire or to adopt a
+combined strategy will be taken on a
+region-by-region basis to ensure that the
+preferred approach represents that best
+suited to the characteristics of a 
+particular market.
+A key test applied by iSOFT when
+evaluating a new geography is whether the
+opportunity exists to establish a meaningful
+market share in a short period of time and
+in doing so gain early traction in generating
+an appropriate financial return relative to
+the cost of market entry.
+We will continue to apply this test
+rigorously when identifying relevant 
+new markets.
+OUTLOOK
+Over the course of the next twelve months
+we will, in the first instance, develop our
+business interests in our established
+geographic markets and in doing so drive
+the further organic growth of our business.
+We will complete are preparation for the
+launch of LORENZO in a number of new
+geographic markets and, as part of this
+preparation, confirm the most appropriate
+means of entry and development of 
+those markets.
+In summary, we expect over the course of
+the next year to sustain good growth and
+position the Group for further acceleration
+of that growth in future years.
+The opportunity now clearly exists for
+iSOFT to realise its ambition of being the
+global leader in the provision of 
+healthcare applications. We look forward
+with confidence.
+Tim Whiston
+Chief Executive Officer 09
+CHIEF EXECUTIVE’S REPORT
+page nine
+INNOVATIVE APPLICATIONS FOR HEALTHCARE COMMUNITIES OPERATING AND FINANCE REVIEW
+page ten
+10
+INNOVATIVE APPLICATIONS FOR HEALTHCARE COMMUNITIES 11
+OPERATING AND FINANCE REVIEW
+page eleven
+THIS WAS A VERY SUCCESSFUL YEAR FOR iSOFT WITH 
+SIGNIFICANT ORGANIC GROWTH CONFIRMING THE STRENGTH 
+OF OUR APPLICATION PROPOSITION
+A reconciliation of normalised operating
+profit, normalised profit before taxation 
+and underlying earnings per share to the
+statutory accounts is set out below.
+MERGER WITH TOREX
+The merger with Torex was completed 
+on 23 December 2003. The total
+consideration of £371.9m was satisfied by
+the issue of iSOFT shares at the rate of
+1.7692 iSOFT shares for each Torex share.
+Costs amounted to £4.1m. Goodwill
+recorded on the balance sheet is £397.2m
+which is stated after fair value adjustments
+which increased the net assets of Torex by
+£54.0m.
+Torex has been consolidated using
+acquisition accounting for the period 
+24 December 2003 to 30 April 2004 and
+contributed £6.3m to normalised operating
+profit* for the year. In the year prior to
+acquisition, Torex made a normalised
+operating profit* of £32.2m. This profit
+result included a contribution from the
+Torex Retail Division of £9.0m.
+Torex Retail was disposed of on 
+14 February 2004 for net proceeds of
+£61.2m. These proceeds have been used
+primarily to pay down bank borrowings.
+The regulatory clearance of the merger
+with Torex included a requirement to
+dispose of the Torex Laboratory business.
+OVERVIEW  
+This was a very successful year for iSOFT,
+with significant organic growth confirming
+the strength of our application proposition.
+In addition, the merger with Torex PLC
+(Torex) has established iSOFT as the fourth
+largest software and computer services
+company on the London Stock Exchange.
+TRADING RESULTS 
+In the year ended 30 April 2004, Group
+turnover increased 63.1% to £149.3m.
+Adjusting for the part year effect of the
+merger, underlying organic turnover growth
+was 15.5%.
+Normalised operating profit* increased by
+54.4% to £39.5m (2003: £25.6m), and
+normalised profit before tax* grew 56.5%
+to £36.8m (2003: £23.5m).
+Underlying earnings per share* increased 
+17.3% to 17.70p.
+The quality of the profit generated by the
+Group is underlined by consistent strong
+operating cash generation. The cash
+inflow from operating activities
+#
+during the
+year was £35.9m representing a cash
+conversion ratio of 97.6% against
+normalised profit before tax*.
+The Group’s net funds position at the 
+year-end was £3.8m compared with a 
+net debt position of £2.9m in the 
+previous year.
+As a result, this small business unit is held
+as an asset for resale with a carrying value
+of £6.5m.
+OPERATING PERFORMANCE
+The iSOFT business proposition has been
+carefully crafted over recent years with a
+focus around the provision of modern,
+forward referencing applications. The
+launch of LORENZO as the next generation
+of iSOFT application was announced last
+year and has been favourably received 
+by customer bases in each of our
+geographic markets.
+The application is acknowledged for
+delivering greater processing power,
+functionality and utility by those 
+healthcare provider organisations 
+seeking comprehensive modern 
+application solutions.
+In the UK, our operating performance has
+been dominated by the advent of the NHS
+National Programmme for Information
+Technology (NPfIT) in England.
+The 2003 Operating Review predicted that
+iSOFT would be well placed in the NPfIT
+procurement and this proved to be the
+case with iSOFT selected as the principal
+application supplier in three of the five
+Local Service Provider contracts awarded
+in late 2003 and early 2004.
+It is pleasing to see such significant early
+returns from recent application
+development investment.
+Year ended 30 April 2004 Operating Profit before Earnings per
+profit taxation share
+£m £m pence
+As disclosed in the statutory accounts 20.3 17.6 6.66
+Goodwill amortisation 11.3 11.3 7.04
+Exceptional items 7.9 7.9 4.93
+Tax on exceptional items - - (0.93)
+Normalised/underlying amounts 39.5 36.8 17.70
+* stated before amortisation of goodwill and exceptional items
+#
+stated before the cash impact of exceptional items OPERATING AND FINANCE REVIEW
+page twelve
+12
+In the Australian market where we had
+already secured a leading market share,
+we experienced reduced demand but the
+Group remains well placed to take
+advantage of any upturn in healthcare 
+IT spend over the coming years.
+We continued to move forward our
+presence in Asia Pacific and there are
+plans to build our Asia Pacific business
+interests further during 2005.
+The merger with Torex has provided the
+iSOFT Group with a strong presence in
+Germany and the Netherlands. Both
+entities have performed well in the four
+months since acquisition and the introduction
+of the iSOFT brand and the LORENZO
+application will provide additional impetus
+to our growth strategy in mainland Europe.
+BUSINESS INTEGRATION 
+The merger with Torex positioned iSOFT 
+as a leading healthcare IT provider in an 
+international context.
+The integration of the two businesses has
+proceeded according to plan, following
+regulatory approval, and the delivery of
+synergy savings in the enlarged Group’s
+cost base is well underway. A formal
+Business Improvement Programme is in
+place and the Group will continue with
+integration activities over the course of the
+next financial year.
+iSOFT’s track record of successfully
+integrating businesses over the last four
+years provides a proven framework for
+addressing the challenges of merging
+entities and building value.
+GLOBAL FUNCTIONAL STRUCTURE
+In order to deliver the business proposition
+seamlessly across the Group, a new
+organisation structure has been
+implemented under which the Group is
+organised along functional lines.
+The structure consists of the main Board,
+Product Strategy and Technology Group,
+Product Development, Commercial,
+Operations and Finance and 
+Administration functions.
+By organising the Group in this way, the
+Board can ensure that each area of the
+business operates in accordance with the
+central strategy of delivering packaged
+applications in response to modern
+healthcare reform initiatives around 
+the world.
+PARTNERSHIPS
+In Spring 2004, iSOFT announced its 
+world-wide strategic alliance with
+Microsoft. This agreement commits both
+organisations to working jointly towards
+iSOFT’s next-generation healthcare
+application,LORENZO. A substantial part
+of the agreement involves Microsoft
+committing technical resources to assist
+iSOFT in packaging its solutions for delivery
+by third-party service organisations on a
+regional and national scale.
+APPLICATION DEVELOPMENT
+During 2004, research and development
+expenditure increased from £7.9m to
+£12.7m representing 8.5% of turnover.
+We continued to invest in our dedicated
+software application development centre 
+in Chennai, India, concluding the year with
+430 staff employed in the centre.
+This gives us a major competitive
+advantage in accelerating our development
+cycle times, allowing us to bring new
+application product to market with
+unprecedented speed.
+Application design work continues to be
+undertaken by staff located in our core
+markets, notably the United Kingdom,
+Germany, the Netherlands and Australia,
+however, code manufacture and
+maintenance for all strategic products will
+continue to be performed in India.
+Our commitment to maintaining application
+leadership is underlined by the average
+number of staff directly employed in
+research and development activities during
+the year of 491 (2003: 233), representing
+approximately 36.7% of the Group’s
+average total head count.
+EXCEPTIONAL RESTRUCTURING COSTS
+An exceptional restructuring charge of
+£7.9m has been included in the profit and
+loss account. As we implement our
+integration plans the most significant
+savings are expected to come from
+elimination of duplicate overhead costs and
+head count rationalisation. The head count
+reduction opportunity comes primarily as a
+result of the merger as the Group focuses
+on a single application portfolio.
+INTEREST 
+Net interest payable in the year was £2.6m
+(2003: £2.1m). The increase in comparison
+with the previous year is due to the full year
+impact of the iSOFT term loan and inclusion
+of interest costs on Torex borrowings.
+TAXATION
+The reduction in the effective tax rate* for
+the year to 22.6% (2003: 23.3%) is due
+primarily to the impact of new regulations
+which permit employee share option gains
+to be deducted in the computation of the
+Group’s corporation tax charge. 13
+OPERATING AND FINANCE REVIEW
+page thirteen
+EARNINGS PER SHARE 
+Underlying earnings per share*, increased
+by 17.3% to 17.70p per share 
+(2003: 15.09p).
+Basic and diluted earnings per share were
+affected by the new shares issued during
+the year and by the exceptional
+restructuring charge. Basic earnings per
+share were 6.66p (2003: 11.17p) and
+diluted earnings per share, calculated in
+accordance with FRS 14, were 6.57p 
+(2003: 11.08p).
+BALANCE SHEET
+The Group consolidated balance sheet
+strengthened significantly over the year.
+Following the merger with Torex, closing
+net assets totalled £452.2m compared with
+an opening net asset position of £73.5m.
+The net funds position is £3.8m 
+(2003: net debt of £2.9m), with cash
+balances of £75.0m (2003: £45.5m) at the
+balance sheet date.
+The net increases in current assets and
+current liabilities results from the trading
+performance in the year and the impact 
+of the merger.
+FUNDING
+The cash conversion of profits remains 
+a key performance objective for the Group.
+Cashflow generated from operating
+activities
+#
+was £35.9m (2003: £23.5m)
+which represents a cash conversion of
+97.6% (2003: 100%) relative to the
+normalised profit before tax* result.
+At the balance sheet date, the Group had 
+a total credit facility in place of £145.0m 
+in addition to net funds of £3.8m. The
+facilities are structured to suit the Group’s
+short and medium term cash needs with 
+a combined revolving credit facility and
+overdraft of £85m and a five-year fixed
+term loan of £60m.
+Cash deposits are managed to maximise
+interest receipts whilst maintaining
+sufficient flexibility.
+Exposure to foreign exchange fluctuations
+is monitored on an ongoing basis with
+balances maintained in foreign currencies
+to match planned expenditure where
+appropriate. At the balance sheet date
+there was no material exposure to foreign
+exchange risk.
+ACCOUNTING POLICIES
+The Group fully adopted the requirements
+of FRS 17 “Retirement Benefits” in respect
+of the defined benefit scheme operated by
+Torex. At the balance sheet date, the 
+FRS 17 deficit in respect of this pension
+scheme was £8.7m. Net of the related
+deferred tax asset, the pension liability
+recognised in the Group accounts is
+£6.1m. The net pension deficit acquired
+with Torex was accounted for as part of the
+fair value exercise. The scheme was
+closed to new members in April 2000.
+During the year, the Accounting Standards
+Board issued Application Note G (“ANG”) 
+to FRS 5 “Reporting the Substance of
+Transactions” which sets out the principles
+that should be followed in recognising
+revenue. The adoption of ANG has not
+resulted in a change in the Group’s revenue
+recognition policies.
+All other accounting policies remain
+consistent with prior years and are set out
+in detail on pages 44 to 46.
+INTERNATIONAL FINANCIAL
+REPORTING STANDARDS
+In the year ending 30 April 2006, the
+Group will be required to publish its
+consolidated financial statements under
+International Financial Reporting 
+Standards (“IFRS”).
+The Group’s profit and loss account,
+balance sheet, cash flow statement and
+related notes for the year ending 30 April
+2005 will have to be restated for
+comparative purposes.
+There are a number of key differences
+between IFRS and current UK GAAP.
+The most significant difference to
+potentially affect the Group is in relation 
+to the treatment of product 
+development expenditure.
+As permitted by UK GAAP, the Group
+currently expenses all development
+expenditure as incurred, whereas IFRS
+requires such expenditure, providing certain
+criteria are met, to be capitalised and
+amortised over its useful life.
+The Group is currently in the process of
+assessing the full impact of IFRS and will
+complete its IFRS implementation
+programme during the year ending 
+30 April 2005 in order to ensure full
+compliance with IFRS in the year ending 
+30 April 2006.
+DIVIDENDS
+Consistent with a progressive dividend
+policy, the directors have proposed a final
+dividend of 1.7p per share (2003: 1.2p).
+Combined with the interim dividend of 
+0.7p (2003: 0.6p) per share, this gives a
+total dividend payment for the year of 2.4p
+per share (2003: 1.8p) reflecting the
+directors’ confidence in the future. The
+proposed final dividend, if approved at the
+Annual General Meeting, will be paid on 
+31 July 2004 to shareholders on the
+register on 2 July 2004.
+John Whelan
+Group Finance Director
+* stated before amortisation of goodwill and exceptional items
+#
+stated before the cash impact of exceptional items REPORT OF THE DIRECTORS
+page fourteen
+14
+INNOVATIVE APPLICATIONS FOR HEALTHCARE COMMUNITIES 15
+REPORT OF THE DIRECTORS
+page fifteen
+iSOFT IS A SOFTWARE APPLICATION PRODUCT BUSINESS 
+LICENSING PROVEN APPLICATION SOFTWARE TO HEALTHCARE 
+PROVIDER ORGANISATIONS
+DIRECTORS
+The directors of the Company as at the
+balance sheet date are shown below:
+Patrick Cryne (53), Executive Chairman,
+was appointed to the Board of iSOFT
+Group plc on 28 April 1999. He took on
+the role of Executive Chairman on 
+23 December 2003.
+Tim Whiston (36), Chief Executive Officer,
+joined the business as finance director in
+August 1997 and was subsequently
+appointed to the Board of iSOFT Group plc
+on 14 April 2000. He has acted as
+Company Secretary since that date.
+He took on the role of Chief Executive
+Officer on 2 February 2004.
+Steve Graham (40), Group Commercial
+Director, was appointed to the Board of
+iSOFT Group plc on 28 April 1999.
+Mark Woodbridge (33), Business
+Development Director, joined the iSOFT
+Group plc Board following the merger with
+Torex on 23 December 2003. He was
+formerly the Finance Director of Torex PLC.
+John Whelan (37), Group Finance
+Director, was appointed to the Board of
+iSOFT Group plc on 13 February 2004.
+Before joining iSOFT he spent several
+years working for Lufthansa in Europe 
+and North America. He is a chartered
+accountant.
+Digby Jones (48), Senior Independent
+Non-executive Director and Chairman of
+the Nominations Committee
+#†
+, was
+appointed to the Board on 19 May 2000.
+He is Director General of the Confederation
+of British Industry (CBI), a non-executive
+director of Alba plc, a director of Business
+in the Community, a non-executive director
+of the unlisted mhl support plc and
+Chairman of the unlisted etrinsic plc.
+The directors present their annual report
+and the audited financial statements of the
+Company and the Group for the year
+ended 30 April 2004.
+PRINCIPAL ACTIVITIES
+The Group is a software application
+products business, licensing proven
+application software to healthcare provider
+organisations from an established product
+portfolio. It also provides application
+product packaging, development,
+installation, system configuration, training 
+and customer support services in respect 
+of its applications.
+BUSINESS REVIEW AND
+FUTURE DEVELOPMENTS
+On 23 December 2003, the merger with
+Torex PLC (Torex) was declared
+unconditional. The directors consider that
+the Group will continue to enjoy growth for
+the foreseeable future. The Letter from 
+the Chairman on page 02, the Chief
+Executive’s Report on page 06, and the
+Operating and Finance Review on page 10
+provide further details of the performance
+of the business during the year and of
+expected future developments. The
+Corporate Social Responsibility Statement
+on page 24 provides an update on the
+Group’s policies in respect of employees
+and the environment.
+RESULTS AND DIVIDENDS
+The results of the Group are set out in the
+consolidated profit and loss account on
+page 39. The directors recommend the
+payment of a final dividend of £3.8m to
+the holders of the ordinary shares, which
+together with the interim dividend of
+£0.9m, gives a total equity dividend for the
+year of £4.7m.
+After deduction for dividends, the retained
+profit for the financial year was £6.0m.
+Eurfyl ap Gwilym (59), Non-executive
+director and Chairman of the Audit
+Committee*
+#†
+, was appointed to the Board
+on 19 May 2000. He is a director of the
+Principality Building Society and was
+formerly a director of the Terence
+Chapman Group plc.
+Geoff White (51), Non-executive director
+and Chairman of the Remuneration
+Committee*
+#†
+, was appointed to the Board
+on 19 May 2000. He is Chairman of SMP
+Group and non-executive director of
+Tekdata Interconnect Ltd and Tekdata
+Distribution Ltd. He is also a non-executive
+director of Radiancy Inc. He was formerly
+Chief Executive of Pressac plc and a 
+non-executive director of Derby City NHS
+Trust. He is a fellow of the Institute of
+Chartered Accountants.
+Rene Kern (40), Non-executive 
+director, was appointed to the Board on 
+14 March 2003. He is a senior executive
+with General Atlantic Partners who at the
+balance sheet date owned 7.7% of the
+shares of iSOFT Group plc. He is also a
+director of TDS Informationstechnologie AG
+which is domiciled in Germany.
+David Thorpe (54), Non-executive director*
+#†
+,
+joined the iSOFT Group plc Board on 
+23 December 2003, having been
+appointed as non-executive director of
+Torex PLC on 28 May 2003. He has held
+a number of senior positions for Electronic
+Data Systems (EDS) including UK Chief
+Executive and latterly President of EDS
+Europe. He is a non-executive director 
+of VT Group, Innovation Group and of
+Staffware plc. He is also Chairman of
+Tunstall Ltd. He is a member of the
+Chartered Institute of Public Finance 
+and Accounting.
+* Member of the Audit Committee   
+#  
+Member of the Remuneration Committee   
+†  
+Member of the Nominations Committee REPORT OF THE DIRECTORS
+page sixteen
+16
+* Member of the Audit Committee   
+#  
+Member of the Remuneration Committee   
+†  
+Member of the Nominations committee
+Dr Colin Wall (54), Non-executive director*
+#†
+,
+joined the iSOFT Group plc Board on 
+23 December 2003, having been appointed
+as non-executive director of Torex PLC in 
+October 1998. He was employed with Blue
+Circle Industries plc in a number of senior
+management roles and subsequently
+worked in a number of consultancy roles.
+Roger Dickens resigned as a director on
+23 December 2003. Chris Moore was
+appointed on 23 December 2003 and
+resigned on 2 February 2004.
+The Board considers that Digby Jones,
+Eurfyl ap Gwilym, Geoff White, David
+Thorpe and Colin Wall were independent
+throughout the year and that they remain
+independent at the date of this report.
+All directors are subject to election by the
+shareholders at the first opportunity after
+their appointment, and to re-election
+thereafter at intervals of no more than
+three years.
+In accordance with this, the directors
+retiring by rotation are Patrick Cryne, Tim
+Whiston, Eurfyl ap Gwilym and Rene Kern,
+who, being eligible, offer themselves for 
+re-election at the Annual General Meeting.
+The Executive Chairman has confirmed that
+the non-executives (Eurfyl ap Gwilym and
+Rene Kern) standing for re-election have
+fully met the performance standards
+required of non-executive directors by the
+Company and that they continue to
+demonstrate commitment to the role.
+In addition, Mark Woodbridge, John
+Whelan, David Thorpe and Colin Wall will
+stand for election at the Annual General
+Meeting, it being the first since their
+individual appointment.
+RESEARCH AND DEVELOPMENT
+The Group has a continuing commitment 
+to a significant level of application
+development investment.
+During the year, development investment
+totalled £12.7m (2003: £7.9m),
+representing 8.5% of turnover 
+(2003: 8.6%). All research and
+development expenditure is charged to 
+the profit and loss account as incurred.
+This expenditure ensures that iSOFT’s
+software application portfolio benefits from
+the latest technologies and continues to
+address the current and emerging
+customer business needs, thus protecting
+the market position of the Company and
+the potential for future revenue generation.
+The Board’s commitment to development 
+is demonstrated by an average of 491
+employees having been dedicated to this
+area in 2004 (2003: 233) out of a total
+average employee base of 1,338 
+(2003: 580). In addition, the formal
+worldwide strategic alliance announced by
+iSOFT and Microsoft further strengthens
+the Group’s research and development
+capability.
+QUALITY
+iSOFT maintains a policy of ensuring that
+appropriate standards of operation are
+maintained across the Group. Our
+achievement of ISO 9001:2000
+accreditation has been extended to our
+software application development centre 
+in Chennai which supports our commitment
+to this quality standard.
+DIRECTORS’ SHARE INTERESTS
+The beneficial share interests in the ordinary share capital of the Company of those persons
+who were directors at the balance sheet date were as follows:
+Ordinary % issued Ordinary % issued
+shares at capital shares at capital
+1 May 2003 30 April 2004
+Patrick Cryne 12,000,000 9.69% 12,000,000 5.32%
+Steve Graham 8,000,000 6.46% 8,000,000 3.55%
+Tim Whiston 402,488 0.33% 402,488 0.18%
+Mark Woodbridge - - 121,968 0.05%
+Digby Jones 25,000 0.02% 25,000 0.01%
+Eurfyl ap Gwilym 45,454 0.04% 45,454 0.02%
+David Thorpe - - 10,000 0.00%
+Colin Wall - - 206,403 0.09%
+Geoff White 110,454 0.09% 110,454 0.05%
+Beneficial interests include the director’s personal holdings and those of their spouse and
+minor children as well as holdings in family trusts of which the directors’ spouse or their
+minor children are beneficiaries or potential beneficiaries. Included in the total shown above
+for Patrick Cryne is 450,000 of such holdings.
+John Whelan and Rene Kern had no beneficial share interest at the balance sheet date.
+Rene Kern is an employee of General Atlantic Partners who owned 7.7% of the issued share
+capital of iSOFT Group plc at the balance sheet date.
+There have been no changes in the above interests between 30 April 2004 and 23 June 2004. 17
+REPORT OF THE DIRECTORS
+page seventeen
+PAYMENTS TO CREDITORS
+Whilst the Group does not follow any
+specific external code or standard on
+payment practice, the policy for all
+suppliers is to fix terms of payment when
+agreeing the terms of each business
+transaction and to ensure that the supplier
+is aware of those terms. The Group seeks
+to abide by those terms whenever it is
+satisfied that the supplier has met the
+contractual obligations. At 30 April 2004,
+the number of days of trade creditors for
+the Group, calculated by reference to the
+total amounts invoiced by suppliers, was
+36 days (2003: 46 days).
+SHARE CAPITAL
+Full details of changes in share capital in
+the year are shown in note 23 to the
+financial statements on pages 65 to 66.
+Other than the directors, the Company has
+been notified of the following interests in
+more than 3% of the issued share capital
+of the Company at the date of this report:
+Fidelity International Limited
+and FMR Corporation 11.2%
+ISIS Asset Management 10.1%
+General Atlantic Partners L.P. 7.7%
+Insight Investment Management 4.9%
+Morley Fund Management 4.7%
+Legal and General Investment
+Management 4.5%
+Aegon Asset Management 3.5%
+ANNUAL GENERAL MEETING
+The Annual General Meeting will be held at
+the offices of Ashurst, Boardwalk House,
+5 Appold Street, London, EC2 2HA starting
+at 10.00am on Thursday 22 July 2004.
+The resolutions to be proposed at the
+Annual General Meeting, together with
+explanatory notes, appear in the separate
+Notice of Annual General Meeting sent to
+all shareholders. The proxy card for
+registered shareholders is distributed with
+the Annual Report and Accounts.
+AUDITORS
+A resolution to re-appoint RSM Robson
+Rhodes LLP will be proposed at the
+forthcoming Annual General Meeting.
+APPROVAL
+The Report of the Directors was approved
+by the Board on 23 June 2004 and signed
+on its behalf by:
+Tim Whiston
+Chief Executive Officer CORPORATE GOVERNANCE REPORT
+page eighteen
+18
+INNOVATIVE APPLICATIONS FOR HEALTHCARE COMMUNITIES 19
+CORPORATE GOVERNANCE REPORT
+page ninteen
+THE BOARD OF DIRECTORS
+The Group is controlled by the Board of
+directors which, at 30 April 2004
+comprised the Executive Chairman, the
+Chief Executive Officer, three further
+executive directors and six experienced 
+non-executive directors, five of whom were
+independent for their period of
+appointment during the year. Biographical
+details of each director are set out on 
+pages 15 to 16. Each non-executive
+director is encouraged to contribute to
+both the full Board and its committees 
+as appropriate.
+The directors are encouraged to bring an
+independent judgement to bear on both
+strategic and operational matters. Any
+director may challenge company policy
+and decisions are taken democratically
+after discussion.
+There is a formal schedule of matters
+reserved for the Board. These include
+strategy, approval of annual budgets,
+significant investments and risk
+management. The Board met seven times
+during the year.
+Regular dialogue is maintained to ensure
+that the investing community receives a
+balanced and consistent view of the
+Group’s performance.
+STATEMENT OF DIRECTORS’ ROLES
+With the objective of ensuring successful
+creation of shareholder value within a
+framework of acceptable risk, the Board
+sees its role to include:
+• assisting value creation through 
+entrepreneurial leadership and by the 
+controlled and measured 
+management of a wide range of 
+business risks; 
+• deciding the strategic direction and 
+providing the resources required to 
+fulfil the future needs of the business;
+CORPORATE GOVERNANCE PHILOSOPHY 
+AND APPROACH
+The Board of directors (the Board) is
+committed to the highest levels of
+business integrity, high ethical values and
+professionalism in all its activities. As an
+essential part of this commitment, the
+Board supports the highest standards in
+corporate governance and seeks to apply
+recommended best practice where this is
+appropriate for the Group.
+The Board acknowledges that the Group
+operates in a rapidly developing business
+environment. Changes to the risk profiles
+in the business environment arise as a
+result of both external challenges, in a
+highly competitive and politically driven
+market place, and through internal
+challenges including the growth in the size
+of the business and the development of
+new products, management systems and
+procedures. These challenges also
+manifest themselves in greater detail as
+risks to the success of the Group’s
+financial, operational and compliance
+activities. As a result, the Board is diligent
+in evaluating and prioritising each risk and
+in determining appropriate systems and
+controls to detect and address them on an 
+on-going basis. By doing so, the Board
+believes that an effective mechanism for
+continual improvement in threat mitigation
+and opportunity management is 
+being adopted.
+• representing the interests of 
+shareholders and satisfying all 
+statutory duties due to them;
+• ensuring appropriate behaviour with 
+respect to the various codes of 
+corporate governance and good 
+business practices and by providing 
+an audit trail of accountability;
+• overseeing good corporate citizenship 
+and ethical behaviour by the Group 
+and its employees with regard to all 
+its internal and external stakeholders;
+• providing a challenging confidential 
+forum, free from conflicts, in which 
+the Chief Executive Officer can test 
+strategic thinking with an informed 
+group having broad continuity 
+over time;
+• requiring the Chief Executive Officer 
+to report openly on the operational 
+performance of all parts of the Group;
+• monitoring the effectiveness of the 
+Chief Executive Officer and his 
+executive team against a series 
+of performance objectives and 
+benchmarks;
+• setting a control framework within 
+which the Chief Executive Officer can 
+operate and authorising his decisions 
+on major issues and investments; 
+• constituting subcommittees of the 
+Board to address the issues of 
+remuneration, appointments and 
+audit; and
+• providing open disclosure in respect 
+of the remuneration of executive 
+directors and senior members of staff 
+in order to incentivise other staff.
+THE BOARD OF DIRECTORS SUPPORTS THE HIGHEST STANDARDS 
+IN CORPORATE GOVERNANCE AND SEEKS TO APPLY RECOMMENDED 
+BEST PRACTICE The directors confirm that they have
+complied with the above requirements in
+performing their roles.
+The Board believes that its style of
+involvement with management through the
+Chief Executive Officer and the executive
+directors is the most effective way to
+provide confidence in the control
+environment of the Group. Through
+openness, the provision of well-defined
+information and discussion, the Board
+endeavours to understand and provide
+leadership as to the willingness of the
+Group to take appropriate risks in the
+interests of the shareholders.
+SHAREHOLDER COMMUNICATION
+The Board is committed to good
+communication with its shareholders and
+maintaining an open and proactive dialogue
+with its institutional investors.
+The Board values the views of shareholders
+and recognises their interests in the
+Group’s strategy and performance.
+A regular dialogue is maintained with
+investment fund managers, other 
+investors and equity analysts to ensure 
+that the investing community receives 
+a balanced and consistent view of the
+Group’s performance.
+The Chief Executive Officer and Group
+Finance Director normally attend all
+investor briefings and the Executive
+Chairman attends as required and,
+in particular, at the interim and full year
+results announcements.
+All shareholders are welcomed to the
+Annual General Meeting where the
+Executive Chairman provides an overview
+of the Group’s business performance and
+future prospects. Shareholders are
+encouraged to raise questions and express
+their views. The Executive Chairman aims
+to ensure that all directors including
+Committee Chairmen are available at the
+meeting to answer relevant questions.
+In addition, the Group has established an
+investor relations facility on its website
+where up to date financial and other
+information can be found.
+STATEMENT OF DIRECTORS'
+RESPONSIBILITIES FOR THE FINANCIAL
+STATEMENTS
+Company law in the United Kingdom
+requires the directors to prepare financial
+statements for each financial year which
+give a true and fair view of the state of
+affairs of the Company and the Group 
+and of the profit or loss of the Group for
+that period.
+In preparing those financial statements,
+the directors are required to:
+• select suitable accounting policies and 
+then apply them consistently;
+• make judgments and estimates that 
+are reasonable and prudent;
+• state whether applicable United 
+Kingdom accounting standards have 
+been followed, subject to any material 
+departures disclosed and explained in 
+the financial statements; and
+• prepare the financial statements on 
+the going concern basis unless it is 
+inappropriate to presume that the 
+Company will continue in business.
+The directors are responsible for keeping
+proper accounting records which disclose
+with reasonable accuracy at any time the
+financial position of the Company and
+enable them to ensure that the financial
+statements comply with the Companies 
+Act 1985. They are also responsible for
+safeguarding the assets of the Company
+and hence for taking reasonable steps for
+the prevention and detection of fraud and
+other irregularities.
+The directors confirm that they have
+complied with the above requirements 
+in preparing the financial statements.
+The Annual Report is available on the
+Group’s website www.isoftplc.com. The
+maintenance and integrity of the Group's
+website is the responsibility of the
+directors. The work carried out by the
+auditors does not involve consideration 
+of these matters and, accordingly, the 
+auditors accept no responsibility for any
+changes that may have occurred to the
+information contained in the financial
+statements since they were initially
+presented on the website.
+Legislation in the United Kingdom
+governing the preparation and
+dissemination of the financial statements
+and other information included in annual
+reports may differ from legislation in 
+other jurisdictions.
+CORPORATE GOVERNANCE REPORT
+page twenty
+20 APPOINTMENTS TO THE BOARD
+Each member of the Board brings different
+experience and skills to the operation of the
+Board and its various committees. The
+Board composition is kept under review
+and when a new appointment is to be
+made, consideration is given to the
+particular skills, knowledge and experience
+that a potential new member could add to
+the existing board composition.
+Comprehensive, formal and tailored
+induction is provided to new Board
+members. The Group has long recognised
+the vital role that non-executive directors
+have in ensuring high governance
+standards and maintains a significant, high
+calibre, non-executive representation on
+the Board.
+All directors are required to submit
+themselves for re-election at regular
+intervals and at least every three years.
+INFORMATION AND 
+PROFESSIONAL DEVELOPMENT
+The directors have implemented
+appropriate reporting procedures to ensure
+that they are supplied with timely, accurate
+and comprehensive information to enable
+the Board to discharge its duties in full.
+Existing Board members have many years
+of relevant experience, all are responsible
+for ensuring continuing professional
+development to maintain up to date and
+effective skills and knowledge. The
+directors have access to seek independent
+advice, at the Group’s expense, if
+necessary for the proper performance of
+their duties. The directors also have
+access to the Company Secretary for his
+advice and services.
+PERFORMANCE EVALUATION
+The Board monitors performance against
+the achievement of the Group’s strategic
+objectives. Each executive director has
+defined responsibilities for performance
+and measurement of achievement 
+includes a mix of financial and 
+non-financial, together with predictive 
+and historic indicators.
+BOARD COMMITTEES
+The Audit Committee, the Nominations
+Committee and the Remuneration
+Committee deal with specific aspects of 
+the Group’s affairs in accordance with 
+their written terms of reference. Each 
+are comprised of only independent 
+non-executive directors. The non-executive
+directors also met once during the period
+without the Executive Chairman or other
+executive directors present.
+THE NOMINATIONS COMMITTEE
+The Nominations Committee has only
+recently been established. Its terms of
+reference include the authority to review
+and make recommendations to the Board
+about Board appointments. Digby Jones is
+Chairman of the Nominations Committee
+and all independent non-executive directors
+are members of the Committee.
+THE REMUNERATION COMMITTEE
+The Remuneration Committee met four
+times during the year and all members
+were present at each meeting. The
+Committee is chaired by Geoff White 
+and all independent non-executive 
+directors are members of the Committee.
+The Remuneration Report is set out on
+pages 28 to 33.
+THE AUDIT COMMITTEE
+The Audit Committee met three times
+during the year and all members were
+present at each meeting. All independent
+non-executive directors with the exception
+of Digby Jones are members of the
+Committee with other directors and the
+external auditors invited as appropriate.
+The report of the Audit Committee is set
+out on pages 34 to 35.
+INTERNAL CONTROL
+The Board retains full responsibility for the
+Group’s system of internal controls, which
+operate on a global basis, and for reviewing
+its effectiveness. However, such a system
+is designed to manage rather than
+eliminate the risk of failure to achieve
+business objectives and can, therefore,
+provide only reasonable and not absolute
+assurance against material misstatement 
+or loss. In accordance with the Combined
+Code, the directors have reviewed the
+effectiveness of the Group’s system of
+internal controls during the year, including
+financial, operational, compliance and risk
+management controls.
+Key elements of the Group’s internal
+controls are:
+• a clearly defined management 
+structure and delegation of authority 
+to committees of the Board, heads 
+of departments and individual 
+business units;
+• clearly documented internal 
+procedures set out in the Group’s 
+ISO 9001:2000 accredited quality 
+management manual;
+• regular internal quality audits of key 
+processes and procedures under the 
+Group’s ISO 9001:2000 accredited 
+quality management process;
+21
+CORPORATE GOVERNANCE REPORT
+page twenty one • an internal quality audit function which 
+consists of four full time and fifty two 
+part time members;
+• high recruitment standards together 
+with formal career development and 
+training to ensure the integrity and 
+competence of staff;
+• regular and comprehensive 
+information provided to management,
+covering financial performance and 
+key performance indicators, including 
+non-financial measures;
+• a detailed budgeting process and 
+rolling three year strategic plans which 
+are approved by the Board;
+• procedures for the approval of capital 
+expenditure and investment and 
+acquisition projects;
+• on-going review of contractual 
+agreements with existing and new 
+customers; and
+• monthly monitoring and re-forecasting 
+of results against budget, with 
+investigation and action taken in 
+response to variances.
+Following the merger with Torex, the Group
+plans to introduce an internal audit function
+dedicated to testing internal financial
+controls during the year ending 
+30 April 2005. Further detail is provided 
+in the Audit Committee report on 
+pages 34 to 35.
+COMPLIANCE WITH CODE PROVISIONS
+The directors believe that the Group has
+complied in all material requirements of the
+Combined Code issued in June 1998 as
+annexed to the Financial Service Authority’s
+Listing Rules throughout the year.
+The revised Combined Code (the ‘Revised
+Code’) was issued in July 2003
+incorporating recommendations from the
+Higgs Report on Corporate Governance and
+the Smith report in respect of Audit
+Committees. The Revised Code will be
+applicable to the Group’s financial year
+ending 30 April 2005. Having reviewed the
+principles and provisions of the Revised
+Code, the Board believes that it currently
+substantially complies with the new
+provisions and expects to be fully compliant
+by this time next year.
+GOING CONCERN
+The directors are satisfied that the Group
+has adequate resources to continue in
+operational existence for the foreseeable
+future, a period of not less than twelve
+months from the date of this report.
+For this reason, they continue to adopt 
+the going concern basis in preparing the
+financial statements. The directors have
+satisfied themselves that the Group is in a
+sound financial position and that sufficient
+cash resources will be available to meet
+foreseeable investment opportunities or
+other cash requirements.
+This report was approved by the Board on
+23 June 2004 and signed on its behalf by:
+CORPORATE GOVERNANCE REPORT
+page twenty two
+22
+Digby Jones
+Senior Independent Director 23
+CORPORATE GOVERNANCE REPORT
+page twenty three
+INNOVATIVE APPLICATIONS FOR HEALTHCARE COMMUNITIES CORPORATE SOCIAL RESPONSIBILITY STATEMENT
+page twenty four
+24
+INNOVATIVE APPLICATIONS FOR HEALTHCARE COMMUNITIES 25
+CORPORATE SOCIAL RESPONSIBILITY STATEMENT
+page twenty five
+The appraisal process is a key determinant
+of remuneration and advancement, as well
+providing an opportunity to monitor
+ongoing employee progress.
+The directors further recognise that
+sustaining the Group’s competitive
+advantage over the longer term is
+dependent on employees realising their 
+full potential. It is Group practice,
+therefore, to ensure that personal
+development, reward and promotion is
+determined with direct reference to ability,
+commitment and individual contributions 
+to the collective achievements.
+iSOFT recognises its responsibilities 
+as a significant and growing employer in
+India and has established close links to
+local universities and proactively supports
+local community initiatives such as
+education sponsorship.
+Employees are typically educated to
+degree standard and, as a Microsoft
+Certified Solution Provider Partner, iSOFT
+actively promotes Microsoft accreditation
+for staff engaged in the development and
+support of the software application
+portfolio. The directors are proud of the
+Group’s record in respect of staff retention
+and development.
+EQUAL OPPORTUNITIES POLICY
+The Group is a committed equal
+opportunities employer and has
+established working practices 
+to promote an employment environment
+that is free from discrimination and
+harassment. The iSOFT policy ensures
+that no employee, or applicant, is treated
+less favourably on the grounds of gender,
+marital status, race, colour, disability or
+sexual orientation or is disadvantaged by
+conditions or requirements that cannot
+objectively be justified.
+COMMITMENT TO CORPORATE 
+SOCIAL RESPONSIBILITY
+It is iSOFT’s view that operating in an
+environmentally and socially sustainable
+manner provides a stronger basis for
+future development of the business
+operations, financial performance,
+protection of reputation and market
+valuation. Whilst this is the first corporate
+social responsibility statement we have
+published, all of the policies have existed
+for some time as an integral part of the
+iSOFT business.
+As a result of this deep commitment to 
+Corporate Social Responsibility, iSOFT was
+awarded membership to the FTSE4Good
+Index in September 2003. Created by the
+independent global index company, FTSE
+Group, the index is designed to identify
+companies that meet globally recognised
+corporate social responsibility standards.
+EMPLOYMENT POLICY
+The objective of iSOFT’s employment
+policy is to support our business goals
+through the attraction, retention and
+realisation of the full potential from a 
+high-calibre workforce.
+During the year, regular consultations and
+briefings took place with employees to
+enhance their understanding of the
+Group’s performance and the financial 
+and economic environment in which 
+it operates.
+Priority is given to ensuring that employees
+are aware of significant matters relating to
+the Group’s trading performance and
+organisational changes.
+The directors recognise the importance of
+individual employee contributions in
+delivering the Group’s successful
+performance to date and have maintained
+the commitment that each employee
+receives a formal appraisal every six months.
+Disabled individuals are afforded the same
+opportunities as others, and the Group
+actively supports the employment of
+disabled persons both during the
+recruitment process and in the retention of
+employees who become disabled whilst in
+the employment of the Group.
+HEALTH AND SAFETY POLICY
+The health and safety of our employees 
+is also of paramount importance to iSOFT.
+In fostering a working environment
+encouraging productivity, participation and
+togetherness, the Group has created a
+workplace which embraces statutory
+requirements and best practice guidelines
+wherever possible.
+EMPLOYEE EQUITY PARTICIPATION
+A significant number of employees have
+shareholding interests in the Company
+either directly or under share option and
+“Sharesave” schemes. The directors
+actively encourage employee equity
+participation, subject always to the Group’s
+employee share dealing code rules, as
+they firmly believe that this encourages the
+profitable development of the Group.
+Details of the current employee share
+option schemes and the options granted
+during the year are provided in note 23 to
+the financial statements on page 66.
+Our July 2003 Sharesave scheme has
+been widely participated in, with 29% of
+eligible employees in iSOFT’s world-wide
+locations now participating in the Scheme.
+Given the success of the original schemes,
+the directors are proposing to introduce a
+new offer under the existing Sharesave
+scheme in the coming year. Participation 
+in the Sharesave scheme is encouraged
+across the Group.
+THE GROUP’S PHILOSOPHY IS TO ESTABLISH A PAPERLESS WORKING
+ENVIRONMENT WHEREVER APPROPRIATE THROUGH THE AUTOMATION OF
+EMPLOYEE MANAGEMENT TOOLS BUSINESS IMPROVEMENT PROGRAMME
+Following the completion of the merger
+with Torex and the conclusion of the
+National Programme for Information
+Technology (NPfIT) in England procurement,
+a top-to-bottom Business Improvement
+Programme was instigated with the
+objective of redesigning the Group wide
+operational organisational structures, to
+achieve optimisation of the significant
+talent residing within the enlarged Group’s
+workforce. This Programme will also
+ensure that the resulting structures are
+populated with the appropriate number 
+of skilled resources. After completion of
+merger integration activities, already at 
+an advanced stage, the programme focus 
+will turn to continual improvement
+initiatives and other organisational
+development activities.
+EMPLOYEE CONSULTATION
+In conjunction with this Programme, iSOFT
+introduced an Employee Consultation
+Forum (‘VOiCE’) in April of this year, with
+elected representatives. VOiCE was
+established to create a means of active
+involvement, social dialogue, information
+dissemination and communication with the
+employees of the Group based within the
+UK. The success of this forum will be
+reviewed over the remainder of 2004 and,
+if successful, rolled out across other
+international operations.
+SOCIAL, ENVIRONMENTAL AND ETHICAL 
+(SEE) MATTERS 
+The iSOFT business as a whole recognises
+that achieving success in environmental
+and social management is a joint
+responsibility between employees and
+management. Indeed active employee
+participation in community events and
+charities is strongly supported through the
+giving of time and the internal promotion
+and support for such activities.
+The directors recognise that whilst 
+iSOFT’s business activities as a provider 
+of software applications, have minimal
+direct environmental impact, there are
+environmental impacts in running a
+company and our commitment to adopting
+best practice evidences our responsibility.
+The Group maintains an environmental
+policy to raise awareness, establish
+standards, assess the impact of its
+business activities on the environment,
+set improvement objectives and monitor
+performance against these objectives.
+Examples of the Group’s commitment to
+this policy are as follows:
+• the continuing promotion of remote 
+working to reduce the environmental 
+burden of commuting and business 
+travel; 
+• introducing leading edge technology 
+solutions to promote direct electronic 
+information processing and exchange 
+and teleconferencing; and
+• enhancements to the Group’s intranet 
+site such that employee 
+communications can be distributed 
+electronically.
+The Group’s philosophy is to establish a
+paperless working environment wherever
+appropriate. This has been realised
+through the automation of a number of
+employee management tools such as
+performance appraisals, annual leave
+requests, sickness records and the job
+profile library.
+The responsibility for maintaining and
+enforcing the SEE policy resides at Board
+level. A copy of the current environmental
+policy is available on the Group website.
+DONATIONS
+The Board of Directors feels that the 
+choice of charitable activities is a matter 
+of conscience for individual members of
+staff, particularly given our wide
+involvement with numerous healthcare
+institutions. No charitable donations were
+made during the year.
+iSOFT made no financial contributions to
+any political parties in the year.
+This report was approved by the Board on
+23 June 2004 and signed on its behalf by:
+CORPORATE SOCIAL RESPONSIBILITY STATEMENT
+page twenty six
+26
+John Whelan
+Group Finance Director 27
+CORPORATE SOCIAL RESPONSIBILITY
+page twenty seven
+INNOVATIVE APPLICATIONS FOR HEALTHCARE COMMUNITIES REMUNERATION REPORT
+page twenty eight
+28
+INNOVATIVE APPLICATIONS FOR HEALTHCARE COMMUNITIES 29
+REMUNERATION REPORT
+page twenty nine
+market comparatives and a significant
+proportion of remuneration linked directly
+to Group and individual performance.
+The remuneration of executive directors
+comprises basic salary, private health
+insurance, life assurance, a contribution
+towards personal pension arrangements,
+a performance related bonus and, where
+appropriate, the opportunity to participate
+in the Group’s share option schemes.
+Remuneration packages of the executive
+directors are reviewed annually to ensure
+that they remain supportive of the Group’s
+business objectives, principally the creation
+of shareholder value. To this end the
+current remuneration is strongly weighted
+towards prospective business performance,
+in the form of cash and deferred 
+share bonuses.
+The remuneration of non-executive
+directors is determined by the Board 
+with regard to market comparatives.
+Independent advice is sought to ensure
+parity is maintained with similar
+businesses. The basic annual fee for 
+non-executive directors was increased
+during the year in line with market
+comparatives and commensurate with the
+growth in the size of the Company. The
+Board has the power to pay additional
+remuneration for any services outside the
+scope of the ordinary duties of a 
+non-executive director.
+BASIC SALARY 
+Basic salaries are reviewed annually and
+adjustments made where necessary to
+reflect changes in responsibilities,
+individual performance and market rates.
+The nature and complexity of the business
+has increased significantly during the year
+and salaries have been increased to reflect
+the growth of the Company and the
+extended responsibilities of the directors.
+THE REMUNERATION COMMITTEE
+The Remuneration Committee (the
+'Committee') is primarily responsible for
+formulating and recommending to the
+Board the framework for executive
+remuneration, and determining, on behalf
+of the Board and shareholders, the 
+specific remuneration packages of the
+executive directors.
+The members of the Committee during 
+the year were Geoff White as Committee
+Chairman, Digby Jones and Eurfyl ap
+Gwilym. On 11 May 2004, David Thorpe
+and Colin Wall were appointed to the
+Committee. All of the members of the
+Committee are independent 
+non-executive directors.
+During the year the Committee received
+guidance on executive remuneration from
+the Executive Chairman and the Chief
+Executive Officer, except on matters
+relating to their own remuneration. The
+Committee also consulted with New Bridge
+Street Consultants LLP who have been
+appointed by the Committee to provide
+independent, external advice. No other
+services were provided to the Company
+during the year by New Bridge Street
+Consultants LLP.
+REMUNERATION POLICY
+The Committee's policy is to recommend
+that remuneration packages are effective
+in attracting, retaining and motivating
+executive directors and other senior
+management of the calibre required to
+achieve the Group’s objectives.
+Additionally, the policy is to provide an
+appropriate means of aligning executives'
+interests with the interests of shareholders.
+The Committee has developed a
+remuneration policy which includes a
+competitive base salary having regard to
+levels of responsibility, experience and
+Basic salary levels are benchmarked
+against similar positions in comparable
+FTSE 250 companies.
+PERFORMANCE RELATED BONUS
+The Group provides performance related
+bonuses for executive directors. Bonuses
+are payable at the discretion of the
+Committee based on the Group’s
+performance and the individual executive’s
+contribution to that performance. The
+financial performance targets are set with
+reference to, amongst other things,
+underlying earnings per share and
+normalised profit before tax growth
+targets. For the coming year, the year to
+30 April 2005, the Committee decided that
+payment of the profit bonus will be
+dependent on the Group normalised profit
+before tax for the year, amended for the
+impact of any acquisitions. The Committee
+considers the individual performance
+criteria to be appropriately challenging.
+To align the long-term interests of
+executive directors and shareholders, the
+Group operates a deferred bonus plan
+whereby 50 per cent of any bonus earned
+is payable in the form of shares in the
+Company ("Bonus Shares"), equal in value
+(at the time when the bonus is declared) to
+the amount of bonus paid. Release of
+Bonus Shares is deferred for a further
+three years and is conditional upon the
+director remaining in employment with the
+Group throughout that period.
+Exceptionally, Bonus Shares may be
+released early if the executive director
+ceases employment within the Group by
+reason of death, disability, injury,
+redundancy, retirement or otherwise if the
+Remuneration Committee so determines.
+Bonus Shares may also be released early
+in the event of a takeover or corporate
+reconstruction of the Group.
+REMUNERATION PACKAGES OF THE EXECUTIVE DIRECTORS ARE
+REVIEWED ANNUALLY TO ENSURE THAT THEY REMAIN SUPPORTIVE 
+OF THE GROUP’S BUSINESS OBJECTIVES The Company’s policy is that in normal
+circumstances executive directors should
+have rolling service contracts with an
+indefinite term providing for a maximum 
+of one year’s notice from either party to
+reflect market practice. The Committee is
+mindful of the need to consider
+compensation commitments, if any, that
+are appropriate in the event of the early
+termination of executive directors’
+contracts bearing in mind the Group’s 
+legal obligations and the individual’s ability
+to mitigate their loss.
+Roger Dickens resigned as a director of
+iSOFT on 23 December 2003. He is
+retained by the Group as a Business and
+Strategy Executive under a service contract
+effective 23 December 2003 and is paid
+an aggregate annual remuneration of
+£360,000. He is not entitled to any
+performance related or other bonus.
+The contract is for a fixed period until 
+23 December 2006 and thereafter until 
+terminated by either party giving to the
+other nine weeks notice.
+Details of deferred share bonus awards to
+date are set out on page 32.
+For the year to 30 April 2005, performance
+related bonuses for executive directors are
+again restricted to 200 per cent of basic
+annual salary. The maximum bonus
+payable to any individual executive director
+would consist of a cash bonus and
+deferred share bonus, each worth 
+100 percent of basic salary, but this level
+of bonus would be payable only in the
+event of outstanding performance,
+substantially in excess of the targets set.
+SHARE OPTION SCHEMES
+The Group operates an approved and an
+unapproved share option scheme. The
+schemes are designed to provide 
+long-term incentives to recipients, thus
+assisting in the creation and sustaining 
+of shareholder value.
+All options granted to executive directors
+are subject to the achievement of certain
+performance conditions. Details of the
+share options granted to date are set out
+on page 33.
+Any options granted in the year to 
+30 April 2005 will require an appropriately
+challenging performance target, based on
+normalised profit before tax growth in the
+three years following the grant, to be
+satisfied before they become exercisable.
+This figure is reflected in these financial
+statements which have been audited 
+by RSM Robson Rhodes LLP.
+PENSIONS
+The Group makes an annual payment
+equal to 20 per cent of basic salary to the
+executive directors. Directors are
+responsible for using these funds to make
+their own pension arrangements. The
+Company does not operate a defined
+benefit scheme for directors.
+The service contracts of Chris Moore and
+Mark Woodbridge were effective from 
+23 December 2003 and were negotiated
+as part of the merger of Torex and include
+special provisions in the event of early
+termination within two years of the merger.
+Termination of Chris Moore’s contract by
+the Company giving notice, prior to 
+23 December 2005, would require the
+payment of the aggregate amount of
+salary, bonus and benefits of Chris Moore
+from the date of termination until 
+23 December 2005 subject to the
+payment not being less than one year’s
+salary, bonus and benefits. In addition to
+this amount, a further payment equal to
+one year’s salary, bonus and benefits
+would be payable provided that he abides
+by certain post termination restrictive
+covenants lasting 12 months after
+termination. After 23 December 2005, the
+notice period for Chris Moore is 12 months
+with provision for immediate termination
+provided a payment in lieu of notice of one
+year’s salary, bonus and benefits is made.
+REMUNERATION REPORT
+page thirty
+30
+SERVICE CONTRACTS
+Details of the service contracts of those serving as executive directors during the year are
+as follows:
+Contract Unexpired Notice Termination
+date term period payments
+P Cryne 25 Mar 2003 Rolling 12 months 1 year’s salary plus one 
+year’s pension contribution
+T Whiston 25 Mar 2003 Rolling 12 months 1 year’s salary plus one 
+year’s pension contribution
+S Graham 19 May 2000 Rolling 12 months 1 year’s salary plus one 
+year’s pension contribution
+J Whelan 12 Dec 2002 Rolling 12 months 1 year’s salary plus one 
+year’s pension contribution
+M Woodbridge See below for further details
+C Moore See below for further details
+R Dickens See below for further details No amounts are then payable in respect of
+abiding by post restrictive covenants.
+Chris Moore resigned as a director of the 
+company on 2 February 2004 and the
+Company has not made any termination
+payments following his resignation.
+In the event that the Company terminates
+Mark Woodbridge’s contract prior to 
+23 December 2004, the Company is
+required to pay the aggregate amount of
+salary and benefits of Mark Woodbridge
+from the date of termination until 
+23 December 2005. In addition to this
+amount, a further amount will be payable
+calculated as one year’s bonus entitlement
+reduced pro-rata by the period elapsed
+between the completion date of the
+merger, 23 December 2003, and the date
+of termination. After 23 December 2004,
+the notice period for Mark Woodbridge is
+12 months with provision for immediate
+termination provided a payment in lieu of
+notice of one year’s salary and benefits is
+made. No amounts are then payable in
+respect of bonus entitlements.
+In the case of all directors, none of the 
+amounts above are payable in the event 
+of summary dismissal.
+Non-executive directors do not have
+service agreements and are appointed
+under letters of appointment. There are no
+provisions for early termination payments.
+Re-appointment is not automatic and
+current terms of appointment expire in
+May 2006, except in the case of 
+David Thorpe and Colin Wall, whose
+appointments were effective in 
+December 2003 and expire in December
+2006. Letters of appointment are available
+for inspection at the Company’s 
+registered office.
+EXTERNAL APPOINTMENTS
+The consent of the Board is required for
+any external appointments proposed by 
+an individual director, such as a 
+non-executive director position with
+another company, to ensure that the
+appointment does not give rise to a conflict
+of interest. Where an appointment is
+accepted, it must be undertaken in the
+director’s own time. The director is,
+therefore, in these circumstances
+permitted to retain any remuneration
+earned from the external appointment.
+TOTAL SHAREHOLDER RETURN
+The graphs below illustrate Total
+Shareholder Return (TSR) performance of
+the Company in comparison to appropriate
+equity market indices over the period since
+listing in July 2000. TSR is defined as
+share price growth plus reinvested
+dividends. The Committee has decided
+that the FTSE 250, the FTSE Software 
+& Computer Services and the FTSE
+techMARK 100 indices are suitable
+comparators as the Company has been 
+a constituent of these indices for 
+a significant period since flotation.
+31
+REMUNERATION REPORT
+page thirty one
+50
+0
+100
+150
+200
+250
+300
+350
+400
+450
+OCT00 APR01 OCT01 APR02 OCT02 APR03 OCT03 APR04
+iSOFT TSR
+FTSE SOFTWARE & COMPUTER 
+SERVICES INDEX
+iSOFT TSR
+versus
+FTSE Software &
+Computer Services
+Index TSR
+50
+0
+100
+150
+200
+250
+300
+350
+400
+450
+OCT00 APR01 OCT01 APR02 OCT02 APR03 OCT03 APR04
+iSOFT TSR
+FTSE 250 INDEX
+iSOFT TSR
+versus
+FTSE 250
+Index TSR
+50
+0
+100
+150
+200
+250
+300
+350
+400
+450
+OCT00 APR01 OCT01 APR02 OCT02 APR03 OCT03 APR04
+iSOFT TSR
+FTSE techMARK 100 INDEX
+iSOFT TSR
+versus
+FTSE techMARK
+100TSR REMUNERATION REPORT
+page thirty two
+32
+DIRECTORS’ REMUNERATION (AUDITED)
+Directors’ remuneration for the year ended 30 April 2004 was as follows:
+Basic salary Benefits* Performance Total 2004 Total 2003 Prevailing basic
+earned/fees related bonus salary/fees at
+payable in cash 30 April 2004
+£’000 £’000 £’000 £’000 £’000 £’000
+Patrick Cryne 379 1 255 635 579 425
+Tim Whiston 346 1 258 605 512 430
+Steve Graham 328 1 252 581 502 360
+Mark Woodbridge
+1
+100 - 38 138 - 300
+John Whelan
+2
+56 - 34 90 - 270
+Chris Moore
+3
+31 - - 31 - -
+Roger Dickens
+4
+217 1 - 218 486 -
+Digby Jones 41 - - 41 30 60
+Eurfyl ap Gwilym 41 - - 41 30 60
+Geoff White 41 - - 41 30 60
+David Thorpe
+5
+15 - - 15 - 50
+Colin Wall
+6
+15 - - 15 - 50
+Rene Kern
+7
+- - - --- 
+Total 1,610 4 837 2,451 2,169 2,065 
+* Benefits comprise private health insurance and 
+life assurance.
+1 Mark Woodbridge was appointed on 
+23 December 2003.
+2 John Whelan was appointed on 13 February 2004.
+The remuneration table only includes his earnings 
+since his appointment to the Board.
+3 Chris Moore was appointed on 23 December 2003 
+and resigned on 2 February 2004.
+4 Roger Dickens resigned on 23 December 2003.
+5 David Thorpe was appointed on 23 December 2003.
+6 Colin Wall was appointed on 23 December 2003.
+7 Rene Kern is a director but receives no fee.
+DEFERRED SHARE BONUS PLAN (AUDITED)
+Shares awarded to the directors and former directors under the deferred share bonus plan 
+are as follows:
+Deferred share bonus summary as at 30 April 2004
+Award At 1 May Shares At 30 April Vesting
+date 2003 awarded 2004 date
+number number number
+Patrick Cryne 30 Apr 2003 95,351 95,351 01 May 2006
+30 Apr 2004 62,378 62,378 01 May 2007
+Tim Whiston 30 Apr 2003 95,351 95,351 01 May 2006
+30 Apr 2004 63,112 63,112 01 May 2007
+Steve Graham 30 Apr 2003 82,637 82,637 01 May 2006
+30 Apr 2004 61,644 61,644 01 May 2007
+Mark Woodbridge 30 Apr 2004 9,173 9,173 01 May 2007
+John Whelan 30 Apr 2004 39,628 39,628 01 May 2007
+Roger Dickens 30 Apr 2003 76,403 76,403 01 May 2006
+The deferred share bonus awards
+represent 50 per cent of the total annual
+bonus awarded to directors in respect of
+performance during the financial year
+ended on the award date. The monetary
+value of the bonus not taken up in cash is
+translated into shares based on the
+average market price of the Company’s
+shares in the three trading days preceding
+the award date. The only remaining
+performance criterion attaching to the
+above awards is that the directors remain
+in employment with the Company for three
+years from the date of the relevant award.
+The average market price of the Company’s
+shares on the three trading days prior to 
+30 April 2003 was 265 pence and for the
+three trading days prior to 30 April 2004
+was 409 pence.
+There have been no variations in the terms
+and conditions of scheme interests during
+the year. 33
+REMUNERATION REPORT
+page thirty three
+DIRECTORS’ PENSION ENTITLEMENTS
+(AUDITED)
+The Company contributes 20 per cent of
+basic salary towards the directors’
+individual pension arrangements where
+such an entitlement is included in the
+individual director’s service contract.
+Directors are responsible for using the
+contribution to make their own pension
+arrangements. Amounts contributed to
+individual directors’ pension arrangements
+in the year were as follows:
+DIRECTORS’ SHARE OPTIONS (AUDITED)
+In addition to the directors’ share interests noted in the Report of the Directors on page 16,
+the following share options have been granted to directors:
+Exercise At Granted At Date from
+price 1 May during 30 April which Expiry
+(pence) 2003* the year 2004 exercisable date
+Tim Whiston
+110
+1
+101,000 - 101,000
+3
+11 Jul 2003 10 Jul 2010
+174
+1
+250,000 - 250,000
+3
+20 Dec 2003 19 Dec 2010
+249
+1
+850,000 - 850,000
+3
+22 Jun 2004 21 Jun 2011
+145
+2
+480,176 - 480,176 11 Oct 2005 10 Oct 2012
+145
+2
+19,824 - 19,824 11 Oct 2005 10 Oct 2012
+Mark Woodbridge
+92.5
+4
+12,816 - 12,816 5 Mar 2002 4 Mar 2009
+156.9
+4
+17,842 - 17,842 13 Aug 2002 12 Aug 2009
+295.7
+4
+35,684 - 35,684 9 Feb 2003 8 Feb 2010
+374.5
+4
+36,268 - 36,268 15 Mar 2004 14 Mar 2011
+350.4
+4
+127,382 - 127,382 19 Sep 2004 18 Sep 2011
+420.0
+4
+21,212 - 21,212 27 Feb 2005 26 Feb 2012
+* Or at date of appointment if later.
+1 Options are exercisable subject to the performance 
+of the Company's Total Shareholder Return (TSR) 
+relative to growth in the Retail Price Index (RPI) over 
+the three year period from the date of grant of 
+the option:
+• 25% of options may be exercised if the 
+Company's TSR over the period exceeds the 
+growth in RPI by 20%
+• 50% of options may be exercised if the 
+Company's TSR over the period exceeds the 
+growth in RPI by 35%
+• 100% of options may be exercised if the 
+Company's TSR over the period exceeds the 
+growth in RPI by 50%
+2 Options are exercisable subject to the growth in the 
+Company's normalised profit before tax relative to 
+the growth in RPI over the three year period from 
+the date of grant of the option:
+• 50% of options may be exercised if normalised 
+profit before tax growth exceeds the growth in RPI 
+by 10%
+• 100% of options may be exercised if normalised 
+profit before tax growth exceeds the growth in RPI 
+by 20%
+In both cases, where the performance target growth 
+falls between the levels specified, the proportion of 
+options that may be exercised will be calculated on 
+a straight line basis. Where the growth is less than 
+the minimum growth level specified above, all of the 
+options lapse and cease to be exercisable.
+3 The Company performance criteria for these options 
+has been satisfied.
+4 Rolled over from Torex share options. There are no 
+outstanding performance criteria attaching to 
+these options.
+2004 2003
+£’000 £’000
+Patrick Cryne 76 65
+Tim Whiston 69 52
+Steve Graham 66 56
+John Whelan 11 -
+Chris Moore 6 - 
+Roger Dickens 43 56
+271 229
+This report was approved by the Board on
+23 June 2004 and signed on its behalf by:
+Geoff White
+Chairman of the Remuneration Committee
+The market mid price of the Company’s shares at 1 May 2003 and 30 April 2004 was 
+266 pence and 416 pence respectively. The range during the financial year was between
+261 pence and 429 pence. AUDIT COMMITTEE REPORT
+page thirty four
+34
+INNOVATIVE APPLICATIONS FOR HEALTHCARE COMMUNITIES 35
+AUDIT COMMITTEE REPORT
+page thirty five
+The Audit Committee continues to review
+the risk management processes and the
+internal control framework in place
+throughout the organisation. The key
+elements of this framework are
+summarised in the Corporate Governance
+report included within this annual report.
+EXTERNAL AUDITORS
+The Audit Committee also reviews annually
+the performance of the Group’s external
+auditors to ensure that an objective,
+professional and cost-effective relationship
+is maintained. The Audit Committee is
+also responsible for monitoring non-audit
+fees paid to the external auditors to ensure
+that no conflicts of interest arise.
+The Audit Committee must authorise 
+all non-audit work above £5,000
+commissioned from the external auditors
+in advance of such work being undertaken.
+The Audit Committee has reviewed the
+non-audit fees paid to the external 
+auditors which, in aggregate, totalled
+£27,000 and has deemed that in the 
+year ended 30 April 2004 they do not
+affect independence.
+INTERNAL AUDIT FUNCTION 
+The Audit Committee is responsible for
+considering the need for an internal audit
+function on an annual basis.
+Historically, the Audit Committee has been
+satisfied that a separate, independent
+internal financial audit function has not
+been required given the relative size and
+complexity of the Group’s operations.
+Following the merger with Torex and the
+consequent increase in the size of the
+business, the Audit Committee believes it
+is now necessary to introduce an internal
+audit function appropriate to a large,
+rapidly growing public company.
+ROLE OF THE AUDIT COMMITTEE 
+The Audit Committee is responsible for
+making recommendations on the
+appointment of external auditors, the level
+of the audit fee and for ensuring their
+independence. The Audit Committee
+reviews proposed results publications and
+the effectiveness of internal controls.
+AUDIT COMMITTEE MEMBERSHIP 
+AND MEETINGS 
+The Audit Committee is chaired by Eurfyl
+ap Gwilym. Other members of the Audit
+Committee are David Thorpe (from 
+11 May 2004), Colin Wall (from 
+11 May 2004) and Geoff White.
+Digby Jones was a member of the Audit
+Committee until 11 May 2004. All
+members of the Audit Committee are
+independent non-executive directors.
+Other directors and the external auditors
+are invited to Audit Committee meetings 
+as appropriate.
+The Audit Committee met three times
+during the year with the Group Finance
+Director and twice with the external
+auditors. In addition, the Audit Committee
+also met with the external auditors without
+the executive directors being present on
+two occasions. All of the Audit Committee
+meetings were fully attended, save that
+Digby Jones was absent from two of the
+meetings. Details of the remuneration of
+the members of the Audit Committee 
+are set out on page 32 of the
+Remuneration Report.
+FINANCIAL STATEMENTS, INTERNAL
+FINANCIAL CONTROLS AND RISK
+MANAGEMENT SYSTEMS
+The Audit Committee meets to review the
+Group’s annual and interim financial
+statements, internal management
+arrangements, accounting policies and
+internal financial controls.
+The Group is currently preparing to
+introduce an internal financial audit
+function during the year ending 
+30 April 2005 to further enhance the
+existing internal control framework. The
+work of the internal financial audit function
+will supplement the work of the internal
+quality audit team which was introduced
+during the year ended 30 April 2004
+following the Group receiving 
+ISO 9001:2000 accreditation. The work 
+of the internal quality audit team during
+the year has concentrated on ensuring that
+the Group complies with rigorous quality
+processes covering both operational and
+financial procedures. The Group’s quality
+processes are also subject to annual
+external audits which all received
+satisfactory results during the year.
+The report was approved by the Board on 
+23 June 2004 and signed on its behalf by:
+THE AUDIT COMMITTEE CONTINUES TO REVIEW THE RISK
+MANAGEMENT PROCESSES AND INTERNAL CONTROL FRAMEWORK 
+IN PLACE THROUGHOUT THE ORGANISATION
+Eurfyl ap Gwilym
+Chairman of the Audit Committee INDEPENDENT AUDITORS’ REPORT
+page thirty six
+36
+We have audited the financial statements
+on pages 39 to 69. We have also audited
+the information in the Remuneration Report
+that is described as having been audited.
+This report is made solely to the
+Company’s shareholders, as a body, in
+accordance with Section 235 of the
+Companies Act 1985. Our audit work has
+been undertaken so that we might state to
+the Company’s shareholders those matters
+we are required to state to them in an
+auditors’ report and for no other purpose.
+To the fullest extent permitted by law, we
+do not accept or assume responsibility to
+anyone other than the Company and the
+Company’s shareholders as a body, for our
+audit work, for this report, or for the
+opinions we have formed.
+RESPECTIVE RESPONSIBILITIES OF
+DIRECTORS AND AUDITORS
+The directors’ responsibilities for preparing
+the Annual Report, the Remuneration
+Report and the financial statements in
+accordance with applicable law and United
+Kingdom Accounting Standards are set out
+in the Statement of Directors’
+Responsibilities on page 20.
+Our responsibility is to audit the financial
+statements and the part of the
+Remuneration Report to be audited in
+accordance with relevant legal and
+regulatory requirements, United Kingdom
+Auditing Standards and the Listing Rules of
+the Financial Services Authority. We report
+to you our opinion as to whether the
+financial statements give a true and fair
+view and whether the financial statements
+and the part of the Remuneration Report to
+be audited have been properly prepared in
+accordance with the Companies Act 1985.
+We also report to you if, in our opinion, the
+Report of the Directors is not consistent
+with the financial statements, if the
+Company has not kept proper accounting
+records, if we have not received all the
+information and explanations we require for
+our audit, or if information specified by law
+or the Listing Rules regarding directors’
+remuneration and transactions with the
+Company and other members of the Group
+is not disclosed.
+We review whether the Corporate
+Governance Statement reflects the
+Company’s compliance with the seven
+provisions of the Combined Code specified
+for our review by the Listing Rules and we
+report if it does not. We are not required to
+consider whether the Board’s statements
+on internal control cover all risks and
+controls or form an opinion on the
+effectiveness of the Group’s corporate
+governance procedures or its risk and
+control procedures.
+We read other information contained in the
+Annual Report and consider whether it is
+consistent with the audited financial
+statements. The other information
+comprises the Letter from the Chairman,
+the Chief Executive’s Report, the Operating
+and Finance Review, the Corporate
+Governance Report, the Corporate Social
+Responsibility Statement, the unaudited
+part of the Remuneration Report, the Audit
+Committee Report and the Five Year
+Summary. We consider the implications for
+our report if we become aware of any
+apparent misstatements or material
+inconsistencies with the financial
+statements. Our responsibilities do not
+extend to any other information.
+BASIS OF AUDIT OPINION
+We conducted our audit in accordance with
+United Kingdom Auditing Standards issued
+by the Auditing Practices Board. An audit
+includes examination, on a test basis, of
+evidence relevant to the amounts and
+disclosures in the financial statements and
+the part of the Remuneration Report to be
+audited. It also includes an assessment of
+the significant estimates and judgements
+made by the directors in the preparation of
+the financial statements, and of whether
+the accounting policies are appropriate to
+the Group's circumstances, consistently
+applied and adequately disclosed.
+We planned and performed our audit 
+so as to obtain all the information and
+explanations which we considered
+necessary in order to provide us with
+sufficient evidence to give reasonable
+assurance that the financial statements 
+and the part of the Remuneration Report 
+to be audited are free from material
+misstatement, whether caused by fraud 
+or other irregularity or error. In forming 
+our opinion we also evaluated the overall
+adequacy of the presentation of information
+in the financial statements and the part of
+the Remuneration Report to be audited.
+OPINION
+In our opinion:
+• the financial statements give a true 
+and fair view of the state of affairs of 
+the Company and the Group as at 
+30 April 2004 and of the Group’s 
+profit for the year then ended; and
+• the financial statements and the part 
+of the Remuneration Report to be 
+audited have been properly prepared 
+in accordance with the Companies 
+Act 1985.
+INDEPENDENT AUDITORS’ REPORT TO THE SHAREHOLDERS 
+OF iSOFT GROUP PLC
+RSM Robson Rhodes LLP
+Chartered Accountants and 
+Registered Auditors
+Manchester, England
+23 June 2004 INNOVATIVE APPLICATIONS FOR HEALTHCARE COMMUNITIES
+37
+FINANCIAL STATEMENTS
+page thirty seven INNOVATIVE APPLICATIONS FOR HEALTHCARE COMMUNITIES
+FINANCIAL STATEMENTS There is no difference between the results reported above and those on a historical cost basis.
+* stated before amortisation of goodwill and exceptional items
+Note Continuing Continuing 
+operations: operations:
+Ongoing Acquisitions Total Total
+2004 2004 2004 2003
+£'000 £'000 £'000 £'000
+Turnover 2 105,704 43,556 149,260 91,495
+Net operating costs 3 (77,080) (51,868) (128,948) (70,545)
+Operating profit before goodwill 
+amortisation and exceptional items 33,292 6,241 39,533 25,600
+Goodwill amortisation (4,668) (6,642) (11,310) (4,650)
+Exceptional items 3 - (7,911) (7,911) -
+Operating profit/(loss) 3 28,624 (8,312) 20,312 20,950
+Net interest payable and similar charges 4 (2,614) (2,070)
+Other finance cost 22_iii (105) -
+Profit on ordinary activities 
+before taxation 17,593 18,880
+Tax on profit on ordinary activities 7 (6,809) (5,484)
+Profit on ordinary activities 
+after taxation 10,784 13,396
+Minority interests - equity (85) (146)
+Profit for the financial year 10,699 13,250
+Dividends on equity shares 9 (4,711) (2,192)
+Retained profit for the year 5,988 11,058
+Earnings per share:
+Basic 10 6.66p 11.17p
+Diluted 10 6.57p 11.08p
+Underlying* 10 17.70p 15.09p
+Consolidated profit and loss account
+for the year ended 30 April 2004
+39
+FINANCIAL STATEMENTS
+page thirty nine Consolidated statement of total recognised gains and losses 
+for the year ended 30 April 2004
+FINANCIAL STATEMENTS
+page forty
+40
+Group Company Group Company
+2004 2004 2003 2003
+£’000 £’000 £’000 £’000
+Profit for the financial year 10,699 7,248 13,250 4,624
+Dividends (4,711) (4,711) (2,192) (2,192)
+5,988 2,537 11,058 2,432
+Other recognised gains and losses (216) - 670 -
+Shares issued net of costs 372,895 372,895 12,881 12,881
+Net increase in shareholders’ funds 378,667 375,432 24,609 15,313
+Opening shareholders’ funds 73,270 55,119 48,661 39,806
+Closing shareholders’ funds 451,937 430,551 73,270 55,119
+Reconciliation of movements in shareholders’ funds
+for the year ended 30 April 2004
+2004 2003
+£'000 £'000
+Profit for the financial year 10,699 13,250
+Foreign exchange (loss)/gain (243) 670
+Actuarial loss recognised in the pension scheme (40) -
+Movement on deferred tax relating to pension liability 67 -
+Total recognised gains for the financial year 10,483 13,920 Note 2004 2003
+£’000 £’000
+Fixed assets
+Intangible assets – goodwill 11 473,237 91,989
+Tangible assets 12 11,870 1,776
+485,107 93,765
+Current assets
+Assets held for resale 15 7,500 -
+Stocks 3,837 -
+Debtors 16 106,936 31,113
+Cash at bank and in hand 75,034 45,451
+193,307 76,564
+Creditors: amounts falling due within one year 17 (142,397) (44,216)
+Net current assets 50,910 32,348
+Total assets less current liabilities 536,017 126,113
+Creditors: amounts falling due after one year 18 (67,212) (52,586)
+Provisions for liabilities and charges 21 (10,487) -
+Net assets excluding pension liability 458,318 73,527
+Pension liability 22 (6,119) -  
+Net assets including pension liability 452,199 73,527
+Capital and reserves
+Called up share capital 23 22,542 12,382
+Share premium account 24 36,672 30,119
+Merger reserve 24 363,865 7,683
+Profit and loss account 24 28,858 23,086
+Equity shareholders’ funds 451,937 73,270
+Minority interests - equity 262 257
+Capital employed 452,199 73,527
+Consolidated balance sheet 
+as at 30 April 2004
+41
+FINANCIAL STATEMENTS
+page forty one
+The financial statements were approved by the Board of Directors on 23 June 2004 and signed on its behalf by:
+Tim Whiston
+Chief Executive Officer
+John Whelan
+Group Finance Director FINANCIAL STATEMENTS
+page forty two
+42
+Note 2004 2003
+£’000 £’000
+Fixed assets
+Investments 13 444,825 51,849
+Current assets
+Debtors 16 114,588 71,986
+Creditors: amounts falling due within one year 17 (67,911) (16,545)
+Net current assets 46,677 55,441
+Total assets less current liabilities 491,502 107,290
+Creditors: amounts falling due after one year 18 (60,951) (52,171)
+Net assets 430,551 55,119
+Capital and reserves
+Called up share capital 23 22,542 12,382
+Share premium account 24 36,672 30,119
+Merger reserve 24 363,865 7,683
+Profit and loss account 24 7,472 4,935
+Equity shareholders’ funds 430,551 55,119
+Company balance sheet 
+as at 30 April 2004
+The financial statements were approved by the Board of Directors on 23 June 2004, and signed on its behalf by:
+Tim Whiston
+Chief Executive Officer
+John Whelan
+Group Finance Director Note 2004 2003
+£'000 £'000
+Net cash inflow from operating activities before cash outflow from restructuring provision 35,938 23,538
+Cash outflow from restructuring provision (319) -
+Net cash inflow from operating activities 25 35,619 23,538
+Returns on investments and servicing of finance
+Interest received 785 356
+Interest paid (3,199) (2,529)
+Issue costs of new bank loans (608) (481)
+Finance lease interest paid (57) (9)
+Net cash outflow from returns on investments and servicing of finance (3,079) (2,663)
+Taxation (5,325) (4,295)
+Capital expenditure
+Payments for tangible fixed assets (3,034) (357)
+Receipts from sale of tangible fixed assets 896 26
+Net cash outflow from capital expenditure (2,138) (331)
+Acquisitions and disposals
+Purchase of subsidiary undertakings 14 (4,633) (34,422)
+Overdrafts acquired with subsidiary undertakings 14 (5,134) (8)
+Deferred consideration paid on prior year acquisitions (2,126) -
+Disposal of subsidiary undertakings 60,794 -
+Net cash inflow/(outflow) from acquisitions and disposals 48,901 (34,430)
+Equity dividends paid (2,365) (1,648)
+Net cash inflow/(outflow) before financing 71,613 (19,829)
+Financing
+Issue of ordinary shares 6,067 12,656
+Expenses paid in connection with ordinary share issue (1,890) (275)
+New bank and other loans 70,000 51,500
+Repayment of bank and other loans (115,965) (22,693)
+Capital element of finance lease payments made (341) (121)
+Net cash (outflow)/inflow from financing (42,129) 41,067
+Increase in cash 26 29,484 21,238
+Consolidated cash flow statement 
+for the year ended 30 April 2004
+43
+FINANCIAL STATEMENTS
+page forty three FINANCIAL STATEMENTS
+page forty four
+44
+Notes to the financial statements
+01
+Accounting
+policies
+The financial statements have been prepared under the historical cost convention in accordance with the Companies
+Act 1985 and applicable accounting standards. The accounting policies have been applied consistently throughout
+both the current year and preceding year with the exception of the adoption of FRS 17 “Retirement Benefits”.
+Following the merger with Torex PLC (“Torex”) on 23 December 2003, the Group has adopted FRS 17 in accounting for
+the defined benefit schemes of Torex. As the Group has not had any defined benefit pension arrangements in prior
+years, the change in accounting policy has not resulted in a prior year adjustment. Acquisition accounting has been
+adopted for the merger with Torex and the deficit on acquisition of the Torex defined benefit schemes has been dealt
+with by way of a fair value adjustment.
+The principal accounting policies adopted by the directors are described below:
+i_Basis of consolidation
+The consolidated financial statements incorporate the financial statements of the Company and its subsidiary
+undertakings using acquisition accounting. The results of subsidiary undertakings acquired or disposed of during a
+financial year are included from, or up to, the effective date of acquisition or disposal. Inter-company transactions and
+balances are eliminated on consolidation. Where a subsidiary is held exclusively for resale, the financial results of that
+company are not consolidated.
+ii_Goodwill
+Positive goodwill is the excess of the fair value of consideration paid for an acquired entity over the aggregate of the
+fair values of that entity’s identifiable assets and liabilities. Positive goodwill relating to acquisitions is shown in the
+balance sheet as an asset. On completion of each acquisition the directors estimate the useful economic life and it is
+over this period that the goodwill is amortised on a straight-line basis. For transactions where the primary objective is
+the acquisition of customer base, and where the customer relationships continue under multi-year contract
+arrangements, the directors believe it appropriate to ascribe useful economic lives of up to 20 years. To date all
+acquisitions have been assessed by directors to have useful economic lives of 20 years. In addition to systematic
+amortisation, the book value is written down to recoverable amount when any impairment in value is identified. Where
+goodwill is subsequently adjusted following the finalisation of contingent deferred consideration, the revised carrying
+value of goodwill is amortised on a prospective basis over its remaining useful economic life.
+iii_Research and development
+Research and development costs are fully written off in the year in which they are incurred.
+iv_Turnover
+The Group’s revenues are derived from the sale of software product licences, the attendant installation, maintenance
+and support service revenues, supplies of third party hardware and software. All revenue is reported exclusive of value
+added tax and other sales tax.
+Historically, in the absence of a United Kingdom accounting standard on revenue recognition, the Group followed
+guidance set out under US GAAP, in particular SOP 97-2 and SAB 101. During the current financial year, the
+Accounting Standards Board issued Application Note G to FRS 5 which closely mirrors the principles historically
+followed by the Group. As a result, there has been no change to the recognition of revenue in the Group’s financial
+statements. The Group’s approach to revenue recognition is that revenue is only recognised when:
+1.persuasive evidence of an arrangement exists;
+2.the price to the customer is fixed or determinable;
+3.any services deliverable under the supply arrangement are clearly separable from the software supply; 
+4.physical delivery has occurred or services have been rendered; 
+5.contract milestones have been achieved; and
+6.collectibility is reasonably assured and there are no material outstanding conditions or contingencies attaching 
+to the receipt of monies due.
+In the event that services deliverable under a supply arrangement are not clearly separable from the software supply,
+total revenue in relation to the supply arrangement is recognised straight line over the period of the arrangement. Notes to the financial statements
+01
+Accounting
+policies 
+cont...
+v_Recognition of profit
+Turnover from the sale of software product licences is recognised at the time the software licence is granted in
+accordance with agreed contractual triggers, typically the supply of the software product to the customer. Revenues
+from the attendant installation, maintenance and support services are recognised proportionally over the period that the
+services are provided with due regard for future anticipated costs. Payments received in advance of services are
+recorded in the balance sheet as deferred income.
+vi_Foreign exchange
+Transactions denominated in foreign currencies are translated into sterling at the rates ruling at the dates of
+transactions. Monetary assets and liabilities denominated in foreign currencies at the balance sheet date are
+translated at the rates ruling at that date. Translation differences are taken to the profit and loss account.
+Results of overseas subsidiaries are translated using the average exchange rate for the period. The balance sheets 
+of overseas subsidiaries are translated using the closing year end rate. Exchange differences arising from the 
+re-translation of the opening net assets of overseas subsidiaries are taken to reserves.
+vii_Tangible fixed assets
+Tangible fixed assets are stated at invoice cost less any applicable discounts. Depreciation is provided at rates
+calculated to write down the cost of tangible assets over their estimated useful life on a straight-line basis. The annual
+rates of depreciation, by category of fixed asset, are as follows:
+• freehold property 2%
+• office equipment, fixtures and fittings 12.5% to 20.0%
+• computer equipment 33.3%
+viii_Assets held for resale
+Acquired assets held for resale are stated at the directors’ valuation of anticipated net realisable value.
+ix_Stocks
+Stocks comprise goods held for resale and are stated at the lower of cost and net realisable value. Cost includes all
+costs in bringing each product to its present location and condition.
+x_Share schemes
+The Company has taken advantage of the exemption in UITF 17 “Employee Share Schemes” (Revised 2000) in respect
+of the accounting for its employee savings related option schemes which states that the requirements of the Abstract
+need not be applied to such schemes.
+The cost in relation to the deferred bonus scheme is charged in the year of performance. The related credit entry 
+is made within liabilities reflecting the fact that the deferred shares will be satisfied by a purchase of shares from 
+the market.
+xi_Fixed asset investments
+Fixed asset investments are stated at cost less any write down for impairment.
+xii_Leased assets
+Assets held under finance leases are included in the balance sheet and depreciated in accordance with the Group’s
+normal accounting policy for the class of asset concerned. The present value of future rentals is shown as a liability.
+The interest element of rental obligations is charged to the profit and loss account over the period of the lease in
+proportion to the balance of capital repayments outstanding.
+Rentals payable under operating leases are charged to the profit and loss account on a straight-line basis over the
+period of the lease.
+45
+FINANCIAL STATEMENTS
+page forty five FINANCIAL STATEMENTS
+page forty six
+46
+Notes to the financial statements
+01
+Accounting
+policies 
+cont...
+02
+Segmental
+analysis
+xiii_Taxation
+Corporation tax is provided on taxable profits at the current rate.
+Deferred tax is provided on timing differences that have arisen but not reversed by the balance sheet date, where the
+timing differences result in an obligation to pay more tax, or a right to pay less tax, in the future. Timing differences
+arise because of differences between the treatment of certain items for accounting and taxation purposes.
+Deferred tax assets are recognised to the extent that it is regarded as more likely than not that they will be recovered.
+Deferred tax is measured at the tax rates that are expected to apply in the periods when the timing differences are
+expected to reverse, based on tax rates and law enacted or substantively enacted at the balance sheet date. Deferred
+tax assets and liabilities are not discounted.
+Where law or accounting standards require gains and losses to be recognised in the statement of total recognised
+gains and losses, the related taxation is also taken directly to the statement of total recognised gains and losses.
+xiv_Pensions
+As noted above, following the acquisition of Torex, the Group acquired a defined benefit pension scheme and has
+therefore implemented the requirements of FRS 17 during the year. The pension scheme assets are measured using
+market values. Pension scheme liabilities are measured using the projected unit actuarial method and are discounted
+at the current rate of return on a high quality corporate bond of equivalent term and currency to the liability. Any
+increase in the present value of liabilities within the Group’s defined benefit pension schemes expected to arise from
+employee service in the period is charged to operating profit. The expected return on the schemes’ assets and the
+increase during the period in the present value of the schemes’ liabilities arising from the passage of time are included
+in other finance income/cost. Actuarial gains and losses are recognised in the consolidated statement of total
+recognised gains and losses. Pension scheme surpluses, to the extent that they are considered recoverable, or deficits
+are recognised in full and presented on the face of the balance sheet net of related deferred tax.
+The Group also operates a number of defined contribution pension schemes. The pension charge shown in the
+financial statements for these schemes represents the total contributions payable by the Group for the year.
+Multi-employer defined benefit schemes are accounted for as defined contribution schemes when the Group is unable
+to identify its share of the underlying assets and liabilities of the schemes.
+The principal activity of the Group is the development and supply of software application products and related services to
+the healthcare sector. All turnover and profit is generated from this activity.
+Turnover by geographical market 2004 2003
+£’000 £’000
+United Kingdom and other EU states 134,563 74,010
+Asia Pacific 14,697 17,485
+149,260 91,495 Notes to the financial statements
+Net operating costs are analysed as follows:
+Continuing operations
+NoteOngoing Acquisitions Total Total
+2004 2004 2004 2003
+£’000 £’000 £’000 £’000
+Change in stocks of finished goods - (280) (280) -
+Other external charges (26,195) (9,628) (35,823) (30,780)
+Staff costs 5 (29,884) (18,454) (48,338) (24,496)
+Exceptional staff costs - (5,864) (5,864) -
+Total staff costs (29,884) (24,318) (54,202) (24,496)
+Depreciation of tangible fixed assets 12 (834) (1,160) (1,994) (592)
+Goodwill amortisation 11 (4,668) (6,642) (11,310) (4,650)
+Other operating charges (15,499) (7,793) (23,292) (10,027)
+Exceptional other operating charges - (2,047) (2,047) -
+Total other operating charges (15,499) (9,840) (25,339) (10,027)
+Total operating costs (77,080) (51,868) (128,948) (70,545)
+Exceptional costs in 2004 comprise the costs of rationalising and reorganising the Group following the acquisition of Torex.
+The costs incurred comprise severance and redundancy costs of £5,864,000 and other costs, principally comprising
+professional advisory fees and property related costs, of £2,047,000 (see note 21).
+47
+FINANCIAL STATEMENTS
+page forty seven
+03
+Operating
+profit/(loss)
+02
+Segmental
+analysis 
+cont...
+Geographical operations
+United Kingdom Asia Pacific Rest of World Total Total
+and other EU states
+2004 2003 2004 2003 2004 2003 2004 2003
+£’000 £’000 £’000 £’000 £’000 £’000 £’000 £’000
+Total turnover 135,320 75,825 14,697 17,485 2,845 1,569 152,862 94,879
+Internal turnover (757) (1,815) - - (2,845) (1,569) (3,602) (3,384)
+External turnover 134,563 74,010 14,697 17,485 - - 149,260 91,495
+Operating profit before
+goodwill amortisation 
+and exceptional items 36,858 19,128 2,166 5,875 509 597 39,533 25,600
+Goodwill amortisation (11,145) (4,526) (130) (109) (35) (15) (11,310) (4,650)
+Exceptional items (7,911) ----- (7,911) -
+Operating profit 17,802 14,602 2,036 5,766 474 582 20,312 20,950
+Net assets 442,948 67,566 7,795 4,723 1,456 1,238 452,199 73,527
+Turnover, operating profit and net assets from acquisitions are materially derived from the United Kingdom and other 
+EU states. FINANCIAL STATEMENTS
+page forty eight
+48
+Notes to the financial statements
+03
+Operating
+profit/(loss)
+cont...
+During the period, the following services were provided by the Group’s auditor:
+2004 2003
+£’000 £’000
+Audit services – Group and statutory audits 331 100
+Further assurance services 24 137
+Tax services – compliance services 3 24
+– advisory services - 10
+358 271
+Included in the analysis above are fees and expenses of £25,000 (2003: £20,000) in respect of the parent company.
+In order to ensure that the independence of the Group’s auditors is not compromised, the level of non-audit work
+performed by them is kept to a minimum. All individual pieces of non-audit work above £5,000 must receive prior
+authorisation from the Audit Committee.
+04 
+Net interest
+payable and
+similar
+charges
+2004 2003
+£’000 £’000
+Interest receivable comprises:
+Bank interest 785 328
+Interest payable comprises:
+Bank loans and overdrafts (3,199) (2,338)
+Amortisation of loan arrangement fees (143) (51)
+Finance leases (57) (9)
+(3,399) (2,398)
+Net interest payable and similar charges (2,614) (2,070)
+2004 2003
+£’000 £’000
+Operating profit/(loss) is stated after charging/(crediting):
+Research and development:
+- Current period expenditure 12,690 7,896
+Loss/(profit) on disposal of fixed assets 1 (3)
+Depreciation and amortisation:
+- Goodwill 11,310 4,650
+- Tangible fixed assets, owned 1,589 526
+- Tangible fixed assets, held under finance leases 405 66
+Operating lease rentals:
+- Premises 1,638 718
+- Vehicles and equipment 1,423 678 Notes to the financial statements
+Staff costs during the period were as follows:
+2004 2003
+£’000 £’000
+Wages and salaries 41,840 21,477
+Social security costs 4,706 1,835
+Other pension costs 1,792 1,184
+48,338 24,496
+Exceptional redundancy costs (see note 02) 5,864 -
+Total staff costs 54,202 24,496
+The average monthly number of employees, including executive directors, employed by the Group during the period was:
+2004 2003
+Number Number
+Development 491 233
+Sales and marketing 91 60
+Installation and project management 479 133
+Customer services 137 88
+Administration 140 66
+1,338 580
+49
+FINANCIAL STATEMENTS
+page forty nine
+05
+Employee
+information
+Total remuneration in respect of directors was as follows:
+2004 2003
+£’000 £’000
+Salary and fees 1,610 1,324
+Benefits 4 4
+Bonus (payable in cash) 837 971
+Aggregate emoluments 2,451 2,299
+Pension contribution payments 271 229
+2,722 2,528
+A total of six directors received pension contributions to fund personal pension arrangements (2003: four). No share
+options were exercised by directors during the year or the prior year.
+Further details of directors’ remuneration are included in the audited section of the Remuneration Report on 
+pages 28 to 33.
+06
+Directors’
+remuneration FINANCIAL STATEMENTS
+page fifty
+50
+Notes to the financial statements
+07 
+Tax on profit
+on ordinary
+activities
+i_Analysis of tax charge in the period 2004 2003
+£’000 £’000
+United Kingdom corporation tax
+Current tax on income for the year 7,248 3,685
+Adjustments in respect of prior years (336) 44
+6,912 3,729
+Double tax relief (76) (94)
+6,836 3,635
+Overseas taxation
+Overseas taxation 1,838 2,840
+Adjustments in respect of prior years 264 (402)
+2,102 2,438
+Current taxation 8,938 6,073
+Deferred taxation
+Net reversal of timing differences (2,129) (589)
+Tax on profit on ordinary activities 6,809 5,484
+ii_Reconciliation of current tax charge 2004 2003
+£’000 £’000
+Profit on ordinary activities before taxation 17,593 18,880
+Theoretical tax at UK corporation tax rate of 30% (2003: 30%) 5,278 5,664
+Effects of:
+Expenditure not tax deductible 2,083 1,018
+Movement on deferred tax not provided 55 (584)
+Utilisation of tax losses 255 -
+Adjustments in respect of prior periods (72) (358)
+Difference in tax rates in overseas companies (49) (128)
+Withholding tax (76) (94)
+Exchange rate differences 9 (34)
+Group relief surrendered for nil consideration 146 -
+Accelerated capital allowances 1,309 589
+Actual current taxation charge (note 7_i) 8,938 6,073
+The Group relief surrendered for nil consideration relates to a surrender to Torex Laboratory Systems Limited,
+a subsidiary which has not been consolidated into the Group financial statements.
+iii_Factors that may affect future tax charges
+The iSOFT Group has operations in various overseas jurisdictions, some of which have higher corporation tax rates than the
+UK. The profitability of these overseas operations will have an effect on the Group tax charge going forward. Notes to the financial statements
+Of the profit for the financial year, a profit of £7,248,000 (2003: £4,624,000) is dealt with in the accounts of iSOFT
+Group plc. The directors have taken advantage of the exemption available under section 230 of the Companies Act
+1985 and have not presented a profit and loss account for the Company alone.
+51
+FINANCIAL STATEMENTS
+page fifty one
+08
+Profits of
+holding
+company
+2004 2003
+£’000 £’000
+Equity dividends
+Ordinary shares of £0.10 each:
+- Interim dividend of 0.70p per share (2003: 0.60p) 879 706
+- Proposed final dividend of 1.70p per share (2003: 1.20p) 3,832 1,486
+4,711 2,192
+09
+Dividends
+Basic earnings per share are calculated by dividing the earnings attributable to ordinary shareholders by the weighted
+average number of shares in issue. For diluted earnings per share, the weighted average number of ordinary shares in
+issue is adjusted for the potential ordinary share dilution from share options. Reconciliations of the earnings and 
+weighted average number of shares are set out below:
+2004 2003
+Weighted Weighted
+average average
+number of Per share number of Per share
+Earnings shares amount Earnings shares amount
+£’000 ‘000 pence £’000 ‘000 pence
+Basic earnings per share
+Earnings attributable to shareholders 10,699 160,595 6.66 13,250 118,588 11.17
+Dilutive effect of options - 2,252 (0.09) - 1,034 (0.09)
+Diluted earnings per share 10,699 162,847 6.57 13,250 119,622 11.08
+Underlying earnings per share (excluding goodwill 
+amortisation and exceptional items)
+Basic earnings per share 10,699 160,595 6.66 13,250 118,588 11.17
+Goodwill amortisation 11,310 - 7.04 4,650 - 3.92
+Exceptional items 7,911 - 4.93 ---
+Tax on exceptional items (1,502) - (0.93) ---
+Underlying earnings per share 28,418 160,595 17.70 17,900 118,588 15.09
+Underlying earnings per share excludes the effect of goodwill amortisation and exceptional items. This is presented to
+show more comparable and representative information on the underlying trading performance.
+10
+Earnings 
+per share FINANCIAL STATEMENTS
+page fifty two
+52
+Notes to the financial statements
+11
+Intangible 
+fixed assets
+Group Goodwill
+£’000
+Cost
+At 1 May 2003 101,859
+Additions (note 14) 399,294
+Adjustment in respect of deferred consideration (6,769)
+Exchange adjustments 33
+At 30 April 2004 494,417
+Amortisation
+At 1 May 2003 9,870
+Charged for the year 11,310
+At 30 April 2004 21,180
+Net book value 
+At 30 April 2004 473,237
+At 1 May 2003 91,989
+Acquisition accounting has been adopted in respect of all business combinations. The additions to goodwill during the year
+represent the the merger with Torex PLC on 23 December 2003 resulting in goodwill of £397,187,000, the acquisition of
+i-Health/Galen on 9 January 2004 resulting in goodwill of £1,294,000, and an additional 7% stake in iSOFT R&D Private
+Limited resulting in additional goodwill of £813,000.
+The goodwill arising on the merger with Torex is being amortised on a straight line basis over 20 years. This is the period
+over which the directors estimate that the value of the underlying business acquired will continue to exceed the value of
+the underlying assets. Goodwill in respect of all other acquisitions is amortised over 20 years.
+The adjustment in respect of deferred consideration comprises:
+• £4,640,000 reduction to the final settlement of the deferred consideration payable on the original acquisition of 
+iSOFT plc (see note 17).
+• £2,273,000 reduction in the directors estimate of the deferred consideration payable on the acquisition of 
+Revive Group Limited (see note 17).
+• £144,000 increase in the total consideration payable in respect of Paramedical Pty Limited (see note 17).
+The directors have elected to amortise the revised carrying value of goodwill in respect of iSOFT plc, Revive Group Limited
+and Paramedical Pty Limited on a prospective basis over their remaining useful economic lives.
+Company
+The Company has no intangible fixed assets. Notes to the financial statements
+53
+FINANCIAL STATEMENTS
+page fifty three
+Group Freehold Fixtures
+land & fittings &
+buildings equipment Total
+£’000 £’000 £’000
+Cost
+At 1 May 2003 - 3,607 3,607
+On acquisition (note 14) 4,961 29,963 34,924
+Additions - 3,071 3,071
+Disposals (514) (1,532) (2,046)
+Exchange adjustments (4) (272) (276)
+At 30 April 2004 4,443 34,837 39,280
+Depreciation
+At 1 May 2003 - 1,831 1,831
+On acquisition (note 14) 1,049 24,382 25,431
+Disposals (137) (1,487) (1,624)
+Exchange adjustments (3) (219) (222)
+Charge for the year 72 1,922 1,994
+At 30 April 2004 981 26,429 27,410
+Net book value
+At 30 April 2004 3,462 8,408 11,870
+At 1 May 2003 - 1,776 1,776
+At the balance sheet date the net book value of tangible fixed assets includes £1,149,000 (2003: £162,000) in respect of
+assets held under finance leases. Depreciation charged in the period on those assets amounted to £405,000 (2003:
+£66,000).
+Company
+The Company has no tangible fixed assets.
+12
+Tangible 
+fixed assets
+Company Shares in subsidiary
+undertakings
+£’000
+Cost and net book value
+At 1 May 2003 51,849
+Additions 399,889
+Adjustments to deferred consideration (6,913)
+At 30 April 2004 444,825
+Additions represent £371,878,000 in respect of the issue of shares on the merger with Torex PLC and an investment 
+in a subsidiary undertaking, iSOFT Solutions Limited for £28,011,000.
+The adjustments to deferred consideration relate to the acquisitions of iSOFT plc and Revive Group Limited (see note 17).
+13
+Fixed asset
+investments FINANCIAL STATEMENTS
+page fifty four
+54
+Notes to the financial statements
+13
+Fixed asset
+investments
+cont...
+Principal trading Class of Proportion Nature Country of
+Subsidiaries share held of shares of business incorporation
+iSOFT plc Ordinary 100% Computer services England & Wales
+iSOFT R&D Private Limited* Ordinary 82%Software development India
+iSOFT Australia Pty Limited* Ordinary 100% Computer services Australia
+iSOFT New Zealand Limited* Ordinary 100% Computer services New Zealand
+iSOFT Holdings (Singapore) Limited* Ordinary 100% Computer services Singapore
+iSOFT Applications Limited Ordinary 100% Computer Services England & Wales
+iSOFT Solutions Limited Ordinary 100% Computer Services England & Wales
+Revive Health Limited* Ordinary 100% Computer services England & Wales
+Torex PLC Ordinary 100% Holding company England & Wales
+Torex Health Limited* Ordinary 100% Computer services England & Wales
+Torex Services Limited* Ordinary 100% Computer services England & Wales
+Torex Medical Systems Limited* Ordinary 100% Computer services England & Wales
+Torex-Hiscom BV* Ordinary 100% Computer services Netherlands
+Torex GAP GmbH* Ordinary 100% Computer services Germany
+Torex Health Switzerland Limited* Ordinary 100% Computer services Switzerland
+Torex Business Solutions (Ireland) Limited* Ordinary 100% Computer services Ireland
+Torex Business Solutions (Hong Kong) Limited* Ordinary 100% Computer services Hong Kong
+Torex Business Solutions UK Limited* Ordinary 100% Computer services England & Wales
+Torex Laboratory Systems Limited* Ordinary 100% Computer services England & Wales
+Torex Radiology Systems Limited* Ordinary 100% Computer services England & Wales
+HAS Solutions Pty Limited* Ordinary 100% Computer services Australia
+Paramedical Pty Limited* Ordinary 100% Computer services Australia
+* denotes shares not held directly by iSOFT Group plc.
+All of the subsidiary undertakings, with the exception of Torex Laboratory Systems Limited, have been consolidated in the
+Group financial statements. The financial statements of Torex Laboratory Systems Limited have not been consolidated
+since acquisition on 23 December 2003 as it is being held exclusively for resale. The aggregate amount of the capital and
+reserves of Torex Laboratory Systems Limited was £454,000 at 30 April 2004. The profit before tax for the period since
+acquisition to 30 April 2004 was £155,000. In addition, the results of the companies forming the Retail Division of Torex
+PLC (principally Torex Retail Limited, Arciris Holdings Limited, Figure Retail Systems Limited and POS Group Limited)
+acquired on 23 December 2003 were not consolidated into the Group results between acquisition and the date of their
+disposal on 14 February 2004 as the companies were also held exclusively for resale.
+A full list of subsidiary undertakings will be annexed to the Company’s next annual return. Notes to the financial statements
+55
+FINANCIAL STATEMENTS
+page fifty five
+i_Merger with Torex PLC
+On 23 December 2003, the merger of iSOFT Group plc and Torex PLC (“Torex”) was declared unconditional. Acquisition
+accounting has been adopted. The book and provisional fair values of Torex on acquisition were as follows:
+Provisional
+Book value Revaluations fair value 
+£’000 £’000 £’000
+Tangible fixed assets 9,922 (473) 9,449
+Assets held for resale 1,475 67,685 69,160
+Stocks 4,750 (1,193) 3,557
+Debtors 52,388 (2,412) 49,976
+Deferred tax 3,104 3,675 6,779
+Overdraft (5,134) - (5,134)
+Corporation tax (5,626) (1,501) (7,127)
+Deferred consideration (12,724) 4,057 (8,667)
+Trade and other creditors (56,244) (8,489) (64,733)
+Debt (69,675) - (69,675)
+Provisions for liabilities and charges (1,551) (1,379) (2,930)
+Pension liability - (5,964) (5,964)
+Net liabilities acquired (79,315) 54,006 (25,309)
+Goodwill 397,187
+Consideration 371,878
+Satisfied by:
+Shares issued 367,825
+Acquisition costs (of which £200,000 remains unpaid at 30 April 2004) 4,053
+371,878
+Revaluation adjustments comprise:
+•
+Write off of obsolete fixed assets of £473,000.
+•
+The adjustment in respect of assets held for resale represents the actual net proceeds of £61,185,000 of the Retail 
+Division of Torex which was disposed of on 14 February 2004 to Lynxangel Limited, together with £6,500,000 
+representing the estimated carrying value of Torex Laboratory Systems Limited. Both the Retail Division of Torex and 
+Torex Laboratory Systems have not been consolidated into the acquisition balance sheet or the Group’s post 
+acquisition balance sheet on the grounds that they were/are held exclusively for resale.
+•
+Write down of stocks by £1,193,000 to their estimated recoverable value.
+•
+Additional provision for bad and doubtful debts of £2,412,000.
+•
+Reassessment of the corporation tax liabilities of Torex to reflect an additional liability of £1,501,000 and inclusion of 
+a deferred tax asset arising as a result of the fair value adjustments of £3,675,000.
+•
+Reassessment of the amounts payable in respect of deferred consideration by £4,057,000 based on most recent 
+available data.
+•
+An adjustment to trade and other creditors of £8,489,000 comprising the reassessment of a number of onerous 
+contracts to reflect an additional liability of £4,293,000 and the inclusion of £4,196,000 of liabilities in existence at 
+the acquisition date but not recorded in the acquisition balance sheet.
+•
+Additional property provisions of £1,379,000 in respect of onerous lease commitments and dilapidations.
+•
+Inclusion of the £8,519,000 pension liability of Torex calculated on an FRS 17 basis and stated net of the related 
+deferred tax asset of £2,555,000. See note 22 for details of the assumptions used in assessing this liability.
+From 24 December 2003 to 30 April 2004, Torex (excluding the Retail Division and Torex Laboratory Systems) contributed
+£43,268,000 to turnover, £6,329,000 to operating profit before goodwill amortisation and exceptional items and
+£5,321,000 to profit before taxation, goodwill amortisation and exceptional items. Torex contributed £6,266,000 to the
+Group’s net operating cashflows, paid £902,000 in respect of interest, £nil in respect of taxation and utilised £1,521,000
+for capital expenditure.
+14
+Acquisitions FINANCIAL STATEMENTS
+page fifty six
+56
+Notes to the financial statements
+14
+Acquisitions
+cont...
+The summary trading results of Torex for the preceding financial year ended 31 December 2002 and from 1 January 2003
+to 23 December 2003 are as follows:
+Period to Year ended
+23 December 2003 31 December 2002
+£’000 £’000
+Turnover 193,481 161,791
+Operating profit before goodwill amortisation and exceptional items 32,156 26,587
+Goodwill amortisation (9,756) (8,020)
+Exceptional items (7,960) -
+Operating profit 14,440 18,567
+Net interest payable (4,641) (3,879)
+Profit before taxation 9,799 14,688
+Taxation (5,721) (6,197)
+Profit after taxation 4,078 8,491
+Adjusted profit before taxation, goodwill amortisation and exceptional items 27,515 22,708
+In the period to 23 December 2003, turnover includes £59,675,000 (year to 31 December 2002: £41,671,000) and
+operating profit before exceptional items includes £9,042,000 (year to 31 December 2002: £4,869,000) in respect of the
+Retail Division of Torex.
+Exceptional items in the period to 23 December 2003 comprise merger related costs of £5,409,000, directors’ severance
+costs of £1,056,000 and costs of £1,495,000 associated with the termination of an onerous supplier contract.
+The summary statement of recognised gains and losses of Torex for the preceding financial year ended 
+31 December 2002 and from 1 January 2003 to 23 December 2003 is as follows:
+Period to Year ended
+23 December 2003 31 December 2002
+£’000 £’000
+Profit for the period 4,078 8,491
+Foreign exchange gain 925 320
+Total recognised gains 5,003 8,811
+There is no material difference in the results when calculated using the accounting policies of iSOFT Group plc set out 
+in note 01. ii_Acquisition of i-Health and Galen
+On 9 January 2004, the Group acquired the business and certain assets and liabilities of i-Health Limited and 
+Galen Group Limited in New Zealand. Acquisition accounting has been adopted. The book and fair values of these
+companies on acquisition were as follows:
+Book and provisional
+fair value
+£’000
+Tangible fixed assets 44
+Creditors (63)
+Net liabilities acquired (19)
+Goodwill 1,294
+Consideration 1,275
+Satisfied by:
+Cash consideration on acquisition 741
+Deferred consideration 495
+Acquisition costs paid 39
+1,275
+From the date of acquisition to 30 April 2004, i-Health and Galen contributed £288,000 to turnover and made an
+operating loss before goodwill amortisation of £88,000. The post acquisition cashflows of i-Health and Galen were 
+not material.
+iii_Further investment in iSOFT R&D Private Limited
+On 31 July 2003, the Group increased its stake in iSOFT R&D Private Limited (“iSOFT R&D”) from 75% to 82%.
+In accordance with FRS 2, given that the carrying values of the net assets in iSOFT R&D were not materially different from
+their fair values and the change in stake is not considered significant, the net assets of iSOFT R&D have not been revalued
+on consolidation. Accordingly, the additional goodwill generated by the increase in stake is as follows:
+£’000
+Consideration – satisfied in shares 893
+Additional net assets acquired (80)
+Goodwill on increase in stake 813
+Notes to the financial statements
+57
+FINANCIAL STATEMENTS
+page fifty seven
+14
+Acquisitions
+cont...
+Group Company Group Company
+2004 2004 2003 2003
+£’000 £’000 £’000 £’000
+Business held for resale 6,500 --- 
+Property held for resale 1,000 ---
+7,500 ---
+15
+Assets held
+for resale FINANCIAL STATEMENTS
+page fifty eight
+58
+Notes to the financial statements
+16
+Debtors
+15
+Assets held
+for resale 
+cont...
+Group Company Group Company
+2004 2004 2003 2003
+£’000 £’000 £’000 £’000
+Trade debtors 42,380 - 10,859 -
+Amounts owed by Group undertakings - 113,980 - 71,863
+Deferred taxation  9,513 - 566 -
+Other debtors 4,938 463 175 25
+Prepayments and accrued income 50,105 145 19,513 98
+106,936 114,588 31,113 71,986
+In the normal course of its business the Group enters into financing arrangements with third party funders in respect of
+specific customer contracts. These transactions are entered into to provide PFI (Private Finance Initiative) compliant
+finance for the capital cost of multi-year customer contracts. In these arrangements the present value of the customer
+receivable is matched by the amount due to the funding provider. Given the directly related nature of the transactions the
+Group does not recognise the equal and opposite related balances. This treatment is in accordance with FRS 5.
+Prepayments and accrued income include a balance of £4,215,000 (2003: £901,000) due after one year.
+Movement in deferred tax asset - Group
+£’000
+Balance at 1 May 2003 566
+Amount credited to profit and loss account (note 7) 2,129
+Acquisitions (note 14) 6,779
+Exchange rate differences 39
+Balance at 30 April 2004 9,513
+Analysis of deferred tax asset - Group 2004 2003
+£’000 £’000 
+Accelerated capital allowances 662 76
+Short-term timing differences 5,234 490
+Losses carried forward 3,617 -
+Deferred tax asset 9,513 566
+There are other potential deferred tax assets totalling £2,143,000 (2003: £500,000) that have not been recognised on the
+basis that the future economic benefit is as yet uncertain.
+Company
+The Company has no deferred tax balance.
+The business held for resale represents the Group’s investment in Torex Laboratory Systems Limited, which was acquired
+on the merger with Torex and is held exclusively with a view to resale. The investment is held at the Directors’ estimate of
+carrying value. During the period from acquisition to 30 April 2004, there were no material trading transactions between
+this business and the rest of the Group, and there were no dividends received or receivable from them. An amount of
+£342,000 is held within other debtors representing amounts owed by Torex Laboratory Systems Limited principally in
+respect of the payment of salaries by group companies on behalf of Torex Laboratory Systems Limited.
+The property held for resale relates to a property acquired on the merger with Torex which is in the process of disposal.
+The property is held at its estimated net realisable value. Group Company Group Company
+2004 2004 2003 2003
+£’000 £’000 £’000 £’000
+Bank and other borrowings (note 19) 9,850 21,997 6,033 10,219
+Trade creditors 11,118 353 3,486 501
+Amounts owed to Group undertakings - 36,864 - 510
+Corporation tax 14,151 - 3,334 -
+Other taxation and social security 11,648 - 2,721 -
+Accruals and other creditors 41,189 1,105 11,817 2,779
+Deferred income 43,737 - 14,289 -
+Deferred consideration 6,872 3,760 1,050 1,050
+Proposed dividends 3,832 3,832 1,486 1,486
+142,397 67,911 44,216 16,545
+Deferred consideration, of which £6,872,000 (2003: £3,760,000) is payable within one year and £4,738,000 (2003:
+£10,293,000) is payable after one year, comprises:
+•
+£3,360,000 (2003: £8,000,000) in respect of the acquisition agreement between KPMG and the Company for the 
+purchase of iSOFT plc on 28 May 1999. The agreement provided for an amount of deferred consideration to become 
+payable in cash by the Company in the event that the Company’s shares became listed on a recognised stock 
+exchange on or before 30 April 2003. This amount was only to become payable when the original directors on 
+acquisition realised the whole or substantially the whole of their equity shares into cash. In prior years, the estimate 
+of deferred consideration payable of £8,000,000, which was included within deferred consideration falling due after 
+one year, was calculated as a proportion of the market capitalisation of the Company after certain deductions had 
+been made. At the balance sheet date, the Company had reached agreement with KPMG to settle the deferred 
+consideration. The agreed final settlement of £3,360,000 was paid on 26 May 2004. The reduction in the directors’ 
+original estimate of the deferred consideration payable, amounting to £4,640,000, has been adjusted through 
+goodwill (see note 11).
+•
+£400,000 (2003: £3,050,000) relating to the acquisition of Revive Group Limited (“Revive”) on 27 November 2002.
+The sale and purchase agreement provided that the deferred consideration was payable based on a percentage of 
+the cash backed operating profit generated by Revive in each of the three years ended 30 November 2005 providing 
+certain levels of cash backed profit and turnover were attained in each of those years. During the year, £377,000 of 
+deferred consideration has been paid and the Company has now reached agreement with the vendors that a final 
+payment of £400,000 will be made in full settlement of the deferred consideration. The reduction in the directors’ 
+original estimate of the deferred consideration payable, amounting to £2,273,000, has been adjusted through 
+goodwill (see note 11).
+•
+£6,000,000 (2003: £nil) in respect of the Torex acquisition of HAS Solutions Pty Limited (“HAS”) on 
+6 September 2003. The deferred consideration is payable based on multiples of the profit after taxation generated by 
+HAS in the calendar years from 31 December 2003 to 31 December 2006. The amount included in the financial 
+statements represents the Company’s estimate of the amounts that will become payable under the terms of the sale 
+and purchase agreement. Payments of the deferred consideration are due annually in respect of each calendar year 
+end. The maximum potential deferred consideration payable under the terms of the sale and purchase agreement is 
+estimated to be £10,700,000.
+•
+£918,000 (2003: £nil) in respect of the Torex acquisition of GAP Management AG on 29 May 2002. The deferred 
+consideration has now been finalised and is payable on 31 March 2005.
+•
+£495,000 (2003: £nil) relating to the acquisition of i-Health Limited on 9 January 2004. The deferred consideration 
+is payable based on proportion of revenue in each of the five years ending 31 December 2008. The amount included 
+in the financial statements represents the Company’s estimate of the amounts that will become payable under the 
+terms of the sale and purchase agreement. The maximum potential deferred consideration payable under the terms 
+of the sale and purchase agreement is approximately £8,700,000.
+•
+£437,000 (2003: £293,000) in respect of the acquisition of Paramedical Pty Limited. Following the end of the 
+performance period in respect of the deferred consideration, the estimate of the amount payable has been increased 
+by £144,000. The consideration is payable fourteen days following the finalisation of the audited financial 
+statements of Paramedical Pty Limited for the year ended 30 April 2004.
+Notes to the financial statements
+59
+FINANCIAL STATEMENTS
+page fifty nine
+17
+Creditors:
+amounts
+falling due
+within one
+year FINANCIAL STATEMENTS
+page sixty
+60
+Notes to the financial statements
+18
+Creditors:
+amounts
+falling due
+after one year
+Group Company Group Company
+2004 2004 2003 2003
+£’000 £’000 £’000 £’000
+Bank and other borrowings (note 19) 61,417 60,573 42,293 42,171
+Deferred consideration (note 17) 4,738 - 10,293 10,000
+Other creditors 1,057 378 --
+67,212 60,951 52,586 52,171
+19
+Bank and
+other
+borrowings
+Group Company Group Company
+2004 2004 2003 2003
+£’000 £’000 £’000 £’000
+Due within one year:
+Bank overdraft - 12,772 - 4,320
+Bank loans 9,225 9,225 5,899 5,899
+Finance leases 625 - 134 -
+9,850 21,997 6,033 10,219
+Due after one year:
+Bank loans 60,820 60,573 42,171 42,171
+Finance leases 597 - 122 -
+61,417 60,573 42,293 42,171
+71,267 82,570 48,326 52,390
+All of the Group bank loans and overdraft are secured by a floating charge over the assets of the Group and are subject to
+interest at between 0.65% and 1.125% over the bank’s base rate dependent on the level of the Group’s net debt position.
+Bank loans are stated net of unamortised issue costs of £608,000 (2003: £143,000).
+For details of the Group’s banking facilities see note 20.
+20
+Financial
+instruments
+The Group’s financial instruments comprise bank borrowings, some cash and various items, such as trade debtors,
+trade creditors etc. that arise directly from its operations. Short-term debtors and creditors have been excluded from
+all of the following disclosures except in relation to currency risk. The main risks arising from, and impacted by, the
+financial assets and liabilities of the Group are interest rate risk, foreign currency risk and liquidity risk. The Board
+reviews and agrees policies for managing these risks and they are summarised below. The Group does not trade in 
+financial instruments. Notes to the financial statements
+61
+FINANCIAL STATEMENTS
+page sixty one
+20
+Financial
+instruments
+cont...
+Interest rate risk
+The Group finances its operations through a mixture of retained profits and bank borrowings. There is also a small 
+amount of finance lease commitment. The Group has arranged facilities whereby United Kingdom held cash balances 
+are used to net off the balance on the loans, with interest calculated on the net balance. The interest rate exposure 
+of the financial liabilities of the Group was as follows:
+2004 2003
+Fixed Floating Non Fixed Floating Non
+interest interest interest interest interest interest
+rate rate bearing Total rate rate bearing Total
+£’000 £’000 £’000 £’000 £’000 £’000 £’000 £’000
+Sterling
+- Loans - 70,045 - 70,045 - 48,070 - 48,070
+- Finance leases 1,222 - - 1,222 256 - - 256
+- Deferred consideration - - 11,610 11,610 - - 11,343 11,343
+- Provisions - - 10,487 10,487 ---  -
+At 30 April 1,222 70,045 22,097 93,364 256 48,070 11,343 59,669
+The weighted average interest rate on fixed rate borrowings was 8.0% (2003: 7.8%) and the weighted average period to
+maturity was 1.0 years (2003: 1.5 years). The weighted average period to maturity on non-interest bearing financial
+liabilities was 1.7 years (2003: 8.7 years). The only financial assets held by the Group are cash at bank. Amounts held 
+at the year end were:
+2004 2003
+£’000 £’000
+Sterling 37,094 33,315
+Euros 27,866 1,694
+Australian dollar 8,705 9,827
+Singapore dollar 260 302
+Swiss franc 694 -
+Indian rupees 336 313
+Hong Kong dollar 73 -
+Norwegian kroner 6 -
+75,034 45,451
+All cash is at floating rates based on relevant national LIBID equivalents or government bond rates.
+Currency risk
+The Group is exposed to translation and transaction foreign exchange risk. The Group regularly reviews its exposure to
+translation risk and where appropriate will match this risk with an appropriate level of borrowings in the same currency.
+If necessary, transaction risk would be minimised by use of the forward hedge market. At the year end, there are no
+currency hedging arrangements in place (2003: none).
+There are net foreign currency monetary assets/(liabilities) held by subsidiaries with a functional currency of sterling of
+£16,788,000 (2003: £3,307,000) denominated in euros, £252,000 (2003: £949,000) denominated in Australian dollars
+and (£393,000) (2003: £nil) denominated in Hong Kong dollars. In addition, there are net foriegn currency monetary
+assets/(liabilities) held by subsidiaries with a functional currency of the euro of £1,245,000 (2003: (£1,782,000))
+denominated in sterling, (£173,000) (2003: £nil) denominated in Hong Kong dollars and £130,000 (2003: £nil)
+denominated in the Swiss franc. FINANCIAL STATEMENTS
+page sixty two
+62
+Notes to the financial statements
+20
+Financial
+instruments
+cont...
+21
+Provisions for
+liabilities and
+charges
+Liquidity risk
+It is the Group’s policy to maintain a mix of short, medium and long term borrowings with its bankers. Flexibility is
+achieved by the use of a revolving credit facility and a fixed term loan facility.
+Following the merger with Torex, the Group renegotiated its banking facilities in April 2004. The new facilities provide 
+for a term loan of £60,000,000 and a multi-currency revolving credit facility of £85,000,000. The term loan is repayable 
+in quarterly payments commencing August 2004 with the last payment scheduled for September 2008. The revolving
+credit facility is also subject to review in September 2008. As at 30 April 2004, £75,000,000 of the revolving credit 
+facility was unused by the Group.
+Maturity of financial liabilities
+The maturity profile of the Group’s financial liabilities, other than short term trade creditors and accruals,
+at 30 April 2004 was:
+2004 2003
+Bank Finance Bank Finance
+loans leases Other Total loans leases Other Total
+£’000 £’000 £’000 £’000 £’000 £’000 £’000 £’000
+Due within one year, or 
+on demand 9,225 625 15,143 24,993 5,899 134 1,050 7,083
+Due after one year but not 
+more than two years 12,124 597 2,004 14,725 5,899 94 1,293 7,286
+Due after two years 
+but not 
+more than five years 38,878 - 4,084 42,962 36,272 28 1,000 37,300
+Due in more than 
+five years 9,818 - 866 10,684 - - 8,000 8,000
+At 30 April 70,045 1,222 22,097 93,364 48,070 256 11,343 59,669
+Other financial liabilities represent deferred consideration payable of £11,610,000 (2003: £11,343,000), the Group’s
+restructuring provision of £7,280,000 (2003: £nil) and the Group’s property provisions of £3,207,000 (2003: £nil).
+Fair value of financial instruments
+There is no difference between the book value and fair value of the aforementioned financial instruments.
+Group
+Restructuring Property Total
+£’000 £’000 £’000
+At 1 May 2003 - - -
+On acquisition (note 14) - 2,930 2,930
+Created – exceptional charge 7,599 312 7,911
+Utilised (319)(35)(354)
+At 30 April 2004 7,280 3,207 10,487 Notes to the financial statements
+63
+FINANCIAL STATEMENTS
+page sixty three
+21
+Provisions for
+liabilities and
+charges 
+cont...
+22
+Pension
+commitments
+The restructuring provision represents the estimated cost of the restructuring of the Group following the merger with
+Torex on 23 December 2003. Through its Business Improvement Programme (“BiP”), the Group is currently integrating
+the former business of Torex with that of the iSOFT Group. The provision at the year end represents the estimated cost
+of redundancies and severance packages identified to date that will be payable. The provision is expected to be used in
+the next financial year.
+At the year end, the provision held in respect of properties represents the estimated cost of exiting a number of vacant
+properties held by the Group of £2,026,000 and the provision for leasehold dilapidations on a number of the Group’s
+leasehold properties of £1,181,000. The anticipated cost of exiting the Group’s vacant properties has been estimated
+taking account of residual lease commitments, contracted sub let income and other potential penalties associated with
+termination of leases. The provision is expected to be utilised over the next eight years. The dilapidations provision has
+been calculated taking advice from property surveyors where necessary.
+As a result of the merger with Torex, the Group acquired the Torex Medical Systems defined benefit scheme (“the TMS
+scheme”) and has adopted the requirements of FRS 17. As the Group previously had no defined benefit pension
+arrangements, the change in accounting policy has not resulted in a prior year adjustment. The assets of the TMS 
+scheme are held in a separate trustee administered fund. The most recent actuarial valuation of the scheme was at 
+30 April 2004. The valuation of the TMS scheme used the projected unit method and was carried out by KPMG,
+professionally qualified actuaries.
+The principal assumptions used by the actuaries were:
+30 April 23 December
+2004 2003
+% %
+Rate of increase in pensionable salaries 4.4 4.3
+Rate of increase in pensions in payment and deferment 2.9 2.8
+Discount rate 5.6 5.5
+Inflation assumption 2.9 2.8
+The assets of the scheme and the weighted average expected return were:
+Long term rate Long term rate
+of return Value at of return expected 
+expected at 30 April at 23 December Value at
+30 April 2004 2004 2003 23 December 2003
+% £’000 % £’000
+Equities 7.5 8,834 7.5 8,848
+Bonds 4.9 1,085 4.9 1,170
+Insurance policy 5.0 1,193 5.0 1,173
+Other 3.75 684 3.75 489
+Total market value of assets 11,796 11,680
+Present value of scheme liabilities (20,537) (20,199)
+Deficit in the scheme (8,741) (8,519)
+Related deferred tax asset 2,622 2,555
+Net pension liability (6,119) (5,964) FINANCIAL STATEMENTS
+page sixty four
+64
+Notes to the financial statements
+22
+Pension
+commitments
+cont...
+i_Analysis of amount charged to operating profit in respect of defined benefit schemes:
+Period to
+30 April 2004
+£’000
+Current service cost 226
+Past service cost -
+Total operating charge 226
+ii_Movement in surplus during the period:
+£’000
+Deficit in scheme at 23 December 2003 (8,519)
+Movement:
+Current service cost (226)
+Contributions 149
+Other finance cost (105)
+Actuarial loss (40)
+Deficit in scheme at 30 April 2004 (8,741)
+iii_Analysis of the amount charged to other finance cost:
+Period to 
+30 April 2004
+£’000
+Expected return on pension scheme assets 261
+Interest on pension scheme liabilities (366)
+Net finance cost (105)
+iv_Analysis of the amount recognised in the statement of total recognised gains and losses:
+Period to
+30 April 2004
+£’000
+Actual return less expected return on pension scheme assets (250)
+Experience gains and losses arising on pension scheme liabilities 30
+Changes in the assumptions underlying the present value of the scheme liabilities 180
+Actuarial loss recognised in the statement of total recognised gains and losses (40) v_History of experience gains and losses:
+Period to
+30 April 2004
+Difference between the actual and expected return on scheme assets:
+Amount (£’000) (250)
+Percentage of scheme assets (2%)
+Experience gains and losses on scheme liabilities:
+Amount (£’000) 30
+Percentage of the present value of the scheme liabilities 0%
+Total amount recognised in the statement of total recognised gains and losses:
+Amount (£’000) (40)
+Percentage of the present value of the scheme liabilities (0%)
+vi_Overseas arrangements
+As a result of the merger with Torex, the Group also acquired pension obligations in the Netherlands. Torex-Hiscom BV
+participates in an industry-wide defined benefit pension plan, known as the PGGM. The PGGM provides pension benefits
+related to final pay at retirement for approximately 1.8 million people, who are current or former employees in the
+healthcare and social work sector in the Netherlands. The PGGM is a multi-employer plan under which Torex-Hiscom 
+BV is unable to identify its share of the underlying assets and liabilities, and the Group has therefore adopted defined
+contribution accounting as permitted by FRS 17. The premiums due from the employer for the period 1 January 2004 to
+30 April 2004 were 451,000 euros (approximately £300,000). The employer’s contributions are expected to increase by
+up to 15% in the foreseeable future to restore the funding level of the PGGM in respect of past service benefits to its
+target level.
+Notes to the financial statements
+65
+FINANCIAL STATEMENTS
+page sixty five
+22
+Pension
+commitments
+cont...
+23
+Share capital
+2004 2003
+£ £
+Authorised
+350,000,000 (2003: 200,000,000) ordinary shares of £0.10 each 35,000,000 20,000,000
+2004 2003
+£ £
+Allotted, called up and fully paid
+225,421,755 (2003: 123,822,436) ordinary shares of £0.10 each 22,542,176 12,382,224
+Shares issued during the period
+On 23 December 2003, the Company increased its authorised share capital from 200,000,000 ordinary shares of £0.10
+each to 350,000,000 shares of £0.10 each.
+97,532,617 shares at a value of £367,824,750 were allotted on the merger with Torex (see note 14i). Issue expenses of
+£1,890,000 arising on the allotment of the shares have been charged to the share premium account.
+On 31 July 2003, the Company allotted 250,000 shares at a fair value of £893,000 in consideration for an additional 7%
+stake in iSOFT R&D Private Limited (see note 14_iii).
+3,816,702 shares have been issued during the year to satisfy the Company’s requirements under the Group’s share option
+schemes. Consideration received was £6,067,000. FINANCIAL STATEMENTS
+page sixty six
+66
+Notes to the financial statements
+23
+Share capital
+cont...
+Share options
+The following options are outstanding under the Company’s unapproved and approved share option schemes. Exercise of
+these options is subject to employees meeting individual performance criteria and also to the performance of the Group
+measured over three years from the date of grant. Options include directors’ share options. All options were granted at
+market value at the date of grant.
+Date of grant Number Subscription price End of personal Period of option
+per share (pence) performance period
+11 Jul 2000 428,000 110.0 10 Jul 2001 11 Jul 2003 - 10 Jul 2010
+20 Dec 2000 250,000 174.0 19 Dec 2001 20 Dec 2003 - 19 Dec 2010
+13 Apr 2001 50,000 189.0 12 Apr 2002 13 Apr 2004 - 12 Apr 2011
+22 Jun 2001 850,000 249.0 21 Jun 2002 22 Jun 2004 - 21 Jun 2011
+11 Oct 2001 1,363,000 217.5 10 Oct 2002 11 Oct 2004 - 10 Oct 2011
+30 Sept 2002 1,735,000 151.3 29 Sept 2003 30 Sept 2005 - 30 Sept 2012
+11 Oct 2002 500,000 145.0 10 Oct 2003 11 Oct 2005 - 10 Oct 2012
+27 Nov 2002 500,000 233.0 26 Nov 2003 27 Nov 2005 - 26 Nov 2012
+25 Mar 2004 1,750,000 338.0 24 Mar 2005 25 Mar 2007 - 24 Mar 2014
+These share schemes have been set up under a joint election to transfer the liability for employers NI to the employee.
+As a result, in accordance with UITF25, no profit and loss charge arises.
+Following the merger with Torex, the following Torex share options were rolled over into options over iSOFT Group shares.
+Date of grant Number Subscription price End of personal Period of option
+per share (pence) performance period
+5 Mar 1999 120,467 92.47 23 Dec 2003 5 Mar 2002 - 4 Mar 2009
+13 Aug 1999 75,326 156.91 23 Dec 2003 13 Aug 2002 - 12 Aug 2009
+9 Feb 2000 354,901 295.67 23 Dec 2003 9 Feb 2003 - 8 Feb 2010
+24 Aug 2000 207,458 355.36 23 Dec 2003 24 Aug 2003 - 23 Aug 2010
+15 Mar 2001 1,164,917 374.46 23 Dec 2003 15 Mar 2004 - 14 Mar 2011
+24 Sep 2001 224,389 317.66 23 Dec 2003 24 Sep 2004 - 23 Sep 2011
+24 Sep 2001 265,379 350.44 23 Dec 2003 19 Sep 2004 - 18 Sep 2011
+27 Feb 2002 212,278 418.27 23 Dec 2003 27 Feb 2005 - 26 Feb 2012
+22 Feb 2003 48,653 202.35 23 Dec 2003 22 Feb 2006 - 21 Feb 2013
+In addition to the options above, 375,115 options were outstanding in respect of the Company’s savings related share
+option scheme. 291,009 of these options have an excercise price of 175.0 pence (first excercisable in 2006) and 84,106
+have an excercise price of 239.0 pence (first excercisable in 2007). 2004 2003
+£’000 £’000
+Operating profit 20,312 20,950
+Exceptional costs charged to operating profit 7,911 -
+Operating profit before exceptional items 28,223 20,950
+Goodwill amortisation 11,310 4,650
+Depreciation of tangible fixed assets 1,994 592
+Difference between pension charge and cash contributions 77 -
+Increase in stocks (417) -
+Increase in debtors (17,815) (7,483)
+Increase in creditors 12,600 4,832
+Decrease in property provision (35) -
+Loss/(profit) on sale of fixed assets 1 (3)
+Net cash inflow from operating activities before cash outflow 
+from restructuring provision 35,938 23,538
+Net cash outflow from restructuring provision (319) -
+Net cash inflow from operating activities 35,619 23,538
+Group Share premium Merger Profit and loss
+account reserve account
+£’000 £’000 £’000
+At 1 May 2003 30,119 7,683 23,086
+Retained profit for the period - - 5,988
+Exchange differences - - (243)
+Premium on shares issued net of issue costs 6,553 356,182 -
+Actuarial loss recognised in the pension scheme - - (40)
+Movement on deferred tax relating to pension liability - - 67
+At 30 April 2004 36,672 363,865 28,858
+The profit and loss account includes £6,119,000 (2003: £nil), stated after deferred taxation of £2,622,000 (2003: £nil) in
+respect of pension scheme liabilities of the Torex Medical Systems defined benefit scheme (see note 22).
+Company Share premium Merger Profit and loss
+account reserve account
+£’000 £’000 £’000
+At 1 May 2003 30,119 7,683 4,935
+Retained profit for the period - - 2,537
+Premium on shares issued net of issue costs 6,553 356,182 -
+At 30 April 2004 36,672 363,865 7,472
+The Company has taken advantage of the relief afforded under section 133 of the Companies Act 1985 in respect of the
+merger and consequent acquisition accounting of Torex PLC. Accordingly, the premium on issue of the shares for the
+merger of Torex PLC has been credited to the merger reserve in both the Company and the Group.
+Notes to the financial statements
+67
+FINANCIAL STATEMENTS
+page sixty seven
+24
+Reserves
+25
+Reconciliation
+of operating
+profit to net
+operating
+cash flows FINANCIAL STATEMENTS
+page sixty eight
+68
+Notes to the financial statements
+26
+Analysis of
+change in net
+(debt)/funds
+27
+Reconciliation
+of net cash flow
+to movement in
+net (debt)/funds
+At 1 May Cash flow Acquisition Non cash Exchange At 30 April
+2003 (excl. cash movements movement 2004
+and overdrafts)
+£’000 £’000 £’000 £’000 £’000 £’000
+Cash at bank and in hand 45,451 29,484 - - 99 75,034
+Bank loans (48,070) 46,573 (68,405) (143) - (70,045)
+Finance leases (256) 341 (1,270) (37) - (1,222)
+Borrowings (48,326) 46,914 (69,675) (180) - (71,267)
+Net (debt)/funds (2,875) 76,398 (69,675) (180) 99 3,767
+The cash outflow from bank loans includes £608,000 of debt issue costs paid in the year.
+2004 2003
+£’000 £’000
+Increase in cash 29,484 21,238
+Cash outflow/(inflow) from decrease/(increase) in debt 46,914 (28,205)
+Decrease/(increase) in net (debt)/funds from cash flows 76,398 (6,967)
+Debt acquired with Torex PLC (69,675) -
+New finance leases incepting in the period (37) (42)
+Exchange movement 99 500
+Amortisation of loan arrangement fees (143) (51)
+Decrease/(increase) in net (debt)/funds in the period 6,642 (6,560)
+Net (debt)/funds at 1 May 2003 and 1 May 2002 (2,875) 3,685
+Net funds/(debt) at 30 April 2004 and 30 April 2003 3,767 (2,875) At 30 April 2004, the Group has lease agreements in respect of properties, vehicles, plant and equipment for which
+payments extend over a number of years.
+2004 2003
+Property Vehicles, plant Property Vehicles, plant
+and equipment and equipment
+£’000 £’000 £’000 £’000 
+Annual commitments under 
+non-cancellable operating leases expiring:
+Within one year 478 441 214 150
+Within two to five years 1,469 2,246 326 260
+After five years 1,313 6 123 32
+3,260 2,693 663 442
+Notes to the financial statements
+69
+FINANCIAL STATEMENTS
+page sixty nine
+28
+Operating
+lease
+commitments
+At the year end neither the Group nor the Company had entered into any capital commitments. 29
+Capital
+commitments FIVE YEAR SUMMARY
+page seventy
+70
+Turnover
+2004
+£91.5m
+£149.3m
+2003
+£60.1m 2002
+£31.1m 2001
+£17.0m 2000
+Normalised operating profit*
+2004
+£25.6m
+£39.5m
+2003
+£16.4m 2002
+£7.6m 2001
+£3.5m 2000
+Normalised profit before tax
+*
+2004
+£23.5m
+£36.8m
+2003
+£15.4m 2002
+£7.2m 2001
+£3.1m 2000
+Underlying earnings per share
+*
+2004
+15.09p
+17.70p
+2003
+10.49p 2002
+4.77p 2001
+2.46p 2000
+Average monthly number of employees
+2004
+580
+1,338
+2003
+430 2002
+252 2001
+162 2000
+* stated before amortisation of goodwill and exceptional items 71
+FIVE YEAR SUMMARY
+page seventy one
+* stated before amortisation of goodwill and exceptional items
+#
+before cash outflow from restructuring provision
+Results 2004 2003 2002 2001 2000
+£m £m £m £m £m
+Turnover 149.3 91.5 60.1 31.1 17.0
+Normalised operating profit* 39.5 25.6 16.4 7.6 3.5
+Normalised profit before tax* 36.8 23.5 15.4 7.2 3.1
+Key Statistics
+Earnings per share 6.66p 11.17p 7.69p 3.07p 1.95p
+Diluted earnings per share 6.57p 11.08p 7.61p 3.06p 1.95p
+Underlying earnings per share* 17.70p 15.09p 10.49p 4.77p 2.46p
+Net funds/(debt) 3.8 (2.9) 3.7 (13.5) (3.6)
+Gearing - 3.9% - 48.5% 37.2%
+Net cash flow from operating activities
+#
+35.9 23.5 16.9 8.3 (1.2)
+Average monthly number of employees 1,338 580 430 252 162 COMPANY INFORMATION
+page seventy two
+72
+BOARD OF DIRECTORS
+Patrick Cryne
+Executive Chairman
+Tim Whiston
+Chief Executive Officer
+John Whelan
+Group Finance Director
+Steve Graham
+Group Commercial Director
+Mark Woodbridge
+Business Development Director
+NON-EXECUTIVE DIRECTORS
+Digby Jones
+Senior non-executive director
+Eurfyl ap Gwilym
+Geoff White
+Rene Kern
+Dr Colin Wall
+David Thorpe
+COMPANY SECRETARY
+Tim Whiston 
+FINANCIAL ADVISORS &
+STOCKBROKERS
+Hoare Govett Limited
+250 Bishopsgate
+London EC2M 4AA
+AUDITORS
+RSM Robson Rhodes LLP
+Colwyn Chambers
+19 York Street
+Manchester M2 3BA
+SOLICITORS
+Ashurst
+Broadwalk House 
+5 Appold Street 
+London EC2A 2HA
+REGISTERED & HEAD OFFICE
+iSOFT Group plc 
+Bridgewater House
+58–60 Whitworth Street
+Manchester M1 6LT 
+REMUNERATION ADVISORS
+New Bridge Street Consultants LLP
+20 Little Britain 
+London EC1A 7DH
+BANKERS
+Lloyds TSB Bank plc
+25 Gresham Street
+London EC2V 7HN
+Royal Bank of Scotland plc
+135 Bishopsgate
+London EC2M 3UR
+Barclays Bank plc
+5 The North Colonnade
+Canary Wharf
+London E14 4BB
+HSBC Bank plc
+8 Canada Square
+London E14 5HQ
+PUBLIC RELATIONS
+Financial Dynamics
+Holborn Gate
+26 Southampton Buildings
+London WC2A 1TB 
+REGISTRARS
+Lloyds TSB Registrars
+The Causeway Worthing
+West Sussex BN99 6DA 
+REGISTERED NUMBER
+3716736
+WEBSITE
+www.isoftplc.com 73
+NOTABLE DATES
+page seventy three
+2004
+APRIL
+MAY
+JUNE
+JULY
+AUGUST
+SEPTEMBER
+OCTOBER
+NOVEMBER
+DECEMBER
+2005
+JANUARY
+FEBRUARY
+MARCH
+APRIL
+FINANCIAL YEAR END
+PRELIMINARY RESULTS ANNOUNCED
+ANNUAL GENERAL MEETING
+FINAL DIVIDEND PAYMENT
+FINANCIAL HALF YEAR
+INTERIM RESULTS ANNOUNCED
+INTERIM DIVIDEND PAYMENT
+FINANCIAL YEAR END   BRIDGEWATER HOUSE  58-60 WHITWORTH STREET  MANCHESTER  ENGLAND  M1 6LT T +44 (0) 161 935 8800  F +44 (0) 161 233 8899
+www.isoftplc.com
+iSOFT GROUP PLC 2004 ANNUAL REPORT AND ACCOUNTS
+FOR THE TWELVE MONTH PERIOD ENDED 30 APRIL 2004

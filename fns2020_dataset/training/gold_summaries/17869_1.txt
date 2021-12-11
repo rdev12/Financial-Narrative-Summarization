@@ -1,0 +1,222 @@
+ ATTRAQT Group PLC 
+ 
+14 
+ 
+CEO’s Statement  
+ 
+Introduction 
+ 
+We are very pleased with the strong operational and financial progress achieved by ATTRAQT during 2015. We 
+have grown our customer base significantly, adding important marquee names to our client register and further 
+building the volume of recurring revenue, which has also driven an improvement in gross margin. Our productive 
+capacity has also improved and we now have 154 live sites, with a strong pipeline in place for 2016. Success in 
+sales and production has contributed to the growth in revenue, which we expect to see continue in 2016. 
+ 
+We have continued to invest in and upgrade the Platform during the year and have an exciting development 
+programme for 2016. In addition, we have continued to develop a number of important technology partnerships 
+including with YUDU Media, signing the first joint client in the period, to extend the functionality of the Platform and 
+to expand the use of our technology into new market segments. 
+ 
+Business model 
+ 
+The Group’s business model is based on a recurring monthly service fee plus a one-off set-up fee and additional 
+follow-on project fees. Clients sign up for a minimum of 12 months, with some larger clients signing up for a longer 
+period of 2-3 years. 
+ 
+The current sales model is based on direct sales via a dedicated sales team. Due to the importance of the 
+functionality provided by the Platform to our clients, client loyalty is strong with churn rates below 10% of revenue 
+per annum, with most clients automatically renewing at the end of the contractual term.  
+ 
+Growth strategy 
+ 
+The Group’s objective is to become the visual merchandising platform of choice for online retailers in Europe and 
+North America and in a more global capacity in the long term. 
+ 
+Our recent fundraising, as announced on 12 and 30 November 2015, has enabled us to continue to build on our 
+business plan, which is founded on five key elements: 
+ 
+1) Invest in sales and marketing to grow client base and volume of recurring revenue; 
+2) Expand the company’s productive capacity to keep pace with accelerating sales; 
+3) Develop strategic partnerships – both sales and technology – to accelerate sales growth and extend our product 
+offering; 
+4) Extend the capabilities of the platform through continued investment in research and development, adding new 
+features and creating new products to initiate new revenue streams; and  
+5) Identify new markets and innovative ways to repurpose our technology. 
+ 
+Review of Sales & Operations 
+ 
+The Group has grown the client-base in the year, adding 31 new clients in the UK and North America (2014: 36), 
+worth £0.95m in recurring revenue on an annualised basis. These include marquee names such as Ben Sherman 
+in Canada; Bonmarché, Brown Thomas, ESPA, Present Finder, Pretty Little Thing, World Duty Free and Buck and 
+Hickman in the UK and Bizou, Echo Design, and TUMI in the US. Further additions include La Perla and Screwfix 
+in Europe, bringing the Group’s total number of clients to 110 by the end of December 2015 (2014: 87). 
+  ATTRAQT Group PLC 
+ 
+15 
+ 
+The average value of new client contracts signed in 2015 has increased by 24% to £31k per annum reflecting the 
+return on investment we can demonstrate for our products, the growing maturity of the sales team and the sales 
+process as well as the increasing size of our typical customer. 
+ 
+The ongoing investment in our productive capacity has enabled us to deliver 63 new client sites during the year, 
+nearly double the previous year’s total (2014: 35), bringing the total number of live sites to 154 by year end. The 
+Group also started 11 new site builds before the end of 2015, which are scheduled for delivery during 2016.  
+ 
+In 2015, we delivered a significant number of client renewal upgrades with 18 clients increasing their monthly fee 
+increments and/or site upgrades (2014: 3). These upgrades, from clients such as Laura Ashley, TK Maxx and White 
+Stuff, are worth an annualised £0.44m. We have also continued to undertake project work for our clients such as 
+Responsive Web Design (‘RWD’) projects and search auto-complete projects. 
+ 
+Interesting client implementations during the year included the following: 
+ 
+ Brown Thomas and John Greed both added marketing content, in addition to the usual product displays, 
+to their category page merchandising. This allowed them to promote particular products or promotions on 
+the page. The products appear to mould themselves around the content, making the pages look far more 
+sophisticated.  
+ 
+ The Tate – Print Finder: Prints are one of the best sellers for The Tate. The company built a print finder 
+function on their site which uses ATTRAQT filters to return the correct products to fit the users selected 
+criteria The solution enabled them to implement a ‘wizard’, allowing their customer to choose specific filters 
+to get them to the prints they liked quickly, therefore improving customer experience and conversion rates. 
+ 
+ Wilko, The Tate, Bonmarché and Ben Sherman have added product recommendations to their 
+homepages to reduce the number of clicks it takes customers to view products. This strategy utilises the 
+real estate on the home page, which can often be overlooked by many customers, giving the retailer an 
+opportunity to showcase the brand and products that get the highest conversion or to promote new 
+products/sale products. 
+ 
+North American Expansion progressing 
+ 
+ATTRAQT has continued to focus on its North American expansion plans following the relocation of the North 
+American HQ to Chicago in November 2014. During 2015, the Company successfully added 8 new clients in North 
+America; Ben Sherman, Bikini Village, Bizou, Echo Design, La Vie en Rose, Souris Mini, TUMI, and Vix Swimwear 
+bringing the total number of clients in this region to 17. 
+ 
+With the aid of proceeds from the fundraise ATTRAQT intends to bolster the North American team in 2016, adding 
+additional sales people, account managers, project managers and client services people. ATTRAQT has recently 
+hired a senior account manager which will enable the transfer of account management from the UK team to North 
+America, freeing up additional capacity in the UK.  
+ 
+Platform enhancements and Product development 
+ 
+During 2015, ATTRAQT deployed five upgrades to the Platform, focused on performance improvements, 
+enhancements to personalisation technology, improvements to manual merchandising and additional reporting 
+functionalities; further increasing its competitive strength.  
+ 
+These new core platform releases included the new Hypercaching performance technology developed by the 
+company which speeds up both search and category pages by getting the product information from a cache layer 
+rather than having to retrieve it directly from the database or search index. Other code releases included “Smart 
+collections” which allow clients to automatically add and remove products from manually created collections. In 
+addition to this, ATTRAQT has made the first batch of changes to upgrade the platform infrastructure to improve 
+platform resiliency and disaster recovery.   ATTRAQT Group PLC 
+ 
+16 
+ 
+ 
+Functionality within the ATTRAQT Control Panel was also added to make merchandising simpler for clients with 
+very large product sets and/or lots of international sites. ATTRAQT also released a new feature that will allow data 
+from any third party provider to be used as input into ATTRAQT merchandising strategies without the need to 
+integrate clients of 3rd parties.  
+ 
+ATTRAQT also continues to invest in and develop ATTRAQTMail™, which allows retailers to merchandise to 
+customers through their current email marketing systems. 
+  
+Strategic Partnerships 
+ 
+In August 2015, ATTRAQT announced its first technology partnership with mobile digital catalogue app developer 
+YUDU Media to develop ‘Live Catalog’, a joint service offering using ATTRAQT’s visual merchandising platform 
+and YUDU’s digital catalogue technology. ‘Live Catalog’ enables retailers to add real-time visual merchandising 
+techniques, such as personalised promotions and special offers, and other rapidly-changing content to their digital 
+catalogues. In November 2015, the Company announced it had signed Screwfix Germany as the first joint client of 
+‘Live Catalog’.  
+ 
+The Board believes partnerships present a valuable opportunity for ATTRAQT to engage with its clients on 
+additional features, with the potential to create new revenue streams.  
+ 
+Supportive Market Developments 
+ 
+Online retail continues to be a very competitive and dynamic industry where retailers are continuously challenged 
+to respond to a clear, and growing, interaction between online and offline retailing. The Board believes the Platform 
+is well positioned to help retailers respond to this challenge, ensuring consistency of merchandising across 
+channels and countries.  
+ 
+The growth of ecommerce and investment in mobile continued during the year as retailers worked to enhance their 
+capabilities in RWD, web app and mobile apps to capitalise on the trend for increasing use of mobile and tablet 
+devices. According to reports by IMRG, visits to ecommerce sites via smartphone and tablet devices accounted for 
+45% of all ecommerce traffic in the UK (IMRG, Feb 2015). UK Consumers are estimated to spend £53.6bn a year 
+by 2024 using their smartphones and tablets, highlighting the importance for retailers to invest in their mobile 
+strategy. ATTRAQT is well positioned to benefit from this trend as the Platform is device and platform agnostic, 
+enabling it to support retailers regardless of their channels to market.  
+ 
+Retailers continue to move away from the automated ‘black-box’ method of providing product recommendations 
+towards a more nuanced approach that allows the retailer interaction with the recommendations being made, in 
+particular to extend their visual merchandising strategies into those recommendations. This is a trend that plays to 
+the core strength of the Platform and has continued throughout 2015. Internationalisation also remained a focus in 
+2015, with clients including Superdry and TUMI rolling out 21 and 18 international sites respectively. 
+We will continue to monitor market trends and enhance the Platform to ensure it meets customers’ needs. 
+Financial Review 
+Total revenue increased by 40% to £2.91m (2014: £2.09m), exceeding Group expectations of £2.8m, as new 
+customers were added and more existing customers commissioned additional sites. The recurring monthly revenue 
+rose 38% from £1.92m to £2.65m, now representing 91% of total Group revenue, up 1% from 90% in 2014. The 
+Exit Rate (year-end annualised billing) for 2015 was up 29% to £3.1m.  
+ 
+The Group recorded losses before tax and at the EBITDA level, both of which were in line with management 
+expectations. Losses before tax were reduced to £0.73m (2014: £1.53m) and adjusted EBITDA losses for the year 
+were significantly reduced by 73% to £0.2m (2014: £0.74m); on a monthly basis reaching a position of EBITDA 
+breakeven in late FY 2015. In FY 2016, the investment of the proceeds of the fundraising in expanding sales, 
+marketing and production (detailed further in the section below) are expected to lead to EBITDA losses increasing 
+in the short-term, reflecting investment in the Group’s operational expansion; however the rate of growth is 
+expected to accelerate as a result, with a return to EBITDA profitability in the mid-term. 
+ 
+  ATTRAQT Group PLC 
+ 
+17 
+ 
+ 
+ATTRAQT continues to invest in technical enhancements to the existing product offerings and in new products. 
+Some of this cost is capitalised and some is absorbed as part of the operating costs of the business.  
+ 
+Funding 
+Since its admission to AIM, ATTRAQT has continued to deliver strong operational and financial progress, signing 
+important new clients across regions and continuing to invest in organic growth by developing performance 
+improvements and new features. In order to continue to deliver on the exciting potential of the Group and its target 
+markets, ATTRAQT successfully raised approximately £3.3 million (before expenses) by way of a placing. This will 
+enable the Group to develop its sales teams in the UK and in North America, with additional investment required 
+to expand the required production capacity to support its potential growth prospects and increase the functionality 
+of the core platform.  
+ 
+As part of the fundraising, ATTRAQT also welcomed Nick Habgood, Managing Partner of Azini Capital Partners 
+LLP, to its Board as Non-executive Director as of 30 November 2015.  
+ 
+Outlook 
+ 
+We are very pleased with the strong progress we have made in 2015. We are continuing to gain traction with 
+leading retailers both in the UK, Europe and North America, and with a strong financial platform, we look forward 
+to 2016 with confidence.   
+ 
+ There is real momentum in the sales process and production pipeline and with our year-end annualised 
+billings up 29% we see this continuing into 2016. 
+ 
+ The Platform continues to perform well, with further enhancements delivered in 2015 and an exciting 
+development roadmap for 2016, including improvements to the Platform to streamline production, a full 
+reporting and recommendations upgrade and further improvements to personalisation. 
+ 
+ We have further invested in our productive capacity, driving efficiencies and working closely with our clients 
+to drive improvements, increasing client reliance and usage of the Platform. 
+ 
+ We have maintained our high margin and low revenue churn. 
+ 
+ The successful fundraising has provided us with the financial means to accelerate our growth in the UK, 
+Europe and North America, by investing further in sales, account management, production and core platform 
+development.  
+ 
+With a strong pipeline of new business opportunities, our much increased exit rates and an increasingly 
+sophisticated merchandising platform, we are confident in the ongoing success of ATTRAQT and in the outlook for 
+2016 and beyond. 
+ 
+André Brown 
+Chief Executive Officer  
+8 March 2016 
+ 
+ 
+ 

@@ -1,0 +1,171 @@
+ Strategic Report  |  Governance  |  Financial Statements
+12
+CHIEF EXECUTIVE’S REVIEW
+Overview
+In 2015, the Group built upon the inflexion point reached  
+in 2014, with (‘ARR’) for StatPro Revolution reaching  
+£7.8 million, up from £5.4 million (in constant currency)  
+and was 27% of total Group ARR (2014: 18%). 
+With the addition of Investor Analytics (‘IA’) in January 2016, 
+StatPro’s cloud services amount to £11.1 million and represent 
+34% of ARR on a pro forma basis. 
+Importantly, key measures of StatPro Revolution
+performance were very strong in 2015. ARR increased by 
+46% (2014: 68%), the order book grew by 57% (2014: 70%) 
+and the average revenue per client grew 67% (2014: 37%). 
+One of the key metrics used by SaaS businesses is to 
+estimate the costs of acquiring each customer (Cost of 
+Acquiring Customers or ‘CAC’) and compare that with the 
+Lifetime Value of the customer contracts (Lifetime Value  
+or ‘LTV’). StatPro’s LTV/CAC ratio rose to 16.1 (2014: 11.3).
+StatPro revenues were £30.19 million in 2015 (2014: £32.02 
+million). As expected, professional services revenue was 
+lower in 2015 at £1.64 million (2014: £2.76 million) reflecting 
+the lower cost of implementing StatPro Revolution for its 
+clients. Whilst revenue from services was lower, the Group 
+generated more sales of recurring revenue. 
+During 2015, sterling’s strength reduced Group revenues by 
+about 5% versus 2014, which impacted the Group’s profit. 
+Following the acquisition of IA, about 18% of the Group’s ARR 
+is sterling-based and about 36% is US dollar-based, on a  
+pro forma basis.
+The Board is recommending that the full year dividend is 
+maintained at 2.9p per share (2014: 2.9p).
+Justin Wheatley
+Group Chief Executive
+Strategy 
+Having positioned StatPro early as a true cloud-based 
+service, the Group has developed a significant commercial 
+advantage in its market. It is not possible to repurpose 
+traditional software as a multi-tenant software service nor  
+is it easy to build the vast range of functionality from scratch 
+to meet the needs of the increasingly demanding asset 
+management industry. 
+The Group’s collective knowledge across many markets in 
+multiple analytics disciplines has helped build a very broad 
+range of highly sophisticated analytics, designed to suit 
+the needs of all types of asset managers across all the 
+major markets. 
+Over the last 20 years, the requirements of the asset 
+management industry have expanded hugely, significantly 
+increasing the cost of doing business whilst at the same time 
+increased competition has applied pressure on fee income. 
+This combination of anticipating the market dynamics and 
+positioning the Group’s products to offer the most 
+productive and efficient services to its clients has always 
+been the focus. In common with many rapidly maturing 
+markets, the cost of entering the performance and risk 
+analytics market is growing. StatPro believes that it has a 
+sustainable technology lead in its market and is benefiting 
+from its early investment, which has helped provide 
+enhanced functionality for its clients.
+As part of the Group’s strategy, StatPro also anticipates that 
+it will make further acquisitions. Having created StatPro 
+Revolution as the upgrade for StatPro Seven, StatPro 
+Revolution could also be the upgrade for a number of other 
+products in the market. The investment cost of moving to the 
+next generation of technology is now so high that it makes 
+more sense for some companies to sell their valuable client 
+base rather than take the development and investment risk.
+The Group has developed a 
+significant commercial advantage  
+in its market. 13
+The unique capabilities of StatPro Revolution Performance 
+are its unprecedented scalability and speed as well as
+the rich data management facilities. 
+www.statpro.com
+Current trading and outlook
+The Group’s forward order book is now £36.6 million, of which 
+£14.7 million is from StatPro Revolution. Trading in 2016 has 
+started well and the Group expects another year of good 
+growth in sales of StatPro Revolution. 
+With the forthcoming release of StatPro Revolution 
+Performance, StatPro will continue the process of moving its 
+many clients of StatPro Seven onto StatPro Revolution. 
+As the Group moves closer towards becoming a business 
+with the majority of its revenues derived from the cloud, 
+StatPro anticipates that its operating margins and cash 
+generation will improve.
+Operational review
+StatPro Revolution is sold on a per portfolio basis with four 
+service levels (Platinum, Gold, Silver and Bronze). Upsells of 
+additional portfolios or higher service levels require little or 
+no implementation, demonstrate that the client is happy with 
+the service and improve the marginal profitability of each 
+client. Upsells to existing StatPro Revolution clients 
+represented 44% of new StatPro Revolution sales. 
+In 2015, the Group migrated all the functionality of the 
+StatPro Seven Risk Management Module (‘SRM’) to StatPro 
+Revolution to create the Advanced Risk Management module 
+(‘ARM’) and added some significant new functionality not 
+available in SRM. As a result, the Group anticipates moving 
+most of its SRM clients to StatPro Revolution during the 
+course of 2016. 
+The acquisition of IA will enhance this move as the Group 
+expects that many of its existing clients will see the 
+combination of IA and ARM as one of the most complete  
+risk services available in the market.
+During 2016, StatPro will release StatPro Revolution 
+Performance. This is the core module that manages 
+transaction-based performance and enables the complete 
+conversion of all its StatPro Seven clients to StatPro 
+Revolution. The unique capabilities of StatPro Revolution 
+Performance are its unprecedented scalability and speed  
+as well as the rich data management facilities. 
+The release of StatPro Revolution Performance will mark  
+the end of an eight-year investment process to redevelop  
+all the Group’s performance and risk capabilities in the new 
+technology of the cloud. As a result, whilst there will always 
+be a need to innovate, StatPro anticipates that its 
+development costs as a percentage of revenues will begin  
+to reduce over time.
+Development in 2015 was focused on delivering the 
+Advanced Risk Management module to enable the 
+conversion of its SRM clients to StatPro Revolution. The 
+Group also added significant functionality to its Compliance 
+module for AIFMD and UCITS IV. StatPro will add IA to this risk 
+platform during 2016 and in the process create one of the 
+most complete and cost effective risk solutions available 
+today in the market. This will make risk one of StatPro’s key 
+sales themes for 2016.
+In addition, StatPro has also been working on the high 
+performance Hadoop
+®
+ platform for StatPro Revolution. This 
+new platform will enable the Group to calculate performance 
+and risk for the largest of portfolios in much the same time 
+as StatPro does for smaller portfolios thanks to parallel 
+processing using the ‘map-reduce’ process. This new 
+calculation platform will be the basis of the benchmark 
+management and fixed income attribution modules. StatPro 
+expects to see significant improvement in calculation times 
+as a result.
+StatPro Revolution Performance remains on track to be 
+released to clients in the second half of the year. The Group has 
+a number of clients that are working with it integrating their data 
+to test the system. These tests are going well and the Group 
+expects to be engaged in a number of projects to implement 
+StatPro Revolution Performance as soon as it is released.
+Justin Wheatley
+Group Chief Executive
+11 March 2016 Strategic Report  |  Governance  |  Financial Statements
+14
+STRATEGY IN ACTION
+Broadening the 
+functional and 
+technical capabilities 
+of the StatPro 
+Revolution platform
+ 
+ADVANCED RISK MANAGEMENT
+We made risk management a key focus of new functionality 
+in 2015. We added over 140 new risk measures, introduced 
+new relative and risk attribution analysis, and released  
+a new risk simulation framework and on-demand stress 
+testing. We also added support for the new Australian 
+APRA standard risk measure, being the first vendor to  
+offer a turn-key solution for this new regulation.
+ 
+2015 MILESTONE
+• We delivered the advanced risk management 
+roadmap to all clients 15

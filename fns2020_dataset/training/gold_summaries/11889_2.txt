@@ -1,0 +1,143 @@
+ Highlights
+PROFIt/(LOSS)  
+BEFORE t Ax (£ M)
+Financial Highlights 
+Revenue up 11% to £17 million (2006 – £15.3 million) 
+Operating profit as a percentage of sales up to 12.3%  
+(2006 – 10.3%)
+Adjusted Pre-t ax Profit up 43% to £3 million (2006 –  
+£2.1 million)*
+Proposed full year dividend of 0.33p (2006 – 0.30p)  ‘03 ‘04 ‘05 ‘06 ‘07
+3000
+2000
+1000
+0
+-1000
+-2000
+-3000
+* profit before tax after adjusting for share option costs, marking to market of  
+ derivatives used to hedge cash flows and amortisation of intangibles other than  
+ internally developed software.
+Operational Highlights
+375 Pro-Mark screens deployed (2006 – 129) 
+Significant customer wins: 
+R J O’Brien & Associates – one of the largest independent  »
+futures brokerages in the US
+The Macquarie Group – the international provider of banking,  »
+financial, advisory and investment services (first adopter of 
+Global t rading)
+Pro-Mark version 4.0 launched with functionality specifically  
+designed for energy traders
+1 Patsystems    |    Annual Report 2007 Patsystems    |    Annual Report 2007
+Business Profile
+02
+Patsystems: our business 
+Patsystems’ long-standing reputation has been established through both 
+outstanding customer partnerships and proven technology. Patsystems was 
+established in 1994 as one of the original independent software vendors 
+(ISVs) to develop electronic trading solutions. t oday, we are one of the world’s 
+leading software providers for professional, technical and retail traders. 
+Patsystems sets the standard for technology solution partnerships within 
+the exchange-traded derivatives sector. With our extensive global market 
+connectivity, exceptional customer support, scalable trading solutions and 
+market leading risk technology, we continue to set a benchmark for other ISVs 
+to attain. 
+build it your way 
+We offer solutions at every step in the trading cycle. Our experienced 
+development team delivers excellence in both performance and innovation: 
+A choice of three market leading front-end trading screens provide  
+flexible functionality to cater for all traders’ needs: whether professional, 
+technical or retail. 
+A proven core system provides high speed order routing and straight  
+through processing. 
+Sophisticated pre- and post-trade risk management, across multiple assets  
+in real-time. Our post-trade risk solutions are selected by global financial 
+institutions looking for a highly-capable, reliable and efficient solution, 
+and our pre-trade risk solutions have been adopted by the major futures 
+clearing merchants. 
+Our exchange-matching engine has been adopted by six exchanges  
+worldwide and is fully integrated to our trading and risk solutions.
+Patsystems complements this superior risk and trading technology by providing 
+extensive access to global liquidity. This access spans across multiple asset 
+classes and exchanges in over 20 countries. 
+At Patsystems, our customers’ needs are at the core of our business success and 
+future growth.
+We have moved quickly to benefit from the growth in derivatives 
+trading. Global exchange numbers vs. global traded volume show that 
+exchange volumes are growing rapidly.
+tO t AL NUMBER OF  
+FUt URES CONt RACt S  
+t RADED GLOBALLy (M IL.)
+3,600
+3,100
+4,200
+5,800
+‘03 ‘04 ‘05 ‘06
+PAt Sy St EMS Ex CHANGE 
+CONNECt IVIty
+30
+24
+36
+49
+‘07 ‘06 ‘05 ‘04 Patsystems    |    Annual Report 2007
+Case studies: Newedge takes Risk iN fo Rme R 
+Newedge is a global brokerage and clearing firm providing institutional clients 
+with efficient access to financial and commodity markets around the world. With 
+memberships on the major worldwide futures and options exchanges, it consistently 
+ranks among the largest in customer volume.
+By implementing Patsystems’ Risk Informer, Newedge has introduced real time post-
+trade risk management, giving it the capability to take on additional clients with a range 
+of risk profiles and complex trading styles.
+the Challenge
+Newedge was using a number of ISV-specific pre-trade risk management applications 
+to monitor its clients’ trading activity. This approach had several major limitations: 
+first, it offered no way to risk manage clients with direct market access; second, it 
+often meant maintaining multiple pre-trade risk filters for a single client; third, setting 
+position limits for options traders was a labour intensive task and yielded a flawed 
+picture of their true risk profile. 
+the s olution
+Newedge identified the need for a more intelligent, across the board, margin 
+calculation. A review of available systems was conducted, in which Risk Informer was 
+evaluated alongside offerings from established back-office vendors. Risk Informer was 
+selected on the basis that it was more capable, more flexible and simpler to deploy 
+than the competition. 
+While other systems use batch processing, in some cases assessing data only once 
+every fifteen minutes, Risk Informer’s event-driven architecture triggers a new margin 
+calculation after every trade. “We needed a system capable of monitoring high volume, 
+high velocity traders, ” said Leslie Sutphen, Newedge’s Global Head of eSolutions. 
+“When you consider how many trades an algorithmic black box can generate in 
+fifteen minutes, it is clear that a batch processing system would provide inadequate 
+protection, potentially triggering alerts only after it was too late to act. With Risk 
+Informer’s real time monitoring we can step in the moment a limit is breached. ”
+Newedge signed the deal with Patsystems in March 2006, and by August client 
+simulations were running for trades on numerous global exchanges, and the system has 
+been in full production mode since January 2007. Coverage has since been expanded 
+to include Asian exchanges.
+“Patsystems worked hard to deliver a smooth and timely installation and ensure all 
+of our objectives were met, ” said Sutphen. “On-going production support from their 
+highly responsive team has also been excellent. ” Impressed with the flexibility of Risk 
+Informer and its ability to handle multiple asset classes, Newedge has also selected the 
+system for its foreign exchange business.
+business benefits
+With the Risk Informer installation in Chicago, Newedge now has the capability to risk 
+manage its clients worldwide on a real time, post-trade basis. As well as effecting a 
+major improvement in the risk management of existing business, this has enabled the 
+firm to expand by offering clearing services to a wider range of clients.
+“Risk Informer has given us the scalability to continue growing our business, ” 
+commented Sutphen. “The system is currently being used to risk manage ten major 
+clients with combined daily margins of well over $200m, and we’re signing up new 
+clients all the time. By enabling us to monitor much more effectively DMA traders and 
+options traders, Risk Informer gives us the opportunity to fully service clients that, 
+because of high volume electronic trading, are essentially a new class of risk profile. ”
+t RadiN g solutioN s t rader’s tools and front-ends
+Pro-Mark
+J-t rader
+IQ-t rader
+t rading a Pi
+Patsystems API
+FIx t rading Gateway
+Risk solutio Ns Risk Informer
+Risk Monitor
+e x ChaN ge solutio Ns Exchange Solutions
+Patsystems Matching Engine
+Clearing System

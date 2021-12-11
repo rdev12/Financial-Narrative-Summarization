@@ -1,0 +1,2444 @@
+ Filtronic plc Annual Report 2011
+Filtronic plc
+Annual Report
+2011
+Inspired Wireless Solutions Contents
+Filtronic plc Annual Report 2011
+1 Financial Highlights
+2 Chairman’s Statement
+4 Business Review – Chief Executive Ofﬁcer’s Operating Review
+6 Business Review – Financial Review
+7 Business Review – Directors’ Assessment of Risk
+9 Directors
+10 Directors’ Report
+14 Corporate Governance Statement
+18 Remuneration Report
+23 Statement of Directors’ Responsibilities
+24 Independent Auditor’s Report
+26 Consolidated Income Statement
+27 Consolidated Statement of Comprehensive Income
+28 Consolidated Balance Sheet
+29 Consolidated Statement of Changes in Equity
+29 Company Statement of Changes in Equity
+30 Consolidated Cash Flow Statement
+31 Company Balance Sheet
+32 Company Cash Flow Statement
+33 Notes to the Financial Statements
+65 Shareholder Information
+66 Corporate Directory Financial Highlights
+Continuing
+operations
+2011 2010
+Revenue £15.5m £15.6m
+Operating loss before amortisation and exceptional items £(5.3)m £(0.3)m
+Operating loss £(7.1)m £(1.1)m
+Loss before taxation £(7.0)m £(1.0)m
+Basic and diluted loss per share (7.19)p (1.37)p
+Group
+2011 2010
+Loss for the period from continuing operations £(6.7)m £(1.0)m
+Loss for the period from discontinued operations £(0.3)m –
+Loss for the period £(7.0)m £(1.0)m
+Basic and diluted loss per share (7.48)p (1.37)p
+Final dividend per share – 1.00p
+Cash £4.1m £16.2m
+Total equity £18.8m £19.9m
+Filtronic plc Annual Report 2011 1 Chairman’s Statement
+The year ended 31 May 2011 produced revenue of £15.5m and an operating loss before exceptional items and the
+amortisationofintangiblesof£5.3m,comparedwiththeprioryearrevenueof£15.6manda£0.3moperatinglossbefore
+exceptional items from continuing operations. Cash at the end of the year of £4.1m was down from last year’s £16.2m
+following the November 2010 acquisition of the Isotek group. A full breakdown of the year is shown in the financial
+statements, notes and narrative which follow.
+An annual dividend for 2009/10 of 1.00p (£0.7m) was paid to shareholders on 5 November 2010. In light of the higher
+operationallosses,theBoardhasdecidedtorecommendnoannualdividendinrespectofthefinancialyearjustended.
+In furtherance of our strategy to create a differentiated, high growth and higher margin wireless telecoms business,
+Isotek (Holdings) limited was acquired on 15 November 2010 for £4.2m cash plus £6.8m in Filtronic shares (18.55 million
+shares). The deal has delivered entry into the rapidly developing 3G/4G base station market sector by acquiring
+innovative intellectual property and a position on significant 3G/4G network upgrade programmes.
+The Group operations now include two separately reported trading business segments; Broadband which has been
+transitioned from the traditional Point to Point backhaul (PTP) business segment and the acquired Isotek wireless
+Basestation business.
+Broadband Business
+Broadband saw a 22% decline in its revenues to £12.1m (2010 £15.6m), slightly better than projected in the latest
+communication to shareholders in April 2011. The segment loss before exceptional items was £2.5m (2010 £0.7m profit)
+The second half performance was significantly impacted by a sharper than expected decline in sales of traditional
+products. The acquisition of a key customer (NERA) in January 2011 by Ceragon Networks resulted in a large reduction
+in its purchases of our short-haul radio products. There were, however, positive developments in Broadband strategy to
+broaden its addressable market with a new customer and product base, though the growth in sales revenue from these
+new activities did not fully compensate for the rapid reduction in Ceragon (NERA) sales. Cost reduction actions taken
+following the NERA acquisition at the start of 2011 with an annualised impact of £1.4m were delivering benefits by the
+financial year end.
+Basestation Business
+Inthe28weekperiodsinceitsacquisitioninmid-November2010,Isotekachievedsalesrevenuesof£3.4mandincurred
+a loss of £2.0m. The revenue was short of the revised projection made to shareholders in April 2011 of revenue for the
+period of around £4m, though this still represented a significant step increase in revenue from the previous 24 week
+period of £1.2m. With the business still reliant on a very small number of early stage programmes, a couple of deferrals
+by end-customers in the US on significant LTE/4G programmes have had a considerable short-term impact on results.
+Whilst the trading performance is disappointing, the group has continued to invest in engineering resource at Isotek to
+support these major programmes and to improve product margins on certain products for the forthcoming LTE/4G
+network rollouts, as well as expanding sales activity to address additional manifold opportunities for 3G and 4G mobile
+network upgrades.
+2 Filtronic plc Annual Report 2011 Chairman’s Statement
+Outlook
+Action has been taken to reduce costs in the Broadband business where an appropriate headcount reduction has been
+implemented.MeanwhiletheintegrationoftheIsotekandBroadbandbusinessesisbeingacceleratedacrossthegroup,
+and specialist Broadband resources are being redeployed to maximise mobile base station product opportunities. In
+parallel, the company is expanding its business development activity on new opportunities for its innovative filtering
+products as operational capacity is scaled up.
+The group has significantly increased its addressable market to circa $600m estimated for 2012, with channels into
+Broadband, aerospace manufacturing and the larger base station market. The addressable base station market for
+Isotek filtering products comprises both major network equipment OEMs and a wide range of operators.
+Explosive growth in mobile data is leading to a growing market for both new OEM 4G base station filters and operator
+network upgrade products to rapidly overlay new capacity onto existing infrastructure.
+This growth is particularly evidenced in the US market by a series of network upgrade programs launched by leading
+operators.
+The group is exploiting these opportunities with unique IP offering cost effective customised solutions with market
+leading spectrum efficiency and rapid time to market, enabling operators to maximise valuable assets.
+The outlook is expanded upon in further detail in the Operating review.
+Finally, I should like to thank all staff in the business for their contribution over the past year.
+Howard Ford
+Chairman
+2 August 2011
+Filtronic plc Annual Report 2011 3 Business Review
+– Chief Executive Officer’s
+Operating Review
+Summary
+Following the acquisition of Isotek in November 2010 the business comprised two trading segments during the second
+half of the financial year; Broadband and the new Basestation business. The group continues to execute its strategy to
+expanditsaddressablemarketthroughnewproductdevelopmentsandcustomers.Actionshavebeentakentostabilise
+the Broadband business and Basestation sales growth is backed by significant opportunities in the rapidly developing
+3G/4G base station market.
+Operations
+The Broadband business designs and manufactures customised microwave electronic sub assembly components that
+are integrated by OEM’s into radios. These radios provide the backhaul links for telecom networks, particularly the
+mobile base station market. Filtronic is a leading merchant supplier of transceivers and diplex filters to this market.
+The Basestation business develops and markets innovative filters and combiners, which enable operators to use their
+existing 2G infrastructure to also deliver 3G and 4G services simultaneously. Our products can bring significant cost
+savings as well as improving the use of available spectrum.
+Broadband first half revenue (£7.1m) was up on the second half of the prior year (£6.0m) but following the January 2011
+Ceragon acquisition of Nera there was a significant weakening of demand in the second half (revenue £5.0m). Whilst
+actions have been taken to reduce costs the benefits will not be derived until the next financial year, and an operating
+loss of £2.5m for the Broadband segment was reported for the year.
+Basestation sales grew from £1.2m in the pre-acquisition 24 weeks to £3.4m in the post acquisition 28 weeks. However
+margins were tight prior to the delivery of production cost improvements possible on volume products, and a loss of
+£2.0m was reported for the period.
+The group continues to invest in future product development, investing £3.5m in R&D during the year. This included
+continuingworksupportedbyaresearchgrantawardedbyYorkshireForwardwithsupportfromtheEuropeanRegional
+Development Fund to assist in the development of a new product to target the emerging market for 4G mobile
+broadband services. This and other major programs are scheduled for completion by the end of 2011, leading to
+reduced costs in the second half of the coming financial year.
+Operational cash outflows of £4.4m (primarily in the second half), were added to by acquisition related cash outflows of
+£5.8m, capex of £0.9m and dividends of £0.7m to explain the cash outflow of £12.1m in the year.
+Overall revenue for the year of £15.5m, was similar to last years £15.6m, with an operating loss before exceptional items
+and intangible amortisation of £5.3m compared with a £0.3m loss in 2010.
+Exceptional costs of £0.6m (2010 £0.8m) included acquisition related costs of £0.5m and redundancy costs incurred in
+the Broadband costs reduction program.
+Broadband Business
+There are more encouraging signs for the Broadband business at the start of FY2012. Though first half on first half
+comparisons will continue to be impacted by the Ceragon reductions and mature product phase-outs, there is now
+better forward visibility in both these areas, and activity has stabilised. The second half will start to benefit progressively
+from sales to the new customers of higher margin products as detailed below. The overall expectation is for FY2012
+Broadband sales of just above £10m with broadly balanced halves.
+As outlined in the statement to shareholders in April 2011, the growth in new programmes to a broader customer base
+will have an increasingly positive impact through FY2012. The business has secured initial production orders on Selex
+Galileo electronic radar programmes; production of the Multi-Chip Package semiconductor solutions for an OEM
+backhaul customer is ramping successfully; and initial customer orders for gigabit radio modules are being executed.
+4 Filtronic plc Annual Report 2011 Business Review
+– Chief Executive Officer’s
+Operating Review
+Meanwhile, the business has established a constructive working relationship with Ceragon that gives greater clarity
+about recovering levels of long-haul product demand over coming months. Actions to reduce costs earlier in 2011,
+combined with ongoing fixed cost reductions should result in an annualised benefit of some £2m by the second half of
+FY2012.
+Basestation Business
+There are indications that volume shipments should resume later this calendar year for the projects delayed in the final
+quarter, as these programmes are required to enable the relevant US carriers to address well documented capacity
+constraints.
+There are encouraging signs deriving from the expansion of business development activity, particularly in the USA,
+where our US subsidiary Isotek Inc is now participating in a number of OEM programmes involving network operators
+AT&T,VerizonandmostrecentlySprint,whoareengagedinaddingLTE/4Goverlaytomeettheeverincreasingdemand
+for mobile data capacity. Although these programmes are as yet in early stage regional roll-out, OEM funding of our
+productionforanumberoftheseprogrammesunderpinsourvolumeproductionexpectationsforthenext6-12months.
+Additionally, the sales initiative to address the US operator market has also begun to bear fruit, with demonstrations of
+filter or combiner products being planned with a total of five operators to address immediate capacity constraints.
+Asexpected,thedevelopmentoftheLTE/4GmarketinEuroperemainsbehindthatoftheUSAduetoregulatorylicence
+timing. However, volume shipments of filter products to a major operator commenced in May, and will form the
+backbone of Isotek’s European revenues in the first half of FY2012.
+The challenge for Isotek during FY2012 is to convert the sharply increased level of customer enquiries for product
+sampling into a number of volume programmes. The business continues to budget for a significant step up in Isotek
+revenues to circa £15m for the year based on the increased customer activity together with current program insertions,
+though as previously stressed the revenues will be weighted towards the second half.
+Employees
+At 31 May 2011, the group employed 159 people (2010 139) including 51 in the Basestation business.
+Hemant Mardia
+Chief Executive Officer
+2 August 2011
+Filtronic plc Annual Report 2011 5 6 Filtronic plc Annual Report 2011
+Business Review
+– Financial Review
+Results
+The year ended 31 May 2011 generated revenue of £15.5m (2010 £15.6m), resulting in an operating loss before
+intangible amortisation, and exceptional items of £5.3m (2010 £0.3m loss from continuing operations). The group loss
+for the period from continuing operations was £6.7m (2010 £1.0m loss), reflecting a £1.2m amortisation of acquisition
+relatedintangiblesaswellasexceptionalcostsrelatingsignificantlytotheacquisition.Revenueandoperatingresultsby
+segment(note4)arethemainkeyperformanceindicatorsusedbythegroup.Theoperatingresultsarediscussedinthe
+Chief Executive’s Operating Review, along with a review of the business.
+Exceptional Costs
+In addition to £0.5m of costs related to the Isotek acquisition and subsequent integration, redundancy costs of £0.1m
+were also incurred in order to reduce the Broadband cost base.
+Net finance income
+The group ended the year with net cash of £4.1m (2010 £16.2m) and generated net finance income of £0.1m
+(2010 £0.1m), reflecting low interest rates on reduced cash deposits post the acquisition.
+Taxation
+No current tax is due on continuing operations, reflecting available losses. The £0.3m credit reported is a deferred tax
+liability release related to the intangible amortisation. It will not result in any tax refund.
+Capital expenditure
+Capital expenditure of £0.9m (2010 £0.6m) included £0.3m for the Isotek business.
+Research and development costs
+Research and development costs of £3.5m (2010 £2.3m), which represented 22.7% (2010 14.8%) of revenue were
+expensed. Offsetting these costs, Yorkshire Forward grant income of £0.3 (2010 £0.5m), was reported under other
+operating income. No research and development costs were capitalised in the balance sheet.
+Working capital
+At 31 May 2011 net working capital was £2.1m (2010 £2.5m). Net working capital comprised inventories of £1.7m
+(2010 £2.0m), receivables of £5.9m (2010 £3.4m) and payables of £5.5m (2010 £2.9m).
+Cash flow
+Cash outflow from operating activities was £4.4m (2010 £1.9m inflow), cash outflow from investing activities (including
+the acquisition) was £7.0m (2010 £1.2m outflow) and net cash outflow from financing activities was £0.7m (2010 £0.7m
+outflow). The closing cash balance as at 31 May 2011 was £4.1m (2010 £16.2m).
+Dividend
+An annual dividend of 1.00p per share in respect of 2009/10 was paid on 5 November 2010.
+The Board does not recommend an annual dividend in respect of 2010/11.
+Michael Brennan
+Chief Financial Officer
+2 August 2011 Introduction
+Filtronic supplies microwave and base station filter products for the wireless telecommunications market. The business
+is in a fast-changing sector with a small number of sophisticated customers, demanding performance standards and
+international competition, all of which pose risks to the business.
+Market
+We supply a niche range of products to a small number of large OEM customers for both the Broadband and
+BasestationfilterbusinessesaswellasanasyetsmallnumberofnetworkoperatorsintheBasestationbusiness.Theloss
+of any of these customers, including Ceragon Networks, or any material reduction in orders from any such customers
+may have a material adverse effect upon Filtronic’s financial condition. With the rapid evolution of product technology
+and other corporate decisions the size of our addressable market may be affected. We may also fail to forecast market
+movements correctly so missing opportunities or wrongly predicting product longevity.
+Manufacturing
+Inmostoftheproducts,productionisdemandledandcustomersmayvarytheirrequirementsfromthebusinessatshort
+notice, which also impacts inventory management. Customers in these businesses expect consistent high quality
+product and reducing prices, hence we depend on control of our operating environment, including management of
+security of supply in our supply chain, and the provision of correctly designed technological solutions including the
+achievement of target cost reduction plans. Non-performance in these areas risks a diminished market position.
+All our products are provided to customers after detailed qualification testing. However, this may not test all aspects of
+the product’s design and manufacturing process or may not ensure that the product is viewed as fit for purpose in its
+intended use. Identification of these types of problem after release of product to customers creates the risk of being
+required to rectify such product defects. Historically such work has not had a substantial impact on the financial
+performance of the business, although a major defect, leading to a field recall, could do so in future.
+The Broadband business operates a leased manufacturing location, located within the facility of our major
+semiconductor supplier. The Basestation business relies for the manufacture of its products on a large Chinese turnkey
+manufacturer that provides favourable supply and financing terms. The loss of this supplier or a material change to
+supply terms could have a material adverse effect on the Group.
+Technology
+Our product competitiveness is strongly influenced by technology choices at product concept stage and throughout
+execution of design to product launch. For products in the production cycle, technology insertion is often required as a
+means of achieving price reductions, which underpin sales. The market is time sensitive and opportunities may be lost
+ifthetechnologywedevelopisnotappropriateorreadyforexploitationtomatchmarketdemand,sohavinganadverse
+effect on business performance.
+Our ability to remain competitive in terms of technology and product design is also underpinned by retaining key staff,
+the loss of whom could seriously impact the rate of introduction of new products and technologies.
+Filtronic plc Annual Report 2011 7
+Business Review
+– Directors’
+Assessment of Risk Business Review
+– Directors’
+Assessment of Risk
+Financial management
+AlargeproportionofsalesisdenominatedinUSdollarswiththecostbasesubstantiallyinsterling,whichmaytherefore
+create margin risks that may not be recoverable through price changes. This risk is mitigated to some extent by
+purchasing some input materials in US dollars.
+We have sold four divisions of the group in the past seven years. We have provided warranties in support of these
+transactions, covering areas including product liability for an initial period and usually environment risks on freehold
+property and tax risks for longer specified periods. We have received claims on the sale of the Wireless Infrastructure
+andDefenceElectronicsbusiness,someofwhichhavebeensettledorrejected,andmayreceiveclaimsinfuturerelated
+to these current and future commitments.
+Goodwill and Going Concern
+With the acquisition of the Basestation business, goodwill and intangibles have arisen. If the Basestation business does
+notdevelopasanticipatedthenthismayhaveanadverseimpactuponbusinessperformancewhichmayresultinawrite
+down of the goodwill and/or the intangibles.
+The directors have considered going concern mattersand whilst they have a reasonableexpectationthat the group has
+adequate resources to continue in operational existence for the foreseeable future, it remains possible that sufficient
+events with material adverse impacts on the business could occur such as to change this expectation.
+8 Filtronic plc Annual Report 2011 Directors
+Executive directors
+Hemant Mardia (aged49)hasbeenanexecutivedirectorsince2007andChiefExecutiveOfficersince2008.Since1996
+he has been Managing Director of the Broadband (PTP) business. He joined Filtronic in 1984 having gained a doctorate
+inelectronicsfromLeedsUniversity.HeisaFellowoftheInstituteofElectronicsandTechnology,aFellowoftheSociety
+of Cable Telecommunications Engineers and a Senior Member of the Institute of Electrical and Electronic Engineers.
+Michael Brennan (aged 51) was appointed as an executive director and Chief Financial Officer on 18 September 2009.
+Prior to joining Filtronic he was Finance Director of GTL Resources plc. Previously he held finance positions with
+Petroplus Refining Teesside Limited and various ICIbusinesses.
+Alan Needle (aged 56) was appointed as an executive director on 16 November 2010. Prior to the acquisition of
+IsotekhewasHeadofWirelessInfrastructureofIsotekElectronicsLimited,hadbeenanExecutiveDirectoruntilJanuary
+2006, and Chief Executive of the Wireless Infrastructure Division of Filtronic plc.
+Non-executive directors
+Howard Ford (aged 60) has been a non-executive director since 2008. He was appointed non-executive Chairman on
+18 September 2009. He has many years of operational experience in the IT and telecoms sector with IBM Europe,
+BT/Cellnet and Equant Network Services where as Managing Director the company was listed on the New York Stock
+Exchange and the Paris Bourse until its takeover by France Telecom in 2005. He has also served on the Boards of a
+UK Charity and a number of privately held companies in the UK and France.
+GrahamMeek(aged64)hasbeenanon-executivedirectorsince1999.Since2006hehasbeentheseniornon-executive
+directorandischairmanoftheauditcommittee.HewasChairmanofICMComputerGroupplcuntilitstakeoverin2007
+andwasChairmanofSPILasersplcuntilitstakeoverin2008.Heisanon-executivedirectorofCapitalGearingTrustplc.
+Reginald Gott (aged 54) has been a non-executive director since 2006. He was appointed as chairman of the
+remuneration committee on 6 June 2008. He is Chief Executive of the Nuaire Group. From 2002 to 2008 he was an
+executive director of FKI plc, an international diversified engineering group. He has an extensive background in the
+machinery, automation and controls segments of the capital goods markets across Europe and North America.
+Filtronic plc Annual Report 2011 9 Directors’ Report
+The directors present their report and the audited financial statements for the year ended 31 May 2011.
+Principal activities
+The principal activities of the group are the design and manufacture of broadband microwave and base station filter
+products for wireless telecommunications systems.
+Business review
+The business review on pages 4 to 8 inclusive contains a review of the group’s business performance and outlook. The
+business review includes the statutory requirements of the enhanced business review.
+Financial results and dividend
+The results for the year are set out in the income statement on page 26. The position at the end of the year is shown in
+the balance sheet on page 28.
+The directors are not recommending payment of an annual dividend (2010 1.00p).
+Research and development
+Researchanddevelopmentcostswere£3.5m(2010£2.3m)forcontinuingoperationsand£nil(2010£nil)fordiscontinued
+operations. Grant income of £0.3m was received to assist with part of these costs.
+Directors and their interests
+The directors of the company during the year were as follows:
+Hemant Mardia
+Michael Brennan
+Howard Ford
+Graham Meek
+Reginald Gott
+Alan Needle (appointed 16 November 2010)
+Detailsofdirectors’interestsinthesharecapitalofthecompanyaresetoutintheremunerationreportonpages18to22.
+Alan Needle retires and, having been appointed by the Board on 16 November 2010, offers himself for election at the
+Annual General Meeting.
+Hemant Mardia retires and offers himself for re-election at the Annual General Meeting.
+Graham Meek, having served on the Board for more than nine years, retires and being eligible, offers himself for
+re-election at the Annual General Meeting.
+Directors’ indemnity
+The company has in place directors’ and officers’ liability insurance on behalf of its directors and officers in accordance
+with the provisions of the Companies Act. In addition, certain directors benefit from an indemnity from the company, to
+the extent not prohibited by law, in respect of losses incurred as a result of the discharge of their duties in the
+management or supervision of any company in the group. The indemnity does not automatically terminate when
+the indemnified person ceases to be a director.
+10 Filtronic plc Annual Report 2011 Directors’ Report
+Directors’ conflicts of interest
+Alan Needle has provided general notice under Article 182 of The Companies Act 2006 of his interest in the Isotek
+working capital adjustment, until the adjustment is agreed and finalised with the Filtronic Board.
+There are no other declarations to be made under Article 182 of The Companies Act 2006.
+Share capital
+Thecompany’ssharecapitalconsistsof10pordinaryshares.Therightsandobligationsattachedtoeachshareareequal.
+There are no limitations on holding or transfer of the shares. The Board has no powers to issue or buy back the
+company’sshares,otherthanthoseapprovedbytheshareholdersattheAnnualGeneralMeetingheldon18September
+2010.
+Substantial shareholdings
+Thefollowingshareholdershaveindicatedaholdingof3%ormoreoftheissuedsharecapitalof92,873,09310pordinary
+shares as at 28 July 2011.
+Number of % of issued
+10p ordinary shares share capital
+Aberforth Partners LLP 15,743,090 17.0%
+Prudential plc 10,872,820 11.7%
+Gartmore Investment Limited 8,590,967 9.3%
+Aviva plc 5,542,228 6.0%
+Legal & General Investment Management Limited 5,575,421 6.0%
+John David Rhodes 3,794,769 4.1%
+1 1
+50,119,295 54.1%
+5 5
+Employees
+The group is committed to a policy of equal opportunities in employment by which the group ensures that all aspects
+ofselectionandretentionarebasedonmeritandsuitabilityforthejobregardlessofsex,age,maritalstatus,colour,race,
+ethnicity, sexual orientation or disability.
+The group is conscious of its obligations towards disabled persons and tries to ensure that they receive equal
+opportunities. So far as particular disabilities permit, the group will continue to provide employment for any existing
+employee who becomes disabled. The group will also provide relevant training, career development and promotion for
+disabled employees where this is appropriate.
+The Chief Executive Officer is the Board member responsible for human resources.
+Filtronic plc Annual Report 2011 11 Directors’ Report
+Corporate & social responsibility
+(i) Health and safety
+The Board is committed to ensuring the health and safety of the group’s employees and applies high standards
+throughout the group in the control and management of its operations. The group analyses its practices and
+processes using systematic health and safety management techniques and auditing regimes. As part of the group’s
+continued implementation of an occupational health, safety and management system, the group has put
+preventativemeasuresinplacethataimtocontinuetoreducemajorinjuriesandlosttimeaccidents.Inaddition,the
+major manufacturing site has achieved OHSAS 18001 (health and safety management systems).
+(ii) Employee development
+Employeedevelopmenthasbeenestablishedasoneofthegroup’skeyobjectives.Thegrouphasaneducationand
+training policy in place to implement continuous improvement where beneficial to the group and employee, thus
+underlying the group’s commitment to ongoing employee development and training.
+(iii) Employee communications
+The group believes in keeping employees fully informed on matters which affect them through communication
+proceduresincludingstaffmeetingsandaculturewhichencouragesopennessandinteractionbetweenallmembers
+ofstaff.ThegroupoperatesaUK-widestaffforumforinformationandconsultation(‘ICONforum’).TheICONforum
+is designed to be a gathering at which employee representatives can review group progress and raise, share and
+discuss specific issues and concerns that affect employees with senior management.
+(iv) The environment
+Care for the environment is an integral part of the group’s business activities. It is the group’s policy to ensure that
+its facilities are safe and the group is committed to ensuring that its impact on the environment is minimised. The
+group supports and trains its personnel to act responsibly in matters relating to the environment. The group takes
+account of relevant legislation and regulations and analyses its practices, processes and products to reduce their
+environmental impact, and works with its customers and suppliers to achieve a high standard of product
+stewardship. The group’s in-house manufacturing sites have established environmental management systems and
+have achieved ISO 14001 certification.
+Wherever possible, components and materials are reused or recycled. The reuse, utilisation and recycling of
+packaging is subject to monitoring. The group continues to work with its customers to implement programmes to
+designproductsfordisassemblyandrecycling,andinparticularsoastoensurecompliancewiththeEuropeanUnion
+directive on waste electrical and electronic equipment and the European Union initiatives in relation to the
+restrictionofcertainhazardoussubstancesinelectricalandelectronicequipment.Thegrouphasintroducedfocused
+management teams throughout its business to ensure that compliance with these requirements is achieved within
+the required implementation timescales. The group continues to work with major suppliers, contractors and
+customers to assist them in improving their environmental, health and safety performance.
+Political and charitable contributions
+No contributions were made for political purposes. The group donated £450 (2010 £nil) to various charities.
+12 Filtronic plc Annual Report 2011 Directors’ Report
+Supplier payment policy
+It is the group’s policy to abide by the terms of payment agreed with suppliers in respect of the goods and services
+properly invoiced to the group. At 31 May 2011 trade payables of £5.5m represented 103 days’ purchases, calculated in
+accordance with the requirements of the Companies Act.
+Disclosure of information to the auditors
+The directors who held office at the date of approval of this directors’ report confirm that, so far as they are each aware,
+there is no relevant audit information of which the company’s auditors are unaware; and each director has taken all the
+steps that he ought to have taken as a director to make himself aware of any relevant audit information and to establish
+that the company’s auditors are aware of that information.
+Responsibility statement of the directors
+The directors whose names appear on page 9 confirm that to the best of their knowledge:
+! the financial statements, prepared in accordance with the applicable set of accounting standards, give a true and
+fair view of the assets, liabilities, financial position and profit or loss of the company and the undertakings included
+in the consolidation taken as a whole; and
+! the Chairman’s Statement and Business Review which form part of the Report of the Directors, includes a fair review
+of the development and performance of the business and the position of the company and the undertakings
+included in the consolidation taken as a whole, together with the description of the principal risks and uncertainties
+that they face.
+Auditors
+A resolution to re-appoint KPMG Audit Plc as auditors will be proposed at the Annual General Meeting.
+By order of the Board
+M Moynihan
+Company Secretary
+2 August 2011
+Filtronic plc Annual Report 2011 13 Corporate Governance
+Statement
+The Combined Code on Corporate Governance
+The Board of Directors of Filtronic plc is committed to maintaining high standards of corporate governance. The Board
+has prepared this report with reference to the Combined Code on Corporate Governance issued by the Financial
+Reporting Council as revised in 2008 (“the Code”). For the year ended 31 May 2011 the directors confirm that the
+company has complied with the provisions of the Code.
+TheBoardiscurrentlycomprisedofsixdirectors,theChairman,twonon-executivesandthreeexecutivedirectors.Forthe
+current reporting period, the Company is deemed to be a “smaller company” as defined in provision A.3.2 of the
+Combined Code 2008. One of the non-executive directors, Reginald Gott, meets all of the specific criteria for
+independencesetoutintheCombinedCode.Theothernon-executivedirector,GrahamMeek,doesnotmeetallofthe
+requirements for independence set out in the Code since he has been a director for more than nine years. However
+MrMeekisconsideredtobeindependentincharacterandjudgement.Heistheseniorindependentdirectorandprovides
+valuableadvicetothecompanyaswellascontinuityinthecontextoftherecentcorporateactivityandBoardchanges.
+Internal control
+The Board has overall responsibility for establishing, maintaining and monitoring the company’s system of internal
+control. Internal control systems are designed to be relevant to the company and the risks to which it is exposed and,
+by their nature, can provide reasonable but not absolute assurance against material misstatement or loss. The key
+procedures established by the directors with a view to providing effective internal control are as follows:
+The Board’s approach to risk management is aimed at early identification of key risks to the group’s business and
+strategy, followed by an evaluation of those risks and the probable impact of those risks and the steps required to
+mitigate the likely effects. The executive directors report formally on key risks for each business unit at each meeting.
+(a) Control environment and monitoring systems
+The Board usually meets each month and has adopted a schedule of matters which are required to be brought to it
+fordecision,thusensuringthatitmaintainsfullandeffectivecontroloverappropriatestrategic,financial,operational
+and compliance issues. The Board has put in place an organisational structure with clearly defined lines of
+responsibility and delegation of authority. Additionally, the Board has established an Executive Management
+Committee that is responsible for operational matters within the company.
+The division of responsibilities between the Chairman and the Chief Executive Officer has been set out in writing
+and agreed by the Board.
+The audit committee, which comprises all of the non-executive directors including the Chairman reviews the
+effectiveness of the system of internal control. The external auditors are engaged to express an opinion on the
+company’s annual financial statements. They test the system of internal financial control and the information
+contained within the annual report and financial statements to the extent necessary for expressing their opinion.
+(b) Major information systems
+The directors have delegated to executive management implementation of the system of internal control
+throughout the company. This includes financial controls that enable the Board to meet its responsibilities for the
+integrityandaccuracyofthecompany’saccountingrecordsandaformalriskmanagementreportingsystemfornon-
+financial risk management
+The Board approves, in aggregate, budgets and other performance targets, the components of which form the
+financial objectives for individual operating units. Performance against these targets is reported monthly and
+concentrates upon key performance indicators identified and updated as part of this budgetary control process.
+Financial forecasts are updated and reviewed monthly and include cash flow forecasts.
+14 Filtronic plc Annual Report 2011 Corporate Governance
+Statement
+(c) Main control procedures
+InadditiontomattersreservedforBoarddecisions,thecompanyhasestablishedasystemwherebyauthoritytotake
+decisions is distributed throughout the company. This distribution of authority defines procedures for authorisation
+and approval and sets appropriate levels of responsibility.
+(d) Identification and evaluation of business risks
+The company has clear principles and procedures that are appropriate to an electronics business of its size. These
+principles are designed to provide an environment of central leadership but with devolved operating responsibility
+as the framework for the exercise of accountability and control by the Board, its committees and executive
+management.
+The Board directs activities in and allocates resources to the key areas of business development, product strategy,
+research and development, manufacture and financial practice.
+Through these ongoing procedures, the Board is able to identify, evaluate and manage the significant risks that the
+group faces from time to time.
+The Board has reviewed its approach to the identification and evaluation of business risks and has put in place a
+programme to review the main areas of risk identified for the company on an annual basis at the Board.
+TheBoardconfirmsthatithascarriedoutareviewoftheeffectivenessofthesystemofinternalcontrolasitoperated
+duringtheyear.TheBoardundertakes,onanongoingbasis,areviewofallaspectsofthecompany’sinternalcontrol
+procedures. The review is undertaken by the Board through the receipt and consideration of regular monthly and
+other reports prepared by management on operational, strategic, organisational and financial issues. All areas of
+operations are audited periodically either by external agencies or through peer review to ensure compliance with
+group policies.
+Constitution of the Board
+The Board comprises the Chairman, three executive and two independent, non-executive directors. Short biographies
+of all of the directors are set out on page 9. The Board considers that its constitution brings both independence and an
+appropriate balance of experience in judging matters of strategy, performance, resources, investor relations, internal
+controlandcorporategovernance.GrahamMeekistheseniornon-executivedirector.Eachofthedirectorsisproposed
+forre-electionattheAnnualGeneralMeetingatleasteverythreeyears.Non-executivedirectorswhohaveservedlonger
+than nine years on the Board are subject to annual re-election.
+Graham Meek joined the company in 1999 and the Board has carefully considered his independence. He contributes
+significantly through his financial expertise and considerable knowledge of the company. He has provided continuity
+aswellascontributingtotheoverallbalanceoftheBoard.TheBoardhasdecidedthatGrahamMeekisanindependent
+non-executive director.
+A formal performance review of the Board, its committees and the directors was undertaken during the year. This has
+been implemented in the year by way of a written questionnaire completed by all Board members.
+Board committees
+The Board has a nominations committee, a remuneration committee and an audit committee. The remuneration and
+audit committees comprise all of the independent non-executive directors. Each of these committees operates under
+terms of reference which have been established by the Board.
+Filtronic plc Annual Report 2011 15 Corporate Governance
+Statement
+The nominations committee
+The nominations committee is chaired by Howard Ford, and the other member is the independent non-executive
+directors: Graham Meek and Reginald Gott. The nominations committee’s duties are confined to the nomination of
+appointments,re-appointmentsandterminationofemploymentorengagementofdirectorsandthecompanysecretary.
+The nominations committee met three times during the year to consider Board composition and balance of skills.
+The remuneration committee
+TheremunerationcommitteeischairedbyReginaldGott.GrahamMeek,theotherindependentnon-executivedirector,
+and Howard Ford, the Chairman of the Board, are members. The remuneration committee’s responsibilities include
+ensuring that the remuneration and service contract terms of the executive directors and senior management are
+appropriate. The committee approves the grant of all share options and bonus arrangements. During the year the
+business discussed and considered at the Remuneration Committee included: approval of bonus payments or none
+made in respect of the previous financial year FY2009/10, review of compensation structure of employees across the
+groupparticularlyfollowingtheIsotekacquisition,agreementofthetermsoftheESOPplanandreviewingandagreeing
+onthetermsandthedocumentationinrespectoftheissueofafurtherinvitationtoallUKemployeesundertheFiltronic
+Share Save plan.
+The remuneration committee met three times during the year.
+The audit committee
+The audit committee is chaired by Graham Meek, the senior non-executive director. The other members are Reginald
+Gott and Howard Ford, the Chairman of the Board (who was independent on appointment in accordance with the
+provisionsoftheCombinedCode2008).GrahamMeekhassufficient,recentandrelevantfinancialexperience.Theaudit
+committee meets at least twice a year. The committee’s terms of reference are consistent with the current best practice
+for the size of the company and are available on request from the company secretary or on the company’s website.
+The committee met twice during the financial year with management and external auditors. It also met twice with the
+externalauditorsinprivate.Thechairmanofthecommitteealsometprivatelywiththeauditorsregularlyduringtheyear.
+The committee reviewed the following matters and reported its conclusions to the Board:
+! the financial statements contained in the company’s annual and half-yearly reports to shareholders;
+! various accounting matters, including the company’s accounting policies, raised by management and the external
+auditors in the context of the financial statements;
+! the effectiveness of internal controls and the group’s internal controls manual;
+! authorisation of the amount and purposes of non-audit fees;
+! reviewing the external auditors’ independence and objectivity;
+! theexternalauditors’yearendreportandthefindingsoftheirworkandconfirmationthatallsignificantmattershad
+been satisfactorily treated;
+! a full and careful consideration of the performance of the external auditors, as a result of which the committee
+resolved to recommend the re-appointment of KPMG Audit Plc as auditors to the company.
+16 Filtronic plc Annual Report 2011 Corporate Governance
+Statement
+TheBoardhasreviewedthecompositionoftheauditcommitteeandissatisfiedthatithasmemberswhohavesufficient,
+recent and relevant financial experience.
+Attendance at Board meetings and committee meetings during the year ended 31 May 2011 was as follows:
+Directors Attendance Table - FY2011
+Board Audit Remuneration Nominations
+Director attendance 19 2 3 3
+Executives
+Hemant Mardia 18 n/a n/a n/a
+Mike Brennan 19 n/a n/a n/a
+Alan Needle (appointed 15 November 2010) 5 n/a n/a n/a
+Non-executives
+Howard Ford (Chairman) 18 2 3 3
+Reginald Gott 17 2 3 3
+Graham Meek 17 2 3 3
+Relations with investors
+Communications with investors are given high priority. There is regular dialogue with institutional investors including
+presentations after the company’s preliminary announcement of the year-end results and at the half year, which are
+attended by non-executive directors. Analyst reports and feedback from shareholders are discussed at Board meetings.
+TheBoardusestheAnnualGeneralMeetingtocommunicatewithprivateandinstitutionalinvestorsandwelcomestheir
+participation. The Chairman aims to ensure that the chairmen of the audit and remuneration committees are available
+attheAnnualGeneralMeetingtoanswerquestions.Informationisalsoavailabletoallinvestorsbywayofthecompany’s
+website at www.filtronic.co.uk.
+Going concern
+The group’s business, together with the factors likely to affect its future development, performance and position are set
+out in the Business Review on pages 4 to 8. The financial position of the group, its cash flows, and its liquidity position
+aredescribedintheFinancialReviewonpage6.Note38tothefinancialstatementsdescribesandquantifiesexposures
+toliquidity,credit,interestrateandforeigncurrencyriskandhowtheyaremanaged.Alsoinnote38capitalmanagement
+is described.
+At 31 May 2011 the group had a cash balance of £4.1m.
+The directors have reviewed the budgeted cash flow and other relevant information and have a reasonable expectation
+that the group has adequate resources to continue in operational existence for the foreseeable future. For this reason,
+the directors continue to adopt the going concern basis in preparing the financial statements.
+Filtronic plc Annual Report 2011 17 Remuneration Report
+for the year ended 31 May 2011
+Composition of the remuneration committee
+During the period 1 June 2010 to 31 May 2011 the remuneration committee consisted of the following non-executive
+directors:
+Reginald Gott (Chairman)
+Graham Meek
+Howard Ford
+The committee receives advice in its deliberations concerning the remuneration of the executive directors from the
+Chief Executive Ofﬁcer, Hemant Mardia. The committee’s recommendations have been accepted by the Board without
+amendment.
+Compliance
+The company has complied with the provisions in the Code of Best Practice relating to Directors’ Remuneration. In
+preparing this report, the provisions in Schedule B to the Combined Code have been followed.
+Policy on remuneration of executive directors and senior executives
+(a) Total level of remuneration
+The committee aims to ensure that remuneration packages offered are competitive and designed to attract, retain
+and motivate executive directors and senior executives.
+(b) The main components
+The company’s policy is to structure remuneration packages to align the interests of employees with those of
+shareholders.
+The main components of remuneration are:
+(i) Salary
+Salary for each executive is determined by the remuneration committee taking into account the performance and
+responsibilities of the individual. Electronic and electrical engineering is an international industry within which there
+is a clear market in executive talent. The overriding factor in determining executive remuneration is market forces.
+Salaries are normally reviewed on 1 July each year.
+(ii) Executive directors bonuses
+The executive directors were participants in an annual bonus scheme during the year under which a maximum of
+30% of salary was payable to Hemant Mardia, Michael Brennan and Alan Needle subject to proﬁt and cash targets
+and personal targets, the achievements of which have been assessed by the remuneration committee.
+No bonuses were awarded in the year to Hemant Mardia (2010 £27,038 being 15%), Michael Brennan (2010 £15,000
+being 15%) and Alan Needle (2010 £nil).
+No non-recurring bonus arrangements were put in place in the year ended 31 May 2011.
+(iii) Bonus scheme
+The remuneration committee has agreed an approach for management incentives for the year ending 31 May 2012
+of an annual bonus for performance in the year, based on proﬁt and cash targets. The level of up to 30% of annual
+salary for executive directors and up to 25% of annual salary for senior managers has been agreed for each of these
+bonuses. The annual bonus will be assessed against the achievement of proﬁt and cash targets in the year ended
+31 May 2012.
+18 Filtronic plc Annual Report 2011 Remuneration Report
+for the year ended 31 May 2011
+(iv) Performance share plan
+AperformanceshareplanwasapprovedbyshareholdersattheAnnualGeneralMeetinginSeptember2008.During
+the year, under the plan, Hemant Mardia was awarded 257,500 shares being 50% of his salary and Michael Brennan
+was awarded 114,286 shares being 40% of his salary. In addition, a further four persons discharging managerial
+responsibilities participated in the plan including Hemant Mardia’s wife, who is employed by the group, and was
+awarded 47,626 shares being 20% of her salary.
+The vesting of the 29 November 2010 share awards is subject to performance targets based on growth in earnings
+per share (EPS) over a three year period. If EPS grows such that for the year to 31 May 2013 it exceeds a figure
+corresponding to £5.5m of earnings before intangible amortisation, exceptionals, interest and tax, then 25% of the
+awarded shares will vest. If EPS grows such that for the year to 31 May 2013 it exceeds a figure corresponding to
+£7.0m of earnings before intangible amortisation, exceptionals, interest and tax, then 100% of the awarded shares
+will vest. If EPS grows to be between these two targets then the awarded shares will vest on a sliding scale between
+25% and 100% of the awarded shares.
+(v) Sharesave plan
+A sharesave plan was approved by shareholders at the Annual General Meeting in September 2008. All employees
+including executive directors are eligible. The ﬁrst offer under the sharesave plan was made in February 2009.
+A second offer under the sharesave plan was made in November 2010.
+(c) Company policy on contracts of service
+Hemant Mardia, Michael Brennan and Alan Needle, the executive directors,all have rolling service contracts.Under
+Hemant Mardia’s service contract the notice period for termination by either party is twelve months. Under Michael
+Brennan’s service contract the notice period for termination by either party is six months. Under Alan Needle’s
+service contract the notice period for termination by either party is six months (but 12 months until 15 November
+2012). There are no speciﬁc compensation commitments for early termination in the service contracts.
+(d) Company pensions policy
+The company’s policy is to offer executives membership of the Filtronic plc Stakeholder Pension Plan on the same
+basisasallotheremployeesofthecompany.Theplanisadeﬁnedcontributionscheme.Themaximumcontribution
+the company makes to the plan is 8% of pensionable salary, if the member makes a contribution of 6% of
+pensionablesalary.Membersoftheplanarealsoentitledtodeathinservicebeneﬁtoffourtimespensionablesalary
+and long term disability insurance.
+The pension scheme inherited from the Isotek acquisition is also a deﬁned contribution scheme. The maximum
+contribution the company makes to the plan for UK employees is 10% of pensionable salary if the member makes a
+contribution of 5% pensionable salary. All employees are also entitled to death in service beneﬁt of four times
+pensionable salary and long term disability insurance.
+US employees contribute to a defined contribution plan under Section 401(k) of the Internal Revenue Code. 6% of
+pensionablesalaryiscontributedbyemployeesandthisismatchedbythecompany.Allemployeesarealsoentitled
+to death in service benefit of two times salary to a maximum of $100,000.
+(e) Company policy on external appointments
+The remuneration committee reviews any request by an executive director with regard to a proposed external
+appointment and deals with each request on its individual merits. The overriding requirement is for each executive,
+as a term of his contract, to devote substantially the whole of his time, skill and attention to the affairs of the group.
+Filtronic plc Annual Report 2011 19 Remuneration Report
+for the year ended 31 May 2011
+Non-executive directors agreements for services and remuneration
+Thenon-executivedirectorshaverollingagreementsforserviceswiththecompany.Theseareterminablebythecompany
+or the non-executive director on six months notice for the Chairman and on three months notice for the other
+non-executive directors and are reviewed annually by the Board.
+The Board determines the remuneration of the non-executive directors. Non-executive directors are not entitled to any
+share options, performance shares, bonuses or pension beneﬁts.
+The information on pages 20 and 21 has been audited.
+Directors’ remuneration
+Total remuneration
+Salary excluding pension
+or fees Bonuses Beneﬁts contributions
+2011 2011 2011 2011 2010
+£000 £000 £000 £000 £000
+Executives
+Hemant Mardia 180 – 18 198 225
+Michael Brennan 100 –7 107 95
+Stephen Mole (resigned 18 September 2009) – – – – 111
+Alan Needle (appointed 16 November 2010) 54 –– 54 –
+Non-executives
+Howard Ford 70 –1 71 58
+Graham Meek 40 –– 40 39
+Reginald Gott 40 –– 40 39
+John Poulter (resigned 18 September 2009) – – – – 104
+11111
+Total 2011 484 – 26 510 671
+55555
+Total 2010 599 42 30 671
+5555
+Beneﬁts incorporate all assessable tax beneﬁts arising from employment by the company and relate in the main to the
+provision of a fully expensed company car or car allowance and private medical insurance.
+Directors’ pension benefits
+Company’s pension contributions to deﬁned contribution schemes.
+Pension
+contributions
+2011 2010
+£000 £000
+Hemant Mardia 14 14
+Michael Brennan 8 6
+Stephen Mole (resigned 18 September 2009) – 4
+Alan Needle (appointed 16 November 2010) 5 –
+11
+27 24
+55
+20 Filtronic plc Annual Report 2011 Remuneration Report
+for the year ended 31 May 2011
+Directors’ shareholdings
+2011 2010
+Alan Needle 2,064,707 –
+Hemant Mardia 159,813 54,249
+Michael Brennan 40,400 –
+Howard Ford 42,204 –
+Reg Gott 28,515 –
+Graham Meek 50,000 –
+11
+2,385,639 54,249
+55
+All of the above shareholdings are held beneﬁcially. Hemant Mardia, Graham Meek and Reg Gott’s shareholdings
+include those of their wives.
+Reg Gott’s wife purchased 28,515 shares at 35.7p on 2 August 2010.
+Howard Ford purchased 42,204 shares at 35p on 3 August 2010.
+Graham Meek’s wife purchased 50,000 shares at 38p on 4 August 2010.
+Hemant Mardia and his wife each purchased 15,000 shares at 37.95p on 5 August 2010.
+Hemant Mardia and his wife purchased 11,979 and 11,935 shares respectively at 37.99p on 6 August 2010.
+Hemant Mardia and his wife each purchased 25,825 shares at 38p on 6 September 2010.
+Michael Brennan purchased 40,400 shares at 35.5p on 29 October 2010.
+Alan Needle received 2,064,707 shares as consideration for the Isotek acquisition on 16 November 2010.
+Directors’ interests in share awards
+Granted
+Vesting during
+Performance share plan date 2010 the year 2011
+Hemant Mardia 29 July 2012 378,239 – 378,239
+29 November 2013 – 305,126 305,126
+Michael Brennan 2 September 2012 108,108 – 108,108
+29 November 2013 – 114,286 114,286
+111
+486,347 419,412 905,759
+555
+Hemant Mardia’s share awards include those of his wife, who is employed by the group.
+Directors’ interests in share options
+Granted Cancelled
+Exercise Option during during
+Sharesave plan period price 2010 the year the year 2011
+Hemant Mardia 01/04/2012 – 01/10/2012 25p 62,400 –– 62,400
+01/11/2013 – 30/04/2014 34.2p – 8,842 – 8,842
+Mike Brennan 01/11/2013 – 30/04/2014 34.2p – 26,315 – 26,315
+1111
+Total all directors 62,400 35,157 – 97,557
+5555
+Filtronic plc Annual Report 2011 21 Remuneration Report
+for the year ended 31 May 2011
+Hemant Mardia’s share options include those awarded to his wife, who is employed by the group.
+The closing middle market share price on 31 May 2011 was 23p, and on 31 May 2010 it was 26p. The range of closing
+middle market share prices during the year ended 31 May 2011 was 62p – 23p.
+There were no changes to the directors’ interests between 31 May 2011 and 2 August 2011. The company’s register of
+directors’ interests which is open to inspection at the registered ofﬁce contains full details of directors’ shareholdings.
+Performance graph
+This graph illustrates the performance of the company’s shares measured by Total Shareholder Return (TSR) relative to
+abroadequitymarketindexoverthepastﬁveyears.TheFTSEAllShareisconsideredtobethemostappropriateindex
+against which to measure performance, as the company has been a constituent of the FTSE All Share throughout the
+ﬁve-year period and the index is widely used. TSR is the measure of the returns that a company has provided for its
+shareholders, reﬂecting share price movements and assuming reinvestment of dividends.
+Total Shareholder Return
+1 June 2006 to 31 May 2011 Weekly Indexed
+Approved by the Board on 2 August 2011 and signed on its behalf by
+M Moynihan
+Company Secretary
+2006 2007 2008 2009 2010 2011
+Filtronic – Total Return Indexed
+FTSE All Share – Total Return Indexed
+Source: Thomson Datastream Note: Rebased to 100 as at 1 June 2006
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+22 Filtronic plc Annual Report 2011 Statement of Directors’
+Responsibilities
+Statement of directors’ responsibilities in respect of the annual report and the financial statements
+The directors are responsible for preparing the Annual Report and the group and parent company financial statements
+in accordance with applicable law and regulations.
+Company law requires the directors to prepare group and parent company financial statements for each financial year.
+Under that law they are required to prepare the group financial statements in accordance with IFRSs as adopted by the
+EU and applicable law and have elected to prepare the parent company financial statements on the same basis.
+Undercompanylawthedirectorsmustnotapprovethefinancialstatementsunlesstheyaresatisfiedthattheygiveatrue
+and fair view of the state of affairs of the group and parent company and of their profit or loss for that period. In
+preparing each of the group and parent company financial statements, the directors are required to:
+! select suitable accounting policies and then apply them consistently;
+! make judgements and estimates that are reasonable and prudent;
+! state whether they have been prepared in accordance with IFRSs as adopted by the EU; and
+! preparethefinancialstatementsonthegoingconcernbasisunlessitisinappropriatetopresumethatthegroupand
+the parent company will continue in business.
+Thedirectorsareresponsibleforkeepingadequateaccountingrecordsthataresufficienttoshowandexplaintheparent
+company’s transactions and disclose with reasonable accuracy at any time the financial position of the parent company
+and enable them to ensure that its financial statements comply with the Companies Act 2006. They have general
+responsibility for taking such steps as are reasonably open to them to safeguard the assets of the group and to prevent
+and detect fraud and other irregularities.
+Under applicable law and regulations, the directors are also responsible for preparing a Directors’ Report, Directors’
+Remuneration Report and Corporate Governance Statement that complies with that law and those regulations.
+The directors are responsible for the maintenance and integrity of the corporate and financial information included on
+the company’s website. Legislation in the UK governing the preparation and dissemination of financial statements may
+differ from legislation in other jurisdictions.
+Filtronic plc Annual Report 2011 23 Independent Auditor’s
+Report
+Independent auditor’s report to the members of Filtronic plc
+We have audited the financial statementsof Filtronic plc for the year ended 31 May 2011 set out on pages 26 to 64. The
+financial reporting framework that has been applied in their preparation is applicable law and International Financial
+Reporting Standards (IFRSs) as adopted by the EU and, as regards the parent company financial statements, as applied
+in accordance with the provisions of the Companies Act 2006.
+This report is made solely to the company's members, as a body, in accordance with Chapter 3 of Part 16 of the
+Companies Act 2006. Our audit work has been undertaken so that we might state to the company's members those
+matterswe are required to stateto them in an auditor'sreportand for no other purpose.To the fullest extent permitted
+by law, we do not accept or assume responsibility to anyone other than the company and the company's members, as
+a body, for our audit work, for this report, or for the opinions we have formed.
+Respective responsibilities of directors and auditor
+AsexplainedmorefullyintheDirectors'ResponsibilitiesStatementsetoutonpage23,thedirectorsareresponsiblefor
+the preparation of the financial statements and for being satisfied that they give a true and fair view. Our responsibility
+is to audit, and express an opinion on, the financial statements in accordance with applicable law and International
+Standards on Auditing (UK and Ireland). Those standards require us to comply with the Auditing Practices Board's
+(APB's) Ethical Standards for Auditors.
+Scope of the audit of the financial statements
+A description of the scope of an audit of financial statements is provided on the APB's website at
+www.frc.org.uk/apb/scope/private.cfm.
+Opinion on financial statements
+In our opinion:
+! the financial statements give a true and fair view of the state of the group's and of the parent company's affairs as
+at 31 May 2011 and of the group's loss for the year then ended;
+! the group financial statements have been properly prepared in accordance with IFRSs as adopted by the EU; and
+! the parent company financial statements have been properly prepared in accordance with IFRSs as adopted by the
+EU and as applied in accordance with the provisions of the Companies Act 2006; and
+! the financial statements have been prepared in accordance with the requirements of the Companies Act 2006 and,
+as regards the group financial statements, Article 4 of the IAS Regulation.
+Opinion on other matters prescribed by the Companies Act 2006
+In our opinion:
+! the part of the Directors' Remuneration Report to be audited has been properly prepared in accordance with the
+Companies Act 2006; and
+! the information given in the Directors' Report for the financial year for which the financial statements are prepared
+is consistent with the financial statements; and
+! informationgivenintheCorporateGovernanceStatementsetoutonpages14to17withrespecttointernalcontrol
+and risk management systems in relation to financial reporting processes and about share capital structures is
+consistent with the financial statements.
+24 Filtronic plc Annual Report 2011 Independent Auditor’s
+Report
+Matters on which we are required to report by exception
+We have nothing to report in respect of the following:
+Under the Companies Act 2006 we are required to report to you if, in our opinion:
+! adequateaccountingrecordshavenotbeenkeptbytheparentcompany,orreturnsadequateforouraudithavenot
+been received from branches not visited by us; or
+! the parent company financial statements and the part of the Directors’ Remuneration Report to be audited are not
+in agreement with the accounting records and returns; or
+! certain disclosures of directors’ remuneration specified by law are not made; or
+! we have not received all the information and explanations we require for our audit; or
+! a Corporate Governance Statement has not been prepared by the company.
+Under the Listing Rules we are required to review:
+! the directors’ statement, set out on page 17, in relation to going concern;
+! the part of the Corporate Governance Statement on page 14 relating to the company’s compliance with the nine
+provisions of the June 2008 Combined Code specified for our review; and
+! certain elements of the report to shareholders by the Board on directors’ remuneration.
+David Morritt (Senior Statutory Auditor)
+for and on behalf of KPMG Audit Plc, Statutory Auditor
+Chartered Accountants
+1 The Embankment
+Neville Street
+Leeds
+LS1 4DW
+2 August 2011
+Filtronic plc Annual Report 2011 25 Consolidated
+Income Statement
+for the year ended 31 May 2011
+Group
+2011 2010
+Continuing operations note £000 £000
+Revenue 15,523 15,575
+5 5
+Operating loss before amortisation and exceptional items (5,260) (292)
+Amortisation of intangibles (1,209) –
+Exceptional items 6 (611) (842)
+1 1
+Operating loss 5 (7,080) (1,134)
+Finance income 12 79 113
+1 1
+Loss before taxation (7,001) (1,021)
+Taxation 13 326 –
+1 1
+Loss for the period from continuing operations (6,675) (1,021)
+Loss for the period from discontinued operations 3 (265) –
+1 1
+Loss for the period (6,940) (1,021)
+5 5
+Basic and diluted loss per share
+Continuing operations 14 (7.19)p (1.37)p
+Discontinued operations 14 (0.29)p –
+1 1
+Basic and diluted loss per share 14 (7.48)p (1.37)p
+5 5
+The loss for the period is attributable to the equity shareholders of the parent company Filtronic plc.
+26 Filtronic plc Annual Report 2011 Consolidated Statement of
+Comprehensive Income
+for the year ended 31 May 2011
+Group
+2011 2010
+£000 £000
+Loss for the period (6,940) (1,021)
+1 1
+Currency translation movement arising on consolidation (32) –
+1 1
+(32) –
+1 1
+1 1
+Total comprehensive income for the period (6,972) (1,021)
+5 5
+ThetotalcomprehensiveincomefortheperiodisattributabletotheequityshareholdersoftheparentcompanyFiltronicplc.
+For the company, there were no other items of comprehensive income other than the loss for the year. Accordingly, no
+company statement of comprehensive income has been presented.
+Filtronic plc Annual Report 2011 27 Consolidated Balance Sheet
+at 31 May 2011
+Group
+2011 2010
+note £000 £000
+Non-current assets
+Goodwill and other intangibles 16 13,330 –
+Property, plant and equipment 17 2,485 1,998
+1 1
+15,815 1,998
+1 1
+Current assets
+Inventories 19 1,677 1,998
+Trade and other receivables 20 5,763 3,361
+Tax receivable 114 –
+Cash and cash equivalents 4,120 16,245
+1 1
+11,674 21,604
+1 1
+1 1
+Total assets 27,489 23,602
+1 1
+Current liabilities
+Trade and other payables 21 5,485 2,886
+Provision 23 437 706
+Deferred tax 18 653 –
+Deferred income 22 17 17
+1 1
+6,592 3,609
+1 1
+Non-current liabilities
+Deferred tax 18 1,959 –
+Deferred income 22 108 108
+1 1
+2,067 108
+1 1
+1 1
+Total liabilities 8,659 3,717
+1 1
+1 1
+Net assets 18,830 19,885
+5 5
+Equity
+Share capital 25 9,287 7,432
+Share premium 26 4,683 –
+Translation reserve 27 (32) –
+Retained earnings 29 4,892 12,453
+1 1
+Total equity 18,830 19,885
+5 5
+The total equity is attributable to the equity shareholders of the parent company Filtronic plc.
+Company member 2891064
+Approved by the Board on 2 August 2011 and signed on its behalf by
+Hemant Mardia
+Chief Executive Ofﬁcer
+28 Filtronic plc Annual Report 2011 Consolidated Statement of
+Changes in Equity
+for the year ended 31 May 2011
+Group
+2011 2010
+£000 £000
+Opening total equity 19,885 21,576
+Total comprehensive income for the period (6,972) (1,021)
+New shares issued (net of issue costs) 6,538 –
+Share-based payments 122 73
+Dividends (743) (743)
+1 1
+Closing total equity 18,830 19,885
+5 5
+Filtronic plc Annual Report 2011 29
+Company Statement of
+Changes in Equity
+for the year ended 31 May 2011
+Company
+2011 2010
+£000 £000
+Opening total equity 14,066 16,683
+Total comprehensive income for the period (1,557) (1,929)
+New shares issued, net of issue costs 6,538 –
+Share-based payments 91 55
+Dividends (743) (743)
+1 1
+Closing total equity 18,395 14,066
+5 5 Consolidated Cash Flow
+Statement
+for the year ended 31 May 2011
+Group
+2011 2010
+note £000 £000
+Cash ﬂows from operating activities
+Loss for the period (6,940) (1,021)
+Loss on sale of discontinued operations 265 –
+Taxation (326) –
+Finance income (79) (113)
+1 1
+Operating loss 35 (7,080) (1,134)
+Share-based payments 122 73
+Loss on disposal of plant and equipment – 35
+Depreciation 523 601
+Amortisation of intangibles 1,209 –
+Movement in inventories 476 2,533
+Movement in trade and other receivables (724) 1,418
+Settlement of option premia debt acquired with Isotek 1,194 –
+Movement in trade and other payables 178 (1,117)
+Movement in provision (269) (608)
+Change in deferred income including government grants – 125
+1 1
+Net cash (used in)/from operating activities 35 (4,371) 1,926
+1 1
+Cash ﬂows from investing activities
+Interest received 79 113
+Acquisition of plant and equipment (925) (639)
+Proceeds on sale of assets 19 –
+Acquisition of subsidiary, net of cash acquired (4,162) –
+Share issue costs (325) –
+Acquired loan repaid (1,400) –
+Sale of discontinued operations 36 (265) (635)
+1 1
+Net cash used in investing activities 35 (6,979) (1,161)
+1 1
+Cash ﬂows from ﬁnancing activities
+Dividends paid (743) (743)
+1 1
+Net cash used in ﬁnancing activities 35 (743) (743)
+1 1
+Movement in cash and cash equivalents (12,093) 22
+Currency exchange movement (32) 5
+Opening cash and cash equivalents 16,245 16,218
+1 1
+Closing cash and cash equivalents 4,120 16,245
+5 5
+30 Filtronic plc Annual Report 2011 Company Balance Sheet
+at 31 May 2011
+Company
+2011 2010
+note £000 £000
+Non-current assets
+Investments in subsidiaries 15 10,564 –
+1 1
+Current assets
+Trade and other receivables 20 7,812 1,552
+Cash and cash equivalents 2,953 15,616
+1 1
+10,765 17,168
+1 1
+1 1
+Total assets 21,329 17,168
+1 1
+Current liabilities
+Trade and other payables 21 2,934 3,102
+1 1
+1 1
+Total liabilities 2,934 3,102
+1 1
+1 1
+Net assets 18,395 14,066
+5 5
+Equity
+Share capital 25 9,287 7,432
+Share premium 26 4,683 –
+Retained earnings 29 4,425 6,634
+1 1
+Total equity 18,395 14,066
+5 5
+Approved by the Board on 2 August 2011 and signed on its behalf by
+Company member 2891064
+Hemant Mardia
+Chief Executive Ofﬁcer
+Filtronic plc Annual Report 2011 31 Company Cash Flow
+Statement
+for the year ended 31 May 2011
+Company
+2011 2010
+£000 £000
+Cash ﬂows from operating activities
+Loss for the period (1,557) (1,929)
+Finance costs 61 459
+Finance income (79) (113)
+Loss on sale of investment in subsidiary 265 –
+1 1
+Operating loss (1,310) (1,583)
+Share-based payments 91 55
+Movement in trade and other receivables (5,730) 2,488
+Movement in trade and other payables (169) (21)
+1 1
+Net cash from operating activities (7,118) 939
+1 1
+Cash ﬂows from investing activities
+Interest received 79 113
+Acquisition of subsidiary (4,230) –
+Share issue costs (325) –
+Sale of investment in subsidiary (265) –
+1 1
+Net cash from investing activities (4,741) 113
+1 1
+Cash ﬂows from ﬁnancing activities
+Dividends paid (743) (743)
+1 1
+Net cash used in ﬁnancing activities (743) (743)
+1 1
+Increase/(decrease) in cash and cash equivalents (12,602) 309
+Currency exchange movement (61) (459)
+Opening cash and cash equivalents 15,616 15,766
+1 1
+Closing cash and cash equivalents 2,953 15,616
+5 5
+32 Filtronic plc Annual Report 2011 Notes to the
+Financial Statements
+for the year ended 31 May 2011
+1 Accounting policies
+Reporting entity
+Filtronic plc is a company registered in England and Wales, domiciled in the United Kingdom, and is listed on the
+London Stock Exchange.
+Basis of preparation
+The ﬁnancial statements have been prepared in accordance with International Financial Reporting Standards as
+adopted by the European Union (IFRS).
+The directors have reviewed the projected cash ﬂow and other relevant information and have a reasonable
+expectation that the group has adequate resources to continue in operational existence for the foreseeable future.
+For this reason the directors continue to adopt the going concern basis in preparing the annual report.
+The ﬁnancial statements have been prepared under the historical cost convention except for forward foreign
+exchange contracts that are accounted for on a fair value basis.
+The accounting policies have been applied consistently throughout the group.
+Basis of consolidation
+The ﬁnancial statements consolidate the income statements, balance sheets and cash ﬂow statements of the
+company and all of its subsidiaries.
+Subsidiaries are all entities over which the group has the power to govern the ﬁnancial and operating policies.
+Subsidiaries are consolidated from the date on which control is transferred to the group, and are not consolidated
+from the date that control ceases. Intra group transactions and balances are eliminated on consolidation.
+In publishing the Parent Company Financial Statements here together with the Group Financial Statements, the
+company has taken advantage of the exemptions in s408 of the Companies Act 2006 not to present its individual
+income statement and related notes that form part of these approved Financial Statements.
+Foreign currency translation
+The functional currency of each group company is the currency of the primary economic environment in which
+the group company operates. The ﬁnancial statements are presented in sterling which is the functional and
+presentational currency of the company.
+Transactions denominated in foreign currencies are translated into the functional currency of each group company
+at the exchange rate ruling at the date of the transaction. Monetary assets and liabilities denominated in foreign
+currencies are translated into the functional currency at the rate of exchange ruling at the balance sheet date.
+Foreignexchangegainsandlossesarisingonthesettlementofsuchtransactionsandtranslationofmonetaryassets
+and liabilities are recognised in the income statement.
+Forward foreign exchange contracts are recognised in the balance sheet at their market value at the balance sheet
+date, and the resulting gain or loss is recognised in the income statement.
+Filtronic plc Annual Report 2011 33 Notes to the
+Financial Statements
+for the year ended 31 May 2011
+1 Accounting policies (continued)
+Foreign currency translation (continued)
+Onconsolidation,theﬁnancialstatementsofsubsidiarieswithafunctionalcurrencyotherthansterlingaretranslated
+into sterling as follows:
+! The assets and liabilities in their balance sheets plus any goodwill are translated at the rate of exchange ruling at
+the balance sheet date.
+! The income statements and cash ﬂow statements are translated at the average rate of exchange for the period,
+which approximates the rate of exchange ruling at the date of the transactions.
+Currency translation movements arising on the translation of the net investments in foreign subsidiaries are
+recognised in the translation reserve, which is a separate component of equity.
+Revenue
+Revenueisrecognisedforgoodsandservicesduringtheperiodswhentherisksandrewardsofownershiphavebeen
+transferred to the customer, there is no continuing management involvement and the amount of revenue can be
+measured reliably. Revenue excludes any related value added or sales tax. This policy also applies to the newly
+acquired Isotek business.
+Research and development
+All research costs are expensed as incurred.
+Development costs chargeable to the customer are recognised as an expense in the same period as the associated
+customer revenue.
+Development costs incurred on projects requiring product qualiﬁcation tests to satisfy customer speciﬁcations
+are generally expensed as incurred, reﬂecting the technical risks associated with meeting the resultant product
+qualiﬁcation test.
+Development costs incurred on projects are capitalised where ﬁrstly the technical feasibility can be tested against
+relevant milestones, secondly the probable revenue stream foreseen over the life of the resulting product can
+support the development and thirdly sufﬁcient resources are available to complete the development. These
+capitalised costs are amortised on a straight line basis over the expected life of the associated product.
+Once a new product is qualiﬁed, further development costs are expensed as they arise because they are incurred in
+response to continual customer demand to enhance the product functionality and to reduce product selling prices.
+Operating leases
+Operating lease rentals are charged to the income statement on a straight line basis over the lease term.
+Share-based payments
+The group operated share option and share award schemes, under which share options and share awards were
+granted to certain employees. The granting of the share options and share awards are share-based payments.
+The fair value of the share options at the date of grant was calculated using an option pricing model, taking into
+account the terms and conditions applicable to the option grant. The fair value of the number of share options or
+share awards expected to vest was expensed in the income statement on a straight line basis over the expected
+vesting period. Each reporting period these vesting expectations were revised as appropriate.
+A credit was made to equity, equal to the share-based payment expense in the period.
+34 Filtronic plc Annual Report 2011 Notes to the
+Financial Statements
+for the year ended 31 May 2011
+1 Accounting policies (continued)
+Exceptional items
+Exceptional items are those signiﬁcant items which are separately disclosed by virtue of their size or incidence to
+enable a full understanding of the ﬁnancial results.
+Business combinations
+Business combinations are accounted for by applying the acquisition method.
+Control is the power to govern the financial and operating policies of an entity so as to obtain benefits from its
+activities. In assessing control, the group takes into consideration potential voting rights that currently are
+exercisable. The acquisition date is the date on which control is transferred to the acquirer. Judgement is applied in
+determining the acquisition date and determining whether control is transferred from one party to another.
+The group measures goodwill as the fair value of the consideration transferred including the recognised amount of
+any non-controlling interest in the acquiree, less the net recognised amount (generally fair value) of the identifiable
+assets acquired and liabilities assumed, all measured as of the acquisition date.
+Consideration transferred includes the fair values of the assets transferred, liabilities incurred by the group to the
+previous owners of the acquiree, and equity interests issued by the group. Consideration transferred also includes
+the fair value of any deferred consideration, which is undiscounted.
+Acontingentliabilityoftheacquireeisassumedinabusinesscombinationonlyifsuchaliabilityrepresentsapresent
+obligation and arises from a past event, and its fair value can be measured reliably.
+Transaction costs that the group incurs in connection with a business combination, such as finder’s fees, legal fees,
+due diligence fees, and other professional and consulting fees are expensed as incurred.
+Investments in subsidiaries
+Investmentsinsubsidiariesarestatedinthecompany’sﬁnancialstatementsatcostlessanyaccumulatedimpairment
+losses.
+Investments in subsidiaries are tested for impairment when there is an indication of impairment.
+Goodwill
+Goodwill that arises upon the acquisition of subsidiaries is included in intangible assets.
+Goodwill is measured at cost less accumulated impairment losses. In respect of equity accounted investees, the
+carrying amount of goodwill is included in the carrying amount of the investment, and an impairment loss on such
+an investment is not allocated to any asset, including goodwill, that forms part of the carrying amount of the equity
+accounted investee.
+Goodwill, which is allocated to cash generating units, is tested for impairment annually and when there is an
+indication of impairment. If impaired, the goodwill carrying value is written down to its recoverable amount.
+Filtronic plc Annual Report 2011 35 Notes to the
+Financial Statements
+for the year ended 31 May 2011
+1 Accounting policies (continued)
+Other intangible assets
+Other intangible assets that are acquired by the group and have finite useful lives are measured at cost less
+accumulated amortisation and accumulated impairment losses.
+Amortisation is calculated over the cost of the asset, or other amount substituted for cost, less its residual value.
+Amortisationisrecognisedinprofitorlossonastraight-linebasisovertheestimatedusefullivesofintangibleassets,
+other than goodwill, from the date that they are available for use, since this most closely reflects the expected
+pattern of consumption of the future economic benefits embodied in the asset.
+The estimated useful lives for the current and comparative periods are as follows:
+! Intangibles relating to the core technology and know-how 4.5 years.
+Amortisation methods, useful lives and residual values are reviewed at each financial year-end and adjusted if
+appropriate.
+Impairment charges
+The carrying amounts of the group’s non-financial assets, other than inventories and deferred tax assets, are
+reviewed at each reporting date to determine whether there is any indication of impairment. If any such indication
+exists, then the asset’s recoverable amount is estimated. For goodwill, and intangible assets that have indefinite
+usefullivesorthatarenotyetavailableforuse,therecoverableamountisestimatedeachyearatthesametime.The
+recoverable amount of an asset or cash-generating unit is the greater of its value in use and its fair value less costs
+to sell. In assessing value in use, the estimated future cash flows are discounted to their present value using a pre-
+tax discount rate that reflects current market assessments of the time value of money and the risks specific to the
+asset. For the purposes of impairment testing, assets that cannot be tested individually are grouped together into
+thesmallestgroupofassetsthatgeneratescashinflowsfromcontinuingusethatarelargelyindependentofthecash
+inflows of other assets or groups of assets (the “cash-generating unit, or CGU”). Subject to an operating segment
+ceiling test, for the purposes of goodwill impairment testing, CGUs to which goodwill has been allocated are
+aggregated so that the level at which impairment is tested reflects the lowest level at which goodwill is monitored
+for internal reporting purposes.
+An impairment loss is recognised if the carrying amount of an asset or its CGU exceeds its estimated recoverable
+amount. Impairment losses are recognised in profit or loss. Impairment losses recognised in respect of CGUs are
+allocated first to reduce the carrying amount of any goodwill allocated to the units, and then to reduce the carrying
+amounts of the other assets in the unit (group of units) on a pro rata basis.
+An impairment loss in respect of goodwill is not reversed. In respect of other assets, impairment losses recognised
+in prior periods are assessed at each reporting date for any indications that the loss has decreased or no longer
+exists.Animpairmentlossisreversediftherehasbeenachangeintheestimatesusedtodeterminetherecoverable
+amount. An impairment loss is reversed only to the extent that the asset‘s carrying amount does not exceed the
+carrying amount that would have been determined, net of depreciation or amortisation, if no impairment loss had
+been recognised.
+36 Filtronic plc Annual Report 2011 Notes to the
+Financial Statements
+for the year ended 31 May 2011
+1 Accounting policies (continued)
+Property, plant and equipment
+Property, plant and equipment are stated at cost less accumulated depreciation and less any accumulated
+impairment losses.
+Depreciation is provided on a straight line basis over the estimated useful lives of the assets as follows:
+Land Not depreciated
+Buildings 50 years
+Plant and equipment 3 to 10 years
+Property, plant and equipment are tested for impairment when there is an indication of impairment. If impaired, the
+carrying values of the assets are written down to their recoverable amounts.
+Inventories
+Inventories are stated at the lower of cost and net realisable value. Cost comprises weighted average cost of
+materials and components together with attributable direct labour and overheads. Net realisable value is the
+estimated selling price less estimated costs of completion and sale.
+Trade and other receivables
+Trade and other receivables are stated net of any provision for doubtful debts.
+Cash and cash equivalents
+Cash and cash equivalents comprises cash balances and bank deposits with an original maturity of three months
+or less.
+Defined contribution pension schemes
+Deﬁned contribution pension schemes are operated for employees. Contributions are recognised as an expense in
+the income statement as incurred.
+Deferred taxation
+Deferred tax is provided using the balance sheet liability method. Provision is made for temporary differences
+between the carrying amounts of assets and liabilities in the ﬁnancial statements and the amounts for taxation
+purposes.
+Temporarydifferencesarenotprovidedfortheinitialrecognitionofassetsorliabilitiesthataffectneitheraccounting
+nor taxable proﬁt. No provision is made for differences relating to investments in subsidiaries to the extent that
+they will probably not reverse in the foreseeable future.
+The amount of deferred tax provided is based on the expected manner of realisation or settlement of the carrying
+amount of the assets and liabilities, using tax rates enacted or substantially enacted at the balance sheet date.
+Deferred tax assets are recognised only to the extent that it is probable that future taxable proﬁts will be available
+against which the asset can be utilised.
+Filtronic plc Annual Report 2011 37 Notes to the
+Financial Statements
+for the year ended 31 May 2011
+1 Accounting policies (continued)
+Grants
+Capital based grants are included within deferred income in the balance sheet and credited to the proﬁt and loss
+account over the estimated useful economic lives of the assets to which they relate.
+Grants that compensate the group for expenses incurred are recognised in proﬁt or loss as other operating income
+on a systematic basis in the same periods in which the expenses are recognised.
+Warranty provision
+A provision is recognised in the balance sheet when there is a present legal or constructive obligation as a result of
+a past event, and it is probable that an outﬂow of economic beneﬁts will be required to settle the obligation.
+A warranty provision is recognised when products are sold. The provision is based on historical warranty data. The
+level of warranty provision required is reviewed on a product by product basis and adjusted accordingly in light of
+actual experience.
+Share capital
+Ordinary shares issued are classiﬁed as share capital in equity.
+Dividends
+Interim dividends are recognised in equity in the period they are paid. Final dividends are recognised in equity in
+the period they are declared by shareholders.
+Discontinued operations
+A discontinued operation is a component of the group’s activities that represents a separate business operation.
+Classiﬁcation as a discontinued operation occurs upon disposal or if earlier when the operation meets the criteria
+to be classiﬁed as held for sale.
+New IFRS and amendments to IFRS
+Thefollowingnewstandardshavebecomeeffectivefrom1June2010andhencehavebeenreﬂectedintheﬁnancial
+statements:
+! IFRS 3 (revised) Business combinations and consequential amendments to IAS 27 Consolidated and separate
+ﬁnancial statements are effective prospectively to business combinations for which the acquisition date is on or
+after the beginning of the ﬁrst annual reporting period beginning on or after 1 July 2009. During the period, the
+Group has made one acquisition as set out in note 37, and the requirements of these standards have been
+applied in accounting for these transactions. The Group’s accounting policy under the new standards is set out
+within signiﬁcant accounting policies.
+! Amendments to IAS 39 “Financial Instruments: Recognition and Measurement: Eligible Hedged Items”
+(mandatory for the year commencing on or after 1 July 2009). The amendments to IAS 39 clarify how to apply
+existingprinciplesindeterminingeligiblehedgedrisksandportions.Thesechangeshavehadnomaterialimpact
+on the Consolidated Financial Statements.
+38 Filtronic plc Annual Report 2011 Notes to the
+Financial Statements
+for the year ended 31 May 2011
+1 Accounting policies (continued)
+New IFRS and amendments to IFRS (continued)
+! AmendmentstoIAS39“ReclassiﬁcationofﬁnancialAssets:EffectiveDateandTransition”(mandatoryfortheyear
+commencing on or after 1 July 2009). These changes have had no material impact on the Consolidated Financial
+Statements.
+! Improvements to IFRSs (issued 16 April 2009) (adoption dates vary but certain improvements are mandatory for
+the year commencing on or after 1 July 2009). On 16 April 2009 the IASB published the Improvements to IFRSs
+2009. The Improvements to IRFSs 2009 is the result of the IASB’s second annual impaovements project (AIP). This
+project has ivolved the IASB accumulating throughout the year what it believes are non-urgent but necessary
+improvements to IFRSs and then processing these amendments collectively. The Improvements to IFRSs 2009
+contains 15 amendments to 12 standards. These changes have had no material effect on the Consolidated
+Financial Statements.
+There are a number of standards and interpretations issued by the IASB that are effective for ﬁnancial statements
+after this reporting period. The following have not been adopted by the Group:
+! IAS 24 Related party disclosures (revised) (effective for accounting periods starting on or after 1 January 2011)
+! IFRS 7 Amendment to Financial instruments: Disclosures on derecognition (effective for accounting periods
+starting on or after 1 July 2011)
+! IAS 12 Amendment to Income taxes on deferred tax (effective for accounting periods starting on or after
+1 January 2012)
+! IFRS 9 Financial instruments (effective for accounting periods starting on or after 1 January 2013)
+The application of these standards and interpretations is not anticipated to have a material effect on the Group’s
+ﬁnancial statements.
+2 Accounting estimates and judgements
+The preparation of the ﬁnancial statements requires the use of accounting estimates and judgements, that affect
+the application of accounting policies and reported amounts of assets and liabilities, income and expenses. The
+accounting estimates and judgements are continually evaluated. They are based on historical experience and other
+factors, including expectations of the future, that are believed to be reasonable under the circumstances. Actual
+results may differ from the expected results.
+The accounting estimates and judgements that have a signiﬁcant effect on the ﬁnancial statements are considered
+below.
+Acquisition accounting
+As part of the accounting for business combinations it is necessary to perform a purchase price allocation exercise
+to identify appropriate categories of intangible assets that have been purchased. Such exercise involves judgement
+withregardstothosetypesof assetsidentified,thevalueof thoseassetsandtheuseful economic livesappliedwith
+regards to amortisation rates. The amounts recognised are calculated by reference to management forecasts and
+assumed discount rates.
+Filtronic plc Annual Report 2011 39 Notes to the
+Financial Statements
+for the year ended 31 May 2011
+2 Accounting estimates and judgements (continued)
+Goodwill and other intangibles impairment
+Goodwill and other intangibles are tested for impairment by reference to the expected cash generated by the
+business unit. This is deemed to be the best approximation of value, but is subject to the same uncertainties as the
+cash ﬂow forecast being used.
+Inventory
+Inventories are stated at the lower of cost and net realisable value. The assessment of the net realisable value of
+inventory requires forecasts of the future demand and selling prices of inventory.
+Deferred tax asset
+The recognition of the deferred tax assets relating to tax losses carried forward depends on forecasts of the future
+taxable proﬁts of the company and its subsidiaries. These forecasts require the use of estimates and judgements
+about the future performance of the company and its subsidiaries.
+Warranty provision
+Warranties are given to customers on products sold to them. A warranty provision is recognised when products are
+sold. The provision is based on historical warranty data. Actual warranty costs in the future may differ from the
+estimates based on historical performance. The level of warranty provision required is reviewed on a product by
+product basis and adjusted accordingly in light of actual experience.
+Capitalisation of Development Costs
+Development costs incurred on projects requiring product qualiﬁcation tests to satisfy customer speciﬁcations are
+generally expensed as incurred, reﬂecting the technical risks associated with resultant product qualiﬁcation test.
+Other certain research and development costs are likely to meet the deﬁnition of enhancement type costs, as they
+do not substantially improve the product, and therefore do not meet the deﬁnition of development costs to be
+capitalised.
+The process is to be continually reviewed to ascertain whether any development costs meet the criteria for
+capitalisation. This requires various judgements by management as to whether the various criteria have been met.
+3 Loss for period from discontinued operations
+The loss of £265,000 relates to a warranty issue arising post sale of the Defence UK business to Teledyne. This
+payment has now been settled and no further exposure is expected.
+40 Filtronic plc Annual Report 2011 Notes to the
+Financial Statements
+for the year ended 31 May 2011
+4 Segmental analysis
+Operating Segments
+IFRS 8 requires consideration of the chief operating decision maker (‘CODM’) within the group. In line with the
+group’s internal reporting framework and management structure, the key strategic and operating decisions are
+made by the CEO, who reviews internal monthly management reports, budget and forecast information as part of
+this. Accordingly the CEO is deemed to be the CODM.
+Operating segments have then been identiﬁed based on the interim reporting information and management
+structureswithinthegroup.Thegrouphastwocustomersrepresentingindividuallyover10%eachandinaggregate
+over 75% of revenue.
+In the period the group acquired the entire share capital of Isotek (Holdings) Limited. Prior to this the group
+operated within one trading business segment involving the design and manufacture of transceiver modules and
+ﬁlters for backhaul microwave linking of base stations used in wireless telecommunication networks (Broadband).
+Subsequent to the acquisition the enlarged group is also involved in the design of radio frequency conditioning
+product for base stations used in wireless telecommunication networks (Basestation). Accordingly the group
+(continuing operations) now operates within two trading business segments. The group also contains a central
+services segment that provides support to the trading businesses.
+The Defence Electronics business was sold on 15 August 2008 (please refer to note 3).
+In the table below reportable segment assets and liabilities include inter segment balances. This has been included
+to reﬂect the assets and liabilities of the segment as monies are freely moved around the group to provide funding
+for working capital where required.
+Defence
+Central Electronics
+Broadband Basestation Services (Discontinued) Total
+2011 2010 2011 2010 2011 2010 2011 2010 2011 2010
+£000 £000 £000 £000 £000 £000 £000 £000 £000 £000
+External revenue 12,136 15,575 3,387 – – – – – 15,523 15,575
+1111111111
+Finance income – – – – 79 113 – – 79 113
+Depreciation and
+amortisation 487 601 36 – – – – – 523 601
+Reportable segment loss
+before exceptional items (2,463) 667 (1,955) – (842) (959) (265) – (5,525) (292)
+Reportable segment loss
+before income tax (2,584) 444 (1,976) – (1,232) (1,461) (265) – (6,057) (1,017)
+1111111111
+Reportable segment assets 7,409 7,806 6,007 – 18,777 15,796 – – 32,193 23,602
+Capital expenditure 663 639 263 – – – – – 926 639
+Reportable segment
+liabilities 6,693 4,538 8,838 – 383 1,729 – – 15,914 6,267
+1111111111
+Filtronic plc Annual Report 2011 41 Notes to the
+Financial Statements
+for the year ended 31 May 2011
+4 Segmental analysis (continued)
+Reconciliation of reportable segment revenues, proﬁt or loss, assets and liabilities and other material items
+2011 2010
+£000 £000
+Depreciation and amortisation
+Reportable segment totals 523 601
+Adjustments/amortisation of intangibles 1,209 –
+1 1
+Consolidated depreciation and amortisation 1,732 601
+5 5
+Loss before taxation
+Total loss for reportable segments (6,057) (1,017)
+Elimination of discontinued operations 265 –
+Group/unallocated (1,209) –
+1 1
+Consolidated loss before taxation (7,001) (1,017)
+5 5
+Assets
+Total assets for reportable segments 32,193 23,602
+Inter company (7,255) (2,551)
+Group/unallocated 2,551 2,551
+1 1
+Consolidated total assets 27,489 23,602
+5 5
+Liabilities
+Total liabilities for reportable segments 15,914 6,267
+Inter company (7,255) (2,551)
+1 1
+Consolidated total liabilities 8,659 3,716
+5 5
+42 Filtronic plc Annual Report 2011 Notes to the
+Financial Statements
+for the year ended 31 May 2011
+4 Segmental analysis (continued)
+Geographical information
+In presenting information on the basis of geographical segments, segment revenue is based on geographical
+location of customers. Segment assets are based on the geographical location of the assets.
+Revenue by destination
+2011 2010
+£000 £000
+United Kingdom 838 35
+Europe 11,256 14,451
+Americas 620 7
+Rest of the world 2,809 1,082
+1 1
+15,523 15,575
+5 5
+Split of non-current assets by location
+2011 2010
+£000 £000
+United Kingdom 11,611 1,998
+Americas 4,204 –
+1 1
+15,815 1,998
+5 5
+Non-current assets relate to property, plant and equipment and intangible assets.
+Acquisitions in the period
+As described in note 37, the Basestation segment was acquired in the year. The Disclosures above show the split of
+the group income statement (to proﬁt before tax) between acquisitions and the existing business of the group.
+Filtronic plc Annual Report 2011 43 Notes to the
+Financial Statements
+for the year ended 31 May 2011
+5 Operating loss
+2011 2010
+Continuing operations note £000 £000
+Revenue 15,523 15,575
+5 5
+Other operating income (326) (531)
+Raw materials and consumables 10,435 7,570
+1 1
+Wages and salaries 5,016 4,528
+Social security costs 509 450
+Pension costs 277 211
+Share-based payments 32 122 73
+1 1
+Staff costs 5,924 5,262
+1 1
+Amortisation of intangibles 1,209 –
+Depreciation 523 601
+1 1
+Depreciation and amortisation 1,732 601
+1 1
+Other operating charges 4,838 3,807
+1 1
+1 1
+Operating costs 22,603 16,709
+5 5
+1 1
+Operating loss (7,080) (1,134)
+5 5
+The operating loss is stated after the exceptional items in note 6.
+Other operating income represents the amount claimed from Yorkshire Forward towards a research and
+development programme.
+44 Filtronic plc Annual Report 2011 Notes to the
+Financial Statements
+for the year ended 31 May 2011
+6 Exceptional items
+Operating loss is stated after charging exceptional items as follows:
+2011 2010
+£000 £000
+Directors’ resignation costs – 146
+Pension scheme closure costs – 116
+Acquisition related costs 694 320
+Vendor contribution towards acquisition costs (300) –
+Integration costs relating to acquisition 75 –
+Redundancy costs 142 260
+1 1
+611 842
+5 5
+Professional fees were incurred in the acquisition of Isotek (Holdings) Ltd. This includes legal and professional,
+non-audit and corporate ﬁnance fees. The prior year fees include the costs of an opportunity that Filtronic decided
+not to proceed with.
+Under the terms of the Isotek acquisition, the vendor agreed to pay a contribution of £300,000 towards acquisition
+costs.
+As part of the integration of Isotek into the Filtronic group costs have been incurred in harmonising systems and
+processes with the aim of achieving synergies.
+7 Operating items
+2011 2010
+£000 £000
+Operating loss is stated after charging:
+Continuing operations:
+Research and development costs 3,531 2,313
+Operating lease rentals 138 79
+5 5
+8 Auditors’ remuneration
+The company auditors are KPMG Audit Plc. The auditors’ remuneration was as follows:
+2011 2010
+£000 £000
+Company auditors:
+Audit of the group and company ﬁnancial statements 6 7
+Company auditors and their associates:
+Audit of subsidiaries ﬁnancial statements pursuant to
+legislation 34 18
+Other services pursuant to such legislation 10 9
+Taxation services 5 7
+Other services including acquisitions 150 57
+1 1
+205 98
+5 5
+Filtronic plc Annual Report 2011 45 Notes to the
+Financial Statements
+for the year ended 31 May 2011
+9 Employees
+The average number of employees comprised:
+2011 2010
+Number Number
+Manufacturing 95 105
+Research and development 49 31
+Sales 1 –
+Administration 14 13
+1 1
+159 149
+5 5
+10 Compensation of directors
+Details of the remuneration, pension entitlements and share options of the individual directors are set out in the
+remuneration report on pages 18 to 22. The compensation of the directors was:
+2011 2010
+£000 £000
+Salary or fees 484 599
+Bonuses – 42
+Beneﬁts 26 30
+1 1
+Total remuneration excluding pension contributions and share-based payments 510 671
+Pension contributions 27 24
+Share-based payments 93 46
+1 1
+630 741
+5 5
+The directors are related parties.
+11 Related party transaction
+Chief Executive Ofﬁcer, Hemant Mardia’s wife is employed by the group. Her salary, car allowance and pension
+contributions amounted to £96,000 (2010 £96,000).
+46 Filtronic plc Annual Report 2011 Notes to the
+Financial Statements
+for the year ended 31 May 2011
+12 Finance income
+2011 2010
+£000 £000
+Interest income 79 113
+5 5
+13 Taxation
+The reconciliation of the effective tax rate is as follows:
+2011 2010
+£000 £000
+Loss before taxation
+Continuing operations (7,001) (1,021)
+1 1
+Loss before taxation (7,001) (1,021)
+5 5
+2011 2010
+£000 £000
+Loss before taxation multiplied by
+standard rate of corporation tax in the UK 27% (1,925) 28% (286)
+Disallowable items (2%) 114 (12%) 108
+Non-taxable consolidation adjustment –– 13% (130)
+Depreciation in advance of capital allowances (2%) 142 (17%) 178
+Deﬁned beneﬁt pension –– 3% (26)
+Pension contributions brought forward utilised 19% (1,322) 166% (1,688)
+Tax losses carried forward (37%) 2,665 (181%) 1,843
+1111
+Taxation 5% (326) ––
+5555
+Filtronic plc Annual Report 2011 47 Notes to the
+Financial Statements
+for the year ended 31 May 2011
+14 Loss per share
+Group
+2011 2010
+£000 £000
+Loss for the period
+Continuing operations (6,675) (1,021)
+Discontinued operations (265) –
+1 1
+Loss for the period (6,940) (1,021)
+5 5
+000 000
+Basic and diluted weighted average number of shares 92,873 74,323
+5 5
+Basic and diluted loss per share
+Continuing operations (7.19)p (1.37)p
+Discontinued operations (0.29)p –
+1 1
+Basic and diluted loss per share (7.48)p (1.37)p
+5 5
+Therewasnodifferenceintheweightedaveragenumberofsharesusedforthecalculationofbasicanddilutedloss
+per share as the effect of all potentially dilutive shares outstanding was anti-dilutive.
+48 Filtronic plc Annual Report 2011 Notes to the
+Financial Statements
+for the year ended 31 May 2011
+15 Investments in subsidiaries
+Company
+Investments in
+subsidiaries
+£000
+Cost
+At 1 June 2009 21,639
+Dissolved (11,093)
+1
+At 31 May 2010 10,546
+Additions 10,564
+1
+At 31 May 2011 21,110
+5
+Impairment
+At 1 June 2009 21,639
+Dissolved (11,093)
+1
+At 31 May 2010 10,546
+1
+At 31 May 2011 10,546
+5
+Carrying amount at 1 June 2009 –
+5
+Carrying amount at 31 May 2010 –
+5
+Carrying amount at 31 May 2011 10,564
+5
+The company’s subsidiaries are related parties.
+The subsidiaries at 31 May 2011, which were directly owned by Filtronic plc, were as follows:
+Name of Country of Description of Proportion Activity
+subsidiary incorporation equity held held
+Filtronic Broadband Limited UK 1p ordinary shares 100% Design and manufacture
+of microwave products
+for telecommunication
+systems
+Filtronic Holdings UK Limited UK £1 ordinary shares 100% Holding company
+Isotek (Holdings) Limited UK 1p ordinary shares 100% Holding company
+Owned by Isotek (Holdings) Limited:
+Isotek Electronics Limited UK 1p ordinary shares 100% Design and manufacture
+of Filtronic products for
+telecommunication
+systems
+Isotek Inc USA $1 ordinary shares 100% Design and manufacture
+of Filtronic products for
+telecommunication
+systems
+Isotek Limited UK 1p ordinary shares 100% Dormant company
+Owned by Isotek Electronics Limited:
+Isotek Hong Kong Holdings
+Limited Hong Kong HK $1 ordinary shares 100% Holding company
+Filtronic plc Annual Report 2011 49 Notes to the
+Financial Statements
+for the year ended 31 May 2011
+16 Goodwill and other intangibles
+Other
+intangibles
+(core
+Goodwill technology) Total
+£000 £000 £000
+Cost
+At 1 June 2010 – – –
+Additions 3,655 10,884 14,539
+111
+At 31 May 2011 3,655 10,884 14,539
+555
+Amortisation
+At 1 June 2010 – – –
+Provided in year – (1,209) (1,209)
+111
+At 31 May 2011 – (1,209) (1,209)
+555
+Carrying amount at 1 June 2010 – – –
+555
+Carrying amount at 31 May 2011 3,655 9,675 13,330
+555
+Goodwill and other intangibles have arisen in the period relating to the acquisition referred to in note 37.
+Goodwill is allocated to the Basestation cash generating unit (CGU) and this CGU represents the lowest level within
+the group at which the goodwill is monitored for internal management purposes, which is not higher than the
+group’s operating segments as reported in note 4. The group tests goodwill annually for impairment or more
+frequently if there are indications that goodwill may be impaired.
+The carrying value of intangible assets and goodwill has been assessed for impairment by reference to its value in
+use.Valueinusewasdeterminedbydiscountingthefuturecashﬂowsgeneratedfromthecontinuinguseoftheunit.
+The calculation of the value in use was based on the following key assumptions:
+! Cash ﬂows were projected to 31 May 2013 based on past experience and actual operating results;
+! Cash ﬂows for a further 8-year period were extrapolated. A growth factor was not applied to the projections as
+the value in use exceeded the carrying amounts before any such assumption was applied;
+! A pre-tax discount rate of 20% was applied in determining the recoverable amount of the unit, being the
+estimated weighted average cost of capital.
+Based on this testing the directors do not consider any of the goodwill or intangible assets to be impaired even
+allowing for a reasonable degree of sensitivity to the underlying assumptions, including the discount rate.
+50 Filtronic plc Annual Report 2011 Notes to the
+Financial Statements
+for the year ended 31 May 2011
+17 Property, plant and equipment
+Group
+Plant and
+equipment
+£000
+Cost
+At 1 June 2009 6,789
+Additions 639
+Disposals (1,579)
+1
+At 31 May 2010 5,849
+Assets acquired through acquisition of Isotek 260
+Additions 926
+Disposals (115)
+1
+At 31 May 2011 6,920
+5
+Depreciation and impairment
+At 1 June 2009 4,793
+Depreciation 601
+Disposals (1,543)
+1
+At 31 May 2010 3,851
+Depreciation of assets acquired through acquisition of Isotek 157
+Depreciation 523
+Disposals (96)
+1
+At 31 May 2011 4,435
+5
+Carrying amount at 1 June 2009 1,996
+5
+Carrying amount at 31 May 2010 1,998
+5
+Carrying amount at 31 May 2011 2,485
+5
+Filtronic plc Annual Report 2011 51 Notes to the
+Financial Statements
+for the year ended 31 May 2011
+18 Deferred tax
+Group Company
+2011 2010 2011 2010
+£000 £000 £000 £000
+Deferred tax liability 2,612 – – –
+5 5 5 5
+Thedeferredtaxliabilityrelatestotheintangibleassetsarisinguponacquisition.Theoriginalliabilitywas£2,938,000
+with £326,000 released to the income statement during the year.
+Deferredtaxclassiﬁedascurrentconsistsoftheelementthatwillberecognisedasincomeinthenextyear.Deferred
+tax classiﬁed as non-current will be released to the income statement over the remaining life.
+Deferred tax assets which have not been recognised:
+Group Company
+2011 2010 2011 2010
+£000 £000 £000 £000
+Depreciation in advance of capital allowances 1,823 1,811 507 546
+Pension contributions carried forward – 1,346 – 1,346
+Tax losses carried forward 15,431 12,065 12,666 12,065
+1 1 1 1
+17,254 15,222 13,173 13,957
+5 5 5 5
+Thedeferredtax assetshavenotbeenrecognisedwherethedirectorsconsiderthatitisunlikelythattheunderlying
+temporary differences will reverse in the foreseeable future.
+On 23 March 2011 the Chancellor announced the reduction in the main rate of UK corporation tax to 26 per cent
+with effect from 1 April 2011. This change became substantively enacted on 29 March 2011. The effect of the rate
+reductionisreflectedinthefiguresabove.TheChancelloralsoproposedchangestofurtherreducethemainrateof
+corporation tax by one per cent per annum to 23 per cent by 1 April 2014, but these changes have not yet been
+substantively enacted and therefore are not included in the figures above.
+19 Inventories
+Group Company
+2011 2010 2011 2010
+£000 £000 £000 £000
+Raw materials 897 1,403 – –
+Work in progress 342 346 – –
+Finished goods 438 249 – –
+1 1 1 1
+1,667 1,998 – –
+5 5 5 5
+Inventories are stated net of provision 1,775 1,332 – –
+5 5 5 5
+52 Filtronic plc Annual Report 2011 Notes to the
+Financial Statements
+for the year ended 31 May 2011
+20 Trade and other receivables
+Group Company
+2011 2010 2011 2010
+£000 £000 £000 £000
+Trade receivables 4,671 2,598 – –
+Group receivables – – 7,255 1,373
+Other receivables and prepayments 1,061 763 557 179
+Forward foreign exchange contracts 31 – – –
+1 1 1 1
+5,763 3,361 7,812 1,552
+5 5 5 5
+Trade receivables are stated net of provision – – – –
+5 5 5 5
+21 Trade and other payables
+Group Company
+2011 2010 2011 2010
+£000 £000 £000 £000
+Trade payables 4,197 1,544 46 6
+Group payables – – 2,551 2,551
+Other payables and accruals 1,288 1,342 337 545
+1 1 1 1
+5,485 2,886 2,934 3,102
+5 5 5 5
+22 Deferred income
+Deferred income classiﬁed as current consists of a capital grant made by a customer that will be recognised as
+income in the next year. Deferred income classiﬁed as non-current consists of the non-current portion that will be
+released to the income statement over the life of the asset.
+23 Provision
+Group Company
+2011 2010 2011 2010
+£000 £000 £000 £000
+Warranty provision
+Opening balance 706 1,314 – –
+Provision acquired through Isotek acquisition 40 – – –
+Used during the year (44) (285) – –
+Released unused during the year (441) (542) – –
+Charge for the year 176 219 – –
+1 1 1 1
+Closing balance 437 706 – –
+5 5 5 5
+24 Pension costs
+Group Company
+2011 2010 2011 2010
+£000 £000 £000 £000
+Deﬁned contribution schemes 277 211 14 15
+5 5 5 5
+Filtronic plc Annual Report 2011 53 Notes to the
+Financial Statements
+for the year ended 31 May 2011
+25 Share capital
+Group and Company
+Ordinary shares
+of 10p each
+Issued and fully paid
+Number £000
+At 1 June 2009 74,323,093 7,432
+11
+At 1 June 2010 74,323,093 7,432
+Shares issued in year 18,550,000 1,855
+11
+At 31 May 2011 92,873,093 9,287
+55
+Holders of the ordinary shares are entitled to receive dividends when declared, and are entitled to one vote
+per share at meetings of the company.
+The group issued 18.55m shares of nominal value 10p in part consideration for the entire share capital of Isotek
+Holdings Limited.
+IncompliancewiththeCompaniesAct2006thecompanyhasadoptedarticlesofassociationthathasdispensedwith
+the requirement for authorised share capital.
+26 Share premium
+Group and
+Company
+At 1 June 2010 –
+Premium on share issue 5,008
+Share issue costs (325)
+1
+At 31 May 2011 4,683
+5
+The shares issued as part of the consideration of Isotek (Holdings) Ltd were issued at a premium of 27p reﬂecting
+the market value of the shares at the date of acquisition net of issue costs of £325,000.
+27 Translation reserve
+Group
+£000
+At 1 June 2010 –
+Currency translation movement arising on consolidation (32)
+1
+At 31 May 2011 (32)
+5
+54 Filtronic plc Annual Report 2011 Notes to the
+Financial Statements
+for the year ended 31 May 2011
+28 Dividends
+The dividends recognised in equity and paid during the year were as follows:
+Group and
+Company
+2011 2010
+Per share £000 £000
+Annual dividend year ended 31 May 2009 1.00p – 743
+Annual dividend year ended 31 May 2010 1.00p 743 –
+1 1
+743 743
+5 5
+The directors are not proposing to pay a dividend for the year ended 31 May 2011.
+29 Retained earnings
+Group Company
+£000 £000
+At 1 June 2009 14,144 9,251
+Loss for the period (1,021) (1,929)
+Share-based payments 73 55
+Dividends (743) (743)
+11
+At 31 May 2010 12,453 6,634
+Loss for the period (6,940) (1,557)
+Share-based payments 122 91
+Dividends (743) (743)
+11
+At 31 May 2011 4,892 4,425
+55
+Filtronic plc Annual Report 2011 55 Notes to the
+Financial Statements
+for the year ended 31 May 2011
+30 Share options
+Therearetwosharesaveplansthathavebeenofferedtoemployees.Underbothplansemployeeswhojointheplan
+saveupto£250permonthforthreeyears.Themembersoftheplanweregrantedanumberofshareoptionsbased
+on the amount they would save over the three years. At the end of the three years the members have a six month
+period in which they can exercise the share options. The exercise price for an option was the middle market
+quotation of Filtronic plc’s ordinary shares as derived from the Ofﬁcial List of the United Kingdom Financial Services
+Authority on the dealing day immediately prior to the plan offer date.
+Sharesave Plan – Scheme 1
+Weighted Weighted
+average average
+exercise Number exercise Number
+price of options price of options
+2011 2011 2010 2010
+Outstanding at the beginning of the period 25p 615,450 25p 857,100
+Granted during the period 25p – 25p –
+Cancelled during the period 25p (82,350) 25p (241,650)
+1 1
+Outstanding at the end of the period 25p 533,100 25p 615,450
+5 5
+Exercisable at the end of the period – ––
+5 5
+The ﬁrst sharesave plan was offered to employees in February 2009.
+The options outstanding at 31 May 2011 for Scheme 1 have a weighted average remaining contractual life of
+1.3 years.
+The share options granted under this scheme have an exercise price of 25p and have an exercise period from
+1 April 2012 to October 2012.
+Sharesave Plan – Scheme 2
+Weighted
+average
+exercise Number
+price of options
+2011 2011
+Outstanding at the beginning of the period 34.2p –
+Granted during the period 34.2p 321,981
+Cancelled during the period 34.2p (34,208)
+1
+Outstanding at the end of the period 34.2p 287,773
+5
+Exercisable at the end of the period –
+5
+The second sharesave plan was offered to employees in November 2010.
+The options outstanding at 31 May 2011 for Scheme 2 have a weighted average remaining contractual life of
+2.9 years.
+The share options granted during the year to May 2011 have an exercise price of 34.2p and have an exercise period
+from 1 November 2013 to 30 April 2014.
+56 Filtronic plc Annual Report 2011 Notes to the
+Financial Statements
+for the year ended 31 May 2011
+31 Share awards
+Number of Number of
+share awards share awards
+2011 2010
+Performance Share Plan
+Outstanding at the beginning of the period 569,388 –
+Awarded during the period 497,709 569,388
+1 1
+Outstanding at the end of the period 1,067,097 569,388
+5 5
+The share awards awarded during the year to 31 May 2010 have a weighted average remaining contractual life
+of 1.2 years.
+The share awards awarded during the year to 31 May 2011 have a weighted average remaining contractual life
+of 2.5 years.
+Undertheplanintheyearto31May2010shareawardsweremadetoexecutivedirectorsandseniormanagers.The
+vesting of the awards is subject to performance targets based on growth in earnings per share (EPS) over a three
+year period. If growth in EPS exceeds growth in the Retail Price Index (RPI) by 3% per year (on a compound basis)
+then 25% of the awarded shares will vest. If growth in EPS exceeds growth in RPI by 10% per year (on a compound
+basis) then 100% of the awarded shares will vest. If growth in EPS falls between these two targets, then the awarded
+shares will vest on a sliding scale between 25% and 100% of the awarded shares.
+Under the plan in the year to 31 May 2011 further share awards were made to executive directors and senior
+managers. The vesting of the share awards is subject to performance targets based on growth in earnings per share
+(EPS) over a three year period. If EPS grows such that for the year to 31 May 2013 it exceeds a figure corresponding
+to £5.5m of earnings before intangible amortisation, exceptionals, interest and tax, then 25% of the awarded shares
+will vest. If EPS grows such that for the year to 31 May 2013 it exceeds a figure corresponding to £7.0m of earnings
+before intangible amortisation, exceptionals, interest and tax, then 100% of the awarded shares will vest. If EPS
+grows to be between these two targets then the awarded shares will vest on a sliding scale between 25% and 100%
+of the awarded shares.
+32 Share-based payments
+Group Company
+2011 2010 2011 2010
+£000 £000 £000 £000
+Share options expense 34 19 3 1
+Share awards expense 88 54 88 54
+1 1 1 1
+122 73 91 55
+5 5 5 5
+The share options expense was the fair value of the share options at the date of grant spread over the expected
+vesting period of the share options. The fair value of the share options at the date of grant was measured using the
+Black-Scholes model.
+Filtronic plc Annual Report 2011 57 Notes to the
+Financial Statements
+for the year ended 31 May 2011
+32 Share-based payments (continued)
+The inputs to the Black-Scholes model and the weighted average fair value of the share options granted during the
+year were as follows:
+Group Company
+2011 2010 2011 2010
+£000 £000 £000 £000
+Number of share options granted 321,981 – 30,736 –
+Weighted average share price 38p – 38p –
+Weighted average exercise price 34.2p – 34.2p –
+Expected volatility 60% – 60% –
+Expected life 3.1 years – 3.1 years –
+Risk free interest rate 3% – 3% –
+Weighted average fair value 12p – 12p –
+Expected volatility is the estimate of the volatility of the share price over the expected life of the share options.
+The share awards expense was the fair value of the share awards at the date of award spread over the expected
+vesting period of the share awards. The fair value of the share awards at the date of award was the market price of
+the shares on that day.
+The fair value of the share awards awarded during the year were as follows:
+Group Company
+2011 2010 2011 2010
+£000 £000 £000 £000
+Number of share awards awarded 497,709 569,388 157,944 154,411
+Weighted average share price 32p 34p 32p 36p
+Expected life 3.0 years 3.0 years 3.0 years 3.0 years
+Weighted average fair value 32p 34p 32p 36p
+33 Operating lease commitments
+At the balance sheet date there were commitments for lease payments under non-cancellable operating leases,
+which fall due as follows:
+Group Company
+2011 2010 2011 2010
+£000 £000 £000 £000
+Less than one year 149 159 110 105
+Between one and ﬁve years 219 324 190 280
+1 1 1 1
+368 483 300 385
+5 5 5 5
+Operating leases are for land and buildings and motor vehicles and the lease terms are for periods of one to
+three years.
+58 Filtronic plc Annual Report 2011 Notes to the
+Financial Statements
+for the year ended 31 May 2011
+34 Capital expenditure commitments
+Group Company
+2011 2010 2011 2010
+£000 £000 £000 £000
+Capital expenditure contracted for at the
+balance sheet date but not provided in the
+ﬁnancial statements 284 165 – –
+5 5 5 5
+35 Note to the consolidated cash flow statement
+Group
+2011 2010
+note £000 £000
+Operating loss
+Continuing operations (7,080) (1,134)
+5 5
+Net cash (used in)/from operating activities
+Continuing operations (4,371) 1,926
+5 5
+Net cash used in investing activities
+Continuing operations (6,714) (526)
+Sale of discontinued operations 36 (265) (635)
+1 1
+(6,979) (1,161)
+5 5
+Net cash used in ﬁnancing activities
+Continuing operations (743) (743)
+5 5
+36 Net cash from sale of discontinued operations
+Group
+2011 2010
+£000 £000
+Tax paid – (635)
+Historic warranty claim (265) –
+1 1
+(265) (635)
+5 5
+Filtronic plc Annual Report 2011 59 Notes to the
+Financial Statements
+for the year ended 31 May 2011
+37 Acquisition in year
+On 16 November 2010 Filtronic acquired the share capital of Isotek (Holdings) Limited (“Isotek”). Isotek employs
+approximately 51 staff predominantly in the United Kingdom and in the United States, and develops and markets
+leading edge telecoms products for a range of wireless infrastructure telecoms applications.
+The consideration is made up of:
+£000
+Share consideration (18,550,000) at completion date market value 6,864
+Cash consideration 4,230
+1
+Total consideration for Isotek 11,094
+Estimated working capital adjustment to consideration (530)
+1
+Estimated ﬁnal consideration for Isotek 10,564
+5
+Asat31May2011thefairvalueoftheacquiredassets,liabilitiesandgoodwillhasbeendeterminedonaprovisional
+basis pending ﬁnalisation of the working capital adjustment.
+The Offer to Isotek shareholders included an adjustment to consideration based on the level of working capital and
+netcashonthedateofacquisition.TheestimateaboveisbasedupontheworkingcapitaldataincludedintheIsotek
+companies opening balance sheets used to prepare these accounts but cannot be ﬁnal until the working capital
+adjustment is agreed.
+There were no signiﬁcant fair value adjustments arising on the acquisition other than the recognition of intangible
+assets and deferred tax noted below.
+The goodwill arising on the acquisition relates to the skills and talents of the acquired business workforce and the
+beneﬁts of future market expansion. These beneﬁts are not recognised separately from goodwill as the future
+economic beneﬁts arising cannot be reliably measured.
+Intangibles relating to the core technology and know-how are being amortised over a period of 4.5 years.
+SincetheacquisitionIsotekhascarriedrevenuesof£3.4m,andhasmadelossesfromoperationsof£2.0mexcluding
+exceptional items and amortisation.
+Book value Fair value Fair value
+pre acquisition adjustments of net assets
+£000 £000 £000
+Intangibles on acquisition – 10,884 10,884
+Deferred tax liability – (2,939) (2,939)
+Tangible ﬁxed assets 105 – 105
+Current assets 2,573 (20) 2,553
+Current liabilities (3,585) (109) (3,694)
+111
+(907) 7,816 6,909
+Goodwill arising on acquisition 3,655
+1
+Total consideration (as above) 10,564
+Non-cash consideration (shares issued and provisional
+working capital adjustment) (6,334)
+Cash (acquired) (68)
+1
+Net cash outﬂow 4,162
+5
+60 Filtronic plc Annual Report 2011 Notes to the
+Financial Statements
+for the year ended 31 May 2011
+37 Acquisition in period (continued)
+ThefollowingsummarypresentsthegroupasifIsotekwasacquiredon1June2010.Theamountsincludetheresults
+of the acquired business but do not include any exceptional items or any amortisation of separately identiﬁed
+intangibles,whicharebeingamortisedover4.5years.Inadditiontheamountsdonotincludeanypossiblesynergies
+fromtheacquisition.Theresultsoftheacquiredcompaniesfortheperiodbeforeacquisitionhavenotbeenadjusted
+to reﬂect Filtronic accounting policies nor to reﬂect fair value adjustments made on acquisition. The information is
+provided for illustrative purposes only and does not necessarily reﬂect the actual results that would have occurred,
+nor is it necessarily indicative of the future results of the combined entities.
+Pro forma
+group
+£000
+Revenue 16,646
+Loss before tax, amortisation and exceptional items (6,755)
+1
+38 Financial instruments
+Fair value
+The carrying amount of all the ﬁnancial assets and liabilities approximate to their fair value as described below.
+Cash and cash equivalents comprise bank balances and bank deposits with a maturity of three months or less.
+Tradeandotherreceivablesareallreceivableinlessthanoneyear.Tradereceivablesaregenerallyreceivablewithin
+90 days.
+Trade and other payables are all payable in less than one year. Trade payables are generally payable within 90 days.
+Liquidity risk
+The group and company hold signiﬁcant cash balances and have no debt. Cash is held on bank deposit for varying
+periods from overnight to six months to ensure all liabilities can be met as they fall due. The amount of the cash
+balances results in liquidity risk being very low.
+Credit risk
+The exposure to credit risk is limited to the carrying amount of cash and cash equivalents and trade and other
+receivables in the balance sheet as follows:
+Group Company
+2011 2010 2011 2010
+£000 £000 £000 £000
+Cash and cash equivalents 4,120 16,245 2,953 15,616
+Trade and other receivables 5,763 3,361 7,812 1,552
+1 1 1 1
+9,883 19,606 10,765 17,168
+5 5 5 5
+Filtronic plc Annual Report 2011 61 Notes to the
+Financial Statements
+for the year ended 31 May 2011
+38 Financial instruments (continued)
+The cash and cash equivalents in the balance sheet were on deposit with large banks with high credit ratings
+as follows:
+Group Company
+2011 2010 2011 2010
+£000 £000 £000 £000
+Barclays Bank 3,312 11,245 2,413 10,616
+Santander Bank 540 5,000 540 5,000
+Bank of America 227 – – –
+HSBC 41 – – –
+1 1 1 1
+4,120 16,245 2,953 15,616
+5 5 5 5
+The credit risk related to cash and cash equivalents is considered to be low due to the banks being large with high
+credit ratings.
+Credit risk is primarily related to trade receivables. The group’s businesses are concentrated on long term
+relationships with a small number of larger and long established original equipment manufacturers. Overdue
+receivables are regularly monitored and appropriate action is taken to collect payment. The group has historically
+incurred only low levels of unrecoverable receivables. Therefore credit risk is considered to be low.
+The company has no trade receivables.
+Trade receivables included the following amounts for the group’s largest customers.
+Group
+2011 2010
+£000 £000
+Customer one 2,147 2,154
+Customer two 1,481 –
+Customer three 222 –
+Other customers 821 444
+1 1
+4,671 2,598
+5 5
+The age of trade receivables that have not been provided for was as follows:
+Group
+2011 2010
+£000 £000
+Not past due 4,609 2,515
+Past due less than three months 62 83
+1 1
+4,671 2,598
+5 5
+The age of trade receivables that have been provided for was as follows:
+Group
+2011 2010
+£000 £000
+Past due less than three months – –
+5 5
+62 Filtronic plc Annual Report 2011 Notes to the
+Financial Statements
+for the year ended 31 May 2011
+38 Financial instruments (continued)
+The movement in the provision for doubtful trade receivables was as follows:
+Group
+2011 2010
+£000 £000
+Opening balance – 15
+Release for the year – (15)
+1 1
+Closing balance – –
+5 5
+Interest rate risk
+Cashisheldonshorttermbankdepositswhichearninterestatvariablemoneymarketdepositrates.At31May2011
+£1,986,000 was held in Barclays on short term deposit; £1,000,000 with an interest rate of 1.25% and £986,000 with
+an interest rate of 0.7%. A further £540,000 was held in Santander on short term deposit with an interest rate of
+1.25%. Sterling interest rates are very low and therefore interest rate risk is considered to be low.
+The interest rate sensitivity of the expected annual interest income assuming a balance on deposit of £2,500,000 is
+as follows:
+Interest rate Expected annual interest income
+£000
+1.5% 38
+1.0% 25
+0.5% 13
+Foreign currency risk
+The group’s and company’s reporting currency is sterling, which is also the company’s functional currency.
+The functional currencies of the subsidiaries are sterling and US dollar.
+The group’s results and ﬁnancial position are affected by ﬂuctuations in foreign currency exchange rates.
+The group generates a surplus of US dollars as most customers are now invoiced in US dollars. The nature of the
+group’s businesses means that there is limited visibility of future revenues in US dollars. Therefore when forward
+foreign exchange contracts are used to reduce the currency risk on the surplus currency expected to be generated,
+they are usually only for short term periods of no more than six months. If sterling were to strengthen signiﬁcantly
+this could materially reduce the group’s revenue and operating result.
+Forward foreign exchange contracts may also be used to reduce the foreign currency risk on other transactions.
+At 31 May 2011 there were three outstanding forward foreign exchange contracts.
+Nearly all cash is held in sterling.
+Filtronic plc Annual Report 2011 63 Notes to the
+Financial Statements
+for the year ended 31 May 2011
+38 Financial instruments (continued)
+The group’s exposure to foreign currency risk for cash and cash equivalents, trade receivables and trade payables
+was as follows:
+Group
+2011 2010
+EUR SEK USD EUR SEK USD
+£000 £000 £000 £000 £000 £000
+Cash and cash equivalents 446 – 659 535 82 –
+Trade receivables 143 – 4,358 405 95
+Trade payables (425) – (4,057) (392) – (57)
+111111
+Net exposure 164 – 960 548 91 (52)
+555555
+The sensitivity of the group operating proﬁt from continuing operations to US dollars to sterling exchange rate,
+assuming all other variables remain constant, is as follows:
+IftheUSdollarhadbeenonepercentstronger/weakeragainststerlingthroughouttheyearended31May2011then
+the group operating proﬁt from continuing operations would have been £46,000 higher/lower.
+The company has no signiﬁcant exposure to foreign currency risk.
+Capital management
+The group’s and company’s capital is the total equity which comprises ordinary share capital and retained earnings.
+The group and company have no debt or undrawn debt facilities. At 31 May 2011 the group had a cash balance of
+£4,120,000andthecompanyhadacashbalanceof£2,953,000.Thegroupandcompanyhavesufﬁcientcashtocover
+working capital requirements and capital expenditure plans.
+The group’s objectives when managing capital are to safeguard the group’s ability to continue as a going concern
+in order to provide future returns for shareholders.
+39 Forward-looking statements
+Certain statements in this annual report are forward-looking. Where the annual report includes forward-looking
+statements, these are made by the directors in good faith based on the information available to them at the time of
+theirapprovalofthisreport.Suchstatementsarebasedoncurrentexpectationsandaresubjecttoanumberofrisks
+and uncertainties, including both economic and business risk factors that could cause actual events or results to
+differ materially from any expected future events or results referred to in these forward-looking statements. Unless
+otherwise required by applicable law, regulation or accounting standard, the group undertakes no obligation to
+update any forward-looking statements whether as a result of new information, future events or otherwise.
+64 Filtronic plc Annual Report 2011 Shareholder Information
+Annual General Meeting
+The Annual General Meeting of Filtronic plc will be held at Pinsent Masons LLP, 1 Park Row, Leeds LS1 5AB on Friday
+23September2011at11.00am.Thenoticeofmeeting,togetherwithdetailsofbusinesstobeconductedatthemeeting
+and a form of proxy, is being circulated to shareholders with this report.
+Financial calendar
+Provisional dates for the announcement of results:
+Interim results to 30 November 2011 30January2012
+Final results to 31 May 2012 30July2012
+Website
+The company’s website address is www.ﬁltronic.co.uk
+The website includes company news and investor sections. The annual and half-yearly reports of the company can be
+downloaded from the website. The company’s share price is also available on the website.
+Shareholder enquiries and change of address
+Shareholders should direct all enquiries regarding their shareholdings and notiﬁcation of change of address to the
+company’s registrars:
+Capita Registrars
+The Registry
+34 Beckenham Road
+Beckenham
+Kent
+BR3 4TU
+Tel: 0870 162 3100
+Capita Registrars also provide a range of online shareholder services at www.capitashareportal.com which shareholders
+may ﬁnd useful.
+Filtronic plc Annual Report 2011 65 Corporate Directory
+Company secretary
+M Moynihan
+Company number
+2891064
+Registered office
+Filtronic plc
+Unit 2
+Acorn Park
+Charlestown
+Shipley
+West Yorkshire
+BD17 7SW
+Tel: 01274 535610
+Fax: 01274 598263
+Registrars
+Capita Registrars
+The Registry
+34 Beckenham Road
+Beckenham
+Kent
+BR3 4TU
+Tel: 0870 162 3100
+Stockbrokers
+Panmure Gordon & Co. PLC
+155 Moorgate
+London
+EC2M 6XB
+Tel: 020 7459 3600
+Auditors
+KPMG Audit Plc
+Chartered Accountants
+1 The Embankment
+Neville Street
+Leeds
+LS1 4DW
+Bankers
+Barclays Bank PLC
+10 Market Street
+Bradford
+BD1 1NR
+Financial public relations
+Walbrook PR Limited
+4 Lombard Street
+London
+EC3V 9HD
+Tel: 020 7933 8780
+66 Filtronic plc Annual Report 2011  Filtronic plc Annual Report 2011
+Filtronic plc
+Annual Report
+2011
+Inspired Wireless Solutions

@@ -1,0 +1,258 @@
+ A CS	pr o vides	so f tw ar e	and	servic es	
+t o	the	Primary	C ar e	mark e t .	With	the	
+addition	o f	BSG,	these	servic es	wil l	
+include	hosting ,	IT	ne tw ork	design	and	
+deplo yment	c apabilities.	C ust omers	
+wil l	include	businesses	in	bo th	the	
+no t - f or -pr ofit	and	c ommer cial	sect ors.
+AdAsTRA
+adastra’s core software is configured for 
+each customer to fit their own needs 
+and is used in many environments. 
+the software is used throughout the 
+uk nHs (as well as in ireland and 
+the netherlands) in many different 
+environments, including:
+GP 	 Out - o f -Hours: adastra’s software 
+was originally developed to address the 
+needs of gPs providing health care during 
+the night (out-of-Hours). By working 
+together to form teams, each gP can 
+ensure health care to their own patients 
+but each gP does not personally need to 
+be on-call as regularly. adastra supports 
+95% of the out-of-Hours operations.
+W al k -in 	 C entr es: the nHs created w alk-in 
+centres as a way of providing quick 
+and efficient health care to patients in 
+whatever region they were and without 
+waiting for a gP appointment. Patients 
+are served on a first-come first-served 
+basis and walk-in centres are usually 
+nurse-led. some of the walk-in centres 
+are now becoming Polyclincs (see below).
+Ur gent	C ar e	F r ont -Ends: emergency 
+care departments in hospitals are often 
+visited by patients with non-urgent 
+health problems (for example, a simple 
+headache). adastra’s software allows 
+these cases to be filtered from the 
+urgent ones and managed separately 
+and efficiently and not taking vital 
+resources from emergency care.
+P oly clinic s: the nHs announced in 2008 
+the creation of up to 150 Polyclinics 
+(also known as gP-led Health centres, 
+equitable access centres or darzi clinics) 
+following a review by lord d arzi. these 
+centres are single locations where 
+multiple nHs services can be accessed, 
+for example, gPs, pharmacy, blood 
+testing and nurse appointments. 
+C al l	C entr es	&	24-Hour	Help	Lines: 
+adastra’s software supports the 
+nHsdirect, nHs24 and nHs w ales 
+call centres and other single point of 
+access organisations. for example, a Pct 
+wishing to provide one phone number 
+for health care support can use adastra’s 
+software to manage the cases and to 
+distribute the information back to the 
+patient’s own gPs and other appropriate 
+centres as necessary.
+Minor	Injuries	Units: in england there 
+are 225 minor injury units where a 
+patient with a non-urgent injury can 
+go to be treated. the concept is similar 
+to the walk-in centres but minor injury 
+units tend to have gP back-up and 
+deal mainly with injuries (for example, 
+superficial cuts) rather than general 
+health issues.
+The	 Home: customers providing at-home 
+health support (for example, transmitting 
+sugar level data from a diabetic patient 
+for analysis at a central point) can use 
+adastra’s software to manage patient 
+information and any clinical actions that 
+need to be taken, such as a nurse visit.
+Mobile	D a ta: adastra offers a toughened 
+laptop solution that gPs and other 
+clinicians can use to connect to a central 
+base and work from home remotely 
+from any other location. the laptops 
+and the connectivity are nHs security 
+compliant and provide flexibility in 
+health care provision.
+.
+New Products
+iNurse: adastra’s inurse is a mobile 
+hand-held unit that allows nurses 
+or other community care workers to 
+receive work schedules, instructions 
+and patient information and to send 
+feedback once a visit to a patient is 
+complete. the inurse product is a new 
+offering and the pilot test in derby 
+resulted in significant customer benefits 
+including extra patient visits, better 
+nurse security and more timely and 
+accurate recording and communication 
+of patient care information.
+End- of -Lif e 	 R egister: Patients who 
+have terminal illnesses often have 
+personal preferences for treatment, 
+such as the desire to be or not be 
+resuscitated or to die at home. in 2008, 
+the nHs in england announced that all 
+Pcts should implement an end-of-l ife 
+r egister to log each patient’s wishes 
+so that the nHs best serves them. 
+adastra offers a hosted facility based 
+on its core software that allows Pcts 
+to quickly implement such a register, 
+giving access to authorised health 
+workers and linking it back to their 
+current adastra infrastructure.
+6
+ADVANCED COMPUTER SOFTWARE ANNUAL REPORT 2009 SERVICE OVERVIEW
+Service overview
+The Derby PCT 
+pilot of iNurse 
+increased nurse 
+visits by 1 - 2 
+per day
+glossary of terms: page 61 Summary 	 C ar e 	 R ec or d 	 (SCR): adastra has 
+worked with cf H to develop the ability to 
+see a patient’s scr during a patient call/
+visit. for example, a doctor could see 
+on screen, without having to ask, that 
+a patient calling is allergic to antibiotics 
+and had a heart attack two years ago. 
+r olling out the scr has been one of 
+the major goals of cf H and adastra’s 
+software can provide the information 
+either from the central repository (the 
+“spine”) or directly via web-access to 
+gP-run systems such as emis.
+Additional Services
+Har dw ar e 	 and 	 Netw orking: adastra 
+designs and deploys the networking 
+infrastructure needed by customers to 
+implement the adastra software. the 
+benefits to the customer include having 
+one supplier with full responsibility, 
+an infrastructure best adapted to the 
+adastra software and the benefit of up 
+to date technical knowledge.
+Servic e 	 Support : adastra provides 
+support services 24hours, 7 days week 
+every week of the year. any issue 
+raised by customers is dealt with in a 
+professional and efficient manner with 
+the objective of solving the issue as 
+quickly and smoothly as possible.
+Pr oject 	 Management : a team of 
+project managers plan and manage 
+the implementation of new and/or 
+upgraded software into a customer’s 
+working environment and support that 
+customer through go-live.
+T r aining: a dedicated team of trainers 
+provide on-site training for all customer 
+contacts. the training covers clinical 
+and non-clinical user functionality 
+and reporting for nHs reporting 
+requirements. 
+History of Adastra
+the story of adastra began in 1992 
+when lynn woods, now executive 
+advisor to the acs Board, was appointed 
+to manage the south east kent 
+association of doctors on c all (seadoc), 
+based in folkestone. seadoc was one 
+of many gP co-operative organisations 
+formed across the uk to provide co-
+ordinated (out-of-Hours) services.
+seadoc quickly recognised that a 
+computer system would be needed to 
+manage the high volume of patient 
+calls electronically. with no suitable 
+software product available for use by 
+co-operatives, seadoc commissioned 
+a system to its own specification. 
+james Berry, a 19 year old computer 
+sciences student at the university of 
+southampton, was asked to tackle the 
+project, and in december 1993 james 
+produced his first version of what was 
+to become adastra. it was an immediate 
+success and adastra merged with rival 
+provider owl software in may 2002. 
+in august 2008, acs acquired adastra.
+BsG
+Bsg is a managed services company 
+that designs, deploys and operates  
+it solutions to small and medium  
+size businesses. Bsg offers four  
+main services:
+Managed 	 Servic es: from utility 
+functions, such as email, monitoring & 
+backup, through to the outsourcing of an 
+entire it environment for a customer
+Applications 	 Solutions: application 
+development and consultancy, using a 
+blended resourcing model of on-shore 
+consultancy & project management and 
+off-shore development 
+Infr astructur e 	 Solutions: working with 
+tier 1 vendors to design and deploy 
+hardware and network solutions to  
+help customers achieve more from their 
+it investment
+T r aining 	 Servic es: end-user application 
+and technical training adapted to the 
+needs of each customer, for example, 
+sharePoint training.
+History of BSG
+formed in 1987, Bsg began its trading 
+history as an it reseller, selling hardware 
+and software to its clients in london and 
+the south east.
+in 1996, whilst most of the reseller 
+community continued to focus on 
+hardware, Bsg made the strategic 
+decision to focus on managed services 
+as a core part of the business, offering 
+managed and hosted data centre 
+solutions to its customers. Based on 
+strong product offerings, a strong focus 
+on customer satisfaction and three small 
+acquisitions, Bsg grew to a business 
+generating revenues of over £13m in 
+its core managed services business and 
+£18m in infrastructure sales.
+on 8 may 2009, acs announced its 
+intention to acquire Bsg. the acquisition 
+will allow acs to offer hosting and 
+other support services to its Primary 
+care customers and bring new adastra 
+solutions, such as inurse and end-of-life 
+r egister, to market more quickly.
+7
+SERVICE OVERVIEW ANNUAL REPORT 2009 ADVANCED COMPUTER SOFTWARE
+Adastra software 
+supports 14 million 
+patient episodes 
+every year – 
+equivalent to three 
+Wembley Stadium 
+crowds each week.
+“A t	the	Thorndik e	Sur gery	w e	c ar e	f or	o v er	13 ,000	pa tients.	Ur gent	c ar e ,	when	the	
+sur gery	is	shut ,	is	pr o vided	b y	Medw a y	On	C al l	C ar e	who	use	Adastr a.	It	is	v ery	
+e asy	t o	pr o vide	c ontinuing	c ar e	f or	our	pa tients	the	ne x t	da y	as	al l	the	inf orma tion	
+fr om	an y	c ontacts	a t	night	flo w	aut oma tic al ly	fr om	Adastr a	int o	the	document	
+management	f acility	in	our	sur gery ’ s	c omput er	sy st em.	When	seeing	the	pa tient	f or	
+an y	f ol lo w	up	c onsulta tion	I	kno w	e x actly	wha t	tr e a tment	the	pa tient	has	r ec eiv ed	
+and	c an	then	manage	the	pa tient	mor e	appr opria t ely .”
+dr jash tanday, senior Partner, dame sybil thorndike surgery, r ochester, kent.

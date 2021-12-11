@@ -1,0 +1,233 @@
+ Driving innovation
+This year has been a turning point  
+as many of our new solutions hit the 
+marketplace and gained signiﬁcant 
+traction. We saw a big increase in  
+licence orders from our new solutions 
+which contributed 41% of our total 
+licence revenues. We are pleased to  
+see that our hard work and commitment 
+to BankFusion is starting to pay off. 
+Our development teams are using the 
+BankFusion architecture to unlock the 
+depth and breadth of ﬁnancial services 
+functionality that we have embedded 
+within our different products and make  
+it available to all our customers. With 
+BankFusion we can build a component  
+or application once and re-use it many 
+times – for example, enabling the treasury 
+capabilities within our Opics solution  
+to be made available within BankFusion 
+Universal Banking. This makes our 
+development processes more efﬁcient  
+and effective but, more importantly, it 
+enables us to deliver more comprehensive, 
+integrated solutions to our customers  
+and accelerate time to market.
+With clear development principles ﬁrmly 
+in place, we have been able to construct 
+the building blocks for our new solutions 
+and foster innovation within the ﬁnancial 
+services technology sector.
+Improving quality and service levels
+This year, we launched a major quality 
+initiative to improve customer service 
+levels and new code quality for all our 
+new solutions. As part of the programme, 
+we are introducing new, improved 
+service level agreements to give 
+customers greater certainty over when 
+they can expect problems to be resolved. 
+We are also committing resources to 
+drive down customer defect backlogs 
+thus ensuring that when customers raise 
+problems, they are dealt with quickly. 
+Finally, we are strengthening our testing 
+practices to improve the quality of our 
+new code releases. Speciﬁcally, we  
+are increasing the coverage of our test 
+cases, introducing continuous integration 
+and automated testing. We are also using 
+customer test cases in our own testing; 
+this not only improves the coverage of 
+our testing processes but it means that 
+customers can shorten their own testing 
+cycles.
+Delivering the next generation of 
+banking systems
+We are delivering much needed 
+innovation in the core banking systems 
+space with our BankFusion solutions, the 
+foundation of which is the BankFusion 
+Platform – a process-centric graphical 
+development environment that enables 
+business processes to be created or 
+re-conﬁgured quickly and easily. We 
+used the BankFusion Platform to build 
+BankFusion Universal Banking (UB) –  
+a completely new retail banking solution. 
+In addition, we are building out a set  
+of shared applications starting with  
+Teller, Loan Origination and Islamic 
+Banking to extend the functionality  
+of BankFusion UB, as well as other  
+Misys and third party banking systems. 
+We plan to make the BankFusion 
+Platform available to banks to extend 
+their own banking systems, utilising 
+pre-conﬁgured common banking 
+services and shared applications  
+from Misys as well as in-house and 
+third-party applications. This is a 
+completely new approach that enables 
+banks to maximise the value of their 
+existing assets.
+Maximising functionality,  
+minimising disruption
+Many banks need to add new capabilities 
+to their core banking systems without the 
+disruption of a major system replacement. 
+BankFusion banking solutions meet this 
+requirement by enabling clients to extend 
+the life of their existing systems. Since its 
+general release in September 2010, the 
+rapid take-up of BankFusion Equation 
+has demonstrated the demand for  
+a new approach within our own client 
+base. We will also extend this capability  
+to non-Misys customers who can use 
+BankFusion to incorporate new 
+functionality into their in-house or  
+legacy core banking systems.
+
+
+For more information on our Banking 
+business, please go to page 30
+Overview
+Misys Leading technology and innovation 
+16 Annual Report 2011 Harnessing the power of the portal
+Our customers are shifting from highly-
+geared lending to fee-earning activities. 
+Misys is providing integrated transaction 
+banking services to banks who seek  
+to improve and expand these services  
+for their corporate clients. Our portal 
+technology means that banks can run 
+trade ﬁnance and cash management 
+applications on the same platform, 
+beneﬁt from more efﬁcient systems 
+management and reduced cost of 
+ownership, and leverage a ﬂexible 
+platform to expand into new  
+geographies and banking services. 
+Unlocking the value of our capital 
+markets solutions
+Our BankFusion service-oriented 
+architecture (SOA) strategy is also being 
+implemented across our capital markets 
+solutions to make it easier for ﬁnancial 
+institutions to implement, consume and 
+scale our solutions according to their 
+speciﬁc business requirements. Our 
+componentisation project will extend  
+to the recently acquired Misys Sophis 
+solutions to provide even greater 
+cross-asset class coverage, portfolio 
+management and risk management 
+capabilities to both sell-side and  
+buy-side clients.
+Responding to market requirements
+The fast pace of change in the capital 
+markets means that our solutions must 
+be kept up-to-date with market and 
+regulatory changes as well as local 
+requirements. Our teams are constantly 
+working with clients to ensure that we 
+deliver the capabilities they need to run 
+their businesses.
+Risk management
+We have a wealth of risk management 
+capabilities within our solutions that 
+address the needs of the Capital Markets 
+sector, even more so with the addition  
+of Misys Sophis. Our intention is to 
+consolidate the best of breed components 
+from the Misys Sophis Risk Management 
+Solution, Misys Eagleye, Misys Risk Vision 
+and Misys Opics Risk Plus into a global 
+enterprise risk management solution that 
+will be available on a single platform. 
+Phase 1 of this project will create a 
+comprehensive market risk solution so  
+that clients can monitor and measure  
+the full range of market risks, including VAR 
+calculations (Value at Risk) and implement 
+stress testing scenarios direct from their 
+front ofﬁce application. Phase 2 will extend 
+the solution to include credit risk. 
+Technology trends
+While much of our development effort 
+is focused on delivering solutions that 
+meet banks’ short-to-medium term 
+requirements, we actively track trends  
+to determine the future development of 
+our solutions. We are seeing increased 
+demand for our hosted services across 
+many of our solutions and, in the longer 
+term, we believe cloud computing 
+represents a signiﬁcant opportunity to 
+deliver our solutions on a self-service, 
+pay-as-you-go basis. We are working 
+actively with Microsoft and other partners 
+to ensure our solutions are ready for the 
+cloud when customer demand emerges. 
+Pioneers in Open Source
+Misys Open Source Solutions,  
+dedicated to the development and 
+distribution of open source solutions,  
+is growing into a major player in the 
+rapidly emerging carbon and healthcare 
+markets. Our pioneering healthcare 
+information exchanges and carbon 
+registry systems have attracted the 
+attention of government and voluntary 
+agencies and major corporations 
+worldwide.
+Innovative ideas from our employees  
+help to create new solutions that enable our 
+customers to achieve competitive advantage 
+and position Misys as an industry leader. 
+Our inventors work tirelessly to ensure  
+that their ideas will succeed. In 2010,  
+we launched our Intellectual Property 
+Programme to help encourage and protect 
+the value of our innovation.
+We ﬁled our ﬁrst patent application in  
+the US for BankFusion in 2010. This was 
+followed by two further applications in 2011, 
+a second for BankFusion and another for 
+mobile banking. We expect to ﬁle additional 
+patent applications in the coming year 
+relating to additional BankFusion features, 
+new Misys Open Source offerings and new 
+Trade Portal features.
+
+
+“ Patents are core assets that uniquely 
+secure company innovation and will 
+play a key role in realising the long 
+term business goals of Misys. We will 
+continue to encourage our innovators 
+and work to develop our Intellectual 
+Property Programme even further.” 
+Robin Crewe,  
+Chief Technology Ofﬁcer
+
+of orders came from new solutions
+For more information on our Capital 
+Markets business, please go to  
+pages 26 to 29
+Overview
+Misys Leading technology and innovation
+Annual Report 2011 17

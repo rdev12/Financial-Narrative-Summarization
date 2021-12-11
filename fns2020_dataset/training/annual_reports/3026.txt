@@ -1,0 +1,3356 @@
+ PUBLICLIMITEDCOMPANY
+ANNUAL REPORT & ACCOUNTS 2008 Contents
+1 Business Highlights
+2 Industry Overview
+3 Description of the Cashbox Business
+6 Chairman’s Statement
+8 Chief Executive’s Review
+10 Chief Financial Officer’s Review
+12 Board of Directors and Key Management
+14 Directors, Secretary and Advisers
+15 Report of the Directors
+18 Corporate Governance 
+19 Report of the Remuneration Committee
+22 Independent Auditors’ Report 
+23 Consolidated Income Statement 
+23 Consolidated Statement of Changes in Equity
+24 Consolidated Balance Sheet
+25 Consolidated Cash Flow Statement
+26 Notes to the Consolidated Financial Statements
+51 Company Balance Sheet
+52 Notes to the Company Financial Statements
+56 Forward Looking Financial Statements 1
+Business Highlights
+Cashbox (AIM:CBOX), the independent Automated Teller Machine (“ATM”) installer
+and operator, announces its annual results for the financial year ended 30 June 2008.
+Year ended Year ended
+30 June 2008 30 June 2007
+Machines installed at period end 2,045 1,442
+Turnover £’000 4,675 4,380
+Gross Profit 1,768 1,161
+Gross Margin % 38 27
+EBITDA*
+†
+£’000 (2,000) (3,510)
+Loss before exceptionals* £’000 (3,003) (4,056)
+Loss after exceptionals £’000 (3,003) (6,741)
+Loss per share before exceptionals (p)* (3.4) (6.3)
+Loss per share after exceptionals (p) (3.4) (10.5)
+Net debt** (£000) 5,016 2,204
+† EBITDA is defined as earnings before interest, tax, depreciation and amortisation, exceptional items, share based payments
+and minority interests (note 26)
+* Loss before exceptionals is shown in note 9. There were no exceptional items in 2008.
+** Net debt includes the borrowing of the Group (including bank loans, other loans, finance leases and overdrafts) less cash
+and cash equivalents excluding balances held with the Bank of England for cash withdrawal settlement purposes (note 26).
+Highlights
+• Installed estate increased from 1,442 to 2,045 at 30 June 2008 
+• Transaction revenues 12% higher than last year
+• Gross profit up 52% from last year at £1.8m
+• Successfully completed two acquisitions in July and October 2008, adding 892 sites to the
+Cashbox estate
+• Raised £1.5m of new equity and £1.5m in a convertible loan post year end, to provide further
+working capital, as well as funding for acquisition and integration purposes
+• Settlement reached with Royal Bank of Scotland relating to Hanco litigation and in
+September 2008, replacing the £1.8m debt with a convertible with five year term
+  2
+Cashbox PLC  Annual Report & Accounts 2008
+Industry Overview
+Size and Growth*
+The UK ATM market is the largest in
+Western Europe. With a total of 64,120
+machines, it accounts for 18% of the
+regional total. The number of
+installations rose by 5.7% in 2007,
+which is above the regional average of
+5.0%. This equated to 3,478 new
+installations during the year.
+At the end of the first quarter of 2008,
+there were nine IADs operating in the
+UK, the top three of which account for
+over two thirds of IAD machines.
+Density*
+The UK has 1,055 ATMs per one
+million inhabitants, the third highest
+density in Western Europe and 37%
+higher than the regional average of 
+770 ATMs per one million inhabitants.
+(Source :Retail Banking Research Ltd 2008)
+Location*
+The number of ATMs located off-site
+(away from a bank or financial
+institution) has risen rapidly in recent
+years, thanks to the efforts of IADs.
+Between 2003 and 2007, the share of
+off-site machines rose from 59% to
+71%. As a consequence, the proportion
+of terminals located in branches has
+fallen, as witnessed by the drop in the
+percentage of through-the-wall (TTW)
+installations to 19%.
+The number of terminals installed 
+off-premises is expected to continue
+rising as banks seek new locations to
+extend their reaches and to maximise
+their interchange revenue. The spread 
+of off-premises machines is also
+expected to be driven by IADs in
+Western Europe.
+T ransaction Volumes*
+The total number of cash withdrawals
+continues to rise, having grown 3.9% in
+2007. In contrast, the average volume
+of cash withdrawals per machine per
+month is falling due to the diluting
+effect of increased IAD machine
+installation, ending at 3,653 in 2007.
+Transaction Values*
+The total value of cash withdrawn from
+ATMs grew to £108 billion in 2007, 
+but the average value of cash
+withdrawal remained stable at £77.50
+as more machines were deployed than in
+previous years. Cash withdrawals from
+IAD machines amounted to a total of
+£4.3 billion, just 4% of the total. 
+Currently, 50% of cash in circulation is
+sourced in the UK from ATMs, and the
+Association for Payments and Clearing
+Services (APACS) predicts this will rise
+to 75% by 2011.
+In 1998, Euronet, an Independent ATM Deployer (IAD) formed a partnership with Woolwich, whereby it
+deployed surcharging Automated Teller Machines (ATMs) on sites that did not normally justify an installation.
+By the end of 1999 a total of 10 IADs had installed ATMs in the UK. In 2000, LINK regulations were changed
+to allow these non-banks to become members.
+About LINK:
+• LINK is the UK’s national cash
+machine (ATM) interchange network
+and the busiest ATM transaction
+switch in the world. At peak, the
+LINK switch processes almost 1
+million transactions per hour.
+• There are nearly 130 million LINK-
+enabled cards in circulation from 38
+card issuing financial institutions.
+Over 61,000 ATMs are connected to
+the LINK network - effectively every
+ATM in the UK.
+• The LINK network is a fundamental
+part of the UK's payments
+infrastructure and cash machines
+are by far the most popular channel
+for cash withdrawal in the UK, used
+by millions of consumers every week
+• VocaLink provides the physical
+switch for these transactions while
+the LINK ATM Scheme sets the
+rules, practices and procedures.
+• The LINK ATM Scheme is open to
+every ATM operator and card issuer
+in the UK. 
+• LINK does not install ATMs itself or
+make charges on the customers who
+use them.
+• The LINK ATM Scheme ensures
+universal, reliable and secure access
+to cash and maintains and enforces
+fair rules for technical standards,
+interchange, charging and signage.
+60
+50
+40
+30
+20
+10
+0
+Dec-01 Dec-02 Dec-03 Dec-04 Dec-05 Dec-06 Dec-07
+Pay-to-useATMs
+FreeATMs
+ATMNumbers Share of ATM installations, 2007
+8%
+2%
+19%
+71%
+TTW
+Hall
+Lobby
+Off-site
+Source: Banking
+Automation Bulletin 2008
+300
+250
+200
+Jan Mar May Jul Sep Nov
+150
+Transaction Volumes (millions)
+Source: LINK Website
+2005 2006 2007 2008 3
+Background 
+Cashbox ATM Systems Limited, the
+Company’s principal trading subsidiary,
+began trading in September 2003,
+installing and operating independent
+ATMs which provide the public with
+more convenient access to cash and
+where consumers are required to pay a
+convenience fee for the withdrawal of
+cash. Membership of the LINK network
+was granted in March 2004. The 500th
+active ATM was installed in October
+2004 with the 1500th machine in
+September 2007 and the 2000th
+machine in May 2008.
+Cashbox PLC was incorporated on 14
+November, 2005 and acquired the entire
+share capital of Cashbox ATM Systems
+Limited on 26th January 2006 as part
+of the preparation of listing the company
+on the London Stock Exchange
+Alternative Investment Market (AIM).
+The listing was completed in March 2006.
+Strategy and business rationale
+Cashbox’s business model is based on
+three ATM product and service offerings:
+• Placement Model 
+The Directors expect that the majority
+of new installations will use a
+Placement Model whereby the ATM is
+placed with the Merchant and
+replenished by the Merchant,
+eliminating the need for third party
+cash handling costs. The Directors
+believe this model, using their detailed
+site surveys, will enable Cashbox to
+place ATMs profitably in lower footfall
+areas which effectively expands the
+market available to Cashbox.
+• Sale Model
+This Model allows for the Merchant to
+buy the ATM. The Merchant is still
+responsible for replenishing the ATM.
+Cashbox continues to provide access to
+the LINK network and 24 hour
+technical service and support. This
+option offers a bigger percentage of
+the convenience fee to the Merchant as
+the cost of the ATM to Cashbox has
+already been recovered from the sale
+where Merchants previously purchased
+an ATM from a different IAD,
+Cashbox can still “process” the ATM.
+• Fully Managed Model
+To maximise the profit potential of
+each ATM site, the Fully Managed
+Model will be offered in cases where
+the sites are characterised by a
+higher footfall. These ATMs are able
+to be replenished by third party cash
+handling firms. 
+The majority of ATMs in Cashbox’s
+estate currently charge a convenience
+fee, although the company is also
+geared to support “free to use” (ATMs
+that do not charge the customer a
+convenience fee and benefits from
+bank intercharge).
+The Directors believe that Cashbox’s
+sales process, which includes Cashbox’s
+survey division undertaking a detailed
+site analysis before recommending to the
+Merchant the appropriate deployment
+model, provides a strong platform for
+growth. The Directors are confident of
+the organic growth potential of
+Cashbox’s ATM business. The Directors
+also believe that there are a number of
+current opportunities in the industry
+which could result in the management of
+other ATM estates being outsourced or,
+in certain cases, ATM estates being sold.
+The Directors believe there are many
+different opportunities for growth and
+additional sources of revenue:
+• demographic preference for younger
+customers to withdraw cash from
+ATMs; 
+• growth in non-bank ATM locations,
+resulting from the greater commercial
+viability of surcharging ATMs
+compared to non-charging ATMs in
+low footfall areas;
+• the sale of ATM estates by financial
+institutions, which could, in certain
+cases, prove profitable if run by an
+Independent ATM Deployer (IAD);
+• the rising market of additional services
+provided by ATMs, including on-screen
+advertising, voucher and coupon
+dispensing, and mobile phone top-ups;
+and
+• processing of other IAD ‘Sold’ estates.
+Description of the Cashbox Business 4
+Cashbox PLC  Annual Report & Accounts 2008
+Description of the Cashbox Business continued
+Revenues, markets and distribution
+Cashbox currently generates revenue
+through:
+1.Transaction revenues
+– Convenience Fees incurred by the
+cardholder at the time of withdrawing
+cash from an ATM; and
+– Interchange Fees paid to Cashbox by
+the cardholder’s bank or building
+society on ATM balance enquiries and
+rejected transactions and transactions
+where no Convenience Fee is charged.
+2. Sales of ATMs
+– ATM sales to Merchants under the
+Sale Model.
+3. Sale of ancillary consumables 
+– such as till roll receipts
+Benefits to merchant
+In addition to the transaction-based
+revenue that Merchants can earn by
+installing an ATM, there are the
+following benefits of an ATM for
+Merchants, as research shows:
+• Increased footfall – a Merchant site
+will typically experience an increase
+of customer footfall following the
+installation of an ATM.
+• Customer retention – ATM users will
+typically visit premises that have an
+ATM more frequently. 
+• Increased cash spend – Merchant’s
+customers will typically spend up to
+37% more in-store if they have
+withdrawn cash from an on-site ATM.
+(Harris Independent Marketing
+Research 2007)
+• Cash handling charges savings
+(relevant to merchant-fill models) –
+once this cash is withdrawn from the
+ATM, the Merchant’s bank account is
+credited with the funds electronically
+three days later. This reduces the
+banks’ cash handling charges to the
+Merchant.
+Government regulations
+Cashbox is subject to the normal
+regulatory framework applicable to a
+UK based independent ATM operator,
+company and employer. 
+In March 2005, the Treasury Select
+Committee appointed by the UK
+Government to investigate ATM
+Convenience Fees released its findings. A
+memorandum submitted by HM Treasury
+to the Select Committee stated that it
+“welcomes the changes [to access,
+pricing and transparency of charges in
+the ATM industry] because they have
+made the industry more competitive,
+with clear benefits for consumers”. The
+memorandum also mentioned the
+liberalisation of LINK membership
+criteria in a positive light, attributing the
+increased competition in the market to
+the introduction of independent ATM
+operators and noting that ATMs are now
+available in locations such as pubs,
+shops and garages, thereby increasing
+consumer choice.
+The memorandum acknowledged that
+“there are costs to supplying an ATM
+service and it would not be commercially
+viable for an ATM operator to offer the
+service if these costs could not be
+recovered”. It goes on to state that 
+“in the majority of cases, the surcharge
+would seem to be commercially justified”.
+The memorandum also stated that “the
+Government believes that charges are a
+commercial matter for ATM operators”,
+with specific warnings against the
+introduction of direct regulation of
+retail prices. The main recommendation
+of the Select Committee was that ATM
+charges should be transparent.
+Capital expenditure
+Our principle expenditure is on the
+initial purchase of ATMs for placement
+within our customer universe. A smaller
+proportion of capital is utilised in the
+provision and maintenance of data
+platform, storage and security.
+Technology and research and
+development
+Cashbox has maintained an approach to
+technology where all system
+developments are dealt with in-house.  5
+This has allowed the on-going
+development of the Group’s specific
+management platforms built on
+Microsoft SQL 2005 to be fully in line
+with the demands and needs of the
+business and our customers. Databox,
+the in-house developed management
+platform and the diagnostic software
+platform licensed to Cashbox by NCR,
+and Triton, allows Cashbox to manage
+and update its ATMs remotely. Features
+of these platforms include system
+diagnostics, machine software and
+graphics management. 
+Cashbox’s LINK network has been
+developed to be able to support multiple
+ATM types and as a result puts the
+business in the enviable position of being
+able to acquire already existing estates
+of varying machine technologies.
+100% of Cashbox’s ATMs have chip
+card readers fitted and activated, are
+EMV-compliant and have been
+upgraded to Triple DES standards, in
+accordance with LINK regulations.
+Hardware
+NCR continues to be the largest supplier
+of ATMs in the UK, accounting for 78%
+of bank terminals and 43% of IAD
+terminals. Triton is the next largest
+supplier, holding 49% of the IAD sector.
+In February 2008 Cashbox announced
+that it had signed a distributor agreement
+with Triton. This was in addition to
+distribution arrangements with NCR
+Easypoint (formerly known as Tidel).
+Cashbox’s internal systems are set up to
+be able to support both Tidel and Triton
+ATMs and therefore no development
+costs were incurred to support this
+additional supplier. As part of the
+agreement, Cashbox also has access to
+full Triton technical support as well as
+technical and sales training.
+With the business continuing to expand
+towards its critical mass, this agreement
+provides access to a greater overall
+number of machines, as well as
+capabilities to be able to meet any
+expansion in installation pipeline
+demands. The business is now also well
+placed to efficiently and effectively
+support any contract wins to process
+existing Triton ATM estates.
+Service and Maintenance
+Cash replenishment of branch ATMs is
+generally undertaken by bank staff,
+whilst most IAD machines are
+replenished by the site owner. The
+majority of Cashbox’s estate comprises
+of the self-fill/merchant-fill model.
+Cashbox’s service and maintenance
+activity is all managed and controlled
+in-house, thus ensuring the quality and
+speed of service received to its
+customers. This is one of the businesses
+key USPs as it ensures the uptime of
+machines is at optimum at all times.
+This, in conjunction with LINK platform
+connection availability being measured
+in excess of 99.99%, ensures that our
+customers are able to maximise the
+benefits of supporting an ATM.
+Some of our Clients:
+Merchant’s customers
+will typically spend up to
+37% more in-store if they
+have withdrawn cash
+from an on-site ATM.
+Harris Independent
+Marketing Research 2007 6
+Cashbox PLC  Annual Report & Accounts 2008
+Chairman’s Statement
+It is pleasing to report that your
+company has made significant
+progress in the period under
+review.
+Improved operational performance has
+been key in achieving the reported
+results. However the development of a
+coherent strategy is vital to ensure full
+realisation of shareholder value.
+Y our Board, in its last report, conveyed
+its intention to pursue opportunities to
+grow the business by acquisition. To this
+end the Board has devoted time and
+effort to achieve a position of leadership
+in the consolidation that the industry is
+experiencing. Current market conditions
+have made the furthering of this
+objective even more appropriate.
+The identification of possible
+acquisitions, which occurred in the
+second half of the year have resulted in
+positive outcomes since the year end.
+The significant increase in ATM numbers
+achieved both by organic growth and
+acquisition have increased the estate size
+to 2,045 at 30 June 2008, with over
+2,500 active sites at 30 November 2008.
+Y our Board believes that the estate size
+is such that profitability will now be
+achieved within an acceptable time scale.
+2008 results
+Sales for the year ended 30 June 2008
+were £4,675,000 (2007: £4,380,000)
+resulting in an operating loss of
+£2,484,000 (2007: £5,932,000) and a
+loss before tax of £3,003,000 (2007:
+£6,741,000).
+During the year, the business has
+continued to roll out ATMs into both
+independent and managed sites. 
+The Cashbox team has also focused on
+streamlining the operational aspects of
+the business by putting in place the
+necessary systems to run and maintain a
+fast growing estate. A new distributor
+agreement was signed in February 2008
+with Triton, one of the market leaders in
+off-site ATM provision. The agreement is
+in addition to the existing distribution
+agreements with NCR Easypoint
+(formerly Tidel).
+The placement merchant (self-filled)
+model continues to be the prime focus
+for Cashbox and has seen the total estate
+grow by 42%, and now accounts for
+more than half the ATMs deployed. 
+The business has also begun identifying
+and rolling out a fully managed service
+to selected high transacting sites where
+it is financially viable to offer this
+service. This is an area that is likely to
+expand with increase in demand, and our
+ability to provide this service will put the
+business in a position to offer an
+enviable ‘one-stop’ ATM solution for a
+variety of merchant requirements. 
+We are also now trialling free to use
+ATMs in a number of locations.
+Funding
+In December 2007 Cashbox secured 
+£1 million in funding from MBC
+Investments Ltd. to be provided in two
+tranches. The first tranche was a
+convertible unsecured loan, for the sum
+of £583,788. The second was a non-
+convertible unsecured loan of £416,212
+which was made available for draw
+down from 31 March 2008. Both
+tranches of the loan were due to mature
+on 31 March 2009. On 14 March 2008,
+the Company received notice from MBC
+Investments that the holder’s intention
+was to convert the convertible loan note
+issued into shares under the terms of the
+loan at the first available occasion being
+31 March 2008.
+The new loans were arranged in
+conjunction with a rescheduling of the
+Company’s Bank of Scotland facility,
+whereby the initial £8m facility was
+reduced to £6m and the drawdown
+period extended from March 2008 to
+December 2008. The debt repayment
+originally agreed to start March 2008
+was rescheduled to commence December
+2009.
+Hanco litigation 
+In October 2007 we were able to agree
+a full and final settlement with Hanco 
+in respect of the long standing litigation
+between the two companies. In the
+settlement it was agreed Cashbox ATM
+Systems Limited would pay an
+additional £1.8m, on top of the
+£200,000 already paid in July 2007. 
+As previously announced to the market
+and shareholders, Cashbox ATM
+Systems Limited has the benefit of a
+joint and several indemnity from 
+Carl Thomas and Anthony Sharp in
+The placement merchant (self-filled) model continues to
+be the prime focus for Cashbox and has seen the total
+estate grow by 42%, and now accounts for more than
+half the ATMs deployed.  During the year, the business has continued to roll out
+ATMs into both independent and managed sites. 
+The Cashbox team has also focused on streamlining
+the operational aspects of the business by putting in
+place the necessary systems to run and maintain a fast
+growing estate.
+connection with this litigation, which the
+Directors intend to enforce to recover
+the £2m. However both Mr Thomas and
+Mr Sharp have refused to contribute
+and Mr Sharp declared himself
+bankrupt on 14 May 2008.
+This brought to an end the litigation
+which has been a drain on management
+time and was continuing to incur
+substantial legal bills. The Board did 
+not believe that continuing the litigation
+was in the best interests of shareholders.
+Post balance sheet events
+During the period from the 7th July
+2008 to 8th October 2008, the company
+was able to complete four transactions,
+effectively acquiring all of the sites and
+ATMs of MyATM, a non-Link member
+IAD, and Cash4All a Link member IAD.
+This added another 892 sites to the
+Cashbox estate. Although predominantly
+independent contracts, the acquisitions
+also included 144 sites within Mitchells
+& Butlers, one of the UK’s largest
+managed pub estates.
+The company has successfully raised
+monies in this difficult market to provide
+further working capital, as well as funds
+for acquisition and integration costs. 
+I was unable to participate in these
+placings, the company being in a closed
+period. However, I have been able to
+express my support for the business by
+funding a £100K loan to the business,
+which, subject to Board approval, I am
+willing to convert when legally allowed
+to do so.
+2008/2009
+It is my clear intention to ensure that
+your Board’s priority is the creation of
+value for shareholders. The foundation
+for the achievement of this has now been
+laid. The optimisation of the benefits of
+the enlarged estate will be
+management’s priority and I am
+confident of their ability to deliver this.
+With positive cash flow and profitability
+now realisable I believe that the
+disappointments of the past are now
+behind us.
+I wish to express my appreciation to all
+staff who have contributed during this
+period of change.
+Robin Saunders
+Chairman
+7 Cashbox PLC  Annual Report & Accounts 2008
+Chief Executive’s Review
+In my last report, I commented
+upon the need to remain focused
+upon the cornerstones of our
+business, namely:
+• The continuing acquisition of key
+client contracts with high volume
+estates
+• The rapid conversion and installation
+of profitable sites within these estates
+• The provision of outstanding service
+and support levels to drive transaction
+volumes; and
+• The utilisation of a robust and flexible
+platform technology and reporting
+system to ensure the maximum level
+of uptime for all ATMs.
+I am pleased to say that we have made
+considerable progress, with measurable
+successes, in every area of
+implementation. From 1st July 2007 to
+30th June 2008, we successfully
+negotiated and signed up 871 sites
+which were suitable for installation.
+Two approaches were adopted to fulfil
+this opportunity, namely the purchase of
+new ATMs utilising the Bank of
+Scotland drawdown and the
+redeployment of existing ATMs from
+low transacting locations. The former
+increased our overall estate size from
+1,442 to 2,045 in the period, whilst the
+second increased our return on ATM
+investment.
+This has involved entering new markets
+such as transportation hubs and
+cinemas, as well as greater penetration
+in the leisure and convenience store
+sectors.
+Our relationships with communication
+partners, has culminated in a new direct
+agreement with BT, signed in April
+2008. This enables us to reduce waiting
+times for telephone line installation
+which, coupled with improved ATM
+stock management and ordering, has
+enabled us to reduce average installation
+times [period from approved deal to
+installed ATM] from 51 days in Q1 to
+just 28 days in Q4. Although the estate
+has increased significantly in size,
+engineering headcount has remained
+constant throughout the period.
+We are rightly proud of the service we
+provide, planned and co-ordinated by
+our Account Management team, and
+this dedicated and professional
+approach has lead to our corporate
+clients collectively increasing their
+installed ATM base with Cashbox by
+25% over the past twelve months. We
+have also experienced increased estates
+in 72% of our corporate clients, 6% of
+corporate clients declining by only one
+site each, and 22% of corporate clients
+remaining at a constant size.
+Further investment in training was
+undertaken, especially for field service
+engineers, relating to new ATM types,
+software and upgrade parts. This is a
+crucial element of our service offering –
+the ATM has to be working to meet the
+business and operational requirements
+of our clients.
+Over 90% of the new sites installed in
+the period were placement self-fill
+machines, where we retain a higher
+percentage of the convenience fee. 
+This has enabled us to maintain the
+higher gross profit margins experienced
+last year, without having to resort to
+raising the convenience fee, which has
+been maintained at £1.75 across the
+majority of the estate. 
+Transaction volumes continue to grow 
+in a difficult economic environment. 
+The re-deployment of ATMs from low
+transacting sites to new sites supports
+average transaction levels which are
+depressed by the addition of new sites
+throughout any given month. We will
+continue to re-deploy at the current
+rate, on a monthly basis throughout the
+coming year, to ensure that average
+transactions are maintained, with
+possible future growth. As we increase
+our installed base, a greater proportion
+of our efforts will shift from the
+acquisition and installation of net new
+sites to redeployment of existing ATMs
+to higher transacting sites.
+During the course of the past year, at
+the request of clients, we have extended
+our offering to include a fully managed
+service and free to use ATMs. Both of
+these offerings were successfully
+launched with a limited rollout, and are
+being closely monitored and refined,
+before we commit to a larger scale
+promotion and rollout. High volume
+sites have traditionally required a fully
+managed offering and the potential for
+this market is well recognised. However,
+we believe that the current economic
+climate is creating a new sector in the
+free to use market, where a free to use
+ATM is justified not solely by
+transaction volumes and location, but is
+greatly influenced by our clients seeking
+to support their value offering to their
+own customers. Initial reports are
+encouraging and we look forward to
+increasing our presence in these areas.
+Free to use ATMs still generate income
+for Cashbox via the interchange fee.
+This is where the customer’s bank pays
+Cashbox a fee for allowing their
+customer to withdraw cash free of
+charge from an independently deployed
+ATM. Although the interchange fee is
+smaller than the convenience fee, the
+increased volume of transactions
+stimulated by no transaction fees means
+that this is still potentially profitable
+business for Cashbox.
+Halifax Bank of Scotland continues to
+be a very supportive financing partner
+in the rollout of ATMs. In an
+environment where many capital
+intensive businesses are feeling the
+effects of the high cost of borrowing, 
+8 we are fortunate to have a partner who
+has not only supported the existing
+business model but also supported the
+acquisition of small existing estates,
+such as the July 2008 purchase of 144
+ATMs situated within Mitchells &
+Butlers plc, one of the largest managed
+pub companies in the UK. The
+acquisition of already installed estates 
+is intelligent business for Cashbox, 
+as transaction volumes are of a known
+quantity, the ATMs have already ramped
+up performance, and we do not have to
+bear the cost of site acquisition, initial
+survey and installation. Our Engineers,
+Sales Support team and Technology
+group provided further proof of our
+outstanding levels of service by
+decommissioning and re-uploading these
+ATMs to the LINK network within the
+same month of signing, despite not
+being able to work within opening
+hours.
+The Board believe that there are more
+opportunities of this nature, and stand
+by their re-structuring of the Board in
+January 2008, which was enacted to
+increase our ability to react quickly and
+creatively to such market opportunities.
+The Board and Executive Management
+are mindful that the business has not yet
+attained profitability and continually
+evolve roles, processes and operating
+systems, leveraging technology where
+possible, to ensure that operating costs
+are kept to a minimum. Significant cost
+savings have been made in the areas of
+administration costs, professional fees
+and occupancy costs, whilst being 
+aware of our need to invest for growth.
+One example of this has been the
+increase in our headcount average from
+44 in 2006 to 2007 to 50 in 2007 to
+2008 at an increase of only 1% to total
+employee costs. 
+Our goal has always been to create a
+stable platform, one which empowers
+the business to deliver sustainable,
+profitable growth. The changes to the
+structure of the organisation in
+2006/2007 enabled that platform to be
+built in 2007/2008 and we go forward
+with a significantly larger estate which
+generates larger and growing revenues,
+with a stable and robust organisational
+structure and workforce, all of which
+operates on a substantially reduced 
+cost base.
+Looking forward to 2008/2009, 
+we will continue to allow the
+outstanding quality of our
+service, the flexibility of our
+offerings, and the complete
+ownership of all aspects of
+our post-sales support to be
+the differentiators in
+driving our business success.
+We will continue to focus upon
+delivering organic growth, whilst
+remaining responsive to acquisition
+opportunities in a market with
+considerable consolidation potential.
+In conclusion, I am very encouraged by
+the mature, resilient and professional
+manner in which the Company and its
+staff have dealt with considerable 
+re-structuring in a changing economic
+climate. I look forward to the next
+twelve months with confidence and
+optimism about returning real value to
+our shareholders.
+Ciaran Morton
+Chief Executive
+Looking forward to 2008/2009, we will
+continue to allow the outstanding
+quality of our service, the flexibility of
+our offerings, and the complete
+ownership of all aspects of our post-
+sales support to be the differentiators in
+driving our business success.
+9 10
+Cashbox PLC  Annual Report & Accounts 2008
+Chief Financial Officer’s Review
+The Chief Financial Officer’s Review
+should be read in conjunction with the
+Consolidated Financial Statements
+starting on page 23.
+Operationally the business has grown
+during the year utilising the Bank of
+Scotland debt facility to finance
+machine purchases and increase the
+deployment of ATMs. During the year
+the estate grew by 603 machines. 
+The proportion of machines operating
+under the placement model, where
+Cashbox retains ownership of the
+machine, continued to increase and at
+30 June 2008 was 51%, up from 34%
+at June 2007. Transaction volumes
+grew during the year with the second
+half higher than the first half; and both
+periods were up on the comparable and
+preceding periods for the year ended 
+30 June 2007.
+Turnover for the year was £4.7m, 
+7% higher than last year, with
+transaction revenues 12% higher and
+lower sales of ATMs and sundry items.
+The increased number of placement
+machines where a greater portion of the
+transaction revenues are retained by
+Cashbox meant that gross margin
+continued to increase albeit more 
+slowly in the second half. The Gross
+margin achieved in 2008 was 38%, 
+11 percentage points higher than 2007.
+With higher revenues and improving
+gross margins, gross profits for 2008
+were up significantly on the prior year,
+at £1.8m compared to £1.2m, an
+increase of £0.6m or 52%.
+Management maintained the tight
+control on costs introduced after their
+appointment and administration
+expenses for the year were £4.3m,
+compared with £5.1m last year before
+exceptional items. The largest single
+item of expenditure was employee costs
+which were up only 1% despite an
+increase of 6 people in the average
+headcount from 44 to 50, as roles were
+redefined and the average salaries fell.
+Vehicle and fuel costs were 3% higher
+with fuel costs in particular rising.
+Depreciation was the only other cost to
+have increased, as would be anticipated
+with the increased number of owned
+machines in the estate. Excluding
+depreciation and share option costs
+(which are both non cash items)
+administration costs were £3.6m,
+£1.0m or 22% lower than prior year
+with occupancy costs, professional fees
+and other administration costs all
+falling despite pressure from suppliers
+trying to raise prices.
+Earnings before interest, tax,
+depreciation and amortisation, EBITDA,
+(as defined in note 26) was a loss of
+£1.8m, an improvement of £1.5m
+before exceptional items compared to
+the same period last year, with
+increased gross profits and reduced
+costs driving this encouraging result.
+The operating loss for the year was
+£2.5m, £1.4m better than last year
+excluding last years exceptional item
+and £3.4m better when including the
+settlement of the Hanco litigation.
+Finance income, principally interest on
+the Bank of England account, of
+£46,000 was slightly up on last year.
+Finance costs for the year amounted to
+£565,000, which included costs of the
+facility with Bank of Scotland of
+£469,000, reflecting the increased
+levels of borrowing during the year
+compared to £138,000 in 2007. This
+was mainly interest on the finance
+leases with GCVF which were
+terminated in June 2007 with  additional
+costs of £685,000.
+The loss for the year attributable to the
+equity holders was £3.0m compared to
+a £4.1m loss last year before
+exceptional items, with the improvement
+due to reduced operating losses being
+partially offset by higher interest costs.
+After exceptional items, the loss for the
+year ended June 2008 was £3.7m
+better than the £6.7m loss in 2007 as
+the Hanco litigation settlement costs
+were recorded in the year ended 
+30 June 2007 as well as the costs of
+exiting the finance lease arrangements.
+The loss for the year of £3.0m gave rise
+to cash used in operations of £2.3m
+with non cash cost items and net
+interest costs reducing the loss by
+£1.2m and outflows in working capital
+of £0.5m. This is slightly lower than the
+cash used in operations last year when
+the higher losses were offset by the
+working capital movements, principally
+due to the Hanco liability of £2.0m
+recorded as a post balance sheet
+adjusting item at June 2007.
+Net cash used in investing activities was
+£1.6m compared to £0.7m as, having
+resolved the financing difficulties of last
+year, the Group was able to accelerate
+the purchase and deployment of ATMs
+into the estate. The purchasing of the
+ATMs was financed through the use of
+the banking facilities, and £2.4m was
+drawn down on the Bank of Scotland
+loan facility with a total of £4.7m
+drawn at 30 June 2008, leaving £1.3m
+undrawn. The total proceeds from
+borrowings was £3.4m with the balance
+of £1.0m being from MBC Investments,
+with £0.6m as a convertible loan note
+and £0.4m as a non convertible loan
+note issued in December 2007. The
+convertible loan note was converted at
+the end of March 2008 in accordance
+with the terms of the note while the
+non-convertible loan note is due for
+repayment in March 2009. In addition
+to the borrowings, the Company raised
+£0.5m in new equity in April 2008.
+Cash generated from financing activities
+for 2008 was £3.9m compared to
+£4.2m last year. At 30 June 2008 this
+additional funding amounts to £2.8m of
+new debt and new equity of £1.1m
+(being the placing and the conversion of
+the convertible loan note).
+Despite the improvements in the
+financial performance, Cashbox is still
+loss making and therefore requires
+further operating cash-flow. As part of
+the loan agreement with Bank of
+Scotland, financial covenants are in
+place to ensure that the banks position
+is protected if these losses continue.
+Consequently the Board regularly looks
+at the necessary steps to ensure these covenants are met and discuss the
+situation in good time with the Bank.
+Plans made during the second half of
+the financial year were well advanced
+and the Bank had indicated that as long
+as any shortfall was remedied within an
+agreed timeframe then no action would
+be taken. While finalising the annual
+report, the Company was technically in
+breach of the net worth covenant at 
+30 June 2008, and while Bank of
+Scotland had indicated no action was
+being taken because of the funds being
+raised from shareholders, that continued
+waiver of covenants was not
+unconditional and consequently under
+the specific guidance included in IFRS,
+all of the liabilities shown to Bank of
+Scotland are shown payable “within one
+year” despite this is not when amounts
+will actually be paid.
+The net decrease in cash for the year
+was £0.3m, compared to a net increase
+in cash of £0.9m in 2007 as 2008 was
+a year of investment following the
+changes in financial arrangements made
+at the end of June 2007.
+Post balance sheet events
+In the period following the year end the
+investment in the business has
+continued. In July 2008, the Company
+acquired 144 machines already placed
+with Mitchells and Butlers’ pubs as 
+part of a transaction financed using the
+Bank of Scotland facility. At the
+Extraordinary General Meeting on 
+29 July 2008 shareholders approved the
+resolutions proposed to increase the
+authorised share capital and allow the
+issuing of up to a further 320,000,000
+ordinary shares without further
+approval from shareholders to give the
+Board greater flexibility in raising funds
+and participating in further opportunities
+in the consolidating market.
+The Board utilised this facility and has
+raised a further £1,547,000 new equity
+with placings in July, September and
+October 2008 together with a
+£1,500,000 convertible in December
+2008 to provide additional working
+capital.
+In a series of transactions, Cashbox
+acquired the majority of the owned and
+leased ATMs of Cash4All Limited
+together with the underlying site
+agreements for a total consideration of
+£1,672,340 being £872,340 cash
+payable to the four lease providers and
+£800,000 being £250,000 cash and
+£650,000 in equity to the mezzanine
+debt holders.
+As part of the additional financing
+raised by the Company, on 31 December
+2008, agreement was reached with
+Bank of Scotland for certain covenants
+which were due to be tested for the first
+time for the year ended 30 June 2009
+to be reset based on revised financial
+projections.
+David Auger
+Chief Financial Officer
+11
+With higher revenues and improving gross margins,
+gross profits for 2008 were up significantly on the prior
+year, at £1.8m compared to £1.2m, an increase of
+£0.6m or 52%. 12
+Cashbox PLC  Annual Report & Accounts 2008
+Board of Directors and Key Management
+Robin Saunders
+Non-executive Chairman
+Robin Saunders is a London based
+financier who has specialised in
+securitisation, capital markets and
+private equity for nearly 20 years. 
+In 2004, she launched a Private Equity
+boutique, Clearbrook Capital Partners
+LLP , with the support of high net worth
+investors and financial institutions
+across Europe and the US. Clearbrook
+Capital Partners has since completed
+14 acquisitions across five platform
+companies. Until 2004, she was
+Managing Director of the Principal
+Finance Group at WestLB AG. 
+Robin’s client/partner list spans 15
+countries and a variety of industries.
+She currently serves on several private
+company boards. A native of
+Jacksonville, Florida, Robin graduated
+from Florida State University in 1984.
+Ciaran Morton
+Chief Executive Officer
+Ciaran Morton, previously with 
+The Thomson Corporation, has extensive
+public company experience and has held
+senior management roles in a number of
+Thomson companies, with considerable
+operating experience in Europe,
+America and Asia-Pacific. In his last
+role as General Manager of Thomson
+Business Intelligence, Ciaran personally
+led the restructuring of a global
+business with clients in over 
+100 countries. Prior to this, aged 31, he
+was appointed to the board of M.A.I.D
+PLC in 1994 and led their expansion
+into Asia Pacific. Following an
+acquisition in 2000 Ciaran moved to the
+Thomson Corporation as Executive Vice
+President of The Dialog Corporation, 
+a TLR (Thomson Legal and Regulatory)
+subsidiary, responsible for all non-US
+operations. Following Dialog’s
+acquisition of Intelligence Data and
+NewsEdge, Ciaran led the successful
+integration of all international
+operations, with directorships in every
+key European market. In 2004 Dialog
+was unbundled to enable the component
+parts of the business to specialise in key
+areas and Ciaran led a period of
+substantial growth for the newly created
+Thomson Business Intelligence, one of
+the world’s largest suppliers of online
+strategic business intelligence.
+David Auger
+Chief Financial Officer and 
+Company Secretary
+David Auger, is a chartered accountant,
+previously with PricewaterhouseCoopers,
+and has held a number of senior group
+finance positions in large UK PLCs
+including ICI and Invensys. In 2004 he
+joined CP Ships, a US$4 billion
+turnover container shipping company,
+listed in Canada until October 2005,
+where he held the position of Group
+Financial Controller and was a member
+of the senior management team. David
+brings extensive financial expertise in
+listed companies and is used to dealing
+with rapidly changing and challenging
+environments. He is a Cambridge
+graduate and has a Masters in Finance
+from London Business School.
+William Hughes CBE
+Non-executive Director
+William is currently the Non-executive
+Chairman of Fairfax I.S. PLC, 
+an investment bank and member of 
+The London Stock Exchange. He was
+the Chairman of Grampian Holdings
+PLC from 1985 to 1998, having
+previously been Chief Executive from
+1976. He was also Non-executive
+Chairman of Aberforth Smaller
+Companies Trust PLC for 15 years until
+his retirement in 2005. William also
+retired in July 2007 from being a
+Trustee of the Prince’s Trust UK Council
+and Chairman of the Prince’s Trust
+(Scotland). In addition to Cashbox he is
+currently Chairman of Palm Tree
+Technology plc and a non-executive
+director of Frenkel Topping plc.
+Matthew Thomas
+Chief T echnical Officer
+Matthew is one of the founders of
+Cashbox and has been instrumental in
+growing it to the size it is today. 
+He previously held a board position as
+operations director with Seetech
+Computing an IT company that is a
+specialist in what is known as 
+“Thin Client” technology and Network
+infrastructure. Prior to this, 
+Matthew spent over 10 years with
+Stage Electrics a £22m turnover
+leading company in the sound and
+lighting field for the entertainment
+industry. Matthew designed and
+implemented the IT architecture to run
+many of the entertainment systems in
+prestige high profile sites such as the
+Millennium Dome, Cardiff Millennium
+Stadium and many West End Theatres.
+Matthew has been responsible for the
+development and implementation of the
+Group’s technical and operational
+infrastructure to date. Mr Thomas is
+not a member of the Cashbox PLC
+Board but is considered a member of
+key management for related party
+disclosure purposes guidelines. 13
+Robin Saunders
+Non-executive Chairman
+Ciaran Morton
+Chief Executive Officer
+David Auger
+Chief Financial Officer and Company Secretary
+William Hughes CBE
+Non-executive Director
+Matthew Thomas
+Chief Technical Officer
+Board Members
+Other members of Key Management 14
+Cashbox PLC  Annual Report & Accounts 2008
+Directors
+RE Saunders (Non-executive Chairman)
+CG Morton (Chief Executive Officer)
+D Auger (Chief Financial Officer)
+WY Hughes CBE (Non-executive Director)
+Company Secretary 
+D Auger
+Registered office
+Windriver House
+Meridian Office Park
+Osborn Way
+Hook
+Hampshire 
+RG27 9HY
+Company number
+5621143
+Auditors
+BDO Stoy Hayward LLP
+Kings Wharf 
+20-30 Kings Road
+Reading
+Berkshire
+RG1 3EX
+Solicitors 
+Denton Wilde Sapte LLP
+Regency Court
+206 Upper Fifth Street
+Milton Keynes
+MK9 2MR
+Mishcon de Reya
+Summit House
+12 Red Lion Square
+London
+WC1R 4QD
+Nominated Adviser and Broker
+Seymour Pierce Ltd 
+20 Old Bailey 
+London 
+EC4M 7EN
+Joint Broker
+Fairfax IS PLC 
+46 Berkeley Square
+Mayfair
+London
+W1J 5AT
+Registrars
+Computershare Investor 
+Services PLC
+The Pavilions 
+Bridgwater Road
+Bristol 
+BS13 8AE 
+Directors, Secretary and Advisers 15
+Report of the Directors
+for the year ended 30 June 2008
+The Directors present their report, together with audited
+financial statements for the year ended 30 June 2008.
+Results and Dividends
+The consolidated income statement for the year is set out on
+page 23. The Group’s loss for the financial year, after taxation
+was £3,003,000 (2007 £6,741,000).
+The Directors are not able to declare a dividend.
+Principal activity
+The Cashbox Group (“the Group”, “Cashbox”) comprises
+Cashbox Public Limited Company, (“Cashbox PLC,” 
+“the Company”) the ultimate holding company and four
+wholly-owned subsidiary companies, Cashbox ATM Systems
+Limited, the main trading subsidiary, and Cashbox No 1
+Limited, Cashbox No 2 Limited and Cashbox Finance Limited
+(dormant).
+The principal activity of the Group is the installation,
+maintenance and operation of Automated Teller Machines
+(ATMs) and the processing of ATM transactions thereon.
+Trading review and future developments
+Discussion of the Group’s trading and future developments
+including key performance indicators may be found in the
+Chief Financial Officer’s Review on page 10. The Directors
+believe the number of installations, EBITDA and cashflow
+items to be among the main KPIs during the year in review.
+Officers of the Company
+The officers of the Company who served during the year were
+as follows.
+Executive Directors
+CG Morton
+D Auger
+Non-executive Directors
+RE Saunders* (Chairman)
+WY Hughes*
+Directors who are not currently serving but served during
+the year
+Date of resignation
+JC Maples (Previously Non-executive Chairman) 22 January 2008
+SL Brown (Previously a Non-executive Director) 22 January 2008
+MJ Thomas
+†
+22 January 2008
+AD Wilmott
+†
+22 January 2008
+ACJ Sharp (Previously Non-executive Chairman) 4 July 2007
+* Members of the Audit Committee, Remuneration Committee and
+Nominations Committee.
+†
+MJ Thomas & AD Wilmott stepped down from the PLC Board to
+concentrate on the organic growth of the business.
+Directors’ interests in the shares of the Company, are as follows:
+1p Ordinary Shares 1p Ordinary Shares
+held at 30 June 2008 held at 1 July 2007
+RE Saunders 676,334 676,334
+CG Morton 200,000 200,000
+D Auger 133,333 133,333
+Directors who served during the year but have stepped down.
+ACJ Sharp n/a 22,338,000
+SL Brown n/a 106,000
+JC Maples n/a 135,184
+MJ Thomas n/a 2,940,000
+Certain Directors and previous Directors also hold interests in
+warrants and options over ordinary shares in the Company
+and these, as they form part of the Directors’ remuneration,
+are set out in the Report of the Remuneration Committee.
+Substantial shareholdings
+As at 3 December 2008, the following shareholders had each
+notified the Company that they held an interest of 3% or more
+in the Company’s ordinary share capital:
+Name Number of Shares %
+ACJ Sharp/Annenberg
+Investment Management S.A. 22,338,000 15.5
+Allied Gulf Bank 12,500,000 8.7
+MBC Investments 11,675,764 8.1
+V Flynn 11,619,156 8.0
+Cash4All Limited 9,166,667 6.3
+Axa Framlington 5,000,000 3.5
+In the terms of AIM Rules published February 2007, and
+insofar as the Company is aware, at 3 December 2008 18.2%
+of the Company’s AIM securities were not in public hands.
+Charitable and political donations
+The Group made no charitable or political donations during
+the year (2007: Nil).
+Policy and practice on the payment of creditors
+Cashbox PLC’s principal activity is as an investment holding
+company and providing finance to the subsidiaries.
+Consequently details of the payment terms to its creditors is
+not considered useful in isolation. It is the Group’s normal
+practice to settle the terms of payment when agreeing the
+terms of the transaction, to ensure that suppliers are aware of
+those terms, and to abide by them. Trade creditors of the
+Group at 30 June 2008 were equivalent to 63 days’ purchases
+for the Group (2007: 47 days).
+Research and Development
+The activities of the Group are such that only limited research
+and development is undertaken, as the main work in
+developing new ATMs is undertaken by the ATM supplier. 16
+Cashbox PLC  Annual Report & Accounts 2008
+Report of the Directors continued
+for the year ended 30 June 2008
+Financial instruments and Subsidiary undertakings
+Details of the use of financial instruments by the Company and
+its subsidiary undertakings are included in notes 1 and 17 of the
+Group financial statements on pages 26 and 41 and notes 1 and
+2 of the Company financial statements on pages 52 and 53.
+Directors’ indemnity insurance
+Directors’ and Officers’ liability insurance is held by the Group.
+Principal Risks and Uncertainties
+The Directors undertook a review of risks facing the business
+as part of the IPO process in March 2006 and again during
+2008. The ongoing risks facing the business are formally
+considered during the annual budget setting process. 
+The Directors believe the following to be the principal risks
+and uncertainties faced by the Group:
+Legislative and Regulatory Change
+The future of Cashbox’s business relies on the ability to
+continue to charge a Convenience Fee. The 2005 Treasury
+Select Committee report did not recommend any constraints
+on Convenience Fee charging and the Directors are not aware
+of any future legislation which may have this effect.
+Change in ATM Technology or consumer trends
+ATM technology is evolving and these changes could result in
+the existing estate requiring either updating or becoming
+obsolete. Cashbox, in order to mitigate this risk, constantly
+monitors developments in ATM technology and works very
+closely with its suppliers to ensure that the route is
+evolutionary rather than revolutionary.
+Cashbox relies on the consumer continuing to accept the
+Convenience Fee for withdrawing cash and the frequency of
+those cash withdrawals. The Directors constantly monitor the
+transaction levels at all of Cashbox’s ATMs to ensure that they
+are able to manage this risk.
+Key Customers
+A significant proportion of Cashbox’s revenues come from a
+relatively small number of customers. The loss or failure of
+one of these large customers could have a significant impact
+on Cashbox’s revenues. The Directors manage the relationships
+with the Groups key customers very closely to mitigate this
+risk. It should also be noted that the percentage of ATMs held
+with these key customers is reducing as the size of the
+Cashbox ATM estate grows.
+Key Personnel
+The Group’s business, services and infrastructure are 
+supported by skilled staff. The Group is therefore reliant on its
+ability to attract, train and retain the right mix and calibre of
+staff.
+Key Suppliers
+Cashbox is dependent on LINK for both its ability to receive
+transaction income and to process transactions. LINK could
+raise the charges it levies on Cashbox (and its competitors). 
+In addition, Cashbox’s revenues rely on the operation of the
+LINK network and a failure of the network would have an
+adverse effect on the Group. 
+The majority of the ATMs operated by the Group are
+purchased from NCR. The Company signed a distributor’s
+agreement with Triton during the year, but NCR’s ongoing
+commitment and support is required to maintain the current
+estate of ATMs particularly the upgrading of machines should
+the machines require upgrading to comply with future security
+access regulations.
+New sites for ATMs
+The Group is currently loss making and without significant
+cost reductions will only become profitable with a larger
+estate of ATMs. Increasing the size of the estate is dependent
+on identifying suitable sites for new machines.
+Economic conditions
+Cashbox is dependent on the Merchants who provide cash for
+filling the ATMs. In the current economic climate, there is a
+risk that economic difficulties including the impact of reduced
+cashflows being experienced by the Merchants could adversely
+impact the number of cash withdrawals.
+Litigation
+Cashbox was party to litigation brought by Hanco ATM Systems
+limited which was settled in October 2007 for £1.8million
+with payment deferred for up to 2 years. This was replaced in
+September 2008 with a five year convertible non secured loan
+note. The Company’s subsidiary has the benefit of indemnification
+arrangements put in place prior to the listing of the Company
+however the indemnification arrangements are disputed and
+any failure to recover under the indemnities could adversely
+affect the financial position of the Group. Cashbox has been
+notified by the Official Receiver that on 14 May 2008 a
+bankruptcy order was made against Anthony Sharp. The Company
+also believes that Carl Thomas, the other indemnifier, does not
+have any unencumbered assets of significant value. Therefore
+there is a significant risk that recovery under the indemnities
+will be complicated and could take a significant period of time.
+Bank Covenants
+The Company has a bank loan from Bank of Scotland which
+includes financial covenants. If the Company failed to meet
+one of these covenants and relief was not provided by the
+bank, the loan would be repayable on demand. This risk is
+mitigated by a close dialogue with the Bank and agreeing any
+remedial steps that may be necessary on a timely basis.
+Acquisitions
+The Directors believe the market in which the Group operates
+is ready for consolidation and opportunities exist to derive
+shareholder value from corporate transactions. Any such
+transaction carries a degree of risk associated with the price
+paid, execution of the transaction and subsequent integration,
+and financial performance of the business acquired.
+Auditors
+All of the current Directors have taken all the steps that they
+ought to have taken to make themselves aware of any
+information needed by the Company’s auditors for the purposes
+of their audit and to establish that the auditors are aware of
+that information. The Directors are not aware of any relevant
+audit information of which the auditors are unaware. 17
+A resolution to re-appoint BDO Stoy Hayward LLP as auditors
+was proposed and approved at the last annual general meeting
+held on 22 January 2008 and their continued appointment will
+be proposed at the next annual general meeting.
+Statement of Directors’ responsibilities
+The Directors are responsible for preparing the Annual Report
+and Accounts in accordance with Companies Acts 1985 and
+International Financial Reporting Standards (“IFRS”) as
+adopted by the European Union (EU) and have elected to
+prepare Company financial statements in accordance with UK
+accounting standards.
+UK company law requires the Directors to prepare financial
+statements for each financial year that give a true and fair
+view of the state of affairs of the Company and Group and of
+the profit or loss of the Group for that period. 
+In preparing those financial statements, the Directors are
+required to:
+• select suitable accounting policies and then apply them
+consistently;
+• make judgments and estimates that are reasonable and
+prudent;
+• state whether applicable accounting standards have been
+followed, subject to any material departures disclosed and
+explained in the financial statements; and
+• prepare the financial statements on the going concern basis
+unless it is inappropriate to presume that the Group will
+continue in business.
+The Directors are responsible for keeping proper accounting
+records which disclose, with reasonable accuracy at any time,
+the financial position of the Company and the Group and
+enable them to ensure that the financial statements comply
+with the Companies Act 1985. They are also responsible for
+safeguarding the assets of the Company and the Group and
+hence for taking reasonable steps for the prevention and
+detection of fraud and other irregularities.
+Financial statements are published on the Group’s website in
+accordance with legislation in the United Kingdom governing the
+preparation and dissemination of financial statements, which
+may vary from legislation in other jurisdictions. The maintenance
+and integrity of the Group’s website is the responsibility of the
+Directors. The Directors’ responsibility also extends to the
+ongoing integrity of the financial statements contained therein.
+Legislation in the United Kingdom governing the preparation
+and dissemination of financial statements may vary from the
+legislation in other jurisdictions.
+Going Concern
+The Directors have prepared the financial statements on a
+going concern basis as described in the Accounting Policies on
+page 28. This includes assumptions on the ongoing economic
+conditions remaining difficult but without further significant
+decline.
+Implementation of IFRS
+All AIM-quoted companies are required to report financial
+results under International Financial Reporting Standards for
+accounting periods commencing on or after 1 January 2007. 
+As described in the Group Financial Statements, they have
+been prepared in accordance with IFRS together with the
+restatement of the prior year. The impact of the conversion
+was not material and the reported losses were unchanged.
+Post balance sheet events
+On the 7 July 2008 the Company completed an acquisition of
+144 ATMs located with Mitchells and Butler and signed a
+new 5 year contract for their placement. 
+On 29 July 2008 at an Extraordinary General Meeting of the
+Company, the shareholders approved the increase of the
+authorised share capital by 850,000,000 1p ordinary shares
+to 1,000,000,000 1p ordinary shares.
+On 31 July 2008 the Company signed placing agreements for
+the issue of 720,000 1p ordinary shares at a placing price of
+5p together with the issue of 144,000 warrants to subscribe
+for further 144,000 1p ordinary shares at a price of 5p.
+On 19 September 2008 the Company restructured the liability
+due under the Hanco settlement by agreeing to issue
+£1,800,000 convertible unsecured loan notes due 30 September
+2013 to West Register (Investments) Limited at the direction of
+Hanco ATM Systems Limited (“Hanco) to satisfy the
+£1,800,000 liability to Hanco under the settlement agreement
+dated 17 October 2007. The notes accrue interest at a fixed
+rate of 5% per annum previously fixed at 20% per annum for
+2008/09 in the original settlement and are now repayable by 30
+September 2013 (the ‘Redemption Date’), whereas the original
+agreement had been due for settlement by October 2009.
+On 25 September 2008 the Company signed placing
+agreements for the issue of 17,500,000 1p ordinary shares at
+a placing price of 5p together with the issue of 3,500,000
+warrants to subscribe for further 3,500,000 1p ordinary
+shares at a price of 5p.
+On 3 October the Company raised 6,250,000 ordinary shares
+at a placing price of 5p.
+On 9 October the Company completed a series of transactions
+acquiring the ATMs and underlying site agreements of Cash4All
+Limited, a competitor for a total consideration of £1,672,340.
+On 31 December 2008 the Company raised £1.5m through the
+issue of a convertible loan note carrying a coupon of 8%.
+By order of the Board
+David Auger
+Director and Company Secretary
+31 December 2008 18
+Cashbox PLC  Annual Report & Accounts 2008
+Corporate Governance
+AIM-listed companies are not required to comply with the
+disclosure requirements of the Combined Code on Corporate
+Governance. However, Cashbox PLC is committed to high
+standards of corporate governance. 
+The Board of Directors is accountable to the Group’s
+shareholders for good corporate governance. The following
+statement outlines how the Group applies the principles of
+good corporate governance.
+Directors and Board
+The Group is controlled on behalf of its shareholders by the
+Board of Directors. The Board is made up of two Executive
+Directors and two Non-executive Directors including the
+Chairman. 
+The roles of Chief Executive Officer and Chairman are
+separate and there is a clear division of their responsibilities.
+The Non-executive Directors bring their independent
+judgement to all issues related to strategy, performance, 
+key appointments and resources.
+The Board has considered whether the warrants issued to
+three of the Non-executive Directors who served during the
+year as described in the remuneration report impacts their
+independence. The Board is of the view that their strength of
+character and judgement are such that this in no way impairs
+their independence and the cost of providing alternative
+remuneration would not be in the best interests of
+shareholders and the Company at the present time.
+The Company Secretary is responsible for ensuring that board
+procedures are followed and that applicable rules and
+regulations are complied with. The Directors have access to
+the Company Secretary for advice on Board procedures.
+All Directors have the ability to take independent professional
+advice at the Group’s expense should they consider it
+necessary.
+The Board meets regularly, currently monthly. In the year
+ended 30 June 2008 the Board formally met 12 times with a
+further 14 meetings via telephone.
+Board papers including management accounts and matters for
+approval are produced and circulated to the Board in advance
+of the meeting by the Chief Financial Officer and Company
+Secretary. Formal minutes are produced and circulated for
+comment and formally approved. In the event that a Director
+has concerns that cannot be resolved about the running of the
+Group or a proposed action, they have the right to have their
+concerns minuted. In the event of a Director’s resignation,
+they are encouraged to write to the Board confirming whether
+they have any such concerns.
+Committees
+The Board has established three committees, the Nominations
+Committee, the Audit Committee and the Remuneration
+Committee. There are written terms of reference for all the
+committees.
+The Nominations Committee consists of William Hughes
+(Chairman of the Committee) and Robin Saunders and
+considers appointments to the Board in consultation with the
+other Directors as appropriate. The Nominations Committee
+has committed to considering how the performance of the
+Board will be evaluated together with reviewing the roles and
+capabilities with job specifications within the next year.
+The Audit Committee, comprising William Hughes (Chairman
+of the Committee) and Robin Saunders, has been established
+to determine the application of the financial reporting and
+internal control principles, including reviewing the
+effectiveness of the Group’s financial reporting, internal
+control and risk management procedures and the scope,
+quality and results of the external audit. 
+The Audit Committee meets at least twice a year with the
+external auditors.
+The Remuneration Committee, comprising Robin Saunders
+(Chairman of the Committee) and William Hughes, has been
+established to review the performance of the Executive
+Directors and will set their remuneration and consider bonus
+and share option schemes. No Director will participate in
+discussions relating to their own remuneration.
+The Report of the Remuneration Committee is set out on pages
+19 to 21.
+Risk management and internal control
+The entire Board is responsible for managing the risks of the
+Group and employs senior employees with appropriate
+knowledge and skills to effectively manage the operational
+and financial risks of the business.
+Internal audit
+The Board considers an internal audit function to be
+inappropriate for a Group the size of Cashbox.
+The Audit Committee will review this position annually with 
+a view to establishing such a function when the Group is of
+appropriate size and complexity.
+Relations with shareholders
+The Board recognises the importance of the effective
+communication with the Group’s owners. The Group
+communicates to investors through its interim and annual
+results and also press releases issued via the London Stock
+Exchange. 
+The Group regularly updates its website, at
+www.cashboxplc.co.uk, with information including press
+releases and is compliant with AIM rule 26.
+The Board uses the Annual General Meeting to communicate
+with private and institutional shareholders and welcomes their
+participation.
+All shareholders will have at least 21 days clear notice of the
+Annual General Meeting at which the Directors will be
+available to discuss aspects of performance and management
+in more detail.
+All Directors are subject to re-election by Shareholders at the
+first Annual General Meeting after their appointment and
+thereafter at three yearly intervals. 19
+Report of the Remuneration Committee
+Introduction
+As a company listed on AIM, Cashbox PLC is not required to
+present a Directors’ remuneration report. However, as part of
+the Board’s commitment to good corporate governance, some
+voluntary disclosures have been given.
+The Remuneration Committee has considered the Combined
+Code in setting its remuneration policy and in the reporting of
+remuneration.
+Remuneration policy
+The Remuneration Committee is responsible for determining
+the Group’s policy for executive remuneration and the
+individual packages for the Executive Directors as well as
+remuneration policies for all staff. Remuneration levels are set
+to attract, retain and motivate high calibre individuals.
+Remuneration of Executive Directors
+The Executive Directors are awarded a package comprising a
+mix of basic salary and performance related elements
+designed to incentivise.
+The packages comprise the following elements:
+• Basic salary – Basic salaries are reviewed annually and are
+set to reflect responsibilities and the skills, knowledge and
+experience of the individual.
+• Bonus scheme – the Executive Directors are eligible to
+receive a bonus dependent on both their and the Group’s
+performance against guidelines determined by the
+Remuneration Committee. The bonus targets are designed to
+be challenging with an “on target” payout equivalent to
+50% of base salary with a maximum payout of up to 100%
+of base salary. For the year ended 30 June 2008 the targets
+were based on number of installations of ATMs and
+profitability levels. The minimum targets were not achieved
+and no bonus is payable.
+• Share options – These are discussed below.
+• Other benefits – The Group makes a contribution into a pension
+scheme (or makes a payment equivalent in value), and also
+pays life assurance, permanent health insurance and private
+medical insurance as well as a contribution to fuel costs.
+The Executive Directors are all engaged under separate
+contracts which require a notice period of 12 months to be
+given by the Company.
+Share options
+The Group believes that share options are an appropriate and
+very important method of incentivising staff and allowing
+valuable members of staff to share in the success of the Group.
+Employees (excluding Directors) are eligible to receive share
+options after 12 months service and may be offered options
+under the Company’s EMI share option scheme. 
+Executive Directors are awarded share options at the discretion
+of the Remuneration Committee. All recent and future share
+options will be granted at the mid-market closing value of the
+Company’s ordinary shares on the day prior to grant.
+Remuneration of Non-executive Directors
+The fees paid to the Non-executive Directors are determined
+by the Board. In addition to fees the Non-executive Directors
+are eligible to receive warrants to purchase shares in the
+Company at a level determined and approved by the Board.
+The Non-executive Directors do not receive any other forms
+of benefits, such as health insurance. The total level of
+remuneration for the Non-executive Directors is considered in
+relation to the commitment and responsibilities undertaken.
+The Non-executives’ appointments are for an initial period of
+one year which may be terminated early if they give three
+months notice. The contracts of the Non-executive Directors
+are reviewed by the Board annually.
+Directors’ detailed emoluments and compensation
+The Directors received or are due the following emoluments in relation to the year ended 30 June 2008.
+Gross Salary/ Pension 2008 2007
+Fees Bonus contributions Benefits Total Total
+££ £ £ £ £
+Current Directors
+D Auger† 162,277 – – 831 163,108 40,438
+WL Hughes 20,000 – – – 20,000 5,000
+CG Morton* 180,765 – – – 180,765 38,516
+RE Saunders
+‡
+20,000 – – – 20,000 20,000
+383,042 – – 831 383,873 103,954 20
+Cashbox PLC  Annual Report & Accounts 2008
+Report of the Remuneration Committee continued
+MJ Thomas remains as a senior executive with the Group and
+is a Director of the Group’s principal operating subsidiary.
+AD Wilmott remained as a senior executive with the Group
+and a Director of the Group’s principal operating subsidiary
+until 3 October 2008 when he left the Group. For the period
+from 22 January to 30 June 2008, they received further
+remuneration as follows:
+Gross Salary/ Pension 2008 2007
+Fees Bonus contributions Benefits Total T otal
+££ £ £ £ £
+MJ Thomas 57,973 – – 733 58,706 –
+AD Wilmott 52,960 – 3,500 – 56,460 –
+110,933 3,500 733 115,166 –
+No bonus is payable to any Director for the year under review as the Company failed to reach the minimum threshold in the
+Annual Bonus Plan.
+Directors’ detailed emoluments and compensation continued
+Gross Salary/ Pension 2008 2007
+Fees Bonus contributions Benefits Total T otal
+££ £ £ £ £
+Previous Directors
+SL Brown 16,667 – – – 16,667 20,000
+JC Maples** 24,923 – – – 24,923 12,559
+MJ Thomas 69,868 – – 889 70,757 129,715
+AD Wilmott 67,132 – 3,500 – 70,632 52,487
+CL Hallett** –– – – – 131,538
+ACJ Sharp –– – – – 120,000
+CJ Thomas –– – – – 165,045
+D Woolsgrove –– – – – 101,311
+178,590 – 3,500 889 182,979 732,655
+561,632 – 3,500 1,720 566,852 836,609
+* CG Morton was appointed on 12 April 2007 and became eligible to receive director’s remuneration from this date.
+† D Auger was appointed on 2 April 2007 and became eligible to receive director’s remuneration from this date.
+‡ RE Saunders fees were accrued during the year but were not paid, the total outstanding at 30 June 2008 was £45,000 (2007: £25,000).
+MJ Thomas, AD Wilmott, JC Maples and SL Brown all stepped down from the Board on 22 January 2008 and the above emoluments are for the period to that date.
+** JC Maples fees includes £7,500 as compensation for loss of office representing three months remuneration. CL Hallett received £41,344 in lieu of notice
+(included above) together with £20,172 as an exgratia payment (not included above). 21
+Executive Directors’ together with Senior Executives’ share options are as follows:
+Options* Granted / Options
+outstanding (cancelled) outstanding
+at the start during at the end Exercise price Earliest Latest 
+of the year the year of the year (pence) exercise exercise
+Executive Directors
+CG Morton
+Award Two 2,000,000 – 2,000,000 18.00 25-4-2009 25-4-2017
+D Auger
+Award Two 800,000 – 800,000 18.00 25-4-2009 25-4-2017
+Senior Executives
+MJ Thomas
+Award One 800,000 – 800,000 24.75 29-3-2008 29-3-2016
+AD Wilmott
+1p IPO Options 300,000 – 300,000 1.00 29-3-2006 29-3-2016*
+Award One 175,000 – 175,000 24.75 29-3-2008 29-3-2016*
+Award Two 325,000 – 325,000 18.00 25-4-2009 25-4-2017*
+* AD Wilmott left the Group on 3 October 2008 and his Award One and Award T wo options lapsed on that date. The 1p IPO Options lapse on 3 April 2010.
+Current and previous Non-executive Directors then serving received warrants during 2006. The amounts outstanding during the
+year are as follows:
+Warrants Granted / Warrants
+outstanding (cancelled) outstanding
+at the start during at the end Exercise price Earliest Latest 
+of the year the year of the year (pence) exercise exercise
+RE Saunders 500,000 – 500,000 20.00 29-3-06 29-3-2016
+SL Brown 500,000 – 500,000 20.00 6-12-06 29-3-2016
+JC Maples 500,000 – 500,000 20.00 6-12-06 29-3-2016
+William Hughes
+Non-executive Director
+31 December 2008 22
+Cashbox PLC  Annual Report & Accounts 2008
+Independent Auditors’ Report 
+to the Shareholders of Cashbox Public Limited Company
+We have audited the group and parent company financial
+statements (the “financial statements”) of Cashbox Public
+Limited Company for the year ended 30 June 2008 which
+comprise the Consolidated Income Statement, the Consolidated
+Statement of Changes in Equity, the Consolidated Balance
+Sheet, the Consolidated Cash Flow Statement, the Notes to the
+Consolidated Financial Statements, the Company Balance
+Sheet and the Notes to the Company Financial Statements.
+These financial statements have been prepared under the
+accounting policies set out therein.
+Respective responsibilities of directors and auditors
+The directors’ responsibilities for preparing the Annual 
+Report and the group financial statements in accordance 
+with applicable law and International Financial Reporting
+Standards (IFRSs) as adopted by the European Union, 
+and for preparing the parent company financial statements 
+in accordance with applicable law and United Kingdom
+Accounting Standards (United Kingdom Generally Accepted
+Accounting Practice) are set out in the Statement of 
+Directors’ Responsibilities. 
+Our responsibility is to audit the financial statements in
+accordance with relevant legal and regulatory requirements
+and International Standards on Auditing (UK and Ireland).
+We report to you our opinion as to whether the financial
+statements give a true and fair view and have been properly
+prepared in accordance with the Companies Act 1985 and
+whether the information given in the Directors’ Report is
+consistent with those financial statements. We also report to
+you if, in our opinion, the company has not kept proper
+accounting records, if we have not received all the information
+and explanations we require for our audit, or if information
+specified by law regarding directors’ remuneration and other
+transactions is not disclosed. 
+We read other information contained in the Annual Report
+and consider whether it is consistent with the audited financial
+statements. The other information comprises only the Business
+Highlights, Industry Overview, the Description of Cashbox
+business, the Chairman’s Statement, the Chief Executive’s
+Review, the Chief Financial Officer’s Review, Board of
+Directors and Key Management, Directors, Secretary and
+Advisers, the Corporate Governance Statement, the Report of
+the Directors’ together with the Report of the Remuneration
+Committee. We consider the implications for our report if we
+become aware of any apparent misstatements or material
+inconsistencies with the financial statements. Our
+responsibilities do not extend to any other information
+Our report has been prepared pursuant to the requirements of
+the Companies Act 1985 and for no other purpose. No person
+is entitled to rely on this report unless such a person is a
+person entitled to rely upon this report by virtue of and for the
+purpose of the Companies Act 1985 or has been expressly
+authorised to do so by our prior written consent. Save as
+above, we do not accept responsibility for this report to any
+other person or for any other purpose and we hereby expressly
+disclaim any and all such liability.
+Basis of audit opinion
+We conducted our audit in accordance with International
+Standards on Auditing (UK and Ireland) issued by the Auditing
+Practices Board. An audit includes examination, on a test basis,
+of evidence relevant to the amounts and disclosures in the
+financial statements. It also includes an assessment of the
+significant estimates and judgments made by the directors in
+the preparation of the financial statements, and of whether the
+accounting policies are appropriate to the group’s and company’s
+circumstances, consistently applied and adequately disclosed.
+We planned and performed our audit so as to obtain all the
+information and explanations which we considered necessary
+in order to provide us with sufficient evidence to give
+reasonable assurance that the financial statements are free
+from material misstatement, whether caused by fraud or other
+irregularity or error. In forming our opinion we also evaluated
+the overall adequacy of the presentation of information in the
+financial statements.
+Opinion
+In our opinion: 
+• the group financial statements give a true and fair view, in
+accordance with IFRSs as adopted by the European Union,
+of the state of the group’s affairs as at 30 June 2008 and 
+of its loss for the year then ended;
+• the parent company financial statements give a true and
+fair view, in accordance with United Kingdom Generally
+Accepted Accounting Practice, of the state of the parent
+company’s affairs as at 30 June 2008;
+• the financial statements have been properly prepared in
+accordance with the Companies Act 1985; and
+• the information given in the Directors’ Report is consistent
+with the financial statements. 
+Emphasis of matter – going concern
+In forming our opinion on the financial statements, which is
+not qualified, we have considered the adequacy of the
+disclosures made in note 1 to the financial statements
+concerning the Company’s ability to continue as a going concern. 
+In the event that the key assumptions in the projected
+cashflow forecasts are not met, the Company may have
+insufficient cash to meet its working capital requirements and
+may have to seek additional funding. However, there is no
+guarantee that further funding will be secured. 
+These conditions along with other matters disclosed in note 1 to
+the financial statements, indicate the existence of a material
+uncertainty which may cast significant doubt about the
+Company’s ability to continue as a going concern. The financial
+statements do not include the adjustments that would result if
+the Company was unable to continue as a going concern.
+BDO Stoy Hayward LLP
+Chartered Accountants and Registered Auditors
+Reading
+31 December 2008 23
+2008 2007
+£’000 £’000
+Opening shareholders’ deficit (3,520) (180)
+Loss for the financial period being the total recognised income and expenditure for the year (3,003) (6,741)
+Share based remuneration 133 138
+Issue of shares for cash including premium net of costs 459 3,263
+Issue of shares including premium on conversion of convertible loan stock 583 –
+(1,828) (3,340)
+Closing shareholders’ deficit (5,348) (3,520)
+The changes in each individual component of equity is shown in note 19 on page 46.
+The notes on pages 26 to 50 form an integral part of these consolidated financial statements.  
+2008 2007
+Notes £’000 £’000
+Revenue 2 4,675 4,380
+Cost of sales (2,907) (3,219)
+Gross profit 1,768 1,161
+Administration expenses (4,252) (5,093)
+Exceptional items:
+Litigation settlement costs 3 – (2,000)
+T otal administration expenses 4 (4,252) (7,093)
+Operating loss (2,484) (5,932)
+Finance income 46 37
+Finance costs 7 (565) (161)
+Exceptional finance charges 3 – (685)
+(519) (809)
+Loss for the year attributable to the equity holders of the parent company (3,003) (6,741)
+Loss per ordinary share (pence) 9
+Basic (3.4) (10.5)
+Diluted (3.4) (10.5)
+Loss for the year attributable to the equity holders of the parent company 
+excluding exceptional items 9 (3,003) (4,056)
+Consolidated Income Statement
+For the year ended 30 June 2008
+Consolidated Statement of Changes in Equity
+For the year ended 30 June 2008 24
+Cashbox PLC  Annual Report & Accounts 2008
+Consolidated Balance Sheet
+As at 30 June 2008
+2008 2007
+Notes £’000 £’000
+ASSETS
+Non current assets
+Intangible assets 10 53 13
+Property, plant and equipment 11 2,081 1,077
+2,134 1,090
+Current Assets
+Inventories 12 165 110
+Trade and other receivables 13 657 850
+Cash and cash equivalents 14 1,112 1,452
+1,934 2,412
+TOTAL ASSETS 4,068 3,502
+LIABILITIES AND EQUITY
+Current liabilities
+Trade and other payables 15 4,159 4,715
+Borrowings 16 5,254 2
+9,413 4,717
+Non current liabilities
+Borrowings 16 3 2,305
+3 2,305
+TOTAL LIABILITIES 9,416 7,022
+Capital and reserves attributable to equity holders
+Share capital 18, 19 1,044 832
+Share premium account 18, 19 7,755 6,925
+Merger reserve 19 2,180 2,180
+Equity reserve 19 – –
+Profit and loss account 19 (16,327) (13,457)
+(5,348) (3,520)
+TOTAL EQUITY AND LIABILITIES 4,068 3,502
+The financial statements were approved and authorised for issue by the Board on 31 December 2008 and were signed on its behalf by:
+Ciaran Morton David Auger
+Director Director
+The notes on pages 26 to 50 form an integral part of these consolidated financial statements. The Company only balance sheet of Cashbox
+PLC is shown on page 51. 25
+Consolidated Cash Flow Statement
+For the year ended 30 June 2008
+2008 2007
+Notes £’000 £’000
+CASH FLOWS FROM OPERATING ACTIVITIES
+Cash used in operations 21 (2,302) (2,440)
+Interest paid (350) (150)
+Net cash used in operating activities (2,652) (2,590)
+CASH FLOWS FROM INVESTING ACTIVITIES
+Purchase of property, plant and equipment (1,495) (687)
+Purchase of intangible fixed assets (60) (6)
+Net cash used in investing activities (1,555) (693)
+CASH FLOWS FROM FINANCING ACTIVITIES
+Proceeds of issue of ordinary shares for cash 18, 19 476 584
+Proceeds from borrowings 3,393 5,600
+Repayments of borrowings – (130)
+Capital repayments on finance leases (2) (1,388)
+Lease termination costs paid 3 – (467)
+Net cash generated from financing activities 3,867 4,199
+Net (decrease)/increase in cash (340) 916
+Cash and cash equivalents at the beginning of the year 1,452 536
+Cash and cash equivalents at the end of the year 1,112 1,452
+The notes on pages 26 to 50 form an integral part of these financial statements. 26
+Cashbox PLC  Annual Report & Accounts 2008
+Notes to the Consolidated Financial Statements
+For the year ended 30 June 2008
+1. ACCOUNTING POLICIES
+Accounting convention
+The consolidated financial statements of Cashbox PLC have been prepared in accordance with International Financial Reporting Standards,
+International Accounting Standards and IFRIC interpretations (collectively IFRS) as adopted by the European Union and the Companies
+Act 1985 applicable to Companies reporting under IFRS. The consolidated financial statements have been prepared under the historical cost
+convention as modified by the revaluation of land and buildings, available-for-sale financial assets, and financial assets and financial liabilities
+(including derivative instruments) at fair value through the income statement.
+The accounting policies have changed from the previous year when the financial statements were prepared under applicable United Kingdom
+Generally Accepted Accounting Principles (UK GAAP). The comparative information has been restated in accordance with IFRS. 
+The accounting policies that have been applied in the opening balance sheet have also been applied throughout all periods presented in these
+financial statements. These accounting policies comply with IFRSs that are mandatory for accounting periods ending on 30 June 2008.
+The preparation of financial statements in conformity with IFRS requires the use of certain critical accounting estimates. It also requires
+management to exercise its judgement in the process of applying the Group’s accounting policies. The areas involving a higher degree of judgement
+or complexity, or areas where assumptions and estimates are significant to the consolidated financial statements are disclosed below.
+Impact of conversion to IFRS:
+In implementing the transition to IFRS, the Group has followed the requirements of IFRS 1 “First Time Adoption of International Financial
+Reporting Standards”, which in general requires IFRS accounting policies to be applied fully retrospectively in deriving the opening balance
+sheet at the date of transition. In the Group’s case, the date of transition is 1 July 2006 being the start of the previous period that has been
+presented as comparative information. IFRS 1 contains certain mandatory exceptions and some optional exemptions to this principle of
+retrospective application. When preparing the Group’s IFRS balance sheet at 1st July 2006, the date of transition, the Group has taken the
+optional exemption in IFRS 1 to apply the provisions of IFRS 3: Business Combinations from 1 July 2006 and not applied the provisions of
+IFRS 3 to the acquisition of Cashbox ATM Systems Limited by Cashbox PLC on 23 March 2006 which has been accounted for under merger
+accounting rules as described below in ‘basis of consolidation’. 
+The adoption of IFRS represents an accounting change only and does not affect the operations or cash flows of the Group. 
+The principal area of impact is that purchased computer software costs were previously recorded as property, plant and equipment as
+permitted by UK GAAP . In accordance with IAS 38, all purchased computer software is recorded as an intangible asset. The impact of this
+adjustment was to reduce the net book value of property, plant and equipment by £14,000 as at 1 July 2006 and £13,000 as at 30 June
+2007 with a corresponding increase in intangible assets. There was no net impact on the income statement for the year ended 30 June 2007
+or on shareholders’ equity at 1 July 2006 or 30 June 2007. Consequently a reconciliation schedule is not required.
+(a) Relevant standards, amendments and interpretations effective for the year ended 30 June 2008
+IFRS 7, ‘Financial instruments: Disclosures’, and the complementary amendment to IAS 1, ‘Presentation of financial statements – Capital
+disclosures’, introduces new disclosures relating to financial instruments and does not have any impact on the classification and valuation of
+the Group or Company’s financial instruments. 
+IFRIC 8, ‘Scope of IFRS 2’, requires consideration of transactions involving the issuance of equity instruments, where the identifiable
+consideration received is less than the fair value of the equity instruments issued in order to establish whether or not they fall within the scope
+of IFRS 2. This standard does not have any impact on the Group’s financial statements. The Company already applies an accounting policy
+which complies with the requirements of IFRIC 8.
+IFRIC 10, ‘Interim financial reporting and impairment’, prohibits the impairment losses recognised in an interim period on goodwill and
+investments in equity instruments and in financial assets carried at cost to be reversed at a subsequent balance sheet date. This standard does
+not have any impact on the Group’s financial statements.
+IFRIC 11, ‘IFRS 2 – Group and treasury share transactions’ provides guidance on whether share-based transactions involving treasury shares
+or involving group entities (for example, options over a parent’s shares) should be accounted for as equity-settled or cash-settled share-based
+payment transactions in the stand-alone accounts of the parent and group companies. This interpretation has not had any impact on the Group’s
+financial statements. 27
+1. ACCOUNTING POLICIES continued
+(b) Standards, amendments and interpretations effective for the year ended 30 June 2008 or are effective from 1 July 2008
+but not relevant
+The following standards, amendments and interpretations to published standards are mandatory for accounting periods beginning on or
+after 1 July 2007 but they are not relevant to the Group or Company’s operations:
+Revised guidance on implementing IFRS 4, ‘Insurance contracts’;
+IFRIC 9, ‘Re-assessment of embedded derivatives’.
+Amendments to IAS 39 and IFRS 7, ‘Reclassification of Financial Instruments’.
+(c) Standards, amendments and interpretations to existing standards that are not yet effective and have not been early
+adopted by the Group
+The following standards, amendments and interpretations to existing standards have been published and are mandatory for the group’s
+accounting periods beginning on or after 1 July 2008 or later periods, but the Group has not early adopted them:
+IAS 1 Presentation of Financial Statements revised. The standard replaces the previous IAS 1 revised for periods beginning on or after 
+1 January 2009 and with respect to the Group will be effective for the year ended 30 June 2010.
+IAS 23 (Amendment), ‘Borrowing costs’ (effective from 1 January 2009). The amendment to the standard is still subject to endorsement by
+the European Union. It requires an entity to capitalise borrowing costs directly attributable to the acquisition, construction or production of
+a qualifying asset (one that takes a substantial period of time to get ready for use or sale) as part of the cost of that asset. The option of
+immediately expensing those borrowing costs will be removed. The group will apply IAS 23 (amended) from 1 January 2009, subject to
+endorsement by the EU but it is currently not applicable to the Group as there are no qualifying assets.
+IFRS 1 First time adoption of International Financial Reporting Standards (revised) (effective from 1 January 2009). These revisions are
+still to be endorsed by the EU but are not expected to impact the Company Amendments to IAS 32 and IAS 1 Puttable Financial Instruments
+and obligations arising on liquidation (effective from 1 January 2009). These amendments are still to be endorsed by the EU but are not
+expected to impact the Company.
+IFRS 2 Amendment to share based payments (effective from 1 January 2009). The amendment to the standard is still subject to endorsement
+by the European Union. The amendment concerns vesting conditions and cancellation. The group will apply IFRS 2 (amended) for the year
+ended 30 June 2010, subject to endorsement by the EU.
+IFRS 8, ‘Operating segments’ (effective from 1 January 2009). The standard replaces IAS 14 and aligns segment reporting with the
+requirements of the US standard SFAS 131, ‘Disclosures about segments of an enterprise and related information’. The new standard
+requires a ‘management approach’, under which segment information is presented on the same basis as that used for internal reporting purposes.
+The Group will apply IFRS 8 from 1 July 2009. The expected impact is still being assessed in detail by management, but it appears unlikely
+that the number of reportable segments, as well as the manner in which the segments are reported, will change.
+IFRS 3 Business combinations (revised). The standard continues to apply the acquisition method to business combinations, with some
+significant changes. For example, all payments to purchase a business are to be recorded at fair value at the acquisition date, with some
+contingent payments subsequently re-measured at fair value through income. Goodwill may be calculated based on the parent’s share of net
+assets or it may include goodwill related to the minority interest. All transaction costs will be expensed. These changes will affect how the
+Group reports any subsequent acquisitions but will not be effective until such time as it makes any.
+Amendments to IFRS 1 and IAS 27 Cost of an Investment in a Subsidiary, Jointly-Controlled Entity or Associate (effective for accounting
+periods beginning on or after 1 January 2009). These amendments are still to be endorsed by the EU. The amendments permits the entity
+at its date of transition to IFRSs in its separate financial statements to use a deemed cost to account for its investment in subsidiary, jointly
+controlled entity or associate. The deemed cost of such investment could be either the fair value of the investment at the date of transition,
+which would be determined in accordance with IAS 39 Financial instruments: Recognition and Measurement or; the carrying amount of the
+investment under previous GAAP at the date of transition. Management is currently assessing the impact of the Amendment on the accounts.
+Improvements to IFRS (effective for accounting periods beginning on or after 1 July 2009). This improvements project is still to be endorsed
+by the EU. The amendments take various forms, including the clarification of the requirements of IFRS and the elimination of inconsistencies
+between Standards. Management is currently assessing the impact of the Amendment on the accounts. 28
+Cashbox PLC  Annual Report & Accounts 2008
+Notes to the Consolidated Financial Statements continued
+For the year ended 30 June 2008
+1. ACCOUNTING POLICIES continued
+(d) Interpretations to existing standards that are not yet effective and not relevant for the Group’s operations
+The following interpretations to existing standards have been published and are mandatory for the Group’s accounting periods beginning on
+or after 1 April 2008 or later periods but are not relevant for the Group’s operations:
+IFRIC 12, ‘Service concession arrangements’
+IFRIC 13, ‘Customer loyalty programmes’
+IFRIC 14, ‘IAS 19 – The limit on a defined benefit asset, minimum funding requirements and their interaction’
+IFRIC 15, ‘Agreements for the construction of real estate’.
+IFRIC 16, ‘Hedges of a net investment in a foreign operation’.
+Going concern
+The Directors have prepared projected cash flow information for a period including twelve months from the date of approval of these accounts.
+Key assumptions are the rate of installation of new machines, the number of transactions per ATM and the fee per transaction all of  which
+the Directors believe are reasonable. The installation of new ATMs or redeployment of ATMs with low transaction volumes to new sites with
+higher transactions is dependent on such sites continuing to be identifiable and available. These assumptions include an assessment of the
+impact of the current economic uncertainty on the company but does not include the potential impact of a significant worsening of the
+situation given the inherent uncertainty as to the extent of such worsening and that the impact would have a number of mixed effects on
+Cashbox’s business. The projections include cashflows to Bank of Scotland being quarterly interest payments together with the repayment
+of principal commencing December 2009. A significant worsening of the economic situation may adversely impact upon the key assumptions
+within the projected cash flow information and result in insufficient cash being generated to meet the capital repayments to the bank which
+are due to start in twelve months time and may result in insufficient cash being generated to meet working capital requirements. In the event
+that the economy does significantly weaken, the Directors may seek additional funding to ensure all payments can be met. On the basis of
+this cash flow information, and discussions with and the continued support of the Group’s bankers, the Directors are confident, based on current
+results, projections and the Group’s cash position at the date of the approval of these financial statements, that the Group will be able to continue
+to trade for the foreseeable future. As a result of the above, the Directors consider it appropriate to prepare the financial statements on the
+going concern basis.
+Accordingly the financial statements do not reflect any adjustments that would be required in the event that the Group were unable to achieve
+its forecast cash flows.
+Basis of consolidation
+The consolidated financial statements comprise the Cashbox Public Limited Company together with Cashbox ATM Systems Limited (“principal
+operating company”), together with Cashbox No 1 Limited, Cashbox No 2 Limited and Cashbox Finance Limited, all wholly owned either
+directly or indirectly by Cashbox PLC, for the year to 30 June 2008 with comparative information for the year ended 30 June 2007. 
+The consolidated financial statements present the results of the Company and its subsidiaries (“the Group”) as if they formed a single entity.
+All inter-company balances and transactions have been eliminated upon consolidation.
+The merger reserve arose on the combination of Cashbox ATM Systems Limited with Cashbox PLC on 23 March 2006 as the combining
+entities within the Group were controlled by the same parties both before and after the combination. 
+Principal accounting policies
+The principal accounting policies of the Group, which are considered to be most appropriate to the Group’s circumstances, are set out below.
+These policies have been consistently applied to all the years presented, unless otherwise stated. 
+Revenue
+Revenue represents the value of goods sold and services provided during the year, stated exclusive of Value Added Tax. Transaction income
+is recognised in the period in which the transaction took place. Income from the sale of Automated Teller Machines (ATMs) is recognised
+when each ATM is installed in its first location.
+Segmental reporting
+The Directors in considering the disclosure of business segments have considered the following definitions: A business segment is a distinguishable
+component of an enterprise that is engaged in providing an individual product or service or a group of related products or services and that
+is subject to risks and returns that are different from those of other business segments. A geographical segment is a distinguishable component
+of an enterprise that is engaged in providing products or services within a particular economic environment and that is subject to risks and
+returns that are different from those of components operating in other economic environments. On this basis, in the opinion of the Directors,
+the Group has only one Segment at present. This will be reviewed at least annually. 29
+1. ACCOUNTING POLICIES continued
+Foreign currency translation
+The consolidated financial statements are presented in pounds sterling (‘£’), which is the company’s functional and presentational currency.
+Transactions in foreign currencies are translated at the exchange rate ruling at the date of transaction. Foreign currency transactions are
+translated into the functional currency using the exchange rates prevailing at the dates of the transactions. Foreign exchange gains and losses
+resulting from the settlement of such transactions and from the translation at year-end exchange rates of monetary assets and liabilities
+denominated in foreign currencies are recognised in the income statement.
+Exceptional items 
+Exceptional items are those significant items which are separately disclosed by virtue of their size or incidence to enable a full understanding
+of the Group’s financial performance.
+Website development costs
+Expenditure incurred on maintaining websites and expenditure incurred on developing websites used only for advertising and promotional
+purposes are written off as incurred.
+Intangible assets
+Intangible assets comprise computer software licences acquired and are capitalised on the basis of separately identifiable costs incurred to
+acquire and bring into use specific software less accumulated amortisation and any impairment in value.
+Amortisation on intangible assets
+Amortisation is provided on intangible assets which have a finite useful economic life to write off the cost, less estimated residual values,
+evenly over their expected useful lives on a straight line basis. Lives used for this purpose are:
+–  Computer software 3 years
+Property, plant and equipment
+Property, plant and equipment are held at cost being the purchase price and other costs directly attributable to bringing the asset into use
+less accumulated depreciation and any impairment in value.
+Depreciation on property, plant and equipment
+Depreciation is provided on property, plant and equipment to write off the cost, less estimated residual values, evenly over their expected useful
+lives on a straight line basis. Lives used for this purpose are:
+–  Automated teller machines 5 years
+–  Furniture and fittings 3 years
+–  Office equipment 3 years
+Leased assets
+Assets that are financed by leasing agreements that give rights approximating to ownership (finance leases) are treated as if they had been
+purchased outright. The amount capitalised is the lower of the fair value of the leased property and the present value of the minimum lease
+payments payable over the term of the lease. The corresponding leasing commitments are shown as amounts payable to the lessor. Depreciation
+on the relevant assets is charged to the income statement over the shorter of estimated useful economic life and the period of the lease. Lease
+payments are analysed between capital and interest components so that the interest element of the payment is charged to the income
+statement over the period of the lease and is calculated so that it represents a constant proportion of the balance of capital repayments
+outstanding. The capital element of the payment reduces the amount payable to the lessor. 
+All other leases are treated as operating leases. Their annual rentals are charged or credited to the income statement on a straight line basis
+over the term of the lease. 
+Sale and leaseback
+Sale and leaseback arrangements, by means of a finance lease, are accounted for in the same manner as a standard finance lease agreement.
+It is not appropriate to regard an excess of sale proceeds over the carrying amount as income. Such excess is deferred and amortised over
+the lease term.  30
+Cashbox PLC  Annual Report & Accounts 2008
+Notes to the Consolidated Financial Statements continued
+For the year ended 30 June 2008
+1. ACCOUNTING POLICIES continued
+Onerous leases
+Where the unavoidable costs of a lease exceed the economic benefit expected to be received from it, a provision is made for the present value
+of the obligations under the lease.
+Impairment of non-current assets
+Assets that are subject to amortisation or depreciation are reviewed for impairment whenever events or changes in circumstances indicate
+that the carrying amount may not be recoverable. An impairment loss is recognised for the amount by which the asset’s carrying amount
+exceeds its recoverable amount. The recoverable amount is the higher of an asset’s fair value less costs to sell and value in use. For the purposes
+of assessing impairment, assets are grouped at the lowest levels for which there are separately identifiable cash flows (cash-generating
+units). Non-current assets other than goodwill that suffer an impairment are reviewed for possible reversal of the impairment at each
+reporting date.
+Inventories
+Inventories are valued at the lower of cost and net realisable value. Cost is based on the cost of purchase on a first in, first out basis. 
+Net realisable value is based on the estimated selling price less additional costs to completion and disposal.
+Financial assets
+The Group has classified all its financial assets as loans and receivables. This is based on the classification of the financial assets at initial
+recognition by Management. These are non-derivative financial assets with fixed or determinable payments that are not quoted in an active
+market. They are included in current assets, except for maturities greater than 12 months after the balance sheet date. These are classified
+as non-current assets. The Group’s loans and receivables comprise ‘trade and other receivables’ and ‘cash and cash equivalents’ in the
+balance sheet.
+Trade receivables
+Trade receivables are recognised initially at invoiced value, less provision for impairment, and if materially different adjusted to fair value
+and subsequently measured at amortised cost using the effective interest method, less provision for impairment. A provision for impairment
+of trade receivables is established when there is objective evidence that the group will not be able to collect all amounts due according
+to the original terms of the receivables. The amount of the provision is the difference between the asset’s carrying amount and the
+present value of estimated future cash flows, discounted at the original effective interest rate.
+Cash and cash equivalents
+Cash and cash equivalents includes cash in hand, deposits held at call with banks, other short-term highly liquid investments with original
+maturities of three months or less, and bank overdrafts. Bank overdrafts are shown within borrowings in current liabilities on the balance
+sheet.
+The Group has not classified any of its financial assets under the following headings:
+–  Assets held to maturity
+–  In money derivatives - held for trading
+–  Available for sale financial assets.
+Financial liabilities
+The Group classifies all its financial liabilities (other than those in a qualifying hedging relationship) as other financial liabilities and includes
+the following:
+Trade payables
+Trade payables are recognised at invoiced value and if materially different adjusted to fair value and subsequently measured at amortised
+cost using the effective interest method.
+Borrowings
+Borrowings are recognised initially at fair value, net of transaction costs incurred. Borrowings are subsequently stated at amortised cost;
+any difference between the proceeds (net of transaction costs) and the redemption value is recognised in the income statement over the
+period of the borrowings using the effective interest method. Borrowings are classified as current liabilities unless the group has an
+unconditional right to defer settlement of the liability for at least 12 months after the balance sheet date. 31
+1. ACCOUNTING POLICIES continued
+Share capital
+Financial instruments issued by the Group are treated as equity only to the extent that they do not meet the definition of a financial liability.
+The Group’s ordinary shares are classified as equity instruments.
+Convertible debt
+The proceeds received on issue of the Group’s convertible debt are allocated into their liability and equity components. The amount
+initially attributed to the debt component equals the discounted cash flows using a market rate of interest that would be payable on a
+similar debt instrument that does not include an option to convert. Subsequently, the debt component is accounted for as a financial liability
+measured at amortised cost (see above). On conversion, the equity component in reserves is taken to the share premium account.
+The Group has not classified any of its financial liabilities as liabilities under the following headings:
+–  Out of money derivatives - held for trading.
+Derivative financial instruments and hedge accounting
+The Group has considered the requirements of IFRS 7 and has adopted the following policies although no items were applicable in the
+current year.
+Derivatives are initially recognised at fair value on the date a derivative contract is entered into and are subsequently re-measured at their
+fair value. The method of recognising the resulting gain or loss depends on whether the derivative is designated as a hedging instrument, and
+if so, the nature of the item being hedged. Derivatives may be designated as either:
+(a) hedges of the fair value of recognised assets or liabilities or a firm commitment (fair value hedge);
+(b) hedges of a particular risk associated with a recognised asset or liability or a highly probable forecast transaction (cash flow hedge); 
+or
+(c) hedges of a net investment in a foreign operation (net investment hedge)
+The group documents at the inception of the transaction the relationship between hedging instruments and hedged items, as well as its risk
+management objectives and strategy for undertaking various hedging transactions. The group also documents its assessment, both at hedge
+inception and on an ongoing basis, of whether the derivatives that are used in hedging transactions are highly effective in offsetting changes
+in fair values or cash flows of hedged items.
+Hedge accounting is applied to financial assets and financial liabilities only where all of the following criteria are met: 
+–  At the inception of the hedge there is formal designation and documentation of the hedging relationship and the group’s risk management
+objective and strategy for undertaking the hedge.
+–  For cash flow hedges, the hedged item in a forecast transaction is highly probable and presents an exposure to variations in cash flows
+that could ultimately affect profit or loss.
+–  The cumulative change in the fair value of the hedging instrument is expected to be between 80-125% of the cumulative change in the
+fair value or cash flows of the hedged item attributable to the risk hedged (i.e. it is expected to be highly effective).
+–  The effectiveness of the hedge can be reliably measured.
+–  The hedge remains highly effective on each date it is tested. The Group has chosen to test the effectiveness of its hedges on a quarterly
+basis.
+At the 30 June 2008 and in the financial year then ended, together with the preceding financial year, no asset or liability met the requirements
+for hedge accounting.
+Finance costs
+Finance costs are charged to the income statement over the term of the debt so that the amount charged is at a constant rate on the carrying
+amount. Finance costs include issue costs, which are initially recognised as a reduction in the proceeds of the associated capital instrument.
+Current and deferred taxation
+The current income tax charge is calculated on the basis of the tax laws enacted or substantively enacted at the balance sheet date.
+Management periodically evaluates positions taken in tax returns with respect to situations in which applicable tax regulation is subject to
+interpretation and establishes provisions where appropriate on the basis of amounts expected to be paid to the tax authorities. 32
+Cashbox PLC  Annual Report & Accounts 2008
+Notes to the Consolidated Financial Statements continued
+For the year ended 30 June 2008
+1. ACCOUNTING POLICIES continued
+Deferred income tax is provided in full, using the liability method, on temporary differences arising between the tax bases of assets and liabilities
+and their carrying amounts in the consolidated financial statements. However, the deferred income tax is not accounted for if it arises from
+initial recognition of an asset or liability in a transaction other than a business combination that at the time of the transaction affects neither
+accounting nor taxable profit or loss. Deferred income tax is determined using tax rates (and laws) that have been enacted or substantially
+enacted by the balance sheet date and are expected to apply when the related deferred income tax asset is realised or the deferred income
+tax liability is settled. Deferred income tax assets are recognised to the extent that it is probable that future taxable profit will be available
+against which the temporary differences can be utilised. Deferred tax balances are not discounted.
+Pension costs
+Contributions to Cashbox ATM Systems Limited’s defined contribution pension scheme are charged to the income statement in the year in
+which they become payable. 
+Reimbursements under indemnity agreements
+Amounts recoverable under indemnity agreements are treated as reimbursements and, unless virtually certain, are only recognised on receipt.
+Share-based employee remuneration
+The Group has adopted IFRS 2 ‘Share based payments’ which is obligatory for periods commencing on or after 1 January 2006. The Group
+issues equity settled share based payments including share options and warrants to certain Directors and employees. The fair value of the
+employee services received in exchange for the grant of the options is recognised as an expense. Equity-settled share based payments are
+measured at fair value at the date of grant using an appropriate option pricing model. The fair value determined at the date of grant is expensed
+to the income statement on a straight line basis over the vesting period. Non-market vesting conditions are taken into account by adjusting
+the number of equity instruments expected to vest at each balance sheet date so that, ultimately, the cumulative amount recognised over the
+vesting period is based on the number of options that eventually vest. Market vesting conditions are factored into the fair value of the options
+granted. As long as all other vesting conditions are satisfied, a charge is made irrespective of whether the market vesting conditions are satisfied.
+The cumulative expense is not adjusted for failure to achieve a market vesting condition. At the balance sheet date the cumulative change in
+respect of each award is adjusted to reflect the actual levels of options vesting or expected to vest.
+Critical accounting estimates and judgements
+In preparing the consolidated financial statements, management has to make judgements on how to apply the group’s accounting policies
+and make estimates about the future. The critical judgements that have been made in arriving at the amounts recognised in the consolidated
+financial statements and the key sources of estimation uncertainty that have a significant risk of causing a material adjustment to the
+carrying value of assets and liabilities in the next financial year, are discussed below.
+Useful lives of intangible assets and property, plant and equipment
+Intangible assets and property, plant and equipment are amortised or depreciated over their useful lives. Useful lives are based on the
+management’s estimates of the period that the assets will generate revenue, which are periodically reviewed for continued appropriateness.
+Changes to estimates can result in significant variations in the carrying value and amounts charged to the consolidated income statement in
+specific periods.
+Fair value of financial assets and liabilities 
+The Group determines the fair value of financial instruments that are not quoted, using valuation techniques. Those techniques are significantly
+affected by the assumptions used, including discount rates and estimates of future cash flows. In that regard, the derived fair value estimates
+cannot always be substantiated by comparison with independent markets and, in many cases, may not be capable of being realised immediately.
+Amounts recoverable under indemnities
+As described in notes 13 and 25, the settlement costs of the Hanco litigation are recoverable from Anthony Sharp (previously Chairman and
+a significant shareholder) and Carl Thomas (previously Chief Executive Officer). In considering the likelihood of recovery under the indemnity,
+judgement has been used in forming the view that while receipt is eventually anticipated, it is not virtually certain.
+Income taxes
+In recognising income tax assets and liabilities, management makes estimates of the likely outcome of decisions by tax authorities on
+transactions and events whose treatment for tax purposes is uncertain. Where the final outcome of such matters is different, or expected to
+be different, from previous assessments made by management, a change to the carrying value of income tax assets and liabilities will be recorded
+in the period in which such a determination is made. The carrying values of income tax assets and liabilities are disclosed separately in the
+consolidated balance sheet. 33
+1. ACCOUNTING POLICIES continued
+Exceptional items
+Exceptional items are those that, by virtue of their size or incidence, should be separately disclosed in the income statement. The determination
+of which items should be separately disclosed as operating exceptional items requires judgement. Exceptional items are described further in
+note 3.
+Provisions
+The Group continues to carry balance sheet provisions in a number of areas against exposures that arise in the normal course of trading.
+These provisions cover areas such as uninsured losses, termination and reorganisation activities and property dilapidation reserves. Judgement
+is involved in assessing the exposures in these areas and hence in setting the level of the required provision.
+Share based payments
+The Group operates an Employee Option Scheme. Employee services received, and the corresponding increase in equity, are measured 
+by reference to the fair value of the equity instruments at the date of grant, excluding the impact of any non-market vesting conditions. 
+The fair value of share options is estimated by using valuation models, such as Black-Scholes on the date of grant based on certain assumptions.
+Those assumptions include, among others, expected volatility, expected life of the options and number of options expected to vest.
+Employer taxes on share options
+To the extent that the share price at the balance sheet date is greater than the exercise price on options granted under unapproved schemes,
+provision for any National Insurance contributions has been made based on the prevailing rate of National Insurance unless the employee is
+liable under the terms of the option. The provision is accrued over the performance period attaching to the award. At the 30 June 2008, 
+no provision was required.
+2. TURNOVER AND SEGMENTAL ANALYSIS
+Turnover (all arising in the UK) is attributed to the Group’s principal activity of the supply and maintenance of ATMs and the processing of
+transactions there from. Although the directors consider that there is only one business segment, the following analysis of turnover is provided:
+2008 2007
+£’000 £’000
+ATM and consumable sales 93 373
+Gross transaction revenue 4,486 4,003
+Other revenues 96 4
+4,675 4,380
+3. EXCEPTIONAL ITEMS
+2008 2007
+£’000 £’000
+Charged in arriving at operating loss:
+Litigation settlement costs – 2,000
+Charged within finance costs:
+Lease termination payments – 685
+The litigation settlement costs in 2007 relate to the full and final settlement costs of £1,800,000 associated with the agreement reached with
+Hanco on 23 October 2007 together with the costs order of £199,760 paid on 24 July 2007 being recorded in the year ended 30 June 2007
+as an adjusting subsequent event. The Company’s subsidiary, Cashbox ATM Systems Limited, has a joint and several indemnity in connection
+with this litigation. In accordance with IAS 37, the amounts due under the indemnity have been treated as a reimbursement as described in
+note 13 and the amount recoverable will not be recorded until receipt is virtually certain.
+The £685,000 exceptional costs associated with terminating the lease arrangements with General Capital Venture Finance (“GCVF”)
+included the effective cash payment of the interest element of future lease rentals £467,000 plus the non-cash costs related to the write off
+of arrangement fees, £189,000, together with write back of future warrant accretion costs £29,000. The agreement terminating the lease
+arrangements provided for full and final settlement of all outstanding obligations if the Group purchased the assets legally owned by GCVF
+and accordingly GCVF agreed to release the debenture held over the Group’s assets. 34
+Cashbox PLC  Annual Report & Accounts 2008
+Notes to the Consolidated Financial Statements continued
+For the year ended 30 June 2008
+4. EXPENSES BY NATURE
+2008 2007
+£’000 £’000
+Employee costs (note 5) 2,331 2,307
+Depreciation of tangible fixed assets 491 277
+Amortisation of intangible fixed assets 20 7
+Occupancy costs 291 319
+Vehicle costs 301 293
+Professional fees (including auditor’s remuneration) 361 874
+Other administration costs 457 1,014
+Exchange differences – 2
+4,252 5,093
+Litigation settlement costs (note 3) – 2,000
+4,252 7,093
+Included in Occupancy costs are operating lease rentals for land and buildings of £96,000 (2007: £96,000) and included in Vehicle costs
+are operating lease rentals for vehicles of £74,000 (2007: nil).
+2008 2007
+£’000 £’000
+Fees payable to the Company’s auditors for Auditors’ remuneration
+– audit of Company’s annual accounts 30 45
+– audit of Company’s subsidiaries annual accounts 45 74
+– T ax services 14 12
+– all other services 15 5
+104 136
+5. EMPLOYEES
+2008 2007
+£’000 £’000
+Salaries and wages 1,928 1,900
+Social security costs 232 235
+Other pension costs 46 34
+Equity settled share based remuneration costs 125 138
+T otal 2,331 2,307
+The average number of employees (including directors) during the year was as follows:
+2008 2007
+Sales 19 15
+Engineering 14 14
+Administration 17 15
+T otal 50 44 35
+6. DIRECTORS’ REMUNERATION
+2008 2007
+£’000 £’000
+Aggregate emoluments (including amounts paid to third parties) 564 837
+Company contributions to money purchase pension schemes 3 3
+Equity settled share based remuneration costs 48 110
+Ex gratia payments – 21
+615 971
+There was 1 Director (2007:1) in the Company’s defined contribution pension scheme during the year. The total amount payable to the
+highest paid Director in 2008 was £180,765 (2007: £165,045) the Company has paid no pension contributions on behalf of the highest paid
+Director in either year.
+7. FINANCE COSTS
+2008 2007
+£’000 £’000
+Loan interest 364 11
+Accrued redemption fee on Loan 105 –
+Interest on finance leases 1 138
+Interest on Hanco settlement (see notes 15 and 24) 64 –
+Other 31 12
+565 161
+8. TAXATION
+2008 2007
+£’000 £’000
+Loss on ordinary activities before tax (3,003) (6,741)
+Expected tax credits based on loss at the standard rate of UK Corporation tax of 29.5% (2007: 30%) (886) (2,022)
+Effect of:
+Expenses not deductable for tax purposes 14 247
+Depreciation in excess of capital allowances 90 86
+Losses carried forward 782 1,689
+T otal tax charge – –
+The Group has trading losses of approximately 2008: £13m (2007: £11m) that are available for the offset against future trading profits subject
+to the agreement of HM Revenue & Customs. A deferred tax asset of £3.7m (2007: £3.1m) has not been recognised in respect of these losses
+as it is not certain when they might be utilised. 36
+Cashbox PLC  Annual Report & Accounts 2008
+Notes to the Consolidated Financial Statements continued
+For the year ended 30 June 2008
+9. LOSS PER ORDINARY SHARE
+The calculation of the basic earnings per share is based on the earnings attributable to ordinary shareholders diluted by the weighted average
+number of shares in issue during the financial year. The Group also presents an adjusted earnings per share based on earnings excluding
+exceptional items which is a non GAAP measure that the Directors believe aids the understanding of the Group’s trading performance.
+For dilutive earnings per share, the weighted average number of ordinary shares in issue is adjusted to reflect the impact of conversion of
+dilutive potential ordinary shares. The potential dilutive ordinary shares consist of the share options and warrants. However, as the Group is
+currently loss making, none of the potentially dilutive shares are currently dilutive. During the year the weighted average number of potentially
+outstanding options and warrants where the exercise price was below the average share price for the year was 2,153,846 (2007: 2,153,846)
+with a further 7,956,314 (2007: 5,986,321) if all options and warrants are included.
+2008 2007
+£’000 £’000
+Earnings
+Loss for the year for basic loss per share (3,003) (6,741)
+Add back exceptional charges (see note 3) – 2,685
+Adjusted loss before exceptional items (3,003) (4,056)
+Number of ordinary shares 
+Weighted average number of shares for basic loss per share and diluted earnings per share 
+(all the potential shares are anti-dilutive) 83,312,035 64,129,470
+Basic loss per share (3.4)p (10.5)p
+Diluted loss per share (3.4)p (10.5)p
+Adjusted loss per share (excluding exceptional items) (3.4)p (6.3)p
+10. INTANGIBLE ASSETS
+Software
+£’000
+Cost
+Balance as at 1 July 2006 29
+Additions 6
+Balance as at 30 June 2007 35
+Additions 60
+Balance as at 30 June 2008 95
+Amortisation
+Balance as at 1 July 2006 15
+Provided during the year 7
+Balance as at 30 June 2007 22
+Provided during the year 20
+Balance as at 30 June 2008 42
+Net Book Value
+As at 30 June 2007 13
+As at 30 June 2008 53 37
+11. PROPERTY , PLANT AND EQUIPMENT
+Office Furniture Automated 
+Equipment and fittings teller machines Total
+£’000 £’000 £’000 £’000
+Cost
+Balance as at 1 July 2006 149 16 648 813
+Additions 116 92 486 694
+Balance as at 30 June 2007 265 108 1,134 1,507
+Additions 101 28 1,366 1,495
+Balance as at 30 June 2008 366 136 2,500 3,002
+Depreciation
+Balance as at 1 July 2006 97 7 49 153
+Provided during the year 57 17 203 277
+Balance as at 30 June 2007 154 24 252 430
+Provided during the year 77 38 376 491
+Balance as at 30 June 2008 231 62 628 921
+Net Book Value
+As at 30 June 2007 111 84 882 1,077
+As at 30 June 2008 135 74 1,872 2,081
+The cost, accumulated depreciation and net book value of property, plant and equipment in respect of assets held under finance leases, 
+all within Office Equipment, is as follows:
+2008 2007
+£’000 £’000
+Cost 6 6
+Accumulated depreciation (1) –
+Net book value 5 6
+12. INVENTORIES
+2008 2007
+£’000 £’000
+Automated teller machines 27 49
+Spare parts 150 61
+Obsolescence provision (12) –
+165 110 38
+Cashbox PLC  Annual Report & Accounts 2008 Cashbox PLC  Annual Report & Accounts 2008
+Notes to the Consolidated Financial Statements continued
+For the year ended 30 June 2008
+13. TRADE AND OTHER RECEIVABLES
+2008 2007
+£’000 £’000
+Trade receivables 143 11
+Other taxes 37 500
+Prepayments and accrued income – current portion 295 122
+Other receivables 92 85
+Provision for doubtful receivables (11) (6)
+Other receivables – net 81 79
+556 712
+Prepayments and accrued income – non current portion 101 138
+657 850
+The Group considers the fair value of trade and other receivables to equal book value. Movements in provisions represents amounts written
+off to the income statement in the year. 
+Not included in receivables above is an amount of £2,101,554 (2007: £1,999,760) due, joint and severally from Carl Thomas and Anthony
+Sharp under the terms of an indemnity in relation to the settlement of litigation with Hanco ATM Systems Limited as described in note 25.
+Under IFRS this has been treated as a reimbursement and will not be recognised until its receipt is virtually certain.
+14. CASH AND CASH EQUIVALENTS
+2008 2007
+£’000 £’000
+Bank of England 871 1,349
+Halifax Bank of Scotland 219 69
+Other cash at bank and on hand 22 34
+1,112 1,452
+15. TRADE AND OTHER PAYABLES
+2008 2007
+£’000 £’000
+Trade payables 721 731
+Other taxation and social security 76 262
+Other payables 1,940 2,111
+Accruals 1,061 1,611
+3,798 4,715
+Deferred income 361 –
+4,159 4,715
+The Group considers the fair value of trade and other payables to equal book value.
+Included in Other payables is an amount of £1,800,000 due to Hanco ATM Systems Limited as a result of the settlement of litigation plus
+interest of £64,000. This item was settled post year end as described in note 24. 39
+16. BORROWINGS
+2008 2007
+£’000 £’000
+Current
+Amounts due under finance leases 2 2
+Bank loans 4,805 –
+Other loans 447 –
+5,254 2
+Non Current
+Amounts due under finance leases 3 5
+Bank loans – 2,300
+3 2,305
+5,257 2,307
+The Bank loans are amounts due under a term loan facility with Bank of Scotland, with £4,700,000 drawn and further draw downs principally
+for the purchase of ATMs allowed up to a maximum of £6,000,000. All draw downs must be completed prior to 31 December 2008 when
+any un-drawn element of the facility is cancelled and the amount drawn down is converted to a 4 year fixed rate term loan at the fixed rate
+at that time.
+The loan agreement includes a financial covenant relating to “Net worth” being defined as the aggregate of the amount paid up on the issued
+share capital and the amount standing to the credit of its capital and revenue reserves (including any share premium account, capital
+redemption reserve and any amount of interest payable in respect of the Hanco Litigation Liability but excluding any revaluation reserve and
+the amount of the Hanco Litigation Liability (up to a maximum of £2,000,000) and deducting any amounts attributable to intangible assets
+including Goodwill. This covenant provides comfort to the Bank that any financial losses are covered by further investment into the Company.
+Other financial covenants relate to EBITDA and cashflow cover measured against the Company’s financial projections.
+During May and June 2008 the Company drew up plans to raise additional capital and on 4 July 2008 issued a notice of an Extraordinary
+General Meeting as part of the process to raise a significant amount of new equity. All resolutions were duly passed and £1,547,000 of new
+equity was raised in a series of placings between July and October 2008. As at the 30 June 2008, as shown by draft group statutory accounts,
+the Company was in breach of the net worth covenant and while agreement existed with the Bank that no action would be taken if the breach
+was rectified, the waiver was not unconditional (and the conditions had not been met since the breach was at the balance sheet date).
+Accordingly, under IAS 1 paragraph 65 all the bank borrowings are shown repayable in less than one year, despite events subsequent to the
+balance sheet when the breach was rectified and the Bank has confirmed that no action will be taken on the breach. Consequently while amounts
+due to the bank are shown as repayable in less than one year, the actual repayments are, due to commence until December 2009 as per the
+original agreement.
+In further discussions with the bank, it has been agreed that additional financial covenants including interest and cash flow covers which were
+due for test for the first time on 30 June 2009 have been reset based on revised financial projections and the Bank has agreed to take no
+action regarding any historic breach. 
+Repayments under the loan agreement are calculated as percentages of the amounts drawn prior to 31 December 2008 being 20.8% during
+year ended June 2010; 29.2% during year ended June 2011 and the remaining 50.0% during the year ended 30 June 2012. 
+Interest was payable at quarterly intervals at a floating rate of 3.0% over LIBOR plus mandatory costs up to 31 December 2008 when 
+the rate was amended  to 6.0% over LIBOR and will be fixed over the prevailing 4 year forward LIBOR rate plus mandatory costs for a period
+of not less than four years. Upon the final repayment of the principal, a further fee of £500,000 is payable, the cost of which is being accrued
+over the period of the loan with the amount at 30 June 2008 being £105,000 (2007: nil).
+In addition to the term loan facility, the Group has an overdraft facility of up to £750,000 with Bank of Scotland subject to an annual review,
+the first being in December 2008. This has been cancelled as part of the process resetting the covenants.
+The loan is secured by a fixed and floating charge over the Group’s assets and various cross guarantees in the favour of Bank of Scotland
+are in place between the Company and its subsidiaries. 40
+Cashbox PLC  Annual Report & Accounts 2008
+Notes to the Consolidated Financial Statements continued
+For the year ended 30 June 2008
+16. BORROWINGS continued
+The Group has no commitment under finance leases at the balance sheet date which were due to commence thereafter.
+Other loans are the balance due to MBC Investments Limited under a non-convertible loan note including interest being due for redemption
+on or before 31 March 2009. The loan note accrues interest on a stepped interest rate basis with the rate at 30 June 2008 being 13% increasing
+by 1.5% per month to a maximum of 20%. The loan note holders have confirmed to the Board that they are prepared to convert the loan to
+shares at a price of 5p per share.
+During the year the Company issued a Convertible loan note to MBC Investments which converted in accordance with its terms. Details are
+included in note 18.
+As described in Note 24, the Company reached agreement with Hanco on 19 September 2008 regarding the outstanding settlement of the
+litigation and issued a £1,800,000 5 year convertible loan note in settlement of the liability.
+On 31 December 2008 the Company issued a £1,500,000 convertible loan note to the terms of which are described in Note 24.
+Maturity of borrowings at 30 June 2008:
+Finance Leases Other loans Bank loans Total
+£’000 £’000 £’000 £’000
+In less than one year 2 447 4,805 5,254
+In more than one but less than two years 3– – 3
+In more than two but less than five years –– ––
+In more than one but less than five years 3– ––
+5 447 4,805 5,257
+There are no amounts due after more than five years.
+The carrying amounts and fair value of borrowings are as follows:
+Carrying amounts Fair value
+2008 2007 2008 2007
+£’000 £’000 £’000 £’000
+Bank loans 4,805 2,300 5,062 2,632
+Other loans 447 – 447 –
+Finance leases 5 7 5 7
+5,257 2,307 5,514 2,639
+The carrying amount of the Bank Loans includes an amount of £105,000 (2007: £nil) being the accrual to date of the termination payment
+due of £500,000 on final repayment of the Bank facility due on 31 March 2012. The fair value of the principal of the bank debt is not materially
+different to notional amount while the fair value of the termination payment is £362,000 (2007: £332,000) being the termination payment
+discounted to present value at 9% being the interest rate applicable to other secured borrowings from Bank of Scotland.
+Since the MBC non-convertible loan note was signed in December 2007, the Directors believe the ability of the Group to borrow has not
+materially changed and the interest rates available to the Group remain constant. Consequently the fair value of the MBC loan is not
+materially different to its carrying value.
+The present value of the Group’s obligations under finance leases approximates to their carrying amount, and is secured by the lessors either
+having legal title or charges over the leased assets.
+Minimum lease payments under finance leases
+2008 2007
+£’000 £’000
+In less than one year 3 3
+In more than one but less than two years 2 3
+In more than two but less than five years – 2
+In more than one but less than five years 2 5
+5 8 41
+17. FINANCIAL INSTRUMENTS INCLUDING FINANCIAL ASSETS AND LIABILITIES
+Group policy prohibits speculative transactions and no trading activity in financial instruments is undertaken. 
+Treasury policies are determined by the Chief Financial Officer, based on forecast business requirements, and are reviewed regularly by the
+Board. 
+a) Interest rate risk
+The Group’s income and operating cash flows are substantially independent of changes in market interest rates. The Group’s cash flow
+interest rate risk arises from a) cash deposits and b) bank term loan. Deposits placed at variable rates expose the Group to cash flow interest
+rate risk. Interest on the bank loan is fixed at three monthly intervals at variable rates. There is no interest rate hedge. The Group’s cash
+equivalents are held at floating interest rates. The interest rates of finance leases to which the Group is lessee are fixed at inception of the
+lease. These leases expose the Group to fair value interest rate risk however the amounts are not material given the level of borrowings under
+finance leases. At 30 June 2008, the amount drawn under the Bank of Scotland loan facility was £4,700,000. A movement of 1% in LIBOR
+would have an impact of £47,000 pa.
+b) Currency exposures
+The Group currently only operates in the UK market and is only exposed to foreign exchange risk from the purchase of ATMs and spare parts
+from US based suppliers where the prices are primarily in the US Dollar. Foreign exchange risk arises when future commercial transactions,
+recognised assets and liabilities are denominated in a currency that is not the entity’s functional currency. There were no hedging transactions
+in place at 30 June 2008. The Group’s cash and cash equivalents were all in sterling. Trade creditors included £6,000 denominated in 
+US dollars.
+c) Liquidity risk
+In order to maintain liquidity to ensure that sufficient funds are available for ongoing operations and future developments, the Group uses a
+mixture of long-term debt finance, share capital and equity instruments and available working capital resources. The need for funds is
+identified through the use of financial budgets and forecasts, the assumptions of which are described in the Going Concern accounting policy
+on page 28. The Group does not include balances held with the Bank of England in its liquidity analysis since these funds are paid to
+merchants on a three day cycle as part of the cash settlement of withdrawals from the Group’s ATMs.
+d) Credit risk
+Financial instruments which potentially expose the Group to a concentration of credit risk comprise primarily of cash equivalents and
+accounts receivable. Cash equivalents are deposited with financial institutions, principally Bank of Scotland who are the main debt finance
+provider. Cash to be utilised as part of the cash settlement of withdrawals from the Group’s ATMs are held with the Bank of England. 
+The Group’s main source of revenue is transaction revenues from cash withdrawals from the Group’s ATMs and fees are collected automatically
+as part of the settlement process and hence the Group provides only limited credit to merchants in the normal course of business for the sale
+of sundry items. Amounts outstanding are usually exceeded by amounts owed in relation to the share of transaction revenues. Where
+significant machine or other sales are made credit evaluations of customers’ financial conditions are performed. The Group maintains a provision
+for impairment based upon the expected collectability of accounts receivable. 
+e) Capital risk management
+The Group’s objectives when managing capital are:
+– to safeguard the entity’s ability to continue as a going concern, so that it can continue to provide capital growth for shareholders and benefits
+for other stakeholders, and
+– to provide an adequate return to shareholders by pricing products and services commensurately with the level of risk.
+The Group manages the capital structure and monitors its adequacy in the light of changes in economic conditions and the risk characteristics
+of the underlying assets. In order to maintain or adjust the capital structure, the Group will consider the appropriateness of issuing shares
+and amending debt facilities. The Group does not maintain a target ratio for debt to adjusted capital, however its longer term aim is to repay
+excess debt with cash generated by the Group’s operations and to reinvest surplus cash for business development.
+The Group does not hold any derivative financial instruments and does not trade in financial instruments. The Group has bank accounts
+denominated in sterling and US $. The US $ accounts are used for making transfers to US based ATM suppliers for ATMs and spare parts
+and holding US$ funds when orders are placed to hedge foreign exchange risk. At 30 June 2008 the balance held in US $ was nil (2007:
+nil). The main future risks arising from the Group’s financial instruments are liquidity risks.
+As regards liquidity, the Group’s objective throughout each period has been to ensure continuity of funding. Operations to date have primarily
+been financed through the issue of share capital. 42
+Cashbox PLC  Annual Report & Accounts 2008 Cashbox PLC  Annual Report & Accounts 2008
+Notes to the Consolidated Financial Statements continued
+For the year ended 30 June 2008
+17. FINANCIAL INSTRUMENTS INCLUDING FINANCIAL ASSETS AND LIABILITIES continued
+Financial assets comprise:
+2008 2007
+£’000 £’000
+Trade and other receivables 168 22
+Cash and cash equivalents 1,112 1,452
+1,280 1,474
+All of the financial assets are subject to a charge under the financing arrangement with Bank of Scotland. Trade and other receivables are
+all receivable in 0-3 months (2007: 0-3 months). There is no material difference between the book value and fair value of financial assets.
+Financial liabilities comprise:
+Carrying amounts Fair value
+2008 2007 2008 2007
+£’000 £’000 £’000 £’000
+Trade and other payables 3,722 4,453 3,722 4,453
+Borrowings 5,257 2,307 5,514 2,639
+8,979 6,760 9,236 7,092
+The ageing of trade and other payables 
+2008 2007
+£’000 £’000
+0-3 months 3,722 2,653
+9-12 months – 1,800
+3,722 4,453
+18. SHARE CAPITAL
+2008 2007
+Authorised £’000 £’000
+150,000,000 1p ordinary shares (2007 150,000,000 1p ordinary shares) 1,500,000 1,500,000
+Allotted, issued and fully paid
+104,367,525 1p ordinary shares (2007: 83,171,761 1p ordinary shares) 1,043,675 831,718
+On 29 July 2008 at an Extraordinary General Meeting of the Company, the shareholders approved the increase of the authorised share capital
+by 850,000,000 1p ordinary shares to 1,000,000,000 1p ordinary shares.
+Allotted, issued and fully paid
+Number of Conversion/
+Purpose shares issue price Share Capital Share Premium
+££
+1 July 2006 61,409,143 614,091 3,879,900
+14 May 2007 Placing 21,762,618 15p 217,627 3,046,766
+Issue expenses (1,350)
+30 June 2007 83,171,761 831,718 6,925,316
+31 March 2008 Conversion of convertible loan note 11,675,764 5p 116,758 467,030,
+5-6 April 2008 Placing 9,520,000 5p 95,200 380,800
+Issue expenses (16,749)
+30 June 2008 104,367,525 1,043,676 7,755,297 43
+18. SHARE CAPITAL continued
+On 14 May 2007 the Company issued 21,762,618 £0.01 ordinary shares by way of a placing. 
+On 19 December 2007 the Company issued a convertible loan note to MBC Investments for £583,788, carrying a coupon of 9% with the
+right to convert into 11,675,764 1p ordinary shares at any time on or after 31 March 2008 at the holders request and repayable by the
+Company on or before 31 March 2009. The note converted on 31 March 2008 under the terms of the loan note. Over the 5 and 6 April 2008
+the Company issued 9,520,000 1p ordinary shares by way of a placing at 5p. 
+On 31 July 2008 the Company issued a further 7,200,000 1p ordinary shares by way of a placing at a share price of 5p per ordinary share
+together with 1,440,000 warrants to subscribe for shares at the same price of 5p.
+On 25 September the Company issued a further 17,500,000 £0.01 ordinary shares by way of a placing at a share price of 5p per ordinary
+share together with 3,500,000 warrants to subscribe for shares at the same price of 5p.
+On 3 October the Company issued a further 6,250,000 ordinary shares by way of a placing at a share price of 5p per ordinary share.
+On 9 October the Company issued 9,166,667 ordinary shares to the mezzanine debt holders of Cash4All Limited at a share price of 6p per
+ordinary share as part of the consideration for the acquisition of the entire ordinary share capital of Ensco 694 Limited.
+Options
+The Company has two share schemes, an approved EMI scheme adopted on 29 March 2006 and an unapproved scheme for employees and
+Directors. Options are normally granted with a fixed exercise price equal to the market value at the date of the grant. The contractual life
+under these schemes is 10 years from the date of grant. 
+The “1p IPO options” were granted at the time of the IPO to certain key personnel in recognition of services up to and including the listing
+process and vested immediately. The Award One options were awarded to employees and Directors in recognition of length of service and
+seniority at the time of the IPO as part of the long term incentive plan. The Award One options vested on 29 March 2008. The Award Two
+options were awarded to certain key employees and directors as part of the long term incentive plan and will vest on 25 April 2009, 
+two years after grant subject to the employees remaining with the Company.
+The number of share options outstanding to Directors and employees as at 30 June 2008 were as follows:
+Number granted Remaining life (years)
+Approved Unapproved Date granted Exercise price contractual expected
+1p IPO Options 1,108,080 1,291,920 29-3-06 1.00p 1.64 1.34
+Award One 1,140 1,066,920 29-3-06 24.75p 7.75 3.75
+Award Two 1,311,110 2,013,890 25-4-07 18.00p 8.83 3.00
+3,560,020 4,372,730
+The number of share options outstanding to Directors and employees as at 30 June 2007 were as follows:
+Number granted Remaining life (years)
+Approved Unapproved Date granted Exercise price contractual expected
+1p IPO Options 1,108,080 1,291,920 29-3-06 1.00p 2.64 2.34
+Award One 1,196,830 1,066,920 29-3-06 24.75p 8.75 4.75
+Award Two 1,361,110 2,013,890 25-4-07 18.00p 9.83 4.00
+3,666,020 4,372,730
+The weighted average contractual life remaining of the options in existence at 30 June 2008 was 5.84 years (2007: 6.87 years). No options
+were issued prior to 29 March 2006. 44
+Cashbox PLC  Annual Report & Accounts 2008
+Notes to the Consolidated Financial Statements continued
+For the year ended 30 June 2008
+18. SHARE CAPITAL continued
+The summary of movement in the number of employee share options is as follows:
+1p IPO Options
+Approved Unapproved EMI Scheme Unapproved Total
+Outstanding at 1 July 2006 1,108,080 1,291,920 1,906,370 2,462,880 6,769,250
+Granted – – 1,361,110 2,013,890 3,375,000
+Lapsed – – (709,540) (1,395,960) (2,105,500)
+Outstanding at 30 June 2007 1,108,080 1,291,920 2,557,940 3,080,810 8,038,750
+Granted – – – – –
+Lapsed – – (106,000) – (106,000)
+Outstanding at 30 June 2008 1,108,080 1,291,920 2,451,940 3,080,810 7,932,750
+Exercisable at 30 June 2007 1,108,080 1,291,920 – – 2,400,000
+Exercisable at 30 June 2008 1,108,080 1,291,920 1,140,830 1,066,920 4,607,750
+On 28 September 2008, 600,000 1p IPO options (being 404,040 approved and 195,960 unapproved) lapsed having not been exercised within
+two years of the holder leaving the Company as allowed under the terms applying to the IPO options.
+The weighted average exercise price of share options (pence) is as follows:
+1p IPO Options EMI Scheme Unapproved Total
+Outstanding at 1 July 2006 1.00 24.75 24.75 13.76
+Granted – 18.00 18.00 18.00
+Lapsed 24.75 24.75 24.75
+Outstanding at 30 June 2007 1.00 21.17 20.34 14.83
+Granted –– – –
+Lapsed – 21.57 – 24.75
+Outstanding at 30 June 2008 1.00 21.14 20.34 14.74
+Exercisable at 30 June 2007 1.00 – – 1.00
+Exercisable at 30 June 2008 1.00 24.75 24.75 12.38
+The fair value of the options for the recognition of share based payments to employees under the requirements of IFRS 2 are as follows:
+1p IPO Options Award One Award Two
+Number of options granted 2,400,000 4,374,250 3,375,000
+Share price at grant date (pence) 20.00 24.75 18.00
+Exercise price (pence) 1.00 24.75 18.00
+Option life (years) 10 10 10
+Expected life anticipated before exercise (years) 4.75 4.75 4.00
+Volatility 25% 25% 25%
+Risk free rate 4.4% 4.4% 4.7%
+Fair value per option (pence) 23.94 7.49 5.01
+The fair values of the options have been valued using the Black-Scholes model using the above assumptions. The volatility has been estimated
+with regard to the measured standard deviation of share price returns but given the lack of history over which to measure the returns, the
+volatility has been adjusted to a level believed to represent the best estimate available to the Directors. 45
+18. SHARE CAPITAL continued
+Warrants and other options
+In 2006 the Board issued warrants to a number of Non-executive Directors as part of their compensation as well as other Options as part
+of the financing arrangements in 2006 and 2007.
+The number of Warrants and options outstanding as at 30 June 2008 were as follows:
+Number Date Exercise Remaining life (years)
+granted granted price contractual expected
+RE Saunders warrants 500,000 29-3-2006 £0.20 9.00 3.00
+SL Brown warrants 500,000 6-12-2006 £0.20 8.75 3.00 
+JC Maples warrants 500,000 6-12-2006 £0.20 8.75 3.00
+Bank of Scotland options 800,000 29-6-2007 £0.20 4.00 3.00
+2,300,000
+The number of Warrants and options outstanding as at 30 June 2007 were as follows:
+Number Date Exercise Remaining life (years)
+granted granted price contractual expected
+RE Saunders warrants 500,000 29-3-2006 £0.20 10.00 4.00
+SL Brown warrants 500,000 6-12-2006 £0.20 9.75 4.00 
+JC Maples warrants 500,000 6-12-2006 £0.20 9.75 4.00 
+Bank of Scotland options 800,000 29-6-2007 £0.20 5.00 4.00
+2,300,000
+The summary of movement in the number of warrants and financing options is as follows:
+Bank of
+NED GCVF Scotland
+granted warrants options Total
+Outstanding at 1 July 2006 500,000 400,000 – 900,000
+Granted 1,000,000 – 800,000 1,800,000
+Lapsed – (400,000) – (400,000)
+Outstanding at 30 June 2007 1,500,000 – 800,000 2,300,000
+Granted – – – –
+Lapsed –– ––
+Outstanding at 30 June 2008 1,500,000 – 800,000 2,300,000
+All the warrants and options in issue at 30 June 2007 and 2008 were exercisable.
+The weighted average exercise price of share warrants options (pence) is 20.00 pence throughout as instruments were all issued at the same price.
+JC Maples & Bank of
+RE Saunders SL Brown Scotland
+Warrants Warrants Options
+Number of warrants granted 500,000 1,000,000 800,000
+Share price at grant date (pence) 20.00 18.00 17.50
+Exercise price (pence) 20.00 20.00 20.00
+Warrant life (years) 10 10 5
+Expected life anticipated before exercise (years) 4.75 4.00 4.00
+Volatility 25% 25% 25%
+Risk free rate 4.4% 4.5% 5.0%
+Fair value per warrant (pence) 6.05 4.11 3.94
+The fair values of the warrants have been valued using the Black-Scholes model using the above assumptions. The volatility has been estimated
+with regard to the measured standard deviation of share price returns but given the lack of history over which to measure the returns, the
+volatility has been adjusted to a level believed to represent the best estimate available to the Directors. 46
+Cashbox PLC  Annual Report & Accounts 2008
+Notes to the Consolidated Financial Statements continued
+For the year ended 30 June 2008
+19. CAPITAL AND RESERVES
+The Group has capital and reserves as follows:
+Share Share Merger Equity Profit and 
+capital premium reserve reserve loss account Total
+£’000 £’000 £’000 £’000 £’000 £’000
+At 1 July 2006 614 3,880 2,180 37 (6,891) (180)
+Issue of shares May 2007 (net of costs) 218 3,045 3,263
+Cancellation of GCVF Warrants (37) 37 –
+Loss for the year (6,741) (6,741)
+Share based remuneration (IFRS 2) 138 138
+At 30 June 2007 832 6,925 2,180 – (13,457) (3,520)
+Issue of shares April 2008 95 381 476
+Less issue costs (17) (17)
+Issue of convertible loan note 38 38
+Conversion of convertible loan note 117 466 (38) 545
+Loss for the year (3,003) (3,003)
+Share based payments (IFRS 2) 133 133
+At 30 June 2008 1,044 7,755 2,180 – (16,327) (5,348)
+The description and purpose of each reserve is as follows:
+Share premium
+Share premium represents the excess of the consideration received for ordinary shares in the Company over their nominal value, less the costs
+of issuing such shares.
+Merger reserve
+The merger reserve arose on the combination of Cashbox ATM Systems Limited with Cashbox PLC on 23 March 2006 as the combining
+entities within the Group were controlled by the same parties both before and after the combination.
+Equity reserve
+The equity reserve relates to the creation of financial instruments with an equity component. The reserve was created in 2006 with the issue
+of warrants to GCVF as part of a financing arrangement which was cancelled in 2007. In 2008 the Company issued a convertible loan note,
+the equity component was valued at £38,000 and credited to the reserve. On exercise of the convertible, the equity component was taken to
+the share premium account.
+Profit and loss account
+The profit and loss account represent the accumulated profits and losses recorded by the Group plus the offsetting element of share based
+payments cost recorded in the income statement under IFRS 2.
+20. PENSIONS
+The Group operates a defined contribution pension scheme. The assets of the scheme are held separately from those of the Group in an
+independently administered fund. During the year the Group made contributions to the Scheme of £46,000 (2007: £34,000). There were no
+amounts outstanding at the beginning and end of the periods. 47
+21. NOTES SUPPORTING THE CONSOLIDATED CASH FLOW STATEMENT 
+2008 2007
+£’000 £’000
+Loss before taxation (3,003) (6,741)
+Adjustments:
+Depreciation of property plant and equipment 491 278
+Amortisation of intangible assets 20 6
+Net finance costs 519 809
+Interest received 46 37
+Accretion for warrants – 27
+Share based remuneration charge 126 138
+Changes in working capital:
+Increase in inventories (56) (88)
+Decrease in receivables 176 433
+(Decrease)/increase in trade & other payables (621) 2,661
+Cash used in operations (2,302) (2,440)
+Non-cash transactions
+During the year a convertible loan note, £584,000 issued by the Company, converted into ordinary shares as described in note 18. In 2007
+outstanding loans and interest of £2,670,000) were settled by the issue of ordinary shares. During the year the Group entered into finance
+leases of £nil (2007: £7,000).
+22. RELATED PARTY TRANSACTIONS
+During the year ended 30 June 2007 a number of Directors and parties connected to the directors provided loans to the Company as part of
+the emergency fund raising in February 2007. These loans were at the same interest rate as other investors being 0.5% above the base rate.
+The amounts lent and interest paid were as follows:
+Repaid Settled
+Loan Interest cash in shares
+££ ££
+Catherine Oxley (wife of Andy Wilmott, previously a Director) 30,000 254 30,254
+Robin Saunders (a Director) 100,000 1,450 101,450
+John Maples (previously a Director) 20,000 278 20,278
+Brimco Partners LLP (in which Stephen Brown, previously a Director, 
+holds a beneficial interest) 50,000 694 50,694
+The loans and interest settled in shares were part of the placing approved at the Extraordinary General Meeting held on 11 May 2007. 
+In addition to the loans, the following directors and former directors also subscribed for shares paid in cash: Anthony Sharp (via Annenberg
+Management S.A.) £250,000; Ciaran Morton £30,000 and David Auger £20,000.
+During the year ended 30 June 2007 the Company sponsored a Polo team connected with Anthony Sharp to the value of £4,300.
+During the year ended 30 June 2007 the Company appointed Fairfax IS PLC as joint broker to the Company. William Hughes, a Director,
+is the Non-executive Chairman of Fairfax IS PLC. The Broker Agreement includes an annual fee of £30,000, is for a minimum of 12 months
+and can be terminated by either party on giving 3 months notice. 
+In July 2008, following the end of the financial year, Robin Saunders, made a loan to the Company of £100,000. This was made on an arms
+length basis at commercial terms.
+Remuneration of Directors and key management is shown in the Report of the Remuneration Committee and note 6. During the year Matthew
+Thomas and Andy Wilmott stepped down as directors of Cashbox PLC but remained as directors of Cashbox ATM Systems Limited and are
+considered members of key management. Andy Wilmott stepped down from the Board of Cashbox ATM Systems Limited on 3 October 2008
+and left the Group. 48
+Cashbox PLC  Annual Report & Accounts 2008
+Notes to the Consolidated Financial Statements continued
+For the year ended 30 June 2008
+23. COMMITMENTS
+Capital expenditure commitments for property, plant and equipment at 30 June 2008 was £708,000 (2007:£219,000).
+The Group has aggregate minimum lease commitments under non-cancellable operating leases as follows:
+2008 2007
+£’000 £’000
+In less than one year 237 84
+In more than one but not more than two years 257 96
+In more than two but not more than five years 391 288
+In more than five years 45 149
+930 617
+24. POST BALANCE SHEET EVENTS
+On the 7 July 2008 the Company completed an acquisition of 144 ATMs located within Mitchells and Butler and signed a new 5 year
+contract for their placement.
+On 29 July 2009 at an Extraordinary General Meeting of the Company, the shareholders approved the increase of the authorised share capital
+by 850,000,000 1p ordinary shares to 1,000,000,000 1p ordinary shares.
+On 31 July 2008 the Company raised £360,000 with the issue of 720,000 1p ordinary shares at a placing price of 5p together with 144,000
+warrants to subscribe for further 144,000 1p ordinary shares at a price of 5p. The warrants will not be listed on AIM.
+On 19 September the Company restructured the liability due under the Hanco settlement by agreeing to issue £1,800,000 convertible
+unsecured loan notes due 30 September 2013 to West Register (Investments) Limited at the direction of Hanco ATM Systems Limited
+(“Hanco”) to satisfy the £1,800,000 liability to Hanco under the settlement agreement dated 17 October 2007. The notes accrue interest
+at a fixed rate of 5% per annum previously fixed at 20% per annum for 2008/09 in the original settlement and are now repayable by 30
+September 2013 (the ‘Redemption Date’), whereas the original agreement had been due for settlement by October 2009. 
+Alongside the principal amount of the Loan Notes, any accrued interest is also convertible. Cashbox, at the discretion of the Board, is also
+able to repay the Loan Notes and any accrued interest in advance of the Redemption Date, in part or in full. Should a repayment not occur,
+the conversion price is the lesser of the prevailing market price and 5p. 
+The Loan Notes cannot be converted prior to 30 September 2009 and a maximum of £900,000 of principal and accrued interest may be
+converted between 30 September 2009 and 30 September 2010. The remainder of the principal and interest may be converted on or after
+30 September 2010 and before 30 September 2013. 
+Interest due on the original settlement amount has been limited to £25,000 as part of the agreement and is due to be paid on the earlier of
+30 April 2009 or the date a bonus is paid to any director.
+On 25 September the Company raised £875,000 with the issue of 17,500,000 1p ordinary shares at a placing price of 5p together with
+3,500,000 warrants to subscribe for further 3,500,000 1p ordinary shares at a price of 5p. The warrants will not be listed on AIM.
+On 29 September 2008 the Company completed the acquisition of the ATMs leased by Cash4All Limited from the four leasing companies
+and on 8 October acquired the ATMs owned by Cash4All Limited together for cash consideration of £872,340 with all site agreements for
+a further £800,000 consideration made up of £250,000 cash and £550,000 Cashbox PLC ordinary shares at a price of 6p per share through
+the acquisition of the entire issued share capital of Ensco 694 Limited, a wholly owned subsidiary of Cash4All Limited.
+On 3 October the Company raised £312,500 (£250,000 net of expenses) with the issue of 6,250,000 1p ordinary shares at a price of 5p.
+On 31 December 2008, the Company raised a further £1,500,000 of working capital through the issue of a convertible loan note with an
+8% coupon rising to 12% from 30 June 2009 in the event that the Loan Note Holder is unable to reach an agreement with Bank of Scotland
+relating to an inter creditor deed between the Company, the Loan Note Holder and Bank of Scotland regarding secondary charges over the
+Group’s assets within six months of signing the Loan Note agreement. 49
+25. CONTINGENCIES
+In July 2007 the Company’s principal operating subsidiary, Cashbox ATM Systems Limited, (“the Company’s subsidiary”) was ordered to
+pay costs of £199,760 to Hanco ATM Systems Limited (“Hanco”) as part of the litigation brought by Hanco against Cashbox ATM Systems
+Limited, claiming that Carl J Thomas and the Company’s subsidiary had diverted a business opportunity from Hanco to Cashbox. A total
+payment of £200,526 was made on 24 July 2007 including interest of £766 in accordance with this order.
+In October 2007 the Company’s subsidiary reached full and final settlement with Hanco concluding the ongoing litigation against the
+Company’s subsidiary, brought by Hanco. Under the terms of the Settlement, the Company’s subsidiary was liable to pay a further £1.8 million
+with interest if payment is deferred to Hanco.The liability was settled by the issue of £1,800,000 convertible unsecured loan notes as
+described in note 24.
+The Company’s subsidiary has a joint and several indemnity in connection with this litigation, from Carl J Thomas (previously Chief Executive
+Officer) and Anthony CJ Sharp (previously Chairman), together “the Indemnifiers”, signed on 23 March 2006 prior to the listing of the
+Company on the AIM market of the London Stock Exchange in which the Indemnifiers jointly and severally agreed to keep the Company’s
+subsidiary indemnified from and against all Hanco expenses including any settlement costs and against all legal and other costs, charges and
+expenses the Company and or its subsidiary may incur in enforcing, or attempting to enforce, their rights under the Indemnity. The Company
+and its subsidiary propose to enforce the indemnity.
+On 17 July 2007, the Company’s subsidiary wrote to the Indemnifiers under the terms of the deed of indemnity signed on 23 March 2006.
+The Company’s subsidiary has received a reply from Anthony Sharp informing the Company that he does not consider the indemnity to be
+binding on him. The Directors do not accept Mr Sharp’s position and having taken legal advice, believe the indemnity is enforceable.
+Discussions have taken place with the indemnifiers to resolve matters. 
+Cashbox has been notified by the Official Receiver that on 14 May 2008 a bankruptcy order was made against Anthony Sharp. The Company
+also believes that Carl Thomas, the other indemnifier, does not have any unencumbered assets of significant value. Therefore there is a
+significant risk that recovery under the indemnities will take a significant period of time. As a result of Mr Sharp’s position disputing the
+indemnity and his seeking to have himself declared bankrupt together with concerns relating to Mr Thomas’ ability to pay, the Directors, while
+believing the indemnity is enforceable, have treated the receivable as a reimbursement in accordance with IAS 37, and since receipt is not
+virtually certain, have not recorded the amount due of £1,999,760 plus interest and costs in the accounts.
+Following the initial public offering of the Company it was expected that the above indemnity would be replaced by a further indemnity from
+KKR Investment management SA, (“KKR”, a company in which A CJ Sharp was expected to be a minority shareholder), Annenberg
+Investment Management SA (a company controlled by ACJ Sharp) and CJ Thomas severally (the “Further Indemnity”) with sole recourse
+(in the case of Annenberg and CJ Thomas) to their respective holdings of ordinary shares in the Company. The Further Indemnity was
+intended to come into effect only once KKR had unconditional finance in place, to the satisfaction of the Directors and Seymour Pierce Limited
+(the Company’s Nominated Advisor and Broker) to cover its liabilities under the Further Indemnity. As part of this agreement, the Company
+agreed to pay a cash fee in the amount of £112,500 to KKR in respect of the provision of the Further Indemnity together with the issue of
+187,500 new ordinary shares to KKR. These shares would only be issued once the Further Indemnity was unconditional. Pursuant to the deed,
+unconditional finance has not been put in place. 50
+Cashbox PLC  Annual Report & Accounts 2008
+Notes to the Consolidated Financial Statements continued
+For the year ended 30 June 2008
+26. NON GAAP TERMS
+EBITDA is earnings before interest, tax, depreciation, amortisation, exceptional items, share based payments and minority interests and equals
+operating income / loss before exceptional items plus depreciation and amortisation. EBITDA, which we consider to be a meaningful measure
+of operating performance, particularly the ability to generate cash, does not have a standard meaning under IFRS and may not be comparable
+with similar measures used by others.
+2008 2007
+£’000 £’000
+Operating loss (2,484) (5,932)
+Add back
+Depreciation and amortisation 511 284
+Exceptional items (see note 3) – 2,000
+Share based payments 125 138
+EBITDA (1,848) (3,510)
+Net debt is a measure used by the Directors to consider the level of indebtedness of the Group and is defined as the borrowings of the Group
+(including bank loans, other loans, finance leases and overdrafts) less cash and cash equivalents excluding balances held with the Bank of
+England for cash withdrawal settlement purposes. The Directors exclude the balances held with the Bank of England as, while there is no
+legal obligation to separately identify those funds, the balance principally represents merchants’ funds withdrawn from ATMs and the funds
+held with the Bank of England is utilised to settle liabilities to merchants, not other liabilities of the Group.
+2008 2007
+£’000 £’000
+Cash and cash equivalents 1,112 1,452
+Less Bank of England cash balance (871) (1,349)
+Cash excluding Bank of England balances 241 103
+Current borrowings 5,254 2
+Non current borrowings 3 2,305
+5,257 2,307
+Net debt 5,016 2,204 51
+2008 2007
+Notes £’000 £’000
+FIXED ASSETS
+Investments 2 381 381
+Current Assets
+Debtors: amounts falling due after one year 5 8,480 5,638
+Debtors: amounts falling due within one year 5 5,013 3,436
+T otal debtors 13,493 9,074
+Cash 122 69
+13,615 9,143
+CREDITORS: amounts falling due within one year 6 (5,267) –
+NET CURRENT ASSETS 8,348 9,143
+TOTAL ASSETS LESS CURRENT LIABILITIES 8,729 9,524
+CREDITORS: amounts falling due after one year 7 – (2,300)
+NET ASSETS 8,729 7,224
+CAPITAL AND RESERVES
+Called up share capital 8, 9 1,044 832
+Share premium account 8, 9 7,755 6,925
+Equity reserve 9 – –
+Profit and loss account 9 (70) (553)
+SHAREHOLDERS’ FUNDS 8,729 7,224
+The financial statements were approved and authorised for issue by the Board on 31 December 2008 and were signed on its behalf by:
+Ciaran Morton David Auger
+Director Director
+The Company has taken advantage of the exemption allowed under Section 230 of the Companies Act 1985 and has not presented its own
+profit and loss account in these financial statements. The profit for the year was a profit before and after taxation of £330,000 (2007:
+£103,000). The Company has taken advantage of the exemption conferred by FRSI ‘Cashflow Statements (revised 1996)’ not to prepare a
+Cashflow Statement as the Company publishes a Consolidated Cashflow Statement.
+The notes on pages 52 to 56 form an integral part of these financial statements.
+Company Balance Sheet
+As at 30 June 2008 52
+Cashbox PLC  Annual Report & Accounts 2008
+Notes to the Company Financial Statements
+For the year ended 30 June 2008
+1. ACCOUNTING POLICIES
+Accounting convention
+The financial statements of Cashbox PLC have been prepared under applicable United Kingdom Generally Accepted Accounting Principles
+(UK GAAP) and the Companies Act 1985. The financial statements have been prepared under the historical cost convention.
+Principal accounting policies
+The principal accounting policies of the Company, which are considered to be most appropriate to the Company’s circumstances, are set out
+below.
+Valuation of investments
+Investments including the shares in subsidiary companies held as fixed assets are stated at cost less any provision for impairment in value.
+In relation to acquisitions, where advantage can be taken of the merger relief rules, shares issued as consideration for acquisitions are
+accounted for at nominal value.
+Foreign currency
+Transactions in foreign currencies are translated at the exchange rate ruling at the date of transaction. Monetary assets and liabilities in
+foreign currencies are translated at the rates of exchange ruling at the balance sheet date. Any differences are taken to the profit and loss
+account.
+Deferred taxation
+Deferred tax balances are recognised in respect of all timing differences that have originated but not reversed by the balance sheet date except
+that the recognition of deferred tax assets is limited to the extent that the Company anticipates making sufficient taxable profits in the future
+to utilise the reversal of the underlying timing differences. Deferred tax balances are not discounted.
+Pension costs
+Contributions to the Group’s defined contribution pension scheme are charged to the profit and loss account in the year in which they become
+payable.
+Employer taxes on share options
+To the extent that the share price at the balance sheet date is greater than the exercise price on options granted under unapproved schemes,
+provision for any National Insurance contributions has been made based on the prevailing rate of National Insurance unless the employee is
+liable under the terms of the option. The provision is accrued over the performance period attaching to the award. At the 30 June 2008, 
+no provision was required.
+Financial instruments
+In relation to the disclosures made in notes 5, 6 and 7:
+• short term debtors and creditors are not treated for disclosure purposes as financial assets or financial liabilities except for the currency
+disclosures; and
+• the Company does not hold or issue derivative financial instruments for trading purposes.
+Finance costs
+Finance costs are charged to the profit and loss account over the term of the debt so that the amount charged is at a constant rate on the
+carrying amount. Finance costs include issue costs, which are initially recognised as a reduction in the proceeds of the associated capital
+instrument.
+Share-based employee remuneration
+The Company issues equity settled share based payments including share options and warrants to certain Directors and employees (including
+employees of subsidiary companies). In accordance with FRS 20, equity-settled share based payments are measured at fair value at the date
+of grant using an appropriate option pricing model. The fair value determined at the date of grant is expensed to the profit and loss account
+on a straight line basis over the vesting period. At the balance sheet date the cumulative change in respect of each award is adjusted to reflect
+the actual levels of options vesting or expected to vest. 53
+2. FIXED ASSET INVESTMENTS
+The Company holds shares in its subsidiary companies:
+2008 2007
+£’000 £’000
+Cost and net book value
+Balance at the beginning and end of the year 381 381
+On 23 March 2006, the Company acquired the entire share capital of Cashbox ATM Systems Limited (incorporated in England and Wales)
+by issuing 38,051,800 new shares and exchanging these and its 200 subscriber shares (totalling 38,052,000 1p ordinary shares). 
+The transaction was completed on the basis of exchanging 6,000 shares in the Company for each of the 6,342 shares in Cashbox ATM Systems
+Limited. The transaction has been accounted for under the merger accounting method.
+The carrying value of the fixed asset investments was reviewed at 30 June 2008, in accordance with Financial Reporting Standard 11,
+“Impairment of fixed assets and goodwill”, and the Board considered that it was not necessary to make a provision to write down the
+investments to their estimated recoverable amounts.
+The principal activity of Cashbox ATM Systems Limited is the installation and maintenance of Automated Teller Machines (ATMs) and the
+processing of ATM transactions arising there from.
+Through its 100% ownership of Cashbox ATM Systems Limited, indirectly the Company also owns 100% of the share capital of Cashbox
+Finance Limited, a UK-incorporated dormant company.
+The Company also owns 100% the share capital of an intermediate holding company, Cashbox No 1 Limited registered in England and Wales
+and through this ownership, 100% of the share capital of Cashbox No 2 Limited, also a company registered in England and Wales, 
+which owns the majority of the ATMs operated by the Group where ownership is retained.
+3. STAFF COSTS
+Details of the Director’s remuneration are included in the Consolidated Financial Statements on page 35. There are no other staff except the
+directors.
+4. AUDITORS REMUNERATION
+The audit costs for the year amounted to £30,000 (2007: £45,000) and were borne by the Company’s principal operating subsidiary.
+5. DEBTORS
+2008 2007
+£’000 £’000
+Amounts due within one year
+Other debtors – 17
+Prepayments and accrued income 55 37
+Amounts owed by Group undertakings 4,958 3,382
+5,013 3,436
+Amounts falling due after one year
+Prepayments 101 138
+Amounts owed by Group undertakings 8,379 5,500
+8,480 5,638
+T otal debtors 13,493 9,074 54
+Cashbox PLC  Annual Report & Accounts 2008
+Notes to the Company Financial Statements continued
+For the year ended 30 June 2008
+6. CREDITORS: AMOUNTS DUE WITHIN ONE YEAR
+The creditors falling due within one year consist of the following: 2008 2007
+£’000 £’000
+Bank loans 4,805 –
+Accruals 15 –
+Other Loans 447 –
+5,267 –
+The terms and maturity of the Bank and Other loans are described in note 16 of the Consolidated Financial Statements on page 39.
+7. CREDITORS: AMOUNTS DUE AFTER ONE YEAR
+The creditors falling due after one year consist of the following: 2008 2007
+£’000 £’000
+Bank Loans – 2,300
+The terms and maturity of the Bank loans are described in note 16 of the Consolidated Financial Statements on page 39.
+8. SHARE CAPITAL 2008 2007
+£’000 £’000
+Authorised
+150,000,000 1p ordinary shares (2007 150,000,000 1p ordinary shares) 1,500,000 1,500,000
+Allotted, issued and fully paid
+104,367,525 1p ordinary shares (2007: 83,171,761 1p ordinary shares) 1,043,675 831,718
+On 29 July 2008 at an Extraordinary General Meeting of the Company, the shareholders approved the increase of the authorised share capital
+by 850,000,000 1p ordinary shares to 1,000,000,000 1p ordinary shares.
+Allotted, issued and fully paid
+Number of Conversion/ Share Capital Share Premium
+Purpose shares issue price £ £
+1 July 2007 83,171,761 831,718 6,925,316
+31 March 2008 Conversion of convertible loan note 11,675,764 5p 116,758 467,030
+5-6 April 2008 Placing 9,520,000 5p 95,200 380,800
+Issue expenses (16,749)
+30 June 2008 104,367,525 1,043,676 7,755,297
+On 19 December 2007 the Company issued a convertible loan note to MBC Investments with the right to convert into 11,675,764 
+1p ordinary shares. The note converted on 31 March 2008 under the terms of the loan note as described in note 18 of the Consolidated Financial
+Statements on page 42. Over the 5 and 6 April 2008 the Company issued 9,520,000 1p ordinary shares by way of a placing. 
+On 31 July 2008 the Company issued a further 7,200,000 1p ordinary shares by way of a placing at a share price of 5p per ordinary share
+together with 1,440,000 warrants to subscribe for shares at the same price of 5p.
+On 25 September the Company issued a further 17,500,000 £0.01 ordinary shares by way of a placing at a share price of 5p per ordinary
+share together with 3,500,000 warrants to subscribe for shares at the same price of 5p.
+On 3 October the Company issued a further 6,250,000 ordinary shares by way of a placing at a share price of 5p per ordinary share.
+On 9 October the Company issued 9,166,667 ordinary shares to the mezzanine debt holders of Cash4All Limited at a share price of 6p per
+ordinary share as part of the consideration for the acquisition of the entire ordinary share capital of Ensco 694 Limited.
+Details of Options and warrants are included in note 18 of the Consolidated Financial Statements on page 42. 55
+9. CAPITAL AND RESERVES
+The Company has capital and reserves as follows:
+Share Share Equity Profit and 
+capital premium reserve loss account Total
+£’000 £’000 £’000 £’000 £’000
+At 1 July 2007 832 6,925 – (533) 7,224
+Issue of shares April 2008 95 381 476
+Less issue costs (17) (17)
+Issue of convertible loan note 38 38
+Conversion of convertible loan note 117 466 (38) 545
+Profit for the year 330 330
+Share based payments (FRS 20) 133 133
+At 30 June 2008 1,044 7,755 – (70) 8,729
+10. RECONCILIATION OF MOVEMENTS IN SHAREHOLDERS’ FUNDS
+2008 2007
+£’000 £’000
+Profit/loss for the financial year 330 (103)
+Share based remuneration 133 138
+463 35
+Issue of shares including premium 1,042 3,263
+Movement of shareholders’ funds 1,505 3,298
+Opening shareholders funds 7,224 3,296
+Prior year adjustments
+– share based payments credit to reserve – 75
+– share based payments debit to reserves – (75)
+Opening shareholder funds as restated 7,224 3,296
+Closing shareholders’ funds 8,729 7,224
+During 2007, the Group adopted FRS 20 ‘share-based payment’ which is obligatory for periods commencing on or after 1 January 2006.
+Prior to the adoption of FRS 20, the Group recognised the financial effect of the share-based payments when shares and share options were
+awarded to employees by making a charge to the profit and loss account based on the difference between the market value of the Company’s
+shares at the date of grant and the option exercise price in accordance with UITF Abstract 17 (revised 2003) ‘Employee Share Schemes’.
+The credit entry for this charge was taken to profit and loss reserves and reported in the reconciliation of movements in shareholders’ funds.
+For the year ending 30 June 2006, the change in accounting policy has resulted in net decrease and profit (increase in loss) for the year of
+£75,000 (share-based payments expense) being £4,000 exceptional costs, in addition to the £570,000 recorded under the old policy, on the
+options issued to key staff at the time of the IPO as remuneration for services relating to the IPO process together with £71,000 ordinary
+costs in relation to Award One options and warrants. This was treated as a prior year adjustment in 2007.
+11. POST BALANCE SHEET EVENTS
+Material events occuring after 30 June 2008 are described in the notes to the consolidated financial statements on page 48. 56
+Cashbox PLC  Annual Report & Accounts 2008
+Forward Looking Financial Statements
+This document contains statements concerning the Group’s business, financial condition, results of operations and certain of the Group’s plans,
+objectives, assumptions, projections, expectations or beliefs with respect to these items.
+The Company cautions that any forward-looking statements in this document may and often do vary from actual results and the differences
+between these statements and actual results can be material. Accordingly, readers are cautioned not to place undue reliance on forward-looking
+statements, which speak only at their respective dates. The Company undertakes no obligation to release publicly the result of any revisions
+to these forward-looking statements that may be made to reflect events or circumstances after the date of this document, including, without
+limitation, changes in the Group’s business or acquisition or divestment strategy or planned capital expenditures, or to reflect the occurrence
+of unanticipated events.
+By their nature, forward-looking statements involve risk and uncertainty because they relate to events and depend on circumstances that will
+occur in the future. There are a number of factors that could cause actual results and developments to differ materially from those expressed
+or implied by these forward-looking statements. These factors include, among other things: the impact of competitive pricing; changes in the
+price of ATMS and other key items; the occurrence of major operational problems; the loss of major customers; limitations imposed by the
+Group’s indebtedness and leverage; contingent liabilities, risks associated with changes in technology requirements from LINK; risks of
+litigation; and other factors described in the Company’s filings with the London Stock Exchange. CASHBOX PLC,Windriver House, Meridian Office Park, Osborn Way, Hook, Hampshire RG27 9HY
+Telephone 01256 441000  Fax 01256 768320
+www.cashboxplc.co.uk

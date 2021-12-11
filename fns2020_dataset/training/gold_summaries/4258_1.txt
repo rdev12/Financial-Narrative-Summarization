@@ -1,0 +1,367 @@
+ Changing the way the world connects
+CSR plc Annual Report and Financial Statements 2006
+08 | 09
+CHIEF EXECUTIVE OFFICER’S REVIEW
+2006 was a mixed year for CSR.
+Clearly our share price performance
+was disappointing. As previously
+reported, we experienced lower than
+anticipated demand for our headset
+chips starting in the third quarter. 
+In the fourth quarter we saw the
+effects of a shift in mix to lower end
+phones at our customers – which
+further reduced demand below 
+the level we expected. This was a
+challenging change for the Company
+to deal with. Importantly , these were
+not losses of share, or even the rate
+of design-wins – both of which
+remained generally strong throughout
+the period – rather they were shifts 
+in end-consumer demand to which
+we had to respond. I’m pleased to
+say that CSR’ s management team
+rose to these short term challenges
+well, quickly reducing hiring,
+expenses and the orders on our
+foundry and assembly partners to
+slow inventory growth. This effective,
+disciplined approach when the going
+gets tough served us well and is an
+important organisational capability 
+in the competitive and dynamic
+global markets we serve. 
+As well as responding to these 
+shifts in our customers’ demand, 
+CSR continued to make real progress
+elsewhere. The Company grew diluted
+EPS by 32%, revenues by 45%, while
+winning more than 500 new Bluetooth
+designs world-wide – around 60% of
+the total – holding more than half the
+unit market and shipping over 250
+million Bluetooth chips. 
+John Scarisbrick
+Chief Executive Officer Our design-win market share
+was around three times that of 
+the nearest competitor and over 
+ten times that of the number three
+player. We maintained a strong new
+product pipeline, starting extensive
+sampling and design-in of our 5th
+Generation Bluetooth devices and
+began customer shipments of UniFi,
+our first Wi-Fi solution.
+We continued to build a strong
+diversified chip business at CSR in
+2006. On a common foundation of
+superior radio, chip, software and
+packaging technologies, we continued
+to expand the depth and breadth of
+the markets we serve. This model
+has strong operational leverage. 
+So, for example, the technologies we
+develop for the mobile phone market
+also form the basis of the Bluetooth
+chips we use for our class-leading
+headset devices as well as those
+found in game console controllers 
+like Sony’ s PlayStation 3, automotive
+applications and music players etc. 
+This model, of foundation technologies
+serving multiple product market
+spaces, allows us to tailor our offering
+in each of these markets – for
+instance to encourage attach rates 
+in the competitive space of lower 
+end mobile phones and to develop
+the lowest cost system solutions for
+high performance headsets while
+effectively re-using much of our
+foundation technology investment.
+This forms a strong combination of
+businesses serving diverse markets. 
+The mobile phone market is the
+largest we serve and, not surprisingly,
+the most competitive. We won nearly
+half of the GSM Bluetooth handset
+design-wins in 2006 – down slightly
+on 2005. The percentage of mobile
+phones attaching Bluetooth grew to
+over 35% for the year. In this market
+we work with our customers to
+engineer our devices to the right price
+point to drive volume and attach rate,
+especially into lower end phones.
+This involves using the smallest chip
+size, with lowest raw silicon cost
+technology and using our least
+expensive packaging – Wafer Level
+Chip-Scale Packaging (WLCSP) – 
+a technology in which CSR leads the
+world. CSR’ s Bluetooth chips have
+the highest performance radios, with
+the smallest packages and are keenly
+priced. T ogether with a strong new
+product flow we expect a strong
+performance in the handset market 
+in 2007 – with attach rates reaching
+between 40% – 50%.
+Our new product pipeline focusing 
+on the mobile phone opportunity 
+was strengthened in 2006 by the
+introduction of our 5th Generation
+BlueCore5 FM part, a state of the art
+Bluetooth chip integrated with a high
+performance stereo radio. Multiple
+design-ins are underway. We also
+developed UniVox Mobile – a solution
+to add VoIP into the GSM mobile
+phone space. This will allow
+subscribers using phones with this
+technology to make low cost calls via
+VoIP operators like Vonage or Skype
+when near a supported Wi-Fi access
+CSR’s vision is to change the way 
+the world connects. We see a
+specific opportunity here. For some
+considerable time the ‘last mile’ the
+last connection between, originally,
+the traditional phone system and a
+customer’s premises was the focus of
+innovation and market growth. Digital
+connections proliferated through
+cable-modems, digital-subscriber-
+lines (DSL), wireless telephony and
+wireless local loop technologies. Now
+we see that much of the growth and
+opportunity, much of the value, in the
+last mile is now behind us. Where the
+real excitement, the real value
+opportunity lies, is in the last 25
+metres – inside homes and offices.
+This is about connecting the last mile
+broadband internet connection to a
+multiplicity of devices for audio, video
+and control. It might be a Bluetooth
+headset allowing hands-free
+connection to a mobile phone, or an
+Internet Radio – classically styled as a
+consumer friendly table top appliance
+– tuning into an unlimited number 
+of streaming audio sources. It could
+include Bluetooth equipped TVs;
+sensibly muting when an incoming
+mobile phone call is detected, or long
+lasting VoIP (Voice over Internet
+Protocol) phones using the low cost
+tariffs of the next generation of phone
+service providers. These will be
+demanding markets to create,
+needing the highest quality radios,
+with ultra-long battery life, extensive
+software and systems support and 
+all delivered on low cost platforms –
+all CSR core strengths.
+“ WE CONTINUED TO BUILD A DIVERSIFIED
+CHIP BUSINESS A T CSR IN 2006. ON A
+COMMON FOUNDA TION OF SUPERIOR
+RADIO, CHIP , SOFTWARE AND P ACKAGING
+TECHNOLOGIES, WE CONTINUE TO
+EXP AND THE DEPTH AND BREADTH 
+OF THE MARKETS WE SERVE” Changing the way the world connects
+CSR plc Annual Report and Financial Statements 2006
+10 | 11
+CHIEF EXECUTIVE OFFICER’S REVIEW
+continued
+point. In January 2007 we acquired
+NordNav T echnologies AB and
+Cambridge Positioning Systems
+Limited to add more products to this
+pipeline. The software based eGPS
+technology which CSR now has 
+will allow the addition of the highest
+performance location capability on
+any CSR Bluetooth equipped phone
+for less than one dollar. This is truly 
+a breakthrough in price performance
+and will herald an era of ubiquitous
+location awareness in the coming
+years. The flow of compelling new
+CSR wireless devices for the handset
+market will continue beyond these
+technologies. We’ve announced
+support for Wi-Fi in combination with
+Bluetooth to be in a future variant –
+most likely when the uptake of 
+Wi-Fi in phones moves from its
+current low levels. We’ll also add
+Wibree over time. Wibree is entirely
+complementary to our Bluetooth
+technology and will extend the
+pervasion of wireless connectivity
+into completely new areas. Ultra
+Wideband (UWB) is also on our
+roadmap for the mobile phone
+market. UWB will allow the transfer 
+of photos, videos or music files at 
+the highest speeds ever achieved
+over a metre or so distance – and
+open up new business opportunities
+for CSR in this space. 
+CSR’s business model is to take
+these foundation technologies and
+re-use them across a diverse range 
+of other markets – adding substantial
+revenue opportunities in the process.
+This diversity is already very evident –
+with around 55% of CSR’ s 2006
+revenue being beyond the mobile
+phone market in the headset, PC,
+Automotive and Consumer spaces.
+Beyond the handset market, 
+we continued to make progress in 
+the Bluetooth headset marketplace
+where we won more than four times
+the design-wins of all our competitors
+combined. In this market we engineer
+complete solutions based on our
+foundation Bluetooth technology –
+ensuring that the headset
+manufacturer has the lowest possible
+cost for all the parts required to make
+a headset. In this we have a distinct
+advantage – since we are able to
+include important functions like the
+battery charger circuits right on the
+same chip as the Bluetooth device. 
+Again, new product introductions
+characterised our efforts in this
+market with the introduction of our
+5th Generation Bluetooth technology
+in a headset variant– adding a
+powerful Digital Signal Processor
+(DSP) to the Bluetooth radio chip. 
+In premium headsets, this DSP can
+be used to run special CSR software
+to reduce echo and background
+noise. T o further differentiate CSR’ s
+product offering, we also built a
+network of third party DSP software
+suppliers to add further noise
+cancellation, text to speech and
+other functions to CSR’ s headset
+solutions. We are also introducing
+products to support the low cost
+mono headset market, specifically
+BlueVox QFN – a complete reference
+design that supports the highest
+audio quality levels that can be built
+by OEMs with an electronic bill of
+materials of less than $6. We expect
+entry level Bluetooth headsets to
+thrive in 2007 at the resultant
+attractive resale price points. 
+Nowhere exemplifies the pervasion 
+of wireless connectivity, however,
+more than our non-cellular business
+(PC, Automotive and Consumer). In
+2006, the range of CSR Bluetooth
+enabled products in these markets
+was quite remarkable – ranging from
+the controllers in Sony’ s PlayStation 3
+game console, to T omT om, Garmin
+and other Personal Navigation
+Devices, Samsung’ s world-first
+Bluetooth enabled Yepp T9 MP3
+music player and a myriad of other
+devices. The revenue contribution
+from these and other design-wins 
+in 2006 was significant – and will
+grow considerably in 2007. The pace
+of pervasion is exciting – with new
+and novel applications frequently
+announced. Recently the first TV 
+with integrated Bluetooth was
+qualified by Samsung, and the
+leaders in the Voice-over-Wi-Fi 
+and DECT cordless phone spaces; Accton and SunCorp announced
+adoption of CSR’ s UniVox VoIP
+technology for their product 
+ranges – opening completely new
+markets for CSR. 
+CREATING THE RIGHT 
+WORKING ENVIRONMENT
+As you can see from the map on
+pages 4 and 5, we now operate 
+in ten countries. However, 
+although our locations are diverse,
+CSR adopts a truly global approach
+to business and its customers. 
+You will often find engineers from 
+labs in one geography working 
+to help a customer in a completely
+different location, as it is routine to
+have complete solution development
+spread across a world-wide team
+collaborating together. 
+At the end of 2006, CSR’ s headcount
+had increased to 923 from 688 a year
+earlier. About 70% of our employees
+have technical qualifications – and
+some 60% are employed in new
+product research and development. 
+We focus on attracting the most
+talented people – and then on creating
+an environment where the best people
+can do their best work. Committed,
+motivated and given the flexibility to
+perform, our teams act quickly and
+execute at speed. Above all else, 
+the results outlined in this report 
+bear testament to the dedication 
+and expertise of our people.
+I would also like to take this
+opportunity to extend my thanks 
+to John Whybrow, our Chairman,
+who will be stepping down at our
+forthcoming AGM. John has been 
+an excellent leader of the Board 
+and has successfully overseen a
+sustained period of growth for the
+Company . Ron Mackintosh, who has
+served as a non-executive director 
+of CSR since 2004, will succeed
+John as Chairman. Ron is also hugely
+experienced and I am confident will
+continue the high quality leadership
+of the Board to which we have
+become accustomed.
+FUTURE PROSPECTS
+In 2007 we expect the Bluetooth
+market to continue to grow driven 
+by increasing attach rates in mobile
+phones, pull through of headsets 
+and the strong growth of Bluetooth
+beyond the mobile phone in
+computing, automotive, gaming 
+and music devices. Building upon 
+its investments for the mobile phone
+segment, CSR will continue to
+diversify into associated markets.
+As a result of the extraordinary 
+talent in CSR throughout the world,
+we continue to develop technologies
+that are changing the way the 
+world connects.  Leveraging these
+leadership foundation technologies
+into diverse products and markets,
+we are developing the products 
+and solutions to help our customers
+create the wireless products that
+consumers want. We will continue 
+to do this in 2007, growing and
+diversifying CSR’ s business.
+John Scarisbrick
+Chief Executive Officer

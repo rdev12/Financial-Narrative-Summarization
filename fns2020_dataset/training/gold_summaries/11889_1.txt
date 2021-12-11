@@ -1,0 +1,373 @@
+ minibh eu feugiat aliquisi 
+eliscid uissecte dolorerilit 
+la commodo lortincidunt 
+ut am adipis doluptat alis 
+ad ea faccumsan enim 
+etum in eniatet ut nonullan 
+ulputetue delenis at, volesto 
+core euguer sed sed sed 
+dolorperit dolorper in hent ni
+f eugiat aliquisi eliscid 
+uissecte dolorerilit la 
+commodo lortincidunt ut 
+am adipis doluptat alis ad ea 
+faccumsan
+Patsystems    |    Annual Report 2007 04
+Chief Executive’s Report
+i am delighted to be able to report on a further year of successful 
+business development for Patsystems.
+In my report for 2006, I stated our ambition to become a key technology 
+provider to the electronic trading industry and the results for the financial year 
+ended 31 December 2007 demonstrate the success that we have achieved in 
+fulfilling that ambition.
+Our performance for the year has continued the trend established in 2006 for 
+profit growth, with an operating profit of £2.1 million, a 32% growth over last 
+year’s £1.6 million.
+Revenue has also risen 11% to £17.0 million compared to £15.3 million.
+We have continued to contain increases in our cost base, despite significant 
+pressure on salary costs in all our key areas of operation, with operating 
+expenses being only 9% higher at £14.5 million when compared to 
+£13.3 million in 2006.
+A fuller analysis of the changes in the cost base is included within the Finance 
+Director’s review but the main contributing factors were the planned 
+headcount increases. 
+trading systems and market Conne Ctivity
+t rading systems revenue increased by 7.5% to £14.3 million for the year 
+compared to £13.3 million in 2006.
+During the year we achieved new customer wins with R J O’Brien & Associates, 
+one of the largest independent futures brokerages in the United States 
+of America, and The Macquarie Group, the Australian head-quartered 
+international provider of banking, financial, advisory and investment services. 
+david w ebber 
+CHIEF ExECU t IVE Patsystems    |    Annual Report 2007
+The addition of Macquarie as a customer was particularly pleasing given that 
+our new Global t rading product played an important part in their decision to 
+select Patsystems with Macquarie having identified the benefits that its global 
+order book and continuous trading provides.
+Macquarie represents the first installation of our new Global t rading core and, 
+following an initial deployment in Europe, will roll out the systems capabilities 
+within their operations in the United States of America, Australia and Asia. 
+We will deliver the Global t rading software, and all the other associated 
+software services, to Macquarie offices and clients globally by way of a fully 
+hosted service.
+As part of our commitment to provide customers with further choice of how 
+they receive our software services, we have announced the provision of our 
+Application Service Provider (“ASP”) solution and the first customer is now live 
+on this service.
+During the year, our existing customers have added four further installations, 
+in Sydney, Singapore and two in Hong Kong, underlining the importance of 
+Asia as an area of growth for the business going forward.
+In 2008, we expect the main opportunities for further trading systems 
+installations and additional screen deployment to be in the emerging market 
+economies of South America, the Middle East and Asia, particularly Hong 
+Kong, Malaysia and Indonesia.
+In July 2007, Pro-Mark version 4.0 was launched with functionality specifically 
+designed for energy traders which enables them to access multiple energy 
+markets. Version 4.0 followed on from the successful release of version 3.9 
+earlier in the year, which provided support for option strategies, best execution 
+and advanced charting.
+At the start of 2007, the Pro-Mark billable user numbers were 129 and, as  
+at 31 December 2007, this has risen to 375. The majority of these users  
+are either converts from our major competitors or traders new to  
+electronic trading.
+During the year the ability to trade foreign exchange in partnership with  
+Gain Capital was added to the J-t rader product and charting capability  
+was added. 
+Patsystems’ global connectivity has been extended with the Chicago Climate 
+Futures Exchange, Dubai Mercantile Exchange, Hong Kong Exchanges and 
+Clearing and the United States Futures Exchange all being added in 2007. 
+There have also been changes to our existing exchange connectivity. All trading 
+system customers are now supported through significant upgrades for the 
+major exchanges, as well as additional capability, such as the support of carry 
+trades on the London Metal Exchange and an extended product set on the 
+Chicago Board of Options Futures Exchange.
+09
+4000
+3000
+2000
+1000
+0
+t otal exchange volume  
+(adv = a verage daily volume)
+liffe derivatives 
+market – histori Cal 
+annual & monthly data
+‘05
+2955
+‘04
+3030
+‘06
+2864
+‘07
+3722
+tHE FOLLOWING GRAPH 
+INDICAt ES t HE CONt INUED 
+GROWt H AND Ex PANDING 
+BUSINESS DEVELOPMENt WIt HIN 
+t HE DERIVAt IVES INDUSt Ry Patsystems    |    Annual Report 2007
+Chief Executive’s Report
+r isk systems
+Revenue from our risk systems business grew by 100% 
+to £1.4 million from £0.7 million in 2006. There has been 
+continued success for our post trade risk margining product 
+Risk Informer during the year with MF Global implementing 
+the product in their London operation across all asset classes 
+as the initial phase of a global roll out. In addition, Calyon 
+Financial, now Newedge after their merger with Fimat, are 
+completing a project to extend Risk Informer to risk margin 
+spot and forward Fx and F x options trading.
+As anticipated, there has been a significant level of 
+interest in the product from investment banks and brokers 
+of all sizes and the volatility in the markets during the 
+summer highlighted the relevance of effective real time 
+risk management.
+We remain confident in the opportunities for Risk Informer 
+and anticipate further customer wins in 2008.
+As we announced in our interim results in the summer we 
+launched the beta version of our pre-trade risk product, 
+Risk Monitor. Risk Monitor is a low latency tool designed to 
+monitor proposed trades across a range of markets ahead of 
+the exchange and, if necessary, prevent, restrict or provide 
+alerts in respect of individual electronic trades.
+With the increasing volumes of trades being executed either 
+by black box trading systems or by systems that are trading 
+directly into an exchange without an intervening broker, 
+the need for real time, but very high performance, risk 
+management is expected to grow.
+ex Change systems
+On 4 January 2008, t okyo Grain Exchange successfully 
+launched three futures products, Arabica and Robusta 
+bean coffee contracts and raw sugar, on the new continuous 
+exchange system provided by Patsystems.
+The tokyo Grain Exchange continues to offer markets in a 
+broad range of contracts on their existing session-based 
+trading system that is also provided by Patsystems but further 
+contracts are anticipated to be launched or migrated to the 
+new platform during 2008.
+During the year, National Commodity Exchange Limited in 
+Pakistan successfully commenced electronic trading with the 
+launch of their gold futures contract.
+We believe that our ability to provide a straight through 
+processing solution from the trader through to matching and 
+clearing the transaction at an exchange, with dynamic real 
+time risk management throughout, is a differentiated offering 
+in the market place. 
+We continue to identify potential opportunities in Asia, 
+particularly in China, where we have Chinese character set 
+versions of our trading screens, but these opportunities arise 
+infrequently and the decision processes can be very lengthy 
+with significant political hurdles.
+brand and marketing
+One of our non-financial objectives in 2007 was to establish the 
+Patsystems FlexAbility brand within our target market place of 
+the investment banks, brokers and futures clearing merchants.
+Independent commissioned research has confirmed that 
+our objective for Patsystems to be acknowledged as a key 
+technology supplier to our customers and prospects, rather 
+than just a vendor of trading screens, has been achieved.
+As well as reinforcing our key brand message, we have also 
+changed the strap line beneath our logo so that it reflects 
+exactly what we deliver as a business.
+“powers trades. builds exchanges. manages risk. ”
+strategy and Produ Ct develo Pment
+The first sale of Global t rading to a new customer, the 
+success of Risk Informer sales and the development of Risk 
+Monitor are all successful steps in fulfilling our strategy to be 
+the preferred supplier of technology solutions to our target 
+market place.
+During 2007, we have demonstrated our ability to sell hosted 
+technology solutions to major customers with the signing 
+of a contract to provide Global t rading to Macquarie. The 
+launch of our Application Service Provider (ASP) solution has 
+ensured that we can provide new customers with a full choice 
+of means of technology deployment, depending on their 
+business requirements.
+In addition to continued investment in developing the Risk 
+Monitor and Risk Informer products, along with supporting 
+the roll out of the Global t rading solution, there are a 
+number of key product investments planned for 2008.
+10
+continued Patsystems    |    Annual Report 2007
+These include the delivery of further capability within our algorithmic server, 
+a new higher performance version of our trading API that allows third parties 
+to use the Patsystems order processing engine and market connectivity, and 
+extended charting and best execution capability for the trading screens.
+Our strategy of developing all new product components in accordance with 
+the Financial Information exchange (FI x ) Protocol, a messaging standard 
+developed specifically for the real-time electronic exchange of securities 
+transactions, will ensure that those organisations that have adopted a best 
+of breed approach to technology are able to purchase just those system 
+components they require from Patsystems.
+We continue to view the support of asset classes outside of exchange 
+traded derivatives as important to our business evolution and with 
+J-t rader’s extension to support trading of currency pairs we have made 
+some progress towards this objective.
+We will continue to explore in 2008, either by partnership or acquisition, the 
+solution to further extend the support by our trading systems of multiple 
+product classes.
+exe Cutive management Committee
+Kieron O’t oole joined Patsystems at the start of 2007 as Client Services 
+Director with responsibility for software support, software releases and trading 
+and risk system installations.
+With Kieron’s appointment Andy Edwards, product and Development Director, 
+took responsibility for product strategy in addition to his existing responsibility 
+for product development. Andy has been key in defining the product road 
+map for 2007 and 2008 and will be instrumental in identifying technology 
+acquisitions that the business may require to fulfil our strategy.
+Patrick Kenny has continued his leadership of our North American operations 
+with additional marketing, sales and support resources added during the year 
+as detailed below.
+Graeme Neilly, as Director of European sales and global accounts, has grown 
+his department and continues to work closely with Jon Regan, Head of new 
+business sales Europe.
+I am delighted to announce that Lorna Blane, who joined Patsystems in April 
+2007 as Global Head of Human Resources, joined the Executive Management 
+Committee in the summer.
+11
+All major product lines up over 20% 
+annually for two constructive years
+Cagr 27% – from 2001 to 2006
+adv up 65% – Jan 2008 vs. Jan 2007
+Contracts in millions
+2007
+Interest Rates +23%
+Equities +47%
+Fx +26%
+Comm./Alt. Investments +20%
+CME Products
+CBOT Products
+Annual Growth Rates
+tHE FOLLOWING GRAPH 
+INDICAt ES t HE CONt INUED 
+GROWt H AND Ex PANDING 
+BUSINESS DEVELOPMENt WIt HIN 
+t HE DERIVAt IVES INDUSt Ry
+6.8
+8.6
+‘06 ‘05
+11.0
+‘07
+14.3
+‘08
+ytD
+25% 28%
+15
+10
+5
+0
+Consistent a nnual volume g rowth  
+(Cme group adv by year) Patsystems    |    Annual Report 2007
+In May 2007 Barry White replaced Kazuaki t akabatake as 
+Head of Asia. Barry joined Patsystems in 2006 as Managing 
+Director of Australia and brings 17 years of exchange and 
+exchange-traded derivatives experience to the business.
+t o take full advantage of the opportunities for growth within 
+the Asia region, and to be better placed to take advantage 
+of nascent opportunities in China, Barry has relocated to 
+Singapore and made the Singapore office of Patsystems the 
+regional headquarters. Barry has also opened an office in Hong 
+Kong and instigated representation on the ground in Shanghai. 
+business evolution and staff
+As I announced at the start of the year we have, during 2007, 
+extended our capability in every region that we operate 
+so that Patsystems staff are available to provide support to 
+customers, wherever in the world they are trading.
+We have also invested in additional resources in North 
+America and Asia to support the sale and promotion of our 
+extended product set. These investments have meant that our 
+overall headcount at the start of 2008 is 150 compared to 
+132 at the start of 2007.
+We are comfortable that these increases in headcount are 
+necessary to both support our planned sales effort and also 
+to improve customer service delivery to both our current and 
+future customers.
+I would like to take the opportunity to thank all of our staff 
+for their efforts in 2007. They have built a business with a 
+track record for delivery of complex technology solutions and 
+have been credited in the third party research we undertook 
+with our customers this year as “going the extra mile” when 
+compared to our peers.
+business obje Ctives and outlook
+Our key objectives for 2008 are as follows:
+Grow the Pro-Mark installed base and encourage  
+investment bank customers to convert their J-t rader 
+professional user base to Pro-Mark.
+Build on the success of Risk Informer being selected and  
+rolled out by MF Global by identifying opportunities 
+within the investment banks and other major Future 
+Clearing Merchants, as well as selling a “productised” 
+version of the offering to smaller organisations.
+Leverage the success of the first sale of Global t rading  
+to Macquarie by converting the opportunities within the 
+current customer base.
+Initiate the all important breakthrough in sales for Risk  
+Monitor, our pre-trade risk product.
+t o extend the capability of J-t rader to support  
+additional assets classes so that our customers can extend 
+their retail trading user base.
+t rading subsequent to the year-end has progressed in line 
+with our expectations and we are confident that our business 
+is well positioned to take advantage of market conditions.
+david w ebber 
+CHIEF ExECU t IVE 
+8 February 2008
+12
+Chief Executive’s Report
+continued Case studies: Caboto Caboto is the securities arm of Banca Intesa, Italy’s second largest banking group. 
+Since 2000, Caboto’s London office has been home to the group’s consolidated listed 
+derivatives business. Its clients include European Banks, Financial Institutions and 
+Online Brokers.
+Using Patsystems J-t rader and x Link products, Caboto has been able to expand 
+the customer base of its futures and options operation by offering easy, low cost 
+access to a broad range of exchanges. t hanks to the scalability of the technology, 
+Caboto has leveraged its local expertise to become the dominant Italian broker in 
+the futures market.
+Partnershi Ps for mutual growth
+Caboto has been faced with customers requesting access to a growing list of 
+exchanges around the world. While providing an expanded service is crucial to 
+retaining these customers, purchasing new exchange memberships is not always 
+an economical way to keep pace with demand. The solution is x Link, a powerful 
+software tool that enables multiple Patsystems users to interconnect and utilise each 
+other’s exchange memberships.
+Caboto has memberships to six futures exchanges, and by using x Link to establish 
+partnerships with other banks around the world, it is able to offer access to a further 
+five exchanges, with another three in the pipeline. In return, Caboto’s partner banks are 
+able to provide their customers with access to Borsa Italiana’s IDEM market. All without 
+any additional strain on the end users, who simply see the additional markets on their 
+familiar trading screens.
+“Using x Link we see benefits in two directions, ” Caboto says. “We provide our 
+customers with a single access point to the expanding range of markets they want to 
+trade without the need for additional memberships. At the same time, we leverage the 
+memberships we do have to attract flow from around the world. ”
+s ystem of Choi Ce
+The vast majority of Caboto’s futures business is routed via the Patsystems J- t rader. 
+Caboto conducts regular reviews of its vendor relationships and J-t rader has 
+consistently come out on top when compared to the other futures trading systems on 
+the market. 
+“The critical factors for our customers are ease of use and ease of installation, and 
+on these criteria Patsystems wins hands down, ” Caboto states. “We can have J-t rader 
+installed via the internet a matter of hours after signing a new customer, and the 
+interface is so simple to use we can offer them training over the telephone. ”
+business benefits
+Through its xLink connection to other members of the Patsystems user community, 
+Caboto has developed a cost effective way to broaden their service offering. It is thus 
+able to combine global exchange access with local expertise and relationships – a 
+compelling proposition that enables Caboto to compete with much larger institutions 
+and even outperform them in its home market.
+“J-t rader and x Link have enabled us to build out our remote connectivity while 
+keeping the organisation lean” Caboto reports. “In a climate of narrowing margins and 
+increasing competition, we have not only held our own against the larger players but 
+aggressively grown our business. The scalability, capabilities and ease of deployment of 
+Patsystems technology have been integral to that growth. ”
+t RadiN g solutioN s t rader’s tools and front-ends
+Pro-Mark
+J-t rader
+IQ-t rader
+t rading a Pi
+Patsystems API
+FIx t rading Gateway
+Risk solutio Ns Risk Informer
+Risk Monitor
+e x ChaN ge solutio Ns Exchange Solutions
+Patsystems Matching Engine
+Clearing System

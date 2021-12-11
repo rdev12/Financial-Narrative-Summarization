@@ -1,0 +1,1567 @@
+ ANNUAL REPORT AND ACCOUNTS
+for the year ended 31 March 2003 2
+Contents
+3 Highlights
+4 Chairman’s statement
+6 Chief Executive’s review
+16 Directors and advisers
+19 Directors
+20 Directors’ report
+21 Directors’ interests in shares 
+and debentures
+22 Report of the Remuneration
+Committee
+23 Corporate governance
+25 Directors’ responsibilities 
+in the preparation of financial
+statements
+26 Independent auditors’ report 
+to the members of Warthog plc
+27 Consolidated profit 
+and loss account
+28 Consolidated balance sheet
+29 Company balance sheet
+30 Consolidated cash 
+flow statement
+30 Reconciliation of net cash flow 
+to movement in debt
+31 Accounting policies
+32 Notes to the financial statements
+43 Notice of the Annual General
+Meeting
+45 Proxy for use at the Annual
+General Meeting
+“Warthog was granted the
+Queen’s Award for Enterprise
+in the International Trade
+category in April 2002.”
+Warthog plc
+Annual Report and Accounts for
+the year ended 31 March 2003 3
+Highlights
+Transition to leading European
+developer completed
+Turnover increased by 29% from
+£8.9 Million (for 2002) to £11.4
+Million
+First ever loss incurred
+3 acquisitions completed and
+integrated
+Total workforce increased to 271
+Developing Harry Potter and the
+Philosopher’s Stone
+Developing Looney Tunes: 
+Back in Action
+Zed Two
+Sweden
+Texas
+Subcontactors
+Head office
+2nd half
+turnover
+1st half 
+turnover
+1998
+2000 2001 2002 2003
+1999 2000 2001 2002 2003
+0
+0
+2
+4
+6
+8
+10
+12
+50 
+100 
+150 
+200 
+250 
+300 
+Workforce
+Turnover 4
+Chairman’s statement
+Our results
+Over the past five years Warthog has made the
+transition that few European games developers
+achieve, from being a small, regional, specialist
+developer with one or two projects into a high-
+calibre, multi-functional, international developer
+whose customers are the world’s premier publishers
+and IP owners.  Warthog’s reputation and standing
+in this global industry is amongst the very highest.
+It is our pleasure to report on an exciting year for the
+Group, although latterly seeing the continued expansion
+marred by exceptional difficulties resulting in a
+disappointing financial return.  Our revenue increased by
+29% from £8.9 million to £11.4 million for this period.
+However, several of our customers could not raise
+sufficient capital to fund their growth plans and found
+themselves in difficult financial positions resulting in two
+of our game development projects no longer being
+funded.  This together with a consistently unfavourable
+US$ exchange rate, meant we have been obliged to
+report a pre-tax loss for this period of £790,705 after
+exceptional costs of £1,313,726.   In line with the policy
+outlined at the time of our flotation, the Directors do not
+propose the payment of a dividend.
+I can report progress that our long term strategy of
+working closely with premium publishers on global
+brands has been realised, with contracts for ‘Battlestar
+Galactica’ with Vivendi/Universal; ‘Looney Tunes: Back In
+Action’ with Warner Bros./Electronic Arts;  ‘Harry Potter &
+The Philosopher’s Stone’ for Electronic Arts and other, as
+yet unannounced contracts of a similar stature. 
+The dominant market for our industry is the USA and for
+some time it has been our goal to build a presence in this
+market to assist in serving our US customers.   I am
+delighted with the route we have taken with the
+acquisition of the high-calibre team known originally as
+‘Fever Pitch’ in February and their progress to date.
+We appointed Ian Templeton to the Board in March. 
+An experienced accountant at the most senior level, who
+has been dedicated to corporate finance for several years,
+Ian brings valuable know-how to the Warthog Board. 
+In accordance with good corporate governance
+procedures Ian has joined both the remuneration and
+audit committees.
+Outlook
+The computer games industry has undergone some
+significant changes over the last year, and many of our
+competitors have been forced to downsize or even exit
+from the industry. However, despite the difficulties
+faced by some competitors, Warthog has managed to
+strengthen its position as a leading European
+computer games developer.
+Warthog sees the year ahead as one in which we
+will take advantage of the growth undergone in
+the year gone by, in which we will not seek to
+achieve growth through further acquisition, but rather
+through capitalising on the strength of the position we
+have established.  We have laid the foundations to
+enable us to build up our financial strength, increasing
+revenues and profitability without corresponding
+investment in fixed assets and overheads.  This should
+allow us to improve our financial performance and to
+replenish our reserves for future opportunities in the
+medium term.
+Iain Macdonald
+Chairman
+29 July 2003
+Warthog plc
+Annual Report and Accounts for
+the year ended 31 March 2003 5
+We have laid the
+foundations to
+enable us to build
+up our financial
+strength, increasing
+revenues and
+profitability. 6
+Chief Executive’s review
+The last year has been both exciting and
+frustrating. Winning high calibre contracts such
+as ‘Harry Potter and the Philosopher’s Stone’,
+‘Battlestar Galactica’, ‘Looney Tunes: Back In
+Action’, as well as other as yet unannounced
+titles, has been an immense achievement and has
+positioned Warthog  ahead of our competition.
+Expanding to our now four-studio format,
+including a presence in Austin, Texas, has been a
+major strategic step and achievement for us.
+The precarious financial position of some of the less
+strong, second-tier publishers with whom we entered
+into contractual relationships in previous years, has
+meant we have had to shoulder the financial burden of
+a number of  products to completion and endeavour to
+re-sell them to new publishers. As we have not
+managed to complete these re-arrangements within
+the financial year, we have, most disappointingly,
+reported a pre-tax loss of £790,705 after exceptional
+costs. This is the first time in our history we have
+reported a loss.  Although we are now forced
+temporarily to self-fund several projects until we find
+new publishers for them, this does not represent a
+change in strategy in our business model, but an
+exceptional operational necessity forced on us by these
+circumstances. We were unable at that stage of our
+development to avoid accepting these risks, but have
+since been able to move past that point, based on our
+more strongly established position in the industry.
+We are correspondingly well placed to meet the
+challenges and increasing pressures of future games
+development. Technological advances on all platforms
+means that it is not uncommon that team sizes have
+increased to up to 50 people working on a single
+game, and will continue to increase further with the
+launch of the PlayStation3 and Microsoft Xbox2
+platforms. There is a small and diminishing number of
+development studios that have the capacity to manage
+projects of this scale. We are focusing our efforts in
+three areas: People, Process and Technology.
+Warthog prides itself on its technical excellence and I
+am delighted to report that our proprietary TUSK™
+game engine, is receiving wide recognition and is
+a unique strength for the group.  TUSK™ is
+now being used successfully on multiple
+projects at three out of our four
+studios. As a result, we have over 30
+programmers both using and
+enhancing TUSK™, which is comparable
+to the development resource levels of
+competing middleware products sold
+commercially, and was a major factor in
+Warthog winning the ‘Harry Potter & the
+Philoshopher’s Stone’ contract. We are also
+investing in a process improvement project under
+the title Hog Application Manual (HAM) to enhance
+our present development systems, and also to prepare
+for ever larger development teams. 
+The majority of our success is down to the experience
+and dedication of our staff.  In many instances they
+have worked excessive hours to accommodate
+customer requests and their commitment to quality is
+outstanding.  We thank them profusely.
+Warthog plc
+Annual Report and Accounts for
+the year ended 31 March 2003 7
+Expanding to our
+now four-studio
+format, including a
+presence in Austin,
+Texas, has been a
+major strategic step
+and achievement
+for us. 8
+Chief Executive’s review
+Warthog plc
+Annual Report and Accounts for
+the year ended 31 March 2003
+Our Expanding Group
+Our Swedish office was acquired in April 2002 for an
+initial consideration of £413,115 in Warthog shares
+with further shares to be issued subject to
+performance. The studio is working well on ‘Richard
+Burns Rally Championship’ and we have invested in
+staff in order to commence a second project in this
+studio.  The total number of employees has
+increased from 24 on acquisition to 34.  
+In December 2002 we acquired the Manchester-based
+game studio, known as  ‘Zed Two’.  The company,
+founded in 1996, is best known for its original puzzle
+games ‘Wetrix’ and ‘Aqua Aqua’ and currently numbers
+21 people.  The acquisition consideration is dependent on
+the future profitability of the business.  Games in
+development include the role-playing game  ‘Pillage’ for
+major consoles, a new puzzle franchise ‘Sticky Balls’, and
+a recently won premium title, which has yet to be
+announced.
+In line with our strategic objective to build a presence in
+the all-important USA, to be closer to the industry’s
+largest publishers, we were delighted to agree the
+acquisition of Fever Pitch in February of this year.  Fever
+Pitch not only met this strategic objective, but also met
+our operational objectives by bringing to the Group such
+a highly talented and experienced team.  The now
+renamed ‘Warthog Texas’ studio is based in Austin, Texas
+and at present has a workforce of 18 working on a major
+title.  The business was acquired for an initial
+consideration of £186,000 satisfied by the issue of
+Warthog shares with further shares to be issued
+depending on its performance.  The studio has been cash
+flow positive and earnings enhancing since acquisition.
+It is a credit to the professionalism of these studios that
+they have integrated so well within the Group.
+The Games Market
+The rise in attention on the games market by the
+supermarket retailers has focused the industry on popular
+brands, diminishing the signing of original products. 
+In many cases games are aligned with other mass-market
+entertainment products as part of global branding and
+marketing campaigns.
+The Game Cube market is proving financially challenging
+for third party publishers, and although the gaming
+community is very supportive of the excellent hardware,
+there are few new games being commissioned for this
+platform.
+These factors have resulted in games sales largely being
+dominated by the top games in the charts. Although the
+games market continues to grow in-line with forecasts,
+the number of games being commissioned has reduced.
+The arrival of more technically advanced phones,
+dedicated hand held gaming devices and Personal Digital
+Assistants further invigorates these fledgling markets.
+The market for Game Boy Advance games is difficult,
+although the announcement of the Portable PlayStation
+by Sony will provide some further stimulation of this
+hand-held market. 9 10
+Chief Executive’s review
+Warthog plc
+Annual Report and Accounts for
+the year ended 31 March 2003
+Games Released in 2002/2003
+‘Rally Championship’ on GC and PS2 was released with
+Sci Entertainment and received good critical acclaim. 
+It was also released in Japan by the Japanese publisher
+Success, and by Conspiracy in the USA.
+‘Robot Wars’ on GBA was completed for the BBC and
+received rave reviews including their highest rating
+‘Excellent’ from EAGB Advance.
+We completed ‘Loons: The Fight for Fame’ for
+infogrames/Atari after acquiring the project development
+team and partly completed game from Infogrames
+themselves.
+‘Mace Griffin Bounty Hunter’ was published in June 2003
+on the PS2 and Xbox in the USA and it will follow in the
+shops in August in the UK.  The PC and GC versions will
+follow shortly after.  It has received some excellent reviews
+from the games press including:
+‘Game of the month’ and 90% score from PSW
+magazine (UK)
+‘Gold award’ and 95% score from PSE2
+magazine (USA)
+‘Wolverine’s Revenge’ was published by Activision
+simultaneously with the new X Men 2 movie and
+achieved No 4 in the UK all formats chart and No 3 on the
+PS2 only chart.
+SWING!, the publicly listed German publisher, for which
+we produced the Animaniacs games ‘Hollywood Hijinx’
+announced their receivership in early 2003.  We have
+since negotiated the rights to the game back from the
+receivers and have come to an agreement with the
+owners of the Animaniacs licence, Warner Bros., so that
+we can re-sell the game to an alternative publisher. 
+We are optimistic that we will be able to sell the game in
+due course.
+We redeployed our development team from ‘X10’ to
+work on ‘Harry Potter and the Philosopher’s Stone’. 
+This was by mutual agreement with Conspiracy
+Entertainment Inc. our publisher for ‘X10’ while they
+undertook some re-organisation. We expect to continue
+development soon.
+We developed the ‘ET’ title for the publisher New
+Kid Co. who found themselves unable to meet
+their financial commitments. The Group has
+come to an agreement with Universal Interactive,
+the owners of the ‘ET’ games licence, and New Kid
+Co. to obtain the rights to re-sell the game and to
+recover a proportion of the development costs incurred.
+Good progress has been made on this, with several offers
+made and we expect to announce a deal shortly.
+Several mobile games were completed and published for
+THQ and Mobile Scope within the period. 11 Games in Development
+Last year we were commissioned to develop a multi-
+platform game for ‘Battlestar Galactica’, the first time that
+the franchise has appeared on a games console. 
+The game, for PS2 and Xbox, is a story-driven space
+action-adventure that takes place at the end of the Cylon-
+Colonial Wars, 40 years prior to the setting of the original
+TV series.  The game will be released to celebrate the 25th
+anniversary of the original series in conjunction with the
+original series being released on home video and DVD and
+a new Battlestar Galactica mini series.
+We won the contract with Warner Bros. for the game of
+the film ‘Looney Tunes: Back In Action’ which will be
+released simultaneously with the film in November 2003
+on PS2 and GC.  Warner Bros. Consumer Products has
+partnered with Electronic Arts to co-publish the game.
+This is the first time Warner Bros. has placed a contract
+directly with a developer and we were delighted to be
+selected against worldwide competition.
+We were delighted to bring Hogwarts to Warthog at 
+the beginning of the year, and in an extremely quick
+development schedule we have developed an
+outstanding  ‘Harry Potter and the Philosopher’s Stone’
+for Electronic Arts.  This game is due in the shops in 
+Q4 2003.
+Our USA studio is working on a contract to develop a top
+title game associated with a well-known franchise, with a
+premium publisher, due for release in early 2005. 
+This confidential development is going well and we look
+forward to announcing this game in due course.
+Our rally game has now been endorsed by Richard Burns,
+who is currently leading the World Rally Championship, to
+become ‘Richard Burns Rally Championship’. The contract
+has been modified to complete in Q1 2004 and now fixed
+for the PS2, Xbox & PC versions.  The game is a simulation
+rallying game and has pushed the level of realism and car
+simulation to the extremes.
+12
+Chief Executive’s review
+Warthog plc
+Annual Report and Accounts for
+the year ended 31 March 2003 13
+We won the
+contract with
+Warner Bros. for
+the game of the
+film ‘Looney Tunes:
+Back In Action’ 14
+Chief Executive’s review
+Financial Review
+We have increased our turnover by 29%, slightly
+improved gross margins to 19%, grown our Gross
+Profit by 39% to £2.2 million, and our EBITDA,
+before exceptional items, by 54% to £1.18 million.
+This demonstrates the continued improvement in
+our business.
+This achievement is impressive in a period when the US
+dollar has weakened from 1.42 to 1.57 (or 11%), which
+affects the 78% of our business generated in US$. Based
+upon its maximum impact on our US receivables this
+deterioration alone would have resulted in a £931,000
+decline in revenue. Clearly, we have hedged against the
+movement to achieve a better result but nevertheless its
+impact has been significant.
+We would have reported a profit this year had it not been
+for the exceptional provisions of £1.3 million we have
+made against bad and doubtful debts or stalled contracts.
+After these exceptional costs we are reporting a loss
+before tax for the first time in 6 years of trading. Whilst
+this is disappointing, we are optimistic to recover our
+position on these contracts.
+Turning attention to the balance sheet, despite these
+substantial provisions we have actually increased our net
+assets. Fixed assets have increased by £0.3 million
+through continued investment in our building
+infrastructure, computers and software. Goodwill on
+intangible assets was £0.9 million at the end of the year,
+principally being goodwill acquired during the year, and
+this is being prudently written off over the next 5 years,
+although we expect the benefit from these acquisitions to
+continue beyond this period. Each acquisition has
+generated profits in the period and is likely to be a cash
+contributor to the group this coming financial year.
+Working capital has increased by £1.95 million during the
+year with a significant increase in current assets met only
+by a small increase in creditors.
+Unbilled contract work accounts for by far the largest
+element of the increase in current assets, rising by 
+£1.7 million over last year. One of the downsides of
+working with the largest US brand owners in conjunction
+with the larger publishers is a longer approval and
+payment process, which has contributed to this figure.
+Equally the general tight financial environment has meant 
+that in some instances contracts have a greater degree of
+payment on completion than we would like.  Further, to
+win these larger and premier projects we are required to
+undertake an increasing amount of work prior to the
+contract being awarded.
+This increase in working capital was accommodated by a
+reduction in cash and by a further increase in our debt
+facility. We have extended our debt facility to £3 million
+and had drawn down £1.5 million against this at the end
+of the financial year. This new facility was increased to
+give more headroom for our working capital requirements
+and to bridge the cash implications of contracts against
+which we have provided at the year-end.
+We experienced a cash outflow for the period due to the
+default by our customers, previously detailed, against
+which we have now provided.  This, together with an
+extension of credit taken by our customers through our
+unbilled contract work has pushed us into a cash negative
+position again.  Cash outflow from operations was 
+£2.3 million compared to £2.1 million last year but this
+included working capital loans made to undertakings
+which were subsequently acquired and the cash came
+back from these acquisitions to bring us into line with last
+year.  Furthermore, the repayment of tax through
+successful claims for R&D tax credits and the reduction we
+predicted in capital expenditure gave us a £0.7 million
+improvement in our cash outflow before financing.
+With our strong new business pipeline, we are confident
+that we will improve on this cash performance this
+coming year and the additional headroom created by the
+extended facility will be sufficient to service the cash
+needs of the business.
+Outlook
+It has become clear that the Sony PS2, followed by the
+Microsoft Xbox, as well as their developing online
+applications, have become the dominant platforms within
+the sector for the foreseeable future. Projects which
+harness the power of these sophisticated technologies
+will get more complex and the vitally important product
+marketing will often be linked to, or based upon
+developments in other media, such as film, TV and books.   15
+There are likely to be fewer but larger projects, and the
+willingness on the part of the publishers or IP owners to
+take risks on developers without proven track record will
+shrink.  Relationships between publisher and developer
+will be more integrated, although also, at times more
+tense, as the stakes become higher.  This will reshape the
+industry, which we believe will be to our advantage.
+I am indebted to the hard work of our staff, and it is they
+who deserve the credit for our significant achievements in
+this and previous years.  The combination of creativity and
+hard work together with our TUSK™ engine and
+associated tools pipeline is a powerful combination and
+appealing for our customers. We are now reaping the
+rewards from our investment in TUSK™ and we will
+continue to do this.
+After our heady growth over the last few years, this year
+will be one of consolidation. Having now achieved a
+portfolio of premium titles, we are concentrating on
+delivering these to the best quality and
+working closely with our publishers to give
+these the best chance of achieving hit
+status, as well as focusing on
+increasing our returns.
+Ashley Hall
+Chief Executive
+29 July 2003 16
+Directors and advisors
+Directors
+Iain Archibald Macdonald Non-executive Chairman
+Ashley Jay Hall Chief Executive Officer and Managing Director
+Simon Paul Elms ACA Finance Director
+Eric Elms Business Development Director
+Steven David Law Operations Director
+Ian Andrew Grieve Commercial Director
+David Barrie Robinson Non-executive Director
+Ian Templeton Non-executive Director
+Registered Office
+10 Eden Place
+Cheadle
+Cheshire, SK8 1AT
+Company Secretary
+HL Secretaries Limited
+St James’s Court
+Brown Street
+Manchester M2 2JF
+Nominated Adviser and Broker
+Evolution Beeson Gregory Limited
+The Registry
+Royal Mint Court
+London EC3N 4LB
+Solicitors to the Company
+Halliwell Landau
+St James’s Court
+Brown Street
+Manchester M2 2JF
+Auditors & Reporting Accountants
+Baker Tilly
+Brazennose House
+Lincoln Square
+Manchester M2 5BL
+Registrars
+Northern Registrars Limited
+Northern House
+Woodsome Park
+Fenay Bridge
+Huddersfield
+West Yorkshire HD8 0LA
+Principal Bankers
+HSBC
+69 Pall Mall
+London SW1Y 5EY 17
+Mace Griffin Bounty Hunter
+PSi2 – 9/10
+“Exceptional”
+PSW – 9/10
+“Mace Griffin is Halo for the PS2. 
+It’s that good” 
+XboxWORLD – 9/10 
+“Alongside Halo in the list of Xbox
+shooters you simply must own” 
+OFFICIAL XBOX – 8.4/10
+“There’s a general wow factor of having
+this type of gameplay wrapped into a
+traditional first-person shooter” 
+OFFICIAL PS2 – 8/10
+“Bam! Blown away.” 
+PSE2 Magazine – Gold award – 95%  18 18
+Warthog plc
+Annual Report and Accounts for
+the year ended 31 March 2003
+Simon Elms
+Financial Director
+Ashley Hall
+CEO
+Steven Law
+Operations Director
+Executive Management
+Eric Elms
+Business Development 
+Director
+Ian Grieve
+Commercial Director
+Nick Elms
+Vice President of Art
+Paul Hughes
+Vice President 
+of Technology
+Eric Peterson
+President 
+Warthog Texas
+Phil Gaskell
+Vice President 
+of Design
+Tim Coupe
+Vice President 
+of Mobile and
+Handheld Devices
+Ivan Davies
+Vice President 
+Production
+Christoffer Nilsson
+Director
+Warthog Sweden
+John Pickford
+Creative Director
+Zed Two
+Ste Pickford
+Director
+Zed Two
+Andy Gething
+Corporate Devlopment
+Manager Directors
+The Board comprises five executive Directors and three non-executive Directors
+Iain Macdonald, age 58, Non-executive Chairman
+Iain gained a B.Sc (Hons) in Electrical Engineering at Edinburgh University and a Diploma in Management at Heriot Watt
+University. After 14 years with IBM, he started a PC computer business in Manchester. After 5 years, the company,
+ComputerGroup plc, was acquired by SHL Systemhouse Inc, with whom he subsequently became European CEO. In the
+eight years since leaving SHL, he has become non-executive director on the boards of thirteen companies, in seven of these
+as Chairman. He is a Fellow of the Institute of Directors. Iain has recently completed a 5-year term on the Board of the
+Manchester Business School, where he is currently a Visiting Fellow. He joined Warthog in 1997.
+Ashley Hall, age 37, Chief Executive Officer and Managing Director
+A successful entrepreneur with over 18 years in the computer industry, Ashley was a co-founder and the driving force
+behind the establishment of Warthog. Ashley built up Hallman Computer Company Limited from scratch over a period of
+10 years prior to its trade sale in 1996. Ashley subsequently founded Lincoln Software Limited, a software tools company,
+in 1995 together with Steven Law and served as a non-executive director with Lincoln until its successful trade sale to
+PeerLogic Inc. in 1999. Ashley is responsible for Group strategy.
+Simon Elms ACA, age 33, Finance Director
+Simon graduated with a first class Honours Degree in Management Sciences from the University of Manchester in 1991.
+Simon joined Coopers and Lybrand in 1991, qualifying as a Chartered Accountant three years later. In 1996 he moved to
+Ciba Specialty Chemicals Limited. Simon was the financial manager for Northern Europe for the corporate group and the
+financial manager for the UK Additives Division. Simon joined Warthog in 1998 as Finance Director responsible for all
+financial aspects of the Group’s business. Simon serves as a trustee of the Warthog employee trust.
+Eric Elms, age 54, Business Development Director
+Eric has worked in the computer industry since 1983. He was a director of JM Computing Limited, a software reseller from
+1983 to 1991, during which time that company’s annual turnover grew from £350,000 to £2.5 million and Eric became
+Divisional Sales Director. In 1994 Eric founded Corporate Graphic Holdings, and built this business up to an annual
+turnover of £3 million prior to selling his interest in 1997. In 1993 Eric also founded Digital Reality, a partnership and
+offshoot of Corporate Graphic Holdings, to develop computer games. The resultant development team designed the title
+Privateer II, the Darkening that became an industry best seller. Digital Reality was acquired by Electronic Arts in 1995. Eric
+co-founded Warthog in 1997, together with Ashley Hall and the core development team.
+Steven Law, age 36, Operations Director
+In 1985 Steven founded his first computer games company, Lynsoft Limited, which he ran until joining Ashley Hall at
+Hallman in 1990. In 1995 Steven founded Lincoln Software Limited with Ashley Hall and Iain Macdonald. As CEO of
+Lincoln Software, Steven grew this software tools company aggressively, securing venture capital funding from 3i, until it
+was sold to PeerLogic Inc., in 1999. Steven then served as a Vice President of PeerLogic Inc. until its sale to Critical Path
+Inc. in September 2000. This resulted in a substantial increase in shareholder value for the founding Lincoln Software
+shareholders. Steven joined Warthog in November 2000 and now manages the internal operations of the Group.
+Ian Grieve, age 37, Commercial Director
+In 1989, Ian founded Procon Systems Limited, a process control software company that grew into a thriving business. In
+1991, he moved into the games industry, joining Psygnosis Limited, one of the industry’s early drivers. During the eight
+years Ian was with Psygnosis Limited, he was involved in all aspects of game development and publishing, starting as
+Senior Producer, managing the Asian publishing department, becoming director of external development, and for the last
+four years as a board member and on the executive committee. Ian has been involved in the management of over 100
+games on a range of platforms, including many industry best sellers such as Lemmings, Toy Story, Formula 1, Destruction
+Derby and Bugs Life. Ian joined Warthog in 1999 and now heads up its commercial department.
+David Robinson, age 36, Non-executive Director
+David, who joined Warthog in November 2000, is the Managing Director of Richer Sounds Plc, the UK’s leading retailer of
+hi-fi separates with an annual turnover of £45 million. Richer Sounds holds the record for the highest level of retail sales
+per sq ft worldwide. David started on the shop floor in 1983 and has since risen up through the organisation. He is also
+the Group Managing Director of Richer Sounds Group of Companies, which has interests in a mixture of private and public
+companies in sectors spanning retail, leisure, restaurants, publishing and property. David is also trustee of the Persula
+Foundation, which offers practical help and supports charities throughout the United Kingdom.
+Ian Templeton, age 61, Non-executive Director
+Ian joined the Warthog board on 3rd March 2003, although he was a founder shareholder and advisor to Warthog until
+its AIM flotation. Ian has over 30 years of corporate finance experience, the majority at a senior level, and is also a specialist
+in the financing of early stage high growth companies. Since June 2000, he has been Chief Executive of Acorn Capital
+Partners Limited and prior to that he was a senior partner at BDO Stoy Hayward in Manchester. In his career, Ian has been
+responsible for the raising of over £76 million for some 78 companies.
+19 20
+Directors’ report
+The directors submit their report and the group financial statements of Warthog plc (‘the Group’) for the year
+ended 31 March 2003.
+Principal activities
+The principal activity of the Group during the year was that of the design and development of computer and video games.
+Review of the business
+A review of the group’s results and activity is incorporated in both the Chairman’s and Chief Executive’s Reports.
+Share issues
+On 5 April 2002 1,059,269 1p ordinary shares were issued at a premium of 38p in order to acquire the equity of 42 Bit
+AB.
+On 4 February 2002 973,015 1p ordinary shares were issued at a premium of 18.1p in order to acquire the equity of Fever
+Pitch Studios Inc.
+Results
+The group trading loss for the year after taxation was £412,791.
+Dividends
+The directors do not recommend payment of a final dividend in line with the policy outlined in the flotation prospectus.
+Directors
+The following directors have held office since 1 April 2002:
+I Macdonald
+A Hall
+E Elms
+S Elms
+I Grieve
+D Robinson
+S Law
+I Templeton   (appointed 3rd March 2003)
+Warthog plc
+Annual Report and Accounts for
+the year ended 31 March 2003 21
+Directors’ interests in shares
+and debentures
+Directors’ interests in the shares of the company, including family interests, were as follows:
+Ordinary shares of 1p each Ordinary shares of 1p each 
+at 31.03.03 at 01.04.02
+I Macdonald 1,307,301 1,297,301
+A Hall 5,851,584 5,846,584 
+E Elms 2,373,984 2,368,984 
+S Elms 1,234,616 1,229,616 
+I Grieve 137,998 124,998 
+D Robinson 10,000 –
+S Law 255,002 250,002 
+I Templeton 257,000 257,000  
+Directors’ share options
+The following directors, including family interests, have option agreements:  
+At 01.04.02 At 31.03.03 Date exercisable Expiry date
+S Elms 499,998 499,998 7 Dec 2003 7 Dec 2010 
+S Law 359,996 359,996 7 Dec 2003/ 7 Dec 2010/
+21 Dec 2004 21 Dec 2011
+I Grieve 499,998 499,998 7 Dec 2003 7 Dec 2010 
+D Robinson 156,250 156,250 14 Nov 2003 14 Nov 2010
+The market price of the shares at 31 March 2003 was 12.5p and the range during the year was 12.5p to 41.5p.
+Substantial shareholdings
+On 1 August 2003 A Hall held 5,851,584 ordinary shares of 1p (12.14%), E Elms held 2,373,984 ordinary shares of 1p
+(4.93%).  No other person has reported an interest of more than 3% in the ordinary shares.
+Market value of land and buildings
+The directors do not consider the net book value of the freehold land and buildings to be materially different from cost.
+Creditor payment policy
+It is group policy to agree and clearly communicate the terms of payment as part of the commercial arrangements
+negotiated with suppliers and then to pay according to those terms based upon the timely receipt of an accurate invoice.
+The company supports the CBI Prompt Payers Code.  A copy of the code can be obtained from the CBI at Centre Point,
+103 New Oxford Street, London WC1A 1DU.
+Trade creditor days based on creditors at 31 March 2003 were 30 days (2002: 40 days).
+Introduction of the Euro
+A centrally managed and co-ordinated programme has been completed which ensures the Group is able to handle euro
+transactions when required.
+Annual General Meeting
+This year’s Annual General Meeting will be held on 12th September 2003.
+Auditors
+A resolution to reappoint Baker Tilly, Chartered Accountants, as auditors will be put to the members at the annual general
+meeting.
+By order of the Board
+S Elms
+Financial Director
+29 July 2003 22
+Report of the
+Remuneration Committee
+The remuneration committee is pleased to present its report for the year ended 31 March 2003.
+Remuneration policy for executive directors
+The basic annual salary payable to each director is £57,750 per annum to be reviewed annually (without any obligation
+to increase the same).  In addition, the company contributes up to 4 per cent of the annual salary of each director to his
+personal pension scheme but this is subject to review.  In addition each director receives a car allowance amounting to
+£833.33 per month, eligibility to a PHI scheme, private health care for himself, his spouse and children.  In addition each
+will receive life assurance cover. Each director receives the benefit of a company credit card and mobile telephone.
+Remuneration
+Salary Benefits Bonuses Fees Pension Total
+££££££
+I Macdonald – – – 30,000 – 30,000 
+A Hall 55,440 10,257 – – 4,580 70,277 
+E Elms 55,440 10,919 – – 4,620 70,979 
+S Elms 55,440 10,712 – – 4,620 70,772 
+I Grieve 55,440 10,644 72,514 – 4,620 143,218 
+D Robinson – – – 10,000 – 10,000 
+S Law 56,908 10,644 – – 1,728 69,280
+I Templeton – – –––– 
+278,668 53,176 72,514 40,000 20,168 464,526 
+Share options
+See Directors’ Report for details of directors’ interests in share options.
+Incentive schemes
+Bonuses
+Each director will earn profit related bonuses based on EBITDA (‘Earnings before Interest, Tax, Depreciation and
+Amortisation’) excluding Ian Grieve, who earns a commission based on 2.5 per cent of royalties and income generated
+from game sales both for existing game titles and new game titles.  
+Enterprise management incentive scheme
+The company has granted options under the EMI scheme to selected key employees. The eligible employees or directors
+must be an employee of the group, and not have a material interest in the company or the group. The individual
+participation limits held by an employee will be £100,000. The exercise price per ordinary share payable will be higher of
+the market value of the shares at the date of grant agreed by the Inland Revenue and the nominal value of the share. An
+option will not normally be exercisable until three years have lapsed since its grant and subsisting options will lapse ten
+years after the grant. Options over 2,598,980 ordinary shares have been granted under the EMI scheme.
+Ian Grieve, Simon Elms and Steven Law are members of this scheme.
+Service contracts
+Steven Law, Ashley Hall, Simon Elms, Eric Elms and Ian Grieve entered into a service agreement with the company. The
+service agreements are terminable on not less than six months notice by either party to the others at any time following
+expiry of the initial term of 6 months. The service agreements contain provisions for early termination, inter alia, in the
+event of a breach by the director in question.
+Iain Macdonald, Ian Templeton and David Robinson do not have service contracts but have formal letters of appointment.
+Warthog plc
+Annual Report and Accounts for
+the year ended 31 March 2003 23
+Corporate governance
+Principles of Corporate Governance
+The Group’s Board appreciates the value of good corporate governance not only in the areas of accountability and risk
+management but also as a positive contribution to business prosperity.  It believes that corporate governance involves more
+than a simple ‘box ticking’ approach to establish whether a company has met the requirements of a number of specific
+rules and regulations.  Rather the issue is one of applying corporate governance principles (including those set out in
+Section 1 of the Principles of Good Governance and Code of Best Practice (‘the Combined Code’) published by the Stock
+Exchange in June 1998) in a sensible and pragmatic fashion having regard to the individual circumstances of a particular
+company’s business.  The key objective is to enhance and protect shareholder value.  
+Board structure
+During the year the Corporate Board comprised Iain Macdonald (the Chairman and the senior independent non-executive
+director), Ashley Hall (Managing Director), Eric Elms (Business Development Director), Ian Grieve (Commercial Director),
+Simon Elms (Finance Director), Steven Law (Operations Director) and David Robinson and Ian Templeton (the other
+independent Non-Executive Directors).  Their biographies appear on page 19.
+The Board is responsible to shareholders for the proper management of the Group.  A statement of directors’
+responsibilities in respect of the accounts is set out on page 25.  The Non-Executive Directors have a particular
+responsibility to ensure that the strategies proposed by the Executive Directors are fully considered.  To enable the Board
+to discharge its duties, all Directors have full and timely access to all relevant information and there is a procedure for all
+Directors, in furtherance of their duties, to take independent professional advice, if necessary, at the expense of the Group.
+The Board has a formal schedule of matters reserved to it and meets monthly.  It is responsible for overall group strategy,
+approval of major capital expenditure projects and consideration of significant financing matters.  
+The following committees, which have written terms of reference, deal with specific aspects of the Group’s
+affairs.
+The Remuneration Committee is responsible for making recommendations to the Board on the Company’s framework
+of Executive remuneration and its cost.  The Committee determines the contract terms, remuneration and other benefits
+for each of the Executive Directors, including performance related bonus schemes, pension rights and compensation
+payments.  The Board itself determines the remuneration of the Non-Executive Directors.  The committee comprises Iain
+Macdonald, Ian Templeton and David Robinson. It is chaired by Iain Macdonald and meets at least twice a year including
+immediately before the submission of the annual and interim financial statements to the Board. The report on Directors’
+remuneration is set out on page 22. 
+The Audit Committee comprises Iain Macdonald, Ian Templeton and David Robinson, and is chaired by David Robinson.
+Its prime tasks are to review the scope of internal and external audit, to receive regular reports from Baker Tilly, and to
+review the half-yearly and annual accounts before they are presented to the Board, focusing in particular on accounting
+policies and areas of management judgment and estimation.  The committee is responsible for monitoring the controls
+which are in force to ensure the integrity of the information reported to the shareholders The committee acts as a forum
+for discussion of internal control issues and contributes to the Board’s review of the effectiveness of the Group’s internal
+control and risk management systems and processes.  It advises the Board on the appointment of external auditors and
+on their remuneration for both audit and non-audit work, and discusses the nature and scope of the audit with the
+external auditors. It meets at least twice a year including immediately before the submission of the annual and interim
+financial statements to the Board.  
+Any new non-executive directors will be asked to join both committees. 24
+Corporate governance
+Internal control
+The directors are responsible for the Group’s system of internal control and reviewing its effectiveness.  The Board has
+designed the Group’s system of internal control in order to provide the directors with reasonable assurance that its assets
+are safeguarded, that transactions are authorised and properly recorded and that material errors and irregularities are
+either prevented or would be detected within a timely period.  However, no system of internal control can eliminate the
+risk of failure to achieve business objectives or provide absolute assurance against material misstatement or loss. 
+The key elements of the control system in operation are:  
+The Board meets regularly with a formal schedule of matters reserved to it for decision and has put in place an
+organisational structure with clear lines of responsibility defined and with appropriate delegation of authority; 
+There are procedures for planning, approval and monitoring of capital expenditure and information systems for
+monitoring the Group’s financial performance against approved budgets and forecasts;  
+The process adopted by the Group accords with the guidance contained in the document ‘Internal Control Guidance for
+Directors on the Combined Code’ issued by the ICAEW.
+The Audit committee will receive reports from the external auditors on a regular basis and from executive directors of the
+Group.  During the year, the Audit committee has reviewed the effectiveness of the system of internal control as described
+above.  The Board receives periodic reports from all committees.
+There are no significant issues disclosed in the report and financial statements for the year ended 31 March 2003 and up
+to the date of approval of the report and financial statements that have required the Board to deal with any related
+material internal control issues.
+The directors confirm that the Board has reviewed the effectiveness of the system of internal control as described during
+the period.
+Relations with shareholders
+The Group values its dialogue with both institutional and private investors.  Effective two-way communication with fund
+managers, institutional investors and analysts is actively pursued and this encompasses issues such as performance, policy
+and strategy. During the year the directors have had meetings with analysts and institutions and will continue to do so on
+a monthly basis.
+There is a wealth of information for investors on the Group’s web site, www.warthog.co.uk, which is updated monthly,
+and shareholders can register to receive notification of when new information is posted on the web site.
+Going concern
+The directors confirm that they are satisfied that the Company and Group have adequate resources to continue in business
+for the foreseeable future.  For this reason, they continue to adopt the going concern basis in preparing the financial
+statements. 
+Statement by the Directors on compliance with the provisions of the combined code
+The Directors have voluntarily undertaken to adopt and comply with the provisions set out in Section 1 of the Combined
+Code insofar as they apply to the Group given its size and structure.
+Warthog plc
+Annual Report and Accounts for
+the year ended 31 March 2003 25
+Directors’ responsibilities in the
+preparation of financial statements
+Company law requires the directors to prepare financial statements for each financial year which give a true
+and fair view of the state of affairs of the group and company and of the profit or loss of the group for that
+period.  In preparing those financial statements, the directors are required to:
+a select suitable accounting policies and then apply them consistently;
+b make judgements and estimates that are reasonable and prudent;
+c state whether applicable accounting standards have been followed, subject to any material departures disclosed and
+explained in the financial statements.
+d prepare the financial statements on the going concern basis unless it is inappropriate to presume that the company will
+continue in business.
+The directors are responsible for keeping proper accounting records which disclose with reasonable accuracy at any time
+the financial position of the group and to enable them to ensure that the financial statements comply with the
+requirements of the Companies Act 1985.  They are also responsible for safeguarding the assets of the group and hence
+for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+The directors are also responsible for the maintenance and integrity of the Warthog plc website.
+Legislation in the United Kingdom governing the preparation and dissemination of financial statements may differ from
+legislation in other jurisdictions. 26
+Independent auditors’ report 
+to the members of Warthog plc
+We have audited the financial statements on pages 27 to 42.
+This report is made solely to the company’s members, as a body, in accordance with section 235 of the Companies Act
+1985.  Our audit work has been undertaken so that we might state to the company’s members those matters we are
+required to state to them in an auditors’ report and for no other purpose.  To the fullest extent permitted by law, we do
+not accept or assume responsibility to anyone other than the company and the company’s members as a body, for our
+audit work, for this report, or for the opinion we have formed.
+Respective responsibilities of Directors and auditors
+The directors’ responsibilities for preparing the Annual Report and the financial statements in accordance with applicable
+law and United Kingdom Accounting Standards are set out in the Statement of Directors’ Responsibilities. 
+Our responsibility is to audit the financial statements in accordance with relevant legal and regulatory requirements and
+United Kingdom Auditing Standards. 
+We report to you our opinion as to whether the financial statements give a true and fair view and are properly prepared
+in accordance with the Companies Act 1985.  We also report to you if, in our opinion, the Directors’ Report is not
+consistent with the financial statements, if the company has not kept proper accounting records, if we have not received
+all the information and explanations we require for our audit, or if information specified by law regarding directors’
+remuneration and transactions with the company is not disclosed. 
+We read other information contained in the Annual Report, and consider whether it is consistent with the audited financial
+statements.  This other information comprises only the Directors’ Report, the Chairman’s Statement, the Chief Executive’s
+Review, the Report of the Remuneration Committee and the statement on corporate governance.  We consider the
+implications for our report if we become aware of any apparent misstatements or material inconsistencies with the
+financial statements.  Our responsibilities do not extend to any other information. 
+Basis of opinion
+We conducted our audit in accordance with Auditing Standards issued by the Auditing Practices Board.  An audit includes
+examination, on a test basis, of evidence relevant to the amounts and disclosures in the financial statements.  It also
+includes an assessment of the significant estimates and judgements made by the directors in the preparation of the
+financial statements, and of whether the accounting policies are appropriate to the company’s circumstances, consistently
+applied and adequately disclosed. 
+We planned and performed our audit so as to obtain all the information and explanations which we considered necessary
+in order to provide us with sufficient evidence to give reasonable assurance that the financial statements are free from
+material misstatement, whether caused by fraud or other irregularity or error.  In forming our opinion we also evaluated
+the overall adequacy of the presentation of information in the financial statements. 
+Opinion
+In our opinion the financial statements give a true and fair view of the state of affairs of the company and the group at
+31 March 2003 and of the group loss for the year then ended and have been properly prepared in accordance with the
+Companies Act 1985. 
+Baker Tilly
+Registered Auditor
+Chartered Accountants
+Brazennose House
+Lincoln Square
+Manchester M2 5BL
+29 July 2003
+Warthog plc
+Annual Report and Accounts for
+the year ended 31 March 2003 27
+Consolidated profit and loss account 
+for the year ended 31 March 2003 
+Consolidated statement of total
+recognised gains and losses 
+for the year ended 31 March 2003 
+Continuing Acquisitions Total
+Operations
+2003 2003 2003 2002
+Notes £ £ £ £
+Turnover 1 11,180,765 236,373 11,417,138 8,858,117
+Cost of sales 8,981,258 219,641 9,200,899 7,266,913
+Exceptional costs 5 1,313,726 – 1,313,726 –  
+Gross profit 885,781 16,732 902,513 1,591,204  
+Other operating expenses (net) 2 1,433,440 226,103 1,659,543 1,142,358
+(Loss)/profit on ordinary activities
+before interest (547,659) (209,371) (757,030) 448,846 
+Investment income 3 35,267 77,536
+(721,763)  526,382
+Interest payable 4 68,942 38,591  
+(Loss)/ profit on ordinary activities 
+before taxation (790,705) 487,791  
+Taxation 7 377,914 (182,437)  
+Retained (loss)/profit for the year 18 (412,791) 305,354  
+Earnings per ordinary share – basic 23 (0.87)p 0.72p  
+Earnings per ordinary share – diluted 23 (0.87)p 0.64p  
+The operating profit for the year arises from the group’s continuing operations.
+2003 2002
+££
+(Loss)/profit for the financial year (412,791) 305,354  
+Currency translation gain on foreign currency net investments 55,740 –  
+Total recognised gains and losses relating to the year (357,051) 305,354   Consolidated balance sheet
+31 March 2003
+2003 2002
+Notes £ £
+Fixed assets
+Intangible assets 9 906,358 – 
+Tangible assets 10 2,270,250 1,988,025  
+Investments 11 ––
+3,176,608 1,988,025  
+Current assets
+Stock 12 1,634,034 1,470,342  
+Debtors 13 5,570,430 3,649,522  
+Cash at bank and in hand 359,488 2,828,801  
+7,563,952 7,948,665  
+Creditors:
+Amounts falling due within one year 14 (1,411,267) (1,306,618)  
+Net current assets 6,152,685 6,642,047  
+Total assets less current liabilities 9,329,293 8,630,072
+Creditors:
+Amounts falling due after more than one year 15 (1,500,000) (1,137,992)
+Provisions for liabilities and charges 16 – (25,011)
+7,829,293 7,467,069  
+Capital and reserves
+Called up share capital 17 481,820 461,497  
+Contingent share capital 21 286,885 –  
+Share premium account 18 6,655,214 6,243,147
+Merger reserve 18 52,463 52,463 
+Profit and loss account 18 352,911 709,962  
+Shareholders’ funds 7,829,293 7,467,069  
+Approved by the board on 29 July 2003
+S Elms
+Director
+I Macdonald
+Director
+28
+Warthog plc
+Annual Report and Accounts for
+the year ended 31 March 2003 Company balance sheet
+31 March 2003
+2003 2002
+Notes £ £
+Fixed assets
+Investments 11 1,185,944 299,944  
+Current assets
+Debtors 13 6,950,812 4,618,626  
+Cash at bank and in hand – 2,643,632  
+6,950,812 7,262,258
+Creditors:
+Amounts falling due within one year 14 (527,983) (199,065)  
+Net current assets 6,422,829 7,063,193  
+Total assets less current liabilities 7,608,773 7,363,137  
+Creditors:
+Amounts falling due after more than one year 15 (200,000) (600,000)
+7,408,773 6,763,137  
+Capital and reserves
+Called up share capital 17 481,820 461,497
+Contingent share capital 21 286,885 –
+Share premium account 18 6,655,214 6,243,147  
+Profit and loss account 18 (15,146) 58,493  
+Shareholders’ funds 7,408,773 6,763,137  
+Approved by the Board on 29 July 2003
+S Elms
+Director
+I Macdonald
+Director
+29 30
+Warthog plc
+Annual Report and Accounts for
+the year ended 31 March 2003
+Consolidated 
+cash flow statement
+for the year ended 31 March 2003 
+2003 2002
+Notes £ £
+Cash flow from operating activities 20a (2,328,154) (2,145,012) 
+Returns on investments and servicing of finance 20b (33,675) 38,945 
+Taxation 110,718 (105,862)
+Capital expenditure and servicing of finance 20b (630,114) (1,096,774)
+Acquisitions 242,260 –
+Cash outflow before financing (2,638,965) (3,308,703)
+Financing 20b 169,652 2,577,095  
+Decrease in cash in the year (2,469,313) (731,608)
+Reconciliation of 
+net cash flow to 
+movement in debt
+2003 2002
+Notes £ £
+Decrease in cash in the year (2,469,313) (731,608)
+Change in net debt resulting from cash flows (350,008) (587,958) 
+Movement in net debt in year (2,819,321) (1,319,566) 
+Net funds at 1 April 2002 1,678,809  2,998,375 
+Net debt at 31 March 2003 20c (1,140,512) 1,678,809  31
+Accounting 
+policies
+Basis of accounting
+The financial statements have been prepared under the historical cost convention.
+Basis of consolidation
+The consolidated financial statements incorporate those of Warthog plc and all of its subsidiary undertakings for the year.
+Subsidiaries acquired during the year are consolidated using the acquisition method.  Their results are incorporated from
+the date that control passes.  The difference between the cost of acquisition of shares in subsidiaries and the fair value of
+the separable net assets acquired is capitalised and written off on a straight line basis over its estimated economic life.
+Provision is made for impairment.  All financial statements are made up to 31 March.  
+In respect only of Warthog Games Limited, the consolidated financial statements merge the financial statements of
+Warthog plc and Warthog Games Limited as if they had always been so owned. Accordingly, in the year when  this merger
+took place the whole of the results, assets, liabilities and shareholders’ funds of the merged companies were consolidated
+regardless of the actual merger date, and the corresponding figures for previous years were re-stated.
+Tangible fixed assets
+Fixed assets are stated at historical cost less accumulated depreciation.
+Depreciation is provided on all tangible fixed assets other than freehold land at rates calculated to write each asset down
+to its estimated residual value evenly over its expected useful life, as follows:-
+Freehold buildings over 20 years
+Computer equipment 33% on cost
+Fixtures, fittings and equipment 25% – 33% on cost
+Investments
+Fixed asset investments are stated at cost less provision for diminution in value.
+Intellectual property
+Purchased intellectual property is valued at cost less accumulated amortisation.  Amortisation is calculated to write off the
+cost in equal annual instalments over their estimated useful life.
+Purchased goodwill
+Goodwill representing the excess of the purchase price compared with the fair value of net assets acquired is capitalised
+and written off evenly over 5 years as in the opinion of the directors this represents the period over which the goodwill is
+effective.
+Long term contracts
+Amounts recoverable on long term contracts, which are included in debtors are stated at the net sales value of the work
+done after provision for contingencies and anticipated future losses on contracts, less amounts received as progress
+payments on account.  Excess progress payments are included in creditors as payments on account.
+Work in progress
+Work in progress is valued at the lower of cost and net realisable value.  Cost of work in progress includes overheads
+appropriate to the stage of production.  Net realisable value is based upon estimated selling price less further costs
+expected to be incurred to completion.
+Deferred taxation
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at the balance sheet
+date where transactions or events that result in an obligation to pay more tax in the future or a right to pay less tax in the
+future have occurred at the balance sheet date. Timing differences between the Group’s taxable profits and its results as
+stated in the financial statements.
+Deferred tax is measured at the average tax rates that are expected to apply in the periods in which timing differences are
+expected to reserve, based on tax rates and laws that have been enacted or substantially enacted by the balance sheet
+date. Deferred tax is measured on a non-discounted basis. 
+Leased assets and obligations
+All leases are ‘operating leases’ and the annual rentals are charged to the profit and loss account on a straight line basis
+over the lease term.
+Pensions contributions
+The amount charged to the profit and loss account in respect of pension costs is the contributions payable in the year.
+Differences between contributions payable in the year and contributions actually paid are shown as either accruals or
+prepayments in the balance sheet. 
+Foreign currency translation
+Monetary assets and liabilities denominated in foreign currencies are translated into sterling at the rates of exchange ruling
+at the accounting date. Transactions in foreign currencies are recorded at the rate ruling at the date of the transaction.
+All differences are taken to profit and loss account.
+Turnover and profits
+Profit is recognised on long-term contracts, if the final outcome can be assessed with reasonable certainty, by including in
+the profit and loss account turnover and related costs as contract activity progresses.  Turnover is calculated as that
+proportion of total contract value which costs to date bear to total expected costs for that contract. 32 32
+Warthog plc
+Annual Report and Accounts for
+the year ended 31 March 2003
+Notes to the financial statements
+for the year ended 31 March 2003 
+1 Turnover and profit on ordinary activities before taxation
+The group’s turnover and profit before taxation were all derived from its principal activity.  Sales were made in the
+following geographical markets:
+Continuing Acquisitions Total
+Operations
+2003 2003 2003 2002
+££ £ £
+United Kingdom 2,561,319 37,829 2,599,148 423,640 
+USA 8,096,131 198,544 8,294,675 4,575,477 
+EC 523,315 – 523,3153,859,000
+11,180,765 236,373 11,417,138 8,858,117 
+2 Other operating expenses (net) 2003 2003 2003 2002
+££ £ £
+Administration expenses 1,433,440 226,103 1,659,543 1,142,358  
+3 Investment income 2003 2002
+££ 
+Bank interest receivable 35,267 77,536  
+4 Interest payable 2003 2002
+££ 
+On other loans 68,942 37,563  
+On late payment of tax – 1,028  
+68,942 38,591  
+5 Profit on ordinary activities Continuing Acquisitions Total
+Operations
+2003 2003 2003 2002
+££ £ £
+(Loss)/profit on ordinary activities before taxation is 
+stated after charging:
+Amortisation of intangible fixed assets 155,457 – 155,457 –
+Depreciation and amounts written off tangible 
+fixed assets:
+Charge for the year:
+owned assets 420,030 45,745 465,775 318,390  
+Auditors’ remuneration 19,250 3,807 23,057 16,500  
+Auditors’ remuneration in respect of non-audit fees amounted to £11,900   (2002: £22,800).
+Exceptional items
+Provisions totalling £1,313,726 have been made in the current year against the costs incurred in developing
+certain games.  The directors are of the opinion that these provisions are necessary in view of the financial status
+of certain of the parties that had originally contracted these games. 33
+Notes to the financial statements
+for the year ended 31 March 2003
+6 Employees 2003 2002
+Number Number
+The average monthly number of persons (including Directors) employed by the Group during the year was:
+Administration 23 17
+Technical and design 205 93  
+228 110 
+2003 2002
+££
+Staff costs for above persons:
+Wages and salaries 5,595,684 3,448,975  
+Social security costs 507,199 317,286  
+Other pension costs 254,691 153,706  
+6,357,574 3,919,967  
+2003 2002
+££
+Directors’ remuneration
+Emoluments 444,358 449,490  
+Amounts paid to money purchase pension schemes 20,168 15,458  
+Total emoluments 464,526 464,948  
+Number Number 
+The number of Directors to whom relevant benefits are accruing under
+money purchase pension schemes was: 5 5 
+2003 2002
+££
+Emoluments disclosed above include the following amounts paid to the highest paid Director.
+Emoluments for qualifying services 138,598 155,395  
+Group pension contributions to money purchase schemes 4,620 4,000 34 34 34
+Warthog plc
+Annual Report and Accounts for
+the year ended 31 March 2003
+Notes to the financial statements
+for the year ended 31 March 2003
+7 Taxation 2003 2002
+££
+Current tax:
+UK corporation tax at 30% on (loss)/profit of the year – 150,787 
+Adjustments in respect of previous periods (203,903) 6,639
+Total current tax (203,903) 157,426  
+Deferred tax:
+Origination of timing differences (174,011) 25,011
+Tax on (loss)/profit on ordinary activities (377,914) 182,437  
+Tax reconciliation:
+Factors affecting tax charge for the year.
+The tax assessed for the year is higher than the standard rate of 
+corporation tax in the UK of 30%  (2002 – 30%). 
+The differences are explained below:
+(Loss)/profit on ordinary activities before tax (790,705) 487,791
+(Loss)/profit on ordinary activities multiplied by the standard rate of
+corporation tax in the UK of 30% (2002 – 30%). (237,211) 146,337
+Effects of:
+Permanent timing differences 36,977 35,159
+Capital allowances in excess of depreciation 26,223 (5,698)
+Adjustment to tax charge in respect of previous periods (203,903) 6,639
+Tax (credit)/ charge for the year (377,914) 182,437
+8 Retained profit for the year
+As permitted by s230 Companies Act 1985, the company has not presented its own profit and loss account.  Of the
+retained loss for the year, a loss of £73,639  (2002 profit: £43,869) is attributable to the activities of the holding
+company.
+9 Intangible fixed assets intellectual 
+Goodwill property Total
+££ £
+Group
+Cost
+At 1 April 2002 – 6,818 6,818
+Additions 1,061,815 – 1,061,815
+At 31 March 2003 1,061,815 6,818 1,068,633
+Provision for diminution in value
+At 1 April 2002 – 6,818 6,818 
+Charge in the year 155,457 – 155,457
+At 31 March 2003 155,457 6,818 162,275
+Net book value
+31 March 2003 906,358 – 906,358
+31 March 2002 – – – 35
+Notes to the financial statements
+for the year ended 31 March 2003
+11 Fixed asset investments Shares in
+subsidiary
+undertakings
+£
+Group
+Cost
+1 April 2002 and at 31 March 2003 20,500
+Provision for diminution in value
+1 April 2002 and at 31 March 2003 20,500
+Net book value
+31 March 2003 –
+31 March 2002 –
+Shares in
+subsidiary
+undertakings Total
+££ 
+Company
+Cost and net book value
+At 1 April 2002 299,944 299,944
+Additions 886,000 886,000
+At 31 March 2003 1,185,944 1,185,944
+10 Tangible fixed assets Fixtures,
+Land and Computer fittings and
+building equipment equipment Total
+££££
+Group
+Cost or valuation
+1 April 2002 1,549,606 980,216 105,977 2,635,799  
+Additions 197,811 404,732 27,571 630,114
+Acquisitions – 198,660 11,424 210,084 
+31 March 2003 1,747,417 1,583,608 144,972 3,475,997 
+Depreciation
+1 April 2002 118,157 482,469 47,148 647,774  
+Charged in the year 87,468 350,400 27,907 465,775
+Acquisitions – 83,871 8,327 92,198
+31 March 2002 205,625 916,740 83,382 1,205,747 
+Net book value
+31 March 2003 1,541,792 666,868 61,590 2,270,250 
+31 March 2002 1,431,449 497,747 58,829 1,988,025   36 36 36 36
+Warthog plc
+Annual Report and Accounts for
+the year ended 31 March 2003
+Notes to the financial statements
+for the year ended 31 March 2003 
+12 Stock Group Company 
+2003 2002 2003 2002
+££ £ £
+Work in progress 1,634,034 1,470,342 – – 
+Work in progress relates to contracts in respect of which development costs are recoverable against royalties
+receivable after publication of the software.
+13 Debtors Group Company 
+2003 2002 2003 2002
+££ £ £
+Due within one year:
+Trade debtors 611,513 1,090,178 – – 
+Amount recoverable on long term contracts 4,072,811 2,361,984 – –
+Amounts owed by group undertakings – – 6,909,563 4,526,571
+Other debtors 480,623 98,498 5,193 27,759
+Deferred tax asset 323,101 – – –  
+Prepayments and accrued income 82,382 98,862 36,056 64,296  
+5,570,430 3,649,522 6,950,812 4,618,626  
+The deferred tax asset is recoverable in more than one year.
+11 Fixed asset investments continued
+The company holds more than 10% of the equity of the following undertakings:
+Country of Class of Proportion Nature of 
+incorporation holding directly held business 
+Subsidiary undertakings:
+Warthog Games Limited England and Wales Ordinary 100% Design and development
+shares of computer games
+Fever Pitch Studios, Inc U.S.A. Ordinary 100% Design and development
+shares of computer games
+42 Bit AB Sweden Ordinary 100% Design and development
+shares of computer games
+Zed Two Limited England and Wales Ordinary 100% Design and development
+shares of computer games
+Phatfish Limited England and Wales Ordinary 100% Dormant
+shares
+Roadhog Games Limited England and Wales Ordinary 100% Dormant
+shares
+Hallco 547 Limited England and Wales Ordinary 100% Dormant
+shares
+Hallco 548 Limited England and Wales Ordinary 100% Dormant
+shares
+The dormant subsidiaries are included at no value in the accounts and are excluded from consolidation on the
+grounds of immateriality. Zed Two is included at no value in the accounts, as the consideration is contingent on the
+results of the company over future periods. 37
+Notes to the financial statements
+for the year ended 31 March 2003 
+14 Creditors: amounts falling due within one year Group Company 
+2003 2002 2003 2002
+££££
+Payments received on account 142,657 157,596 – – 
+Trade creditors 375,559 340,897 200,099 98,885
+Corporation tax – 150,408 – 22,981  
+Other taxation and social security 227,499 133,995 57,211 20,728
+Other creditors 48,822 28,967 109,211 –
+Accruals and deferred income 616,730 494,755 161,462 56,471 
+1,411,267 1,306,618  527,983 199,065
+15 Creditors: amounts falling due in more than one year Group Company 
+2003 2002 2003 2002
+££££
+Other loans 1,500,000 1,137,992 200,000 600,000
+Repayable by installments:
+In more than one year but not more
+than two years 1,500,000 612,000 200,000 600,000
+In more than two years but not more
+than five years – 36,000 – –
+In five years or more – 489,992 – – 
+1,500,000 1,137,992 200,000 600,000
+The loan is secured by a debenture giving fixed or floating charges on all assets of the company.
+16 Provisions for liabilities and charges
+Deferred taxation provided in the financial statements and the unprovided potential liability is as follows:
+Group
+Unprovided liability Amount provided
+2003 2002 2003 2002
+££££
+Excess of tax allowances over depreciation – – – 25,011
+Tax losses available against future profits – – (149,000) –
+The movement on deferred taxation was as follows:
+£
+Balance at 1 April 2002 25,011
+Transfer to profit and loss account (174,011)
+Balance at 31 March 2003 (149,000) 38 38 38 38
+Warthog plc
+Annual Report and Accounts for
+the year ended 31 March 2003
+38
+Notes to the financial statements
+for the year ended 31 March 2003
+17 Share capital 2003 2002
+££
+Authorised:
+56,500,000 ordinary shares of 1p each 615,000 615,000  
+Allotted, issued and fully paid:
+48,182,057 (2002 – 46,149,773) ordinary shares of 1p each 481,820 461,497  
+On 5 April 2002 1,059,269 1p ordinary shares were issued at a premium of 38p in order to acquire the equity of
+42 Bit AB. As part of the acquisition 706,179 1p ordinary shares will be issued to the shareholders of 42 Bit AB
+contingent on the future activity of 42 Bit AB.
+On 4 February 2003 973,015 1p ordinary shares were issued at a premium of 18.1p in order to acquire the equity
+of Fever Pitch Studios Inc.
+Share disclosures
+The Group has granted options, which remain exercisable to subscribe for ordinary shares of 1p each, as follows:
+Period over
+Subscription which options Number of shares for which
+Grant date price per share are exercisable rights are exercisable
+Unapproved share options:
+1 January 1998 29p 31 December 2003 516,600
+4 January 1999 10p 5 January 2002 – 113,400
+4 January 2009
+14 November 2002 32p 14 November 2003 – 156,250
+14 November 2010
+Approved share options:
+7 December 2000 20p 7 December 2003 – 1,382,406
+7 December 2010
+5 November 2001 44.5p 5 November 2004 – 473,400
+5 November 2011
+Under the Group’s Enterprise Management Incentive scheme, employees held options at 31 March 2003 for
+2,598,980 un-issued ordinary shares (2002: 2,648,980) as follows:
+Period over
+Subscription which options Number of shares for which
+Grant date price per share are exercisable rights are exercisable
+Unapproved share options:
+7 December 2000 20p 7 December 2003 – 2,299,980
+7 December 2010
+5 November 2001 44.5p 5 November 2004 – 189,000
+5 November 2011
+21 December 2001 44.5p 21 December 2004 – 110,000
+21 December 2011 39
+Notes to the financial statements
+for the year ended 31 March 2003 
+18 Reserves Merger Share Profit and
+reserve premium Loss account
+£££
+Group
+1 April 2002 52,463 6,243,147 709,962
+Retained profit for the year – – (412,791) 
+Currency translation gain on foreign currency net investments – – 55,740
+On issue of shares – 592,423 – 
+Issue costs – (180,356) – 
+31 March 2003 52,463 6,655,214 352,911 
+Company
+1 April 2002 – 6,243,147 58,493
+Retained profit for the year – – (73,639) 
+On issue of shares – 592,423 – 
+Issue costs – (180,356) –  
+31 March 2003 – 6,655,214 (15,146) 
+19 Reconciliation of movement in shareholders’ funds Group Company 
+2003 2002 2003 2002
+££££
+Loss for the financial year (412,791) 305,354 (73,639) 43,869
+Currency translation gain on foreign 
+currency net investments 55,740 – – –
+Proceeds from issue of shares 432,390 1,977,092 432,390 1,977,092  
+Contingent share capital 286,885 – 286,885 –
+Net addition to shareholders’ funds 362,224 2,282,446 645,636 2,020,961
+Opening shareholders’ funds 7,467,069 5,184,623 6,763,137 4,742,176 
+7,829,293 7,467,069 7,408,773 6,763,137  40 40 40 40
+Warthog plc
+Annual Report and Accounts for
+the year ended 31 March 2003
+40 40
+Notes to the financial statements
+for the year ended 31 March 2003 
+20 Cash flows 2003 2002
+££ 
+a Reconciliation of operating (loss)/ profit to net cash inflow from operating activities
+Operating (loss)/ profit (757,030) 448,846  
+Depreciation and amortisation 621,232 318,390  
+Increase in stocks (163,692) (836,529)
+Increase in debtors (1,492,879) (2,716,268)
+(Decrease)/ Increase in creditors (591,525) 640,549
+Other non cash movements 55,740 – 
+Net cash flow from operating activities (2,328,154) (2,145,012) 
+b Analysis of cash flows for headings netted in the cash flow
+2003 2002
+££ 
+Returns on investments and servicing of finance
+Interest received 35,267 77,536
+Interest paid (68,942) (38,591)
+Net cash (outflow)/ inflow from returns on investments and servicing of finance (33,675) 38,945
+Capital expenditure and financial investment
+Purchase of tangible fixed assets (630,114) (1,096,774)
+Financing
+Issue of ordinary share capital – 2,102,932
+Issue costs (180,356) (113,837)
+Repayment of other long term loans (609,992) (12,000)  
+New loans 960,000 600,000 
+Net cash inflow from financing 169,652 2,577,095  
+c Analysis of net debt
+At At 
+1 April 31 March
+2002 Cash flow 2003
+£££
+Cash in hand and at bank 2,828,801 (2,469,313) 359,488 
+Debt due within 1 year (12,000) 12,000 –
+Debt due after 1 year (1,137,992) (362,008) (1,500,000)
+(1,149,992) (350,008) (1,500,000)
+Total 1,678,809 (2,819,321) (1,140,512)  41
+21 Purchase of subsidiary undertakings
+On 5th April 2002 the company acquired the entire share capital of 42 Bit AB. On 16th December 2002 the
+company acquired the entire share capital of Zed Two Limited. On 4th February 2003 the company acquired the
+entire share capital of Fever Pitch Studios Inc:
+42 Bit AB Zed Two Fever Pitch  Total
+Limited Studios, Inc
+££££
+Fixed Assets 77,707 10,801 28,527 117,035
+Deferred tax – 174,101 – 174,101
+Debtors 82,797 39,076 102,810 224,683
+Bank 85,582 (436) 157,114 242,260  
+Creditors (239,329) (348,994) (345,571) (933,894)
+6,757 (125,452) (57,120) (175,815)
+Goodwill 693,243 125,452 243,120 1,061,815 
+Consideration 700,000 – 186,000 886,000
+Discharged by:
+Shares allotted 700,000 – 186,000 886,000
+Cash ––––
+700,000 – 186,000 886,000
+The acquisition cost of 42 Bit AB includes contingent consideration of £286,885 which will be satisfied via the
+issue of a further 706,179 shares over the next 2 years subject to performance criteria being achieved by the
+management team.
+Under the terms of the acquisition of Zed Two Limited and Fever Pitch Studios, Inc., consideration of over £1.5m
+will be payable in the form of shares dependent on those companies’ profits over the next two years. Due to
+uncertainty over the current status of the contracts under development in these subsidiaries, as detailed in the
+Chairman’s Statement and Chief Executive’s Review, the directors consider a provision for these amounts to be
+inappropriate.
+The subsidiary undertakings acquired during the year contributed £(351,014) to the group’s net operating cash
+flows, received £1,132 in respect of net returns on investments and servicing of finance, paid £2,976 in respect of
+taxation and utilised £95,083 for capital expenditure.
+Analysis of the net outflow of cash in respect of the purchase of subsidiary undertakings 
+2003 2002
+££ 
+Cash consideration – –
+Cash at bank and in hand acquired 243,365 –
+Bank overdrafts acquired (1,105) –
+Net flow of cash in respect of the purchase of subsidiaries 242,260 –
+Notes to the financial statements
+for the year ended 31 March 2003  22 Pension commitments
+The company operates a defined contribution pension scheme. The assets of the scheme are held separately from those
+of the company in an independently administered fund. The pension cost charge represents contributions payable by
+the company to the fund and amounted to £254,691 (2002: £153,706).  
+23 Transactions with Directors
+During the prior year, Mr A Hall rented a personal property to the company on a commercial basis. No Rent was
+charged in the current year (2002: £10,260).
+24 Earnings per share
+Earnings and the number of shares used in the calculations of earnings per share are set out below:
+2003 2002
+££ 
+Basic:
+(Loss)/Profit after tax (412,791) 305,354
+Weighted average number of shares 47,344,052 42,593,312  
+EPS (pence) (0.87) 0.72  
+Fully diluted:
+(Loss)/ Profit after tax (412,791) 305,354 
+Weighted average number of shares 47,344,052 47,496,256  
+EPS (pence) (0.87) 0.64
+Weighted average number of shares
+2003 2002
+Number Number
+of shares of shares
+For basic earnings per share 47,344,052 42,593,312
+Share options in issue N/A 4,958,753
+Lapse of share options N/A (55,809) 
+For diluted earnings per share 47,344,052 47,496,256
+Basic and fully diluted earnings are the same due to the loss for the year.
+25 Control
+In the opinion of the directors there is no single controlling party.
+42
+Warthog plc
+Annual Report and Accounts for
+the year ended 31 March 2003
+Notes to the financial statements
+for the year ended 31 March 2003  47
+This report and financial statements contains many trademarks, the rights and ownership of which are recognised.  Microsoft and X-Box is the
+property of Microsoft, GameBoy Advance and GameCube are the property of Nintendo, PlayStation & PlayStation 2, (PS2) are the property of
+Sony.  Richard Burns Rally Championship, Looney Tunes: Back in Action, Harry Potter and the Philosopher’s Stone, Wolverine’s Revenge, Moto GP,
+Ice Age,Tom & Jerry, Star Trek, Rally Championship, Tiny Toon, Pirate Adventure, X-Men, Animaniacs, Battlestar Galactica, Looney Tunes, Harry
+Potter, Mace Griffin Bounty Hunter, ET, X10, are all owned by their respective owners.  All rights are recognised. Warthog plc
+10 Eden Place
+Cheadle
+Cheshire
+SK8 1AT
+Tel: 0161 608 1200
+Fax: 0161 610 3033
+E-mail: investor@warthog.co.uk
+www.warthog.co.uk

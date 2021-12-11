@@ -1,0 +1,154 @@
+ Chief Executive Ofﬁcer’s statement
+Business review
+Micro Focus International plc Annual report 2008 13
+Execution
+Over the past year, we delivered a strong set of ﬁnancial results
+and made another acquisition to further our strategic aims.
+We have successfully executed ahead of our initial expectations.
+Since the year end, the management team has been further
+strengthened with the appointment of Paul Rodgers as Worldwide
+Human Resources Director in May 2008 and Marc Andrews as
+Executive Vice President, Sales and Marketing in June 2008.
+Both individuals are highly experienced in the software industry.
+The sales team has been further strengthened and we will
+continue to invest to drive the business forward. It has been
+particularly encouraging to see the improved performance in
+our North American operation as well as continued excellent
+performances from our Europe and Rest of World operations.
+We continue to reﬁne our marketing and delivery capabilities
+with a ﬁrm focus on developing senior level contacts within our
+target customers. With signiﬁcant momentum building around
+the “modernisation message” it has been encouraging to see
+the Company establish itself as a thought leader in this area.
+While organic revenue growth is our primary focus, our strategy
+review, carried out in the six months to October 2006,
+highlighted the potential for further proﬁtable revenue growth
+through acquisitions. On 4 May 2007, we acquired Acucorp
+for $40.9 million. Acucorp provides technology that is highly
+complementary to Micro Focus’ core business in the COBOL
+Development Tool space as well as providing the opportunity for
+Micro Focus to expand its reach into the small and medium-sized
+enterprise (“SME”) markets.
+On 18 June 2008 we acquired NetManage, a software provider
+of technologies to transform core applications into new
+web-based business solutions. Combining the businesses of
+Micro Focus and NetManage will further strengthen Micro Focus’
+For over 30 years, Micro Focus has inﬂuenced and innovated
+in the Enterprise Applications market and we have built up
+a leading position in the Application Modernisation market.
+Major corporations are increasingly becoming aware that it is
+possible to obtain all of the required business beneﬁts through
+modernising existing applications, as opposed to implementing
+the high risk and costly alternative of rewriting these applications
+or replacing them with a packaged solution with little additional
+business beneﬁt.
+Micro Focus technologies and solutions are a driving force
+behind the day-to-day business success of many of the largest
+companies in the world, helping these organisations achieve
+competitive differentiation through modern, efﬁcient and low
+cost platforms. This proposition is particularly relevant against
+the backdrop of the uncertain economic outlook. 14 Micro Focus International plc Annual report 2008
+Business review
+Chief Executive Ofﬁcer’s statement
+Continued future revenue growth is largely dependent on driving
+licence sales. Our strategy review, undertaken in the six months
+to October 2006, identiﬁed the major growth opportunity
+around larger value licence fee transactions into the Global 2000
+(“G2000”) companies. It was encouraging that we again signed
+a number of these transactions in the year, including Boeing,
+Wal-Mart and RBS, carrying on from our success last year.
+Our solutions reduce cost, lower risk, and provide clear and
+compelling returns on investment for our customers. Whilst we
+recognise the current uncertain macro economic conditions, the
+defensive characteristics of our business model, combined with
+the relevance and compelling nature of our solutions, lead us to
+view the current year with conﬁdence. Our ambition is to achieve
+double digit organic growth, at constant currencies, over the
+longer term whilst maintaining our EBITDA margin.
+A robust and sustainable market exists to support our growth
+strategy. Our key focus remains on organic growth although
+we continue to review the potential for further acquisitions to
+enhance the value of our business, as evidenced by the recent
+acquisition of NetManage in June 2008 and Liant Software
+Corporation in July 2008.
+Stephen Kelly Chief Executive Ofﬁcer
+position as a leading player in the growing Application
+Modernisation market and provide the enlarged Group with
+further opportunities for growth through a more comprehensive
+and broader product offering. Due to the complementary nature
+of the two businesses from a market, product and ﬁnancial
+perspective, we are well placed to deliver value from this
+acquisition and look forward to implementing the integration
+of the NetManage business.
+We continue to invest in expanding our solution set as well
+as extending our partnerships with other technology companies,
+system integrators and outsourcers to take advantage of the
+considerable market opportunity open to us.
+Summary and outlook
+We are encouraged by the progress made over the past year
+reﬂecting the strong fundamentals of the business.
+Micro Focus beneﬁts from having a business model with a high
+proportion of predictable and recurring revenue. Of licence
+revenues, which made up 49.7% of Group revenues in the year,
+the majority comes from high volume, low value transactions
+which are supplemented by larger value transactions, the size
+and volume of which we are seeing increase. Approximately one
+third of licence revenues come from royalties from other software
+companies, which provides additional predictability.
+Maintenance revenues, which made up 45.6% of Group revenues
+in the year, are secure and robust. Maintenance revenue growth
+is driven by the retention of existing customers as well as the
+addition of new maintenance revenue associated with the sale
+of new licences. An encouraging performance in both of these
+areas in the year provides high levels of revenue visibility going
+forward. The smallest proportion of our revenue is derived from
+our consultancy services and it is intended that this revenue will
+remain a similar proportion of total revenue in the coming year. Business review
+Micro Focus International plc Annual report 2008 15
+Penetrating international markets
+with a ground-breaking application
+strategy
+Tesco’s competitiveness in retail depends in no small part on its highly effective IT systems. This is
+especially true for its innovative Continuous Replenishment (“CR”) system, which drives store
+ordering. This highly sophisticated system resides on an IBM z/OS mainframe in the UK and Tesco
+needed to make it available to the rest of its group.
+A platform-independent common operating model (Retail)
+Micro Focus Application Migration and Modernisation offering was
+chosen to port the CR application to the IBM System p server running
+the AIX operating system and integrate it with the existing Oracle Retail
+solution. Elements of Tesco’s Common Operating Model are already in
+place and beneﬁting some of its businesses. Micro Focus modernisation
+expertise is not only helping Tesco maintain the momentum behind this
+strategic IT project, but is also playing a key role in the development of
+its presence in the United States.
+Product solution
+Micro Focus Application
+Migration and Modernisation
+Micro Focus Studio
+Micro Focus Server
+TESCO 16 Micro Focus International plc Annual report 2008
+Business review
+Extracting more value from
+legacy assets
+CSC’s Financial Services Group wanted to create a new, economical package to help its financial
+services customers run critical mainframe-based applications on a lower-cost environment, such
+as a desktop or server. It was already providing Micro Focus Mainframe Express, Enterprise Edition,
+to those customers using its VANTAGE-ONE
+®
+solutions who wanted to do their own development
+work. To create the new package it supplemented this with Micro Focus Server to enable
+deployment to new platforms.
+The new solution enables thousands of programmes that would
+normally run on a mainframe environment under CICS and JCL to run
+in a lower-cost Windows server environment. The server-based solution
+reduces deployment charges and increases runtime. Clients are
+impressed to see an industrial strength application running so quickly
+with the server-based solution. Micro Focus Mainframe Express enables
+CSC to deliver more system capability to its clients. It also saves the
+Company cost and improves its own productivity. It estimates overall
+cost savings from improved productivity to be 40%.
+Product solution
+Micro Focus Mainframe
+Express Edition
+Micro Focus Server
+A new solution at lower cost (Finance)

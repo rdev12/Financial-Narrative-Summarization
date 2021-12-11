@@ -1,0 +1,397 @@
+ 6
+Anite
+Annual report and accounts 2009 Chief Executive’s review
+Section B
+Review
+Overview of the year
+In my ﬁrst review as Chief Executive, I am delighted to be able to
+report that Anite is in a robust condition. In what was an extremely
+challenging economic environment, our Wireless and Travel Divisions
+both performed well in the year, while the sale of our Public Sector
+Division was a further demonstration of our commitment to
+refocusing our business.
+The divisional results were achieved despite the ongoing
+consolidation among our customers in the travel industry and the
+long development phase of 4G – the next-generation mobile phone
+technology – having an impact on our revenue. In addition, the sale
+of our Public Sector Division enabled us to reduce our bank
+borrowings, to focus our resources on our core businesses, and to
+pay a special dividend to our shareholders. As a result of the sale the
+Group now employs fewer people and has lower sales, but margins
+and proﬁts are higher than they were ﬁve years ago and our balance
+sheet is much stronger.
+Our revenue and operating proﬁt beneﬁted from signiﬁcant currency
+movements during the year, volatility which directly resulted from the
+global economic crisis. Currency and interest changes also, however,
+had an impact on the value of the Company’s investments and
+hedging liabilities. In short, the sterling value of our underlying
+euro-denominated asset – represented by our Network Testing
+business – increased, but was matched by a rise in the total value of
+our derivative ﬁnancial liabilities taken out at the time of its purchase.
+Delivering shareholder value continues to be imperative: during the
+year we returned cash to shareholders through a special dividend,
+increased the ordinary dividend, cancelled shares through a share
+consolidation and began buying back shares.
+Our markets
+Anite is structured into two market-facing divisions: Wireless and
+Travel. Wireless is further structured into two operations: Handset
+Testing and Network Testing. Handset Testing provides specialist
+systems and software to enable mobile phone manufacturers to
+bring new handsets and data cards to market quickly. Network Testing
+provides a range of systems which enable mobile phone operators
+to test the efﬁciency and effectiveness of their networks, as well as
+of different makes of handset, in live situations. Travel provides
+industry-leading reservation systems to tour operators, airline
+consolidators, and cruise, ferry and rail companies.
+Wireless
+Handset Testing
+Our Handset Testing business, based in Fleet, Hampshire, provides
+customers with a single expandable platform to test new handsets’
+viability, conformance with industry standards and ability to
+interoperate with multiple networks and other devices.
+The main drivers of growth in Handset Testing are the constant
+changes and improvements in mobile phone technology and the
+number of new handset models which are launched each year.
+These, combined with the different conﬁgurations used by network
+operators, mean that before mobile phones are ready to be sold they
+must go through development testing to ensure functionality;
+conformance testing to ensure they meet industry standards; and
+interoperability testing (IOT) to ensure they are able to communicate
+with multiple networks and other devices. Older technologies do not
+become redundant when new generations are introduced and any
+new testing regime must also incorporate the means to test them.
+Our strongest market has historically been in conformance testing,
+but we have recently strengthened our position in IOT and are
+working with our hardware partner, Agilent, on the development of
+our new system for 4G (LTE) testing. Our initial system, which has
+secured early market position with key LTE customers, will be
+replaced by an Agilent hardware-based system in due course.
+Full functionality will be progressively introduced during 2009
+and enhanced during 2010. In common with all our competitors,
+the very nature of this leading-edge development programme
+means that risks remain around the timing and delivery of the
+completed products.
+Performance
+We achieved a growth in proﬁts this year, despite a minor decline in
+revenue from legacy products and an increase in development costs
+for our 4G testing solutions. Since a large proportion of Handset
+Testing’s revenue is in US dollars and euros – while the majority of its
+cost base is in sterling – the business beneﬁted from the appreciation
+of the US dollar and the euro against sterling.
+During the year, we made good progress in the development of
+our software for testing 4G devices and are already supplying key
+customers with our own initial systems. We also restructured the
+business: new management and sales executives have resulted in the
+business becoming more market facing and we have now established
+regional Directors in each major geographic area: Europe and the
+Middle East, Asia and the Americas.
+“We continue to execute our strategy and I am confident
+that the work we will undertake during the current financial
+year will help us to build foundations for future growth,
+to ride out the prevailing economic storm and to deliver
+shareholder value.”
+Christopher Humphrey
+Chief Executive 7
+Anite
+Annual report and accounts 2009
+Section B
+Review
+Our wireless
+customers include:
+LTE (Long Term Evolution)
+The introduction of next-generation devices (such as smart
+phones and data dongles) has created a rapidly increasing demand
+for data services: it is predicted that over the next ﬁve years mobile
+data trafﬁc will increase 100-fold. Network operators face a limit
+on how much trafﬁc existing networks can support, yet competition
+from WiFi hotspots and wired broadband limits their ability to
+charge for data transmission at rates comparable to those for voice
+calls. This clearly represents a long-term threat to their proﬁtability.
+As a result, the network operators are constantly seeking faster,
+more efﬁcient, and cheaper ways to deliver data.
+By the end of 2007 , it was clear that 4G LTE (Long Term Evolution)
+had gained wide acceptance as the most effective and universal
+technology to deliver the high data capacity that is needed.
+LTE enables network operators to support more subscribers on
+their spectrum allocations at a reduced cost per bit. To date,
+31 major operators around the globe, including industry giants
+AT&T, Verizon and Vodafone, have committed to LTE for their
+4G networks from 2010.
+Anite has backed LTE since its inception and continues to invest
+strongly in products to support its introduction. Working with key
+mobile equipment manufacturers, our initial LTE testing solution is
+already being used to test around ten devices. We expect to be able
+to supply our customers with our proprietary testing system during
+the current ﬁnancial year and for LTE to begin to make a signiﬁcant
+impact on our revenue during 2010/2011.
+Trafﬁc volume Network cost
+(existing technologies)
+Revenue
+Proﬁtability
+Network cost
+(LTE)
+Time
+Data dominated Voice dominated
+The case for LTE
+Network operators
+require low cost/bit
+technologies to
+remain profitable 8
+Anite
+Annual report and accounts 2009 Chief Executive’s review
+Section B
+Review
+We also strengthened the Handset Testing management team with
+a number of senior appointments, including Mike Bonin, formerly
+Managing Director of TEMS, the network testing division of Ericsson,
+as Managing Director.
+Strategy
+Our objective is to complete our basic products for testing 4G
+devices and to supply customers with a common platform which has
+been customised to their particular needs for development testing,
+conformance testing and interoperability testing.
+Outlook
+The current year will be affected by the continuing cyclical lull
+between testing different generations of handsets and by a one-off
+customer-led additional £4m investment that we are making in our
+LTE solutions. Following the strong take-up of smart phones and the
+consequent growth of data revenues there is undoubtedly a very
+strong case for LTE rather than any other technology and, by the end
+of the current ﬁnancial year, we expect to have made further
+signiﬁcant progress in the development of our offer and to have
+generated additional revenues from LTE in the ﬁnal quarter.
+It is currently not possible to predict the rate of growth and
+customers’ take-up of next-generation devices, but we are conﬁdent
+that our proprietary testing equipment will be in demand. While we
+do not expect to see a signiﬁcant return on our investment in the
+technology until 2010/201 1,it will ultimately broaden our market and
+will conﬁrm our position as one of the leaders in testing 4G devices.
+Network Testing
+Our Network Testing business (Nemo), based in Oulu, Finland, provides
+the measurement tools to enable mobile network operators to verify,
+test and improve coverage and quality; to test the effect of new services
+on existing networks; and to compare the performance of different
+manufacturers’ mobile phones in the same environments to enable
+mobile network operators to choose the best handsets to endorse.
+Performance
+In a challenging market, we deﬁed the general trend and improved
+our market position and proﬁtability by winning new customers.
+The introduction of 3G in China brought new business, and we also
+increased our market share elsewhere in Asia and in other emerging
+markets. Nevertheless, following the general decline in economic
+conditions, the second half of the year was characterised by
+customers reducing their operating budgets and making short-term
+deferrals of expenditure.
+We ﬁnished the year with an increase in proﬁts, which, as elsewhere in
+Anite’s business, was helped by the translation of euro-denominated
+proﬁts into sterling.
+Strategy
+We focus on winning and retaining customers by being ﬁrst with
+new technology, by providing excellent after-sales service and
+technical support, and by maintaining strong relationships direct
+with customers or through local distributors on three continents.
+Outlook
+In the short term, we predict that the visibility of sales and
+customers’ budgets will become more uncertain and this, combined
+with the recent trend of a weakening euro, is likely to result in the
+current ﬁnancial year being more challenging than that of 2008/2009.
+In the longer term, we expect growth to continue in developing
+countries, particularly in the emerging markets of Africa, India and
+Latin America.
+In common with Handset Testing, each evolution of technology
+creates a demand for new testing and, as mobile phone use
+expands around the world and technology continues to develop, the
+longer-term prospects for our Network Testing business are positive.
+Travel
+Our Travel Division, based in Slough, Berkshire, is a leading supplier
+of reservation, content management and Customer Relationship
+Management (CRM) software for holiday companies, airline
+consolidators and packaged holiday operators.
+Performance
+We continued to make good progress in our relationship with TUI
+Germany, now Europe’s leading travel group, during the year. We are
+putting into live operation the second phase of our contract with the
+company – implementing @comRes reservations software across
+its operations in central Europe – and have recently been contracted
+by TUI to build the third phase. In addition, since the year end we
+have signed an initial contract for @comRes with REWE, Germany’s
+third-largest tour operator.
+Signiﬁcant projects in this business tend to come in uneven
+blocks and our results for the year should be viewed against the
+exceptionally high value multi-year orders taken in the previous year.
+Revenue and proﬁt in 2008/2009 were better than expected, but
+were inﬂuenced by a number of one-off events. Balkan Holidays has successfully completed its
+migration to Anite’s @comRes booking platform.
+“We believe the system offers us the ﬂexibility to
+further grow our business in the challenging and
+changing market that faces us. The transactional
+cost structure of Anite’s @com bureau service also
+allows us to accurately manage costs and relate
+them to our actual business volumes.”
+9
+Anite
+Annual report and accounts 2009
+Section B
+Review
+@comRes
+Anite’s browser-based @comRes software is redeﬁning
+technology for the travel market and supporting two
+key developments.
+First, the change in the way people take and book their holidays
+which means that travel operators need a technology platform
+which can offer both the traditional package holidays and support
+the trend towards bespoke short breaks.
+As a result, travel companies are demanding an increasingly
+sophisticated technology platform which can deliver personalised
+offers with relevant up-sell and cross-sell capabilities consistently
+delivered across a range of their distribution channels, including
+travel agents, call centres and, increasingly, the internet.
+Many consumers now use the internet to seek a wide range
+of offers, comparing prices and creating their own holidays
+on-line. These changes have placed increasing pressure on travel
+operators’ margins which, in turn, has led to recent
+consolidation across the industry.
+Now, the combination of the economic downturn and high
+fuel costs is encouraging holidaymakers to return to the
+security of holidays, organised by the major ATOL
+licensed holiday brands. This supports Anite’s strategy of
+positioning @comRes for the mid to upper tier of global
+travel companies.
+Second, the major vertically-integrated groups (VIGs),
+who own their own ﬂights, accommodation and
+distribution need to reduce costs by streamlining their
+end-to-end process from product contracting through to
+distribution. Anite has invested heavily in this area in the
+last 12months tightly integrating @comRes with its
+mobile contracting (MCS) and Brochure Pricing (BPS)
+solutions. This combination of technology is increasingly
+supporting the business case for change in these VIGs.
+TUI Travel plc’s Central European Source
+Market is undertaking a three-year
+migration programme onto the Anite
+Travel @comRes platform. It is being
+implemented in three phases for a
+number of countries, including Germany,
+Switzerland and Austria.
+RESERVATIONS
+CRM
+CONTENT MANAGEMENT
+FINANCE
+@com eBusiness Suite
+@com eBusiness Suite
+PROCUREMENT
+SCHEDULED FLIGHT NET DEALS
+PRICE MODELLING
+CONTRACTING
+DISTRIBUTION
+WEB SERVICES IN-HOUSE
+WEB
+SUPPLIER GATEWAY
+GDS • LCC ACCOMMODATION
+FERRY & TRAIN
+MISCELLANEOUS
+CREDIT CARD AUTHORISATION
+RESORT MANAGEMENT
+@comRes
+We believe we have secured a market-leading position in
+terms of functionality, performance and scalability, allowing
+lower cost mainstream technology hardware and power to
+be deployed, while enabling access to computer resources over
+the internet (cloud computing) and charging for software on a
+usage basis (SaaS). This has been borne out by our system’s
+enthusiastic take-up by leading travel operators, including
+Europe’s largest travel group, TUI.
+We continue to design reﬁnements to the software and, in looking
+at travel as part of a larger leisure market, are considering what
+other types of transactional based opportunities might beneﬁt
+from our technology and its ﬂexibility. “I expect the current trading year to be challenging,
+particularly in the first half, given the impact of our additional
+investment in LTE and the effect of customer changes in
+Travel. The longer-term outlook for our new travel system
+and its international market, and for the growing adoption
+of LTE technology is, however, very positive.”
+Christopher Humphrey
+Chief Executive
+10
+Anite
+Annual report and accounts 2009 Chief Executive’s review
+Section B
+Review
+The economic climate put pressure on end consumers’ disposable
+incomes with the result that travel operators were also under
+pressure. In September 2008 our customer XL, which had been
+the UK’s third-largest tour operator, went into administration.
+In 2007, major consolidation took place in the UK when Thomson
+(TUI) and First Choice merged, and Thomas Cook acquired MyTravel.
+TUI achieved synergies by bringing Thomson and First Choice
+together and moving them onto the reservations system which was
+already in use at Thomson, and Thomas Cook moved the MyTravel
+business to the Thomas Cook system. Since First Choice and MyTravel
+were both our customers these changes had an impact on our results.
+The termination of the MyTravel contract added £2.3m to proﬁt, but
+the loss of the two companies as clients will affect future revenues.
+Since 2004 the Travel business unit had supplied managed IT services
+to Norwich Union (NU) for one of its ﬁnancial services products; this
+was non-core business for us which had grown from a small, initial
+contract. At the end of the ﬁnancial year, NU moved this product
+platform to another ﬁnancial services provider. This, too, will reduce
+revenue and proﬁt in 2009/2010.
+We re-energised our Travel business when we strengthened its
+management team during the year and appointed Mike Kingswood,
+formerly Managing Director of our Public Sector business,
+as Managing Director. This has not only improved leadership,
+but has also revitalised the division’s strategic direction.
+Strategy
+Over the past three years we have invested heavily in @comRes,
+our comprehensive and versatile browser-based reservations system.
+Our objective is to capitalise on its ability to handle ﬁxed and ﬂexible
+packaging, component-based travel, dynamic packaging and all
+specialist operations from a single system, to enable us to continue
+our overseas expansion. In the short term, we foresee our growth
+as being in Germany, and central and eastern Europe. We already
+operate a sales ofﬁce in Cologne, Germany, and are strengthening
+our resources in that country.
+In addition, we plan to migrate customers who use our legacy ATOP
+system to @comRes, and also to change our revenue model to one
+in which we license the system to customers on an annual basis. This
+will have beneﬁts on both sides: it will reduce the initial capital cost
+for customers and will augment our recurring revenue in the future.
+Outlook
+Business failures and consolidation are undoubtedly putting the travel
+industry under pressure. On a pro-forma basis, we estimate that the
+effect of the one-off customer events detailed above has reduced
+Travel’s revenues by £11m,and operating proﬁts by £6m on an
+annualised basis. We aim partly to mitigate this reduction through
+new business and the migration of existing customers from ATOP
+to @comRes.
+In the medium term we are conﬁdent that we will be able to
+accelerate the installation rate of our increasingly conﬁgurable
+and feature-rich @comRes product at customers in the UK and
+overseas. It is scalable and robust, and we have a proven reputation
+for developing and installing software that works. We believe that
+customers’ increasing conﬁdence in our @comRes software will
+enable us to maximise the shareholder value that is inherent in
+this product.
+Group strategy
+Our longer-term strategy is unchanged – to put Wireless at the heart
+of our business – but we are currently committed to operating two
+successful divisions: Wireless and Travel. We will continue to look at
+world markets for the organic growth of both businesses, to improve
+margins and to maintain strong operational cash ﬂow.
+Equally, we will continue to invest in the development of our market-
+leading software, and will take advantage of our strong balance sheet
+and ﬁnancial position to invest in carefully-considered complementary
+acquisitions, particularly in the network testing market.
+Group outlook
+I expect the current trading year to be challenging, particularly in the
+ﬁrst half, given the impact of our additional investment in LTE and the
+effect of customer changes in Travel. The longer-term outlook for our
+new travel system and its international market, and for the growing
+adoption of LTE technology is, however, very positive.
+We continue to execute our strategy and I am conﬁdent that the work
+we will undertake during the current ﬁnancial year will help us to
+build foundations for future growth, to ride out the prevailing
+economic storm and to deliver shareholder value.
+Christopher Humphrey
+Chief Executive
+30 June 2009

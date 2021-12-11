@@ -1,0 +1,477 @@
+ 03 Lombard Risk Management plc Annual Report and Accounts 2010
+summaRy The year saw the Company 
+making steady progress. While 
+we incurred a loss for the year 
+ended 31 March 2010, the board 
+believe that the work done in the 
+year has laid the foundation for 
+growth in future periods. This 
+has subsequently been seen in 
+the first few months of the year 
+ending 31 March 2011, during 
+which we have registered year 
+on year growth of over 30% 
+per annum. In the collateral 
+management software business 
+we continued to win contracts 
+and grow organically, while 
+implementation at the major Tier 1 
+Continental European bank 
+announced in April 2009 
+progressed through the year 
+and resulted in acceptance in 
+April 2010. In the regulatory 
+compliance business a lot of 
+work was performed ahead 
+of the major new UK Financial 
+Services Authority (“FSA”) 
+regulations on Liquidity 
+Standards, which have provided 
+a major revenue opportunity; 
+however since these regulations 
+were finalised later than expected, 
+in October 2009, and software 
+was not ready until April 2010, 
+the revenue recognised in the 
+year ending 31 March 2010 
+was negligible. During the year 
+we raised equity funds that 
+eliminated all our borrowings 
+and strengthened our balance 
+sheet. In the post-financial crisis 
+environment in which customers 
+and investors are more risk averse 
+than usual, these were all events 
+that took us in the right direction.
+Revenues for the year increased 
+by 3% to £8.95m (2009: £8.69m). 
+Our loss after tax was £1.58m 
+(2009: £1.16m) but this included 
+£0.11m of interest and, following 
+a thorough review of revenue, one 
+time provision in respect of bad debts 
+from previous periods of £0.18m.
+We invested heavily in resource 
+for COLLINE
+®
+ during the year, 
+although much of that investment 
+was to support a major contract 
+and other large contracts. The 
+Risk and Trading business traded 
+profitably, so that more than 
+100% of the loss was in the 
+Regulatory Compliance business 
+which represented 47% of 
+revenues. The weakness in the 
+regulatory business in the first 
+half was expected as few final 
+decisions were being taken by UK 
+regulatory customers before the 
+FSA had finalised its policy on 
+liquidity, and the weakness in the 
+second half was primarily an issue 
+of revenue recognition owing to 
+the extended regulatory deadlines. 
+An appreciable number of 
+contracts were won during 
+the second half, but the revenue 
+will be recognised in the year 
+ending 31 March 2011.
+In the post-crisis international 
+financial environment, there is 
+a move away from a light touch 
+regulatory regime in the UK and 
+in many other countries, and there 
+is little if any sign of this changing 
+following the change of UK 
+Government. In the UK this 
+began with a complete reform 
+of Liquidity Reporting and the 
+board believes that this move away 
+from light touch regulation offers
+...continued 
+growth
+CHief 
+exe Cutive 
+Offi Ce R’s 
+statement
+_0_LRM_ar10_front.indd   3 10/09/2010   13:15:59 04 Lombard Risk Management plc Annual Report and Accounts 2010
+summaRy COntinued considerable opportunity to the 
+Company in the coming years. 
+As well as the Liquidity Standards 
+announced by the FSA, new FSA 
+policy statements on Stress Testing 
+have been published and FSA 
+consultation papers have been 
+published about Capital Standards 
+which are likely to lead to more 
+regulatory change in 2011 and 
+2012. There are considerable 
+regulatory opportunities in all the 
+countries in which the Company 
+operates, with world regulators 
+seemingly close to an agreement 
+on a “Basel 3” capital regime.
+The Board considers that the 
+outlook for our COLLINE
+®
+ collateral 
+management software remains 
+promising with strong new 
+business demand expected 
+to continue, including switching 
+away from competitor systems 
+to COLLINE
+®
+ together with likely 
+revenue growth from existing 
+customers. The Company has now 
+proved the scalability and resilience 
+of the product (i.e. its ability to 
+cope with large volumes and to 
+withstand the loss of individual 
+servers without ceasing to 
+function) through its deployment 
+in a leading Tier 1 Continental 
+European bank operating in 
+an international environment. 
+Given that most of our revenues 
+come from banks and financial 
+services companies, the Board 
+considers that the Company’s 
+products are well placed with an 
+emphasis on collateral management, 
+liquidity and regulatory compliance. 
+We are the global number 2 in 
+both collateral management 
+software and in bank regulatory 
+reporting software.
+finanCial Revenues for the year increased 
+by 3% to £8.95m (2009: £8.69m). 
+Our loss after tax was £1.58m 
+(2009: £1.16m) but this included 
+£0.11m of interest and a one-time 
+provision in respect of bad debts 
+from previous periods of £0.18m 
+following a thorough review. 
+Stripping out these items would 
+have shown a reduced underlying 
+loss of £1.3m and an adjusted cost 
+base of £10.2m for the year. Net 
+cash was £0.7m at 31 March 2010 
+(2009: £0.15m less £1.33m of 
+director loans).
+promising  
+outlook...
+CHief 
+exe Cutive 
+Offi Ce R’s 
+statement
+COntinued
+_0_LRM_ar10_front.indd   4 10/09/2010   13:15:59 05 Lombard Risk Management plc Annual Report and Accounts 2010
+tR ading and RisK 
+sOftwaRe pROduCts 
+As anticipated in former statements, 
+the financial crisis has been 
+beneficial for our COLLINE
+®
+ 
+collateral management software 
+product. This product now 
+handles substantially all of the 
+key requirements of a collateral 
+business including margining, 
+repo and securities lending, 
+trade reconciliation, inventory 
+management and reporting 
+including regulatory reporting 
+(e.g. for Fed-15 reports and 
+outputs to regulatory liquidity 
+reporting). During the year we 
+completed projects with Loomis, 
+Sayles & Co, Pacific Life, ABN-
+AMRO and began a project with 
+BNP Paribas Securities Services. 
+We also made good progress 
+with implementation of a major 
+contract with a Tier 1 Continental 
+European bank concluded at the 
+end of the financial year ended 
+31 March 2009, and have 
+demonstrated COLLINE
+®
+’s 
+scalability, resilience and 
+performance in that bank’s own 
+environment using active-active 
+clustering in multiple data centres, 
+user locations in three continents 
+and well over 150 users. This 
+means that the Board has every 
+confidence that our solution is 
+scalable from the smallest collateral 
+user to the largest global bank. 
+Oberon
+®
+, our most established 
+product, continues to move 
+forward with functional and 
+performance enhancements 
+and remains profitable. 
+During the year we launched our 
+LISA
+®
+ product and we have now 
+signed up several new customers 
+for it. LISA
+®
+ will be a risk product 
+which is complementary to our 
+regulatory products, starting with 
+Liquidity Risk and using the most 
+modern technology. Lombard Risk 
+has always been strong on risk 
+management and the Board 
+considers that the convergence 
+of risk and regulation plays 
+to our strengths.
+RegulatORy and COmplianCe 
+sOftwaRe pROduCts Lombard Risk is the market leader 
+for UK Bank regulatory reporting 
+with approximately 130 of 
+the 350 banks in the UK and 
+approximately 15 investment firms 
+in the UK using the STB-Reporter 
+product for regulatory reporting 
+to the FSA. 
+This depth of customer base clearly 
+gives the Company opportunities 
+to sell additional functionality 
+to existing customers. When the 
+announcement of new regulations 
+is imminent there tends to be a lull 
+in activity before those regulations 
+are actually finalised and this was 
+the case during the year with the 
+FSA ’s final new regulations on 
+Liquidity Reporting and Liquidity 
+Stress Testing not being published 
+until October 2009. Consequently 
+there was very little revenue in the 
+period under review from this 
+source except from analysis work 
+on the impact of the consultation 
+papers. The Company has now won 
+The financial highlight of the 
+period was the raising of £2.83m 
+of equity, of which £1.75m was 
+from institutions and investors on 
+AIM, and the balance of £1.08m 
+was in either new money or loan 
+conversions from Directors and 
+former Directors. After deduction 
+of fees and expenses of around 
+£0.2m, this allowed the Company 
+to repay all its Director loans of 
+£1.63m and its overdraft, reduce 
+its creditors to a lower number 
+of creditor days, as well as retain 
+a reserve for working capital.
+Recurrent revenue has historically 
+been a healthy proportion of 
+revenues at the Company. Recurrent 
+annual revenues for the Group were 
+at around £4.4m p.a at the year 
+end (2009: £4.3m). In addition, 
+the revenue profile remains fairly 
+well spread. This recurrent number 
+has continued to grow during the 
+current financial period and as 
+a result of contracts already won, 
+the Board expects this to grow 
+throughout the remainder of the 
+current period.
+...major tier 1  
+bank accepts colline
+®
+_0_LRM_ar10_front.indd   5 10/09/2010   13:16:00 06 Lombard Risk Management plc Annual Report and Accounts 2010
+strengthened 
+governance...
+CHief 
+exe Cutive 
+Offi Ce R’s 
+statement
+COntinued
+RegulatORy and COmplianCe 
+sOftwaRe pROduCts COntinued 30 contracts related to this initiative 
+for Liquidity Reporting or Liquidity 
+Stress Testing, and is very busy 
+rolling out the solution to these 
+customers in the current financial 
+year. The FSA has also ended up 
+changing its originally stated plans 
+to subject all foreign bank branches 
+to UK Liquidity Reporting, and many 
+such firms were able to negotiate 
+modifications/waivers to these rules. 
+The Liquidity Reporting and Stress 
+Testing regulatory regime which 
+comes into effect in the UK in 
+2010 seems likely to be followed 
+in 2011 by new Capital Standards 
+and Stress Testing and there is a 
+timetable for regulatory change 
+including a new “Basel 3” accord. 
+This opportunity is by no means 
+confined to the UK, although the 
+Board believes that the weight of 
+our customer base gives us more 
+ability to leverage the opportunity 
+in the UK than elsewhere.
+The Board considers that the 
+Company’s ability to offer global 
+solutions has been greatly enhanced 
+through our now having regulatory 
+offerings available or under 
+production for several EMEA 
+and Asian countries as well as 
+the United States. Our Singapore 
+office made a number of worthwhile 
+product wins including business 
+in Singapore, won away from our 
+main competitor, and we obtained 
+our first two customers for 
+Japanese reporting. 
+peRsOnnel and pRemises
+During the period under review 
+we continued to make new hires 
+appropriate to the expected 
+growth of parts of the business 
+but we also benefited from cost 
+actions taken before the financial 
+year end. We continue to take 
+actions designed to establish 
+profitability in all parts of the 
+business and to re-allocate 
+resources to those parts of the 
+business where we see the best 
+prospects. The Board intends that 
+costs will continue to be contained 
+overall and that they are reduced 
+as a percentage of any revenue 
+rises as proportionately more work 
+is carried out in Shanghai and 
+we achieve greater efficiency gains. 
+We now have more than half of 
+our Group headcount in Shanghai.
+I agreed to split my combined 
+Chairman and Chief Executive 
+Officer role at the time of the 
+institutional fund-raising, and 
+the Board and I were delighted 
+to welcome Philip Crawford as 
+our  new Non-executive Chairman 
+from 1 May 2010. At the same 
+time Mike Shinya joined as a 
+Non-executive Director. Both Philip 
+and Mike have very heavyweight 
+experience as senior executives in 
+the IT industry at large companies 
+such as EDS and Oracle and their 
+experience will help take the 
+Company forward to the next level. 
+While so many people worked 
+hard during the year, special 
+thanks are due to the teams 
+in London and Shanghai led by 
+Nick Davies and Helen Bramley 
+who did so much to ensure the 
+success of major Colline projects. 
+Many late nights were worked 
+by many to ensure that 
+deadlines were met. 
+At Board level special thanks 
+are due to Ian Peacock, our 
+Non-executive Deputy Chairman, 
+who retires at the AGM. Ian has 
+been with the Company for over 
+ten years in various capacities 
+and I have always valued his wise 
+counsel and incisive questioning 
+over that time. Thanks are also 
+due to Chris Langridge who 
+joined us in April as COO and 
+Finance Director to help us 
+with some of our strategic 
+initiatives including cost cutting. 
+Chris will not be standing for 
+re-election at the AGM and 
+a permanent replacement 
+will be announced shortly.
+_0_LRM_ar10_front.indd   6 10/09/2010   13:16:00 07 Lombard Risk Management plc Annual Report and Accounts 2010
+...30 contracts won for  
+liquidity reporting
+software, should be well positioned 
+to take advantage of this. 
+I would like to thank all my 
+colleagues, as well as our advisors 
+Allenby Capital, Grant Thornton 
+UK LLP , Memery Crystal and 
+others, for their hard work and 
+support and further to thank 
+our customers and investors 
+alike for their support of us.
+JOHn wisBey CHief exeCutive OffiCeR
+pROspeCts The Group has seen more than 
+30% year on year revenue growth 
+in the first four months of the 
+current financial year, and taking 
+into account recurrent revenue 
+and the contracted revenues which 
+the Board believes should be 
+recognisable by 31 March 2011, 
+this is a promising start to the new 
+financial year. We continue to see 
+a healthy sales pipeline for our 
+COLLINE
+®
+ collateral management 
+software following the substantial 
+Tier 1 Continental European bank 
+going live. In addition, the Board 
+believes that some of the new 
+regulatory driven industry initiatives 
+on central counterparty and 
+messaging should help us win 
+additional business. In addition 
+the Board foresees no end to the 
+increase in bank and securities 
+firm regulation, and is optimistic 
+that this will have a positive 
+effect on the Group’s regulatory 
+compliance business, albeit that 
+this benefit will continue to come 
+in waves with peaks and troughs 
+in demand around regulatory 
+deadlines. The climate for the 
+next few years is for mandatory 
+additional spend on regulation. 
+The key issue for us is what share 
+of this spend the Group can achieve 
+and the scale of investment required 
+to make this a major international 
+profit opportunity for us, rather 
+than whether that opportunity exists. 
+In this changing environment the 
+Board continues to believe that, 
+as changes in legislation are 
+adopted and credit risk and 
+liquidity risk management are ever 
+more tightly controlled, risk and 
+regulatory software will be in 
+demand. Lombard Risk, as 
+the global number 2 in both 
+collateral management software 
+and bank regulatory reporting 
+_0_LRM_ar10_front.indd   7 10/09/2010   13:16:01

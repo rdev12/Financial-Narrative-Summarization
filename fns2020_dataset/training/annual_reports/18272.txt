@@ -1,0 +1,3461 @@
+ digital protection
+rotecting 
+privacy 
+    security in  
+an online world
+Annual Report 2015
+Defenx PLC With more malicious 
+computer software  
+being created daily,  
+Defenx provides  
+trusted protection,  
+aimed at keeping the 
+world safe while online.
+Overview
+Highlights 1
+At a glance 2
+Strategic Report
+Chairman’s statement 4
+Our markets 6
+Our technology 8
+Our strategy 10
+Strategy in action 14
+Chief Executive Officer’s review 16
+Financial review 18
+Principal risks and uncertainties 21
+Corporate Governance Report
+Board of Directors 22
+Chairman’s statement on governance 24
+The Board 24
+Audit committee report 26
+Remuneration report 28
+Directors’ report 31
+Statement of Directors’ responsibilities 32
+Financial Statements
+Independent Auditor’s Report to  
+the members of Defenx PLC 33
+Consolidated statement of 
+comprehensive income 34
+Consolidated statement of 
+financial position 35
+Consolidated statement of 
+changes in equity 35
+Consolidated cash flow statement 36
+Company statement of financial position 37
+Company statement of changes in equity 37
+Company cash flow statement 38
+Notes to the consolidated 
+financial statements 39
+Other information
+Notice of AGM 58
+Company information 61
+Track record 62 Defenx PLC
+Financial Statements
+Annual Report 2015 1
+Strategic Report Governance
+• Over 3.1 million licences sold to date with 937 ,000 
+active licensed users of Defenx software at the 
+year end
+• 70% of revenues from software for mobile devices
+• 88% year-on-year revenue growth to €4.5 million
+• Fourth consecutive year of profitable growth – 
+operating profit before exceptional AIM admission 
+costs of €979,000 (2014: €805,000)
+• Successful admission to AIM raising €3.0 million 
+(£2.1 million) in gross proceeds to fund software 
+development and sales growth
+Financial
+“ 2015 has been a year of good progress  
+for Defenx. We have continued to grow  
+the business financially and are delighted 
+to report that we finished the year  
+slightly ahead of market expectations.  
+We successfully completed our IPO  
+on AIM in December where  
+we raised £2.1 million  
+to invest in our business.”
+  —  Anthony Reeves
+      Chairman
+• Launched Defenx Mobile Security Suite for iOS  
+and Enterprise NAS antivirus software (under  
+the Seagate Security brand)
+• Key customer 3Italia (Italy’s Three network) 
+launched Defenx-branded security software, which 
+is available online and in their ‘3Stores’ across Italy
+• Won two major channel partners, one of whom 
+bundles Defenx Security Suite with its mobile 
+device insurance and generated over €1.4 million  
+in sales in the first year
+• Windows 10 launch – Defenx Mobile Security Suite 
+now addresses the top three smartphone operating 
+systems and over 90% of the market worldwide
+• Established management, reporting and systems 
+suitable for AIM and to support future growth; 
+appointed two Non-executive Directors, including 
+our Chairman, significantly strengthening the Board 
+of Directors
+Operational
+Financial
+operational highlights
+€4.5 million
+revenue
+88%
+year-on-year revenue growth
+3.1 million
+licences sold to date Chairman’s Statement page 4 Defenx PLC Annual Report 2015 2 Defenx PLC Annual Report 2015 2
+Founded in 2009, Defenx is a fast-growing and 
+profitable security software company that offers a 
+range of products for the mobile, PC and network 
+security markets. Defenx security software is  
+priced competitively, fully featured and efficient 
+(reduced use of memory, processing capacity and 
+therefore power).
+A flexible marketing strategy, focused on white label and profit-share 
+arrangements with distributors, telecoms companies and hardware 
+manufacturers, enables Defenx to compete with established industry 
+incumbents. Since inception, Defenx has sold over 3.1 million security 
+software licences, primarily in Europe, the Middle East and Africa.
+Defenx’s global distribution partners currently include 3Italia, the fourth 
+largest Italian mobile network operator, and Seagate Technology, a world 
+leader in disk drive manufacturing, amongst others including telecoms 
+operators, systems integrators and original equipment manufacturers. 
+Defenx was admitted to trading on AIM on 3 December 2015, raising  
+€3.0 million to accelerate its growth through new channel partners  
+and product development.
+Who we are 
+what we do
+€1.35 million
+invested in our products in 2015
+€3.0 million
+raised to accelerate growth
+Our products
+Total Security
+Our complete solution to protect all  
+your devices combining Defenx Mobile 
+Security Suite for Android, iOS or 
+Windows and Defenx Security Suite  
+for PC.
+Cloud Backup 
+Defenx Cloud Backup provides backup, 
+synchronisation and sharing of your 
+most important ﬁles, such as 
+documents, music, video and pictures of 
+your family. If your computer or mobile 
+device breaks, is stolen or if the ﬁle is 
+corrupted or removed by mistake, there 
+will always be a copy available in the 
+Defenx Cloud.
+Multi-device
+At a glance Defenx PLC
+Strategic Report Governance Financial Statements
+Annual Report 2015 3 Defenx PLC
+Strategic Report 
+Annual Report 2015 3
+What is malware?
+Malware, which is short for malicious software, 
+is a general term used to refer to a variety of 
+forms of hostile or intrusive software. It is 
+software used to disrupt computer operation, 
+gather and distribute sensitive information,  
+or gain access to private computer systems. 
+Malware can also cause direct financial loss by 
+sending premium SMS messages, consuming 
+your data allowance, and abusing personal 
+banking and credit card information obtained  
+on your device.
+Malware includes computer viruses, 
+ransomware, worms, trojan horses, rootkits,  
+key loggers, diallers, spyware, adware, malicious 
+browser-helper objects, rogue security software 
+and ‘govware’ and other malicious programs.
+Malware can also take the form of code,  
+scripts, active content and other software  
+that exploits weaknesses in commonly used 
+software. The most common end-point exploits 
+in 2015 used well known software including 
+Internet Explorer, Adobe Flash, Adobe Reader, 
+Microsoft Silverlight and Java. 
+End-points, such as PC and mobile devices, are 
+targeted because they contain specific user 
+information that is used for gaining access to 
+privileged or protected networks. 
+How do you protect yourself?
+There are some simple yet effective measures 
+anyone can take. Keeping your device up-to-
+date significantly cuts the chances that exploits 
+work because vendors work hard to patch 
+vulnerabilities.
+For the security conscious, using browser 
+add-ons that check web addresses against 
+known lists of malicious sites, block Adobe Flash 
+and disable scripts is also an effective way of 
+thwarting malicious redirections although it  
+can affect the browsing experience.
+The effective solution is to adopt a layered 
+approach: maintain a fully patched device  
+with the latest OS update together with  
+anti-malware protection.
+The problem
+Security Suite
+Defenx Security Suite offers 360° 
+protection with mail and website 
+ﬁltering, antivirus and a ﬁrewall 
+ensuring the safety of your data and 
+preventing hacker exploitation. We 
+keep your PC protected and let you 
+use it with full peace of mind.
+Mobile Security Suite
+Security and privacy
+Information on the device,  
+apps behaviour and potentially 
+malicious activity is monitored  
+by Defenx to thwart data theft 
+and keep your device safe.
+Theft protection
+Defenx theft protection 
+features give you the tools  
+you need to ﬁnd a lost device 
+and to help you get a stolen 
+device back.
+Utility
+The Defenx dashboard 
+provides you with a quick  
+view of your device to manage 
+applications, scanning 
+schedules and activity. 
+Antivirus
+Defenx Antivirus protects you from 
+malware keeping your PC safe. 
+Whether a security novice  
+or expert, you can conﬁgure Defenx 
+Antivirus to suit your needs.
+Desktop Mobile devices
+Our technology page 8 Defenx PLC Annual Report 2015 4
+Hard work
+progress
+Dear shareholder
+I was delighted to be asked to join the Board of Defenx in 
+October 2015 prior to its successful AIM IPO in December 
+2015. Although we have only been a listed company for a short 
+time, I believe that we have made much progress across the 
+business and confidence is high. It is thanks to the hard work 
+put in by our talented management team, as well as those 
+working across and with the business, that we have been able 
+to make this progress and give us the foundation from which to 
+grow our operation.
+Highlights
+I am pleased that in our maiden results as a listed company, 
+Defenx has reported an 88% increase in revenue to €4.5 million 
+and an operating profit before exceptional AIM admission costs 
+of €979,000, making this our fourth consecutive year of 
+profitable growth. At the turn of the year, over 900,000 
+Defenx users around the globe were protected by our software 
+and security updates.
+The IPO in December together with the funds raised 
+strengthens our balance sheet and gives us the flexibility to 
+invest in sales and technology, and consider acquisitions where 
+they complement our strategy for growth.
+“We have had a strong start to 2016, launching 
+Windows Phone 10 and Defenx Cloud Backup 
+products. I would like to take this opportunity to 
+thank our staff and shareholders whose hard 
+work and support have facilitated the growth 
+seen in 2015, which we hope to continue.”
+Chairman’s statement Defenx PLC
+Strategic Report Governance Financial Statements
+Annual Report 2015 5
+As a company we have worked hard in 2015 to bring together 
+a team that has the right combination of sector knowledge 
+and corporate experience to enable us to deliver on our vision 
+and strategy. We have also taken the opportunity to structure 
+the business for growth with new employment terms, 
+systems and procedures.
+Board and management
+Along with my arrival on the Board, Defenx also secured the 
+services of Leonard Seelig as Non-executive Director. Leonard 
+chairs the Audit Committee and sits on the Remuneration 
+Committee, which I chair. Philipp Prince joined Defenx as our 
+CFO in July 2015 and has many years’ experience in corporate 
+finance at BDO where he was a partner. Philipp comes to us 
+from Enecsys, a Silicon Valley-based business.
+The senior management team is led by our founder,  
+Andrea Stecconi, CEO and includes Guido Branca, COO, highly 
+experienced in IT and telecoms systems implementation, 
+Mauro Celentano, Technical Director and Angelo Motti, 
+Commercial Director.
+Outlook
+So far in 2016, we have launched Defenx Mobile Security 
+Suite for Windows 10 along with updates for Android and iOS. 
+Our strategic partnership with Memopal saw the launch of 
+Defenx Cloud Backup, which has already generated significant 
+interest from our channel partners. Meanwhile development 
+continues on products aimed at families and SMEs, which are 
+discussed in more detail in the CEO’s review.
+This is an exciting time to be part of Defenx as we seek to 
+build on the momentum from 2015. As a profitable and 
+fast-growing mobile security solutions company, I am 
+confident Defenx will have an exciting 2016. The whole 
+Board looks forward to meeting shareholders at the AGM on 
+Wednesday 22 June 2016.
+Anthony Reeves
+Chairman
+18 April 2016
+Key milestones
+2009
+• Defenx SA launched in Switzerland
+• Defenx Security Suite launched for PC
+2010
+•  Defenx Security Suite for  
+Windows networks launched
+2012
+•  Defenx Mobile Security Suite launched  
+for Android
+• Generated ﬁrst proﬁt on sales of €1.1 million
+2013
+•  Mobile Security Suite for Android IP bought  
+out from developer
+2014
+• Defenx PLC incorporated
+•  Private placing raising €1.3 milion  
+after expenses
+• NAS Antivirus launched for Seagate NAS drives
+2015
+•  Defenx Mobile Security Suite launched for iOS
+• AIM IPO raising €2.1 million after expenses
+2016
+•  Defenx Mobile Security Suite launched for 
+Windows 10 Phone
+• Defenx Cloud Backup launched Defenx PLC Annual Report 2015 6
+The market
+opportunity
+The mobile security market is growing 
+rapidly, there are now more mobile devices 
+than people on the planet
+1
+.
+Smartphone usage is increasingly ubiquitous: at the end of 
+2014, there were 3.6 billion mobile subscribers worldwide, 
+equivalent to over 50% of the world’s population. A further 
+billion unique subscribers are predicted to join the market by 
+2020 of which 65% will be smartphone users. Over half of the 
+world’s population will soon have access to a smartphone.
+We now use our smartphones far more than a PC, but 
+smartphones are more than a mobile computer. They are 
+virtually always on and connected to the Internet, sending and 
+receiving data, much of it personal, some of it private and 
+sensitive, including: 
+• banking and finance;
+• health and well-being;
+• political views and affiliations; and
+• sexual preferences and orientation.
+Aside from the right to keep one’s data private, key aspects  
+of society rely on data privacy. This includes attorney-client 
+privilege and the protection of journalistic sources. In parts of 
+the world, data privacy can be the difference between freedom 
+and imprisonment, and even life and death.
+With the increasing acceptance in the business world of bring 
+your own device (BYOD), corporate data is also accessed  
+and stored on mobile devices not directly managed by the 
+employer. The loss and theft of commercially sensitive and 
+confidential data is now a major boardroom challenge.
+Then there is data we are not necessarily aware is captured by 
+our devices. For example, call and messaging history, detailed 
+browsing and location history.
+In the wrong hands, all this data can and is being used by 
+criminals. In 2015, there were 431 million new malware 
+variants created, an increase of 36% from the previous year
+2
+.
+Market share
+Mobile devices
+¢ Android 81% 
+¢ Other 19%
+1 Mobile Economy Report 2015, GSMA.
+2 Internet Threat Security Report April 2016, Symantec.
+3 Mobile Security Market Global Forecast to 2019, Markets and Markets.
+Our markets
+3.6 billion
+Mobile subscribers
+1.8 billion
+PCs
+$5. 7 5 billion
+Mobile security market in 2019 Defenx PLC
+Strategic Report Governance Financial Statements
+Annual Report 2015 7
+43 1 million
+New pieces of malicious  
+software created in 2015
+Desktop
+¢ Windows 88%
+¢ Other 12%
+36%
+An increase of
+Mobile security threats
+Social engineering – the art of manipulating people so 
+they give up confidential information – is increasingly 
+common. 
+Phishing attacks – messages purporting to  
+be from reputable companies to induce individuals to 
+reveal personal information, such as passwords and 
+credit card numbers – originally sent as emails are 
+common now across messaging platforms (SMS, 
+FaceTime, WhatsApp, Snapchat and Facebook 
+Messenger).
+Mobile devices are vulnerable as they switch across 
+different networks, particularly unsecured WiFi 
+hotspots. Cybercriminals can easily gain access to 
+devices, steal data and install software without the 
+user ever knowing what is happening.
+Thanks to the growing interconnectedness 
+of devices and increased awareness of the 
+potential damage caused by computer 
+infections, the mobile security market is 
+estimated to grow from $1.5 billion in 2014 
+to $5.75 billion by 2019
+3
+.
+We all protect our PCs, but until now it seems few have 
+considered mobile security to be necessary or important. We 
+believe that 2015 may well be looked back on as ‘Year Zero’ for 
+awareness of the threat.
+Now is the right time to be targeting this market. Defenx PLC Annual Report 2015 8
+Mobile security
+technology
+Defenx is a mobile security solutions 
+technology business with a strategy to: 
+• Own and develop security solutions to protect against  
+data loss and theft.
+• Market these security solutions to individuals, families  
+and SMEs.
+• Partner with providers of complementary security solutions 
+to broaden our product range.
+Defenx is focused first on mobile devices. However, we realise 
+that the market is constantly evolving and converging. For 
+example, tablets like the iPad sit between the smartphone  
+and PC, but all are now connected to the Internet. Users 
+increasingly want a solution protecting all of their connected 
+devices since any one device can become the weak link. Our 
+solutions are therefore designed for mobile devices, PCs and 
+other network connected devices such as Network Attached 
+Storage (NAS) devices and, during 2016, smart TVs and set-top 
+boxes. We see bundled products protecting multiple devices 
+becoming more popular with customers.
+Our product range currently comprises: 
+• Defenx Mobile Security Suite – protection from data loss, 
+viruses and other malware intrusion*, phishing and other 
+attack for Google’s Android, Apple’s iOS and, since April 
+2016, Microsoft’s Windows 10 operating system.
+• Defenx Security Suite and Defenx Antivirus – full 360º  
+PC protection from data loss and hacker exploits for 
+Windows XP, Vista, Windows 7, 8 and 10.
+• NAS Antivirus currently sold as Seagate Antivirus with  
+their 2, 4, 6 and 8-bay NAS and NAS pro drives providing 
+antivirus protection with daily updates, email updates and 
+event driven notification.
+• Since March 2016, Defenx Cloud Backup provides backup, 
+synchronisation and sharing of data on Windows, Apple and 
+Linux PCs as well as Android, iOS and Windows 10 devices.
+In 2015, we invested €1.35 million (2014: €1.21 million) in our 
+products. Our design ethos is to create easy to use, effective 
+and lightweight software that protects users with minimal 
+impact on processor, memory and battery resources. We want 
+users to enjoy using their devices in the knowledge they are 
+protected but undisturbed by Defenx software.
+We focus first on Android not only because it is the 
+worldwide market leading mobile platform, but also because 
+as an open system it has been the most attacked platform. 
+However, our channel partners satisfy the needs of Apple 
+and Microsoft users too. So we seek to provide solutions for 
+the full range of devices and operating systems.
+So far in 2016, we have launched Defenx Mobile Security 
+Suite for Windows 10 and Defenx Cloud Backup. Defenx 
+Privacy Advisor and Mobile Device Management for families 
+and SMEs will also launch soon as we continue to broaden 
+the Defenx product offering.
+Our technology
+*  Android only since Apple iOS and Windows 10 currently provide their own malware protection. Defenx PLC
+Strategic Report Governance Financial Statements
+Annual Report 2015 9
+Virus scanner
+Defenx guards your device 
+against millions of viruses, 
+spyware, adware and harmful 
+applications. Information will 
+be gathered and sent to our 
+server for assessment.
+Locate
+Is your device missing? 
+Stolen? Use our web 
+portal to locate your 
+device, there you will  
+be shown on Google  
+Maps the exact location 
+with a pin.
+SMS/MMS ﬁltering
+Defenx offers complete 
+control of SMS and MMS 
+messages. The easy-to-use 
+module will help you minimise 
+SPAM by identifying them as 
+either welcome (whitelist) or 
+unwelcome (blacklist).
+Anti-phishing
+Defenx protects your 
+personal data when browsing 
+through websites which are 
+considered unsafe, blocking 
+access to the website and 
+taking you back to a safe 
+landing page.
+Lock & wipe
+Log in to mdm.defenx.com 
+from any browser to  
+quickly lock your device  
+or delete your personal  
+data if it is missing or stolen.
+App manager
+Get a view of all your installed 
+and running applications,  
+drill down to see speciﬁc 
+information associated  
+with each application.
+App locking
+Defenx can add an extra 
+layer of security by locking 
+personal applications like 
+Amazon, Facebook, or 
+WhatsApp.
+SIM protection
+In the event of a SIM change, 
+notiﬁcation will be sent via 
+email and SMS, allowing you 
+to respond quickly in the 
+event of theft.
+Scanner scheduler 
+To ensure your device is 
+always malware free, with 
+Defenx Scheduler you can 
+plan weekly scans. Simply 
+choose your favourite days 
+and set the time; Defenx  
+will do the rest.
+Safe browsing
+This Defenx module  
+allows the user control of  
+the browser so that entire 
+categories of websites  
+can be blocked.
+Activity log
+With the activity log, you can 
+have a quick summary of 
+what events the Defenx 
+application has performed 
+and when.
+Security & privacy Theft protection Utilities
+Defenx Mobile Security Suite for Android 
+Our Android solution keeps your data protected, prevents 
+malware intrusions, provides anti-theft features and filters  
+your messages with the following features: Defenx PLC Annual Report 2015 10 Defenx PLC Annual Report 2015 10
+Our strategy
+Delivery 
+growth
+Route to market
+Defenx sells to businesses who already 
+have customer relationships with potential 
+end-users for our products and solutions.
+This strategy is not just about cost-effective distribution.  
+We seek also to improve our channel partners’ revenues  
+and margins by providing a value-adding proposition for  
+their customers.
+We do this by:
+• Sharing revenue with channel partners not only on  
+the initial sale, but also on subsequent renewals –  
+we do not disintermediate our channel partners.
+• White labelling to allow our channel partners to build  
+their brands.
+• Integrating with our channel partners’ sales and marketing, 
+billing and other IT systems.
+In essence, we help our channel partners discuss security 
+issues with their customers, generating more trusting 
+relationships, incremental sales and brand loyalty. In turn, 
+we gain valuable insight into what our end-users want in 
+their security solutions.
+We call this our business-to-business-to-consumer (B2B2C) 
+strategy. It is not common in the industry and, we believe, 
+provides Defenx with competitive advantages in speed to 
+market, customer acquisition cost and retention.
+Channel partners provide marketing support through sales 
+force training, point-of-sale support, marketing activities, 
+and display and advertising materials in order to protect 
+and project the Defenx brand.
+Defenx products End-users
+Mobile
+Individuals
+Te lc oms
+Distributors
+Resellers
+OEMs 
+Device manufacturers
+System integrators
+Content aggregators
+Families
+SMEs
+Desktop  
+Cloud
+Network security
+Channel partners Defenx PLC
+Strategic Report Governance Financial Statements
+Annual Report 2015 11 Defenx PLC
+Strategic Report Governance Financial Statements
+Annual Report 2015 11
+Strategy in action page 14
+Our channel partners include:
+• Telecoms operators – mobile security is becoming a must-have that 
+operators can promote as a value added service to increase revenues  
+and margins.
+• Distributors and resellers – many end-users buy mobile devices and PCs 
+in-store where the addition, for example as part of a bundle, of a security 
+solution can increase retailers’ sales and margins.
+• Device manufacturers – hardware is often commoditised with  
+bundled software the key way to differentiate products in the  
+eyes of the consumer.
+• System integrators – security is now a critical component of most  
+IT systems.
+• Other vendors – many other businesses ﬁnd a security solution helps to 
+drive sales and margins.
+Addressable market
+3.6bn
+Mobile subscribers
+1.8bn
+PCs
+‘Billions’
+Network devices Defenx PLC Annual Report 2015 12
+Our strategy continued
+Geographical focus
+Our focus is Europe – our home and likely to  
+become the region with the strongest privacy 
+regulations – Asia, the Middle East and Africa (MEA) 
+and Latin America. We do not directly market into 
+North America, Russia or China since these markets 
+are well served domestically and, more importantly, 
+appear to be diverging from Europe in their approach 
+to privacy .
+The smartphone market in emerging markets is growing rapidly 
+due, in part, to sales of low and mid-price smartphones. Africa 
+is a particularly interesting market for Defenx. In 2012, there 
+were 79 million smartphone connections in Africa; by 2018, 
+this figure is expected to rise to 412 million
+1
+. Africa is already  
+a world leader in mobile money, with the adoption of mobile 
+banking growing exponentially and a proliferation of digital 
+ventures and services. We expect this growth to translate into 
+multiple opportunities to sign-up new channel partners.
+Strategic partnerships
+As a result of the growing number of channel partners, Defenx 
+provides an ideal sales platform for technology businesses 
+without their own marketing capacity and expertise. While 
+Defenx’s strategy is focused on identifying market needs, 
+developing and owning its own software, we can sometimes 
+move faster by partnering with other technology owners.
+In January 2016, we announced a strategic partnership  
+with Memopal Srl (see box). Memopal has developed its own 
+multi-language Cloud backup, synchronisation and file sharing 
+software solution for PCs and mobile devices. 
+We see a perfect fit between Defenx’s security solutions 
+(making devices safe) and Cloud backup (making data secure)  
+to provide more effective device protection. Security+Backup= 
+Protection. For example, rolling back to an earlier copy of data 
+from an uninfected backup is currently the best way to deal 
+with ransomware; now a rapidly growing problem.
+Since March 2016, our product range has included a Defenx-
+branded Cloud backup and sync solution sold on a revenue 
+sharing basis with Memopal.
+Your Board will continue to seek out similar technologies to 
+broaden Defenx’s product offering. We will carefully consider 
+the acquisition strategy – M&A, licensing or strategic 
+partnership – subject to the availability of funding and the 
+interests of Defenx and shareholders.
+¢ Trading: 
+Republic of the Congo, Ireland,  
+Italy, Malta, Switzerland, UAE
+¢ New wins: 
+Brazil, Netherlands, Iran,  
+Italy, UK, Ukraine
+¢ Selected prospects: 
+Egypt, Germany, India, Japan,  
+Mexico, Nigeria, South Korea,  
+Spain, Turkey Defenx PLC
+Strategic Report Governance Financial Statements
+Annual Report 2015 13
+Channel and geographic targeting 
+The Board segments the market by channel and geography. The cost, timeframe and risk profile of investment varies 
+significantly by market. The Board seeks to balance these attributes in growing sustainable sales and building long-term 
+shareholder value.
+Defenx currently classifies and targets channel partners as follows: 
+Channel Selected partners
+2
+• Telecoms operators – mobile security is becoming a must-have that operators  
+can promote as a value added service to increase revenues and margins
+3Italia (Italy), Du and Etilsat (UAE),  
+MCI (Iran)
+• Distributors and resellers – many end-users buy mobile devices and PCs in shops 
+where the addition, for example as part of a bundle, of a security solution can 
+increase retailers’ sales and margins
+Brigantia (UK), Media Web (Italy),  
+Total Import Solutions (Ireland) 
+• Device manufacturers – hardware is often commoditised with bundled software 
+being the key way to differentiate products in the eyes of the consumer
+Seagate (France and US)
+• System integrators and other vendors – security is now a critical component of 
+most systems and solutions necessary to drive sales and margins
+Aggregando (Brazil), Metrological 
+(Netherlands), Memopal (Italy),  
+Safe Active (Italy)
+1 Africa Telecoms Outlook 2014, Informa Telecoms & Media.
+2 Channel partners and other direct customers of the Group and their customers. Defenx PLC Annual Report 2015 14
+Strategy in action
+Seagate T echnology
+Seagate, a leader in hard disk technology, sought  
+an antvirus solution for factory installation on 
+consumer and small enterprise Network Attached 
+Storage (NAS) drives. Defenx was one of only a  
+few to respond to their tender for a multi-OS  
+aware solution.
+Following 12 months’ development, the consumer solution was 
+launched in 2014 followed by the enterprise solution in 2015.
+Solving challenges
+getting results
+3Italia
+During 2015 we became 3Italia’s anti-malware 
+provider. Providing Defenx Mobile Security to 
+their mobile customers will increase their ARPU. 
+Since we share revenue with them month-in, 
+month-out they also benefit from increased 
+margins in an increasingly competitive market.
+We have integrated with their systems allowing their 
+customers to be billed monthly; something other providers 
+are often reluctant to do. 3Italia sends text messages and 
+emails promoting Defenx Mobile Security, which is sold 
+online and in their 3Store retail outlets.
+Memopal strategic partnership
+In January 2016, we announced the strategic 
+partnership with Memopal Srl. The partnership 
+demonstrates our ability, through our channel 
+partners, to distribute complementary security 
+solutions to end-users.
+Memopal, based on the Pi Campus in Rome (www.picampus.it), 
+developed its own software for Cloud storage and sync. 
+Memopal provides users with backup, file synchronisation and 
+sharing for an annual fee as well as licensing its technology to 
+corporate users and channel partners who operate their own 
+Cloud storage facilities.
+Since March 2016, our product range has included a Defenx-
+branded Cloud backup solution sold on a revenue sharing basis 
+with Memopal. Defenx PLC
+Strategic Report Governance Financial Statements
+Annual Report 2015 15
+Sales Resource Management (SRM) system 
+We launched the SRM system, a proprietary Cloud-based 
+licence sales and tracking tool for distributors and their 
+resellers, in late 2014. It offers significant benefits to both 
+Defenx and its distributors:
+• Distributors have an easy to use inventory management 
+platform to purchase licences, monitor their sales and  
+track end-user licence activation on a 24/7 basis. Licence 
+activation data allows distributors to anticipate licence 
+expiry, make contact with customers and generate  
+renewal revenue.
+• Defenx can monitor distributor activity and licence sales  
+in real-time on an individual, but also aggregated basis.  
+As the use of the SRM system increases, this data will 
+provide valuable insight in customer demand, licence usage 
+and renewal activity by product, channel and geography.
+As at the end of 2015, the SRM system was used by 
+four distributors who, in turn, manage 120 resellers. 
+Distributor feedback has been extremely positive and 
+we expect the SRM system to help attract and retain 
+distribution channel partners. Defenx’s additional sales 
+and marketing overhead for a new distributor using the 
+SRM system is far lower than managing the customer 
+relationship by phone and email.
+Mobile device insurer
+Our largest customer in 2015, an insurer of mobile 
+devices, bundles Defenx Security Suite with its 
+mobile device insurance.
+In response to an increasingly commoditised insurance market 
+they sought means to generate sales and improve margins. 
+Bundling physical and digital security was the solution. In the 
+first year, our share of revenue was over €1 million. Defenx PLC Annual Report 2015 16
+Chief Executive Officer’s review
+Tran sform ation
+development
+Dear shareholder
+A year of transformation 
+2015 was a transformative year in the development of Defenx.
+We successfully joined AIM, the junior market of the London 
+Stock Exchange, on 3 December after a year of hard work.  
+I am pleased that the shareholders who invested in our 
+private placing during 2014 have seen this next stage of 
+development and an uplift in the value of their investment.  
+I hope they and our IPO investors will continue to support us 
+on our journey.
+The IPO is also important for the Group as not only does it 
+give us access to equity capital markets as we seek to grow 
+the business, but it has also resulted in enhanced governance 
+and improved disciplines which we implemented in 
+preparation for our IPO. 
+You have already heard from our Chairman on the 
+appointments to the Board. We have also improved our 
+infrastructure across the organisation by formalising 
+employment contracts, introducing new remuneration 
+structures aligned with our strategy and implementing 
+cloud-based systems that facilitate the production of, and 
+access, to sales and financial information and reports.
+Delivering the strategy
+Defenx’s strategy can be framed simply as technology 
+marketing: we know how to develop security software  
+and market solutions to meet the needs of end-users.
+During the year we successfully launched Defenx Mobile Security 
+Suite for iOS, the Enterprise NAS software for our storage partner, 
+Seagate, and completed the systems integration with 3Italia 
+enabling them to bill customers on a monthly basis from their 
+webstore and over 3,000 outlets across Italy.
+At the start of 2015, two new channel partners joined us.  
+I am pleased to report that they both exceeded the annual 
+sales targets set at the outset. We also implemented new 
+agreements with channel partners under which Defenx 
+provides a contribution towards their marketing activities, 
+payable in arrears, but only if they achieve the pre-agreed  
+sales targets. We expect this to increase the effectiveness  
+of marketing activities undertaken by our channel partners  
+and to improve our working capital position.
+By 31 December 2015, agreements have been signed with 
+seven major distributors who, in turn, have access to hundreds 
+of resellers across Europe, the Middle East and Africa. In 2016, 
+we intend to further Defenx’s marketing efforts across Africa, 
+Asia and Latin America. Defenx PLC
+Strategic Report Governance Financial Statements
+Annual Report 2015 17
+Our in-house Sales Resource Management (SRM) system allows 
+our partners to save time and costs, so they can easily manage 
+licence inventory and reordering. The SRM control panel allows 
+resellers to see when their customers are ready for renewal and 
+plan marketing campaigns to renew or up-sell. The SRM can be 
+accessed online 24 hours a day, seven days a week, 365 days  
+a year. 
+Product development
+Using the proceeds of the private placing from 2014, we were 
+able to continue the development of our software. Immediately 
+following the IPO, our software developers started work on a range 
+of upgrades and new products at an expected cost of around  
+€2 million. In April 2016, we announced the launch of Defenx 
+Mobile Security Suite for Windows 10 and Defenx Cloud Backup.
+Defenx Mobile Security Suite for Windows 10 Phone was the 
+first major product release since the IPO and delivers on the 
+commitment made at the time to complete the development of 
+full Windows 10 and PC compatibility. Defenx Mobile Security 
+Suite, already available for Android and iOS, now runs on over 
+90% of smartphone platforms.
+Defenx Cloud Backup significantly expands our product 
+portfolio. It offers online backup, synchronisation and sharing 
+of files across multiple mobile and desktop devices. The suite 
+of features, such as online-only access to free up memory/disk 
+space, unlimited version history and selective backup, is 
+commonly not available with other products. Defenx Cloud 
+Backup is available in 16 different languages.
+New feature and upgrade work continues for Android and iOS 
+along with the development of Defenx Privacy Advisor and 
+mobile device management solutions for families and SMEs to 
+broaden the Defenx product offering further.
+Financial
+I am pleased that despite the pressures of the IPO, we were  
+able to grow revenue during 2015 to €4.5 million, an 88% 
+year-on-year increase on 2014. We also maintained our record of 
+profitable growth since 2012. We report in detail on the financial 
+performance of Defenx during 2015 on pages 18 to 20.
+We continue to operate a lean team, believing that a broader 
+range of expertise can be mobilised more rapidly and cost 
+effectively on an outsourced basis. In addition to the three 
+Executive Directors, there have been on average three senior 
+staff working from our Swiss office. Other sales, marketing, 
+development and finance resources have been engaged as 
+needed on an outsourced basis.
+Corporate and social responsibility
+Our software is optimised for mobile devices running on 
+battery power. We seek to maximise its efficiency by reducing 
+the impact on processing capacity and memory. Our products 
+therefore have lower power consumption reducing the 
+frequency of battery recharging: a small, but scalable 
+contribution to the environment.
+In common with many businesses, our greatest impact on the 
+environment comes from travel, notably air travel. We seek to 
+use modern communications to limit air travel as far as possible. 
+Current trading and outlook
+Trading in the first quarter is in line with expectations. Our 
+focus continues to be delivery of new and updated products to 
+drive sales growth through existing and new channel partners.
+In light of the modest funds raised at IPO, senior management 
+including the Executive Directors, agreed to a one third 
+reduction of their contractual salary entitlements for 2016,  
+a saving of around €200,000.
+Since the beginning of the year, we have engaged additional 
+sales resources based in the UK, agreed revised terms with  
+our development partner in Romania and signed sales and 
+distribution contracts with Brigantia (UK), Metrological 
+(Netherlands) and Memopal (Italy).
+We actively continue to seek new channel partners across 
+Europe, the Middle East and Africa. A number of negotiations 
+are at an advanced stage and I hope to be able to announce 
+further progress soon. Longer term, we continue to engage 
+with potential partners in Asia and Latin America and hope to 
+broaden our geographic footprint during 2016.
+I continue to believe that with our B2B2C strategy described 
+above, increasingly coming into shape, Defenx is well-
+positioned to deliver value to shareholders in the year ahead.
+The Strategic Report, which includes the Chief Executive 
+Officer’s Review, was approved by the Board of Directors  
+and signed on its behalf.
+Andrea Stecconi
+Chief Executive Officer
+18 April 2016 Defenx PLC Annual Report 2015 18
+Highlights
+• Group revenues grew 88% to €4.49 million  
+(2014: €2.38 million) with mobile revenues accounting 
+for around 70% of our business
+• Gross profit margins increased to 88.6% (2014: 85.4%)
+• Operating profit before exceptional costs rose 22% to 
+€979,000 (2014: €805,000)
+• Defenx closed the year with a significantly stronger 
+balance sheet – total equity increased to €5.81 million 
+(2014: €2.05 million) representing a net asset value 
+per share of €1.28 (2014: €0.64)
+• Year end cash balances stood at €1.33 million  
+(2014: €206,000)
+• Earnings per share (EPS) for the year was 4.2¢  
+(2014: 16.7¢) undiluted and 3.9¢ (2014: 15.9¢) diluted
+Revenues
+Group revenues grew 88% to €4.49 million (2014: €2.38 million) 
+driven primarily by new channel partner wins at the start of 
+2015. Mobile revenues continued to account for around 70% 
+of our business with the balance from PC and Server segments. 
+Although we see the focus on mobile device protection 
+continuing, we are beginning to see the sale of software 
+bundles – providing protection for Mobile, PC and, in due course, 
+Server segments – increasing in popularity.
+Margins
+Gross profit margins increased to 88.6% (2014: 85.4%) due 
+to sales growth exceeding the rise in amortisation charges to 
+€477,000 (2014: €160,000) following the launch of Defenx 
+Mobile Security Suite for iOS and a full year’s amortisation 
+of our NAS software. Cost of sales also includes sales 
+commissions expensed customer integration and software 
+maintenance costs.
+Financial Review
+Growth
+opportunity Defenx PLC
+Strategic Report Governance Financial Statements
+Annual Report 2015 19
+With the introduction of Defenx Cloud Backup in March 2016, 
+for which there are additional storage, connectivity and labour 
+costs of sales, we anticipate gross margins will fall modestly 
+during 2016 dependent on the mix of security software licence 
+and Cloud backup service sales.
+The operating profit margin (before exceptional costs) of 
+21.8% (2014: 33.8%) reflects the step change in the Group’s 
+cost base this year creating the platform for growth we 
+now have. Being largely fixed costs, we anticipate operating 
+margins improving during 2016.
+Expenses
+Marketing contributions and staff costs account for  
+the majority of the Group’s ongoing operating expenses.
+Marketing contributions towards developing the Defenx  
+brand, which are typically paid to channel partners only upon 
+the achievement of pre-agreed sales targets, increased to  
+€1.45 million (2014: €0.74 million) a modest rise to 32.3% 
+(2014: 31.2%) as a proportion of sales.
+Staff costs increased to €691,000 (2014: €114,000) with the 
+three additions to the Board and alignment of remuneration 
+to market rates. We continue to engage most sales and 
+development resources as contractors at an additional cost 
+during the year of €114,000 (2014: €130,000) excluding 
+software development costs that have been capitalised.
+The Group aims to incentivise and retain key staff through the 
+use of share options and implemented share option schemes 
+during the year. The Group incurred a share-based payment 
+charge of €60,343 (2014: €nil) in respect of the 465,625 share 
+options granted to Directors and staff and 60,989 warrants 
+granted at IPO.
+Other administrative expenses increased to €692,000  
+(2014: €327,000).
+Key Performance Indicators
+The Group reports the following key performance 
+indicators as part of its monthly Board reporting:
+Active users
+Revenue  € millions
+2013 295,906
+500,082
+936,913
+2014
+2015
+2013 €2.08
+€2.38
+€4.49
+2014
+2015 +88.5%
++14.7%
+ +133%
+This is what the Board has always focused on. It represents the 
+number of licences that are active at a point in time, being the 
+number of end-users protected by Defenx software.
+Non-financial
+Financial
+Revenue and revenue growth provides the evidence that our 
+software is purchased and used.
+Gross profit margin
+2013 75.0%
+85.4%
+88.6%
+2014
+2015
+Gross profit reflects revenues less direct costs of sales and the 
+amortisation of capitalised software costs. The Board believes 
+the gross margins trends indicate the Group’s ability to grow 
+revenues to match the full cost of developing and maintaining 
+its software portfolio. 
+Operating profit margin
+2013 19.8%
+33.8%
+21.8%
+2014
+2015
+The Board targets growth in operating margins to ensure sales,  
+marketing and administrative costs are controlled and to drive  
+efficiency in the Group’s operations. Defenx PLC Annual Report 2015 20
+Financial review continued
+Net current assets increased to €3.21 million (2014: €326,000) 
+including year end trade receivables of €2.83 million 
+(2014: €1.02 million) and cash balances of €1.33 million 
+(2014: €206,000). Credit risk is managed by regular review 
+of outstanding and overdue balances and dialogue with 
+customers. Collections since the year end so far exceed the 
+amounts agreed with customers and represent a reduction in 
+receivables as a proportion of sales. The provision for bad debts 
+fell to €270,000 (2014: €417,000). 
+Cash deposits are held in Euro, Sterling, Swiss Francs and US 
+Dollars and placed on deposit in the UK and Switzerland. Cash 
+forecasts are updated monthly to ensure that sufficient cash is 
+available for foreseeable requirements. The Group had no debt 
+at 31 December 2015.
+The deferred revenue provision increased to €315,000 
+(2014: €145,000) representing the proportion of 2015 sales 
+attributable to the provision of virus definition updates and 
+support over the licence period outstanding at the year end.
+Defenx closed the year with a significantly stronger balance 
+sheet. Total equity attributable to equity holders increased to 
+€5.81 million (2014: €2.05 million) representing a net asset 
+value per share of €1.28 (2014: €0.64).
+EPS and dividends
+The earnings per share (EPS) for the year was 4.2¢  
+(2014: 16.7¢) undiluted and 3.9¢ (2014: 15.9¢) diluted. 
+At this stage in the Group’s development, we intend to  
+reinvest profits in future growth. The Board will review the 
+dividend policy in light of the Group’s funding requirements 
+each year. The medium-term intention is to become a dividend 
+paying business.
+The Group is in a strong financial position to continue to grow 
+and exploit many exciting opportunities ahead.
+Philipp Prince
+Chief Financial Officer
+18 April 2016
+Profitability
+Operating profit before exceptional costs rose 22% to 
+€979,000 (2014: €805,000). Exceptional IPO costs of 
+€614,000 and net interest expenses resulted in profit  
+before tax of €362,000 (2014: €761,000).
+With the transition to the Euro as the Group’s functional 
+currency on 1 January 2015, reflecting the currency in which 
+the majority of the Group’s business is transacted, there are  
+no longer any exchange differences on consolidation.
+Taxation
+The Group’s effective tax rate for the year was 64.6%  
+(2014: 26.9%) reflecting the loss incurred by Defenx PLC itself. 
+Although we expect to be able to utilise the carried forward UK 
+tax losses, there is insufficient certainty to justify recording a 
+deferred tax asset on the balance sheet. We keep the Group’s 
+operations under review to ensure taxes are paid that fairly 
+reflect activities in the UK and Switzerland.
+Cash flow 
+The net cash outflow from operating activities was  
+€1.92 million (2014: €534,000) reflecting an increase in net 
+trade receivables to €2.17 million (2014: €561,000) and the 
+one-off payment of IPO related fees in December. We continue 
+to work with our channel partners to accelerate the receipt of 
+debtors, although extended terms are common in Southern 
+Europe, the Middle East and Africa.
+The cash outflow from investing activities reflects continued 
+investment in our software assets. During the year,  
+capitalised software development costs were €1.35 million 
+(2014: €1.21 million).
+The net cash inflow from financing activities reflects the  
+€2.78 million net proceeds of the IPO received in December 
+2015 and the final closings from the 2014 private placing  
+of €735,000.
+Balance sheet
+The net book value of capitalised development costs increased 
+to €2.61 million (2014: €1.72 million) reflecting the completion 
+of work on Defenx Mobile Security of iOS, our Enterprise NAS 
+product and the integration work with a number of channel 
+partners’ systems. Having assessed the sales prospects for our 
+software products, the Board is satisfied that carrying value of 
+these intangible assets is appropriate. Defenx PLC
+Strategic Report Governance Financial Statements
+Annual Report 2015 21
+The Board is responsible for developing a comprehensive risk framework and a system of internal controls. The principal risks and 
+uncertainties presented below are those considered by the Board to have a potentially material impact on the Group’s ability to 
+achieve its key objectives. They do not include all the risks associated with the Group’s activities. 
+Risk description Mitigation
+Technology
+The industry in which Defenx operates is in the process of  
+continual change reflecting technical developments as industry  
+and government standards and practices change and emerge.
+Developing new technologies entails technical and business risks 
+and may require substantial continuing investment. Ineffective 
+development or procurement or significant delays may place the 
+Group at a competitive disadvantage and adversely affect the 
+Group’s prospects.
+New products and features are carefully assessed against their 
+target markets and in response to channel partner feedback prior 
+to development.
+Defenx works with expert development partners who have a track 
+record of producing high quality software quickly and at highly 
+competitive costs.
+Competition
+The markets in which Defenx operates are competitive and  
+rapidly evolving. The Group’s existing products may become  
+less competitive or even obsolete as competitors introduce  
+new products and customer behaviour changes.
+Certain of the Group’s competitors have greater scale with 
+significant financial, technical, sales and marketing resource  
+and may therefore be better able to generate sales.
+Defenx’s products have been optimised for mobile devices,  
+the fastest growing product category, which the Board believes 
+reduces the likelihood of obsolescence.
+The Board further believes that our B2B2C strategy is more efficient 
+with lower customer acquisition costs and higher average revenues 
+per user (ARPU). This efficiency, which is expected to increase with 
+scale, will become a competitive advantage for Defenx.
+Retention of channel partners
+Our B2B2C strategy relies on the attraction and retention  
+of channel partners. These relationships are fundamental  
+to achievement of our business objectives. If we do not  
+retain channel partners whether by reason of competition, 
+mismanagement or other cause, the Group’s financial  
+performance could be significantly adversely impacted.
+Defenx seeks to attract and retain high quality channel partners by:
+• offering a growing range of security products and solutions 
+that meet the needs of end-users
+• providing tools to help partners manage renewals and generate 
+recurring revenues rather than disintermediating them by 
+selling direct to end-users
+• pricing our products competitively and sharing revenues to give 
+partners fair margins
+Recruitment and retention of staff
+The success of Defenx depends upon high quality staff with the 
+relevant expertise and experience to broaden and sell the Group’s 
+products and solutions. Failure to retain these staff and attract  
+and retain other high calibre individuals may adversely affect the 
+Group’s performance and profitability.
+The Board believes that the Group’s focus on the fast growing 
+mobile security market, its recent IPO and strong leadership offers 
+a compelling and refreshing employment proposition.
+Operations overseas
+A rising proportion of Defenx’s revenues are generated outside the 
+European Union. The Group may be adversely affected by changes  
+in local and regional economic, political and social conditions  
+such as changes in law and regulation, taxation and currency 
+restrictions. In addition, fluctuating exchange rates and the costs 
+of conversion and exchange controls may have an unfavourable 
+impact on profitability, particularly when reported in Sterling.
+By working with channel partners, Defenx leverages their 
+expertise of overseas markets to trade more effectively than by 
+operating directly in such markets.
+The Group incurs the majority of its costs and generates most of 
+its revenues in Euros. This natural hedging reduces the impact of 
+fluctuations in foreign currencies.
+Working capital and funding
+The Group has many investment choices in its fast growing 
+markets. Growing sales, particularly in new and emerging markets, 
+and new product development requires time and working capital. 
+Poor investment choices may result in weaker or no sales growth, 
+products with limited market potential and limited funding 
+constraining our ability to grow.
+The Group is profitable and invests its positive operating cash 
+flows in sales, marketing and software development. It does not 
+need to fund trading losses.
+All software development and material sales generation activity, 
+for example into new territories, are assessed and prioritised by 
+market potential and risk.
+Principal risks and uncertainties Defenx PLC
+Anthony Reeves
+Chairman 
+Anthony is an experienced public 
+company chairman and director, having 
+until recently been chairman of Kellan 
+Group plc, the AIM listed recruitment 
+business. He remains chairman of 
+CloudTag Inc, an AIM listed company 
+which develops wearable devices for 
+sports and personal monitoring. Anthony 
+spent some 45 years in the recruitment 
+sector; in addition to his time at Kellan, 
+he was also chair and CEO at both 
+hotgroup plc and at Delphi Group (before 
+it was acquired by Adecco) and Lifetime 
+Corporation, then a public company listed 
+on the New York Stock Exchange. With 
+his many years of board experience, 
+Anthony ensures that appropriate issues 
+are discussed and debated objectively, 
+whilst providing a constructive challenge 
+to the executive team.
+Andrea Stecconi
+Chief Executive Officer 
+Andrea founded Defenx in 2009, 
+following over 20 years in retail and 
+software distribution. This included 10 
+years as chief executive at Exa Media 
+spa, a media software developer based 
+in Italy where he successfully developed 
+the distribution network including the 
+introduction of Kaspersky PC security 
+software. Previously he had been chief 
+executive of Best Computer srl, an 
+Italian-based PC and electronics chain, 
+where he was responsible for market 
+facing and operational aspects of the 
+company. Andrea brings extensive 
+marketing and channel development 
+skills to the Group’s operations and 
+provides strategic direction with a 
+particular focus on lead generation and 
+customer engagement.
+Guido Branca
+Chief Operating Officer  
+Guido is a technology manager with over 
+25 years’ experience in IT and systems 
+implementation working with many IT, 
+telecom and software companies. He 
+has worked with technology start-ups in 
+the USA, India, Russia, Western Europe, 
+the Nordics and Israel. Prior to joining 
+the Company, he was managing director 
+at Charles Street Securities Europe LLP 
+where he supervised portfolio 
+investment and originated technology 
+transactions. Guido leads on UK and 
+Western European sales and the related 
+operations to ensure profitable delivery 
+of our solutions.
+Board of
+Directors
+Annual Report 2015 22 Defenx PLC
+Strategic Report Governance Financial Statements
+Philipp Prince
+Chief Financial Officer 
+Philipp has over 20 years’ experience as  
+a chartered accountant, having qualified 
+with Stoy Hayward (now BDO LLP) in 
+1995. He spent 16 years in corporate 
+finance, becoming a partner in 2002, 
+during which time he led over 50 capital 
+market transactions, which raised  
+in aggregate approximately £4 billion.  
+Prior to joining the Company Philipp  
+was CFO at Enecsys, a Silicon Valley  
+based business. As CFO, Philipp brings  
+a wealth of experience in financial 
+management, reporting, governance  
+and investor perspectives.
+Leonard Seelig
+Non-executive Director  
+Leonard is an experienced company 
+director. After a successful career in 
+finance over 25 years which included 
+senior roles in the US and Europe with 
+American banks, he is now involved  
+both at an operating and board level  
+in a number of companies including  
+an anaerobic digestion operating and 
+development company, a European 
+on-shore wind developer and a solar 
+energy development finance company 
+active in Europe, North America and 
+emerging markets. He is currently non-
+executive chair of an AIM listed technology 
+company. Leonard provides a commercial 
+and financial perspective to the decisions 
+facing the Board.
+Annual Report 2015 23 Defenx PLC
+Dear shareholder
+In this short period since Defenx joined AIM, our focus as a Board 
+has been to establish the framework of governance. As an AIM 
+company we are not required to comply with the UK Governance 
+code (UK Code). We are, however, committed to following the 
+principles set out in the Quoted Companies Alliance Corporate 
+Governance Code (QCA Code), widely accepted as being the 
+industry standard for growing companies to which the UK Code 
+does not apply, together with the provisions of the Corporate 
+Governance Code, to the extent we consider them appropriate 
+having regard to the current size and stage of development of  
+the Company.
+The IPO was the catalyst for Defenx to establish good 
+governance arrangements which will form the foundation for 
+the future. Having joined the Board in preparation for IPO, the 
+Non-executive Directors, being Leonard Seelig and myself, 
+established two committees, namely Audit and Remuneration, 
+with clearly defined responsibilities in their terms of reference. 
+Summaries are available on the Company’s website at 
+www.defenx.com/company/investors.
+We believe we have established a Board with a range of 
+backgrounds that provide the right mix of sector specific and 
+corporate knowledge and experience.
+The reports from the Committee chairmen are set out on pages 
+26 to 30 and you will hear from them how Defenx is developing 
+its governance framework. We see the evolution of good 
+governance going hand in hand with the evolution of the 
+Group. We believe that high standards of governance will make 
+an important contribution to shareholder value in the future.
+Future plans
+We do not currently anticipate any succession issues  
+but recognise that it may be necessary to recruit either 
+replacement or additional Directors and senior management. 
+We will therefore consider the need to create a Nominations 
+Committee to consider the suitability of any proposed Directors 
+and make recommendations to the Board.
+Anthony Reeves
+Chairman 
+18 April 2016
+The Board comprises a balanced mix of executives and 
+non-executives with a combination of relevant skills and 
+experience, designed to ensure there is effective leadership of 
+the Group. Directors’ biographies appear on page 22 and 23.
+Both Non-executive Directors are considered by the Board to 
+be independent, Anthony Reeves having fulfilled the test of 
+independence on his appointment. In determining that the two 
+non-executives are independent the Board considered the 
+individual’s interests in the Company’s shares and the share 
+options granted to them. The Board determined that these 
+interests aligned the Directors’ interests with those of the 
+Group and bearing in mind the small percentages held, that the 
+non-executives remained independent. 
+Between IPO and the financial year end there was one Board 
+meeting. Since the year-end and prior to the approval of the 
+Annual Report, four regular Board meetings have been held 
+which were attended by all the Directors.
+The Board is responsible for setting strategy, performance and for 
+the stewardship of the Group, within the framework of effective 
+controls which enable risk to be assessed and managed. 
+Importance is placed on maintaining a robust control environment.
+Anthony Reeves is responsible for the leadership of the Board, 
+ensuring its effective operation and setting the agenda. 
+Andrea Stecconi as Chief Executive Officer is responsible for 
+day-to-day operations. The Directors have access to the 
+services of a Company Secretary through Equiniti David Venus 
+Limited who provides advice on company legal and corporate 
+governance matters. In addition, the Directors are able to take 
+independent legal advice at the Company’s cost if so required.
+Board performance evaluation
+The Board is committed to undertaking reviews of Board and 
+committee performance and of individual Board members every 
+year and the first review, which will include the identification 
+of any training needs for the Board, will be conducted within 
+12 months of the IPO.
+Chairman’s statement on governance The Board
+Annual Report 2015 24 Defenx PLC
+Strategic Report Governance Financial Statements
+Risk management and internal control
+The Board is responsible for determining the nature and extent 
+of major risks which face the Group and for establishing and 
+maintaining a risk management framework and system of 
+internal financial controls. A summary of the principal risks 
+identified by the Group and how these are mitigated is set out 
+on pages page 21. The key elements of the Group’s risk 
+framework and internal control systems are:
+• A schedule of matters reserved for decision by the Board
+• Defined responsibilities and authority limits
+• Close involvement of the Executive Directors and other 
+members of senior management in day-to-day operations
+• Monthly management reporting
+• Comprehensive annual budgeting process and monitoring of 
+performance against budget
+The Board discusses all business matters having regard to the 
+risk for the Group and to the extent that risks inherent in a 
+particular activity are considered significant, appropriate action 
+is taken and steps taken to mitigate the issue.
+Going concern
+The Directors are satisfied that the Group has adequate 
+resources to continue in operational existence for the 
+foreseeable future and, accordingly, continue to adopt the 
+going concern basis in preparing the Group and Company 
+financial statements.
+Relations with shareholders
+The Directors are committed to regular engagement with 
+existing shareholders and prospective investors and will make 
+themselves available to meet existing and potential investors 
+in London during the weeks in which Board meetings are held. 
+In accordance with good governance, the Company has entered 
+into a relationship agreement with its major shareholder, who  
+is also our Chief Executive Officer, designed to ensure the 
+independent operation of the Group without undue influence, 
+requiring that all transactions between Andrea Stecconi and his 
+associates to be conducted at arm’s length and on normal 
+commercial terms. He may also not vote on transactions 
+involving himself and his associates. Andrea Stecconi has 
+undertaken to the Company and to Strand Hanson, the 
+Company’s Nominated Adviser, to procure that there will be at 
+least two independent Directors on the Board and the Board 
+committees will comprise a majority of independent Directors. 
+The agreement requires amongst other things that the 
+approval of Strand Hanson is required before additional 
+Directors are appointed.
+The Directors, Angelo Motti, Mauro Celentano and Marco 
+Moschetta, who in aggregate hold 2,344,054 (38.4% of the) 
+Ordinary Shares, agreed not sell or otherwise dispose of any of 
+their shares, subject to certain limited exceptions, during the 
+12 months to 2 December 2016. Normal orderly market 
+provisions apply for a further 12 months. 
+In addition, Charles Street Securities Europe LLP, CSS Capital 
+Managers LLP and certain principals, related or associated 
+entities, who in aggregate hold 225,022 (3.7%) Ordinary 
+Shares, agreed not sell or otherwise dispose of any of their 
+shares, subject to certain limited exceptions, during the 
+six months to 2 May 2016. Normal orderly market provisions 
+apply for a further six months. CSS Alpha Fund Limited agreed 
+to normal orderly market provisions until 2 May 2016 in respect 
+of its holding of 89,532 (1.5%) Ordinary Share.
+Website
+Our corporate website at www.defenx.com/company/investors 
+and relevant social media platforms provide access to Company 
+information, public announcements, published financial reports 
+and contact details.
+AGM
+The forthcoming AGM will be the first opportunity to meet with 
+the shareholder body as a group and the Chairman and other 
+Directors will be available to meet shareholders and to answer 
+any questions. 
+Annual Report 2015 25 Defenx PLC
+Dear shareholder
+This is the first report of the Audit Committee following 
+admission to AIM.
+The Committee is responsible for reviewing and reporting to the 
+Board on financial reporting, internal control and risk management, 
+and for reviewing the performance, independence and 
+effectiveness of the external auditors in carrying out the 
+statutory audit. The Committee advises the Board on the 
+statement by the Directors that the Annual Report, when read as 
+a whole is fair, balanced and understandable and provides the 
+information necessary for shareholders to assess the Group’s 
+performance, business model and strategy.
+In the short period since IPO, our primary focus as a Committee 
+has been to plan for and monitor the integrity of the annual 
+financial statements and the audit thereof.
+In the coming year, in addition to our ongoing duties we will be:
+• Undertaking a comprehensive review of ongoing audit and 
+tax services.
+• Considering the impact on the Group of the introduction of 
+International Financial Reporting Standard (IFRS) 15 
+‘Revenue from Contracts with Customers’.
+• Keeping the need for an internal audit function under review, 
+having regard to the Company’s strategy and resources.
+Leonard Seelig
+Chairman of the Audit Committee
+8 April 2016
+Audit committee report
+Committee members and attendance
+The Audit Committee comprises Anthony Reeves and Leonard 
+Seelig who chairs the Committee. In the period since IPO the 
+Committee has met twice and both members of the Committee 
+attended on each occasion. In addition Philipp Prince, the 
+Finance Director, attended by invitation as did representatives 
+of haysmacintyre, the Company and Group’s auditors.
+The Board considers that Leonard Seelig has sufficient relevant 
+financial experience to chair the Audit Committee given his 
+25-year career in banking and finance.
+Key activities from IPO to the issue of the Annual Report
+• Planned for the financial year-end and reviewed the audit plan
+• Assessed the key risks which have a material impact on the 
+financial statements.
+• Considered the independence and objectivity of the 
+auditors.
+• Reviewed significant issues and areas of judgement with the 
+potential to have a material impact on the financial statements, 
+making specific recommendations to the Board thereon.
+• Reviewed and monitored the integrity of the published 
+financial information including the preliminary 
+announcement and the Annual Report.
+Financial reporting and signiﬁcant ﬁnancial judgements
+At the first meeting with haysmacintyre the Committee 
+discussed the nature and scope of the audit; the audit approach; 
+the major risks likely to be encountered; the audit evidence that 
+would be available in relation to key risks and the key accounting 
+policies to ensure that these remained appropriate.
+At its second meeting, the Committee discussed how the risk 
+areas previously identified had been dealt with and how 
+judgements or uncertainties underlying the financial 
+statements had been resolved.
+Revenue recognition
+The Committee discussed business developments in the sector, 
+in particular the increasing frequency with which the Group’s 
+channel partners adopt a ‘bundling’ strategy for selling 
+software which gives rise to licences sold by Defenx not 
+necessarily being activated. The Committee was satisfied that 
+the consequential judgement taken on licences sold and not 
+activated and therefore the timing of release of deferred 
+revenue in the accounts was appropriate. The Committee also 
+took into account an initial appraisal that the impact of 
+adopting IFRS 15 in subsequent years would not make a 
+material change to the Group’s revenue recognition policy.
+Annual Report 2015 26 Defenx PLC
+Strategic Report Governance Financial Statements
+Recoverability of debtors
+The Committee reviewed the track record of payments and 
+after-date recoveries from slow-paying debtors. In the light of 
+this evidence and having regard to the payment profile being 
+considered typical for the sector and the relevant geographical 
+regions, the Committee was satisfied that trade receivables 
+were fairly stated.
+Share-based payments
+The Committee discussed the assumptions which should be 
+adopted in accounting for share-based payments and recognising 
+that these involve a certain amount of judgement complexity, 
+concluded that in the absence of a track record of exercising 
+options, the assumption that an effective life-span of five years, 
+compared with an option period of up to 10 years, was not an 
+unreasonable assumption. Further details of the assumptions 
+made are contained in note 18 to the financial statements.
+Going concern 
+The Committee reviewed the cash flow forecasts for the Group 
+and discussed the key assumptions and risks relevant to their 
+achievement. The Committee was satisfied that the basis for 
+adopting the going concern basis in preparing the Group and 
+Company financial statements, set out in note 1 on page 39, 
+was reasonable.
+Valuation of intangible assets
+The Board considered the intangible value attributed to the 
+mobile segment and was satisfied that the anticipated level of 
+future revenues is sufficient to support the carrying value. The 
+Committee reviewed the carrying value of the Network Attached 
+Storage (NAS) product in conjunction with recent customer 
+interest and pipeline activity and concluded that the carrying 
+value of the asset was supported by potential future cash flows. 
+The auditors concurred with the Committee’s conclusions.
+Risk review process
+The Audit Committee is responsible for reviewing the financial 
+risks and the internal controls relating thereto but the Board as 
+a whole has responsibility for reviewing the overall business 
+risks and risk management framework. The Group’s principal 
+risks and uncertainties are set out in the Strategic Report 
+together with mitigating actions and the internal controls and 
+risk management procedures are summarised in the Corporate 
+Governance Report.
+External auditor
+The Committee reviewed the effectiveness of the audit carried 
+out at the time of the AIM IPO and has undertaken a further 
+such review immediately prior to publishing this report. In doing 
+so, members of the Committee spoke to the Chief Financial 
+Officer, Chief Executive Officer and members of senior 
+management. The Committee continues to be satisfied that 
+the auditors are delivering the necessary scrupulousness and 
+robust challenge in their work. In keeping with good 
+governance, the Committee will be undertaking a 
+comprehensive review of ongoing audit services before the end 
+of the calendar year which will include both technical aspects 
+and delivery of service.
+External audit and non-audit services
+haysmacintyre acted as reporting accountant on the Company’s 
+IPO and has also provided tax advisory services. An analysis of 
+the audit and non-audit fees is provided in note 6 to the 
+financial statements. The Audit Committee considered the 
+independence and objectivity of haysmacintyre in carrying out 
+both tax and audit services together with the reporting 
+accountant work on the IPO. The Committee was satisfied with 
+the written assurances received that the work undertaken 
+haysmacintyre did not pose a threat to their objectivity 
+and independence.
+Annual Report 2015 27 Defenx PLC
+Remuneration report
+Dear shareholder
+Following the Company’s admission to AIM on 3 December 2015, the Remuneration Committee assumed responsibility for 
+determining the remuneration policy for the Executive Directors and other members of senior management and for overseeing  
+the Company’s share plans. The Board as a whole are responsible for determining Non-executive Directors’ remuneration.
+As an AIM company, we are not required to publish a Remuneration Report and so the report that follows is disclosed voluntarily 
+and has not been subject to audit.
+In the short period since admission, the Committee has had one meeting and so the primary purpose of this report is to  
+provide you with further information on the role of the Committee going forward and to disclose the current remuneration  
+of the Directors.
+During the current financial year, we have reviewed the bonus arrangements payable to our Executive Directors on admission to 
+AIM and the Board acted on our recommendations. Since the year end we have also reviewed Executive Directors’ salaries and 
+increased the performance-related bonus component without altering the overall maximum total package.
+In the coming months, we will be undertaking a review of future remuneration policy, including the potential introduction of a 
+Long Term Incentive Plan and a comprehensive benefits package designed to facilitate retention and recruitment of high calibre 
+members of staff.
+Anthony Reeves 
+Chairman of the Remuneration Committee
+18 April 2016
+Remuneration Committee and attendance at meetings
+The members of the Committee are Anthony Reeves (Chairman) and Leonard Seelig. One meeting has been held since admission 
+to AIM and both the members of the Committee attended that meeting. Andrea Stecconi was in attendance for the relevant part 
+of the meeting but this did not include that part of the meeting where his own remuneration was discussed.
+Remuneration policy for Executive Directors
+The aim of the remuneration policy is to attract, retain and motivate high calibre senior executives.
+The Executive Directors’ salaries were reviewed following admission to AIM. In setting salaries, the Committee takes into account 
+individual performance and experience and the relative performance of the Company.
+The Committee accepted the Chief Executive Officer’s proposal to vary the service agreements such that one third of the 
+Executive Directors’ salaries, £120,000 in aggregate, is payable as a bonus. The bonus starts to become payable when profit 
+before tax exceeds 90% of the 2016 budget with the full bonus entitlement being payable if profit before tax exceeds budget by 
+approximately €250,000.
+The Executive Directors’ service agreements are as follows:
+With Defenx PLC With Defenx SA Group total
+Date of service 
+agreement Current salary
+1
+Date of contract Current salary
+1
+ 
+Andrea Stecconi 21 July 2015 £10,000 1 July 2015 £80,000 £90,000
+Guido Branca 21 July 2015 £70,000 - - £70,000
+Philipp Prince 21 July 2015 £80,000 - - £80,000
+1 Amount denominated in Sterling or Swiss Francs; the amount included in the financial statements will be subject to currency fluctuation. 
+Annual Report 2015 28 Defenx PLC
+Strategic Report Governance Financial Statements
+Andrea Stecconi’s service agreement is subject to termination by either party on six months’ notice while the agreements for 
+Guido Branca and Philipp Prince specify three months by either party.
+Prior to admission to AIM annual salaries were £20,000 from the Company plus CHF 60,000 from the Subsidiary for Andrea 
+Stecconi and £60,000 from the Company for each of Guido Branca and Philipp Prince.
+Bonus for the year ended 31 December 2015
+Andrea Stecconi and Guido Branca were paid bonuses of €57,077 (£41,250) and €38,748 (£27,500), being 75% and 50% of the 
+respective entitlements specified in their service agreements following admission to AIM. This variation was approved by the 
+Board having regard to the funds raised from the placing and subscription of the Company’s shares upon admission. Philipp Prince 
+received a bonus of €35,225 (£25,000), of which €31,280 (£22,200) was re-invested in shares at the time of admission. 
+Beneﬁts and allowances
+Both Guido Branca and Philipp Prince are entitled to an office allowance of £4,500 per annum in the period prior to the Company 
+opening a London-based head office in May 2016.
+Remuneration policy for Non-executive Directors
+The Chairman and Non-executive Director provide their services under letters of appointment. The appointments are terminable 
+on three months’ notice by either party.
+The current annual fees together with the dates of the letters of appointment are:
+Date of letter Current fee
+Anthony Reeves 7 October 2015 £24,000
+Leonard Seelig 7 October 2015 £24,000
+On admission to AIM, Anthony Reeves and Leonard Seelig received additional fees in connection with the IPO of £19,500 and 
+£16,000 respectively.
+Terms of office for Executive and Non-executive Directors
+In accordance with the Articles of Association, a third of the Directors must retire from office, by rotation, at the AGM and may be 
+reappointed. Accordingly Messrs Reeves, Prince and Seelig will retire at the AGM and offer themselves for reappointment.
+Long term incentives for Executive and Non-executive Directors
+EMI Option Scheme
+The Company established an EMI Option Scheme to provide incentives to employees, including Directors, to achieve the longer-term 
+objectives of the Group, to give suitable recognition to the ability and industry of the individuals concerned and to attract and retain 
+suitably experienced and able people, by providing them with the opportunity to acquire ownership interests in the Company.
+The vesting of the existing options is not conditional on performance conditions; the only vesting condition being that the 
+individual remains an employee of the Group.
+The following share option awards were granted to Executive Directors under the EMI Option Scheme:
+Date of grant
+Number of 
+shares Exercise price Vesting period Expiry date
+Guido Branca 22 July 2015 83,000 £0.80 37,000 on grant;  
+balance over following 20 months from grant
+22 July 2025
+Guido Branca 3 December 2015 125,000 £1.48 One third on ﬁrst anniversary;  
+balance over following 24 months from grant
+2 December 2025
+Philipp Prince 22 July 2015 42,000 £0.80 Over 36 months 22 July 2025
+Philipp Prince 3 December 2015 125,000 £1.48 One third on ﬁrst anniversary;  
+balance over following 24 months from grant
+2 December 2025
+Annual Report 2015 29 Defenx PLC
+Remuneration report continued
+Unapproved Share Option Scheme
+The Company established an Unapproved Share Option Scheme and the following options were granted under this scheme:
+Date of grant
+Number of 
+shares Exercise price Vesting period Expiry date
+Anthony Reeves 3 December 2015 15,625 £1.48 One third on ﬁrst anniversary; 
+balance over following 24 months from grant
+2 December 2025
+Leonard Seelig 3 December 2015 12,500 £1.48 One third on ﬁrst anniversary; 
+balance over following 24 months from grant
+2 December 2025
+Disclosure of Directors’ remuneration for the year
+The remuneration of the Directors who served during the year ended 31 December 2015 is set out below:
+Fees and salaries
+€
+Beneﬁts
+€
+Annual bonus
+€
+Pension
+€
+Total
+€
+Executive
+Andrea Stecconi 81,875 – 57,077 – 138,952
+Guido Branca 87,049 3,136 38,748 – 128,933
+Philipp Prince 49,255 3,136 35,225 – 87,616
+Marco Moschetta 36,078 – – – 36,078
+Joyce Bigio 14,090 – – – 14,090
+Non-executive
+Anthony Reeves 8,454 – 27,476 – 35,930
+Leonard Seelig 8,454 – 22,544 30,998
+The remuneration of the Directors who served during the year ended 31 December 2014 is set out below:
+Fees and salaries
+€
+Beneﬁts
+€
+Annual  
+bonus
+€
+Pension
+€
+Total
+€
+Executive
+Andrea Stecconi 28,683 – – – 28,683
+Guido Branca 33,188 – – – 33,188
+Marco Moschetta 10,838 – – – 10,838
+Directors’ interest in shares and share scheme interests
+The Directors’ beneficial interests in shares, together with their respective families, immediately following admission to AIM and 
+as at 31 December 2015 are shown below together with their interests in share schemes. 
+Director
+Scheme interests 
+in shares – share 
+options without 
+performance 
+conditions
+Vested but 
+unexercised 
+options
+Shares  
+beneﬁcially
+owned
+1
+Total interest  
+in shares
+Andrea Stecconi – – 1,608,086 1,608,086
+Guido Branca 208,000 27,667 25,002 233,002
+Philipp Prince 167,000 5,833 40,005 207,005
+Anthony Reeves 15,625 – 31,250 46,875
+Leonard Seelig 12,500 – 25,000 37,500
+1 Includes those held by connected persons.
+Annual Report 2015 30 Defenx PLC
+Strategic Report Governance Financial Statements
+Directors’ report
+The Directors present their report together with the audited 
+financial statements for the year ended 31 December 2015.
+Principal activity
+Defenx PLC is a public limited company incorporated in England 
+and Wales, registered number 08993398, which is listed  
+on the Alternative Investment Market (AIM) of the London  
+Stock Exchange. Its principal activity is to provide security 
+solutions with a range of products for mobile devices and PCs, 
+protecting them against hackers and data loss. Management  
+and control is exercised from the UK and its main country of 
+operation is Switzerland.
+Review of business
+The Strategic Report on pages 4 to 21 provides a review of the 
+business, the Group’s trading for the year ended 31 December 
+2015, key performance indicators and an indication of research 
+and future developments as well as the principal risks and 
+uncertainties facing the business.
+Results and dividend
+The results for the year ended 31 December 2015 are set out 
+in the consolidated statement of comprehensive income on 
+page 34. The Directors do not recommend the payment of a 
+dividend, because the Board believes it is in the Company’s 
+interests to retain earnings to fund working capital needs and 
+achieve capital growth.
+Directors 
+The Directors who served during the year ended 31 December 
+2015 and up to the date of signing the financial statements 
+were as follows:
+A Stecconi
+G Branca
+J Bigio (appointed 18 February 2015, resigned 28 May 2015)
+M Moschetta (resigned 19 February 2015)
+P Prince (appointed 21 July 2015)
+A Reeves (appointed 7 October 2015)
+L Seelig (appointed 7 October 2015)
+Directors’ interests 
+Details of the Directors’ interests in the shares of the Company 
+and details of options granted under the Group’s share scheme 
+are set out in the Remuneration Report on pages 28 to 30.  
+No Director has any beneficial interest in the share capital of 
+the subsidiary undertaking. In accordance with the Articles of 
+Association, Anthony Reeves, Philipp Prince and Leonard Seelig 
+will retire by rotation at the 2016 AGM, being held on 22 June 
+2016 and, being eligible, will offer themselves for re-election.
+Qualifying indemnity provision
+The officers of the Company are indemnified in respect of 
+proceedings which might be brought by a third party. No cover 
+is provided in respect of fraudulent or dishonest transactions.
+Financial risk management policies and objectives
+A summary of the Group’s key operating risks is set out on 
+page 21. The Group’s risk management policies and objectives 
+including exposure to price risk, credit risk, liquidity and cash 
+flow risk are contained in note 16 to the financial statements.
+Share capital 
+On 3 December 2015, the Company’s shares were admitted to 
+trading on AIM. On admission, the Company raised £2.1 million 
+before expenses by way of a placing of 448,276 Ordinary 
+shares of £0.018 each and a subscription of 977,378 Ordinary 
+Shares. Details of the movements in the Company’s ordinary 
+share capital and deferred share capital are contained in 
+note 17 to the financial statements.
+Substantial shareholdings 
+At 31 March 2015, the Company’s significant shareholders were:
+Number of shares Holding
+Andrea Stecconi 1,608,086 26.4%
+Defenx Nominees Limited 757,228 12.4%
+Angelo Motti 426,890 7.0%
+Safe Active srl 337,500 5.5%
+Translated srl 331,910 5.4%
+Chris Luty 285,000 4.7%
+Shareholder agreement 
+As described above, on 3 December 2015 the Company entered 
+into a relationship agreement with its major shareholder and 
+Chief Executive Officer, Andrea Stecconi that is designed to 
+ensure that while he and his associates have an interest in 20% 
+or more of the voting rights of the issued share capital, any 
+transactions and relationships with Andrea Stecconi and his 
+associates are conducted at arm’s length and on normal 
+commercial terms.
+Share option schemes
+Details of share options issued during the year are contained in 
+note 18 to the financial statements.
+Political donations 
+During the year ended 31 December 2015 the Group made no 
+political donations.
+Events after the reporting date
+Details of significant events since the balance sheet date are 
+contained in note 22 to the financial statements.
+Annual Report 2015 31 Defenx PLC
+Provision of information to the auditors
+Each of the Directors who held office at the date of approval of 
+this Directors’ Report confirms that:
+• so far as he is aware, there is no relevant audit information 
+of which the Company’s and Group’s auditor is unaware; and
+• he has taken all the steps he ought to have taken as a 
+Director in order to make himself aware of any information 
+needed by the Company and the Group’s auditors in 
+connection with their report and to establish that the 
+auditors are aware of that information.
+Auditor
+haysmacintyre has expressed its willingness to continue in 
+office as Auditor to the Company. A resolution to reappoint 
+haysmacintyre will be proposed at the forthcoming AGM.
+AGM
+The AGM will be held on 22 June 2016. The notice of AGM and 
+the ordinary and special resolutions to be put to the meeting 
+are included on pages 58 to 60.
+Approval
+The Directors’ report was approved on behalf of the Board on 
+18 April 2016.
+Anthony Reeves
+Chairman
+18 April 2016
+Directors’ report continued Statement of Directors’ responsibilities
+The Directors are responsible for preparing the Annual Report  
+and the Group and Company financial statements in accordance 
+with applicable UK law and those IFRSs as adopted by the 
+European Union.
+Under Company law the Directors must not approve the Group and 
+Company financial statements unless they are satisfied that they 
+present fairly the financial position, financial performance, and 
+cash flows of the Group and Company for that period. In preparing 
+those financial statements, the directors are required to:
+• select suitable accounting policies
+• present information, including accounting policies, in a manner 
+that provides relevant, reliable, comparable and understandable 
+information
+• provide additional disclosures when compliance with the 
+specific requirements in IRFSs is insufficient to enable users to 
+understand the impact of particular transactions, other events 
+and conditions on the Group’s financial position and financial 
+performance
+• state that the Group and the Company have complied with 
+IFRSs subject to any material departures disclosed and 
+explained in the financial statements
+• make judgements and estimates that are reasonable 
+and prudent.
+The Directors are responsible for keeping adequate accounting 
+records that are sufficient to show and explain the Company’s 
+transactions and disclose with reasonable accuracy at any time 
+the financial position of the Company and the Group and enable 
+them to ensure that the financial statements comply with the 
+Companies Act 2006 and Article 4 of the IAS regulation. They are 
+also responsible for safeguarding the assets of the Company and 
+the Group and hence for taking reasonable steps for the 
+prevention and detection of fraud and other irregularities.
+The Directors are responsible for the maintenance and integrity of 
+the Company’s website. Legislation in the UK may differ from 
+legislation in other jurisdictions.
+Each of the Directors, whose names are listed in the Strategic 
+Report above, confirms that, to the best of his knowledge:
+• The Group financial statements which have been prepared in 
+accordance with IFRSs as adopted by the EU, give a true and 
+fair view of the assets, liabilities, financial position and profit of 
+the Group
+• The Strategic Report includes a fair review of the development 
+and performance of the business and the position of the Group 
+and the Company, together with a description of the principal 
+risks and uncertainties that it faces.
+• The Directors consider that the Annual Report and Accounts, 
+taken as a whole is fair, balanced and understandable.
+This responsibility statement was approved by the Board on  
+18 April 2016.
+Andrea Stecconi  Philipp Prince
+Chief Executive Officer Chief Financial Officer
+Annual Report 2015 32 Defenx PLC
+Strategic Report Financial Statements
+Independent Auditors’ Report to the members of Defenx PLC
+We have audited the financial statements of Defenx PLC for  
+the period ended 31 December 2015 which comprise the 
+consolidated statement of comprehensive income, the Group 
+and parent company statements of financial position, the 
+Group and parent company statements of changes in equity, 
+the Group and parent company cash flow statements and the 
+related notes. The financial reporting framework that has been 
+applied in their preparation is applicable law and International 
+Financial Reporting Standards (IFRSs) as adopted by the 
+European Union.
+This report is made solely to the Company’s members, as a 
+body, in accordance with Chapter 3 of Part 16 of the Companies 
+Act 2006. Our audit work has been undertaken so that we 
+might state to the Company’s members those matters we are 
+required to state to them in an auditors’ report and for no other 
+purpose. To the fullest extent permitted by law, we do not 
+accept or assume responsibility to anyone other than the 
+Company and the Company’s members as a body, for our audit 
+work, for this report, or for the opinions we have formed. 
+Respective responsibilities of Directors and auditors 
+As explained more fully in the statement of Directors’ 
+responsibilities, the Directors are responsible for the 
+preparation of the financial statements and for being satisfied 
+that they give a true and fair view. Our responsibility is to audit 
+and express an opinion on the financial statements in 
+accordance with applicable law and International Standards on 
+Auditing (UK and Ireland). Those standards require us to comply 
+with the Auditing Practices Board’s (APB’s) Ethical Standards 
+for Auditors. 
+Scope of the audit of the ﬁnancial statements 
+A description of the scope of an audit of financial  
+statements is provided on the APB’s website at 
+www.frc.org.uk/apb/scope/private.cfm. 
+Opinion on ﬁnancial statements 
+In our opinion: 
+• the financial statements give a true and fair view of the 
+state of the Group’s and the parent company’s affairs as at 
+31 December 2015 and of the Group’s profit for the period 
+then ended; 
+• the financial statements have been properly prepared in 
+accordance with IFRSs as adopted by the European Union; and 
+• the financial statements have been prepared in accordance 
+with the requirements of the Companies Act 2006. 
+Opinion on other matters prescribed by the  
+Companies Act 2006 
+In our opinion the information given in the Strategic Report 
+and Directors’ Report for the financial year for which the 
+financial statements are prepared is consistent with the 
+financial statements.
+Matters on which we are required to report by exception 
+We have nothing to report in respect of the following matters 
+where the Companies Act 2006 requires us to report to you if, 
+in our opinion: 
+• adequate accounting records have not been kept by the 
+parent company, or returns adequate for our audit have not 
+been received from branches not visited by us; or 
+• the parent company financial statements are not in 
+agreement with the accounting records and returns; or 
+• certain disclosures of Directors’ remuneration specified by 
+law are not made; or 
+• we have not received all the information and explanations 
+we require for our audit. 
+Ian Cliffe (senior statutory auditor) 
+For and on behalf of haysmacintyre 
+26 Red Lion Square 
+London 
+WC1R 4AG
+18 April 2016
+Annual Report 2015 33
+Governance Defenx PLC
+Note
+Year ended
+31 December 
+2015
+€
+Year ended 
+31 December 
+2014
+(restated)
+€
+Revenue 2, 5 4,489,557 2,381,568
+Cost of sales 6 (512,168) (347,958)
+Gross proﬁt 3,977,389 2,033,610
+Sales, marketing and administrative expenses 6 (2,998,190) (1,229,093)
+Operating proﬁt before exceptional expenses 979,199 804,517
+Exceptional expenses (614,192) –
+Proﬁt from operations 365,007 804,517
+Finance income 8 37 74
+Finance expense 8 (2,787) (43,600)
+Proﬁt before tax 362,257 760,991
+Tax expense 9 (170,339) (225,196)
+Proﬁt for the year 191,918 535,795
+Exchange gains arising on the translation of foreign subsidiaries – 28,929
+Total comprehensive proﬁt for the year 191,918 564,724
+Earnings per share
+Basic 10 €0.042 €0.167
+Diluted 10 €0.039 €0.159
+The profit for the year arises from the Group’s continuing operations and is attributable to equity holders of the parent company, 
+Defenx PLC.
+The notes on pages 39 to 57 form part of these financial statements.
+Consolidated statement of comprehensive income
+Annual Report 2015 34 Defenx PLC
+Strategic Report Financial Statements
+Consolidated statement of financial position
+Company registration number: 08993398
+Note
+31 December 
+2015
+€
+31 December 
+2014
+(restated)
+€
+Non-current assets
+Intangible assets 11 2,607,400 1,721,404
+Current assets
+Trade and other receivables 13 3,305,604 1,039,538
+Cash and cash equivalents 14 1,333,869 205,995
+4,639,473 1,245,533
+Total assets 7,246,873 2,966,937
+Current liabilities
+Trade and other payables 15 (1,434,431) (918,728)
+Total liabilities (1,434,431) (918,728)
+Net assets 5,812,442 2,048,209
+Capital and reserves
+Called up share capital 17 145,004 90,903
+Share premium 17 4,051,322 580,374
+Merger reserve 695,212 678,610
+Share-based payment reserve 18 60,343 –
+Retained earnings 860,561 660,144
+Foreign exchange reserve – 38,179
+Total equity attributable to equity holders of the parent company 5,812,442 2,048,209
+The notes on pages 39 to 57 form part of these financial statements.
+The financial statements were approved by the Board and authorised for issue on 18 April 2016 and signed on its behalf by:
+Andrea Stecconi
+Chief Executive Officer
+Consolidated statement of changes in equity
+Share
+capital
+€
+Share
+premium
+account
+€
+Merger
+reserve
+€
+Share-based
+payment
+reserve
+€
+Retained
+earnings
+€
+Foreign
+exchange
+reserve
+€
+Total
+€
+As at 1 January 2014 63,148 – 260,537 – 124,349 9,250 457,284
+Proﬁt for the year (restated) – – – – 535,795 – 535,795
+Foreign exchange translation – – – – – 28,929 28,929
+Total comprehensive proﬁt for the year 
+(restated) – – – 535,795 28,929 564,724
+Defenx SA share capital issue – – 418,073 – – – 418,073
+Shares issued 27,755 580,373 – – – – 608,128
+As at 31 December 2014 (restated) 90,903 580,373 678,610 – 660,144 38,179 2,048,209
+Change in functional currency 1,465 11,613 16,602 – 8,499 (38,179) –
+Proﬁt for the year – – – – 191,918 – 191,918
+Shares issued 52,636 3,459,336 – – – – 3,511,972
+Share-based payments – – – 60,343 – – 60,343
+As at 31 December 2015 145,004 4,051,322 695,212 60,343 860,561 – 5,812,442
+The movement on the merger reserve during the year ended 31 December 2014 resulted from the issue of share capital by 
+Defenx SA prior to the share for share exchange taking place with Defenx PLC.
+Annual Report 2015 35
+Governance Defenx PLC
+Year ended
+31 December 
+2015
+€
+Year ended
+31 December 
+2014
+(restated)
+€
+Cash ﬂows from operating activities
+Proﬁt for the year after taxation 191,918 535,795
+Adjustments for:
+Income tax 170,339 225,196
+Net interest expense 2,750 43,526
+Amortisation of intangible assets 476,623 160,307
+Share-based payments expense 60,343 –
+Operating cash ﬂows before movements in working capital 901,973 964,824
+Increase in trade receivables (1,809,552) (263,658)
+(Increase)/decrease in other receivables (456,513) 450,465
+Increase/(decrease) in trade and other payables 177,521 (719,833)
+Increase/(decrease) in deferred revenue
+169,138 (533)
+(1,919,406) (533,559)
+Interest paid (2,787) (43,526)
+Tax paid (1,295) –
+Net cash ﬂow from operating activities (1,021,515) 387,739
+Investing activities
+Investment in intangible assets (1,351,000) (1,210,693)
+Interest received 37 –
+Net cash used in investing activities (1,350,963) (1,210,693)
+Financing activities
+Net proceeds from issue of share capital 3,511,972 1,026,201
+Net cash from ﬁnancing activities 3,511,972 1,026,201
+Net increase in cash and cash equivalents 1,139,494 203,247
+Cash and cash equivalents at beginning of year 205,995 2,460
+Effect of foreign exchange translation on cash and cash equivalents (11,620) 288
+Cash and net cash equivalents at end of year 1,333,869 205,995
+Consolidated cash flow statement
+Annual Report 2015 36 Defenx PLC
+Strategic Report Governance Financial Statements
+Note
+31 December 
+2015
+€
+31 December 
+2014
+(restated)
+€
+Non-current assets
+Investments in subsidiary company 12 65,603 63,148
+Current assets
+Trade and other receivables 13 167,376 946
+Loans to subsidiary company 12 2,130,013 594,381
+Cash and cash equivalents 14 1,218,464 18,599
+3,515,853 613,926
+Total assets 3,581,456 677,074
+Current liabilities
+Trade and other payables 15 (470,558) (103,446)
+Total liabilities (470,558) (103,446)
+Net assets 3,110,898 573,628
+Capital and reserves
+Called up share capital 17 145,004 90,903
+Share premium 17 4,051,322 580,373
+Share-based payment reserve 18 60,343 –
+Retained earnings (1,145,771) (108,227)
+Foreign exchange reserve – 10,579
+Total equity attributable to equity holders 3,110,898 573,628
+The notes on pages 39 to 57 form part of these financial statements.
+The financial statements were approved by the Board and authorised for issue on 18 April 2016 and signed on its behalf by:
+Andrea Stecconi
+Chief Executive Officer
+Company statement of changes in equity
+Share
+capital
+€
+Share
+premium
+account
+€
+Merger
+reserve
+€
+Share-based
+payment
+reserve
+€
+Retained
+earnings
+€
+Foreign
+exchange
+reserve
+€
+Total
+€
+On incorporation – – – – – – –
+Loss for the year – – – – (108,227) – (108,227)
+Foreign exchange translation – – – – – 10,579 10,579
+Total comprehensive loss for the year – – – – (108,227) 10,579 (97,648)
+Shares issued 90,903 580,373 – – – – 671,276
+As at 31 December 2014 90,903 580,373 – – (108,227) 10,579 573,628
+Change in functional currency 1,465 11,613 – – (2,499) (10,579) –
+Total comprehensive loss for the year – – – – (1,035,045) – (1,035,045)
+Shares issued 52,636 3,459,336 – – – – 3,511,972
+Share-based payments – – – 60,343 – – 60,343
+As at 31 December 2015 145,004 4,051,322 – 60,343 (1,145,771) – 3,110,898
+Company statement of financial position
+Company registration number: 08993398
+Annual Report 2015 37 Defenx PLC
+Year ended
+31 December 
+2015
+€
+Year ended
+31 December 
+2014
+(restated)
+€
+Cash ﬂows from operating activities
+Loss for the year after taxation (1,035,045) (108,227)
+Adjustments for:
+Net interest income (25,809) (3,883)
+Share-based payments expense 60,343 –
+Operating cash ﬂows before movements in working capital (1,000,511) (112,110)
+(Increase) in trade receivables (9,503) –
+(Increase) in other receivables (156,927) (946)
+Increase in trade and other payables 365,505 114,024
+Increase in deferred revenue 1,605 –
+200,680 113,078
+Net cash ﬂow from operating activities (799,831) 968
+Investing activities
+Investment in subsidiary – (63,148)
+Loans to subsidiary (1,509,823) (590,498)
+Net cash used in investing activities (1,509,823) (653,646)
+Financing activities
+Net proceeds from issue of share capital 3,511,972 671,277
+Net cash from ﬁnancing activities 3,511,972 671,277
+Net increase in cash and cash equivalents 1,202,318 18,599
+Cash and cash equivalents at beginning of year 18,599 –
+Effect of foreign exchange translation on cash and cash equivalents (2,453) –
+Cash and net cash equivalents at end of year 1,218,464 18,599
+Annual Report 2015 38
+Company cash flow statement Defenx PLC
+Strategic Report Governance Financial Statements
+Notes to the consolidated financial statements
+Defenx PLC is a public limited company incorporated in the UK on 11 April 2014. The Company’s Ordinary Shares are traded on 
+AIM. The consolidated financial statements comprise Defenx PLC and its subsidiary, Defenx SA, a company incorporated in 
+Switzerland (together referred to as the ‘Group’), for the year ended 31 December 2015.
+The Company has taken advantage of the exemption available under section 408 of the Companies Act 2006 and has not 
+presented the parent company’s own income statement. The parent company’s loss for the period ended 31 December 2015 
+amounted to €1,035,047 (2014: €108,227).
+1. Basis of preparation
+These financial statements have been prepared in accordance with International Financial Reporting Standards and 
+Interpretations (collectively IFRSs) issued by the International Accounting Standards Board (IASB) as adopted by the European 
+Union (adopted IFRSs).
+The preparation of the financial statements in compliance with adopted IFRSs requires the use of certain critical accounting 
+estimates. It also requires management to exercise judgement in applying the accounting policies. The areas where significant 
+judgements and estimates have been made in preparing the financial statements and their effect are disclosed in this note.
+Basis of consolidation: merger accounting
+The financial statements have been prepared on a consolidated basis in line with the principles laid out in IFRS 3: Business 
+Combinations. The standard states that in instances where group reconstructions have taken place, such as in the case of a share 
+for share exchange, guidance should be taken from the appropriate national GAAP in preparing the financial statements. The 
+Directors have therefore considered the implications of FRS 6: Acquisitions and Mergers and consider it appropriate to adopt 
+merger accounting. As a result, comparative information for the Group is presented using the previous results of Defenx SA as if 
+the existing group structure had always been in place. The current and comparative capital structure of the Group disclosed is 
+that of Defenx PLC.
+Going concern
+The Chief Executive Officer’s Review on pages 16 and 17 outlines the activities of the Group along with factors which may affect 
+its future development and performance. The Group’s financial position is discussed in the Financial Review on pages 18 to 20 
+along with details of its cash flow and liquidity. Note 16 sets out the Group’s financial risks and the management of those risks.
+As at 31 December 2015, the Group had net assets of €5,812,442 (31 December 2014: €2,048,209) as set out in the 
+consolidated statement of financial position on page 35. The Directors have prepared detailed forecasts of the Group’s 
+performance for the next two years. The forecasts contain certain assumptions about the level of future sales, margins and the 
+level of cash recovery from trading.
+After considering the forecasts and the risks, the Directors are satisfied that the Group has adequate resources to continue in 
+operational existence for the foreseeable future and, accordingly, continue to adopt the going concern basis in preparing the 
+Group and Company financial statements.
+2. Principal accounting policies
+The principal accounting policies applied in the preparation of these financial statements are set out below. These policies  
+are consistent with those applied in the prior financial year and are applied by both Group entities unless otherwise stated.
+Revenue recognition
+Revenue is recognised to the extent that it is probable that economic benefits will flow to the Group and the revenue can be 
+reliably measured. Revenue is measured at the fair value of the consideration received or receivable for the sale of goods or 
+services provided in the normal course of business, net of all related discounts and sales taxes. 
+The Group’s revenues to date comprise sales of software licences, the majority of which are for 12 months with a limited number 
+for two, three and five years. These term-based agreements include free upgrades and enhancements on a when-and-if-available 
+basis. The Group recognises the software licence portion of revenue at the time of delivery while the portion attributable to 
+upgrades and enhancements is deferred and recognised on a straight-line basis over the period of the relevant agreement. 
+Customers have no right of return; once sold, licences are neither refundable nor returnable.
+Annual Report 2015 39 Defenx PLC
+2. Principal accounting policies continued
+Foreign currency
+The Directors reviewed the functional currency applied by the Group and determined that, with effect from 1 January 2015,  
+the functional currency should be the Euro. This change has arisen due to the increasing proportion of the Group’s operational 
+activities denominated in Euro such that a Sterling functional currency is no longer considered appropriate by the Directors. 
+Transactions in foreign currencies are initially recorded at the respective functional currency rates ruling when the transactions 
+occurred. Foreign currency monetary assets and liabilities are translated at the rates ruling on the reporting date. Differences 
+arising on settlement or translation are recognised in profit or loss. Non-monetary items that are measured in terms of historical 
+cost in a foreign currency are translated using the exchange rates at the dates of the initial transactions. 
+The Group’s presentation currency remains the Euro. As this now matches the functional currency applied by both Defenx PLC  
+and Defenx SA, there are no longer any currency translations on consolidation.
+Trade and other receivables
+Trade receivables are stated at fair value being the lower of their original invoiced value and recoverable amount. A provision for 
+impairment is made where there is objective evidence that the Group will not be able to recover balances in full. Indications of 
+impairment include customers in financial difficulty or seriously in default against agreed payment terms. There is no material 
+variance between carrying and fair values.
+Property, plant and equipment
+Property, plant and equipment are recognised initially at cost. After initial recognition, these assets are carried at cost less any 
+accumulated depreciation and impairment losses. Cost comprises the aggregate amount paid and the fair value of any other 
+consideration given to acquire the asset. Depreciation is computed by allocating the depreciable amount of an asset on a 
+systematic basis over its useful life and is applied separately to each identifiable component.
+The Group’s property, plant and equipment assets are represented by fully depreciated IT equipment, office furniture and fixtures. 
+The Company has no property, plant and equipment assets.
+Intangible assets
+Identifiable intangible assets are recognised when the Group controls the asset, it is probable that future economic benefits 
+attributable to the asset will flow to the Group and the cost of the asset can be reliably measured. The Group’s intangible assets 
+represent investments in development costs of software. All intangible assets are amortised over their useful economic life, from 
+the date of purchase or development on a straight-line basis.
+During the year, the Directors have reviewed the estimated useful lives of intangible assets and concluded that an increase  
+from three to four years better reflected the lifetime of mobile device software assets. The estimated useful lives of intangible 
+assets are now: 
+Development costs for software
+Related to anti-malware for mobile devices 4 years
+For anti-malware for NAS devices 5 years
+Related to integration with customer systems 3 years
+Impairment of assets
+At each balance sheet date, the Directors review the carrying amounts of property, plant, equipment and intangible assets to 
+determine whether there is any indication that those assets have suffered an impairment. If any such indication exists, the 
+recoverable amount of the asset, which is the higher of its fair value less costs to sell and its value in use, is estimated in order  
+to determine the extent of the impairment loss. Where the asset does not generate cash flows that are independent from other 
+assets, the Directors estimate the recoverable amount of the cash-generating unit to which the asset belongs.
+Recoverable amounts are based on a calculation of expected future cash flows discounted to their present value using pre-tax 
+discount rates that reflect market assessments of the time value of money and risks specific to the asset for which the expected 
+future cash flows have not been adjusted.
+Any impairment charge is recognised in the income statement in the period in which it occurs for assets carried at cost if the 
+recoverable amount is less than the carrying value. Where an impairment loss subsequently reverses due to a change in the 
+original estimate, the carrying amount of the asset is increased to the revised estimate of its recoverable amount.
+Notes to the consolidated financial statements continued
+Annual Report 2015 40 Defenx PLC
+Strategic Report Governance Financial Statements
+Pension costs
+The Group makes defined contributions to its employees’ pension plans according to the laws of the country of employment.  
+The pension costs charged in the financial statements represents the contributions payable by the Group and Company during  
+the year.
+Share-based payments
+In accordance with IFRS 2 Share-based payments reflects the economic cost of awarding shares and share options to employees 
+and Directors by recording an expense in the statement of comprehensive income equal to the fair value of the benefit awarded. 
+The expense is recognised in the statement of comprehensive income over the vesting period of the award.
+Fair value is measured by the use of a Black-Scholes model, which takes into account conditions attached to the vesting and 
+exercise of the options. The expected life used in the model is adjusted, based on management’s best estimate, for the effects  
+of non-transferability, exercise restrictions and behavioural considerations.
+Where awards are granted to employees of the subsidiary, the fair value of the award at grant is recorded in the parent company’s 
+financial statements as an increase in the value of the investment with a corresponding increase in equity via the share-based 
+payment reserve.
+The dilutive effect of outstanding options is reflected as additional share dilution in the computation of diluted earnings  
+per share.
+Leased assets and obligations
+Leases are classified as finance leases when the terms of the lease transfer substantially all the risks and rewards of ownership 
+to the Group. All other leases are classified as operating leases.
+Operating leases
+Assets leased under operating leases are not recorded on the statement of financial position. Rental payments are charged 
+directly to the income statement on a straight-line basis over the lease term.
+Current and deferred taxation
+Current tax is the expected tax payable on taxable income for the year, using tax rates enacted or substantively enacted at  
+the balance sheet date, and any adjustments to tax payable in respect of previous years.
+Deferred tax is the tax expected to be payable or recoverable on differences between the carrying amounts of assets and 
+liabilities in the financial statements and the corresponding tax bases used in the computation of taxable profits (‘temporary 
+differences’) and is accounted for using the balance sheet liability method.
+Deferred tax liabilities are generally recognised for all taxable temporary differences.
+Deferred tax assets are generally recognised to the extent that it is probable that taxable profits will be available against which 
+deductible temporary differences can be utilised. Where there are deductible temporary differences arising in subsidiaries, 
+deferred tax assets are recognised only where it is probable that they will reverse in the foreseeable future and taxable profits 
+will be available against which the temporary differences can be utilised.
+The carrying amount of deferred tax assets is reviewed at each balance sheet date and reduced to the extent that it is no longer 
+probable that sufficient tax profits will be available to allow all or part of the asset to be recovered.
+Deferred tax is calculated at the tax rates that are expected to apply in the period when the liability is settled or the asset is 
+realised. Deferred tax is charged or credited to the income statement.
+Cash and cash equivalents
+Cash and cash equivalents includes cash in hand, deposits held with banks, other short-term highly liquid investments with 
+original maturities of three months or less and bank overdrafts. Bank overdrafts are shown within borrowings in current liabilities 
+in the statement of financial position.
+Annual Report 2015 41 Defenx PLC
+2. Principal accounting policies continued
+Trade and other payables
+Trade payables are recognised at fair value. There is no material variance between book and fair values.
+Borrowings
+Bank loans and overdrafts are recorded initially at their fair value, net of direct transaction costs and finance charges and are 
+recognised in the income statement over the term of the instrument. There is no material variance between book and fair values.
+3. Judgements and estimates
+The Board makes judgements and assumptions concerning the future that affect the application of accounting policies and  
+the reported amounts of assets, liabilities, income and expenses. The resulting accounting estimates calculated using these 
+judgements and assumptions will, by definition, seldom equal the related actual results but are based on historical experience  
+and expectations of future events. Actual results may differ from these estimates.
+The judgements and key sources of estimation uncertainty that may have a significant effect on the amounts recognised in the 
+financial statements are discussed below:
+Revenue recognition
+Judgement is required in the assessment of licence activation; which can be immediately upon sale, sometime after sale or not  
+at all where our licences are sold as a bundle by channel partners. However, the revenue portion attributable to upgrades and 
+enhancements that is deferred represents a small proportion of the total revenue from licence sales.
+Impairment of assets
+Judgement is required in the impairment assessment of assets, notably intangible software development costs. Recoverable 
+amounts are based on a calculation of expected future cash flows, which require assumptions and estimates of future 
+performance to be made. Cash flows are discounted to their present value using pre-tax discount rates based on the Directors 
+market assessment of risks specific to the asset.
+4. Changes in accounting policies and disclosures
+New standards adopted during the year
+The following new standards and amendments became effective as of 1 January 2015: 
+• Amendments to IAS 19 Defined Benefit Plans: Employee Contributions 
+• Amendment to IAS 32 Financial Instruments: Presentation (effective date year beginning 1 January 2015)
+• Amendment to IAS 36 Impairment of Assets (effective date year beginning 1 January 2015)
+• IFRIC 21 Levies (effective date year beginning 1 January 2015)
+• Annual Improvements Cycle – 2010–2012  
+• Annual Improvements Cycle – 2011–2013  
+In the current period, the Group and Company have adopted all of the new and revised standards and interpretations issued by  
+the International Accountancy Standards Board (IASB) and the International Financial Reporting Interpretations Committee (the 
+IFRIC) of the IASB that are relevant to its operations and effective for reporting dates beginning on 1 January 2014.
+New standards adopted early
+At the date of the authorisation of the financial statements, no standards and interpretations, that are issued but not yet 
+effective, have been adopted early.
+Notes to the consolidated financial statements continued
+Annual Report 2015 42 Defenx PLC
+Strategic Report Governance Financial Statements
+New standards and interpretations not yet adopted
+Certain new standards, amendments and interpretations to existing standards have been published that are mandatory for the 
+Group’s accounting periods beginning on or after 1 January 2016 or later periods and which the Group has decided not to adopt 
+early are:
+• Amendments to IFRS 7 Financial Instruments Disclosures (effective for accounting periods beginning on or after 1 January 2016)
+• IFRS 9 Financial Instruments (effective for accounting periods beginning or after 1 January 2018).
+• Amendments to IFRS 10 Consolidated Financial Statements (effective for accounting periods beginning on or after 1 January 2016)
+• IFRS 15 Revenue from Contracts with Customers (effective for accounting periods beginning on or after 1 January 2017)
+• IFRS 16 Leases (effective for accounting periods beginning on or after 1 January 2019)
+• Amendments to IAS 7 Statement of cash flow (effective for accounting periods beginning on or after 1 January 2017)
+• Amendments to IAS 16 Property, Plant and Equipment (effective for accounting periods beginning on or after 1 January 2016)
+• Amendments to IAS 34 Interim Financial Reporting (effective for accounting periods beginning on or after 1 January 2016)
+• Amendments to IAS 38 Intangible Assets (effective for accounting periods beginning on or after 1 January 2016)
+The Directors have considered the above new standards, interpretations and amendments to published standards that are  
+not yet effective and concluded that, except for the amendments to IAS 1 Presentation of Financial Statements and IFRS 10 
+Consolidated Financial Statements, they are either not relevant or that they would not have a significant impact on the Group’s 
+and Company’s financial statements.
+Correction of prior period errors 
+In January 2014, Defenx SA entered into a loan facility that was repaid by Defenx PLC from the proceeds of the private placing 
+later in the year. The fees and interest on this loan were not charged to profit and loss. As a consequence, interest expense 
+was understated. 
+In November 2014, Defenx SA invoiced a new customer for software licences. The Group’s policy is to agree to make contributions 
+to customers’ marketing efforts contingent on agreed sales targets. However, Defenx SA did not accrue for the marketing 
+contribution in its 2014 accounts. As a consequence, expenses were understated. 
+These errors have been corrected by restating each of the affected financial statement items for the period as follows: 
+Year ended
+31 December 
+2014
+(restated)
+€
+Increase/(decrease) on equity
+Other payables (196,584)
+Taxation 31,230
+Net impact on equity (165,354)
+Increase/(decrease) in proﬁt
+Administrative expenses (156,150)
+Finance expense (40,434)
+Tax expense 31,230
+Net impact on proﬁt for the period (165,354)
+Annual Report 2015 43 Defenx PLC
+5. Segmental analysis
+The Group currently has three reportable product segments: Mobile, PC and NAS, which reflect the three separate product 
+categories for which software is developed and sold. The Group does not analyse costs or assets other than intangible assets by 
+segment. The Group does not analyse costs or assets by geographical region.
+Revenue by product segment and geographic market (based on customer location) for the Group is as follows:
+Year ended
+31 December 
+2015
+€
+Year ended
+31 December 
+2014
+(restated)
+€
+Revenue by product category
+Mobile 3,197,934 1,637,105
+PC 1,252,544 721,557
+NAS 25,145 6,533
+Other 13,934 16,373
+4,489,557 2,381,568
+Revenue by geographic market (customer location)
+Europe (EU including the UK) 3,725,222 1,245,834
+Europe (Non-EU) 739,190 1,108,966
+Other 25,145 26,768
+4,381,209 2,381,568
+Non-current assets (capitalised development costs) by product segment for the Group are as follows: 
+Year ended
+31 December 
+2015
+€
+Year ended
+31 December 
+2014
+(restated)
+€
+Non-current assets
+Mobile 394,307 199,002
+PC – –
+NAS 1,747,258 1,522,402
+Other 465,835 –
+Total 2,607,400 1,721,404
+Notes to the consolidated financial statements continued
+Annual Report 2015 44 Defenx PLC
+Strategic Report Governance Financial Statements
+6. Proﬁt from operations 
+The operating profit is stated after charging:
+Year ended
+31 December 
+2015
+€
+Year ended
+31 December 
+2014
+(restated)
+€
+Cost of sales
+Amortisation of intangible assets 476,623 160,307
+Sales, marketing and administrative expenses 
+Marketing contributions 1,451,965 743,166
+Staff costs 691,358 114,319
+Share-based payment expense 60,343 –
+Bad debt expense 69,485 33,176
+Lease payments – land and buildings 29,588 19,753
+Net foreign exchange (gains)/losses 34,443 (8,677)
+Auditors’ remuneration (included within administrative expenses)
+Audit services
+Parent company and Group audit 17,965 8,500
+Audit of the parent company’s subsidiary 11,272 6,239
+Non-audit services
+Reporting accountant for the AIM admission 113,706 –
+Tax compliance and other fees 32,003 –
+Total auditors’ remuneration 174,946 14,739
+Exceptional expenses
+Costs in respect of the AIM admission 614,192 –
+AIM admission costs of €366,817, including auditors’ remuneration of €26,579, were charged to the share premium account.
+7. Staff costs
+Staff costs (including Directors’ emoluments) incurred in the year were as follows:
+ 
+Year ended
+31 December 
+2015
+€
+Year ended
+31 December 
+2014
+(restated)
+€
+Wages and salaries 616,727 104,840
+Social security costs 46,424 4,343
+Pension costs 9,126 5,136
+Share-based payments expense 19,081 –
+Net staff costs 691,358 114,319
+Annual Report 2015 45 Defenx PLC
+7. Staff costs continued
+The average monthly number of permanent employees during the period was as follows:
+Year ended
+31 December 
+2015
+Number
+Year ended
+31 December 
+2014
+Number
+Directors’ 3 3
+Administration, sales and support 3 1
+6 4
+  € €
+Directors emoluments 
+Emoluments 472,597 72,709
+  € €
+Highest paid Director
+Emoluments 138,952 33,188
+8. Finance income and expenses
+ 
+Year ended
+31 December 
+2015
+£
+Year ended
+31 December 
+2014
+(restated)
+£
+Finance income
+Interest income 37 74
+Finance expense
+Interest expense 2,787 43,600
+9. Income tax
+No liability to UK corporation tax arose on ordinary activities for the year ended 31 December 2015. The tax charge for both 2015 
+and 2014 arose in respect of operations in Switzerland as follows:
+ 
+Year ended
+31 December 
+2015
+€
+Year ended
+31 December 
+2014
+(restated)
+€
+Current tax
+Current income tax on proﬁts for the year 233,905 204,580
+Deferred tax
+Relating to origination and reversal of temporary differences (63,566) 20,616
+Total income tax expense 170,339 225,196
+Notes to the consolidated financial statements continued
+Annual Report 2015 46 Defenx PLC
+Strategic Report Governance Financial Statements
+The reasons for the difference between the actual income tax charge for the year and the standard rate of corporation tax in the 
+UK applied to the profit for the year are as follows:
+ 
+Year ended
+31 December 
+2015
+€
+Year ended
+31 December 
+2014
+(restated)
+€
+Proﬁt for the year 191,918 535,795
+Tax expense 170,339 225,196
+Proﬁt before tax 362,257 760,991
+Tax charge using Defenx PLC’s domestic rate of 20.25% (2014: 21.5%) 73,357 163,613
+Effect of higher income tax rate in Switzerland 4,049 (8,344)
+Defenx PLC loss carried forward for future offset 85,021 21,645
+Expenses not deductible for tax purposes 121,041 –
+Temporary timing differences (50,859) –
+Overseas taxation 1,296 –
+Timing difference arising on standards conversions – 29,934
+Utilisation of previously unrecognised tax losses – (2,268)
+At the effective income tax rate 233,905 204,580
+The aggregate tax rate in Switzerland was 20.4% during the year (2014: 20.4%). The corporation tax rate in the UK was reduced 
+from 21% to 20% effective 1 April 2015.
+Deferred tax is calculated in full on temporary differences under the liability method using a tax rate of 20.4% (2014: 20.4%) 
+being the effective rate of tax applicable in Switzerland where the deferred tax arises.
+Consolidated statement of 
+ ﬁnancial position
+Consolidated statement of 
+ proﬁt or loss
+Year ended
+31 December
+2015
+€
+Year ended
+31 December
+2014
+(restated)
+€
+Year ended
+31 December
+2015
+€
+Year ended
+31 December
+2014
+(restated)
+€
+Timing difference arising on standards conversion – (146,452) 146,452 12,133
+Accelerated depreciation for accounts purposes (85,270) (12,147) (73,123) 12,147
+Deferred revenue 64,620 29,681 34,614 108
+Disallowed bad debt provision – 44,377 (44,377) (3,772)
+Deferred tax expense/(income) – – (63,566) 20,616
+Net deferred tax asset/(liability) (20,650) (84,541) – –
+The accumulated tax losses available to the Group at 31 December 2015 were €553,284 (2014: €106,620). These losses all 
+relate to activities, and are available indefinitely for offsetting against future taxable profits, of Defenx PLC in the UK. No 
+deferred tax asset is recognised in respect of these losses as it is not sufficiently certain that the Company will be able to utilise 
+them in the near future. If the Group were able to recognise all unrecognised deferred tax assets, the retained profit would 
+increase by €110,657 (2014: €21,324).
+Annual Report 2015 47 Defenx PLC
+10. Earnings per share (EPS)
+Basic EPS amounts are calculated by dividing the profit for the year attributable to ordinary equity holders of the Company by the 
+weighted average number of Ordinary Shares outstanding during the year.
+Diluted EPS amounts are calculated by dividing the profit attributable to ordinary equity holders of the Company by the weighted 
+average number of Ordinary Shares outstanding during the year plus the weighted average number of Ordinary Shares that would 
+be issued on conversion of all the dilutive deferred shares into Ordinary Shares. 
+The following reflects the income and share data used in the basic and diluted EPS computations: 
+ 
+Year ended
+31 December 
+2015
+€
+Year ended
+31 December 
+2014
+(restated)
+€
+Proﬁt attributable to ordinary equity holders of the Defenx PLC for basic earnings and adjusted for the  
+effects of dilution 191,918 535,795
+Weighted average number of Ordinary Shares for basic earnings per share 4,549,653 3,208,561
+Effect of dilution from deferred shares 300,000 171,663
+Effect of dilution from share options 86,571 –
+Weighted average number of Ordinary Shares for basic earnings per share adjusted for the effect of 
+dilution 4,936,224 3,380,224
+The weighted average numbers of shares above reflect the eight for one Ordinary Share consolidation implemented on 16 
+November 2015 as further disclosed in note 17. There have been no other relevant transactions involving Ordinary Shares or 
+potential Ordinary Shares since 31 December 2014.
+11. Intangible assets
+The Group’s intangible assets all relate to capitalised software development costs. There were no intangible assets in the 
+statement of financial position of the Company.
+Group 
+Mobile
+€
+NAS
+€
+Other
+€
+Total
+€
+Cost
+At 1 January 2014 22,109 636,319 – 658,428
+Additions 275,741 934,952 – 1,210,693
+Foreign exchange adjustment 651 11,939 – 12,590
+At 31 December 2015 298,501 1,583,210 – 1,881,711
+Change in functional currency 10,978 641 – 11,619
+Additions 339,500 511,500 500,000 1,351,000
+At 31 December 2015 648,979 2,095,351 500,000 3,244,330
+Accumulated depreciation
+At 1 January 2014 – – – –
+Charge for the year 99,500 60,807 – 160,307
+At 1 January 2015 99,500 60,807 – 160,307
+Charge for the year 155,172 287,286 34,165 476,623
+At 31 December 2015 254,672 348,093 34,165 636,930
+Net book value
+At 31 December 2014 199,001 1,522,403 – 1,721,404
+At 31 December 2015 394,307 1,747,258 465,835 2,607,400
+The intangible assets booked represent qualifying expenditure on the development of software products for resale less 
+accumulated amortisation and impairment costs. The carrying value of these intangible assets is tested for impairment on a half 
+yearly basis, or when there are indications that the value of the assets might be impaired.
+Annual Report 2015 48
+Notes to the consolidated financial statements continued Defenx PLC
+Strategic Report Governance Financial Statements
+The Directors have assessed development projects’ individual net present value against forecasts of future sales of the related 
+products, unit sales prices and costs over a five-year period. No sales beyond five years have been included in the calculations. 
+The impairment tests are sensitive to changes in these forecasts and changes could result in impairment; however, the varying 
+bases indicate a net present value in excess of the carrying value of the intangible assets at the balance sheet date.
+The key assumptions in the value in use calculations are:
+Year ended
+31 December 
+2015
+31 December 
+2014
+(restated)
+Gross margin 80–95% 85%
+Marketing contributions 0–35% 35%
+Discount rate 20% 20%
+Future events may cause these assumptions to change, which could have an adverse effect on the future results of the Group. 
+The discount rate would need to increase to around 60% or the gross margin and marketing contribution assumptions would 
+need to change by over 50% before affecting the carrying value of intangible assets. As a result no sensitivity analysis has 
+been disclosed.
+12. Investments in subsidiary
+The Company owns 100% of the issued share capital of the following subsidiary undertakings, which have been included in the 
+consolidated financial statements:
+Subsidiary undertaking Country of registration Principal activity
+Defenx SA Switzerland Development and licensing of software
+The movement in investments in the parent company’s statement of financial position is:
+Company
+ 
+Year ended
+31 December 
+2015
+€
+Year ended
+31 December 
+2014
+(restated)
+€
+Opening balance 1 January 63,148 –
+Change in functional currency 2,455 –
+Additions – 63,148
+Closing balance at 31 December 65,603 63,148
+Annual Report 2015 49 Defenx PLC
+13. Trade and other receivables
+Group Company
+Year ended
+31 December
+2015
+€
+Year ended
+31 December
+2014
+(restated)
+€
+Year ended
+31 December
+2015
+€
+Year ended
+31 December
+2014
+(restated)
+€
+Gross trade receivables 3,099,697 1,437,138 9,503 –
+Provision for impairment (270,360) (417,354) – –
+Net trade receivables 2,829,337 1,019,784 9,503 –
+Prepayments and accrued income 162,191 19,754 157,873 946
+Payments on account 314,076 – – –
+Total receivables 3,305,604 1,039,538 167,376 946
+Provisions for impairment
+Opening balance at 1 January (417,354) (481,319) – –
+Utilised during the year 200,193 129,504 – –
+Net increase during the year (53,199) (65,539) – –
+Closing balance at 31 December (270,360) (417,354) – –
+All amounts shown under receivables are due within one year. The payments on account represent advances to an established 
+software developer with whom the Group had agreed detailed specifications for work that had been started, but not invoiced 
+prior the year end.
+14. Cash and cash equivalents
+Cash and cash equivalents comprise balances on bank accounts, cash in transit and cash floats held in the business. Finance 
+charges are accounted for on an accruals basis and charged to the statement of comprehensive income when payable. 
+Cash and cash equivalents are held in Euro, Sterling, Swiss Francs and US Dollars and placed on deposit in the UK and Switzerland.
+15. Trade and other payables
+Group Company
+Year ended
+31 December
+2015
+€
+Year ended
+31 December
+2014
+(restated)
+€
+Year ended
+31 December
+2015
+€
+Year ended
+31 December
+2014
+(restated)
+€
+Current
+Trade payables 440,241 88,454 419,111 9,508
+Other payables and accruals 215,893 389,833 49,840 93,938
+Current taxation 442,690 210,406 – –
+Total payables 1,098,824 688,693 468,951 103,446
+Deferred taxation 20,975 84,541 – –
+Deferred revenue 314,632 145,494 1,605 –
+Total current liabilities 1,434,431 918,728 470,556 103,446
+All amounts shown above are payable within one year.
+Annual Report 2015 50
+Notes to the consolidated financial statements continued Defenx PLC
+Strategic Report Governance Financial Statements
+16. Financial instruments and risk management 
+General objectives, policies and processes 
+The overall objective of the Board is to set policies that seek to reduce risk as far as possible without unduly affecting the Group’s 
+competitiveness and flexibility. Further details regarding these policies are set out below. 
+The Board receives monthly reports from the Chief Financial Officer through which it reviews the effectiveness of the processes 
+put in place and the appropriateness of the objectives and policies it sets. 
+The Group does not use derivative financial instruments such as forward currency contracts, interest rate swaps or similar 
+instruments. The Group does not issue or use financial instruments of a speculative nature. 
+Principal ﬁnancial instruments 
+The principal financial instruments used by the Group, from which financial instrument risk arises, are as follows: 
+• trade receivables;
+• cash and cash equivalents; and
+• trade and other payables.
+Trade and other receivables are initially measured at face value. Book values and expected cash flows are reviewed by the Board 
+and any impairment charged to the consolidated statement of comprehensive income in the relevant period. 
+Trade and other payables are measured at book value. The book value of financial assets and liabilities equates to their fair value. 
+A summary of the financial instruments held by category is provided below:
+Group Company
+Financial assets
+Year ended
+31 December 
+2015
+€
+Year ended
+31 December 
+2014
+(restated)
+€
+Year ended
+31 December 
+2015
+€
+Year ended
+31 December 
+2014
+(restated)
+€
+Trade receivables – due at reporting date 1,215,070 564,922 – –
+Trade receivables – not due at reporting date 1,884,627 872,216 9,503 –
+Gross trade receivables 3,099,697 1,437,138 9,503 –
+Less: provision for impairment (270,360) (417,354) – –
+Net trade receivables 2,829,337 1,019,784 9,503 –
+Other receivables 476,267 19,754 157,873 946
+Net receivables 3,305,604 1,039,538 167,376 946
+Cash and cash equivalents 1,333,869 205,995 1,218,464 18,599
+Trade receivables principally comprise amounts outstanding for sales to customers and are typically payable between 90 and 120 
+days. The average age of debtors was 91 days (2014: 85 days). An impairment review of outstanding trade receivables is carried 
+out at each period end and a specific amount provided for. A general provision is maintained reflecting the fact that some 
+customers are small and do not have strong credit histories.
+Group Company
+Financial liabilities
+Year ended
+31 December 
+2015
+€
+Year ended
+31 December 
+2014
+(restated)
+€
+Year ended
+31 December 
+2015
+€
+Year ended
+31 December 
+2014
+(restated)
+€
+Trade payables 440,241 88,454 419,111 9,508
+Other payables and accruals 215,893 389,833 49,840 93,938
+Current taxation 442,690 210,406 – –
+Total payables 1,098,824 688,693 468,951 103,446
+Annual Report 2015 51 Defenx PLC
+16. Financial instruments and risk management continued
+Trade and other payables and accruals comprise amounts outstanding for trade purchases and ongoing costs and are typically 
+payable within 90 days. The average age of trade credits was 28 days (2014: 45 days). Where there is a contractual right of 
+set-off with a customer that is also a supplier, notably in relation to marketing contributions payable to customers, relevant 
+receivable and payable balances are set against one another.
+Cash and cash equivalents 
+Cash and cash equivalents comprise balances on bank accounts, cash in transit and cash floats held in the business. Finance 
+charges are accounted for on an accruals basis and charged to the statement of comprehensive income when payable. Cash  
+and cash equivalents are held in Euro, Swiss Francs, Sterling and US Dollars and placed on deposit in UK and Swiss banks.
+The Group is exposed to the following financial risks: 
+• credit risk; 
+• foreign exchange risk; 
+• other market price risk; and 
+• liquidity risk. 
+Credit risk 
+Credit risk is the risk of financial loss to the Group if a customer or counterparty to a financial instrument fails to meet its 
+contractual obligations. The Group is mainly exposed to credit risk from credit sales. At 31 December 2015, the Group has net 
+trade receivables of €2,829,337 (2014: €1,019,784).
+The Group is exposed to credit risk in respect of these balances such that, if one or more customers encounter financial 
+difficulties, this could materially and adversely affect the Group’s financial results. The Group attempts to mitigate credit risk  
+by assessing the credit rating of new customers prior to entering into contracts and by entering contracts with customers with 
+agreed credit terms. The analysis below shows the ageing of trade and other receivables and the movement in bad debt provision 
+in the year:
+Group Company
+Ageing of trade and other receivables
+Year ended
+31 December 
+2015
+€
+Year ended
+31 December 
+2014
+(restated)
+€
+Year ended
+31 December 
+2015
+€
+Year ended
+31 December 
+2014
+(restated)
+€
+Up to three months 1,675,202 564,922 9,503 –
+Three to six months 943,742 179,285 – –
+Above six months 480,753 692,931 – –
+Gross receivables 3,099,697 1,437,138 9,503 –
+Less: allowance for receivables (270,360) (417,354) – –
+Net receivables 2,829,337 1,019,784 9,503 –
+Sales to three customers based in Italy amounted to approximately 65% (2014: 15%) of Group revenue. Sales to one customer 
+based in Switzerland amounted to 16% (2014: 22%) and one customer based in Malta amounted to 14% (2014: 24%) of Group 
+revenue. No other individual customer accounted for more than 5% of Group revenue.
+Customer credit risk is managed in accordance with the Group’s established policy and procedures. Customer credit quality is 
+assessed and periodically reviewed based on available information and individual credit limits defined based on this assessment. 
+Outstanding customer receivables are actively monitored and reviewed at least quarterly. At 31 December 2015, the Group had 
+four customers (2014: one) that owed more than €500,000, accounting for 92% (2014: 42%) of trade receivables outstanding.
+As at 31 December 2015, trade receivables of €923,853 (2014: €1,362,739) were past due but not impaired.
+Annual Report 2015 52
+Notes to the consolidated financial statements continued Defenx PLC
+Strategic Report Governance Financial Statements
+Liquidity risk 
+Liquidity risk arises from the Group’s management of working capital. The risk is that the Group will encounter difficulty in 
+meeting its financial obligations as they fall due. The Group’s policy is to ensure that it will always have sufficient cash to allow  
+it to meet its liabilities when they become due. To achieve this aim, it seeks to maintain cash balances to meet expected 
+requirements for a period of at least 90 days. The table below analyses the Group’s financial liabilities by contractual maturities. 
+All amounts disclosed in the table are the contractual undiscounted cash flows.
+Group Company
+Ageing of trade and other payables
+Year ended
+31 December 
+2015
+€
+Year ended
+31 December 
+2014
+(restated)
+€
+Year ended
+31 December 
+2015
+€
+Year ended
+31 December 
+2014
+(restated)
+€
+Up to three months 1,098,824 688,693 468,951 103,446
+Three to six months – – – –
+Above six months – – – –
+1,098,824 688,693 468,951 103,446
+Capital management 
+The Group’s capital is made up of share capital, share premium, merger reserve, foreign currency reserve and retained profits 
+totalling €5,812,442 at 31 December 2015 (2014: €2,048,209).
+The Group’s objectives when maintaining capital are: 
+• to safeguard the ability to continue as a going concern, so that the Group can continue to provide returns for shareholders  
+and benefits for other stakeholders; and 
+• to provide an adequate return to shareholders by pricing products and services commensurately with the level of risk. 
+The capital structure of the Company consists of shareholders’ equity as set out in the consolidated statement of changes in 
+equity on page 35. All working capital requirements are financed from existing cash resources. 
+Foreign exchange risk 
+Foreign exchange risk arises when Group entities enter into transactions denominated in a currency other than their functional 
+currency. The Group’s policy is, where possible, to allow customers to settle liabilities denominated in the customer’s functional 
+currency, being primarily Euro and Swiss Franc. 
+The Group is predominantly exposed to currency risk on sales and purchases made from customers and suppliers based in the 
+Eurozone. Sales and purchases from customers and suppliers are made on a central basis and the risk is monitored centrally, but 
+not hedged utilising any forward exchange contracts. Apart from these particular cash flows the Group aims to fund expenses  
+in the respective currency and to manage foreign exchange risk at a local level by matching the currency in which revenue is 
+generated and expenses are incurred. As at 31 December 2015, the Group’s net exposure to foreign exchange risk was as follows 
+for those entities with Euro representational currencies.
+ 
+Euro
+€
+Sterling
+€
+Swiss Franc
+€
+US Dollar
+€
+Total
+€
+As at 31 December 2015
+Trade and other receivables 3,153,671 148,773 2,957 203 3,305,604
+Cash and cash equivalents 588,808 736,378 8,657 26 1,333,869
+Trade and other payables (127,545) (379,984) (587,994) (3,301) (1,098,824)
+Net current assets 3,614,934 505,167 (576,380) (3,072) 3,540,649
+As at 31 December 2014
+Trade and other receivables 933,038 – 25,607 80,893 1,039,538
+Cash and cash equivalents 139,115 45,117 14,138 7,625 205,995
+Trade and other payables (23,493) – (665,200) – (688,693)
+Net current assets 1,048,660 45,117 (625,455) 88,518 556,840
+Annual Report 2015 53 Defenx PLC
+16. Financial instruments and risk management continued
+The impact of a reasonably possible strengthening by 10% of Euro exchange rates, with all other variables held constant, on the 
+Group’s profit before tax due to changes in the fair value of monetary assets and liabilities is shown below:
+Year ended
+31 December 
+2015
+€
+Year ended
+31 December 
+2014
+(restated)
+€
+Sterling (50,517) 4,512
+Swiss Franc 57,638 (62,546)
+US Dollar 307 (8,852)
+17. Share capital 
+Ordinary Share capital
+The Ordinary Shares of £0.018 carry the right to one vote per share at general meetings of the Company and the rights to share  
+in any distribution of profits or returns of capital and to share in any residual assets available for distribution in the event of a 
+winding up. The shares are denominated in Pounds Sterling.
+Defenx SA successfully implemented a share for share exchange whereby Defenx PLC became the holding Company of the Group. 
+Under the scheme of arrangement, Defenx SA’s shares in issue on 3 June 2015 were exchanged on a one for one basis for Defenx 
+PLC shares. 22,816,716 newly issued Ordinary Shares were credited as fully paid. However, in accordance with the adoption of 
+merger accounting as the basis of consolidation, the share exchange is assumed to have taken place at the beginning of the 
+relevant period. All disclosures of shares in these financial statements reflect this change as though the exchange had always 
+been in place.
+On 12 October 2015, shareholders approved the consolidation of the Ordinary Share capital of Defenx PLC on an eight for one 
+basis. This took effect on 16 November 2015 following which there were 4,673,258 Ordinary Shares in issue each with a  
+nominal value of £0.018.
+On 3 December 2015, a total of 1,425,654 Ordinary Shares of Defenx PLC were issued upon the admission to AIM at a price of 
+£1.48 per share.
+ 
+Number of 
+shares
+Share capital
+€
+Share premium
+€
+As at 1 January 2014 22,817,160 63,148 –
+Issue of new Ordinary Shares – private placing 9,204,000 27,460 580,373
+As at 31 December 2014 32,021,160 90,608 580,373
+Change in functional currency – 1,453 11,613
+Issue of new Ordinary Shares – private placing 5,364,904 16,068 762,325
+Equity issue costs – – (43,490)
+37,386,064
+Eight for one consolidation 4,673,258 –
+Issue of new Ordinary Shares – AIM placing and subscription 1,425,654 36,568 2,970,136
+Equity issue costs – – (229,635)
+As at 31 December 2015 6,098,912 144,697 4,051,322
+Share issue costs of €823,493 (2014: €463,952) have been charged against the share premium account.
+Notes to the consolidated financial statements continued
+Annual Report 2015 54 Defenx PLC
+Strategic Report Governance Financial Statements
+Deferred Share capital
+The Deferred Shares of £0.0001 carry no right to vote, no right to share in any distribution of profits or returns of capital and to 
+share in any residual assets available for distribution in the event of a winding up. The shares are denominated in Pounds Sterling. 
+Deferred shareholders have the right for five years from issue to convert their shares into Ordinary Shares for a consideration of 
+£0.10 per share less the amount paid for each Deferred Share on a one for one basis. The Company must give prior notice to 
+deferred shareholders in the event of a sale. 
+ 
+Number of 
+shares
+Share capital
+€
+Share premium
+€
+As at 1 January 2014 – – –
+Issue of new Deferred Shares – private placing 2,400,000 295 –
+As at 31 December 2014 2,400,000 295 –
+Change in functional currency – 12 –
+As at 31 December 2015 2,400,000 307 –
+The Company has not issued any partly paid shares nor any convertible securities, exchangeable securities or securities with 
+warrants. The Company does not hold any Treasury Shares.
+18. Share-based payments
+Defenx has established EMI and Unapproved Option Schemes as part of the Group’s incentive and retention strategy.
+Under the option schemes, the Group, at its discretion, may grant share options over the Ordinary Shares of Defenx PLC to 
+employees and Directors. The share options generally vest over 36 months, either from inception or from the first anniversary of 
+grant, provided the holder remains in employment. There are no performance conditions. The exercise price of the share options is 
+equal to the market price of the underlying shares on the date of grant. The contractual term of the share options is 10 years and 
+there are no cash settlement alternatives. 
+The Company also issued 60,989 warrants to advisers as part of its admission to AIM.
+The fair value of the options granted is estimated at the grant date using a Black-Scholes pricing model, taking into account the 
+terms and conditions upon which the options were granted, and the estimated share price volatility of the Company relative to 
+that of its competitors. 
+The fair value of options granted was estimated on the date of grant using the following assumptions: 
+Year ended
+31 December 
+2015
+Year ended
+31 December 
+2014
+(restated)
+Weighted average share price £1.319 –
+Weighted average exercise price £1.319 –
+Expected volatility 34% –
+Risk free rate of return 1.76% –
+Expected life (years) 5 –
+Expected dividend yield 0% –
+The expected life of the share options is based on current expectations and is not necessarily indicative of exercise patterns that 
+may occur. The full contractual life of options is 10 years. The expected volatility reflects the assumption that the historical 
+volatility over a period similar to the life of the options is indicative of future trends, which may not necessarily be the actual 
+outcome. Expected volatility was determined by referring to the share prices of a selection of comparable AIM listed companies.
+Annual Report 2015 55 Defenx PLC
+18. Share-based payments continued
+Year ended 31 December 2015 Year ended 31 December 2014
+Number WAEP
+1
+Number WAEP
+1
+Outstanding at 1 January – – – –
+Granted during the year 526,614 £1.319 – –
+Forfeited during the year – – – –
+Exercised during the year – – – –
+Expired during the year – – – –
+Outstanding at 31 December 526,614 £1.319 – –
+Exercisable at 31 December 94,489 £1.023 – –
+Vested at 31 December 94,489 £1.023 – –
+1
+  Weighted average exercise price.
+The weighted average remaining contractual life for the share options outstanding as at 31 December 2015 was 9.3 years 
+(2014: nil). 
+The range of exercise prices for options outstanding at the end of the year was £0.80 to £1.48 (2014: £nil). In the year ended 
+31 December 2015, options were granted on 22 July at £0.80 each and 3 December 2015 at £1.48 each (including the warrants). 
+The aggregate of the estimated fair values of the options granted on those dates is €316,756 (£225,293). The total share-based 
+payment expense recognised was €60,343 (£42,827) related to equity-settled share-based payment transactions in 2013. 
+No options were granted during the year ended 31 December 2014. 
+19. Reserves
+The following describes the nature and purpose of each reserve within equity: 
+Share premium The amount of capital contributed in excess of the nominal value of each Ordinary £0.018 (2014: £0.00225) 
+Share.
+Merger reserve The amount arising from the use of merger accounting (as outlined in note 22) being the difference between 
+the Company’s cost of investment in Defenx SA and the issued share capital of Defenx SA.
+Foreign exchange reserve Foreign exchange translation reserve resulting in the translation of the ﬁnancial information from the 
+functional to the presentation currency. Upon the adoption of the Euro as the Group’s functional currency,  
+the balance on the foreign exchange reserve was eliminated. 
+Retained earnings All other net gains and losses and transactions with owners (eg dividends) not recognised elsewhere.
+20. Commitments and contingencies
+Operating lease commitments – Group as lessee
+The Group has operating leases on office premises in Warwick, UK, and Balerna, Switzerland on one and six months’ notice 
+respectively. Future minimum rentals receivable under non-cancellable operating leases as at 31 December are €13,453 
+(2014: €12,232) within one year.
+Finance lease and hire purchase commitments 
+The Group has no finance lease or hire purchase commitments.
+Commitments
+At 31 December 2015, the Group had commitments of €1,300,000 (2014: €nil) relating to software development.
+Notes to the consolidated financial statements continued
+Annual Report 2015 56 Defenx PLC
+Strategic Report Governance Financial Statements
+21. Related party transactions
+Key management personnel – Group
+In the opinion of the Board, only the Executive Directors of the Company are regarded as key management personnel. The 
+Executive Directors have service agreements that require three months’ notice of termination from either party, except Andrea 
+Stecconi for whom the notice period is six months. Key management personnel compensation, including social security, comprised 
+the following: 
+ 
+Year ended
+31 December 
+2015
+€
+Year ended
+31 December 
+2014
+(restated)
+€
+Wages and salaries 349,229 72,709
+Beneﬁts 6,272 –
+Share-based payments expense 17,376 –
+372,877 72,709
+Other related party transactions – Group
+Defenx SA entered into a rental agreement with Mr Stecconi in respect of its offices in Switzerland. Defenx SA paid Mr Stecconi 
+€22,003 (2014: €19,753). There was no balance outstanding at the year end (2014: €nil).
+Defenx SA sold antivirus licences to Staff Srl, a company in which Mr Stecconi is a shareholder and director, for a consideration of 
+€nil (2014: €23,870) while Staff Srl issued invoices to Defenx SA for a total amount of €nil (2014: €7,704) for the reimbursement 
+of marketing services. The year end net balance outstanding from Staff Srl to Defenx SA was €nil (2014: €5,600).
+All transactions were on arm’s length terms.
+Other related party transactions – Company
+ 
+Year ended
+31 December 
+2015
+€
+Year ended
+31 December 
+2014
+(restated)
+€
+Transactions between Defenx PLC and Defenx SA
+Income 356,487 –
+Expenses (24,374) –
+Interest receivable 25,809 3,883
+Long term loans from Defenx PLC to Defenx SA 2,130,013 594,381
+22. Events after the reporting date
+On 22 January 2016, Defenx SA entered into a CHF 100,000 overdraft and revolver facility with its principal bankers, Credit 
+Suisse, in Switzerland.
+Annual Report 2015 57 Defenx PLC
+Notice of AGM
+Defenx PLC
+(the Company)
+(Company number 8993398)
+Notice is given that the AGM of the members of the Company will be held at the offices of Fladgate LLP, 16 Great Queen Street, 
+London WC2B 5DG on Wednesday 22nd June 2016 at 12.00pm, to consider and, if thought fit, pass the following resolutions,  
+of which resolutions 1 to 8 (inclusive) will be proposed as ordinary resolutions and resolutions 9, 10 and 11 will be proposed as 
+special resolutions.
+Ordinary resolutions
+Report and Accounts
+1. To receive the Audited Accounts and Reports of the Directors and auditors for the year ended 31 December 2105.
+Remuneration Report
+2. To approve the Remuneration Report for the year ended 31 December 2015.
+Re-election of Directors
+3. To re-elect Philipp Prince as a Director who is retiring in accordance with Article 25.8 of the Articles and being eligible, offers 
+himself for re-election.
+4. To re-elect Anthony Reeves as a Director who is retiring in accordance with Article 25.8 of the Articles and being eligible, offers 
+himself for re-election.
+5. To re-elect Leonard Seelig as a Director who is retiring in accordance with Article 25.8 of the Articles and being eligible, offers 
+himself for re-election.
+Reappointment of auditors
+6. To reappoint haysmacintyre as auditors until the conclusion of the next AGM of the Company at which accounts are laid.
+Auditors’ remuneration
+7. To authorise the Directors to determine the remuneration of the auditor.
+Directors’ authority to allot shares
+8. That in substitution for all existing authorities, the Directors be generally and unconditionally authorised in accordance with 
+section 551 of the Companies Act 2006 (the Act) to exercise all the powers of the Company to allot shares in the Company  
+or to grant rights to subscribe for or convert any security into shares in the Company up to an aggregate nominal amount of 
+£36,593.46 during the period from the date of the passing of this resolution and expiring on the date of the next AGM or on  
+30 June 2017, whichever is earlier, but so that this authority shall allow the Company to make offers or agreements before the 
+expiry of this authority which would, or might, require shares to be allotted or rights to subscribe for or convert security into 
+shares to be granted after such expiry.
+Annual Report 2015 58 Defenx PLC
+Strategic Report Governance Financial Statements
+Special resolutions
+Authority to disapply pre-emption rights
+9. That, subject to resolution 8 above being passed and section 551 of the Act, the Directors be empowered, pursuant to section 
+570 of the Act, to allot equity securities (as defined in section 560 of the Act) as if section 561(1) of the Act did not apply to 
+any such allotment, provided that this power shall be limited to the allotment of equity securities:
+(a) during the period expiring on the date of the next AGM of the Company or, if earlier, on 30 June 2017 but so that this power 
+shall enable the Company to make offers or agreements which would or might require equity securities to be allotted after 
+the expiry of this power;
+(b) up to an aggregate nominal amount of £10,978.04 representing the nominal value of 10% of the Company’s issued share 
+capital at the date of this Notice; and
+(c) shall include the power to sell treasury shares under section 727 of the Act.
+Purchase of own shares
+10.   That the Company be generally and unconditionally authorised to make one or more market purchases, within the meaning of 
+Section 693(2) of the Act, of Ordinary Shares of 1p each in the Company (Shares) and to hold such Shares as Treasury Shares, 
+provided that:
+ (a)  the maximum number of Shares to be repurchased shall be 304,945 Shares representing the nominal value of 5% of the 
+Company’s issued share capital at the date of this Notice;
+ (b)  the minimum price (exclusive of expenses) which may be paid for a Share shall be 1p per share;
+ (c)   the maximum price (exclusive of expenses) which may be paid for a Share shall be an amount equal to 105% of the average 
+market value of the Shares (as derived from the mid-market price) for the five business days immediately preceding the 
+date on which the Share is purchased;
+ (d)  any purchase of Shares will be made in the market for cash at prices below the prevailing net asset value per share as 
+determined by the Directors;
+ (e)  the authority hereby conferred shall expire at the conclusion of the next AGM of the Company or, if earlier, on 30 June 2017; 
+and
+ (f)   the Company may make a contract to purchase Shares under the authority hereby conferred prior to the expiry of such 
+authority and may make a purchase of Shares pursuant to any such contract notwithstanding such expiry.
+Registered office: By order of the Board
+Ashley Park House Tim Hughes
+42–50 Hersham Road A duly authorised signatory of
+Walton-on-Thames David Venus & Company LLP
+Surrey KT12 1RZ   Company Secretary
+12 May 2016.
+Annual Report 2015 59 Defenx PLC
+Notes:
+1. A member entitled to attend and vote at the above meeting has the right to appoint a proxy or proxies to attend and vote in  
+his place. A proxy need not be a member of the Company.
+2. The form of proxy and the power of attorney or other authority, if any, under which it is signed, or a copy of such power or 
+authority certified by a notary, must be completed and returned to the offices of the Company’s registrars, SLC Registrars, 
+Ashley Park House, 42–50 Hersham Road, Walton-on-Thames, Surrey KT12 1RZ, to arrive no fewer than 48 hours before the 
+date set for the meeting or adjourned meeting.
+3. In accordance with regulation 41 of the Uncertificated Securities Regulations 2001, (as amended) only those persons entered 
+in the register of members of the Company as the holders of Ordinary Shares at 6.00pm on the pre-penultimate day of the 
+AGM, are entitled to attend and vote at the meeting in respect of the shares held by them at the relevant time. Any changes 
+made to the register of members of the Company after that time will be disregarded in determining the right of any person to 
+attend or vote at the meeting.
+4. Resolutions 3, 4 and 5 – Article 25.8 of the Company’s Articles of Association requires that any person who has been 
+appointed as a Director since the last AGM, must retire at the next AGM following such appointment and if they are eligible, 
+may offer themselves for re-election. Persons retiring under the provisions of Article 25.8 are not counted in calculating the 
+number of Directors who are required to retire by rotation.
+5. Resolutions 6 and 7 – The auditors are required to be reappointed at each AGM at which accounts are presented. The Board 
+on the recommendation of the Audit Committee, which has evaluated the effectiveness and independence of the external 
+auditors, is proposing the reappointment of haysmacintyre. Resolution 7 is proposed to authorise the Board to fix the 
+remuneration of the auditors.
+6. Resolution 9 – This resolution is to renew the authority given to the Directors to allot shares or rights to subscribe for or 
+convert security into shares in the capital of the Company subject to the conditions of the Act. The authority to be given by 
+this resolution is limited to the allotment of 2,032,970 Ordinary Shares representing one third of the issued share capital at  
+the date of this Notice and shall be in substitution for all existing authorities but shall be without prejudice to any allotment of 
+shares or grant of rights to subscribe for or convert security into shares already made or offered or agreed to be made pursuant 
+to such authorities. The authority shall expire at the next AGM or on 30 June 2017 , whichever is earlier.
+7. Resolution 9 – When shares are to be allotted for cash, section 561(1) of the Companies Act 2006 provides that existing 
+shareholders have pre-emption rights and that any new shares are offered first to such shareholders in proportion to their 
+existing shareholdings. This resolution is seeking to authorise the Directors to allot Shares of up to an aggregate nominal 
+amount of £10,978.04 otherwise than on a pro rata basis. This represents 10% of the Company’s issued share capital on the 
+date of this document. This authority shall expire at the next AGM or on 30 June 2017 , whichever is earlier.
+ Whilst the Directors have no intention at the present time of issuing relevant securities, other than pursuant to existing rights 
+under employee share schemes, they are seeking annual renewal of this authority in accordance with best practice and to 
+ensure the Company has maximum flexibility in managing capital resources.
+8. Resolution 10 – This resolution is to authorise the Company to make market purchases of up to 5% of its own shares in  
+issue as set out in the resolution. The authority shall expire at the next AGM or on 30 June 2017 , whichever is earlier.
+ The Directors consider that in certain circumstances it may be advantageous for the Company to purchase its own shares at  
+a discount to net asset value. Purchases will only be made on the London Stock Exchange within guidelines established from 
+time to time by the Board.
+ The Directors would only consider exercising this authority if it is considered that such purchases would be to the advantage  
+of the Company and its shareholders as a whole. The principal aim of this share buyback facility is to enhance shareholder value 
+by acquiring shares at a discount to net asset value, as and when the Directors consider this to be appropriate. The purchase  
+of shares when they are trading at a discount to net asset value per share, and their cancellation, should result in an increase  
+in the resulting net asset value per share for the remaining Ordinary Shares. The Company will also be in a better position to 
+address any imbalance between supply and demand for the shares that may be reflected in the discount to net asset value at 
+which the Company’s shares trade on the London Stock Exchange.
+ The Directors intend that any shares purchased under this authority will be held by the Company as Treasury Shares, within  
+the limits allowed by the law, unless the Directors consider that purchasing the shares and cancelling them would be to the 
+advantage of the Company and its shareholders. The Directors may dispose of Treasury Shares in accordance with relevant 
+legislation and the authority relating to rights of pre-emption granted by shareholders in general meeting (see resolution 9  
+and the note thereto).
+9. The following documents, which are available for inspection during normal business hours at the registered office of the 
+Company on any business day, will also be available for inspection on the day of the meeting until the Company’s normal close 
+of business:
+(a) copies of Executive Directors’ service contracts with the Company;
+(b) copies of Non-executive Directors’ letters of appointment; and
+(c)  a copy of the Company’s current Articles of Association and the proposed new Articles of Association. 
+Notice of AGM continued
+Annual Report 2015 60 Defenx PLC
+Strategic Report Governance Financial Statements
+Directors
+Anthony Reeves
+Andrea Stecconi
+Guido Branca
+Philipp Prince
+Leonard Seelig
+Secretary
+Equiniti David Venus Limited
+42–50 Hersham Road 
+Walton-on-Thames 
+Surrey KT12 1RZ
+Registrars
+SLC Registrars
+42–50 Hersham Road 
+Walton-on-Thames 
+Surrey KT12 1RZ 
+Registered office
+42–50 Hersham Road 
+Walton-on-Thames 
+Surrey KT12 1RZ 
+Registered number
+08993398
+Share capital
+The ordinary share capital of Defenx PLC is  
+listed on AIM, a market operated by London  
+Stock Exchange Group plc. The shares are  
+listed under the trading ticker DFX.  
+The ISIN number is GB00BYNF4J61  
+and SEDOL number is BYNF4J6.
+Auditors
+haysmacintyre
+6 Red Lion Square 
+London WC1R 4AG
+Nominated adviser
+Strand Hanson Limited
+26 Mount Row 
+London W1K 3SQ 
+Nominated broker
+WH Ireland Limited
+11 St James’s Square 
+Manchester M2 6WH 
+Solicitors
+Fladgate LLP
+16 Great Queen Street 
+London WC2B 5DG 
+Bankers
+National Westminster Bank
+135 Bishopsgate
+London EC2M 3UR
+Credit Suisse AG
+SGCT 1
+Viale Stazione 19
+6501 Bellinzona
+Switzerland
+Website
+www.defenx.com
+Company information
+Annual Report 2015 61 Defenx PLC
+Track record
+  2015 2014 2013 2012
+As at 31 December
+Revenue unit €000s 4,490 2,382 2,077 891
+Revenue growth +88% +15% +33% –
+Gross profit €000s 3,977 2,034 1,557 439
+Gross margin % 88.6% 85.4% 75.0% 49.3%
+Operating proﬁt before exceptional expenses €000s 979 805 410 114
+Operating proﬁt margin % 21.8% 33.8% 19.7% 12.8%
+Proﬁt before tax €000s 362 761 409 113
+Earnings per share
+Basic €0.042 €0.167 €0.115 €0.045
+Diluted €0.039 €0.159 €0.115 €0.045
+Net cash ﬂow from operating activities €000s (1,022) 388 661 (149)
+Net cash used in investing activities €000s (1,351) (1,211) (658) 69
+Net cash from ﬁnancing activities €000s 3,512 1,026 – 75
+Net increase in cash and cash equivalents €000s 1,139 203 3 (5)
+Cash and cash equivalents at year end €000s 1,334 206 2 1
+Net assets €000s 5,812 2,048 457 129
+Net assets per share €1.277 €0.638 €0.160 €0.045
+Annual Report 2015 62 Defenx PLC
+Strategic Report Governance Financial Statements
+Notes
+Annual Report 2015 63 Defenx PLC
+Notes
+Annual Report 2015 64 FSC LOGO TO 
+GO HERE digital protection
+Defenx PLC Annual Report 2015
+Defenx PLC
+42-50 Hersham Road
+Walton-on-Thames
+Surrey KT12 1RZ
+www.defenx.com

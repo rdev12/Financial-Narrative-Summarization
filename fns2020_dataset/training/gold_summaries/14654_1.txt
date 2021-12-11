@@ -1,0 +1,143 @@
+ SPIRENT COMMUNICATIONS PLC 
+ANNUAL REPORT 2013
+8
+Chief Executive’s review
+The key objectives in reorganising 
+the Group are to enable agile decision 
+making, to unleash the creativity and 
+innovation of Spirent’s expert and 
+talented people and to devolve 
+responsibility and accountability to 
+customer facing management teams. 
+The result will be an organisation that 
+is more effective in delivering expert 
+solutions that are easy-to-use by 
+customers to manage and deploy 
+their complex systems.
+Product development
+$100.5M
++17 %
+Eric Hutchinson
+Chief Executive Officer 9
+SPIRENT COMMUNICATIONS PLC 
+ANNUAL REPORT 2013
+STRATEGIC REPORT
+GOVERNANCE
+FINANCIAL STATEMENTS
+Wireless & Service Experience and Service Assurance. Each segment 
+is comprised of business units focused on delivery of particular 
+technology solutions. Each of these business units are led by a 
+management team under a general manager responsible for all the 
+activities required to serve customers.
+Networks & Applications
+The businesses in Networks & Applications specialise in Ethernet 
+test, applications test and network performance, cyber security, 
+Wi-Fi offload and mobile packet core. The development of virtual 
+test solutions to address the emerging needs of software-defined 
+networks (“SDN”) and network functions virtualization (“NFV”) are 
+a key part of the division’s product portfolio. In addition, a new 
+Infrastructure Test Optimization (“ITO”) & Solutions business unit 
+has been created to deliver test automation and professional 
+services. This business unit will address the demands by customers 
+for greater efficiency and effectiveness through providing lab 
+management tools, expert analysis of data from test and 
+measurement systems and testing services. Another new business 
+unit has been established to apply our test technology expertise, 
+including cloud based testing-as-a-service, to enterprise customers.
+Wireless & Service Experience
+Within this division the wireless business unit serves the test needs of 
+the wireless device ecosystem. This business unit is in transition as the 
+key served market centred on carrier acceptance test for mobile 
+devices, 3G CDMA and UMTS mobile test requirements, has moved into 
+long term decline, being replaced by the development and deployment 
+of 4G/LTE technologies. Solutions now under development in the 
+wireless business unit address the needs of those developing and 
+deploying the next-generation of services enabled by 4G/LTE 
+technologies and which provide for the evaluation of the mobile user’s 
+service level of experience. The positioning test business unit designs 
+the world’s leading satellite navigation simulation systems for use by 
+equipment manufacturers and system developers that utilise the 
+various different global and regional satellite navigation and 
+positioning technologies. The service experience business unit’s focus 
+is on the performance of devices in the live carrier network, providing 
+detailed analysis of the subscriber experience that allows wireless 
+service providers and their suppliers to successfully roll out new 
+devices and services. A new business unit has also been set up to 
+develop solutions for emerging needs in the automotive technology 
+market, including related connectivity challenges.
+Service Assurance
+For Service Assurance the primary business is the provision of live 
+network monitoring systems for diagnostics and assurance of service 
+levels for wireline, wireless service providers and multi-service 
+cable operators. 
+The key objectives in reorganising the Group are to enable agile 
+decision making, to unleash the creativity and innovation of Spirent’s 
+expert and talented people and to devolve responsibility and 
+accountability to customer facing management teams. The result 
+will be an organisation that is more effective in delivering expert 
+solutions that are easy-to-use by customers to manage and deploy 
+their complex systems. This will enable the Group to return to growth 
+and to enhance the long term value of its business.
+Market conditions
+It has been a challenging year for Spirent; revenues have decreased 
+and profit has been impacted significantly. The Company has lost 
+some market share in its core markets. Technologies have been in a 
+rapid transition and some customers have faced great difficulties, 
+with the business performance of a number of major customers 
+declining markedly, reducing demand for our test systems. There has 
+been a structural change in the shape of the wireless mobile device 
+industry, resulting in a market characterised by a very small number 
+of profitable manufacturers. The rapid shift to deployment of a single 
+global standard for wireless technologies, 4G/LTE, while continuing 
+to represent an opportunity for Spirent, has also eroded the 3G 
+technology niches where Spirent had a high market share. Regionally 
+demand has been weak in Europe, China and in some market 
+segments in North America. The impact of the market challenges 
+described above was exacerbated by historical under investment 
+by Spirent in the development of core technologies, in channels 
+to market and in customer support. 
+Strategy and organisational structure
+The vision for Spirent is to consolidate its position as the leading 
+expert in test and measurement for information technology 
+communications worldwide. In order to achieve this aim, a number 
+of areas are an important focus of Spirent’s future investment. 
+These include: the development of new product solutions in its 
+core businesses in Networks & Applications, Wireless & Service 
+Experience and Service Assurance; establishment of an enterprise 
+sales channel; enhancements to Spirent’s cyber security test 
+offering; and new solutions directed towards automotive 
+technologies and related connectivity testing.
+Furthermore, better alignment of the business internally will allow 
+Spirent to maximise the growth areas that offer the most significant 
+future opportunities. To this end, a number of management changes 
+have been completed to provide a streamlined, decentralised and 
+simplified organisational structure. These internal changes have 
+been made to create a more agile and responsive business that better 
+serves customer needs as well as to sharpen the business’ focus 
+on anticipating customers’ requirements for the future. The Group 
+is managed as three operating segments: Networks & Applications, 
+Cloud data center traffic will grow at a faster rate 
+than traditional data center traffic (zettabytes per year)
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+9.0
+69%
+31%
+54%
+46%
+14 16 15 13 17 12
++25%
+CAGR 2012-17
+ 
+ 
+Traditional data center  
+(12% CAGR)
+Cloud data center  
+(35% CAGR)
+Source: Cisco Global Cloud Index.

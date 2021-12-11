@@ -1,0 +1,117 @@
+  Business Control Solutions Group plc
+Annual Report 2008
+ Chairman’s Statement
+16271    27/04/2009      Proof 5
+04
+We believe the business has performed creditably 
+in what has been and remains a challenging market 
+environment. We have continued the process, begun in 
+2007, of narrowing the focus of the business and have, 
+by taking steps to slim down our cost base, moved into 
+profit for the year. This, allied to strong working capital 
+management, has left our cash position unchanged on 
+2007 and has ensured we enter 2009 with a healthy cash 
+balance. 
+Our Consulting business revenues held up well in a 
+difficult market. This bears testimony to the strength of 
+our client relationships and our clients’ perception of the 
+quality of the service we deliver. The business won several 
+important new accounts and with increased revenue 
+across more engagements the business starts 2009 from a 
+position of strength.
+In our Software business we have continued investing in 
+our strategic products. Our balance sheet substantiation 
+product, Integrity, went live at Deutsche Bank, our first 
+client, and we also saw the first sale of our new version 
+of Arc to HSBC. We have made progress in improving the 
+quality of our revenues and the move to an annuity based 
+model has reduced our reliance on non-recurring revenue. 
+2009 is set to be another important year for our Software 
+business with a market where the need for increased 
+governance, risk management and control is becoming 
+widely accepted set against a general tightening of 
+clients’ budgets. 
+The well publicised difficulties experienced in the financial 
+services sector and the wider economy as a whole, 
+which are expected to continue throughout 2009, will 
+make for another challenging year. Our cash position 
+together with our strong management team provides me 
+with confidence that we are well placed to meet these 
+challenges. 
+I’d like to finish by thanking all of our staff for their 
+enthusiasm, commitment and hard work during 2008. 
+ Steve Russell
+Chairman
+12 March 2009
+16271BUSINESS.indd   04 16271BUSINESS.indd   04 27/04/2009   14:26 27/04/2009   14:26 16271    27/04/2009      Proof 5
+05
+ Chairman’s Statement/Case Study
+“We wanted to take a consolidated view to quickly 
+identify potential problems across functions, asset 
+classes and regions. The quicker you know about a 
+problem, the quicker you can do something about 
+it. It’s my early warning system.”
+ Case Study: Deutsche Bank Implements BCS Integrity™
+Summary
+Deutsche Bank implemented BCS Integrity™ to take control of 
+the global balance sheet reconciliation and sign-off process. This 
+product was rolled out globally in 6 months to 3,000 users in 48 
+locations, covering 1.5 million accounts, sourced from 10 ledger 
+systems, via 60 feeds.
+Key Objectives
+• A single global hierarchy capable of supporting all the 
+complexity of a large distributed organisation
+•  Improve transparency across the entire organisation’s P&L 
+exposure
+•  Facilitate more efficient use of resources
+•  Manage down operational risk
+•  Enforce account ownership
+•  Full audit trail
+Solution
+BCS Integrity™ is installed in a single US data centre and accessed 
+via web browser by over 3,000 users in 48 countries across the 
+globe. Each user has access to only those accounts assigned to 
+them by the configurable ownership rules matrix. The screens are 
+configured to show data in local terminology and layout whilst 
+providing global transparency across the business enterprise through 
+intra-day reporting. Orphaned accounts are quickly identified and 
+re-assigned through the ownership management function.
+The application imports data from over 60 individual feeds sourced 
+from 10 general ledgers ranging on complexity from spreadsheets 
+to SAP . The monthly timetable determines when it is valid to accept 
+data imports, and controls the sign-off deadlines for each step in 
+the process. Users are notified when the imported balance on an 
+account differs from the signed-off balance. Account data and 
+exceptions are recorded in a single, centralised repository, giving 
+managers instant visibility of the consolidated balance sheet and 
+P&L impact.
+BCS Integrity™ allows Deutsche Bank to use their offshore service 
+centre to perform the initial reconciliations and the workflow 
+functionality manages the handover of the accounts back to the 
+onshore owners for verification and sign-off.
+Hotspots are used as an early warning system to clearly identify 
+those balances most at risk. Operations and Finance users can 
+clearly see which accounts need additional investigation.
+Benefits
+•  Finance and Operations work from a single source of truth for 
+accounts, owners, balances, P&L impact, workflow and reporting
+•  Early warning of potential risk areas and ability to drill into the 
+detail
+•  Orphaned accounts easy to find and assign
+•  Reduced cost and improved control
+•  Increased process efficiency and visibility
+•  Consolidated management information reports with historic 
+trend analysis
+•  Instant access to balances and P&L exposure across the entire 
+organisation
+•  Ownership, accountability and transparency across the entire set 
+of accounts
+•  A single application meeting both global and local business 
+requirements
+•  Integral support for offshore service teams
+Mandy Coxon, Head of UK Finance and Global Head of Management 
+Reporting, Deutsche Bank.
+This project received a Finextra 
+Innovation Showcase Award 
+2009
+16271BUSINESS.indd   05 16271BUSINESS.indd   05 27/04/2009   14:26 27/04/2009   14:26

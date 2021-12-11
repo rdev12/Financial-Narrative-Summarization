@@ -1,0 +1,176 @@
+ The global business climate improved in 2003,
+particularly towards the end of the year. As a
+result, the technology industry appears to have
+shaken off much of the uncertainty which
+characterised the first two years of the new
+decade and, while we cannot be sure how
+long it will take for these improvements to
+result in increased licensing activity, the change
+in the economic environment is welcome.
+The improvement in the economy, combined
+with the adjustments to our cost base made 
+in the fourth quarter of 2002, enabled us to
+improve quarterly revenues throughout 2003
+and to achieve strong net cash generation each
+quarter. Our decision to maintain a high level
+of investment in research and development
+(R&D) during the industry downturn enabled 
+us to introduce a number of new products.
+These are already driving licence revenue and
+are underpinning our confidence in our ability
+to increase revenue during 2004.
+Gradual increases in quarterly revenue and 
+tight cost control gave rise to improving margins
+(excluding one-off legal settlement costs) as 
+the year progressed. The weakness of the
+dollar had an impact on revenue growth,
+particularly in the second half, but 2003 was
+still a year of robust financial performance.
+Licensing, product development and 
+new technology
+Licensing is fundamental to our business: 
+it drives royalties and underpins our future
+profitability. Activity gradually picked up in 
+the third quarter and continued into the fourth.
+In 2003, we signed a total of 51 licences for
+microprocessors; of these, 25 were multi-use
+licences and 26 per-use licences. We signed
+licences with 26 new companies, bringing the
+total number of semiconductor partners to
+128. Of the 26 new partners, seven took
+multi-use licences and 19 per-use licences.
+2003 was another busy and rewarding year 
+in terms of our product development. Market
+demand for microprocessor solutions that 
+offer increased performance, security and
+power efficiency continues.
+We introduced a number of new products
+during the year which incorporate new
+technology features, including the TrustZone™
+security extension, the Thumb®-2 core
+technology for improved code density and
+Intelligent Energy Manager (IEM) hardware
+and software for low-power consumption.
+These underpin the opportunities for licensing
+in 2004 and beyond.
+TrustZone technology will greatly improve the
+security of mobile devices, which is a major
+concern for handset suppliers and service
+providers. Our IEM technology is continuing 
+our relentless push to improve the power
+efficiency of battery-operated devices; and 
+we are taking significant steps in enabling 
+the development of complex and efficient
+solutions, partly through our work with NEC 
+in Symmetrical Multi-Processing (SMP). 
+These, together with other technologies
+announced in 2003, are complementary to 
+the growing range of our cores.
+In October, we launched two new ARM11
+family microprocessors, the ARM1156T2-S™ 
+core and the ARM1176JZ-S™ core, which
+include a number of these new features; they
+are available for licensing now for delivery in 
+mid-2004. We delivered the first ARM11 core
+family-based product just over a year ago and
+are encouraged by the rate at which this
+technology is being adopted. So far, our
+partners have taken a total of ten licences. 
+In December 2003, we announced a new
+ARM9 family core, the ARM968E-S™ core, for
+deeply embedded applications. Our smallest,
+lowest-power, synthesizable ARM9E™ family
+core provides an ideal solution for networking
+6 ARM Annual report and accounts 2003
+Chief Executive Officer’s review
+During 2003 we continued to progress our business by developing 
+our technology and products. It was a year of stabilisation, but one 
+in which we achieved our major business goals applications, but will also be appropriate 
+for many applications in the automotive,
+consumer entertainment and wireless sectors.
+These new cores represent significant
+extensions to our range. At the same time, 
+we are working on our next-generation
+architecture. We signed our first lead partner
+for this technology in the third quarter of 2003.
+The Foundry Programme
+The introduction of the ARM926EJ core to 
+our Foundry Programme, which continues to
+provide an excellent entry point for companies
+which are licensing our technology for the first
+time, will help to maintain the momentum 
+in the programme. Per-use licensees are now
+able to have this product manufactured by 
+two of our foundry partners, TSMC and UMC.
+Royalty revenues
+Substantial licensing in recent years resulted 
+in a much higher number of ARM Powered®
+devices being shipped than in 2002. Our
+partners shipped 782 million ARM Powered
+devices in 2003, at a value of £44.3 million,
+an increase of 71% on 2002’s record of
+456 million units. 
+The fact that volumes increased across all
+markets demonstrates that our core-based
+designs are increasingly the architecture of
+choice. There was also a significant increase 
+in the number of partners shipping ARM
+Powered devices – from 43 at the end of
+2002, to 60 by the end of 2003.
+Part of this success can be attributed to the
+improved economy but more important, we
+believe, is the fact that more of our partners
+began shipping more ARM Powered products,
+including an increasing proportion based on
+our newer ARM9 family cores.
+We have traditionally been very strong in the
+wireless market, but in recent years have
+begun to mirror that success elsewhere and,
+as a result, have improved the balance and
+stability of our business. Unit shipments in
+other markets are now growing at the same
+rate as those in the wireless market.
+Patent portfolio
+The protection of our IP and the growth of 
+our patent portfolio are key priorities for the
+business. In 2003, we filed twice as many
+patents as in 2002 and we anticipate that the
+rate of filing will continue to increase in 2004.
+It is imperative that we defend our IP
+vigorously and, in that context, we were
+encouraged that the partial summary
+judgement ruling in Nazomi’s case against us
+for alleged patent infringement found in our
+favour. The partial summary judgement ruled
+that products using the current commercial
+design of the ARM Jazelle® technology do 
+not infringe Nazomi’s patent. Nazomi has
+appealed against the ruling, but we are
+confident that the original ruling will be upheld.
+In March 2004, we settled all outstanding
+issues with Herodion (picoTurbo Inc.’s
+successor entity) relating to the out-of-court
+settlement of the patent lawsuit against
+picoTurbo in December 2001. Following the
+findings of an arbitration panel established to
+resolve the issues and subsequent discussions
+between the parties, ARM agreed to pay
+£6.4 million as part of the settlement
+agreement. This amount has been charged 
+to the profit and loss account in 2003.
+The future
+Our commitment to R&D keeps us ahead of
+the competition. We maintained high levels 
+of investment in innovation in 2003, even
+though it was a tough year, and the fruits 
+of our labours are being realised with the
+introduction of our new technologies. While
+better economic conditions should help us to
+progress, much of the improvement we expect
+in 2004 can be attributed to factors which are
+in our control, such as the availability of a
+number of new products for licensing.
+We fully expect to build on our recent
+successes in the coming year.
+Warren East Chief Executive Officer
+ARM Annual report and accounts 2003 7

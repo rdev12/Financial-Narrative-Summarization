@@ -1,0 +1,3141 @@
+ FRONTIER DEVELOPMENTS PLC Annu Al RePoR t And ACCountS 2013
+FRONTIER DEVELOPMENTS PLC
+Annual report and accounts 2013 FRONTIER PLaNS TO uSE ITS 
+PROPRIETaR y SOFTw aRE TEChNOLOgy 
+TO LEaD ThE gaMES INDuSTR y IN 
+ITS TRaNSITION TO ThE w ORLD’S 
+PREMIERE FORM OF ENTERTaINMENT .
+FRONTIER DEVELOPMENTS PLC REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL STATEMENTS
+1 Annu Al RepoR t And ACCountS 2013 FRONTIER DEVELOPMENTS PLC
+HIGHLIGHTS
+OPERATIONAL HIGHLIGHTS
+•	 We raised £1 .55 million from a crowd-funding campaign 
+for our Elite: Dangerous self-published title.
+•	 We increased our capacity by opening our 
+first overseas development studio, in Halifax, 
+nova Scotia, Canada.
+•	 We adapted our Cobra software technology 
+to work with new 64-bit Cpu architectures.
+•	 We released our first game with a cloud-based 
+server backend and successfully supported over 
+500,000 concurrent users. 
+•	 We started development of an Xbox one launch title 
+to accelerate our technology development for the 
+new game console generation.
+UNDERLYING REVENUE
+£12.0m +19%
+ADJUSTED EBITDA
+£3.6m +12%
+LIKE-FOR-LIKE OPERATING PROFIT
+£1.8m +27%
+REVIEW OF THE YEAR
+1 Highlights
+2 our business
+6 Chairman’s statement
+7 Chief executive’s review
+9 Financial review
+12 principal risks and uncertainties
+CORPORATE GOVERNANCE
+14 directors’ biographies
+15 Corporate directory
+16 Report of the directors
+20 Corporate governance report
+22 Remuneration report
+FINANCIAL STATEMENTS
+24 Independent auditor’s report
+25 Consolidated income statement
+25  Consol idated statement 
+of comprehensive income
+26  Consol idated statement 
+of financial position
+27  Compan y statement 
+of financial position
+28  Consol idated statement 
+of cashflows
+29  Company statement of cashflows
+30  Consol idated statement 
+of changes in equity
+31  Company statement of changes 
+in equity
+32  notes to the financial statements
+55 notice of meeting
+56  explanatory notes to the notice 
+of Annual General Meeting
+IBC Advisors and Company information
+ADJUSTED EPS
+7.3p +25% REVIEW OF THE YEAR
+FRONTIER DEVELOPMENTS PLC Annu Al RepoR t And ACCountS 2013 2
+OUR BUSINESS
+About us
+Frontier plans to use its proprietary software technology to lead 
+the games industry in its transition to the world’s premiere form 
+of entertainment.
+t he Group has 240 full-time employees and operations in Cambridge, uK and 
+Halifax, nova Scotia, Canada. Frontier has a proven track record of software 
+technology and video games development and innovation spanning three 
+decades of rapid technological change. 
+Frontier has exploited its technology to develop innovative video games across 
+a wide variety of different game genres and platforms, and has established 
+relationships with globally renowned partners.
+We are transitioning from being primarily a developer of video games 
+for major external publishers into a business which develops and 
+licenses technology to support games for major external publishers, 
+other developers and our own self-published game titles.
+ZOO TYCOON
+Frontier’s launch title for the Xbox one 
+in november 2013 “ … could convince 
+you better than anything else out there 
+that you’ve done the right thing in 
+investing in the next-generation. ”
+Martin Robinson, Eurogamer.com
+$78.5bn
+value of the global video game 
+market in June 2012. Source: Reuters
+50bn
+downloads from Apple’s App Store, 
+as of May 2013. Source: Apple
+130m
+Xbox 360 and playStation 3 consoles 
+have been sold, with next-gen versions 
+launching n ovember 2013. Source: Reuters
+“THE RISE OF DIGITAL DISTRIBUTION 
+VIA ‘ APP STORE’ ECOSYSTEMS 
+ON ALL VIDEOGAME PLATFORMS 
+PRESENTS INCREDIBLE 
+OPPORTUNITIES FOR FRONTIER.”
+David Walsh Chief operating officer REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL STATEMENTS
+Annu Al RepoR t And ACCountS 2013 FRONTIER DEVELOPMENTS PLC 3
+ELITE: DANGEROUS
+Frontier’s high-end franchise re-boot 
+uses the latest CoBRA technology 
+to deliver an innovative multi-player 
+experience in galaxy containing 
+100 billion star systems, the largest 
+game-environment ever created.
+FRONTIER'S TECHNOLOGY ORIGINS
+david Braben co-authored the seminal ‘Elite’ 
+game in 1982 with Ian Bell. Elite was one of the 
+first home computer games to use 3d graphics 
+and the first to employ an open-world ‘sandbox’ 
+game play model. Its revolutionary 3d graphics 
+ensured that the game created the modern 
+space flight simulation genre and influenced 
+gaming as a whole.
+Our technology
+COBRA has been carefully planned, developed and evolved since 1988. 
+We develop our own cutting-edge techniques and tools, and supplement 
+this with licensed middleware for ‘commodity’ uses as appropriate. This 
+allows COBRA to maximise the performance extracted from hardware 
+platforms and fully leverage the efforts and talents of content creators. 
+Cobra has allowed Frontier to deliver industry-leading gameplay 
+innovations and efficient multi-platform development since 1988.
+CoBRA allows game teams to develop and debug their games primarily 
+on desktop computers, without the need to concern themselves with the 
+technical details of the individual target platforms unless necessary. It also 
+makes for clean, structured code, where the game logic only needs one set 
+of verification at the beta stage of the project – greatly reducing the amount 
+of testing time required for additional platform versions of a game.
+CoBRA also has a sophisticated tools framework which enables rapid 
+development of powerful tools. t hese tools offer the ability to view, tweak 
+and review changes to resources of all types in game on the target platform(s), 
+in a live game session that is running on that platform, without the intervention 
+of a programmer. our tools philosophy is to design aids to maximise the impact 
+of skilled people on games development and remove barriers to getting the 
+results of their work in-game and iterated, so that work can be as polished 
+as possible.
+Most recently, we have added Cloud-based capability to CoBRA, whereby 
+Frontier’s code running on commodity servers interacts with games to 
+provide data-driven game rules and information gathering. t his facilitates 
+full play through tracking, sophisticated A-B tests, player segmentation and 
+friends’ lists as well as the usual leader-board and achievement functionality. 4
+Our cross-platform approach
+Frontier’s COBRA proprietary cross-platform technology allows code 
+and resources developed on PC to be compiled and run on different 
+platforms such other desktop and laptop computers, tablets, 
+videogame consoles and smartphones, whilst offering the ability 
+flexibly to take advantage of the different platforms’ capabilities 
+(e.g. different artwork resolutions, shaders etc.).
+t he current fourth generation of CoBRA provides a common platform-neutral 
+core ApI and resource pipeline that isolates both game code and resources 
+from the underlying hardware, whilst maximising use of the multi-processor, 
+multi-threaded environment.
+CoBRA has been successfully used for a wide variety of game genres, and by 
+development teams that range in size from a handful to many hundreds of people.
+FRONTIER DEVELOPMENTS PLC Annu Al RepoR t And ACCountS 2013
+REVIEW OF THE YEAR
+OUR BUSINESS
+continued
+LOSTWINDS2
+Frontier’s LostWinds2 was the Apple 
+App Store’s ipad game of the week, 
+and featured graphical techniques 
+normally available only on dedicated 
+videogame consoles.
+“COBRA IS A SINGLE, 
+POWERFUL TECHNOLOGY 
+SOLUTION THAT SUPPORTS 
+MANY TARGET HARDW ARE 
+PLATFORMS, CAN BE 
+SUCCESSFULL Y USED BY 
+LARGE DEVELOPMENT TEAMS, 
+AND IS FLEXIBLE ENOUGH 
+TO CREA TE GAMES IN A WIDE 
+V ARIETY OF GENRES.”
+David Walsh Chief operating officer
+Google Android 
+Smartphones 
+and tablets
+Microsoft Windows 
+pCs and 
+Windows phone
+Apple iOS 
+iphone, ipad and 
+ipod t ouch
+MacOS 
+Apple Mac
+computers
+Sony PlayStation
+pS3 and pS4 
+consoles
+Nintendo Wii 
+o riginal Wii and 
+Wii u consoles
+Microsoft Xbox 
+Xbox 360 and 
+Xbox o ne consoles REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL STATEMENTS
+Annu Al RepoR t And ACCountS 2013 FRONTIER DEVELOPMENTS PLC 5
+COASTER CRAZY
+Coaster Crazy was Frontier’s first 
+release to use CoBRA ’s cloud-based 
+server backend. Frontier’s server 
+technology successfully supported 
+a maximum of over 500,000 
+concurrent users.
+Key strengths and opportunities
+Proven track record
+Frontier has a track record of successfully exploiting its software technology 
+in games over a period spanning three decades.
+Highly experienced and respected management
+t he Group’ s management team, led by david Braben, has successfully 
+implemented its technology strategy and delivered an industry leading games 
+development capability which has led to improved revenue and profitability and 
+the current opportunity.
+Industry leading multi-platform development technology
+proprietary ‘Cobra’ technology powers innovative, efficient, cross-platform 
+software development spanning personal computers, tablets, smart 
+phone and video game consoles and a wide variety of game genres.
+Significant IP portfolio 
+t he Group’s Ip catalogue includes potentially valuable properties including 
+the rights to the Elite franchise.
+Profitable and established business
+Adjusted eBItd A growth over the four financial years ended 31 May 2013.
+Blue-chip international client base
+t he Group has established relationships with key industry players.
+Growth opportunities
+t he directors believe that the Group has strong growth prospects.
+25+
+years experience and development 
+in the video games industry.
+55+
+games developed, to date, using 
+our proprietary Co BRA technology.
+240
+staff in two offices: Cambridge, u K 
+and Halifax, n ova Scotia. CHAIRMAN’S STATEMENT
+t
+he year ended 31 May 2013 and the current 
+financial year are transitional years for our Company. 
+We concluded a very successful crowd-funding 
+programme to support the development of Elite: 
+Dangerous. Since the year end we have also completed the 
+listing of the Company’s shares on AIM by way of an Ipo .
+We are making good progress from being primarily a developer 
+of video games for major external publishers into a business 
+that develops and licenses technology to support games 
+for major external publishers, other developers and our 
+own self-published game titles.
+to fund this transition we raised £9.7 million in three tranches: 
+£2.7 million came via a pre-Ipo placing over May and June; 
+£4.0 million came from institutions that subscribed to new 
+shares in our Ipo; and £3.0 million has been provided by 
+our bankers through a revolving credit facility. 
+I’d like to take this opportunity to thank all those who have 
+supported our vision and plan by subscribing for shares.
+l ooking at our financial performance in 2013, we saw an underlying 
+increase in revenue (19%) and eBItd A (12%). Headline revenue 
+decreased by 15%, and eBItd A showed an 12% reduction. 
+like-for-like operating profit and adjusted earnings per share 
+also grew. t his is explained simply by the fact that in 2012 
+we booked pass-through revenue that did not apply in 2013. 
+In the year ended 31 May 2014 we expect to further execute 
+our plans to maintain our existing valued relationships, focus 
+strongly on the development and launch of Elite: Dangerous, 
+and continue to invest significant resources in the development 
+of our technology for third party use. We expect revenues from 
+our traditional publishing business to reduce whilst we invest 
+in building the new elements we need for the transition.
+I would like to pay tribute and gratitude to the 35,138 (at the time 
+of writing) gaming fans that have invested in our crowd-funding 
+campaign for the development of Elite: Dangerous. t heir response 
+and enthusiasm has been a key ingredient in helping shape our 
+strategy. We know that they are an expert and discerning audience 
+and we continue to value their input as we work together through 
+the alpha and beta phases towards a full public retail launch 
+later in 2014.
+Finally, Frontier has earned a deserved reputation for excellence 
+and quality from its customers, which is only possible because 
+of the dedication, skill and hard work of its people. I would also 
+like to take this opportunity to thank them for their sustained 
+effort and commitment. 
+David Gammon
+Non-Executive Chairman
+13 november 2013
+“WE ARE MAKING GOOD 
+PROGRESS IN OUR 
+TRANSITION INTO A 
+BUSINESS WHICH DEVELOPS 
+AND LICENSES TECHNOLOGY 
+TO SUPPORT GAMES FOR 
+MAJOR EXTERNAL 
+PUBLISHERS, OTHER 
+DEVELOPERS AND OUR OWN 
+SELF-PUBLISHED GAMES.”
+David Gammon
+Non-Executive Chairman
+REVIEW OF THE YEAR
+6 FRONTIER DEVELOPMENTS PLC Annu Al RepoR t And ACCountS 2013 CHIEF EXECUTIVE’S REVIEW
+I
+n the financial year ended 31 May 2013, Frontier developments 
+delivered strong growth in underlying revenue, which 
+increased 19% to £12.0 million. Adjusted eBItd A rose 
+12% to £3.6 million, like-for-like operating profit was 27% higher 
+at £1 .8 million, and adjusted basic earnings per share rose 25% 
+to 7 .3 pence (as set out in the Financial Review).
+Alongside this strong financial performance, the Group saw 
+a number of operational highlights during the financial year: 
+Studio in Halifax, Nova Scotia
+We opened our first overseas studio, in Halifax, nova Scotia, 
+Canada, in August 2012. north America is a strategically important 
+region for the games industry. We had been looking at nova Scotia 
+for some time due to the attractiveness of the province’s digital 
+Media tax Credit programme, its attractive geographic location 
+and the new talent pool offered by the existing healthy ICt 
+sector and local universities. 
+Further Cobra technology developments
+We completed the adaption of our Cobra software technology 
+to work with 64-bit Cpu architectures, which will allow us 
+to continue to extract maximum performance from the new 
+generation of Cpus starting to appear in console, smartphone 
+and tablet hardware. We now have a proven, mature solution 
+for taking full advantage of 64-bit multi-core processor systems 
+as used in key new hardware target platforms such as the 
+Xbox one, playStation4, iphone 5S and ip ad Air.
+Coaster Crazy
+We completed development and released a new game Ip , 
+Coaster Crazy. t he game was based on our cross-platform Cobra 
+technology and incorporated very sophisticated roller coaster 
+construction techniques, which are based on our experience 
+as a world-leading roller coaster game creator.
+Coaster Crazy was our first game with a cloud-based server 
+back end. t he game achieved a maximum of over 500,000 
+concurrent users with our server technology performing well. 
+We released Coaster Crazy on ioS devices and, as with LostWinds 
+and LostWinds2 on ioS, the game received significant promotion 
+from Apple. In addition we promoted it via in-game cross-selling 
+in our own LostWinds ioS games and used third party 
+marketing channels.
+“ ALONGSIDE STRONG 
+FINANCIAL PERFORMANCE, 
+THE GROUP SA W A NUMBER 
+OF OPERATIONAL 
+HIGHLIGHTS DURING 
+THE FINANCIAL YEAR 
+AND SUBSEQUENTL Y .”
+David Braben
+Founder and Chief Executive Officer
+REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL STATEMENTS
+Annu Al RepoR t And ACCountS 2013 FRONTIER DEVELOPMENTS PLC 7 REVIEW OF THE YEAR
+FRONTIER DEVELOPMENTS PLC Annu Al RepoR t And ACCountS 2013 8
+Strategic overview and outlook 
+our investment programme in our platform technology will 
+benefit and facilitate better and more cost-effective results 
+for our third party publisher games, such as Zoo T ycoon, and 
+will also improve our own self-published offering with Elite: 
+Dangerous and other games going forward. t he high graphical 
+quality and very efficient development we have achieved with 
+Zoo T ycoon is a great demonstration of this capability.
+Elite: Dangerous will be sold directly to customers through 
+our own e-commerce platform and through third parties. 
+We are confident that other developers and/or publishers will 
+take advantage of our sales portal and cross-platform technology, 
+and over time we will cover an increasing number of games, 
+platforms, new features and facilities.
+Frontier is in transition as our publishing activity with 
+Elite: Dangerous and the associated new services ramp up. 
+Although the opportunities and scope for Elite: Dangerous 
+to grow and develop are very substantial and the potential 
+financial rewards significant, particularly given how fast our 
+markets grow and change, it is very difficult for the Board 
+to know exactly how quickly it will be taken up. For example, 
+some pC online games (Elite: Dangerous is a pC online game) 
+that have caught the public’s imagination, such as Minecraft 
+and World of T anks, have reached estimated revenues of 
+over £100 million per annum over a small number of years. 
+others have not grown quite so quickly, but on the additional 
+platforms the levels of success could be higher still. 
+We expect Elite: Dangerous revenues to grow gradually in a similar 
+way to other pC online games, but also that it will hit a quality 
+resonance at which point revenues would increase significantly, 
+as it did for those other titles.
+We started the current financial year as we expected and are 
+now executing the transition of our business to its next stage. 
+o verall, despite the expected reduction in headline revenue 
+and eBItd A over the transition, I believe that the continued 
+delivery of our plan will result in much greater opportunity 
+and returns.
+David Braben
+Chief Executive Officer
+13 november 2013
+Crowd-funding for Elite: Dangerous
+In november 2012 we started a 60-day crowd-funding campaign 
+using both Kickstarter.com and our own website. When the 
+Kickstarter campaign closed on 4 January 2013 we had raised 
+£1 .55 million, exceeding our ‘ask’ of £1 .25 million. t his was the 
+highest crowd-funding target ever successfully achieved on 
+Kickstarter. We had 26,834 individuals backing the project, and 
+some 8,304 more (at time of writing) have participated through 
+our own website since. 
+t his clearly demonstrates the viability of the Elite: Dangerous 
+project. We had previously been running the project in order 
+to develop the key innovative technologies necessary to deliver 
+the game’s vision, and this additional funding has allowed us to 
+put it into full production. We continue to successfully communicate 
+with the large customer/stakeholder community that has provided 
+this funding, and this close dialogue and engagement will 
+continue to the initial launch of the game and beyond.
+Key industry partnerships
+We also continued our close working relationship with Microsoft, 
+starting development of an Xbox one launch title based on 
+Microsoft’s popular Zoo T ycoon franchise, giving us experience 
+on the new console hardware early. t his is in addition to working 
+with other important partners such as Apple, nintendo, 
+Amazon and Atari.
+Recent developments
+We have continued working with Microsoft on Zoo T ycoon, 
+planned for commercial release in november 2013 alongside 
+the Xbox one launch, as one of the five full disc-based games 
+to be released by Microsoft Studios at the launch of Xbox one.
+We announced Coaster Crazy Deluxe for the nintendo Wiiu – 
+this game is an extension of our Coaster Crazy title and will use 
+more new online functionality. We have taken advantage of 
+partnering opportunities with nintendo to promote the game.
+We announced a new relationship with Atari, whereby our 
+e-commerce strategy is accelerated. We now have non-exclusive 
+rights to distribute Atari games, as well as the rights to publish 
+our RollerCoaster T ycoon 3 game on new platforms.
+We also announced that the Alpha testing phase for 
+Elite: Dangerous will begin in december 2013 and 
+that we were planning to support the oculus Rift 
+virtual reality headset in the game.
+CHIEF EXECUTIVE’S REVIEW 
+continued REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL STATEMENTS
+Annu Al RepoR t And ACCountS 2013 FRONTIER DEVELOPMENTS PLC 9
+FINANCIAL REVIEW
+£7.2m
+cash balance at £7.2m at year end.
++56%
+investment of 566 man months in technology 
+and self-published titles up 56%.
++58%
+self-published revenue 58% higher 
+at £0.5m.
+t
+he Board is pleased to provide a detailed review 
+of the financial highlights.
+Group trading performance
+t he Group’s underlying trading performance was 
+improved from the prior year. t he Group is now entering 
+an investment phase up to the launch of Elite: Dangerous 
+and associated technology development and licensing.
+Revenue 
+We delivered a 19% growth in underlying revenue after 
+excluding subcontract costs recharged to customers at 
+nil margin, reconciled as follows:
+underlying revenue £’000 2012–13 2011–12 %
+Headline revenue 12,072 14,157 (15%)
+Subcontract pass-through (26) (4,033) (99%)
+underlying revenue 12,046 10,124 19%
+t he launch of Coaster Crazy and recognition of Elite: Dangerous 
+revenues enabled the Group to show growth in our self-published 
+revenues of 58%. Growing our self-published revenue stream 
+is one of our strategic aims. We recognised an element of 
+revenue for Elite: Dangerous from our crowd-funding raise on 
+commencement of delivery of pledges and sold £0.02 million 
+of merchandise in the year. our LostWinds ioS titles continued 
+to sell at 88% of their prior year level.
+publishing revenue was lower, as we did not work on any 
+game titles that required significant subcontract pass-through 
+revenues. We worked on three projects for our key client, two 
+of which are due to be released in the financial year 2013–14. 
+Royalty income was impacted by one of our publishing partners, 
+Atari Interactive Inc. (Atari), going into Chapter 1 1 . Revenues 
+from 1 october 2012 to 20 January 2013 sit within the pre-petition 
+creditor balances of Atari and prudently have not been included. 
+t hese income streams from Atari originate from our Roller coaster 
+T ycoon 3 development and Ip licence agreement. 
+Revenue mix £’000 2012–13 2011–12 %
+publishing 11,355 13,499 (16%)
+Self-published 511 323 58%
+Royalties 203 335 (39%)
+o ther 3 — —
+ 12,072 14,157 (15%) REVIEW OF THE YEAR
+FRONTIER DEVELOPMENTS PLC Annu Al RepoR t And ACCountS 2013 10
+FINANCIAL REVIEW
+continued
+Intangible assets and research and development expenditure
+Investment in our own Ip capitalised in the year was up 27% 
+at £1 .7 million, reflecting Frontier’s commitment to a strategic 
+software development programme in respect of our Cobra 
+technology and self-published titles.
+A good proportion of our investment is in research and 
+development, representing £0.76 million (2012: £0.73 million), 
+an increase of 4%. Research and development expensed rose 
+to £0.60 million from £0.33 million. 
+Frontier expensed £0.36 million of costs within software 
+development projects.
+Gross margin and contribution
+t he overall gross margin rose to 30% from 20%. on an 
+underlying basis, after stripping out pass-through recharges, 
+the improvement was 2%. t his underlying improvement 
+stemmed mainly from improved margins in the publication 
+business exceeding a lower margin for self-published titles 
+which are impacted by a cautious approach on capitalisation 
+and amortisation in the relatively new mobile platform segment.
+Profitability and adjusted EBITDA
+Frontier is in a state of transition, following its listing of the 
+Group’s shares on AIM in July 2013. As a consequence the 
+Board monitors performance on an adjusted eBItd A basis. 
+t he adjusting items were primarily share-based compensation 
+and funding costs associated with the Ipo .
+operating profit was 24% lower at £1 .05 million and eBItd A 
+11% lower at £2.85 million.
+Compared to 2011–12 on a like-for-like basis, without the one-off 
+funding costs and share-based compensation, operating profit 
+rose 27%. Adjusted eBItd A rose 12% to £3.62 million.
+t he reconciliation is as follows:
+2012–13
+£’000
+2011–12
+£’000 % 
+o perating profit 1,052 1,390 (24%)
+d epreciation 151 185 
+Amortisation 1,650 1,623 
+eBItd A 2,853 3,198 (11%)
+Share-based compensation 416 — 
+Funding costs 308 — 
+d ilapidations provision 37 37 
+Canada setup fees 10 — 
+eBItd A adjusted 3,624 3,235 12%
+Finance income
+Interest receivable from the Group’s cash resources nearly 
+doubled to £19,000 from £10,000 and remains at low levels 
+due to the current interest rate environment worldwide.
+Income tax
+t he charge in the year remained low, mainly comprising a rebate 
+on overseas tax of £5,735 and uK tax on finance income of 
+£3,716. t he Group recorded a deferred tax liability of £27 ,793 
+for overseas tax due to the timing difference over which R&d 
+tax relief and a local digital media tax rate operate. t he holding 
+company continues to hold unused tax losses of £3.69 million 
+to set against future taxable profits generated in the uK.
+Corporate structure
+on 21 december 2012 the Company changed its status by 
+re-registering as a plc. t he share capital was expanded and 
+re-denominated into units of 0.5 pence.
+Earnings per share
+t he basic earnings per share reduced from 5.7 pence per share 
+to 4.2 pence based on a weighted average number of shares 
+of 25.0 million (2012: 24.7 million).
+on a diluted basis the earnings per share dropped from 5.5 pence 
+to 4.1 pence based on a weighted average number of shares 
+of 25.5 million (2012: 25.5 million).
+t he adjusted earnings per share rose to 7 .3 pence from 
+5.8 pence per share on an undiluted basis (a 25% increase), 
+as a result of the improved adjusted eBItd A figure.
+Dividend
+t he directors are not recommending the payment of a dividend 
+(2012: £nil).
+Share issues
+employees converted 505,382 (re-denominated) share options 
+into ordinary shares in november 2012; the exercise proceeds 
+were £166,776. 
+t he Group granted 1 .6 million share options in the year, the first 
+grant for seven years.
+A convertible loan was issued towards the end of the year 
+granting shares at a discount of 15% to the Ipo flotation price. 
+t he amount received was £1 .13 million.
+Subsidiary setup
+on 27 July 2012 the Company incorporated Frontier 
+developments Inc. in Halifax, nova Scotia, with Cd$100 
+of share capital.
+Balance sheet
+t he Group received Convertible loans to the value of £1 .13 million 
+just prior to year end and increased net investment in intangibles 
+to £3.5 million.
+Non-current assets
+Investment in intangibles was focused on developing 
+self-published titles, Elite: Dangerous (scheduled for release 
+in 2014) and Coaster Crazy on the ioS platform (released 
+during the year).
+t he Group maintained prudent amortisation rates to reflect 
+the dynamic changing nature of the video games sector. REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL STATEMENTS
+Annu Al RepoR t And ACCountS 2013 FRONTIER DEVELOPMENTS PLC 11
+Current assets
+trade and other receivables decreased by £0.42 million 
+to £2.08 million mainly as a result of receipt of contracted 
+income from publication customers.
+Current liabilities
+trade and other payables increased by £2.19 million to £3.06 million. 
+t he main drivers for this increase were convertible loan notes of 
+£1 .13 million, deferred income of £0.56 million and funding cost 
+accruals of £0.23 million.
+deferred income constituted both crowd-funding ‘pledges’ 
+expected to be delivered within one year for Elite: Dangerous 
+and publication contract revenue.
+Non-current liabilities
+t he Group fully offset uK deferred tax liabilities with deferred 
+tax assets that were available. An overseas deferred tax liability 
+of £0.03 million was provided against government assistance 
+due. t he holding company added to its dilapidation provision 
+ahead of leases expiring in 2015. deferred income of 
+£1 .28 million represents crowd-funding ‘pledges’ expected 
+to be delivered after one year for Elite: Dangerous.
+Cash and cashflow
+t he Group’s operating cashflow rose by £4.1 million to 
+£6.2 million mainly driven by the working capital changes. 
+t hese comprised a £1 .56 million raise from a successful 
+Kickstarter campaign for Elite: Dangerous. In addition the 
+Group raised £1 .13 million from the issue of convertible 
+loan notes.
+t he Group invested £2.0 million in non-current assets, 
+up by £0.57 million.
+non-cash costs included share-based compensation charges 
+of £0.42 million (2012: £nil).
+Cash balances were also increased by the injection 
+of £0.17 million of share capital proceeds.
+t he overall impact was an increase of £5.47 million in cash and 
+cash equivalents to £7 .16 million, being a positive staging point 
+for the Group’s investment and growth plans.
+Key performance indicators
+In addition to the adjusted revenue and eBItd A measures 
+mentioned previously as a key indicator of growth and 
+profitability, the Group is looking to invest in its own content 
+to produce a balanced spread of income streams:
+% of revenue by segment 2013 2012
+publishing 94% 95%
+Self-published 4% 2%
+Royalties and other income 2% 2%
+As part of the strategy the Group is investing in its own 
+technology and content:
+Man months 2013 2012
+Self-published 376 202
+t echnology 190 161
+Risk
+t he principal financial risks are those of liquidity and currency.
+liquidity risk is considered in respect of projected revenues 
+from self-published titles being slower to materialise than 
+expected, particularly in respect to Elite: Dangerous. t he 
+successful crowd-funding campaign and post-year Ipo raise and 
+revolving credit facility have significantly mitigated these risks. 
+As the Group expands its revenue sources the amount of 
+revenue originating in non-Sterling currencies will increase. 
+t he cost base of the Canadian operation is also likely to become 
+material. t he company currently holds contracts in uSd which is 
+seen as a natural hedge for the Canadian operational costs over 
+the next two years. t he currency exposure is monitored closely.
+Neil Armstrong
+Company Secretary and Chief Finance Officer
+13 november 2013 REVIEW OF THE YEAR
+FRONTIER DEVELOPMENTS PLC Annu Al RepoR t And ACCountS 2013 12
+PRINCIPAL RISKS AND UNCERTAINTIES
+t he Group faces competitive and strategic risks that are inherent in a rapidly growing emerging market. t he Audit Committee 
+maintains the Risk Register and escalates the Key risks for further consideration at full Board level on a regular basis. 
+Key business risks affecting the Group are set out below:
+Business risks
+Description Mitigation
+Strategic focus
+t he Group is intending to diversify its business base to a 
+balanced mix of technology, self-published and published 
+based revenue streams. Inherently such a strategic shift 
+of focus creates execution risk, whilst perhaps reducing 
+financial risk based on a small customer base.
+t he Group is confident that it can deliver on both the 
+technology and the commercial relationships that support 
+this strategy.
+Financial
+t he Group recognises that it is currently dependent 
+on a small number of sources of revenue, and this has 
+the potential to cause financial stress should these 
+relationships break down.
+t he Group is confident that if this were to happen 
+it could undertake work for other customers whilst 
+it builds up a diversified revenue base.
+T echnology
+t he Group operates in a fast moving industry where 
+monetisation strategies for video games and the 
+associated technology platforms are evolving rapidly. 
+t he ability to both forecast and monetise revenue 
+streams is subject to a risk of uncertainty that may 
+not cover development costs.
+t he Board believes that its design of its own technology 
+and self-published games, ability to execute on high end 
+technology platforms and the flexibility demonstrated by 
+the diverse range of video games we have successfully 
+developed in the past mitigates some of this risk.
+Growth management
+t he Group’s future success will depend on its ability 
+to manage anticipated expansion. t his now includes the 
+management of an overseas based subsidiary and may 
+include acquisitions. Such expansion is expected to place 
+demands on management and support functions. If the 
+Group is unable to manage its expansion effectively, 
+its business and financial results could suffer.
+In order to mitigate this risk, the Group is investing in 
+suitable training for key staff and key internal systems. 
+t he Group continues to seek to strengthen its 
+non-executive director base and has appointed key 
+advisors with experience in the sector to ensure these 
+risks are managed objectively.
+Attracting and retaining staff
+t he Group acknowledges that it is in a sector where 
+world class staff are in high demand.
+t he Group is undertaking a three year programme 
+of improving incentives and leadership skills which 
+is intended to further enhance its attractiveness 
+as an employer. REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL STATEMENTS
+Annu Al RepoR t And ACCountS 2013 FRONTIER DEVELOPMENTS PLC 13
+Financial risk management objectives and policies
+As part of its listing process the Group took the opportunity to review its financial environment and practises. t his led to improved 
+Corporate Governance, financial policies and internal controls to manage financial risk and align financial measures with the 
+strategic objectives it is committed to.
+Description Mitigation
+Currency risk
+t he Group’s reporting currency is 
+pounds Sterling (GBp). exposure 
+to currency exchange rates arises 
+where transactions are in a 
+currency other than the functional 
+currency of the entity, primarily 
+Canadian dollars (CAd), uS 
+dollars (uSd) and euro (euR).
+Currency risk is managed by ensuring, where possible, that financial revenues and 
+operating costs are denominated in £ Sterling or where subcontract costs have 
+been recharged, they have been recharged in the same currency. t he operating 
+costs of the Canadian entity are matched to uSd revenue flows where possible, 
+as this exchange rate has been more stable than via the £ Sterling.
+t he Group does not enter into forward exchange contracts to mitigate the 
+exposure to foreign currency risk as the Group’s currency transactions are not 
+considered significant enough to warrant this. However the Group does seek 
+to maintain the same level of working capital in both its Canadian Subsidiary 
+and in the uK parent, measured in calendar months.
+Liquidity risk
+liquidity risk is the risk arising from 
+the Group not being able to meet 
+its obligations as they fall due.
+t he Group seeks to manage this risk by ensuring sufficient liquidity is available 
+to meet the foreseeable needs and to invest cash assets safely and profitably. 
+t he Group’s policy throughout the year has been to place surplus funds 
+on short-term treasury deposits based on its detailed cashflow forecasting. 
+t he Group prudently manages its liquidity needs by carefully monitoring 
+forecast cash inflows and outflows both in the short and medium term.
+t he Admission to AIM and pre-Ipo placing has strengthened the balance sheet 
+and combined with the £3 million revolving credit facility has enabled the Group 
+to resource an accelerated growth plan.
+net cash requirements are compared to balances in order to determine 
+headroom or any shortfalls. t his analysis shows that available cash is expected 
+to be sufficient to continue to operate as it is currently.
+Credit risk
+Credit risk is the risk that a 
+third party might fail to fulfil its 
+performance obligations under the 
+terms of a financial instrument.
+t he Group’ s exposure is limited to the carrying amount of financial assets and cash and 
+cash equivalents recognised at the year -end date (as summarised in notes 14 and 15). 
+t he Group’s management consider all financial assets, not impaired, for each 
+reporting date are of good credit quality, including those past due. In respect 
+of trade and other receivables the Group is exposed to significant credit risk 
+for a single counterparty.
+t he Group considers it has minimal credit risk for liquid funds and other short term 
+financial assets as cash is held with reputable uK and Canadian banks.
+At the year end none of the Group’s financial assets are secured by collateral 
+or other credit enhancements.
+Interest rate sensitivity
+Interest rate risk is the current 
+or prospective risk that earnings 
+and/or capital are negatively 
+affected by interest rate changes 
+in the financial markets.
+t he convertible loan notes issued carry a fixed rate of 8% per annum.
+t he Group has no other borrowings through which it is subject to interest rate risk.
+t he risk associated with interest earned on cash balances is low given low level 
+of interest currently being earned worldwide. FRONTIER DEVELOPMENTS PLC Annu Al RepoR t And ACCountS 2013 14
+CORPORATE GOVERNANCE
+DIRECTORS’ BIOGRAPHIES
+DA VID BRABEN
+Founder and CEO
+Joined david was the founding 
+shareholder of Frontier in January 1994.
+Experience david is the co-author 
+of the seminal Elite title and has over 
+30 years’ experience in the gaming 
+industry. david is also a founding trustee 
+of the Raspberry pi Foundation, a charity 
+which aims to inspire a new generation 
+of children to get interested in computer 
+science through the use of a credit-card 
+sized computer that plugs into your tV 
+and a keyboard. david was formerly a 
+non-executive director of phonetic Arts, 
+a Cambridge-based company focused 
+on speech synthesis that was acquired 
+by Google in december 2010. david 
+is a member of the BAFt A games 
+committee, a Fellow of the Royal 
+Academy of engineering and the 
+chairman of Skillset university 
+Approvals Board. 
+Committees nominations
+DA VID GAMMON
+Non-Executive Chairman
+Joined February 2012
+Experience david has over 15 years’ 
+experience as an investment banker 
+having worked for Baring Securities, 
+Salomon Brothers, Robert Fleming & Co 
+and Credit l yonnais. Since 2001, david 
+has focused on developing, advising and 
+investing in uK technology companies. 
+In 1988, david founded Rockspring, 
+an advisory and investment firm which 
+focuses on early stage technology 
+companies and where david continues 
+as Ceo today. other current positions 
+include non-executive directorships 
+at l oQ plc and Imaginatik plc. He is 
+group strategic advisor to Marshall 
+of Cambridge (Holdings) limited, and 
+acts as general advisor to deepMind 
+technologies limited and Hawkwood 
+Capital llp .
+Committees Audit, Remuneration, 
+nominations
+DA VID W ALSH
+Chief Operating Officer
+Joined September 2001
+Experience david has over 25 years’ 
+experience of engineering and 
+commercial management roles in 
+high-growth technology companies. 
+In 2001 david joined Frontier from 
+ARM, the FtSe/nASd AQ listed 
+microprocessor Ip licensing company 
+where he served for six years, helping 
+to grow the company and as director of 
+software systems setting up a division 
+of the company to facilitate adoption 
+of the architecture in key target market 
+segments. In 2012 david established 
+and became president of Frontier 
+developments Inc., Frontier’s wholly 
+owned Canadian subsidiary, and he 
+also serves as a board member of the 
+entertainment Software Association 
+of Canada.
+Committees Remuneration
+JONATHAN MILNER
+Non-Executive Director 
+Joined november 2012
+Experience Jonathan is an experienced 
+entrepreneur and business leader with a 
+background in genetic research. In 1998, 
+he founded Abcam with david Cleevely 
+and professor tony Kouzarides, to supply 
+the rapidly growing market for antibodies 
+and other life science reagents. As Ceo , 
+Jonathan was instrumental in building 
+Abcam into an £800+ million company. 
+Jonathan is an active supporter of the 
+Cambridge, uK business community. 
+He is also a non-executive director 
+of Horizon discovery, a personalised 
+genomics company.
+Committees Remuneration
+JONNY W ATTS
+Chief Creative Officer
+Joined november 1998
+Experience Jonny has over 26 years’ 
+experience in gaming. He joined 
+the Company in 1998 from Sensible 
+Software, and over the course of his 
+career has been involved in all aspects 
+of the creation of 23 published games 
+such as Sensible Soccer, Cannon Fodder, 
+Roller coaster Tycoon 3, Kinectimals, 
+LostWinds, Kinect Disneyland Adventures 
+and Kinect Star Wars. Jonny’s titles span 
+the full range from indie development 
+to 400-person projects, encompass a 
+diverse range of genres, and together 
+have been enjoyed by over 34 million 
+people worldwide. Jonny holds zoology 
+and computer science degrees and is 
+an active member of BAFt A, including 
+serving as a judge for five years and on 
+the BAFt A Young designer committee.
+NEIL ARMSTRONG
+Company Secretary and CFO
+Joined June 2009
+Experience neil is a chartered 
+accountant (ACA) with over 24 years’ 
+experience. He has previously 
+held positions as finance director 
+or financial controller with Skillshare 
+International, the International Institute 
+for environment and development, 
+Cowells Arrow Bingo Company, 
+Cinram uK limited and dane 
+& Company limited. FINANCIAL STATEMENTS
+Annu Al RepoR t And ACCountS 2013 FRONTIER DEVELOPMENTS PLC 15
+REVIEW OF THE YEAR CORPORATE GOVERNANCE
+CORPORATE DIRECTORY
+Directors
+Mr d R Gammon 
+Mr d J Braben 
+Mr d J Walsh 
+Mr J F Watts 
+dr J S Milner (appointed 1 november 2012)
+Company Secretary and CFO
+Mr n R Armstrong
+Registered office
+306 Science park 
+Milton Road 
+Cambridge CB4 0WG
+Company number
+02892559
+david Braben
+Jonathan Milner
+david Gammon
+neil Armstrong
+david Walsh
+Jonny Watts
+For a full list of Advisors and 
+Company Information see 
+inside back cover. CORPORATE GOVERNANCE
+FRONTIER DEVELOPMENTS PLC ANNUAL REPORT AND ACCOUNTS 2013 16
+Going concern
+The Group’s forecasts for the intended development activity 
+as adjusted for the successful raising of share capital on AIM, 
+lead to a reasonable expectation that the Group has adequate 
+resources to continue in operational existence for the 
+foreseeable future. 
+Principal risks and uncertainties
+The Group faces competitive and strategic risks that are 
+inherent in a rapidly growing emerging market. The Audit 
+Committee maintains the Risk Register and escalates 
+the key risks for further consideration at full Board level 
+on a regular basis. 
+Key business risks affecting the Group are set out below:
+Strategic focus
+The Group is diversifying its business base to a balanced mix 
+of technology, self-published and published-based revenue 
+streams. Inherently such a strategic shift of focus creates 
+execution risk, whilst perhaps reducing financial risk based on 
+a small customer base. The Group is confident that it can deliver 
+on both the technology and the commercial relationships that 
+support this strategy and has taken initial steps to achieve this.
+Financial
+The Group recognises that it is currently dependent on a small 
+number of sources of revenue, and this has the potential to 
+cause financial stress should these relationships break down. 
+The Group is also confident that if this were to happen it could 
+undertake work for other customers whilst it builds up a 
+diversified revenue base.
+T echnology
+The Group operates in a fast moving industry where 
+monetisation strategies for video games and the associated 
+technology platforms are evolving rapidly. The ability to both 
+forecast and monetise revenue streams is subject to a risk 
+of uncertainty that may not cover development costs. The 
+Board believes that its design of its own technology and 
+self-published games, ability to execute on high-end technology 
+platforms and the flexibility demonstrated by the diverse range 
+of video games we have successfully developed in the past 
+mitigates some of this risk. 
+Growth management
+The Group’s future success will depend on its ability to manage 
+anticipated expansion. This now includes the management 
+of an overseas-based subsidiary and may include acquisitions. 
+Such expansion is expected to place demands on management 
+and support functions. If the Group is unable to manage its 
+expansion effectively, its business and financial results could 
+suffer. In order to mitigate this risk, the Group is investing 
+in suitable training for key staff and key internal systems. 
+The Group continues to seek to strengthen its Non-Executive 
+Director base and has appointed key advisors with experience 
+in the sector to ensure these risks are managed objectively. 
+REPORT OF THE DIRECTORS
+for the year ended 31 May 2013
+The Directors present their report on the affairs of the Group 
+and Company together with the financial statements for 
+the year to 31 May 2013. The financial statements are 
+prepared under International Financial Reporting Standards 
+(EU-adopted IFRS). 
+Principal activities
+The principal activity of the Group and Company in the year 
+under review was that of design and production of computer 
+software, particularly video games within the interactive 
+entertainment sector.
+Review of business
+A more detailed review of the Group’s activities is contained 
+within the Chairman’s Statement, the Chief Executive’s Review 
+and the Financial Review.
+We continued our transition towards a technology company 
+within the interactive entertainment sector. 
+We continue to develop and invest in novel enabling technology 
+and tools for our FGDK multi-threaded game development 
+platform (known publicly as COBRA), as well as supporting 
+selected third party technology and/or tools that we believe 
+provide a cost-effective value-add for our developments. In the 
+year we added functionality for the latest versions of iOS and 
+Windows 8, as well as preparing for the new generation of 
+games consoles.
+In order to add resource for this transition we set up our 
+subsidiary in Halifax, Nova Scotia, Canada, in July 2012.
+As part of our strategy of diversifying revenue streams we 
+released our self-published rollercoaster game Coaster Crazy 
+on the iOS platform and commenced development for its 
+release on WiiU and a deluxe version on iOS.
+We continued to work with Microsoft Studios on a number 
+of projects, including Zoo T ycoon, scheduled for release 
+on the Xbox One.
+To fund our plans we were able to raise £1 .13 million in 
+convertible loan notes by the year end, subsequently rising 
+to £2.71 million and £0.13 million in equity. We took the 
+opportunity to float on AIM on 15 July 2013 raising a further 
+£4.03 million gross and securing a £3.00 million revolving 
+credit facility with Barclays Bank plc.
+The Board is grateful for the continuing support from 
+its key shareholders.
+Key performance indicators
+The Directors took the opportunity to refresh the key performance 
+measures that underpin the strategy of the Group during the year.
+The key performance indicators that relate to the strategy 
+both currently and going forward will be those around 
+measures of market capitalisation, profitability, investment 
+in own IP , quality, efficiency and Frontier becoming 
+a ‘destination employer’.  REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL STATEMENTS
+ANNUAL REPORT AND ACCOUNTS 2013 FRONTIER DEVELOPMENTS PLC 17
+Attracting and retaining staff
+The Group acknowledges that it is in a sector where world-class 
+staff are in high demand. The Group is undertaking a three-year 
+programme of improving incentives and leadership skills which 
+is intended to further enhance its attractiveness as an employer.
+Financial risk management objectives and policies
+As part of its listing process the Group took the opportunity 
+to review its financial environment and practises. This led to 
+improved corporate governance, financial policies and internal 
+controls to manage financial risk and align financial measures 
+with the strategic objectives it is committed to. 
+Currency risk
+Currency risk is managed by ensuring, where possible, that 
+financial revenues and operating costs are denominated in 
+£ Sterling or where sub-contract costs have been recharged, 
+they have been recharged in the same currency. The operating 
+costs of the Canadian entity are matched to USD revenue flows 
+where possible, as this exchange rate has been more stable 
+than against £ Sterling. 
+Liquidity risk
+Liquidity risk is the risk arising from the Group not being able 
+to meet its obligations as they fall due. The Group seeks to 
+manage this risk by ensuring sufficient liquidity is available to 
+meet the foreseeable needs and to invest cash assets safely 
+and profitably. 
+The Group’s policy throughout the year has been to place 
+surplus funds on short-term treasury deposits based on its 
+detailed cashflow forecasting. The Group prudently manages 
+its liquidity needs by carefully monitoring forecast cash inflows 
+and outflows both in the short and medium term.
+The Admission to AIM and pre-IPO placing has strengthened 
+the balance sheet and, combined with the £3 million revolving 
+credit facility, has enabled the Group to resource an 
+accelerated growth plan.
+Net cash requirements are compared to balances in order 
+to determine headroom or any shortfalls. This analysis shows 
+that available cash is expected to be sufficient to continue 
+to operate through the transition period. 
+Share issues
+Details of the shares issued during the year are detailed in Note 16 
+to the financial statements. The Company has one class of ordinary 
+share which carries no right to fixed income. Each share carries 
+the right to one vote at general meetings of the Company.
+Directors
+The Directors who held office at 31 May 2013 and their interest 
+in the share capital of the Company, as restated for the 
+re-denomination in December 2012 were as follows:
+Name 2013 2012
+David Gammon 224,720 224,720
+David Braben 17,494,380 17,662,920
+David Walsh* 1,245,820 1,000,000
+Jonathan Watts 32,000 32,000
+Jonathan Milner* (appointed  
+1 November 2012) 572,104 —
+Jonathan Roach (resigned  
+3 September 2012) — 648,000
+Total 19,569,024 19,680,000
+*Including direct family holdings.
+Directors’ remuneration and share options 
+Details of Directors’ remuneration and share options are 
+provided within the Remuneration Report and are in addition 
+to the interests in shares shown above.
+During the year David Braben sold 168,540 shares and 
+David Walsh sold 56,180 shares to Jonathan Milner, realising 
+gains of £149,832 and £21,910 before tax respectively. 
+David Walsh exercised 302,000 (re-denominated) share options 
+granted in November 2002 at a restated exercise price of 33 pence. 
+Directors’ responsibilities for the financial statements
+The Directors are responsible for preparing the Report of the 
+Directors and the financial statements in accordance with 
+applicable law and regulations. 
+Company law requires the Directors to prepare such financial 
+statements for each financial year. Under that law, the Directors 
+have elected to prepare the Company financial statements in 
+accordance with International Financial Reporting Standards 
+(IFRSs) as adopted by the European Union. Under company law 
+the Directors must not approve the financial statements unless 
+they are satisfied that they give a true and fair view of the state 
+of affairs and of the profit or loss of the Company for that year. 
+In preparing these financial statements, the Directors are required to:
+•	 select suitable accounting policies and then apply 
+them consistently;
+•	 make judgements and accounting estimates that are 
+reasonable and prudent;
+•	 state whether the applicable IFRSs have been followed, 
+subject to any material departures disclosed and explained 
+in the Company’s financial statements; and
+•	 prepare the financial statements on a going concern basis 
+unless it is inappropriate to presume that the Company 
+will continue in business. CORPORATE GOVERNANCE
+FRONTIER DEVELOPMENTS PLC ANNUAL REPORT AND ACCOUNTS 2013 18
+The Group’s policies and procedures are created and 
+administered in such a way that they do not tolerate 
+or foster such discrimination.
+The Group has an Employee Consultation group that meets 
+regularly with senior management.
+The Group encourages employee involvement in the Group’s 
+performance by using a contractual bonus scheme for all 
+non-Director level staff. In addition it seeks to issue share 
+options at relevant times. 
+Employment policies
+The Group is committed to following UK employment law for 
+its Cambridge-based operations and the Canada Labour Code 
+for its Halifax, Nova Scotia, operation. Where possible the Group 
+strives for similar employment and benefit arrangements 
+between territories.
+Health and safety and environment
+The aim of the Directors is to provide healthy, safe and 
+congenial working conditions, equipment and systems 
+of work for all employees.
+The Directors further intend to provide sufficient information, 
+training and supervision to enable employees to do their work 
+safely, effectively and without risk to themselves or to others.
+We acknowledge that we are responsible for the safety of 
+visitors, both professional and social, who enter the premises.
+Frontier Developments plc recognises its duty to comply and 
+operate within the requirements of statutory environmental 
+legislation and is committed to minimising the environmental 
+impacts of its business operations. The Directors of the Group 
+will support this policy with this commitment in mind. 
+Substantial shareholders
+At 12 November 2013 the following, other than the Directors 
+whose shareholdings are listed on page 17 , had notified the 
+Company of disclosable interests in 3% or more of the 
+nominal value of Frontier Developments plc of 0.5 pence each:
+Name Shareholding %
+Chris Sawyer 2,565,726 8.2%
+Lansdowne Partners 2,362,204 7.6%
+Amati Venture Capital 1,042,150 3.3%
+REPORT OF THE DIRECTORS
+for the year ended 31 May 2013 continued
+Directors’ responsibilities for the financial statements 
+continued
+The Directors are responsible for keeping adequate accounting 
+records that are sufficient to show and explain the Company’s 
+transactions and disclose with reasonable accuracy at any time 
+the financial position of the Company and to enable them to 
+ensure that the financial statements comply with the Companies 
+Act 2006. They are also responsible for safeguarding the assets 
+of the Company and hence for taking reasonable steps for the 
+prevention and detection of fraud and other irregularities.
+The Directors confirm that:
+•	 so far as each Director is aware, there is no relevant audit 
+information of which the Company’s auditor is unaware; and
+•	 the Directors have taken all steps that they ought to have 
+taken as Directors to make themselves aware of any 
+relevant audit information and to establish that the auditor 
+is aware of that information.
+The Directors are responsible for the maintenance and integrity 
+of the corporate and financial information included on the 
+Company’s website. Legislation in the United Kingdom 
+governing the preparation and dissemination of financial 
+statements may differ from legislation in other jurisdictions.
+Directors’ indemnity arrangements
+During the year the Company purchased directors’ and officers’ 
+liability insurance in respect of itself and its Directors.
+Intellectual property and research and development
+The Group actively protects its intellectual property via 
+trademark registrations. Whilst the Directors consider 
+these to be of significant value, the costs associated 
+with registrations are expensed.
+The Group invests heavily in research and development 
+through the COBRA engine and associated development tools. 
+Costs that meet the criteria for capitalisation are included in 
+intangible assets (see Note 7 of the financial statements). The 
+Group‘s total spend in research and development to support 
+its strategy was £1 .36 million in the year (2012: £1 .05 million).
+Employee involvement
+The Group seeks to encourage and promote an agile, open, fair 
+and meritocratic culture of engagement, achievement and fun.
+The Group is committed to the principle of equal opportunities 
+in employment. Its aim is to ensure that no job applicant 
+or employee receives less favourable treatment or is placed 
+at a disadvantage by requirements or conditions that cannot 
+be shown to be justifiable and thereby promote equality of 
+opportunity for employment within the Group on grounds 
+such as sex, disability, marital status, religion, colour, race, 
+nationality, ethnic or national grounds, age or sexual orientation. REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL STATEMENTS
+ANNUAL REPORT AND ACCOUNTS 2013 FRONTIER DEVELOPMENTS PLC 19
+Payment policy and practice
+The Group’s policy concerning the payment of suppliers is 
+to agree terms of payment at the start of business with each 
+supplier. The Group’s normal policy is to pay supplier invoices in 
+accordance with those terms and conditions provided there are 
+no disputes. At 31 May 2013 the Company had an average of 
+42 days’ purchases outstanding (2012: 3 days’). The variation 
+in days outstanding is a function of the amount of sub-contract 
+work being undertaken for projects and, in 2013, funding fees 
+associated with the IPO.
+Donations and community support
+The Group made charitable donations during the year of £4,560 
+(2012: £500) to various educational establishments. There were 
+no donations to political parties. Employees of the Company 
+participate actively in the community of entrepreneurial 
+businesses clustered around Cambridge.
+Senior employees of the Company have been involved closely 
+with the Raspberry Pi foundation, and the majority of charitable 
+donations comprise the provision of Raspberry Pi devices to 
+educational establishments.
+Post-balance sheet event
+On 15 July 2013 the holding company listed on AIM.
+Auditor
+A resolution to re-appoint Grant Thornton UK LLP as the 
+Company’s auditor will be proposed at the forthcoming 
+Annual General Meeting. In accordance with normal 
+practice, the Directors will be authorised to determine 
+the Auditor’s remuneration.
+Approved by the Board of Directors and signed on behalf 
+of the Board
+Neil Armstrong
+Company Secretary
+13 November 2013 CORPORATE GOVERNANCE
+FRONTIER DEVELOPMENTS PLC ANNUAL REPORT AND ACCOUNTS 2013 20
+Board composition
+The Board of Frontier Developments plc comprises the 
+Non-Executive Chairman, the Chief Executive Officer and 
+two other Executive officers, the Company Secretary and one 
+further Non-Executive Director. As can be deduced from the 
+individual biographies, the Directors have a range of experience 
+and provide a balance of skills, experience and knowledge to 
+the Board. 
+All Directors are subject to election at the first Annual General 
+Meeting following their appointment and to re-election 
+thereafter at intervals of no more than four years.
+Board Committees 
+Audit Committee
+The Audit Committee determines the terms of engagement of 
+the Company’s auditor and, in consultation with the Company’s 
+auditor, the scope of the audit. It will receive and review 
+reports from management and the Company’s auditor relating 
+to the interim and annual accounts and the accounting and 
+internal control systems in use by the Company and Group. 
+The Audit Committee has unrestricted access to the 
+Company’s auditor. The Audit Committee also reviews 
+accounting and treasury policies, financial reporting including 
+key performance indicators and supporting key areas of 
+management judgements, the corporate Risk Register, 
+and corporate governance standards. The Audit Committee 
+is open to attendance by any Director, and reports its key 
+issues at Board meetings.
+The Audit Committee comprises David Gammon and 
+Neil Armstrong, supported by James Dixon (one of 
+the senior operation managers) and Amanda Heslam 
+(the Group’s management accountant).
+Remuneration Committee
+The Remuneration Committee reviews the scale and structure 
+of the Executive Directors’ future remuneration and the terms 
+of the service agreements with due regard to the interests 
+of shareholders. No Director is permitted to participate in 
+discussions or decisions concerning their own remuneration. 
+The Remuneration Committee also approves annual salary 
+review limits, bonus schemes and payment limits, and 
+significant employee benefits, such as pension and share 
+option schemes. 
+The Remuneration Committee comprises David Gammon, 
+David Walsh and Jonathan Milner, supported by Neil Armstrong.
+CORPORATE GOVERNANCE REPORT
+for the year ended 31 May 2013
+The Board
+The Board of Frontier Developments plc is responsible for 
+the long-term financial success of the business. The Directors 
+recognise the value and importance of high standards of 
+corporate governance and observe the requirements of the 
+UK Corporate Governance Code (even though it does not 
+apply to AIM listed companies) to the extent they consider 
+appropriate in light of the Company’s size, stage of 
+development and resources.
+The following statements set out the principles and 
+methods to which it adheres. The Statement of Directors’ 
+Responsibilities is set out on pages 17 and 18.
+Board meetings and practices
+The Board seeks to meet formally at least eleven times a year 
+including two ‘offsite’ strategic review days. All members of 
+the Board are invited to attend all meetings.
+The Chairman and the Company Secretary plan the agenda 
+for each Board meeting in consultation with all other Directors. 
+That agenda is issued with supporting papers ahead of the 
+Board meetings providing the appropriate information required 
+to enable the Board to discharge its duties.
+The matters reserved for the attention of the Board include:
+•	 overall business strategy of the Group;
+•	 review of key operational and commercial matters;
+•	 review of key finance matters, including approval of financial 
+plans, changes to capital structure, acquisitions and disposals 
+of businesses and material capital expenditure, and dividends;
+•	 governance: Board membership and powers including 
+the appointment and removal of Board members, set up 
+and delegation of matters to appropriate Committees, 
+and the reviewing of reporting back thereof;
+•	 approval of financial statements both interim and year end;
+•	 stock exchange related issues including the approval 
+of communications to the stock exchange and 
+communications with shareholders in conjunction 
+with the financial public relations firm (College Hill);
+•	 subsidiary Board appointments, as the 100% shareholder, 
+and review of key decisions at their Board meetings;
+•	 approval of acquisitions, disposals, borrowing facilities, 
+premises and matters proposed by the corporate 
+lawyer (Bird and Bird) and investment advisor 
+(Canaccord Genuity); and 
+•	 appointment and performance review of key advisors. REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL STATEMENTS
+ANNUAL REPORT AND ACCOUNTS 2013 FRONTIER DEVELOPMENTS PLC 21
+Control environment and internal audit
+The Group has established operating procedures appropriate 
+to its size and structure for reporting financial and non-financial 
+information to the Board.
+These include, but are not limited to:
+•	 operating guidelines and procedures with approval limits;
+•	 accounting policies, controls and procedures; 
+•	 performance monitoring systems updated monthly 
+for review at Board meetings; and
+•	 regulatory and legal changes that may materially impact 
+on the business.
+Due to the Executive Directors’ close involvement in the 
+business activities, the Group does not currently believe that 
+an internal audit function would be cost effective. The Audit 
+Committee reviews this position on a regular basis.
+Investor relations
+The Directors, together with the Group’s advisors, are 
+preparing to hold meetings and discussions with key institutional 
+shareholders, ensuring clarity around the Group’s strategic 
+intent. The Group intends to use the Annual General Meeting 
+to encourage attendance and participation by shareholders.
+Nominations Committee
+The Nominations Committee reviews the constituents 
+of the Board and its committees to ensure appropriate 
+balance representation.
+The Nominations Committee comprises David Gammon 
+and David Braben, supported by Neil Armstrong. 
+Company Secretary
+The role of the Company Secretary is to ensure reliable 
+and regular information flows to the Board and its committees 
+and to ensure applicable rules and regulations are followed. 
+The Company Secretary is available to all Directors to provide 
+advice and assistance and is responsible for providing 
+governance advice to the Board.
+Auditor independence
+The external audit function provides independent review 
+and audit. It is the responsibility of the Audit Committee to 
+review and monitor the external auditor’s independence and 
+objectivity and the effectiveness of the audit process, taking 
+into consideration relevant UK professional and regulatory 
+requirements and to develop and implement policy on the 
+engagement of the external auditor to supply non-audit 
+services, taking into account relevant ethical guidance.
+Senior management and Group functions
+The Executive Directors are supported by a number of senior 
+managers; however the close involvement of the Executive 
+Directors in the day-to-day activities of the business at the 
+present time negates the need for a formal Executive Team. 
+The Group maintains central finance, HR, IT and marketing 
+functions to support the Group’s activities, reporting to the 
+Executive Team. 
+Internal control and assessment of business risk
+The Board took the opportunity to fully review the Group’s 
+policies and procedures for internal controls to ensure an 
+appropriate framework under which the business can operate 
+and in line with regulations as part of its Admission to AIM.
+The systems for internal control and risk management 
+processes are designed to manage rather than eliminate risk 
+of the achievement of strategic objectives. Such systems can 
+only provide a reasonable but not absolute level of assurance 
+against material misstatement or loss.
+A risk assessment process is embedded within the project 
+and administrative process within the Group. The strategic 
+risks are regularly reviewed by the Board, under the guidance 
+of the Audit Committee. A Risk Register is maintained to 
+review key risks and the related controls and mitigation plans.  CORPORATE GOVERNANCE
+FRONTIER DEVELOPMENTS PLC ANNUAL REPORT AND ACCOUNTS 2013 22
+Components of Executive Directors’ remuneration
+Overview
+The remuneration policy is to maintain an appropriate balance 
+between fixed elements of remuneration and performance 
+related elements, with an increasing proportion of the latter. 
+Directors and staff are all encouraged to acquire shares in the 
+Company and to hold these shares for the long term. This 
+participatory element is an important aspect of the Group’s 
+culture and its focus on long-term performance.
+As part of the changes the Remuneration Committee has 
+plans to adopt the following:
+•	 a move to median level pay over an affordable period 
+of time;
+•	 the set up of a new Executive share option scheme;
+•	 the set up of a ‘stretch goal’ based bonus scheme; and
+•	 pension provision in line with the Group’s auto 
+enrolment plans.
+Components of remuneration package
+Service contracts
+The service agreements adopted on 1 July 2013 for the 
+Executive Directors can be terminated by either party 
+provided at least six months’ notice has been given.
+Basic pay
+Salaries were reviewed on 1 July 2013 upon the take up of 
+new service agreements, required prior to Admission on AIM. 
+The intention is to subsequently review these annually on 
+1 August in line with all staff.
+Annual bonus
+The bonus payment for the year to May 2013 will be 
+discretionary up to 8% of basic pay; from that point a new 
+scheme based on stretch goals and limited to 21% of pay 
+will be adopted. The bonus scheme is subject to affordability.
+Share options
+The Enterprise Management Initiative Scheme is being replaced 
+by a revised Company Share Option Plan which will be available 
+to Executive Directors until such time as a longer-term executive 
+arrangement can be put in place.
+Pension contributions and life cover
+The intention of the Committee is to place the Executive 
+Directors under the proposed Group’s scheme for pension 
+auto enrolment and life cover arrangements. 
+Non-Executive Directors’ remuneration
+The remuneration of Non-Executive Directors is determined by 
+the Board and reflects their anticipated time commitment to fulfil 
+their duties. The Non-Executive Directors’ remuneration is subject 
+to the same principles of the remuneration policy for the Group 
+and is in a transitional phase of alignment to median market rates. 
+The letters of appointment of Non-Executive Directors can 
+be terminated with six months’ notice for the Chairman and 
+three months’ for all other Non-Executives under notice given 
+by either party.
+REMUNERATION REPORT
+for the year ended 31 May 2013
+As Frontier Developments is an AIM-listed company it is not 
+required to disclose all the information in the Remuneration 
+Report; however, in the interests of transparency the Board 
+has chosen to provide the following details as a voluntary 
+disclosure. The auditor is not required and has not, except 
+where indicated, audited the information included in the 
+Remuneration Report.
+The Remuneration Committee is responsible to the Board 
+for developing remuneration policy. The Report of the 
+Remuneration Committee has been approved by the Board 
+of Directors for submission for shareholders’ approval at the 
+Annual General Meeting.
+Remuneration Committee terms of reference
+The Remuneration Committee comprises both Non-Executive 
+Directors of the Company and the Chief Operations Officer, 
+supported by the Company Secretary. The Remuneration 
+Committee meets at least twice a year.
+The Remuneration Committee is responsible for the 
+following functions:
+•	 setting of remuneration for Directors and senior managers, 
+including pay, bonuses and long-term incentive arrangements;
+•	 approval of the overall increase for annual pay and bonus 
+levels for all other staff;
+•	 approval of share option plans or arrangements;
+•	 setting of overall share option issues;
+•	 approval of any significant employee benefit 
+arrangements; and 
+•	 reviewing the Committee’s terms of reference and 
+submitting to the Board for subsequent approval.
+Remuneration policy
+The Remuneration Committee approved the following policy:
+“Frontier endeavours to pay salaries and benefits around the 
+median level for relevant skills. Where there is a material gap 
+in remuneration, it is the policy of the Group to close this over 
+time and subject to affordability. ”
+As part of the Group’s Admission to AIM the Remuneration 
+Committee, along with its legal advisors, implemented new 
+service agreements to take effect from 1 July 2013. In doing 
+so and in recognition of the higher public profile the Committee 
+reviewed the ‘ AIM Directors’ Pay 2013’ report published by 
+Growth Company Investor, and identified a significant gap 
+between Directors’ actual pay to the policy intent. 
+The Remuneration Committee has set out to move to a median 
+level of pay over a four to five-year period. In addition the 
+Remuneration Committee aims to bring incentives in to place 
+that align the Group’s strategic objectives and investor interests 
+with a large element of the total remuneration package.  REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL STATEMENTS
+ANNUAL REPORT AND ACCOUNTS 2013 FRONTIER DEVELOPMENTS PLC 23
+Directors’ remuneration (audited)
+The remuneration of the Directors is as follows:
+Current Directors
+Salary/fee
+£’000
+Bonus
+£’000
+2013 
+Total
+£’000
+2012 
+Total
+£’000
+Executive
+David Braben 93 — 93 80
+David Walsh 93 — 93 80
+Jonathan Watts 95 4 99 78
+Non-Executive
+David Gammon 24 — 24 8
+Jonathan Milner 14 — 14 —
+Total 319 4 323 246
+Jonathan Roach received £20,000 salary during the period that he was a Director in 2013 (2012: £81,000).
+Share options (re-denominated where appropriate)
+Granted Number of options Performance criteria Exercise price Exercise period
+David Walsh 30 Jul 2012 20,000 No 89 pence 31 Jul 2013 to 30 Jul 2022
+15 May 2013 180,000 No 95 pence 16 May 2014 to 15 May 2023
+Jonathan Watts 6 Dec 2005* 60,000 No 67 pence 7 Dec 2006 to 6 Dec 2015
+30 Jul 2012 140,000 No 89 pence 31 Jul 2013 to 30 Jul 2022
+*Re-denominated in December 2012.
+The expense recognised in the Statement of Comprehensive Income for the Directors’ share options was £45,302 (2012: £nil) 
+with the amount attributable to the highest paid Director being £34,586 (2012: £nil).
+During the year, David Walsh exercised 302,000 share options (re-denominated) at the corresponding restated price of 33 pence each.
+A resolution to accept the Report of the Remuneration Committee will be put to shareholders at the Annual General Meeting.
+David Gammon
+Chairman, Remuneration Committee
+13 November 2013 FINANCIAL STATEMENTS
+FRONTIER DEVELOPMENTS PLC ANNUAL REPORT AND ACCOUNTS 2013 24
+INDEPENDENT AUDITOR’S REPORT
+to the members of Frontier Developments plc (Registered No: 02892559)
+We have audited the consolidated financial statements of Frontier Developments plc for the year ended 31 May 2013 which 
+comprise the consolidated income statement, consolidated statement of comprehensive income, consolidated and company 
+statement of financial position, consolidated and company statement of cashflows, consolidated and company statement of 
+changes in equity and the related notes. The financial reporting framework that has been applied in their preparation is applicable 
+law and International Financial Reporting Standards (IFRS’s) as adopted by the European Union. 
+This report is made solely to the Company’s members, as a body, in accordance with Chapter 3 of Part 16 of the Companies Act 
+2006. Our audit work has been undertaken so that we might state to the Company’s members those matters we are required to 
+state to them in an auditor’s report and for no other purpose. To the fullest extent permitted by law, we do not accept or assume 
+responsibility to anyone other than the Company and the Company’s members as a body, for our audit work, for this report, or for 
+the opinions we have formed.
+Respective Responsibilities of Directors and Auditor
+As explained more fully in the Directors’ Responsibilities Statement set out on pages 17 and 18, the Directors are responsible for 
+the preparation of the financial statements and for being satisfied that they give a true and fair view. Our responsibility is to audit 
+and express an opinion on the financial statements in accordance with applicable law and International Standards on Auditing 
+(UK and Ireland). Those standards require us to comply with the Auditing Practices Board’s (APB’s) Ethical Standards for Auditors.
+Scope of the Audit of the Financial Statements
+A description of the scope of an audit of financial statements is provided on the APB’ s website at www.frc.org.uk/apb/scope/private.cfm.
+Opinion on Financial Statements
+In our opinion:
+•	 The financial statements give a true and fair view of the state of the Group’s and of the parent Company’s affairs as at 
+31 May 2013 and of the Group’s profit for the year then ended,
+•	 The Group financial statements have been properly prepared in accordance with IFRS as adopted by the European Union.
+•	 The parent company financial statements have been properly prepared in accordance with IFRS as adopted by the European 
+Union and as applied in accordance with the provisions of the Companies Act 2006: and
+•	 The financial statements have been prepared in accordance with the requirements of the Companies Act 2006.
+Opinion on Other Matter Prescribed by the Companies Act 2006
+In our opinion the information given in the Directors’ Report for the financial year for which the Company financial statements are 
+prepared is consistent with the Company financial statements.
+Matters on which we are required to Report by Exception
+We have nothing to report in respect of the following matters where the Companies Act 2006 requires us to report to you if, 
+in our opinion:
+•	 Adequate accounting records have not been kept by the parent company, or returns adequate for our audit have not been 
+received from branched not visited by us; or.
+•	 The parent company financial statements are not in agreement with the accounting records and returns; or
+•	 Certain disclosures of directors’ remuneration specified by law are not made, or
+•	 We have not received all the information and explanations we require for our audit. 
+Alison Seekings
+Senior Statutory Auditor
+for and on behalf of Grant Thornton UK LLP , Statutory Auditor, Chartered Accountants, Cambridge
+13 November 2013 REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL STATEMENTS
+ANNUAL REPORT AND ACCOUNTS 2013 FRONTIER DEVELOPMENTS PLC 25
+CONSOLIDATED INCOME STATEMENT
+for the year ended 31 May 2013
+Notes
+31 May 2013
+£’000
+31 May 2012
+£’000
+Revenue 5 12,072 14,157
+Cost of sales (8,375) (11,259)
+Gross profit 3,697 2,898
+Administrative expenses (2,645) (1,508)
+Operating profit 1,052 1,390
+Finance income 21 19 10
+Profit before tax 6 1,071 1,400
+Income tax 22 (26) (2)
+Profit for the period 1,045 1,398
+All the activities of the Group are classified as continuing 
+Earnings per share 23
+Basic earnings per share 4.2p 5.7p
+Diluted earnings per share 4.1p 5.5p 
+31 May 2013
+£’000
+31 May 2012
+£’000
+Profit for the period 1,045 1,398
+Other comprehensive income:
+Items that will be reclassified subsequently to profit and loss
+Exchange differences on translation of foreign operations 3 —
+Total comprehensive income for the period attributable to the owners of the Group 1,048 1,398
+The accompanying accounting policies and notes form part of this financial information.
+CONSOLIDATED STATEMENT  
+OF COMPREHENSIVE INCOME
+for the year ended 31 May 2013 FINANCIAL STATEMENTS
+FRONTIER DEVELOPMENTS PLC ANNUAL REPORT AND ACCOUNTS 2013 26
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+for the year ended 31 May 2013 (Registered No: 02892559)
+Notes
+31 May 2013
+£’000
+31 May 2012
+£’000
+Non‑current assets 
+Intangible assets 7 3,450 3,331
+Property, plant and equipment 9 299 185
+Total non‑current assets 3,749 3,516
+Current assets
+Inventories 13 — 75
+Trade and other receivables 14 2,082 2,505
+Total cash and cash equivalents 15 7,155 1,686
+Total current assets 9,237 4,266
+Total assets 12,986 7,782
+Equity and liabilities
+Equity
+Share capital 16 127 12
+Share premium account 1,847 1,794
+Option reserve 643 263
+Foreign exchange reserve 3 —
+Retained earnings 5,775 4,694
+Total equity 8,395 6,763
+Liabilities
+Current
+Trade and other payables 19 3,060 867
+Current tax liabilities 33 2
+Total current liabilities 3,093 869
+Non‑current 
+Provisions 20 187 150
+Deferred income 19 1,283 —
+Deferred tax 12 28 —
+Total non‑ current liabilities 1,498 150
+Total liabilities 4,591 1,019
+Total equity and liabilities 12,986 7,782
+These financial statements were approved by the Directors on 13 November 2013 and signed on their behalf by:
+David Braben
+Director
+The accompanying accounting policies and notes form part of this financial information. REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL STATEMENTS
+ANNUAL REPORT AND ACCOUNTS 2013 FRONTIER DEVELOPMENTS PLC 27
+COMPANY STATEMENT OF FINANCIAL POSITION
+for the year ended 31 May 2013 (Registered No: 02892559)
+Notes
+31 May 2013
+£’000
+31 May 2012
+£’000
+Non‑current assets 
+Intangible assets 7 3,450 3,331
+Investment in subsidiary undertaking 8 — —
+Property, plant and equipment 9 227 185
+Total non‑current assets 3,677 3,516
+Current assets
+Inventories 13 — 75
+Trade and other receivables 14 2,237 2,505
+Total cash and cash equivalents 15 6,819 1,686
+Total current assets 9,056 4,266
+Total assets 12,733 7,782
+Equity and liabilities
+Equity
+Share capital 16 127 12
+Share premium account 1,847 1,794
+Option reserve 630 263
+Retained earnings 5,648 4,694
+Total equity 8,252 6,763
+Liabilities
+Current
+Trade and other payables 19 3,010 867
+Current tax liabilities 1 2
+Total current liabilities 3,011 869
+Non‑current 
+Provisions 20 187 150
+Deferred income 19 1,283 —
+Total non‑ current liabilities 1,470 150
+Total liabilities 4,481 1,019
+Total equity and liabilities 12,733 7,782
+These financial statements were approved by the Directors on 13 November 2013 and signed on their behalf by:
+David Braben
+Director
+The accompanying accounting policies and notes form part of this financial information. FINANCIAL STATEMENTS
+FRONTIER DEVELOPMENTS PLC ANNUAL REPORT AND ACCOUNTS 2013 28
+CONSOLIDATED STATEMENT OF CASHFLOWS
+for the year ended 31 May 2013
+Notes
+31 May 2013
+£’000
+31 May 2012
+£’000
+Operating activities
+Profit after tax 1,045 1,398
+Adjustments 24 2,198 1,829
+Net changes in working capital 24 2,923 (1,174)
+Taxes (paid)/received (5) 12
+Cashflow from operating activities 6,161 2,065
+Investing activities
+Purchase of property, plant and equipment (251) (28)
+Expenditure on intangible assets (1,783) (1,433)
+Interest received 19 10
+Cashflow from investing activities (2,015) (1,451)
+Financing activities
+Proceeds from convertible loan notes 1,129 —
+Proceeds from issue of share capital 168 —
+Cashflow from financing activities 1,297 —
+Net change in cash and cash equivalents from continuing operations 5,443 614
+Cash and cash equivalents at beginning of period 1,686 1,064
+Exchange differences on cash and cash equivalents 26 8
+Cash and cash equivalents at end of period 7,155 1,686
+The accompanying accounting policies and notes form part of this financial information. REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL STATEMENTS
+ANNUAL REPORT AND ACCOUNTS 2013 FRONTIER DEVELOPMENTS PLC 29
+COMPANY STATEMENT OF CASHFLOWS
+for the year ended 31 May 2013
+Notes
+31 May 2013
+£’000
+31 May 2012
+£’000
+Operating activities
+Profit after tax 918 1,398
+Adjustments 24 2,124 1,829
+Net changes in working capital 24 2,677 (1,174)
+Taxes (paid)/received (5) 12
+Cashflow from operating activities 5,714 2,065
+Investing activities
+Purchase of property, plant and equipment (148) (28)
+Expenditure on intangible assets (1,783) (1,433)
+Interest received 19 10
+Cashflow from investing activities (1,912) (1,451)
+Financing activities
+Proceeds from convertible loan notes 1,129 —
+Proceeds from issue of share capital 168 —
+Cashflow from financing activities 1,297 —
+Net change in cash and cash equivalents from continuing operations 5,099 614
+Cash and cash equivalents at beginning of period 1,686 1,064
+Exchange differences on cash and cash equivalents 34 8
+Cash and cash equivalents at end of period 6,819 1,686
+The accompanying accounting policies and notes form part of this financial information. FINANCIAL STATEMENTS
+FRONTIER DEVELOPMENTS PLC ANNUAL REPORT AND ACCOUNTS 2013 30
+CONSOLIDATED STATEMENT OF CHANGES IN EQUITY
+for the year ended 31 May 2013
+Share 
+capital
+£’000
+Share 
+premium 
+account
+£’000
+Option 
+reserve
+£’000
+Foreign 
+exchange
+reserve
+£’000
+Retained 
+earnings
+£’000
+Total 
+equity
+£’000
+At 31 May 2011 12 1,794 364 — 3,195 5,365
+Share‑ based payment transfer — — (101) — 101 —
+Transactions with owners — — (101) — 101 —
+Profit for the year — — — — 1,398 1,398
+Total comprehensive income  
+for the year — — — — 1,398 1,398
+At 31 May 2012 12 1,794 263 — 4,694 6,763
+Increase in equity in relation  
+to options issued — — 416 — — 416
+Share‑ based payment transfer — — (36) — 36 —
+Issue of share capital 1 167 — — — 168
+Re‑ denomination of share capital 114 (114) — — — —
+Transactions with owners 115 53 380 — 36 584
+Profit for the year — — — — 1,045 1,045
+Other comprehensive income:
+Exchange differences on translation  
+of foreign operations — — — 3 — 3
+Total comprehensive income  
+for the year — — — 3 1,045 1,048
+At 31 May 2013 127 1,847 643 3 5,775 8,395
+The accompanying accounting policies and notes form part of this financial information. REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL STATEMENTS
+ANNUAL REPORT AND ACCOUNTS 2013 FRONTIER DEVELOPMENTS PLC 31
+COMPANY STATEMENT OF CHANGES IN EQUITY
+for the year ended 31 May 2013
+Share 
+capital
+£’000
+Share 
+premium 
+account
+£’000
+Option 
+reserve
+£’000
+Retained 
+earnings
+£’000
+Total 
+equity
+£’000
+At 31 May 2011 12 1,794 364 3,195 5,365
+Share‑ based payment transfer — — (101) 101 —
+Transactions with owners — — (101) 101 —
+Profit for the year — — — 1,398 1,398
+Total comprehensive income  
+for the year — — — 1,398 1,398
+At 31 May 2012 12 1,794 263 4,694 6,763
+Increase in equity in relation  
+to options issued — — 403 — 403
+Share‑ based payment transfer — — (36) 36 —
+Issue of share capital 1 167 — — 168
+Re‑ denomination of share capital 114 (114) — — —
+Transactions with owners 115 53 367 36 571
+Profit for the year — — — 918 918
+Total comprehensive income  
+for the year — — — 918 918
+At 31 May 2013 127 1,847 630 5,648 8,252
+The accompanying accounting policies and notes form part of this financial information. FINANCIAL STATEMENTS
+FRONTIER DEVELOPMENTS PLC ANNUAL REPORT AND ACCOUNTS 2013 32
+NOTES TO THE FINANCIAL STATEMENTS
+1. Corporate information
+Frontier Developments plc (“the Group”) develops non‑game applications and video games for the interactive entertainment 
+sector. The Company is a public limited company and is incorporated and domiciled in the United Kingdom.
+The address of its registered office is 306 Science Park, Milton Road, Cambridge CB4 0WG.
+The Group’s operations are based in the UK and a subsidiary, Frontier Developments Inc, based in Canada.
+2. Basis of preparation and statement of compliance 
+The principal accounting policies applied in the preparation of this financial information are set out below. These policies have 
+been consistently applied to all the periods presented, unless otherwise stated.
+Basis of preparation
+The financial information of Frontier Developments plc has been prepared in accordance with International Financial Reporting 
+Standards as adopted by the European Union (IFRSs as adopted by the EU) and the Companies Act 2006 applicable to companies 
+reporting under IFRS. 
+The financial information has been prepared under the historical cost convention. The financial information is presented in 
+Sterling, the presentation currency for the Group, and all values are rounded to the nearest thousand pounds (£’000) except 
+when otherwise indicated.
+The preparation of this financial information requires the Directors to make critical accounting estimates and judgements 
+that affect the amounts reported in the financial statements and accompanying notes. The areas involving a higher degree of 
+judgement or complexity, or areas where assumptions and estimates are significant to the financial statements, are disclosed 
+in Note 4.
+Going concern basis
+The Group’s forecasts and projections, taking account of reasonably possible changes in trading performance, support the 
+conclusion that there is a reasonable expectation that the Group has adequate resources to continue in operational existence 
+for the foreseeable future, a period of not less than twelve months from the date of this financial information. The Group 
+therefore continues to adopt the going concern basis in preparing its financial statements. The Group has acquired the 
+resources via its flotation on AIM and revolving credit facility to support an accelerated growth plan for the business. 
+3. Principal accounting policies
+Basis of consolidation and business combinations
+Basis of consolidation
+The consolidated financial statements incorporate those of the Group and all entities controlled by it, after eliminating internal 
+transactions. Control is achieved where the Group has the power to control the financial and operating policies through its share 
+ownership. Subsidiaries are consolidated from the date on which control is obtained by the Group and cease to be consolidated 
+from the date on which control is transferred out of the Group. The entities’ results are adjusted, where appropriate, to conform 
+to Group accounting policies.
+a) Business combinations
+Business combinations are accounted for using the acquisition method under the revised IFRS 3 “Business Combinations” (IFRS 3R). 
+The consideration transferred by the Group to obtain control of a subsidiary is calculated as the sum of the acquisition‑date fair 
+value of assets transferred, liabilities incurred and the equity interests issued by the Group, which includes the fair value of any 
+asset or liability arising from a contingent consideration agreement. Acquisition costs are expensed as incurred. 
+The Group recognises identifiable assets acquired and liabilities assumed, including contingent liabilities, in a business 
+combination regardless of whether they have been previously recognised in the acquiree’s financial statements prior 
+to the acquisition. Assets acquired and liabilities assumed are generally measured at their acquisition‑date fair values.
+Goodwill is stated after separate recognition of identifiable intangible assets. It is calculated as the excess of the sum 
+of a) fair value of consideration transferred, b) the recognised amount of any non‑controlling interest in the acquiree and 
+c) acquisition‑date fair value of any existing equity interest in the acquiree, over the acquisition‑date fair values of identifiable 
+net assets. If the fair values of identifiable net assets exceed the sum calculated above, the excess amount (i.e. gain on a 
+bargain purchase) is recognised in profit or loss immediately. REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL STATEMENTS
+ANNUAL REPORT AND ACCOUNTS 2013 FRONTIER DEVELOPMENTS PLC 33
+3. Principal accounting policies continued
+b) Property, plant and equipment
+Property, plant and equipment are stated at cost less accumulated depreciation and any recognised impairment loss. 
+Depreciation is charged to the income statement so as to write off the cost less estimated residual values over their expected 
+useful lives on a straight line basis over the following periods:
+Fixtures and fittings 5 years 
+Computer equipment 2½ years – 5 years
+Leasehold improvements Length of the lease
+Residual values and useful economic lives are assessed annually. The gain or loss on the disposal or retirement of an asset 
+is determined as the difference between the sales proceeds and the carrying amount of the asset and is recognised in 
+administrative expenses.
+As a result of the review of useful economic lives an additional amortisation charge of £nil was made in the period to 31 May 2013 
+(31 May 2012: £85,720).
+c) Intangible assets 
+Intangible assets are measured at historic cost and are amortised on a straight line basis over their expected useful economic life. 
+They comprise three elements:
+•	 development tools;
+•	 software (self‑published games); and
+•	 software (third party).
+An internally generated intangible asset arising from the Group’s development activities is recognised only if all of the following 
+conditions are met:
+•	 completion of the intangible asset is technically feasible so that it will be available for use in developing games (in respect 
+of development tools) or for sale of games (in respect of self‑published software);
+•	 the Group intends to complete the intangible asset and has the ability to use or licence it as indicated above, thus generating 
+probable future economic benefits;
+•	 the expenditure attributable to the intangible asset during its development, mainly salary costs, can be measured reliably; and
+•	 the Group has adequate technical, financial and other resources to complete the development and to use or sell the intangible asset.
+Internally generated intangible assets, consisting of direct labour costs, other specific direct project costs and attributable project 
+support costs, are amortised on a straight line basis over their useful economic lives. The estimated useful lives of current 
+development projects are between two and five years. Until completion the assets are subject to annual impairment testing. 
+Amortisation commences upon completion of the asset and is shown within cost of sales in the income statement. 
+Where no internally generated intangible asset can be recognised, development expenditure is recognised as an expense in the 
+period in which it is incurred.
+d) Research activities
+Expenditure on research activities is recognised as an expense in the period in which it is incurred.
+e) Impairment of property, plant and equipment and intangible assets
+At each balance sheet date, the Group reviews the carrying amounts of its property, plant and equipment and individual intangible 
+assets for any indication that these assets have suffered an impairment loss. Until the internally generated intangible assets are 
+available for use when amortisation can be charged, the assets are subject to an annual impairment test. Intangible assets 
+already being amortised are also reviewed for any indication that the asset has suffered an impairment. If any such indication 
+exists, the recoverable amount of the asset is estimated in order to determine the extent of the impairment loss, if any. 
+The recoverable amount is the higher of the fair value less costs to sell and value in use. 
+Fair value in use is measured for self‑published games by discounting future cashflows. For all other assets a review of 
+the expected useful economic life is undertaken and compared to that implied in the amortisation rate. FINANCIAL STATEMENTS
+FRONTIER DEVELOPMENTS PLC ANNUAL REPORT AND ACCOUNTS 2013 34
+NOTES TO THE FINANCIAL STATEMENTS
+continued
+3. Principal accounting policies continued
+f) Inventories
+Inventories are stated at the lower of cost and net realisable value. Cost is based on the total accumulated project cost less the 
+amount expensed as cost of sales, being an allocation to match sales revenue, subject to an economic benefit test of milestone 
+delivery for long‑term contracts. Economic benefit tests are measured by reference to contractual terms such as acceptance and 
+approval of a milestone by the customer. Net realisable value is based on estimated selling value less additional cost to completion 
+and distribution. Provisions are made for obsolete or defective elements (which do not meet quality criteria and have to be replaced 
+in full) of cost where appropriate and are recognised as an expense in the period in which the write down or loss occurs.
+g) Financial instruments
+Financial liabilities and equity instruments are classified according to the substance of the contractual arrangements entered into. 
+An equity instrument is any contract that evidences a residual interest in the assets of the Group after deducting all of its financial 
+liabilities. Equity instruments do not include a contractual obligation to deliver cash or other financial assets to another entity. Any 
+instrument that does have the obligation to deliver cash or another financial asset to another entity is classified as a financial liability. 
+Financial liabilities are presented under liabilities on the statement of financial position.
+Financial assets
+Financial assets comprise assets trade receivables, other receivables and cash and cash equivalents.
+Trade and other receivables are recognised initially at fair value and measured subsequent to initial recognition at amortised cost 
+using the effective interest method, less provision for impairment. Any change in their value through impairment or reversal of 
+impairment is recognised in the income statement.
+Provision against trade receivables is made when there is objective evidence that the Group will not be able to collect all 
+amounts due to it in accordance with the original terms of those receivables. The amount of the write down is determined 
+as the difference between the assets carrying amount and the present value of estimated future cashflows discounted at 
+the original effective interest rate.
+Financial liabilities
+The Group’s financial liabilities include trade and other payables and convertible loan notes.
+Financial liabilities are initially measured at fair value and are subsequently measured at amortised cost, using the effective 
+interest rate method, except for financial liabilities designated at fair value through profit and loss (FVTPL). All derivative financial 
+instruments that are not designated and effective as hedging instruments are accounted for at FVTPL.
+The convertible loan notes issued in the year are recognised as financial liabilities rather than equity as their characteristics are 
+more akin to debt rather than equity. 
+Share capital and reserves
+Share capital represents the nominal value of the shares that have been issued.
+Share premium – Share premium represents the excess over nominal value of the fair value of consideration received for equity 
+shares, net of expenses of the share issue.
+Option reserve – This reserve represents equity‑settled share‑based employee remuneration until such share options are exercised.
+Foreign exchange reserve – This represents the exchange difference on consolidation of overseas subsidiaries.
+Retained earnings – Retained earnings include all current and prior period retained earnings.
+h) Cash and cash equivalents
+Cash and cash equivalents comprise cash in hand and bank deposits available on demand.
+i) Income taxes
+Income tax expense comprises the current and deferred tax. 
+Current income tax liabilities comprise those obligations to fiscal authorities relating to the current or prior reporting period that are unpaid 
+at the statement of financial position date. They are calculated according to the tax rates and tax laws applicable to the fiscal periods to 
+which they relate, based on the taxable profit for the year. All changes to current tax assets or liabilities are recognised as a component of 
+tax expense in the income statement, except where it relates to items outside profit or loss. T ax relating to items in other comprehensive 
+income is recognised in other comprehensive income and tax relating to items directly in equity is recognised directly in equity. REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL STATEMENTS
+ANNUAL REPORT AND ACCOUNTS 2013 FRONTIER DEVELOPMENTS PLC 35
+3. Principal accounting policies continued
+i) Income taxes continued
+Deferred income taxes are calculated using the liability method on temporary differences. This involves the comparison of the 
+carrying amounts of assets and liabilities in the financial statements with their respective tax bases. In addition, tax losses 
+available to be carried forward as well as other income tax credits to the Group are assessed for recognition as deferred tax 
+assets. However, deferred tax is not provided on the initial recognition of an asset or liability, unless the related transaction 
+is a business combination or affects tax or accounting profit. 
+Deferred tax liabilities are always provided in full. Deferred tax assets are recognised to the extent that it is probable that the 
+underlying deductible temporary differences will be able to be offset against future taxable income. Deferred tax assets and 
+liabilities are calculated, without discounting, at tax rates that are expected to apply to their respective period of realisation, 
+provided they are enacted or substantively enacted at the reporting date.
+Deferred tax is recognised as a component of tax expense in the income statement. Deferred tax relating to items directly in 
+equity is recognised directly in equity and deferred tax relating to items recognised in other comprehensive income is recognised 
+in other comprehensive income.
+j) Operating lease agreements
+Rentals applicable to operating leases where substantially all of the benefits and risks of ownership remain with the lessor are 
+charged to the income statement net of any incentives received from the lessor on a straight line basis over the period of the lease. 
+k) Revenue recognition
+Revenue represents amounts derived from the design, production and sale of computer games software and related technology 
+which fall within the Group’s ordinary activities, exclusive of value added tax and other similar sales taxes. Revenue is measured 
+by reference to the fair value of consideration received or receivable.
+Revenue includes income from the design and production of computer software contracted for customers, royalties from 
+published games, income from the release of self‑published games, and crowd‑sourced funding pledges.
+Revenues on project contracts are mapped against the expected profile of costs. In most circumstances these are closely correlated.
+Where there is close correlation between the revenue and cost profile, the milestones within the project contracts are considered 
+to approximate the stage of completion of the obligations under the contract and therefore recognition of revenue based on these 
+milestones provides a sufficiently accurate approximation of recognition of revenue on a stage of completion basis, except for 
+where there are significant acceptance requirements. Under such arrangements, revenue is recognised when the Group has 
+substantially met all its performance obligations and the customer has approved the relevant milestone.
+Where there is less correlation between the revenue and cost profile, revenue from customer specific contracts are recognised 
+on the stage of completion of each assignment (milestone) at the period end date compared to the total estimated service based 
+on the estimate of labour and other costs to be provided over the entire contract where the outcome can be estimated reliably. 
+If a contract outcome cannot be estimated reliably, revenues are recognised equal to costs incurred, to the extent that costs are 
+expected to be recovered. An expected loss on a contract is recognised immediately in the income statement.
+Additionally project contracts may contain provision for the pass‑through of subcontract costs, these are recharged on a matching 
+basis in the same period as the underlying cost.
+Revenue earned from royalties under distribution agreements are recognised in the period that the sales to the end customer 
+are made, estimated on an accruals basis as royalty reports are generally per calendar quarter. 
+Revenue from released self‑published titles is recognised on download of the game or part thereof (micro transaction) from the 
+sales channel and/or distribution platform.
+Revenue from crowd‑funding for self‑published titles is normally recognised when the Group meets its performance obligations. 
+Where there is no clear performance obligation, for example, membership of a development forum, this is taken as revenue over 
+the expected development period of the game on a straight line basis.
+l) Employee benefits
+All accumulating employee compensated absences that are unused at the balance sheet date are recognised as a liability. 
+The Group does not generally operate any pension scheme for its employees, beyond providing access to an ‘employee 
+contribution only’ stakeholder scheme. There was, however, a small defined contribution pension contribution for an employee, 
+which finished in the period to 31 May 2012. Payments to defined contribution retirement benefit schemes are charged as an 
+expense in the period to which they relate.  FINANCIAL STATEMENTS
+FRONTIER DEVELOPMENTS PLC ANNUAL REPORT AND ACCOUNTS 2013 36
+NOTES TO THE FINANCIAL STATEMENTS
+continued
+3. Principal accounting policies continued
+m) Share‑based payment transactions
+Share options are periodically granted to staff. Share options are measured at fair value at the date of issue and recognised over 
+the vesting period of the option. Fair value is measured using the Black‑Scholes option pricing model. The expected life used in the 
+model is the expiry date of the options prior to any public listing. The share‑based payment is recognised as an expense in profit or 
+loss, together with a corresponding credit to a share‑based payment reserve in equity. This expense is recognised on a straight line 
+basis based on the Group’s estimate of the number of shares that will vest. Estimates are subsequently revised if there is any 
+indication that the number of share options expected to vest differs from previous estimates. Any cumulative adjustment prior 
+to vesting is recognised in the current period. No adjustment is made to any expense recognised in prior periods if share options 
+ultimately exercised are different to that estimated on vesting. Upon exercise of share options, the proceeds received up to the 
+nominal value of the shares issued are allocated to share capital with any excess being recorded as share premium.
+n) Foreign currencies
+Transactions denominated in a foreign currency are translated at the rate of exchange ruling at a month end rate in order to 
+approximate to actual rate for the relevant transaction date. Monetary assets and liabilities denominated in foreign currencies 
+are translated at the rate of exchange ruling at the statement of financial position date.
+Foreign exchange differences are charged to the income statement in the period in which they arise.
+The assets and liabilities in the financial statements of foreign subsidiaries are translated at the rate of exchange ruling at the 
+statement of financial position date. Income and expenses are translated at the actual exchange rate. The exchange differences 
+arising from the re‑translation of the opening net investment in subsidiaries are recognised in other comprehensive income 
+and are accumulated in the foreign currency reserve in equity. On disposal of a foreign operation, the cumulative translation 
+differences are transferred to the profit and loss as a reclassification adjustment as part of the gain or loss on disposal.
+o) Segment reporting
+The Group identifies only one operating segment as the business is managed as a whole. For management purposes the 
+chief operating decision maker reviews the financial information which is consistent with that reported in its financial statements, 
+with financial performance measured on the basis of earnings before interest, tax, depreciation and amortisation. Assets are not 
+directly attributable to any separable activity. 
+p) Provisions
+Provisions for dilapidations are recognised when the Group has a present legal or constructive obligation as a result of a past 
+event, it is probable that an outflow of economic resources will be required from the Group and amounts can be estimated 
+reliably. Timing or amount of the outflow may be uncertain.
+Provisions are measured at the estimated expenditure required to settle the present obligation, based on the most reliable 
+evidence available at the reporting date, including the risks and uncertainties associated with the present obligation.
+q) Standards and interpretations not yet applied
+The following new standards, which are yet to become mandatory, have not been applied in the financial statements.
+•	 IFRS 9 “Financial Instruments” (effective 1 January 2015)
+•	 IFRS 10 “Consolidated Financial Statements” (effective 1 January 2014)
+•	 IFRS 11 “Joint Arrangements” (effective 1 January 2014)
+•	 IFRS 12 “Disclosure of Interests in Other Entities” (effective 1 January 2014)
+•	 IFRS 13 “Fair Value Measurement” (effective 1 January 2013)
+•	 IAS 27 (Revised) “Separate Financial Statements” (effective 1 January 2014)
+•	 IAS 28 (Revised) “Investments in Associates and Joint Ventures” (effective 1 January 2014)
+Based on the Group’s current business model and accounting policies, management does not expect material impacts on the 
+financial information when the standards become effective. The Group does not intend to apply these pronouncements early. REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL STATEMENTS
+ANNUAL REPORT AND ACCOUNTS 2013 FRONTIER DEVELOPMENTS PLC 37
+4. Significant accounting estimates and key judgements
+The key assumptions concerning the future and other key sources of estimation uncertainty that have a significant risk of causing 
+a material adjustment to the carrying amounts of assets and liabilities within the next financial year are discussed below:
+a) Intangible assets
+The Group invests heavily in research and development. The identification of development costs that meet the criteria for capitalisation is 
+dependent on management’ s judgement and knowledge of the work done. Development costs of software tools within a project that can 
+be utilised generically are separately identified. Judgements are based on the information available at each period end. Economic success 
+of any development is assessed on a reasonable basis but remains uncertain at the time of recognition as it may be subject to future 
+technical problems and therefore a review for indicators of impairment is completed by product at each period end date. The net book 
+values of the Group and Company intangible assets at 31 May 2013 are £3,449,515 (2012: £3,331,253).
+Intangible assets are subject to amortisation and reviewed for impairment whenever events or changes in circumstances indicate 
+that the carrying amount may not be recoverable, for example, a decision to suspend a self‑published title under development. 
+An impairment loss is recognised for the amount by which the asset’s carrying amount exceeds its recoverable amount. The 
+recoverable amount is the higher of an asset’s fair value less costs to sell and value in use. For the purposes of assessing 
+impairment, assets are reviewed by project for which there are separately identifiable cashflows. 
+Games developed to be self‑published are reviewed for impairment based on the status at the end of each financial year and 
+at the half year against a prudent level of the projected net earnings. 
+b) T rade receivables and recovery of work in progress
+Trade receivables are stated net of any impairment for bad and doubtful debts, based on the Group’s best estimate of the 
+likelihood of recovery on a specific basis. Recovery of work in progress is dependent on the successful completion of projects. 
+Judgement is therefore needed to be applied for projects which are in progress regarding the ability of the Group to complete 
+and deliver the project in accordance with contractual terms.
+c) Deferred tax
+A deferred tax asset is recognised where the Group considers it probable that future tax profits will be available against which 
+the tax credit will be utilised in the future. This specifically applies to tax losses and to outstanding vested share options at the 
+statement of financial position date. In estimating the amount of the deferred tax asset that should be recognised, the Directors 
+make judgements based on current forecasts about the amount of future taxable profits and the timings of when these will be 
+realised. A deferred tax asset is currently not being recognised in full due to the unpredictability of future taxable trading profits.
+d) Revenue recognition
+Significant management judgement is applied in determining the allocation and timing of the recognition of revenue on contracts. 
+In this process management takes into account milestones, actual work performed and further obligations and costs expected to 
+complete the work. Management monitors the progress and has regular dialogue with customers to confirm the project status.
+5. Segment information
+The Group identifies operating segments based on internal management reporting that is regularly reviewed by the chief 
+operating decision maker and reported to the Board. The chief operating decision maker is the Chief Executive Officer.
+Management information is reported as a single operating segment being the design and production of computer software 
+irrespective of platform or route to market. Resources are managed on the basis of the Group as a whole. 
+The Group’s revenues from external customers are divided into the following geographical areas:
+31 May 2013
+£’000
+31 May 2012
+£’000
+United Kingdom (country of domicile) 113 29
+United States of America 11,684 13,905
+Rest of the world 275 223
+12,072 14,157
+At 31 May 2013 £72,574 of non‑current assets are based in Canada, with the remainder in the UK. Up until August 2012 all 
+non‑current assets were based in the UK.
+In 2013 and 2012 periods there was one customer whose revenue accounted for more than 10% of the Group and Company’s 
+total revenue. The customer is based in the United States of America and totals 94% (2012: 95%) of the annual revenue.
+All material revenue is categorised as either ‘self‑published’, ‘publishing’ or royalties. The majority of the revenue is services 
+provided; however, a small proportion of the 2012/13 revenue was for goods provided. FINANCIAL STATEMENTS
+FRONTIER DEVELOPMENTS PLC ANNUAL REPORT AND ACCOUNTS 2013 38
+NOTES TO THE FINANCIAL STATEMENTS
+continued
+5. Segment Information continued
+31 May 2013
+£’000
+31 May 2012
+£’000
+Publishing 11,355 13,499
+Self‑published 511 323
+Royalties 203 335
+Other 3 —
+12,072 14,157
+EBITDA before material exceptional items is a key performance indicator for the Group and is also used by the Chief Executive 
+Officer and is calculated as follows:
+31 May 2013
+£’000
+31 May 2012
+£’000
+Operating profit 1,052 1,390
+Depreciation 151 185
+Amortisation 1,650 1,623
+EBITDA 2,853 3,198
+Share‑based compensation 416 —
+Funding costs 308 —
+Dilapidation provision 37 37
+Canada set up fees 10 —
+EBITDA adjusted 3,624 3,235
+6. Profit before tax
+31 May 2013
+£’000
+31 May 2012
+£’000
+This is stated after charging/(crediting):
+Amortisation and impairment on intangibles 1,650 1,623
+Depreciation of owned property, plant and equipment: 151 185
+Loss on disposal of fixed assets — 1
+Research and development costs expensed 603 333
+Auditor remuneration:
+Audit services         – statutory audit 37 11
+Non‑audit services – tax services 4 3
+– other services 133 10
+Operating leases    – land and buildings 495 415
+Foreign exchange gain (26) (8) REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL STATEMENTS
+ANNUAL REPORT AND ACCOUNTS 2013 FRONTIER DEVELOPMENTS PLC 39
+7 . Intangible assets
+Group and Company 
+The Group and Company intangible assets comprise capitalised development tools and self‑published software from internal 
+development activities and acquired software licences. The carrying amounts for the reporting periods under review can be 
+analysed as follows:
+Development 
+tools and licences
+£’000
+Self‑published 
+software
+£’000
+Third party 
+software
+£’000
+Total
+£’000
+Cost 
+At 31 May 2011 5,181 85 647 5,913
+Additions 574 769 90 1,433
+Disposals (732) — — (732)
+At 31 May 2012 5,023 854 737 6,614
+Additions 695 1,013 75 1,783
+Disposals (768) — — (768)
+Transfer to tangibles — — (17) (17)
+Transfer from tangibles — — 14 14
+Adjustment — (78) — (78)
+At 31 May 2013 4,950 1,789 809 7,548
+Amortisation and impairment
+At 31 May 2011 1,979 5 408 2,392
+Charge for the period 1,207 287 129 1,623
+Disposals (732) — — (732)
+At 31 May 2012 2,454 292 537 3,283
+Charge for the period 1,093 446 111 1,650
+Disposals (768) — — (768)
+Transfer to tangibles — — (1) (1)
+Transfer from tangibles — — 12 12
+Adjustment — (78) — (78)
+At 31 May 2013 2,779 660 659 4,098
+Net book value at 31 May 2013 2,171 1,129 150 3,450
+Net book value at 31 May 2012 2,569 562 200 3,331
+All amortisation charges, impairments (or reversals if any) are included within cost of sales.
+8. Investment in subsidiary undertaking
+During 2013 the Company set up a £66 investment in Frontier Developments Inc, a company registered in Canada. 
+This represents 100% of the ordinary share capital of the company which is engaged in non‑game applications and 
+video games for the interactive entertainment sector. FINANCIAL STATEMENTS
+FRONTIER DEVELOPMENTS PLC ANNUAL REPORT AND ACCOUNTS 2013 40
+NOTES TO THE FINANCIAL STATEMENTS
+continued
+9. Property, plant and equipment
+Group 
+Fixtures 
+and fittings
+£’000
+Computer 
+equipment
+£’000
+Leasehold 
+improvements
+£’000
+Total
+£’000
+Cost 
+At 31 May 2011 258 1,035 4 1,297
+Additions — 28 — 28
+Disposals (1) (108) — (109)
+Reversals (36) — — (36)
+At 31 May 2012 221 955 4 1,180
+Additions 19 226 6 251
+Disposals — (5) — (5)
+Transfer from intangibles — 17 — 17
+Transfer to intangibles — (14) — (14)
+At 31 May 2013 240 1,179 10 1,429
+Depreciation
+At 31 May 2011 113 801 4 918
+Charge for the period 54 144 — 198
+Disposals (1) (107) — (108)
+Reversals (13) — — (13)
+At 31 May 2012 153 838 4 995
+Charge for the period 33 117 1 151
+Disposals — (5) — (5)
+Transfer from intangibles — 1 — 1
+Transfer to intangibles — (12) — (12)
+At 31 May 2013 186 939 5 1,130
+Net book value at 31 May 2013 54 240 5 299
+Net book value at 31 May 2012 68 117 — 185 REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL STATEMENTS
+ANNUAL REPORT AND ACCOUNTS 2013 FRONTIER DEVELOPMENTS PLC 41
+9. Property, plant and equipment continued
+Company 
+Fixtures 
+and fittings
+£’000
+Computer 
+equipment
+£’000
+Leasehold 
+improvements
+£’000
+Total
+£’000
+Cost 
+At 31 May 2011 258 1,035 4 1,297
+Additions — 28 — 28
+Disposals (1) (108) — (109)
+Reversals (36) — — (36)
+At 31 May 2012 221 955 4 1,180
+Additions 11 137 — 148
+Disposals — (5) — (5)
+Transfer from intangibles — 17 — 17
+Transfer to intangibles — (14) — (14)
+At 31 May 2013 232 1,090 4 1,326
+Depreciation
+At 31 May 2011 113 801 4 918
+Charge for the period 54 144 — 198
+Disposals (1) (107) — (108)
+Reversals (13) — — (13)
+At 31 May 2012 153 838 4 995
+Charge for the period 31 89 — 120
+Disposals — (5) — (5)
+Transfer from intangibles — 1 — 1
+Transfer to intangibles — (12) — (12)
+At 31 May 2013 184 911 4 1,099
+Net book value at 31 May 2013 48 179 — 227
+Net book value at 31 May 2012 68 117 — 185 FINANCIAL STATEMENTS
+FRONTIER DEVELOPMENTS PLC ANNUAL REPORT AND ACCOUNTS 2013 42
+NOTES TO THE FINANCIAL STATEMENTS
+continued
+9. Property, plant and equipment continued
+Depreciation charges (or reversals, if any) are apportioned to the income statement as follows:
+Consolidated year ended Company year ended
+31 May 2013 31 May 2012 31 May 2013 31 May 2012
+£’000 £’000 £’000 £’000
+Charge 
+Cost of sales (including reversals) 89 144 88 144 
+Administration expenses 62 41 32 41
+Total 151 185 120 185
+The reversal in 2012 arises from the non‑payment for an asset previously capitalised in 2010 but where performance was short 
+of specification. 
+10. Operating leases as lessee
+At each period end the future minimum operating lease payments were as follows:
+Consolidated year ended Company year ended
+31 May 2013
+£’000
+31 May 2012
+£’000
+31 May 2013
+£’000
+31 May 2012
+£’000
+Minimum lease payments due within one year 535 469 415 469
+Minimum lease payments due within one to five years 801 947 400 947
+Total 1,336 1,416 815 1,416
+Group lease payments recognised as an expense during the year ended 31 May 2013: £495,269 (2012: £414,983).
+The lease payments relate to the rental contracts for the office buildings, which expire April 2015 and August 2015. The lease 
+signed in October 2012 for the Canadian subsidiary expires September 2017 .
+Company lease payments recognised as an expense during the year ended 31 May 2013: £415,983 (2012: £414,983).
+The lease payments relate to the rental contracts for the office buildings, which expire April 2015, August 2015 and September 2017 .
+The Group’s and Company’s operating lease agreements do not contain any contingent rent clauses. None of the operating lease 
+agreements contain renewal or purchase options or escalation clauses or any restrictions regarding dividends, further leasing or 
+additional debt.
+11. Financial assets and liabilities
+The carrying amounts presented in the Statement of Financial Position relate to the following categories of financial assets and liabilities:
+Consolidated year ended Company year ended
+31 May 2013
+£’000
+31 May 2012
+£’000
+31 May 2013
+£’000
+31 May 2012
+£’000
+Financial assets
+Loans and receivables
+Trade and other receivables 1,808 2,362 2,046 2,362
+Cash and cash equivalents 7,155 1,686 6,819 1,686
+Total 8,963 4,048 8,865 4,048 REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL STATEMENTS
+ANNUAL REPORT AND ACCOUNTS 2013 FRONTIER DEVELOPMENTS PLC 43
+11. Financial assets and liabilities continued
+Consolidated year ended Company year ended
+31 May 2013
+£’000
+31 May 2012
+£’000
+31 May 2013
+£’000
+31 May 2012
+£’000
+Financial liabilities
+Financial liabilities measured at amortised cost
+Current
+Trade and other payables 1,122 585 1,050 585
+Designated at fair value through profit and loss:
+Convertible loan notes 1,129 — 1,129 —
+Total 2,251 585 2,179 585
+The financial liability associated with the convertible loan notes comprised interest cashflows payable at 8% and an embedded 
+derivative liability to convert to a variable number of shares. Given that the loan note was issued near the period, the liability 
+is based on the net proceeds received. The loan notes converted to equity on the admission to AIM.
+12. Deferred tax assets and liabilities
+Deferred taxes arising from temporary differences can be summarised as follows:
+Consolidated year ended Company year ended
+31 May 2013
+£’000
+31 May 2012
+£’000
+31 May 2013
+£’000
+31 May 2012
+£’000
+Accelerated capital allowances 520 533 522 533
+Short‑term temporary differences (39) (36) (69) (36)
+Tax losses (restricted) (453) (497) (453) (497)
+Total liability 28 — — —
+Balance brought forward — — — —
+Effect of tax rate change on opening balance — — — —
+Movement in year 28 — — —
+Balance carried forward liability 28 — — —
+No deferred tax asset at 31 May 2013 has been recognised in the Statement of Financial Position for the Group. The deferred tax 
+liability at 31 May 2013 is £27 ,793 (2012: £nil), being wholly attributable to the Canadian entity.
+The table below summarises the deferred tax assets for the Group and Company which have not been recognised in the financial 
+statements as only a proportion of the tax losses are anticipated to crystallise or be able to be used in the foreseeable future. 
+Total UK tax losses available at 31 May 2013 amount to £3,694,177 (2012: £3,729,030).
+Consolidated year ended Company year ended
+31 May 2013
+£’000
+31 May 2012
+£’000
+31 May 2013
+£’000
+31 May 2012
+£’000
+Deferred tax asset not provided
+Losses (397) (398) (397) (398)
+13. Inventories
+Inventories recognised in the Statement of Financial Position can be analysed as follows:
+Consolidated year ended Company year ended
+31 May 2013
+£’000
+31 May 2012
+£’000
+31 May 2013
+£’000
+31 May 2012
+£’000
+Work in progress — 75 — 75
+There is no material difference between the replacement cost of inventory and the amounts stated above.
+For the year ended 31 May 2013 a total of £94,366 (2012: £183,687) was included in profit and loss as an expense to cost of sales.  FINANCIAL STATEMENTS
+FRONTIER DEVELOPMENTS PLC ANNUAL REPORT AND ACCOUNTS 2013 44
+NOTES TO THE FINANCIAL STATEMENTS
+continued
+14. T rade and other receivables
+Trade and other receivables recognised in the Statement of Financial Position can be analysed as follows: 
+Consolidated year ended Company year ended
+31 May 2013
+£’000
+31 May 2012
+£’000
+31 May 2013
+£’000
+31 May 2012
+£’000
+Trade receivables, gross 1,580 2,153 1,580 2,153
+Intercompany receivable — — 325 —
+Allowances for credit losses — — — —
+Trade receivables, net 1,580 2,153 1,905 2,153
+Other receivables 228 209 141 209
+Financial assets 1,808 2,362 2,046 2,362
+Prepayments 230 88 191 88
+VAT and taxation 44 55 — 55
+Non‑financial assets 274 143 191 143
+Trade and other receivables 2,082 2,505 2,237 2,505
+All amounts are short term. The net carrying value of trade receivables is considered a reasonable approximation of fair value. 
+Group
+Total
+£’000
+Neither past due
+nor impaired
+£’000
+Past due but not impaired
+0–90 days
+£’000
+>90 days
+£’000
+May 2013 1,580 1,580 — —
+May 2012 2,153 2,153 — —
+No other receivables are past their due date.
+Company
+Total
+£’000
+Neither past due
+nor impaired
+£’000
+Past due but not impaired
+0–90 days
+£’000
+>90 days
+£’000
+May 2013 1,905 1,905 — —
+May 2012 2,153 2,153 — —
+No other receivables are past their due date. REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL STATEMENTS
+ANNUAL REPORT AND ACCOUNTS 2013 FRONTIER DEVELOPMENTS PLC 45
+14. T rade and other receivables continued
+A reconciliation of the allowances for credit losses provision for trade receivable is provided below:
+Consolidated year ended Company year ended
+31 May 2013
+£’000
+31 May 2012
+£’000
+31 May 2013
+£’000
+31 May 2012
+£’000
+Brought forward provision — 2,169 — 2,169
+Debts written off in period — (2,169) — (2,169)
+Carried forward provision — — — —
+15. Cash and cash equivalents
+Cash and cash equivalents include the following components:
+Consolidated year ended Company year ended
+31 May 2013
+£’000
+31 May 2012
+£’000
+31 May 2013
+£’000
+31 May 2012
+£’000
+Cash at bank and in hand
+GBP 5,411 1,671 5,411 1,671
+USD 1,218 5 1,217 5
+EUR 22 10 22 10
+CAD 504 — 169 —
+Financial assets 7,155 1,686 6,819 1,686
+Cash at bank earns interest at a floating rate based on the length of deposit at standard commercial terms. The net carrying value 
+of cash and cash equivalents equates to fair value.
+16. Equity
+Share capital
+Group and Company movements in share capital
+Movements in ordinary shares are as follows:
+Number
+‘000
+Value
+£‘000
+At 1 June 2011 and 31 May 2012 
+Ordinary shares of 0.1 pence 12,364 12
+Shares issued on option exercises 253 1
+Shares re‑denominated to 0.5 pence 12,617 114
+At 31 May 2013 25,234 127
+During the period to 30 November 2012 252,691 ordinary shares of 0.1 pence were allotted as fully paid at a premium 
+of 65.9 pence per share.
+On 21 December 2012 the Company re‑organised into a plc and bonus shares were issued on a 9 to 1 basis out of share 
+premium, on the same day the ordinary shares were re‑denominated to 0.5 pence per share. The combined effect of these 
+changes resulted in the addition of 12,617 ,023 shares and a transfer from share premium of £113,553.  FINANCIAL STATEMENTS
+FRONTIER DEVELOPMENTS PLC ANNUAL REPORT AND ACCOUNTS 2013 46
+NOTES TO THE FINANCIAL STATEMENTS
+continued
+17 . Employee remuneration
+Expenses recognised for employee benefits (including Directors) are analysed below.
+Staff costs for all employees, including Directors, consist of:
+31 May 2013
+£’000
+31 May 2012
+£’000
+Wages and salaries 7,517 7,248
+Social security costs 774 764
+Pension costs — 3
+Share‑based compensation 416 —
+8,707 8,015
+Included in the above payroll costs for the year ended 31 May 2013 is £1,621,571 (2012: £1,251,545) capitalised within intangible 
+fixed assets (Note 7). Pension costs relate to contributions to one employee’s private pension plan.
+The average number of employees, including Directors, during the period were:
+31 May 2013
+£’000
+31 May 2012
+£’000
+Research and development 212 209
+General and administrative 14 6
+226 215
+Remuneration of Directors
+31 May 2013
+£’000
+31 May 2012
+£’000
+Directors’ emoluments 318 273
+Non‑Executive fees 25 8
+Emoluments of highest paid Director
+31 May 2013
+£’000
+31 May 2012
+£’000
+Emoluments 99 81
+Remuneration of key management personnel
+31 May 2013
+£’000
+31 May 2012
+£’000
+Short‑term employee benefits
+Salaries including bonuses 755 573
+Social security 101 72
+Total short‑term employee benefits 856 645
+Non‑ Executive fees 25 8
+Share‑based compensation charge 183 —
+Key management of the Group are the Board and senior management (functional heads).
+Number of key management personnel, including directors at the statement of financial 
+position date 11 8
+A total of 648,000 share options were issued in the year to key management including Directors. The number of options exercised 
+for ordinary shares from the December 2002 EMI grant was 449,060 (restated after re‑denomination).  REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL STATEMENTS
+ANNUAL REPORT AND ACCOUNTS 2013 FRONTIER DEVELOPMENTS PLC 47
+18. Share options
+The Group has an employee share option scheme (EMI scheme), under which options may be granted to employees (including 
+Directors) to subscribe for ordinary shares in the Group. The scheme was approved by shareholders in a general meeting. The 
+2012 number and option price have been restated in the respect to the re‑denomination of share capital*.
+Date of grant Scheme type
+Period when 
+exercisable Price in pence*
+2013 
+Number
+2012 
+Number
+(restated)*
+12 November 2002 2002 EMI Scheme 2003–2012 33 — 926,000
+6 December 2005 2002 EMI Scheme 2006–2015 67 843,800 943,800
+30 July 2012 2012 EMI Scheme 2013–2011 89 1,214,000 —
+30 January 2013 Unapproved 2014–2023 89 100,000 —
+15 May 2013 2012 EMI Scheme 2014–2023 95 240,000 —
+15 May 2013 Unapproved 2014–2023 95 20,000 —
+2,417,800 1,869,800
+Movements in the number of share options outstanding and their related weighted average exercise price, as restated for the 
+Share re‑denomination in December 2012 are as follows:
+Group and Company year ended
+May 2013 May 2012 (restated)*
+Number
+Average exercise 
+price in pence Number
+Average exercise 
+price in pence
+Opening balance 1,869,800 50.2 2,303,800 52.2p
+Granted 1,626,000 90.0 — —
+Exercised (505,382) 33.0 — —
+Forfeited (572,618) 44.0 (434,000) 61.2p
+Closing balance 2,417,800 82.0 1,869,800 50.2p
+Exercisable at the year end 843,800 67.0 1,869,800 50.2p
+There was no weighted average share price at the date of exercise of the share options, as the Company was not quoted.
+ The share options at the end of May 2013 have a weighted average contractual life as follows:
+Group and Company year ended
+May 2013 May 2012 (restated)*
+Expiry date
+Exercise price 
+per share
+Pence
+Options
+Number
+Weighted 
+average remaining
+ contractual life
+Months
+Options
+Number
+Weighted 
+average remaining
+ contractual life
+Months
+November 2012 33 — — 926,000 6
+December 2015 67 843,800 31 943,800 43
+July 2022 89 1,214,000 108 — —
+January 2023 89 100,000 116 — —
+May 2023 95 260,000 120 — —
+Total 2,417,800 83 1,869,800 25 FINANCIAL STATEMENTS
+FRONTIER DEVELOPMENTS PLC ANNUAL REPORT AND ACCOUNTS 2013 48
+NOTES TO THE FINANCIAL STATEMENTS
+continued
+18. Share options continued
+Under the rules of the share option schemes, options are not normally exercisable until one year from the date of the grant. 
+Options are valued at date of grant using the Black‑Scholes option pricing model. 
+There are no performance conditions attaching to the options. 
+The significant inputs into the model were calculated share price at the grant date, exercise price volatility of 20% and expected 
+option life of ten years and, given that the company was not listed at date of grants, an annual risk free interest rate of 3.87%–4.15%. 
+The volatility used is based on similar companies. The only vesting condition is continued service in the Company.
+19. T rade and other payables
+Trade and other payables recognised in the statement of financial position can be analysed as follows:
+Consolidated year ended Company year ended
+31 May 2013
+£’000
+31 May 2012
+£’000
+31 May 2013
+£’000
+31 May 2012
+£’000
+Trade payables 183 40 153 40
+Intercompany payable — — 30 —
+Other taxation and social security 284 188 285 188
+Accruals and deferred income 1,464 639 1,413 639
+Convertible loan note 1,129 — 1,129 —
+Total trade and other payables 3,060 867 3,010 867
+Trade and other payables are due within one year and with the exception of the convertible loan note are non‑interest bearing. The 
+convertible loan note carries an interest rate of 8% per annum. The loan notes are convertible into ordinary shares on an AIM IPO 
+at a discount rate of 15% of the listing price. The carrying values of trade and other payables are considered to be a reasonable 
+approximation of fair value.
+Payable over more than one year
+Consolidated year ended Company year ended
+31 May 2013
+£’000
+31 May 2012
+£’000
+31 May 2013
+£’000
+31 May 2012
+£’000
+Deferred income 1,283 — 1,283 —
+Deferred income payable over one year represent crowd sourced income recognised where the expected pledge level to which 
+it relates is not expected to be delivered until after one year.
+20. Provisions for dilapidations
+Consolidated year ended Company year ended
+31 May 2013
+£’000
+31 May 2012
+£’000
+31 May 2013
+£’000
+31 May 2012
+£’000
+Opening balance 150 113 150 113
+Provided for in period 37 37 37 37
+At period end 187 150 187 150
+The dilapidation provision relates to the rental contracts for two office buildings (included within Note 10). These leases expire 
+April 2015 and August 2015. This is when the majority of this expenditure is expected to be incurred. The provision is based on the 
+estimated costs of work to be performed to bring the buildings back to a state of repair and condition, similar to the start of the 
+lease. The lease of the premises in Canada has no repair conditions. REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL STATEMENTS
+ANNUAL REPORT AND ACCOUNTS 2013 FRONTIER DEVELOPMENTS PLC 49
+21. Finance income 
+Finance income may be analysed as follows for the reporting periods presented:
+31 May 2013
+£’000
+31 May 2012
+£’000
+Interest income from cash and cash equivalents 19 10
+22. T axation on ordinary activities
+(a) Analysis of the charge in the period
+31 May 2013
+£’000
+31 May 2012
+£’000
+UK corporation tax based on the results for the year 4 2
+Overseas tax on the results for the period (6) —
+Deferred tax 28 —
+Tax on profit on ordinary activities 26 2
+(b) Factors affecting tax expenses
+The tax assessed on the profit on ordinary activities for the year differs from the effective tax rate of corporation tax 24.1% (2012: 24.0%) 
+as follows:
+31 May 2013
+£’000
+31 May 2012
+£’000
+Profit on ordinary activities before taxation 1,071 1,400
+Tax on profit on ordinary activities at standard rate 258 336
+Factors affecting tax expense for the year:
+Adjustment on transition to IFRS — (124)
+Expenses not deductible for tax purposes 215 —
+Adjustments for opening deferred tax average rate 16 —
+Deferred tax not provided (1) 13
+Research and development tax credits (397) (223)
+Exercise of share options (65) —
+Total amount of tax 26 2
+Factors that may affect future tax charges 
+The Group takes advantage of the enhanced tax deductions for research and development expenditure in the UK and expects to 
+continue to be able to do so. From 1 April 2013 the Video Games Tax Relief becomes available and the Group expects that some 
+of its work will qualify for this relief.
+23. Earnings per share
+The calculation of the basic earnings per share is based on the profits attributable to the shareholders of Frontier Developments plc 
+divided by the weighted average number of shares in issue during the year. Separate calculations have been performed to a profit 
+taking out the adjusted items in Note 5.
+31 May 2013 31 May 2012
+Profit attributable to shareholders (£’000) 1,045 1,398
+Weighted average number of shares 25,014,043 24,728,664
+Basic earnings per share (pence) 4.2 5.7
+The calculation of the diluted earnings per share is based on the profits attributable to the shareholders of Frontier Developments plc 
+divided by the weighted average number of shares in issue during the year as adjusted for diluted share options. FINANCIAL STATEMENTS
+FRONTIER DEVELOPMENTS PLC ANNUAL REPORT AND ACCOUNTS 2013 50
+NOTES TO THE FINANCIAL STATEMENTS
+continued
+23. Earnings per share continued
+31 May 2013 31 May 2012
+Profit attributable to shareholders (£’000) 1,045 1,398
+Weighted average number of shares 25,495,040 25,572,937
+Adjusted basic earnings per share (pence) 4.1 5.5
+The reconciliation of average number of ordinary shares used for basic and diluted earnings per share is as follows:
+Weighted average number of ordinary shares 31 May 2013 31 May 2012
+Ordinary shares 25,014,043 24,728,664
+Under option 480,997 844,273
+Diluted average number of shares 25,495,040 25,572,937
+The calculation of the adjusted earnings per share, as calculated by external analysts, is based on the profit after tax, adjusted for 
+acquired intangible assets. Separate calculations have been performed to a profit taking out the adjusted items:
+31 May 2013 31 May 2012
+Adjusted profit attributable to shareholders (£’000) 1,816 1,435
+Weighted average number of shares 25,014,043 24,728,664
+Adjusted basic earnings per share (pence) 7.3 5.8
+Weighted average number of shares (diluted) 25,495,040 25,572,937
+Adjusted diluted earnings per share (pence) 7.1 5.6
+Adjusted profit 
+31 May 2013
+£’000
+31 May 2012
+£’000
+Profit attributable to shareholders 1,045 1,398
+Share‑based compensation 416 —
+Funding costs 308 —
+Dilapidations provision 37 37
+Set up of Canadian subsidiary 10 —
+Adjusted profit 1,816 1,435 REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL STATEMENTS
+ANNUAL REPORT AND ACCOUNTS 2013 FRONTIER DEVELOPMENTS PLC 51
+24. Cashflow adjustments and changes in working capital
+The following non‑cashflow adjustments and adjustments for changes in working capital have been made to profit before tax 
+to arrive at operating cashflow:
+Group adjustments and changes
+Adjustments
+31 May 2013
+£’000
+31 May 2012
+£’000
+Depreciation, amortisation and impairment 1,801 1,808
+Adjustment of cost of property, plant and equipment (see Note 8) — 36
+Finance income (19) (10)
+Loss on disposal of fixed assets and available for sale assets — 1
+Share‑based payment expenses 416 —
+Taxation 26 2
+Foreign exchange (26) (8)
+Total adjustments 2,198 1,829
+Net changes in working capital:
+Change in inventories 75 184
+Change in trade and other receivables 464 (373)
+Change in trade and other payables 1,064 (1,022)
+Change in non‑ current liabilities 1,320 37
+Total changes in working capital 2,923 (1,174)
+Company adjustments and changes
+Adjustments
+31 May 2013
+£’000
+31 May 2012
+£’000
+Depreciation, amortisation and impairment 1,770 1,808
+Adjustment of cost of property, plant and equipment (see Note 8) — 36
+Finance income (19) (10)
+Loss on disposal of fixed assets and available for sale assets — 1
+Share‑based payment expenses 403 —
+Taxation 4 2
+Foreign exchange (34) (8)
+Total adjustments 2,124 1,829
+Net changes in working capital:
+Change in inventories 75 184
+Change in trade and other receivables 268 (373)
+Change in trade and other payables 1,014 (1,022)
+Change in non‑ current liabilities 1,320 37
+Total changes in working capital 2,677 (1,174) FINANCIAL STATEMENTS
+FRONTIER DEVELOPMENTS PLC ANNUAL REPORT AND ACCOUNTS 2013 52
+NOTES TO THE FINANCIAL STATEMENTS
+continued
+25. Related party transactions
+Two shareholders receive ongoing royalties or commission as a percentage of royalty sales for some of the Group’s video games 
+launched in prior periods.
+Consolidated year ended Company year ended
+Connected party
+Expense paid
+May 2013
+£’000
+Creditor 
+balance 
+May 2013
+£’000
+Expense paid
+May 2012
+£’000
+Creditor 
+balance 
+May 2012
+£’000
+Expense paid
+May 2013
+£’000
+Creditor 
+balance 
+May 2013
+£’000
+Expense paid
+May 2012
+£’000
+Creditor 
+balance 
+May 2012
+£’000
+Chris Sawyer – Royalties 53 6 76 18 53 6 76 18
+Marjacq Micro Limited – 
+Sales Commission 27 — 29 6 27 — 29 6
+One Director was granted an interest‑free qualifying loan for the purchase of shares under the Group’s Share Option Plan in April 2010. 
+The loan value was £8,000 at 31 May 2013. The loan with repaid to the Company in June 2013.
+David Braben has assigned his rights to the Elite franchise to the Company pursuant to an assignment agreement dated 1 June 2008. 
+The Company has agreed to pay a royalty of 10% of the profits in respect of Elite sequels, including Elite: Dangerous. There is no 
+royalty currently due payable under this agreement (2012: £nil).
+26. Financial instrument risks
+Risk management objectives and policies
+The Group is exposed to various risks in relation to financial assets and liabilities. Financial assets and liabilities by category are 
+summarised in Note 11 . The main types of risks are credit risk, currency risk and liquidity risk. 
+The Group’s risk management is coordinated in close cooperation with the Board of Directors and focuses on actively securing 
+the Group’s short to medium‑term cashflows.
+The Group does not actively engage in the trading of financial assets for speculative purposes. The most significant financial risks 
+to which the Group is exposed are described below.
+26.1 Credit risk
+The Group’s exposure is limited to the carrying amount of financial assets and cash and cash equivalents recognised at the year 
+end date (as summarised in Note 11). 
+The Group’s management consider all financial assets, not impaired, for each reporting date are of good credit quality, including 
+those past due. In respect of trade and other receivables the Group is exposed to significant credit risk for a single counterparty.
+The Group considers it has minimal credit risk for liquid funds and other short‑term financial assets as cash is held with reputable 
+UK and Canadian banks.
+At the year end none of the Group’s financial assets are secured by collateral or other credit enhancements.
+26.2 Foreign currency risk
+The Group’s reporting currency is pounds Sterling (GBP). Exposure to currency exchange rates arises where transactions are 
+in a currency other than the functional currency of the entity, primarily Canadian Dollars (CAD), US Dollars (USD) and Euro (EUR).
+The Group does not enter into forward exchange contracts to mitigate the exposure to foreign currency risk as the Group’s 
+currency transactions are not considered significant enough to warrant this. However the Group does seek to maintain the 
+same level of working capital in both its Canadian subsidiary and in the UK parent, measured in calendar months.  REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL STATEMENTS
+ANNUAL REPORT AND ACCOUNTS 2013 FRONTIER DEVELOPMENTS PLC 53
+26. Financial instrument risks continued
+26.2 Foreign currency risk continued
+The carrying amounts of the Group’s Canadian Dollar, US Dollar and Euro denominated monetary assets outside the functional 
+currency of the entity at the reporting date are as follows: 
+Consolidated year ended Company year ended
+31 May 2013 31 May 2012 31 May 2013 31 May 2012
+CAD
+£’000
+USD
+£’000
+Euro
+£’000
+USD
+£’000
+Euro
+£’000
+CAD
+£’000
+USD
+£’000
+Euro
+£’000
+USD
+£’000
+Euro
+£’000
+Assets 169 2,758 25 8 12 501 2,756 25 8 12
+In addition some of the Group’s revenue and overhead transactions are completed in a foreign currency. Transaction exposure 
+is hedged through the use of currency bank accounts.
+Foreign currency sensitivity analysis
+The following table details the Group’s sensitivity to a 5% increase or decrease in the Sterling exchange rate against all relevant 
+currencies, albeit the main exposures are USD and CAD. An increase in Sterling would lead to a decrease in income and a 
+decrease in equity. 
+Consolidated year ended Company year ended
+May 
+2013
+£’000
+May 
+2012
+£’000
+May 
+2013
+£’000
+May 
+2012
+£’000
+Effect of a 5% change in relevant exchange rate on:
+Income statement 100 32 100 32
+Equity 105 32 123 32
+26.3 Liquidity risk analysis
+Liquidity risk is the risk arising from the Group not being able to meet its obligations as they fall due. The Group manages its 
+liquidity needs by carefully monitoring forecast cash inflows and outflows due in day‑to‑day business. Net cash requirements 
+determine headroom or any shortfalls over the medium term. This analysis shows if there is a need to seek external funding 
+or the need for securing finance from its shareholder base.
+The Group’s financial liabilities have contractual maturities as summarised below:
+Current Non‑ current
+Within 6 months
+£’000
+Between 
+6 and 12 months
+£’000
+Between 
+1 and 5 years
+£’000
+Later than 5 years
+£’000
+As at 31 May 2013
+Trade and other payables 564 479 79 —
+As at 31 May 2012
+Trade and other payables 164 282 139 —
+The Company’s financial liabilities have contractual maturities as summarised below:
+Current Non‑ current
+Within 6 months
+£’000
+Between
+6 and 12 months
+£’000
+Between 
+1 and 5 years
+£’000
+Later than 5 years
+£’000
+As at 31 May 2013
+Trade and other payables 492 479 79 —
+As at 31 May 2012
+Trade and other payables 164 282 139 — FINANCIAL STATEMENTS
+FRONTIER DEVELOPMENTS PLC ANNUAL REPORT AND ACCOUNTS 2013 54
+NOTES TO THE FINANCIAL STATEMENTS
+continued
+26. Financial instrument risks continued
+26.3 Liquidity risk analysis continued
+The convertible loan notes have no contractual redemption rights.
+Financial assets used for managing liquidity risk
+Cashflows from trade and other receivables are contractually due within six months.
+Cash is generally held in accounts with immediate notice. Where surplus cash deposits are identified these are placed 
+in accounts with access terms of no more than one year.
+26.4 Interest rate sensitivity
+The convertible loan carries a fixed rate of 8% per annum. The Group has no other borrowings through which it is subject 
+to interest rate risk.
+The risk associated with interest earned on cash balances is low given low level of interest currently being earned worldwide.
+27 . Capital management policies and procedures
+The Group’s capital management objective is to ensure the Group’s ability to continue as a going concern by securing sufficient 
+funding through equity or debt.
+The Group sets the amount of capital in proportion to its overall financing structure, i.e. equity and financial liabilities. The Group 
+manages the capital structure and makes adjustments to it in the light of changes in economic conditions and the strategic plans 
+of the business over a rolling three‑year forecast. In order to maintain or adjust the capital structure and provide funds to support 
+the planned growth, the Group may issue new shares or raise other funds through debt. The Group undertook a public listing on 
+AIM in July 2013 to meet this objective.
+At each balance sheet date the Group had no borrowings except for the convertible loan note. The Group is not subject 
+to externally imposed capital requirements.
+Capital for the reporting period under review is summarised as follows:
+Consolidated year ended Company year ended
+31 May 2013
+£’000
+31 May 2012
+£’000
+31 May 2013
+£’000
+31 May 2012
+£’000
+Total equity 8,395 6,763 8,252 6,763
+Convertible loan 1,129 — 1,129 —
+Less cash and cash equivalent (7,155) (1,686) (6,819) (1,686)
+2,369 5,077 2,562 5,077
+28. Ultimate control
+The Directors consider that David Braben has ultimate control of the Group by reference to his shareholding interest. REVIEW OF THE YEAR CORPORATE GOVERNANCE FINANCIAL STATEMENTS
+ANNUAL REPORT AND ACCOUNTS 2013 FRONTIER DEVELOPMENTS PLC 55
+NOTICE OF MEETING
+FRONTIER DEVELOPMENTS PLC
+(Incorporated and registered in England and Wales with no. 02892559)
+(THE “COMPANY”)
+Notice is hereby given that the Annual General Meeting of the Company will be held at the offices of Frontier Developments plc 
+at 306 Science Park, Milton Road, Cambridge CB4 0WG on Monday 23 December 2013 at 10 a.m. (London time) for the 
+following purposes:
+ORDINARY BUSINESS
+To consider and, if thought fit, pass the following resolutions as ordinary resolutions:
+Resolution 1. To receive and adopt the financial statements for the year ended 31 May 2013 together with the Reports 
+of the Directors and Auditors thereon.
+Resolution 2. To re‑ appoint David John Braben as a Director, who has retired by rotation in accordance with Article 70 
+of the Company’s Articles of Association (the “Articles”) and is therefore required to stand for re‑ election 
+pursuant to Article 70 of the Articles. 
+Resolution 3. To re‑ appoint David Gammon as a Director, who has retired by rotation in accordance with Article 70 of the 
+Company’s Articles of Association (the “Articles”) and is therefore required to stand for re‑ election pursuant 
+to Article 70 of the Articles.
+Resolution 4. To re‑ appoint Grant Thornton UK LLP as the Company’s auditor until the conclusion of the next Annual General 
+Meeting and to authorise the Directors to determine the auditor’s remuneration for the ensuing year.
+OTHER BUSINESS
+To consider and, if thought fit, pass the following resolution as an ordinary resolution:
+Resolution 5. THAT in substitution for all authorities in existence immediately prior to this resolution being passed, the 
+directors of the Company (the “Directors”) be and are hereby generally and unconditionally authorised to 
+exercise all powers of the Company, pursuant to Section 551 of the Companies Act 2006 (the “Act”), to allot 
+equity securities (within the meaning of Section 560 of the Act) up to an aggregate nominal amount of 
+£51,892.54, which represents one‑third of the nominal value of the Company’s issued share capital at the 
+date of this notice provided that this authority shall expire at the conclusion of the next Annual General 
+Meeting of the Company save that the Company may before such expiry make an offer or agreement which 
+would or might require equity securities to be allotted after such expiry and the Directors may allot equity 
+securities in pursuance of such an offer or agreement as if the authority conferred hereby had not expired. 
+To consider and, if thought fit, pass the following resolution as a special resolution:
+Resolution 6. THAT, subject to the passing of resolution 5 above, the Directors be empowered in accordance with Section 570 and 
+Section 571 of the Act to allot equity securities (within the meaning of Section 560 of the Act) for cash pursuant to 
+the authority conferred on them pursuant to resolution 5 above as if Section 561(1) of the Act did not apply to any 
+such allotment provided that this power shall be limited to:
+(a)  the allotment of equity securities in connection with an open offer or otherwise in favour of ordinary 
+shareholders in proportion (as nearly as possible) to the respective number of shares held, or deemed 
+to be held, by them subject only to such exclusions or other arrangements as the Directors may consider 
+appropriate to deal with fractional entitlements or problems arising in any territory or with the requirements 
+of any recognised regulatory body or stock exchange in any territory; and
+(b)  the allotment of equity securities (otherwise than pursuant to sub‑ paragraph (a) above) up to an aggregate 
+nominal amount of £15,567.76 which represents one‑tenth of the nominal value of the Company’s issued 
+share capital as at the date of this notice,
+provided that this power shall expire at the conclusion of the next Annual General Meeting of the Company 
+save that the Company may before such expiry make an offer or agreement which would or might require 
+equity securities to be allotted after such expiry and the Board may allot equity securities in pursuance of 
+such an offer or agreement as if the authority conferred hereby had not expired.
+By order of the Board
+David Gammon
+Chairman
+13 November 2013 
+Frontier Developments plc FINANCIAL STATEMENTS
+FRONTIER DEVELOPMENTS PLC ANNUAL REPORT AND ACCOUNTS 2013 56
+EXPLANATORY NOTES
+to the Notice of Annual General Meeting
+Notes
+1 .  A member entitled to attend and vote at the meeting is also entitled to appoint one or more proxies to attend, speak and vote 
+instead of him. A member may appoint more than one proxy in relation to the meeting, provided that each proxy is appointed 
+to exercise the rights attached to a different share or shares held by that member. The proxy need not be a member of the 
+Company. Please refer to the notes to the Form of Proxy for further information on appointing a proxy, including how to appoint 
+multiple proxies (as the case may be).
+2.  If you wish your proxy to speak on your behalf at the meeting, you will need to appoint your own choice of proxy (not the 
+Chairman) and give your instructions directly to them. If you wish to appoint a proxy other than the Chairman, write the full 
+name of your proxy in the box provided in the Form of Proxy.
+3.  In the absence of instructions, the person appointed proxy may vote or abstain from voting as he/she thinks fit on the specified 
+resolutions and, unless otherwise instructed, may also vote or abstain from voting on any other matter (including amendments 
+to resolutions) which may properly come before the meeting. 
+4.  In the case of joint holders, the signature of any one of them will suffice but the names of all joint holders should be stated. 
+The vote of the senior who tenders a vote (whether in person or by proxy) will be accepted to the exclusion of the votes of the 
+other holders. For this purpose, seniority is determined by the order in which the names stand in the register of members in 
+respect of the joint holding.
+5.  To be effective, the enclosed Form of Proxy must be duly completed and deposited together with any power of attorney or 
+other authority (if any) under which it is executed (or a duly certified copy of such power or authority) and lodged at the offices 
+of the Company no later than 11 a.m. on Saturday 21 December 2013 (being not more than 48 hours prior to the time fixed 
+for the meeting).
+6.  Whether or not you propose to attend the Annual General Meeting, please complete and submit a Form of Proxy in accordance 
+with the instructions printed on the enclosed form. Completion and return of the Form of Proxy will not preclude a shareholder 
+from attending and voting in person at the meeting. 
+7 .  The Company, pursuant to regulation 41 of the Uncertificated Securities Regulations 2001, specifies that only those members 
+entered on the register of members of the Company at 11 a.m. UK time on Saturday 21 December 2013 (being not more 
+than 48 hours prior to the time fixed for the meeting) shall be entitled to attend and vote at the meeting or, if the meeting 
+is adjourned, 11 a.m. UK time on such date being not more than two working days prior to the date fixed for the adjourned 
+meeting. Changes to entries on the register of members after such time shall be disregarded in determining the right of 
+any person to attend or vote at the meeting.
+8.  The following documents will be available for inspection from the date of this notice until the meeting at the Company’s 
+registered office and at the meeting convened by this notice:
+ (a) Register of Directors’ share interests; and
+ (b) Directors’ service contracts. aDVISORS aND COMP aNy INFORMa TION
+Company Secretary and CFO
+Mr n R Armstrong
+Registered and Head Office
+306 Science Park
+Milton Road
+Cambridge CB4 0WG
+Website
+www.frontier.co.uk
+Broker and Nominated Advisor
+Canaccord Genuity Limited
+88 Wood Street
+l ondon eC2V 7QR
+Auditor
+Grant Thornton UK LLP
+101 Cambridge Science Park
+Milton Road
+Cambridge CB4 0FY
+Legal advisors to the Company
+Bird & Bird LLP
+15 Fetter lane
+l ondon eC4A 1JP
+Registrars
+Capita Registrars
+Ibex House
+42–47 Minories
+l ondon eC3n 1dX
+Registered Number
+02892559
+(Incorporated and registered in england and Wales) FRONTIER DEVELOPMENTS PLC
+306 Science Park 
+Milton Road 
+Cambridge CB4 0WG FRONTIER DEVELOPMENTS PLC Annu Al RePoR t And ACCountS 2013

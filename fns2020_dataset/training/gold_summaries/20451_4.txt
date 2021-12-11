@@ -1,0 +1,366 @@
+ Actual Experience plc ANNUAL REPORT 2016
+4
+Actual Experience plc ANNUAL REPORT 2016
+Digitising the enterprise is the biggest 
+challenge and opportunity for most 
+businesses
+WHAT WE DO
+MARKET TRENDS
+The opportunity is big
+$22.1 trillion 
+Ecommerce market:
+The global ecommerce market, which 
+includes both business to business (B2B) 
+and business to consumer (B2C), is worth 
+$22.1 trillion
+1
+. B2B transactions account for 
+the largest share of ecommerce revenue 
+at $19.9 trillion, with B2C revenues at 
+$2.2 trillion.
+$2.6 trillion
+IT infrastructure spend:
+Businesses worldwide will spend 
+$2.6 trillion
+2
+ on their IT infrastructure –  
+the services and components that make 
+up the digital supply chain and which 
+underpin the digital experience.
+$369 billion 
+Digital transformation: 
+The global digital transformation market 
+is expected to grow at a CAGR of 19.6 % 
+to $369.22 billion by 2020
+5
+. Digital 
+transformation is helping enterprises 
+to streamline their business processes 
+to achieve optimal output and improve 
+customer relationships.
+$187 billion
+Data & analytics:
+Data is the driving force underlying market 
+disrupters such as ride-sharing service 
+Uber. Data and analytics projects dominated 
+the top of Information Week’s Elite 100
+3
+ list 
+and IDC’s recent forecast for this market 
+shows significant revenue growth
+4
+, to 
+$187 billion, over the next five years.
+“By 2018, two-thirds of 
+CEOs at companies on 
+Forbes’ list of The Global 
+2000 will include a digital 
+strategy in their business 
+plan.”
+IDC FutureScape for Worldwide Digital 
+Transformation, 2016  
+We expect to be able to explore, share and 
+transact online at work, at home, on the 
+move, with a laptop, tablet, or mobile device. 
+We pay bills using secure online banking, 
+we browse and purchase from trusted 
+retailers, and watch videos on demand. 
+When these products and services work we 
+think nothing of it. When they don’t work 
+we quickly get frustrated: the shopping 
+basket that freezes on checkout, the 
+picking order that gets ‘held up’ between 
+the retailer and the warehouse, the 
+returned package that can’t be traced. 
+AT A GLANCE
+In our professional lives, the delays with 
+systems not only frustrate us but cost 
+the business in productivity. Timesheets, 
+booking systems, inventories, databases 
+that don’t load, or take an age to process. 
+All while we tap our fingers, do something 
+else, come back to it, or grumble at the 
+screen. Those of us on the customer 
+frontline are charged with pacifying 
+the customer: “I’m sorry, it’s taking a 
+while to load today. Bear with me.”
+As consumers we try to diagnose the 
+problem ourselves: is it the wifi, the 
+application, the website, the device we’re 
+using? We wonder why some products 
+and services seem always to work while  Notice of AGM Glossary of terms Sources Governance
+5
+Actual Experience plc ANNUAL REPORT 2016
+Strategic report Financial statements
+See page 63 and 64 for sources and glossary.
+Our products 
+Actual Work analyses the digital supply 
+chains of leading brands around the world. 
+It provides the insight required to bring 
+consistency to the quality of the digital 
+experience for their customers and staff.
+Critical change:
+Forty-one percent of CEOs 
+anticipate that their company will  
+be significantly transformed over 
+the next three years. According to 
+72 percent of CEOs, the next three 
+years will be more critical for their 
+industry than the last 50 years
+6
+.
+Revenue threats:
+Board members estimate 32% of  
+their company’s revenue will be  
+under threat from digital disruption  
+in the next five years
+7
+.
+Digital moves from an IT issue to business challenge
+41% 32%
+Growth:
+Sixty percent of Boards will be 
+spending more time on digital
+7
+. They 
+expect digital initiatives to deliver 
+annual growth and cost efficiencies  
+of 5-10 % or more in the next three to 
+five years
+8
+.
+60%
+“Digital transformation isn’t a technology 
+initiative, it’s a business strategy.”
+Robert Parker
+Group VP, IDC
+Technology:
+The speed of change will be 
+exponential and fuelled by technology. 
+Technology-related change is the 
+number one priority for CEOs and 
+seventy-seven percent are concerned 
+about whether their organisation is 
+keeping up with new technologies. 
+Data and analytics will be a top area of 
+investment over the next three years
+6
+.
+Digital experience:
+Sixty-seven percent of CEOs are 
+concerned about customer churn 
+related to digital experience and 
+seventy-nine percent of CEOs 
+consider a consistent, high-quality 
+digital experience to be essential to 
+the success of the business
+9
+.
+77% 79%
+stakes are high and unpredictable digital 
+experience quality threatens all of this.
+A consistent digital experience is possible 
+for digital products and services. This is  
+the problem we at Actual Experience solve.
+At Actual Experience, we are focused 
+on service providers as channels to take 
+our product to market. Our product, 
+Actual Work, enables service providers 
+to significantly reduce the time it takes 
+to pinpoint digital experience issues. 
+Being built into the service providers’ 
+offering for their own customers 
+provides Actual Experience with an 
+opportunity to address a vast market.
+others are inconsistent. We think less 
+of the brands providing those services. 
+Poor digital experiences can translate to 
+loss of customer loyalty and advocacy, 
+two key metrics which impact revenue. 
+This inconsistent digital experience 
+threatens the ambitions of today’s 
+businesses. Ecommerce revenues 
+worldwide are already generating 
+$22.1 trillion
+1
+, with B2B contributing 
+$19.9 trillion
+1
+ and B2C $2.2 trillion
+1
+ of 
+those transactions. Combine that with 
+businesses worldwide spending
+$2.6 trillion on their IT infrastructure 
+and 63% of CEOs intending to increase 
+their IT and digital investment. The  Actual Experience plc ANNUAL REPORT 2016
+6
+Actual Experience plc ANNUAL REPORT 2016
+Digital
+User
+Business 
+customer 
+ISPs
+Enterprise 
+ISP
+Business
+customer
+network
+Analytics
+Cloud
+Quality
+dashboard
+Enterprise 
+application
+Enterprise
+network
+Internet Digital
+User
+Business 
+customer 
+ISPs
+Enterprise 
+ISP
+Business
+customer
+network
+Analytics
+Cloud
+Quality
+dashboard
+Enterprise 
+application
+Enterprise
+network
+Internet Digital
+User
+Business 
+customer 
+ISPs
+Enterprise 
+ISP
+Business
+customer
+network
+Analytics
+Cloud
+Quality
+dashboard
+Enterprise 
+application
+Enterprise
+network
+Internet
+HOW IT WORKS IN PRACTICE
+HOW WE DO IT
+Digital Users (DUs) are lightweight 
+software, deployed as close to the point of 
+use as possible to represent user types for 
+digital services. They receive instructions, 
+make standard measurements to invoke 
+different components of a digital service 
+architecture, and send the results to the 
+Analytics Cloud for processing. DUs are 
+free and unlimited.
+The Actual Experience Analytics Cloud, 
+based on decades of academic research 
+and patented technology, receives data 
+from the Digital Users to provide an objective 
+score of digital experience quality. The 
+analytics show how well digital products 
+and services are working right now and 
+across time, and why services are behaving 
+that way. We charge by analytic capacity.
+Actual Work delivers the real-time analysis 
+to dashboards on desktops, laptops, 
+smartphones and tablets. The data is 
+clearly and intuitively presented at the level 
+required. Our analytics provide high level 
+scores, full quality history and supplier 
+behaviour, with all the detail from the 
+supporting rich data.
+As part of their digital 
+transformation, businesses 
+around the world spent 
+more than $2.6 trillion on 
+their IT infrastructure last 
+year, according to Gartner
+2
+. 
+However, even the world’s most recognised 
+digital products and services still offer an 
+inconsistent experience to customers and 
+end users. This variability at the heart of 
+the world’s digital economy is frustrating 
+customers and eroding business revenue.
+We used Actual Work to monitor variability 
+on the digital supply chains of some of the 
+world’s largest brands in the US and UK. 
+In February and March 2016 we analysed 
+108 brands from a variety of industries 
+including banking, video streaming, 
+gambling, retail, ecommerce and travel.
+Our analytics showed a small handful of those 
+brands managed to deliver a consistent 
+experience even across the internet. Perfect 
+experience looks like this on the Actual Work 
+dashboard: an almost flat line, with little 
+variability. A perfect quality score of between 
+77 and 81 means your digital products are fit 
+for purpose. Your digital supply chain is lean. 
+Your investments in customer experience  
+are effective.
+AT A GLANCE continued Notice of AGM Glossary of terms Sources Governance
+7
+Actual Experience plc ANNUAL REPORT 2016
+Strategic report Financial statements
+Digital
+User
+Business 
+customer 
+ISPs
+Enterprise 
+ISP
+Business
+customer
+network
+Analytics
+Cloud
+Quality
+dashboard
+Enterprise 
+application
+Enterprise
+network
+Internet
+A score above 80 means you are over-
+invested in your supply chain and your 
+customers or staff will not benefit. 
+A score below 60 means customers 
+and staff start to give up, yet other 
+diagnostic tools will not see this.
+A consistent experience is uncommon. 
+The analytics show that the digital 
+customer journey is highly variable 
+falling below ‘perfect’ for all but a few 
+of the brands we looked at. Here is 
+an example of a more typical poor 
+experience which is high in variability. 
+This inconsistency can leave customers 
+with an unreliable digital service. At 
+its worst, it can result in customers 
+not being able to properly access 
+digital products and services.
+Business leaders acknowledge that digital 
+experience quality is critical to business 
+success. Yet customers and employees 
+experience variability. Leaders
+9
+ globally 
+are confident they are focusing on the 
+right things to reduce the variability of 
+the experience people are having. Some 
+however believe they cannot affect the 
+quality because the product or service 
+is delivered over the internet, which 
+they cannot control end-to-end.

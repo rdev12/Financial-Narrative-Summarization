@@ -1,0 +1,235 @@
+ CHIEF EXECUTIVE’S REPORT
+During 2015 we directed our efforts towards 
+three key priorities. First, we removed costs, 
+enabled both by the simplicity and openness 
+of the Fusion product and by generalised cost 
+disciplines across all operating functions. Second, 
+we placed renewed emphasis on our ALM 
+business, providing it with sales and marketing 
+focus in market segments where we believe 
+the most growth can be captured. This focus 
+translated into an improved financial performance 
+from ALM in the second half of the year. Third 
+– addressing the opportunity where we continue 
+to see the greatest potential for growth – we 
+evolved our core Big Data offering, achieving 
+important breakthroughs in our strategy of 
+becoming the leading all-purpose data 
+replication engine.
+We brought our Big Data and ALM software 
+products together on a single Fusion 
+replication platform and extended the platform 
+to encompass multiple types of data storage 
+beyond its Hadoop origins. We refocused our 
+ALM business on our leading position in 
+distributed version control on the open source 
+Subversion system, achieving improved sales 
+results towards the end of the year. In the Big 
+Data business, we added more customers, 
+took the first six of them into live production 
+and saw the first customers expand their 
+contracts with us. We deepened our 
+relationships with key data and storage 
+platform partners.
+Big Data
+The Big Data marketplace evolved significantly 
+during the year, broadening out beyond 
+Hadoop platforms. Data continues to grow 
+much faster than the budgets that enterprises 
+can devote to storing it. Storage vendors 
+have brought to market new data platforms, 
+responding to their customers’ requirements 
+to store and process data on combinations of 
+Hadoop, more traditional but Hadoop-compatible 
+platforms, and cloud data platforms whereby 
+the customer does not have to own infrastructure. 
+These new and hybrid environments have 
+brought with them requirements to migrate 
+data onto the new platforms without 
+interruption to data processing, to back up 
+data, and to synchronise active data between 
+different locations and operations where 
+it is being used. 
+To address this emerging market for 
+mixed storage, we evolved our product from 
+Non-Stop Hadoop, which replicated data 
+within single Hadoop distributions, to Fusion, 
+which replicates data across multiple storage 
+platforms. Fusion performs this mixed replication 
+without the need for invasive access to the 
+host platforms, making it easy for customers 
+to install. We have integrated Fusion with the 
+on-premise and cloud storage and analytics 
+platforms of partners such as IBM, Microsoft, 
+Amazon, Google and Oracle. 
+Fusion ensures continuous data availability with 
+guaranteed data consistency between data 
+centres, high levels of processing performance 
+to meet demanding service level requirements 
+and, above all, cost savings from high utilisation 
+of computing resource. Amongst our Fusion 
+customers, the majority are taking Big Data 
+into live operations rather than running trial 
+projects or non-critical operations. New 
+enterprise features in Fusion include two 
+features that were granted new US patents, 
+relating to addition and removal of servers, 
+without downtime, from replicated data 
+networks. This enables hardware and software 
+upgrades, addition of new locations, data 
+migrations and rollouts of new applications 
+– all without interruption of service. 
+SIGNIFICANT 
+BREAKTHROUGHS
+2015 was a breakthrough year in our progress towards 
+becoming the leading all-purpose data replication engine.
+ 
+Our presence in 
+the Big Data market 
+has taken a big step 
+forward. 
+David Richards, Chief Executive
+WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 07
+STRATEGIC REPORT Big Data continued
+During the year, we added 16 new customers 
+to reach 26 licensed customers. All are large 
+organisations in our key industry segments 
+of financial services, government agencies, 
+consumer products and telecommunications. 
+Their business requirements combine regulatory 
+compliance, customer analysis and storage 
+cost efficiencies. 
+All of our Big Data customers have intentions 
+to scale up significantly their WANdisco 
+solutions once their implementations are in 
+live production, as they take more data into 
+their mission-critical applications. The first 
+six of our Big Data customers are now in live 
+production. During the year we secured five 
+contract expansions with existing customers, 
+some of them even before the customer 
+went into live usage of our product. 
+ALM
+We continue to see strong potential in the 
+source code management segment of the ALM 
+market that we focus on, as customers continue 
+to move off old proprietary platforms and on to 
+modern, agile open source platforms. Software 
+development continues to become more 
+geographically and organisationally distributed, 
+bringing greater challenges in control and 
+efficiency, both amongst software publishers 
+and in industry more generally.
+Our assessment of the ALM market confirms 
+that we have the right products for the market 
+at this stage in its evolution. Our product 
+for Subversion fits with customers’ needs 
+in replicated open source version control. 
+There is untapped potential in traditional 
+industries developing internal software, in 
+addition to newer software vendors developing 
+gaming, media and mobile applications 
+for consumers.
+We have high credibility in Subversion, a 
+good track record and over 200 Subversion 
+customers, from which we consistently get 
+high satisfaction ratings given the quality 
+of our support.
+Our core ALM product Subversion Multisite 
+Plus has been upgraded to incorporate 
+improvements in performance, resource 
+utilisation and administration.
+We have refocused on ALM to restore an 
+appropriate level of emphasis on this business. 
+Sales and marketing activities have been 
+reoriented to our Subversion product. We 
+have directed sales prospecting efforts towards 
+traditional industry segments where open 
+source adoption is strong, and have renewed 
+our focus on up-selling and renewals for our 
+installed base of over 200 customers. Sales 
+were impacted while we completed the 
+changes, but results improved in the second 
+half of the year and new sales bookings in 
+the final quarter were the highest of the year.
+Outlook
+Our presence in the Big Data market 
+has taken a big step forward, with our live 
+customers demonstrating that our Fusion 
+product for Big Data, in on-premise, cloud 
+or hybrid environments, is highly relevant 
+in its marketplace. 
+Fusion is increasingly viewed as a crucial 
+technology enabling customers to migrate 
+onto our partners’ emerging cloud data 
+platforms. With partners such as IBM, Amazon 
+and Microsoft, we are working increasingly 
+closely on data migration offerings and 
+go-to-market activities.
+Our product for Subversion 
+fits with customers’ needs in 
+replicated version control. 
+Adding new customers
+Cumulative contract wins
+Developing our Big Data customer base
+Installed base sales
+All customers have scale-up intentions
+H1 H2 H1 H2
+2014 2015
+H1 H2 H1 H2
+2014 2015
+4
+10
+20
+26 6
+2
+1
+WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 08
+CHIEF EXECUTIVE’S REPORT CONTINUED  B U ILD IN G 
+TRUST
+Our Fusion product is proven in the marketplace.
+Six global corporations have progressed in their 
+implementations and are now in live usage – 
+which ranges from first trial workloads to live 
+customer-facing operations.
+All are large-scale operations with exacting 
+service standards promised to their stakeholders.
+These and others will now be able to scale up 
+and renew their contracts, which will progressively 
+enhance the predictability of our revenue stream.
+ 6
+live Big Data customers 
+In our ALM business, we are pleased with our 
+improved sales bookings towards the end of 
+the year, responding to our increased focus 
+on this market. Our offering remains well 
+suited to today’s increasingly distributed 
+software development operations, and our 
+live customer base of over 200 corporations 
+offers ample sales opportunities. 
+We reduced costs progressively through the 
+year. Whilst the timing of contract wins remains 
+variable, we are confident that WANdisco enters 
+2016 on a strengthened operational footing 
+and is moving significantly closer to cash flow 
+break-even. With a compelling product for Big 
+Data in the cloud, increasing engagement of 
+partners and a well established ALM product, 
+we expect to build momentum through the 
+rest of this year.
+David Richards
+Chief Executive
+24 March 2016
+Industry spread with hotspots in regulated industries
+Six Big Data customers now live
+Financial services
+Utilities and telecoms
+Consumer goods
+Information technology
+Healthcare and public 7%
+10%
+10%
+31%
+42%
+WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 09
+STRATEGIC REPORT

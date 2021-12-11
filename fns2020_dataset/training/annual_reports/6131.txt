@@ -1,0 +1,1711 @@
+ Focus Solutions Group plc
+Cranford House
+Kenilworth Road
+Leamington Spa
+Warwickshire CV32 6RQ
+Tel: +44 (0) 1926 468300
+Fax: +44 (0) 1926 468400
+www.focus-solutions.co.uk
+Annual Report & Accounts Year Ending March 2003
+Focus Solutions Group plc Contents
+1 Key Highlights
+2 Technology
+3 Solutions
+5 Chairman’s Statement
+7 Chief Executive’s Statement
+10 Board of Directors
+11 Directors’ Statement on Corporate Governance
+13 Directors’ Report
+15 Remuneration and Nomination Committee’s Report
+18 Directors’ Responsibilities
+19 Auditors’ Report
+20 Consolidated Profit and Loss Account
+21 Group Balance Sheet
+22 Company Balance Sheet
+23 Consolidated Cash Flow Statement
+24 Notes to the Financial Statements
+ibc Advisers and Shareholder Information
+There are two key elements to Our Strategy:
+Focus Solutions Group design, deliver and implement
+customer management solutions for the UK life and pensions
+market, using goal:technology, its innovative XML toolkit.
+– to become the leading provider of e-trading solutions to the financial
+services market, built using goal:technology
+– to exploit the potential of goal:technology in new markets
+through partners
+Advisers and Shareholder Information
+Company Number
+3911357 (England and Wales)
+Registered Office
+Cranford House
+Kenilworth Road
+Leamington Spa
+Warwickshire CV32 6RQ
+Nominated Advisor and Nominated Broker
+Evolution Beeson Gregory plc
+The Registry
+Royal Mint Court
+London EC3N 4LB
+Solicitors
+Hammonds
+Rutland House
+148 Edmund House
+Birmingham B3 2JR
+Wragge & Co LLP
+55 Colmore Row
+Birmingham
+B3 2AS
+Financial Calendar
+Annual General Meeting 24 July 2003
+Announcement of Interim Results 2003/4 November 2003
+Announcement of Results 2003/4 June 2004
+Auditors
+Deloitte & Touche
+Four Brindleyplace
+Birmingham B1 2HZ
+Registrars
+Capita Registrars
+The Registry
+34 Beckenham Road
+Beckenham
+Kent BR3 4TU
+Principal Bankers
+Barclays Bank plc
+Birmingham Corporate Banking Centre
+PO Box 5960
+15 Colmore Row
+Birmingham B3 2EP
+Standard Life Bank Limited
+Standard Life House
+30 Lothian Road
+Edinburgh EH1 2DH
+Anglo Irish Bank Corporation plc
+10 Old Jewry
+London EC2R 8DN 1
+160
+140
+120
+100
+80
+60
+40
+20
+0
+FY2000     FY2001    FY2002  FY2003
+147
+129
+56
+38
+Revenue Growth £’000s
+7000
+6000
+5000
+4000
+3000
+2000
+1000
+500
+0
+FY2000     FY2001     FY2002   FY2003
+721
+2,273
+5,073
+6,583
+Operating Loss %*
+As a percentage of turnover
+Gary Muchmore - Sales Consultant
+Key Highlights
+Turnover increased by 30% to £6.6 million (2002: £5.1 million)
+Operating loss* decreased by 13% to £2.5 million (2002: £2.9 million)
+and reduced in the second half to £0.7 million (1H 2003: £1.8 million)
+Operating loss* for continuing UK operations decreased by 50% 
+to £1.4m (2002: £2.9 million) and reduced to £0.1 million in the
+second half (1H 2003: £1.3 million)
+Operating loss of £3.0 million (2002: £2.9 million)
+Cash and money market deposits of £1.7 million (2002: £4.6 million);
+debt free
+Recurring revenue increased to £1.2 million, 17% of turnover 
+(2002: 11%)
+Major contract wins during the year include:
+– £960,000:  one of the top 5 insurance companies
+– £400,000:  Misys IFA Services
+– £250,000:  Zurich Advice Network (ZAN)
+* before re-organisation costs, amortisation of goodwill and tax (see consolidated profit 
+& loss account for reconciliation) 2 Focus Solutions Annual Report & Accounts 2003
+Technology
+goal:technology is a collaborative 
+XML based toolkit that enables the rapid
+development of components to automate
+business processes.
+The products within the goal:technology
+toolkit work together to create a ‘build’ and
+‘view’ functionality, with both Microsoft
+and Java applications of the technology for
+use in online and offline environments.
+goal:technology has specific benefits
+that make it unique and a portfolio of 
+real life proof points that demonstrate 
+its capability.
+Easy to change
+goal:technology separates the business
+intent of an application from the execution
+of the application (the what from the how).  
+Ease of use
+goal:technology has a user friendly
+interface for the business user who is not
+experienced in programming.  The toolkit’s
+easy to use functionality reduces training
+requirements. 
+Speed of use
+Business components can be built and
+deployed rapidly to provide speed to
+market, essential for today’s competitive
+market conditions.
+Build once and deploy many
+goal:technology generates XML that
+reduces test requirements and enables
+business components to be reused in 
+a practical manner in any distribution
+channel.
+goal:technology adds benefit to any
+organisation that has complex business
+processes.  It can be deployed across
+multiple channels to multiple markets
+directly or integrated into a partner
+solution. 
+‘goal:technology achieves excellent business benefits, both 
+in providing an efficient run-time environment for its XML-based
+applications, and in simplifying the design and development of the
+applications for accessibility by non-technical users.’ Butler Group, May 2003
+Delivering benefit using
+goal:technology 3
+Focus has a portfolio of solutions for the
+life and pensions market built using
+goal:technology. 
+Focus’ key offering to the life and pensions
+market is MCA (Multi Channel Advice). MCA
+is a solution that enables organisations 
+to attract, acquire, service and develop
+customers via a number of different
+distribution channels. MCA enables an
+insurance provider to automate their sales
+process from lead management to policy
+underwriting by building a series of 
+re-usable components. 
+These components can be easily amended,
+added to, linked together and then
+deployed in any distribution channel
+including Independent Financial Adviser
+(IFA) portal, IFA extranet, Point of Sale
+solution for direct sales or appointed
+representatives, a consumer website or via
+a call centre. 
+MCA enables insurance providers to:
+Accelerate speed to market
+New product components can be built
+and deployed rapidly and then changed 
+in response to legislative and product
+requirements.
+Enhance ROI by multi-channel reuse
+Once built, that same business component
+can be reused in any sales distribution
+channel.
+Exploit existing investment
+Solutions can be integrated with existing
+systems and added to on an incremental
+basis.
+Increase sales
+Enhanced efficiency of the sales process
+leads to increased volumes.
+Enhanced service offering
+Insurers can offer an improved service to
+tied and independent advisers reducing
+errors and speeding up the sales cycle.
+Focus, incorporating goal:technology
+is well established within the UK life and
+pensions market and is currently used by
+over 70% of the leading life and pensions
+organisations. 
+Solutions
+Delivering benefit to the Life
+and Pensions Industry
+An overview of Focus’
+technology and solutions "The strong growth of the Group’s revenue from its existing customer
+base is testament to the reputation of our staff for both their technical
+expertise and responsiveness to customer requirements. " Alastair Taylor, Chairman
+Phil Knight - Business Analyst
+Phil works within the component build team, delivering
+solutions to Focus’ customers. Phil is involved in the creation
+and editing of product components both for the UK and USA.
+Focus Solutions Annual Report & Accounts 2003 4 5
+Business review
+In my first annual report as Chairman, I am
+pleased to report that the Group has made
+progress during tough trading conditions in
+our markets. In an environment of low top
+line growth, revenue growth has been strong
+with turnover up 30%. Actions taken earlier
+in the year reduced the Group’s operating
+losses before re-organisation costs and
+amortisation of goodwill from £1.8 million in
+the first half to £0.7 million in the second
+half, despite the difficulties experienced in
+our former US subsidiary, Focus Solutions
+Inc (“FSI”). Operating losses in the continuing
+UK operations were halved to £1.4 million
+(2002: £2.9 million) and reduced to 
+£0.1 million in the second half of the year
+(H1 2003: £1.3 million).
+The Group has continued to expand its
+market share in the UK life insurance market.
+Whilst the majority of turnover came from
+our existing customer base, which includes
+seven of the top ten life and pensions
+companies, we won some significant 
+new customers during the year, including
+Prudential, Paymentshield and Misys IFA
+Services. In addition, good progress was
+made on developing our recurring revenue
+which includes annual licence fees, support
+and maintenance, and volume related
+revenue. This increased to 17% of turnover,
+(£1.2 million), compared to 11%, 
+(£0.6 million) last year.
+Market conditions in the US proved to be
+particularly tough. Whilst opportunities were
+identified and developed, these did not
+generate any revenue during the year.  
+The Board believed that its US subsidiary,
+acquired in April 2002, would continue to
+need significant cash investment and so
+took the decision to sell 51% of its stake 
+to the management of FSI for a nominal
+consideration. The sale was completed in
+March 2003 and the Group will no longer
+be responsible for any costs in relation
+to FSI. By retaining a 49% investment
+in FSI, the Group will ensure that
+shareholders still benefit from any future
+success of the US Group in the North
+American market. 
+Financial performance
+Turnover for the year ending 31 March
+2003 was £6.6 million compared with 
+£5.1 million in the previous financial year. 
+Operating losses were £3.0 million,
+including a loss of £1.6 million from the
+Group’s discontinued US operations. This
+compared to an operating loss of 
+£2.9 million in 2002.  
+Loss on ordinary activities before interest
+was £3.9 million (2002: £2.9 million) after 
+£0.9 million loss on disposal of the
+US operations. Losses after tax were
+£3.4 million (2002: £2.6 million), after a
+corporation tax credit of £0.4 million against
+the costs of investment in research and
+development for the two years ending
+March 2002.
+Results for continuing operations, (the UK
+business), show revenue in the second half
+increasing by 33% over the first half year,
+reflecting a traditional pattern of sales; in
+general, 40% of turnover usually occurs in the
+first half of the year and 60% in the second
+half, reflecting customer spending patterns.
+This revenue growth, combined with cost
+cutting measures taken at the half year,
+reduced operating losses for the continuing
+operations significantly. Operating loss
+before re-organisation costs and
+amortisation of goodwill was £1.4 million
+(2002: £2.9 million) and £0.1 million in the
+second half of this year compared to 
+£1.3 million in the first half.   
+Cash and money market deposits at 
+31 March 2003 were £1.7 million, compared
+with £2.2 million at the 30 September 
+2002 and £4.6 million at the end of the last
+financial year, and the balance sheet is 
+debt free.
+Loss per share for the year ending 31 March
+2003 was 13.4p, compared with a loss of
+10.3p for the year ending 31 March 2002. 
+In view of the current losses the directors
+are not recommending the payment of 
+a dividend.
+People 
+The Group has achieved substantial growth
+to date and during the year a number of
+changes to the Board were made to help
+take the Group forward to its next phase of
+growth. 
+In December 2002, Richard Jephcott
+stepped down as Chairman to allow him to
+assist the Group in the strategic
+development of its software business. 
+I took up the position of non-executive
+Chairman, following my appointment to 
+the Board in July 2002 as Deputy Chairman.
+I would like to thank Richard for his valuable
+contribution to the development of the
+business since flotation. I look forward to
+using my international experience in the 
+IT and financial services industries and
+business network developed over 30 years
+with the Unisys Corporation, to help the
+Group achieve its strategy and create
+shareholder value. 
+Lin Johnstone also joined the Board in July
+2002 as a non-executive director bringing
+valuable expertise in the global exploitation
+of leading edge technology. 
+In addition, Martin Clements was appointed
+to the Board as Financial Director on 
+12 June 2003.  Sue Hele has stepped down 
+as Finance Director but will continue to
+support the Group within the finance 
+team. As Focus enters the next phase of 
+its development, the Group will benefit
+enormously from Martin’s experience in
+developing high profile software companies
+both in the UK and internationally.  I would
+like to extend my thanks to Sue for her
+commitment and contribution to the Group
+during the last two and half years.
+The strong growth of the Group’s revenue
+from its existing customer base is testament
+to the reputation of our staff for both their
+technical expertise and responsiveness to
+customer requirements.  To achieve these
+results in the current environment has
+required both flexibility and commitment
+from our staff for which I am extremely
+grateful.
+Outlook
+The need to reduce costs coupled with
+forthcoming changes in regulation is 
+driving insurance companies and others 
+in the financial services industry towards
+electronic trading. 
+However, customers are still reviewing
+expenditure carefully and the insurance
+market remains volatile. Consequently, we
+will continue to reduce costs and target
+resources on our core market to maintain
+the Group’s improving financial performance
+in a challenging environment. The Group 
+will continue to move towards delivering
+value for shareholders by strengthening its
+position as a leading provider of electronic
+trading solutions to the life and pensions
+industry and working to fully realise the
+potential of its software, goal:technology,
+in other market sectors. 
+Chairman’s Statement
+Alastair Taylor   6
+Focus Solutions and Norwich Union won ‘Best use 
+of IT in insurance’ at the 2003 Financial Sector
+Technology Awards 
+Emma Swingle - Solutions Group QA Manager
+Emma manages the solutions group quality 
+assessment team, with full responsibility for 
+ensuring delivery of project elements, to 
+specified quality, time and budget requirements.
+Focus Solutions Annual Report & Accounts 2003 7
+Chief Executive’s Statement
+The Group has achieved both revenue
+growth and reduced costs in an
+environment where delays and revisions to
+orders and contracts were a common
+occurrence.
+Our strategy is to design, deliver and
+implement e-trading solutions for the
+financial services markets, built using
+goal:technology, our XML toolkit, and to
+exploit the potential of goal:technology
+in other markets through partners.  This
+strategy has delivered results with increased
+revenue from both new and existing
+customers in the UK life and pensions
+market. 
+Underpinning our solutions revenue is a
+growing recurring revenue stream.  
+At £1.2 million, this now represents 17% 
+of our turnover, as against 11% last year.
+During the year we signed several large
+licence contracts including a major contract
+worth approximately £1.0 million over
+four years.
+Software that incorporates
+goal:technology has now been distributed
+to approximately 40,000 users within the 
+UK life insurers and the IFA community. 
+This represents a significant foothold in our
+core market and provides an important
+reference for other markets outside the
+financial services sector.
+Solutions for the life and 
+pensions market
+The UK life and pensions industry has faced
+both falling stock markets and an
+increasingly competitive environment
+during the year.  Proposed changes in
+regulation covering the way products are
+sold are moving forward and a new
+distribution channel, able to give advice on
+and sell life and pensions products from a
+small number of defined providers, will be
+introduced early next year by the Financial
+Services Authority.  This adds an additional
+channel to the life companies’ already 
+complex distribution model and puts
+further pressure on insurers to cut their cost
+base, in particular to reduce their
+administrative expenses.
+Our Multi-Channel Advice solution (MCA)
+was launched in July 2002 to help life
+insurance companies address these issues.
+Built using goal:technology, MCA allows
+insurers to develop and launch 
+new products rapidly into multiple channels
+to market. The following contracts are
+evidence of our success and demonstrate
+the Group’s ability to increase its penetration
+across its blue chip customer base.
+Solutions for direct sales
+Zurich Advice Network, (ZAN), was the first
+customer to use MCA to support the sales
+of de-regulated products through its 3,500
+strong direct sales force. ZAN’s decision
+criteria were speed to market and cost,
+which resulted in a £250,000 project. The
+initial business results showed a significant
+increase in the percentage of business
+placed electronically and a fast take up and
+acceptance of the new system.
+Solutions for tied channels
+Increased sales productivity and the
+reduction in error rates were some of the
+benefits delivered by RIO, the Point of Sale
+system developed by Focus for Norwich
+Union Life. During the year, Norwich Union
+signed an open ended contract extension
+with Focus for a minimum term of two years 
+to support the roll-out of RIO to its tied
+building societies and its joint venture
+partner.  RIO, described by Norwich Union
+as a ‘world class point of sale solution’ ,  was
+further endorsed when it won the Financial
+Sector Technology Award for ‘Best Use of 
+IT in Insurance’ .
+Solutions for the independent channel
+Focus’ market leading position in this
+channel to market gave its customers a fast
+start to electronic trading whether through
+integrating goal:technology into the
+leading IFA software products, through
+deploying products on the leading industry
+portals or through extending their reach
+into Europe as the following examples
+demonstrate:
+  Misys IFA Services integrated
+goal:technology into its own end to
+end IFA desktop product, mi-solution.
+Six months on, there are now over 2,000
+subscriber users. 
+  Paymentshield, a leading provider of
+general insurance products to the
+mortgage intermediary market to over
+16,500 IFAs, is also in the process of
+integrating goal:technology into its
+solution, INERTIA.
+  Insurance companies such as Standard
+Life have taken advantage of Focus’
+design and development services to
+get a fast start in bringing their
+products to market electronically. 
+  Skandia has extended the reach of
+goal:technology to capture
+applications for new policies in its
+European extranet. 
+New sectors of the 
+financial services market
+With the proliferation of mortgage products
+and the introduction of legislation to
+regulate the provision of mortgage advice,
+insurance intermediaries are becoming 
+an increasingly important introducer of
+mortgage business to the major mortgage
+suppliers. Focus is now working with two
+major life insurers, developing solutions to
+capture and deliver mortgages and
+associated general insurance transactions
+electronically.
+Solutions strategy
+The market drivers for change in the UK life
+and pensions industry will continue to drive
+the need for e-trading solutions to support
+an increasing number of distribution
+channels.  Straight through processing of
+customer transactions from Point of Sale to
+back office policy administration systems
+will become essential to support low margin
+products such as stakeholder pensions.
+Focus will continue to concentrate its
+resources on the life and pensions market
+and related markets such as mortgages and
+the general insurance products associated
+with house purchases.  Selling solutions for
+multiple distribution channels will enable
+the Group to increase its penetration of its
+existing customer base and grow its major
+John Streets Misys IFA Services integrated goal:technology into its own 
+end to end IFA desktop product, mi-solution. Six months on,
+there are now over 2,000 subscriber users
+Focus Solutions Annual Report & Accounts 2003
+Sarah Underwood - Customer Services Representative
+Using goal:technology Sarah builds business components
+and provides technical support for customers, creating user 
+documentation and online help for Focus’ product range.
+8 9
+accounts. Through exploiting its market
+sector expertise the Group can build new
+components using goal:technology that
+can be reused; driving up margins and
+increasing speed to delivery.
+Whilst Focus has a clear opportunity to
+become a leading provider of e-trading
+solutions in the UK, extension into the life
+and pensions markets overseas will be
+through partners, including Focus Solutions
+Inc (“FSI”) in the US. FSI has a non-exclusive
+licence  to continue to use
+goal:technology to build its solutions for
+the North American life assurance market.
+goal:technology – 
+a 21st century approach
+The traditional approach to building software
+has resulted in many legacy systems with
+long lead times for development, and
+software that is difficult and costly to
+change and maintain.  With speed and
+flexibility becoming key differentiators of
+company performance, these old models 
+no longer make commercial sense. 
+Our customers are looking for solutions 
+that enable them to gain competitive
+differentiation in their market. They are
+looking for fast development timescales,
+solutions that are built in 90 days and can
+deliver return on investment within the
+current budget year.
+goal:technology is unique in meeting
+these requirements and underpinning the
+delivery of solutions to customers facing
+tough trading environments.
+goal:technology is now delivering proven
+benefits for 22 customers for both Microsoft
+and Java environments, running both 
+online and offline. 
+Investment in goal:technology has
+continued during the year with 16% of
+turnover spent on product development. 
+In addition to product enhancements,
+goal:technology has been integrated with
+other major applications including IBM’s
+Websphere
+TM
+, BEA’s Weblogic
+TM
+and Oracle’s
+9i
+TM
+applications servers.
+Product strategy
+As organisations look for more cost effective
+ways of automating business processes, the
+demand for business process management
+software is growing.  goal:technology
+addresses a critical part of this emerging
+requirement: the ability to handle complex
+processes that change frequently and
+require interaction with the end user. 
+A recent Butler Group audit described
+goal:technology as ‘particularly strong in
+the insurance sector but also of benefit to
+organisations that have a large user base
+and requirements that are complex and
+variable.’ It also identified the growth of
+web services and business process
+management as areas of future
+opportunities for the product. 
+(Butler Group Technology Audit: Focus
+Solutions goal:technology. Alan Rogers,
+May 2003).
+Focus will continue investing to ensure that
+our goal:technology XML toolkit exploits
+the recent advances in data capture led by
+the W3C internet standards authority.  A
+partnership programme has been set up to
+extend the reach of goal:technology into
+other market sectors, targeting software
+companies and systems integrators, where
+goal:technology can add value to their
+solutions and cut the costs of development
+and maintenance.
+Prospects
+Although we do not foresee market
+conditions improving in the forthcoming
+year, our customer base will continue to
+look for solutions that cut the costs of
+distributing their products. Four customers
+extended the use of our solutions into
+additional channels during this year and
+three added online capability to
+complement their existing offline solutions.
+The prospects in the pipeline show this
+trend continuing across both the existing
+customer base and into new accounts.  
+We now have a track record of delivering
+benefits to customers, underpinned by
+innovative software that has global multi-
+market potential. Tight control on costs,
+coupled with a closely targeted approach 
+to sales and partnership development will
+ensure that the Group continues to make
+good progress in implementing its strategy. 
+Chief Executive’s Statement 10 Focus Solutions Annual Report & Accounts 2003
+1 2
+Alastair Taylor, Chairman (Aged 54)
+Alastair was previously the President of the Global Financial
+Services Industry business for Unisys Corporation and a member
+of the Executive Management Board. During more than 30 years
+in the IT industry he has held senior executive positions in the UK
+and internationally.
+John Streets Chief Executive (Aged 52)
+John is the founding director of Focus.  John has a 20 year track
+record in IT sales and the financial services business working for
+Honeywell Information Systems, Wang Computers, Fame
+Computers and Intuitive Systems. Focus was established in 1996
+following an approach by AT&T to launch their insurance value
+added services in the UK and Europe.
+Mark Thelwell Chief Operating Officer (Aged 43)
+Mark joined Focus in 1998. Prior to this, he spent 16 years in
+Financial Services, covering sales, marketing and regulation.  
+He also implemented an innovative end-to-end e-Business
+solution.  Mark was appointed as Group Chief Operating Officer
+on 30 April 2002.
+Mark Loosmore Business Development Director (Aged 33)
+Mark joined Focus in 1998 and on 1 April 2002 Mark was
+appointed as Business Development Director concentrating on
+developing solutions and partnerships to accelerate Focus’
+growth. Previously, Mark worked at NCR and AT&T selling
+complex IT solutions to large insurance companies.
+Frank Murray Chief Technology Officer (Aged 46)
+Frank joined Focus as Product Development Manager in 
+May 2000.  Prior to Focus he spent 18 years in a variety of senior
+technical roles with AT&T and Cap Gemini focusing on the
+financial services market.  Frank was appointed Chief Technology
+Officer on the 1 April 2002.
+Martin Clements Finance Director (Aged 39)
+Martin Clements qualified as a chartered accountant in 1987.
+Martin joins Focus from Bond International Software Plc, where
+he has been Group Finance Director since 1998. Prior to joining
+Bond, Martin worked in a number of senior positions with
+Eurobell Holdings Plc and Vickers Plc.
+Piers Brooke Non-Executive Director (Aged 62)
+Piers had a career in Banking spanning 37 years holding senior
+management positions in London, Paris, Hong Kong and New
+York. He joined Focus as a director in 2000 and currently holds
+directorships in a number of other Public and Private companies.
+Martin Fiennes Non-Executive Director (Aged 42)
+Martin is an Investment Manager with Top Technology Ventures
+Limited, early stage investors in UK technology businesses, and
+manages the shareholdings in Focus of Hatt III GP and Unibank
+A/S.
+Robert Hull Non-Executive Director (Aged 53)
+Robert, a chartered accountant, joined Focus in 1998. A former
+Partner at KPMG, he was Finance Director of Focus at the time of
+Venture Capital funding and the IPO, becoming a Non-Executive
+Director in April 2001. 
+Lin Johnstone Non-Executive Director (Aged 50)
+Lin Johnstone has over 15 years experience in the software
+industry.  In recent years she was CEO of Evolve Software Inc and
+Industri Matematik International.  During her career she has held
+vice president positions at E.piphany UK and Aspect
+Communications.
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+5 4 3
+6 7 8 9
+Board of Directors
+10 11
+The directors support the Principles of Good Governance and the Code of Best Practice prepared by the Committee on Corporate
+Governance chaired by Sir Ronald Hampel published in June 1998 (“the Combined Code”) and, although not required, consider it
+appropriate to provide corporate governance disclosures.
+The Company continues to comply with the Combined Code so far as is practicable and appropriate for a public company of its size. 
+The Company has also followed the recommendations on Corporate Governance of the City Group for Smaller Companies (CISCO).
+The Company complies with the Combined Code in that the majority of non-executive directors are independent of management 
+and free from any business or other relationship, which could materially interfere with the exercise of their independent judgement. 
+The senior non-executive director is Piers Brooke.
+The Company also complies with the code’s provision that the Audit Committee consist exclusively of non-executive directors, as 
+Piers Brooke and Martin Fiennes were members of this committee throughout the year and Alastair Taylor and Lin Johnstone became
+members on 26 July 2002. Richard Jephcott retired on 4 December 2002. At the date of this report the Company complied with the
+code’s provision that the Remuneration and Nomination Committee consists exclusively of independent non-executive directors as 
+Piers Brooke was a member of the Committee throughout the year with Alastair Taylor and Lin Johnstone becoming members of the
+Committee on 26 July 2002. Martin Fiennes resigned and Richard Jephcott retired from the Remuneration and Nomination Committee 
+on 25 April and 4 December 2002 respectively. 
+The Board meets regularly to review not only the current state of the business but also to determine its future strategic direction. 
+The Board has a formal schedule of matters specifically reserved for its decision.
+The Audit and Remuneration and Nomination Committees have formally delegated duties and responsibilities. 
+The Audit Committee receives and reviews reports from management and the Company’s auditors relating to the annual and interim
+accounts and the accounting and internal control systems in use throughout the Group. The Audit Committee have unrestricted access 
+to the Company’s auditors.
+The Remuneration and Nomination Committee reviews the scale and structure of the executive directors’ remuneration and the terms 
+of their contracts. The remuneration and terms and conditions of appointment of the non-executive directors are set by the Board. 
+The Committee also administers the Share Option Schemes and is responsible for approval of senior appointments.
+Internal control
+The Board has considered the guidance published by the Institute of Chartered Accountants in England and Wales concerning the
+internal control requirement of the Combined Code and has established an ongoing process for identifying, evaluating and managing
+the significant risks faced by the Group.
+The Board is responsible for the Group’s system of internal financial control, which is designed to provide reasonable, but not absolute,
+assurance against material misstatement or loss. The Group’s system of internal control includes, but is not limited to:
+  the Board, which now includes five non-executive directors, which has overall responsibility for the decision making in the Group;
+  an annual budget prepared in advance of the start of the financial year against which the Group’s actual performance is monitored
+by the directors;
+  an organisational structure with clearly defined lines of responsibility and delegation of authority;
+Directors’ Statement on Corporate Governance 12 Focus Solutions Annual Report & Accounts 2003
+Directors’ Statement on Corporate Governance continued
+  the Group’s management having a clear responsibility for identifying risks facing the business and for putting in place procedures 
+to mitigate and monitor those risks; and
+  clearly defined control policies and procedures for all transactions including appropriate authorisation levels.
+The directors have reviewed the effectiveness of the Group’s internal control systems for the year ended 31 March 2003.
+Steps continue to be taken to embed internal control and risk management further into the operations of the business and to deal 
+with areas of improvement which come to management’s and the Board’s attention.
+The Chairman’s Statement and Chief Executive’s Statement present a balanced and understandable assessment of the Company’s
+position and prospects.
+Corporate Governance Compliance Statement
+Except as stated above, throughout the year ended 31 March 2003, the Company has been in compliance with the code provisions set
+out in section 1 of the Combined Code on Corporate Governance issued by the UK Listing Authority.
+Going concern
+After making enquiries, the directors consider that the Group has adequate resources to continue in operational existence for the
+foreseeable future. Consequently, they have continued to adopt the going concern basis in preparing the financial statements. 13
+The directors present their report and the audited financial statements for the year ended 31 March 2003. 
+The Group financial statements consolidate the financial statements of Focus Solutions Group plc and its subsidiary undertakings
+from 1 April 2002 to 31 March 2003.
+Principal activity
+The principal activity of the Group during the year was the provision of business solutions in the life and pensions insurance and financial
+services markets.
+Review of business
+A detailed review of activities and developments in the Group is contained in the Chairman’s Statement on page 5 and the 
+Chief Executive’s Review on pages 7 and 9. 
+On 30 April 2002 the Group acquired its North American partner MPO Group Inc (“MPO”) a US based e-business solutions company. 
+The initial consideration was £726,502 of which £451,777 was paid in cash with the remaining £274,725 by the allocation of 549,449
+ordinary shares in the Company.
+On the 31 March 2003 following the Board of Directors’ review of the US market, the Company sold 51% of the issued share capital of Focus
+Solutions Holdings Inc (“FSHI”) back to the original owners of MPO. Current trading conditions in the US continue to be extremely tough and
+whilst sales opportunities have been identified, the Board believes that FSHI is likely to continue to need significant cash investment.
+The Board has concluded as a result, that it is in the best interest of the shareholders to reduce the Group’s exposure to the costs of
+developing its position in the US market. By retaining a 49% investment in FSHI, but without significant influence over its affairs, the
+Board will ensure that shareholders stand to benefit from any future success of FSHI, without the obligation for continuing investment.
+Results and dividends
+The loss on ordinary activities for the year after taxation was £3,432,000 (2002: £2,590,000). The directors are not recommending the
+payment of a dividend for the year to 31 March 2003 (2002: £nil).
+Directors and their interests
+The directors who served during the period, and their beneficial interests in the share capital of the Company are shown in the
+Remuneration and Nomination Committee’s Report on pages 15 to 17. 
+Substantial shareholdings
+On 31 May 2003 the Company had been notified of the following holdings of 3% or more of its issued share capital.
+Number of shares %
+John Streets 8,250,000 32.13
+Hatt III LP 5,746,974 22.38
+Liontrust 2,597,200 10.12
+Unibank A/S 1,688,028 6.57
+The AIM Trust plc 1,125,000 4.38
+3PC Investment Trust 900,000 3.51
+No other person has reported an interest of more than 3% in the ordinary shares.
+Employees
+The Group is an equal opportunity employer and makes every effort to ensure disabled people are not discriminated against on the
+grounds of their disabilities. In the event of staff becoming disabled, every effort is made to ensure that their employment continues and
+that appropriate training is arranged. Employees are kept informed regarding the Group’s affairs and are consulted on a regular basis
+through meetings, wherever feasible and appropriate.
+Directors’ Report 14 Focus Solutions Annual Report & Accounts 2003
+Directors’ Report  continued
+Research and development
+Development costs relate to the onward development of the product range. All development costs are charged to the profit and loss
+account as incurred.
+Charitable contributions
+During the year, the Group made charitable contributions totalling £1,000 (2002: £2,000).
+Creditor payment policy
+The Company and its subsidiary undertakings agree appropriate terms and conditions for their business transactions with suppliers.
+Payment is then made on these terms subject to the terms and conditions being met by the suppliers. The Company did not have any
+trade creditors at the year end.
+Financial instruments
+The Group’s financial instruments comprise borrowings, cash and short-term deposit and various items, such as trade debtors and trade
+creditors that arise directly from its operations. The main purpose of these financial instruments is to fund the Group’s operations as well
+as to manage working capital, liquidity and invest surplus funds.
+It is, and has been throughout the year, the Group’s policy not to enter into derivative transactions and no trading in financial instruments
+has been undertaken. The Group faces few risks pertaining to financial instruments.
+Interest rate risk
+The Group continues to finance its operations from the original issue of equity. Accordingly borrowings are insignificant. Surplus cash
+balances are held on the money market in the short term at fixed rates of interest.
+Liquidity risk
+Whilst the Group’s operations are not currently cash generative, surplus cash from its equity finance is invested so as to achieve a market
+rate of return. These investments are held to ensure the Group remains sufficiently liquid to meet its requirements.
+Foreign currency risk
+During the period of ownership of FSHI, the Company was exposed to foreign currency risk. This exposure has been accounted for on a
+monthly basis. The Company did not enter into any hedging arrangements. Since disposal of 51% of FSHI and the closure of its Boston
+office, the Group will have minimal exposure to foreign currency risks moving forward.
+Re-appointment of Auditors
+Deloitte & Touche has expressed their willingness to continue in office as auditors and a resolution to re-appoint them will be proposed at
+the forthcoming Annual General Meeting. Deloitte & Touche has informed the directors that they are intending to transfer their business
+to a limited liability partnership incorporated under the Limited Liability Partnerships Act 2000, to be known as Deloitte & Touche LLP . 
+It is the current intention of the directors to use the Company’s statutory power to give consent to the appointment of Deloitte & Touche
+being treated as extending to Deloitte & Touche LLP at the appropriate time.
+This report was approved by the Board on 12 June 2003 and signed on its behalf by:
+W R Hull
+Secretary 15
+Un-audited information
+The Remuneration and Nomination Committee (“the Committee”), now comprising Alastair Taylor, Piers Brooke and Lin Johnstone with
+Alastair Taylor as Chairman, meets as required during the year. Executive directors may also be invited to attend meetings but may not
+vote and are not involved in any matter relating to themselves. The Committee confirms that the Company complies with the best
+practice provisions regarding remuneration committees set out in Section A of the annexe to the Listing Rules.
+The policy of the Committee is to ensure that the remuneration packages offered to the executive directors are competitive and designed to
+attract, retain and motivate executive directors and senior executives of a high calibre. These packages are reviewed regularly and independent
+advice is taken when appropriate. They are structured to include both short and longer term incentives. In framing its remuneration policies
+the Committee has given full consideration to the best practice provisions set out in Section B of the annexe to the Listing Rules.
+The remuneration of the non-executive directors is determined by the Board. The non-executive directors do not participate in the bonus
+scheme.
+Basic salary
+The basic salaries of the executive directors are determined after a review of the performance of the individual. It is the aim of the
+committee to reward directors competitively and commensurate with their responsibilities and experience.
+Bonuses
+The basis of bonus payments is at the discretion of the Committee and are based on financial performance targets. The bonuses are paid
+half yearly in arrears.
+Pensions
+The Company contributes a pre-set percentage of pensionable earnings to defined contribution schemes for the current executive directors.
+Other benefits
+Executive directors are provided with a company car or car allowance in line with market practice and private health care.
+Directors and their interests
+The directors who served during the period, and their beneficial interests in the share capital of the Company are shown in the Audited
+information. At the Annual General Meeting to be held on 24 July 2003, Mr M A Thelwell and Mr P L Brooke will retire and offer
+themselves for re-election and Mr A M Taylor, Mrs L F Johnstone and Mr M J Clements having been appointed since the last Annual
+General Meeting, will retire and offer themselves for re-election.
+Share options
+The Group operates the following share option schemes: the Focus Solutions Group plc Executive Share Option Scheme 2001 
+(The Executive Scheme), the Focus Solutions Group plc EMI Share Option Scheme 2001 (The EMI Scheme) and the Focus Solutions 
+Group (Unapproved) Executive Share Option Scheme (the Unapproved Scheme).
+These schemes are administered and the grant of options supervised by the Committee. The price per ordinary share at which options
+may be exercised under the Unapproved Scheme and the EMI Scheme will not be less than the middle market quotation for the dealing
+day immediately preceding the date of grant. The price per ordinary share at which options may be granted under the Approved
+Scheme will be not less than the market value as agreed with the Inland Revenue. In addition, there is a specific directors’ option
+arrangement in place for W R Hull.
+The Committee have adopted a policy of phased grants of options, either yearly or half-yearly, with no individual receiving options over
+shares in any one year with a value exceeding his or her annual salary. 
+The Committee also resolved that it would, in future, set performance conditions designed to incentivise senior management in a way,
+which is intended, if achieved, to enhance shareholder returns. After careful consideration, and taking into account the stage the
+Company had reached in its development, the Committee decided to adopt performance conditions allowing exercise of options upon
+the achievement of a target earnings per share figure within a minimum of three years, and a maximum of five, from the date of grant of
+the option. The Committee has chosen this as the most appropriate measure in that it is both closely aligned with shareholder interests
+and is a readily visible indicator of the Group’s underlying financial performance.
+Remuneration and Nomination Committee’s Report 16 Focus Solutions Annual Report & Accounts 2003
+Remuneration and Nomination Committee’s Report  continued
+In the view of the Committee, its policy for the operation of the Company’s share option schemes forms part of a well-considered
+remuneration policy to facilitate the motivation, retention and recruitment of executives. The Committee regularly reviews its policy on
+share incentives to ensure that it is broadly in line with market practice and to maintain its continued effectiveness.
+Service contracts
+J B Streets, M A Thelwell, M A Loosmore, F Murray and M J Clements have service contracts with the Company, which are capable of
+termination by the Company giving one year’s notice for J B Streets, and six months notice for M A Thelwell, M A Loosmore, F Murray and
+M J Clements.
+A M Taylor, L F Johnstone, P L Brooke, M G Fiennes and W R Hull have letters of appointment with the Company, which cover a period of
+one year and are capable of termination under certain circumstances. In addition, the Company has engaged Robert Hull & Co, of which
+Mr W R Hull is the proprietor, to provide consultancy and advisory services under a contract which is terminable with three months
+written notice served by either party.
+Audited information
+The remuneration of the directors was as follows:
+Salary Waiver of Other Pension Total
+& Fees Salary Bonus Benefits Contributions £’000
+Year ended 31 March 2003
+J B Streets 108(26) – 14 22 118
+M A Loosmore 98– – 9 8115
+M A Thelwell 98(19) – 11 15 105
+F Murray 85 – – 7 8 100
+S A Hele 68– – 87 8 3
+A M Taylor 14 – – – – 14
+P L Brooke 17 – – – – 17
+M G Fiennes 17 – – – – 17
+W R Hull 17 – – – – 17
+L F Johnstone 11 – – – – 11
+R J M Jephcott 20 – – – – 20
+Total 553 (45) – 49 60 617
+Year ended 31 March 2002
+J B Streets 102 – 15 13 19 149
+M A Loosmore 125 – 5 10 6 146
+M A Thelwell 75 – 13 11 11 110
+S A Hele 65 – 7 11 7 90
+P L Brooke 16 – – – – 16
+M G Fiennes 16 – – – – 16
+W R Hull 16 – – – – 16
+R J M Jephcott 25 – – – – 25
+Total 440 – 40 45 43 568
+Fees of £68,000 were paid during the year ended 31 March 2003 (2002: £65,000) for consultancy and advisory services to Robert Hull & Co
+of which W R Hull is the proprietor.
+No fees were paid from 1 April to 4 December 2002 (2002: £10,000) for consultancy and advisory services to DAMbusters of which 
+R J M Jephcott is the proprietor, and while he was chairman of the Company.
+Amounts of £9,000 were paid during the year ended 31 March 2003 (2002: £1,000) for property rental to Mr J B Streets.
+The remuneration of M G Fiennes is paid to Top Technology Ventures Limited.  17
+Directors interests
+According to the register of the directors interests in the shares of the Company the following shares were held:
+1 April 2002 31 March 2003
+Number of Number of
+Ordinary shares Ordinary shares
+A M Taylor Appointed 26 July 2002 – –
+J B Streets 8,250,000 8,250,000
+W R Hull 573,948573,948
+M A Loosmore 556,000 556,000
+M A Thelwell 558,564 558,564
+M G Fiennes 5,12870,128
+P L Brooke 5,000 5,000
+F Murray Appointed 1 April 2002 – –
+S A Hele Retired 12 June 2003 5,000 10,000
+L F Johnstone Appointed 26 July 2002 – –
+Mr M J Clements was appointed a director of the Company on 12 June 2003. Mr R J M Jephcott and Mrs S A Hele retired from the Board
+on the 4 December 2002 and 12 June 2003 respectively.
+On 11 April 2003, Mrs L F Johnstone acquired 30,000 ordinary shares in the Company.
+The following share options were held by directors:
+At At Exercise 
+1 April 31 March Price Exercise
+Director Scheme 2002 Granted 2003 (pence) Period
+Number Number Number
+M A Thelwell The Unapproved Scheme 166,000 166,000 14.586 15.03.2002 to 14.03.2009
+M A Thelwell The Unapproved Scheme 190,000 190,000 20 20.01.2003 to 19.01.2010
+M A Loosmore The Unapproved Scheme 166,000 166,000 14.586 15.03.2002 to 14.03.2009
+M A Loosmore The Unapproved Scheme 100,000 100,000 20 20.01.2003 to 19.01.2010
+W R Hull Directors option arrangement 50,000 50,000 20 20.01.2003 to 19.01.2010
+S A Hele The EMI Scheme 50,000 50,000 89 25.07.2004 to 24.07.2011
+S A Hele The EMI Scheme – 6,000 6,000 48.5 02.05.2005 to 01.05.2012
+F Murray The EMI Scheme – 25,000 25,000 89 25.07.2004 to 24.07.2011
+F Murray The EMI Scheme – 50,000 50,000 89 25.07.2004 to 24.07.2011
+F Murray The EMI Scheme – 15,000 15,000 89 15.11.2004 to 14.11.2011
+Performance conditions are attached to the 50,000 and 6,000 EMI share options granted to S A Hele whereby EPS is required to reach 
+5p and 12p respectively within 5 years of the date of the grant.
+Performance conditions are attached to the EMI options granted to F Murray whereby EPS is required to reach 5p, 10p and 10p
+respectively, for the tranches of 25,000, 50,000 and 15,000 options within 5 years of grant and in addition in respect of the tranche of
+50,000 options only 25,000 will be exercisable at the earliest after 3 years from date of grant the balance being exercisable at the earliest
+of 4 years from the date of grant.
+During the year from 1 April 2002 to 31 March 2003 the mid-market price of the ordinary shares had the range of 65p, the price at 2 April
+2002, to 9.5p on 17 January 2003. The mid-market price at the year-end was 12p.
+Alastair M Taylor
+Remuneration and Nomination Committee’s Report  continued 18 Focus Solutions Annual Report & Accounts 2003
+Directors’ Responsibilities in the Preparation of Financial Statements
+UK company law requires the directors to prepare financial statements for each financial year, which give a true and fair view of the state
+of affairs of the Company and the Group and of the profit and loss of the Group for that period. In preparing those financial statements,
+the directors are required to:
+  select suitable accounting policies and then apply them consistently;
+  make judgements and estimates that are reasonable and prudent; and
+  state whether applicable accounting standards have been followed, subject to any material departures disclosed and explained in
+the financial statements.
+The directors are responsible for keeping proper accounting records, which disclose with reasonable accuracy at any time the financial
+position of the Company and to enable them to ensure the financial statements comply with the requirements of the Companies Act
+1985. They are also responsible for safeguarding the assets of the Group and hence for taking reasonable steps for the prevention and
+detection of fraud and other irregularities. 19
+We have audited the financial statements of Focus Solutions Group plc for the year ended 31 March 2003 which comprise the profit and
+loss account, the balance sheets, the cash flow statement and the related notes 1 to 21 together with the reconciliation of net cashflow 
+to movement in net funds. These financial statements have been prepared under the accounting policies set out therein.
+This report is made solely to the Company’s members, as a body, in accordance with section 235 of the Companies Act 1985. Our audit
+work has been undertaken so that we might state to the Company’s members those matters we are required to  state to them in an
+auditors’ report and for no other purpose. To the fullest extent permitted by law, we do not accept or assume responsibility to anyone
+other than the Company and the Company’s members as a body, for our audit work, for this report, or for the opinions we have formed.
+Respective responsibilities of directors and auditors
+As described in the statement of directors’ responsibilities, the Company’s directors are responsible for the preparation of the financial
+statements in accordance with applicable United Kingdom law and accounting standards. They are also responsible for the preparation 
+of the other information contained in the annual report. Our responsibility is to audit the financial statements in accordance with relevant
+United Kingdom legal and regulatory requirements and auditing standards.
+We report to you our opinion as to whether the financial statements give a true and fair view and whether the financial statements have
+been properly prepared in accordance with the Companies Act 1985. We also report to you if, in our opinion, the directors’ report is not
+consistent with the financial statements, if the Company has not kept proper accounting records, if we have not received all the
+information and explanations we require for our audit, or if information specified by law regarding directors’ remuneration and
+transactions with the Company and other members of the Group is not disclosed.
+We read the directors’ report and the other information contained in the annual report for the above year as described in the contents
+section and consider the implications for our report if we become aware of any apparent misstatements or material inconsistencies with
+the financial statements.
+Basis of audit opinion
+We conducted our audit in accordance with United Kingdom auditing standards issued by the Auditing Practices Board. An audit
+includes examination, on a test basis, of evidence relevant to the amounts and disclosures in the financial statements. It also includes an
+assessment of the significant estimates and judgements made by the directors in the preparation of the financial statements and of
+whether the accounting policies are appropriate to the circumstances of the Company and the Group, consistently applied and
+adequately disclosed.
+We planned and performed our audit so as to obtain all the information and explanations which we considered necessary in order to
+provide us with sufficient evidence to give reasonable assurance that the financial statements are free from material misstatement,
+whether caused by fraud or other irregularity or error. In forming our opinion, we also evaluated the overall adequacy of the presentation
+of information in the financial statements.
+Opinion
+In our opinion the financial statements give a true and fair view of the state of affairs of the Company and the Group as at 31 March 2003
+and of the loss of the Group for the year then ended, and have been properly prepared in accordance with the Companies Act 1985.
+Deloitte & Touche 
+Chartered Accountants and Registered Auditors
+Birmingham
+12 June 2003
+Independent Auditors’ Report to the Members of Focus Solutions Group plc 20 Focus Solutions Annual Report & Accounts 2003
+Consolidated Profit & Loss Account
+for the year ended 31 March 2003
+Y ear ended Year ended
+31 March 31 March
+2003 2002
+Notes £’000 £’000 £’000 £’000
+Continuing Discontinued Total
+Operations Operations
+Turnover 26,583 – 6,583 5,073
+Operating loss before Re-organisation costs 
+and Amortisation of Goodwill (1,358) (1,119) (2,477) (2,859)
+Re-organisation costs 6 (64) (129) (193) –
+Amortisation of Goodwill – (343) (343) –
+Operating loss 4 (1,422) (1,591) (3,013) (2,859)
+Loss on disposal of US operations 3 – (897) (897) –
+Loss on ordinary activities 
+before interest (1,422) (2,488) (3,910) (2,859)
+Net interest receivable 7 89 (12) 77 269
+Loss on ordinary activities 
+before taxation 2 (1,333) (2,500) (3,833) (2,590)
+Taxation 8 401 – 401 –
+Loss on ordinary activities after taxation 
+and retained loss for the year 16 (932) (2,500) (3,432) (2,590)
+Loss per ordinary share 9 (13.4p) (10.3p)
+No separate statement of total recognised gains and losses has been presented as all such gains and losses have been dealt with in the
+profit and loss account. 21
+2003 2002
+Notes £’000 £’000
+Fixed assets
+Intangible assets 10 – –
+Tangible assets 11 224 383
+Current assets
+Debtors 13 1,704 1,438
+Investments – Money Market Deposits 656 3,830
+Cash at bank and in hand 1,039 780
+3,399 6,048
+Creditors: Amounts falling due within one year 14 1,848 1,504
+Net current assets 1,551 4,544
+Total assets less current liabilities 1,775 4,927
+Net assets 1,775 4,927
+Capital and reserves
+Called up share capital 15 & 16 2,567 2,508
+Share premium 16 9,427 9,426
+Merger reserve 16 220 –
+Profit and loss account 16 (10,439) (7,007)
+Shareholders’ funds – equity interests 16 1,775 4,927
+Approved by the Board on 12 June 2003
+J B Streets M A Thelwell
+Director Director
+Group Balance Sheet
+31 March 2003 22 Focus Solutions Annual Report & Accounts 2003
+Company Balance Sheet
+31 March 2003
+2003 2002
+Notes £’000 £’000
+Fixed assets
+Investments 12 1,960 1,960
+Current assets
+Debtors – due within one year 13 1,544 739
+Debtors – due after more than one year 13 6,100 5,600
+Investments 656 3,830
+Cash at bank and in hand 725 210
+9,025 10,379
+Creditors: Amounts falling due within one year 14 352 305
+Net current assets 8,673 10,074
+Total assets less current liabilities 10,633 12,034
+Net assets 10,633 12,034
+Capital and reserves
+Called up share capital 15 & 16 2,567 2,508
+Share premium 16 9,427 9,426
+Profit and loss account 16 (1,361) 100
+Shareholders’ funds – equity interests 16 10,633 12,034
+Approved by the Board on 12 June 2003
+J B Streets M A Thelwell
+Director Director 23
+Y ear ended Year ended
+31 March 31 March
+2003 2002
+Notes £’000 £’000
+Net cash outflow from operating activities 17a (2,375) (3,121) 
+Returns on investments and servicing of finance 17b 73 282
+Taxation 17b 345 –
+Capital expenditure and financial investment 17b (159) (197)
+Acquisitions and disposals 17b (802) –
+Cash outflow before management of liquid
+resources and financing (2,918) (3,036)
+Management of liquid resources 17b 3,174 3,252
+Financing 17b 3 (24)
+Increase in cash in the year 259 192
+Reconciliation of net cashflow to movement in net funds
+Y ear ended Year ended
+31 March 31 March
+2003 2002
+Notes £’000 £’000
+Increase in cash in the period 259 192
+Change in net funds resulting from financing 3 24
+Cash outflow from decrease in liquid resources (3,174) (3,252)
+Movement in net funds in the year (2,912) (3,036)
+Net funds at start of year 4,607 7,643
+Net funds at end of year 17c 1,695 4,607
+Consolidated Cash Flow Statement
+for the year ended 31 March 2003 24 Focus Solutions Annual Report & Accounts 2003
+Notes to the Financial Statements
+for the year ended 31 March 2003
+1 Accounting policies
+The financial statements have been prepared in accordance with statements of standard accounting practice issued by UK
+accounting bodies.
+The following accounting policies have been applied consistently with those set out in the 31 March 2002 Group Accounts, in
+dealing with items which are considered material in relation to the financial statements.
+Basis of accounting
+The financial statements have been prepared under the historical cost convention.
+Basis of consolidation
+The Group financial statements consolidate the financial statements of Focus Solutions Group plc and its subsidiary undertakings
+up to 31 March 2003.
+The Company has taken advantage of the exemption in Section 230 of the Companies Act 1985 and has not published its own 
+profit and loss account.
+Goodwill & amortisation
+Goodwill arising on acquisition is capitalised in the balance sheet in the month in which it arises and amortised over its estimated
+useful life of 10 years. It is reviewed for impairment at the end of the first full year of the financial year following acquisition and in
+other periods if events or changes in circumstances indicate that the carrying value may not be recoverable.
+Tangible fixed assets
+Fixed assets are stated at historical cost less accumulated depreciation.
+Depreciation is provided on all tangible fixed assets at rates calculated to write each asset down to its estimated residual value 
+evenly over its expected useful life, as follows:
+Software over 2 years
+Fixtures and fittings over 3 years
+Motor vehicles over 3 years
+Computer equipment Between 2 and 3 years
+Deferred taxation
+Deferred tax is recognised as a liability or asset if the transactions or events that give the Group and Company an obligation to pay
+more tax in the future or a right to pay less tax in the future have occurred by the balance sheet date. Deferred tax assets are
+recognised only to the extent that they are regarded as more likely than not that they will be recovered. Deferred tax is measured 
+on a non-discounted basis.
+Leased assets and obligations
+Assets obtained under hire purchase contracts or finance leases are capitalised in the balance sheet. Those held under hire purchase
+contracts are depreciated over their estimated useful lives. Those held under finance leases are depreciated over their estimated
+useful lives or the lease term, whichever is the shorter.
+The interest element of these obligations is charged to the profit and loss account over the relevant period. The capital element 
+of the future payments is treated as a liability.
+Rentals paid under operating leases are charged to the profit and loss account as incurred. 25
+1 Accounting policies (continued)
+Foreign currency
+Foreign currency transactions are converted to sterling during the year at the rates ruling at the time of the transaction. 
+Any amounts outstanding at the year-end are translated at the year-end closing rate.
+Pension contributions
+The Group makes contributions to defined contribution pension schemes that have been set up for and independently 
+administered on behalf of certain directors and employees. Contributions payable for the period are charged in the profit and 
+loss account.
+Research and development expenditure
+Research and development expenditure is written off in the period during which it is incurred.
+Turnover
+Turnover represents the invoiced value, net of Value Added Tax, of goods sold and services provided to customers during the 
+period. 
+Income is recognised as follows:
+Software & other licence fees On delivery provided that all other contractual obligations have been satisfied. 
+Other services fees When the work has been performed and contractual obligations have been satisfied.
+Support & maintenance fees Over the period of the contract.
+Investments
+In the Company’s balance sheet, investments in subsidiary undertakings are stated at cost less any provision. Where the 
+consideration for the acquisition of a subsidiary undertaking includes shares in the Company to which the provisions of section 131
+of the Companies Act 1985 apply, cost represents the nominal value of shares issued together with the fair value of any additional
+consideration given and acquisition costs.
+2 Turnover and loss on ordinary activities before taxation
+The Group’s turnover and loss on ordinary activities before taxation were all derived from its principal activity. All turnover
+predominantly originates in the United Kingdom.
+Notes to the Financial Statements continued 26 Focus Solutions Annual Report & Accounts 2003
+Notes to the Financial Statements continued
+3 Acquisition and disposal of MPO Group Incorporated
+On 30 April 2002, the Group acquired the business of MPO Group Incorporated (now Focus Solutions Inc). The acquisition was
+accounted for on the acquisition accounting basis in accordance with the requirements of FRS 6. The goodwill arising on acquisition
+is noted below. On 31 March 2003 the Group sold 51% of the issued share capital of Focus Solutions Holdings Inc (“FSHI”) (which
+owned 100% of Focus Solutions Inc) to the US management of Focus Solutions Inc for a nominal consideration. At the same time the
+Company retired from the Board of FSHI and now has no significant influence over the affairs of this business. The loss on disposal 
+of the FSHI group is noted below. 
+Y ear ended
+31 March 
+2003
+£’000
+Acquisition
+Shares issued 274
+Cash 452
+Acquisition costs 350
+Fixed Assets acquired (25)
+Debtors acquired (6)
+Creditors acquired 6
+Loan acquired 144
+Goodwill on acquisition 1,195
+Disposal
+Net Liabilities (115)
+Goodwill not amortised 852 
+Costs of disposal 160
+Loss on disposal 897
+MPO Group Inc reported losses of $713,000 for period 28 September 2000 to 28 February 2002, and $112,000 for the period 1 March
+2002 to 30 April 2002.
+The assets were acquired at full value therefore requiring no adjustment. The acquisition contributed net cash outflows during the
+year of £811,000 from operating activities. There are no tax impacts as a result of this disposal.
+4 Operating loss
+Y ear ended Year ended
+31 March 31 March
+2003 2002
+£’000 £’000 £’000 £’000
+Continuing Discontinued Total Total
+operations operations
+Turnover 6,583 – 6,583 5,073
+Staff costs (5,600) (608) (6,208) (4,770)
+Depreciation (300) (20) (320) (337)
+Other external charges (2,105) (963) (3,068) (2,825)
+Operating loss (1,422) (1,591) (3,013) (2,859) 27
+Y ear ended Year ended
+31 March 31 March
+2003 2002
+4 Operating loss (continued) £’000 £’000
+Operating loss is stated after charging:
+Depreciation and amounts written off tangible fixed assets:
+Charge for the year:
+Owned assets 318 316
+Leased assets 2 21
+Profit on disposal of fixed assets (3) (4)
+Amortisation of goodwill 343 –
+Re-organisation costs 193 –
+Operating lease rentals:
+Other – Rent paid on land & buildings 272 221
+Other – Assets (including motor vehicles) 140 115
+Research & Development expenditure 1,044 1,302
+Auditors’ remuneration:
+Audit services - Group 20 11
+Other services 16 11
+In addition to the above the auditors received remuneration on the acquisition and disposal of Focus Solutions Inc amounting 
+to £51,000. These costs were included in the costs of acquisition and disposal. The cost of audit services provided to the Company
+were £10,000 (2002: £8,000) and are included within the audit services charged to the Group.
+5 Staff costs
+The average monthly number of persons (including directors)
+employed by the Group during the year was:
+Number Number
+Office and management 23 19
+Sales and development 93 82
+116 101
+Staff costs for the above persons:
+£’000 £’000
+Wages and salaries 5,403 4,146
+Social security costs 555 453
+Other pension costs 289 218
+National Insurance on Share Options (39) (47)
+6,208 4,770
+Information in respect of directors’ emoluments, share options and pensions is given in the Remuneration and Nomination
+Committee’s Report on pages 15 to 17. The audited information in this report forms part of the financial statements.
+6 Re-organisation costs
+The re-organisation costs associated with continuing operations relate to redundancy payments made to certain employees within the
+UK business. The re-organisation costs associated with the discontinued operations relate to costs of the closure of the Boston office.
+Notes to the Financial Statements continued 28 Focus Solutions Annual Report & Accounts 2003
+Notes to the Financial Statements continued
+Y ear Year
+ended ended
+31 March 31 March
+2003 2002
+7 Net interest receivable £’000 £’000
+Bank interest receivable 90 269
+Interest payable (13) –
+Net interest receivable 77 269
+8 Taxation 
+a. Analysis of tax charge on ordinary activities
+Current tax:
+UK corporation tax at 30% (2002: 30%) based on loss for the period – –
+Adjustment in respect of prior years 401 –
+Total tax credit 401 –
+b. Factors affecting tax charge for the current period
+Loss on ordinary activities before tax (3,833) (2,590)
+Tax at 30% thereon: 1,150 777
+Effects of:
+Expenses not deductible for tax purposes (19) (17)
+Capital allowances in excess of depreciation (88) (41)
+Utilisation of tax losses (425) (749)
+Movement in short term timing differences – 30
+Non deductable expenses on Group re-organisation (618) –
+Prior period adjustment 401 –
+Total tax credit 401 –
+In addition the Group has losses of approximately £5,885,000 (2002: £6,000,000). No deferred tax asset has been recognised in
+respect of these losses. The losses are available to carry forward and will be offset when future trading profits arise. 
+The Group will shortly submit to the Inland Revenue a claim for corporation tax recoverable relating to research and development
+expenditure arising in the year ended 31 March 2003.
+9 Loss per ordinary share
+Earnings attributable to ordinary shareholders 
+Loss for the financial year (3,432) (2,590)
+Weighted average number of ordinary shares issued during the year (000’s) 25,628 25,084
+Basic loss per share (13.4p) (10.3p)
+FRS 14 requires presentation of diluted EPS when a company could be called upon to issue shares that would decrease net profit or
+increase net loss per share. For a loss making company with outstanding share options, net loss per share would only be increased
+by the exercise of out-of-the-money options. Since it seems inappropriate to assume that option holders would act irrationally, and
+there are no other diluting future share issues, diluted EPS has not been presented. 29
+10 Intangible assets
+The Group Goodwill
+£’000
+Cost:
+1 April 2002 –
+Additions on acquisition 1,195
+Disposals (1,195)
+31 March 2003 –
+Amortisation:
+1 April 2002 –
+Charged in the year 343
+Disposals (343)
+31 March 2003 –
+Net Book Value:
+At 1 April 2002 and 31 March 2003 –
+11 Tangible fixed assets
+The Group Fixtures and Motor Computer
+Software fittings vehicles equipment Total
+£’000 £’000 £’000 £’000 £’000
+Cost
+1 April 2002 227 284 43 460 1,014
+On acquisition of subsidiary 4 10 – 11 25
+Additions 84 20 – 59 163
+On disposal of subsidiary (6) (16) – (22) (44)
+Disposals – – (31) – (31)
+At 31 March 2003 309 298 12 508 1,127
+Depreciation
+1 April 2002 153 158 40 280 631
+Charge for the period 79 93 2 146 320
+On disposal of subsidiary (3) (5) – (10) (18)
+Disposals – – (30) – (30)
+At 31 March 2003 229 246 12 416 903
+Net book value
+31 March 2003 80 52 – 92 224
+31 March 2002 74 126 3 180 383
+The net book value of motor vehicles includes £nil (2002: £3,000) in respect of assets held under hire purchase contracts or finance
+lease agreements.
+The Company had no tangible fixed assets at 31 March 2003 (31 March 2002: £nil).
+Notes to the Financial Statements continued 30 Focus Solutions Annual Report & Accounts 2003
+Notes to the Financial Statements continued
+12 Investments
+The Group
+The Group owns 49% of Focus Holdings Inc, a holding company registered in Delaware USA which holds 100% of 
+Focus Solutions Inc, a company registered in Pennsylvania, USA engaged in the provision of business solutions to the life and
+pensions and long term care industry. The investment in Focus Solutions Holdings Inc and Focus Solutions Inc are shown as
+investments as the Group has no influence over the control of the businesses.
+The Company Shares in Group
+undertakings
+£’000
+Cost:
+1 April 2002 1,960
+Acquisitions 975
+Impairment (975)
+31 March 2003 1,960
+The shares issued as part of the initial consideration have been recorded at nominal value in the Company’s accounts due to the
+application of section 133 of the Companies Act 1985.
+The Company Shares Shares
+in Group in Group
+undertakings undertakings
+31 March 31 March 
+2003 2002
+£’000 £’000
+Cost and net book value 1,960 1,960
+The Company directly holds more than 20% of the share capital of the following companies which are included in the consolidated
+results of the Group:
+Country of Proportion Nature of
+Name incorporation held business
+Focus Business Solutions Limited England 100% Provision of business solutions in life and pensions 
+insurance and financial services markets.
+Focus Software Limited England 100% Provision of marketing and business development 
+services within North America. 
+(Ceased trading on 31 March 2003).
+Focus Holdings Limited England 100% Holding company 31
+13 Debtors
+The Group The Company
+31 March 31 March
+2003 2002 2003 2002
+£’000 £’000 £’000 £’000
+Due within one year:
+Trade debtors 1,416 985 – –
+Amounts due from Group undertakings – – 7,497 6,115
+Other debtors 54 58 40 60
+Corporation tax recoverable 56 – – –
+Prepayments and accrued income 178 395 107 164
+1,704 1,438 7,644 6,339
+Amounts due from Group undertakings includes £6,100,000 (2002: £5,600,000) that is due in more than one year.
+14 Creditors: Amounts falling due within one year
+The Group The Company
+31 March 31 March
+2003 2002 2003 2002
+£’000 £’000 £’000 £’000
+Obligations under hire purchase contracts and 
+finance lease agreements – 3 – –
+Trade creditors 338 473 138 69
+Other taxation and social security costs 526 443 27 60
+Accruals and deferred income 984 585 187 176
+1,848 1,504 352 305
+Hire purchase contracts and finance lease agreements amounting to £nil (2002: £3,000), all of which was due within one year, were
+secured on the motor vehicles to which the liabilities related.
+15 Share capital 
+31 March 31 March
+2003 2002
+£’000 £’000
+Authorised
+40,000,000 ordinary shares of 10p each 4,000 4,000
+Share capital as at 31 March 2002 2,508 2,508
+Issued for acquisition of Focus Solutions Inc 55 –
+On exercise of options 4 –
+Allotted, issued and fully paid as at 31 March 2003
+25,674,628 ordinary shares of 10p each 2,567 2,508
+Notes to the Financial Statements continued 32
+Focus Solutions Annual Report & Accounts 2003
+Notes to the Financial Statements continued
+15 Share Capital (continued)
+At 31 March 2003 the Company had the following outstanding share options.
+Exercise 
+Number price (pence) Notes Scheme Exercise period
+466,000 14.586 The Unapproved Scheme 15.03.2002 – 14.03.2009
+929,000 20.00 The Unapproved Scheme 20.01.2003 – 19.01.2010
+42,400 48.50 The Approved Scheme 02.05.2005 – 01.05.2012
+110,000 48.50 A The EMI Scheme 02.05.2005 – 01.05.2012
+50,000 86.00 B The Unapproved Scheme 17.07.2004 – 16.07.2011
+228,207 89.00 C The Approved Scheme 25.07.2004 – 24.07.2011
+273,500 89.00 D The EMI Scheme 25.07.2004 – 24.07.2011
+24,400 89.00 The Approved Scheme 14.11.2004 – 13.11.2011
+104,700 89.00 E The EMI Scheme 14.11.2004 – 13.11.2011
+17,000 101.00 F The Unapproved Scheme 17.12.2004 – 16.12.2011
+30,000 101.00 G The EMI Scheme 17.12.2004 – 16.12.2011
+A summary of the share option schemes is included in the Remuneration and Nomination Committee’s Report on pages 15 and 17.
+Since the year end 4,800 options have lapsed.
+Notes
+The following options have performance conditions requiring Earnings Per Share (“EPS”) to reach the amount stated within 5 years 
+of grant:
+Note No of options EPS (pence) Additional Performance Conditions
+A 110,000 12
+B 50,000 5
+C 98,500 10 50% may be exercisable 3 years from the date of grant with the 
+remainder exercisable 4 years from the date of grant.
+D 85,000 5
+98,500 10 50% may be exercisable 3 years from the date of grant with the 
+remainder exercisable 4 years from the date of grant.
+E 102,500 10
+F 17,000 10
+G 30,000 10 33
+16 Share capital, reserves and reconciliation of movement in shareholders’ funds
+Share Share Merger Profit and
+Capital premium Reserve loss account Total
+£’000 £’000 £’000 £’000 £’000
+The Group
+At 1 April 2002 2,508 9,426 (7,007) 4,927
+Share Capital issued 59 1 220 280
+Loss for the year (3,432) (3,432)
+At 31 March 2003 2,567 9,427 220 (10,439) 1,775
+The Company
+At 1 April 2002 2,508 9,426 100 12,034
+Share Capital issued 59 1 – 60
+Loss for the year (1,461) (1,461)
+At 31 March 2003 2,567 9,427 (1,361) 10,633
+As permitted by Section 230 of the Companies Act 1985, the profit and loss account of the parent company is not presented as part
+of these accounts. The parent company’s loss for the financial year amounted to £1,461,000 (2002: £100,000 profit).
+17 Cashflows
+a.     Reconciliation of operating loss to operating cash flows
+Y ear Year
+ended ended
+31 March 31 March
+2003 2002
+£’000 £’000
+Operating loss (3,013) (2,859)
+Depreciation 320 337
+Profit on sale of tangible fixed assets (3) (4)
+Amortisation of goodwill 343 –
+Increase in debtors (206) (914)
+Increase in creditors 184 319
+Net cash outflow from operating activities (2,375) (3,121)
+Notes to the Financial Statements continued 34 Focus Solutions Annual Report & Accounts 2003
+Notes to the Financial Statements continued
+17 Cashflows (continued)
+b.     Analysis of cash flows for headings netted in the cash flow
+Y ear Year
+ended ended
+31 March 31 March
+2003 2002
+£’000 £’000
+Returns on investments and servicing of finance
+Interest received 86 282
+Interest paid (13) –
+Net cash inflow 73 282
+Taxation 
+Corporation Tax credit received 345 –
+Net cash inflow 345 –
+Capital expenditure and financial investment
+Purchase of tangible fixed assets (163) (207)
+Sale of tangible fixed assets 4 10
+Net cash outflow (159) (197)
+Acquisitions and disposals
+Purchase of subsidiary undertaking 802 –
+802 –
+Management of liquid resources
+Decrease in cash on money market deposit 3,174 3,252
+Financing
+Issue of ordinary share capital 6 –
+Capital element of finance lease rentals (3) (24)
+Net cash inflow/(outflow) from financing 3 (24)
+c.     Analysis of net funds
+At At
+1 April Cash 31 March 
+2002 Movement 2003
+£’000 £’000 £’000
+Cash at bank and in hand 780 259 1,039
+Money market deposits 3,830 (3,174) 656
+Finance lease agreements (3) 3 –
+Total 4,607 (2,912) 1,695 35
+18 Commitments under operating leases
+At 31 March 2003 the Group had annual commitments under non-cancellable operating leases as follows:
+31 March 31 March
+2003 2002
+£’000 £’000
+Land and buildings:
+expiring between 2 and 5 years 231 231
+Other:
+expiring within one year 61 21
+expiring between 2 and 5 years 52 92
+344 344
+19 Pension commitments
+The Group has defined contribution pension schemes for certain directors and employees. The assets of the schemes are held
+separately from those of the Group in independently administered funds. Total contributions in the statutory period to 31 March
+2003, amounted to £289,000 (2002: £218,000).
+20 Related party transactions
+The Group received consultancy and advisory services on an arm’s length basis from Robert Hull & Co. Mr W R Hull, a director of the
+Company, is the proprietor of Robert Hull & Co. Purchases from Robert Hull & Co for the Group for the period ended 31 March 2003
+were £68,000 (2002: £65,000), of which £68,000 (2002: £65,000) related to the Company.
+Amounts due to Robert Hull & Co are disclosed below:
+Group Company
+31 March 31 March 31 March 31 March
+2003 2002 2003 2002
+£’000 £’000 £’000 £’000
+Amount due to Robert Hull & Co. 8 9 8 9
+The Group received consultancy and advisory services on an arm’s length basis from DAMbusters. Mr R J M Jephcott, a former
+director of the Company, is the proprietor of DAMbusters. Purchases from DAMbusters for the Group for the period 1 April 2002 to
+4 December 2002 were £nil (2002: £10,000), of which £nil (2002: £10,000) related to the Company.
+The Group received the benefit of property rental on an arm’s length basis from Mr J B Streets, the Chief Executive of the Company.
+Purchases from Mr J B Streets for the Group for the period ended 31 March 2003 were £9,000 (2002: £1,000), of which £9,000 
+(2002: £1,000) related to the Company.
+Neither the Group nor the Company owed any amounts to Mr J B Streets in respect of property rental at 31 March 2003.
+Notes to the Financial Statements continued 36 Focus Solutions Annual Report & Accounts 2003
+Notes to the Financial Statements continued
+21 Financial instruments
+The disclosures required by FRS 13 in relation to the nature of any financial instruments used during the year to mitigate interest 
+rate, liquidity and foreign currency risks are shown in the Directors’ Report under the heading “Financial Instruments” . 
+Short-term debtors and creditors
+Short-term debtors and creditors (other than borrowings) have been excluded from the following disclosures.
+At 31 March 2003 £656,000 (2002: £3,830,000) surplus cash was invested in money market deposits.
+Interest rate risk profile of financial liabilities
+The interest rate risk profile of the Group’s financial liabilities, which related to finance leases and hire purchase arrangements was:
+Fixed rate Weighted Weighted
+financial average average period
+Currency Total liabilities interest rate until maturity
+£’000 £’000 % Years
+31 March 2003 ––––
+31 March 2002 3 3 6.6 0.4
+Interest rate risk of financial assets
+All financial assets earn interest at floating rates based on LIBOR. Total financial assets are £1,695,000 of which £364 was held in 
+dollars (2002: £6,049,000, £146,000 held in dollars).
+Maturing of financial liabilities
+31 March 31 March
+2003 2002
+£’000 £’000
+Within one year or on demand – 3
+Fair value of financial assets and liabilities
+The book value of financial instruments held or issued to finance the Group’s operations are not different from the fair value of those
+instruments in the current or prior year.
+Foreign exchange 
+In 2003 a loss as a result of currency movements of £17,000 (2002: £3,000) was made. Of this amount £1,000 (2002: £4,000) related to 
+the Dollar bank account and £16,000 (2002: £1,000) related to the operating activities.
+Currency profile
+The following analysis of net monetary assets and liabilities shows the Group’s currency exposures. The amounts shown represent the
+transactional exposures that give rise to the net gains and losses recognised in the profit and loss account. 
+31 March 31 March
+2003 2002
+£’000 £’000
+US Dollar – 2 Contents
+1 Key Highlights
+2 Technology
+3 Solutions
+5 Chairman’s Statement
+7 Chief Executive’s Statement
+10 Board of Directors
+11 Directors’ Statement on Corporate Governance
+13 Directors’ Report
+15 Remuneration and Nomination Committee’s Report
+18 Directors’ Responsibilities
+19 Auditors’ Report
+20 Consolidated Profit and Loss Account
+21 Group Balance Sheet
+22 Company Balance Sheet
+23 Consolidated Cash Flow Statement
+24 Notes to the Financial Statements
+ibc Advisers and Shareholder Information
+There are two key elements to Our Strategy:
+Focus Solutions Group design, deliver and implement
+customer management solutions for the UK life and pensions
+market, using goal:technology, its innovative XML toolkit.
+– to become the leading provider of e-trading solutions to the financial
+services market, built using goal:technology
+– to exploit the potential of goal:technology in new markets
+through partners
+Advisers and Shareholder Information
+Company Number
+3911357 (England and Wales)
+Registered Office
+Cranford House
+Kenilworth Road
+Leamington Spa
+Warwickshire CV32 6RQ
+Nominated Advisor and Nominated Broker
+Evolution Beeson Gregory plc
+The Registry
+Royal Mint Court
+London EC3N 4LB
+Solicitors
+Hammonds
+Rutland House
+148 Edmund House
+Birmingham B3 2JR
+Wragge & Co LLP
+55 Colmore Row
+Birmingham
+B3 2AS
+Financial Calendar
+Annual General Meeting 24 July 2003
+Announcement of Interim Results 2003/4 November 2003
+Announcement of Results 2003/4 June 2004
+Auditors
+Deloitte & Touche
+Four Brindleyplace
+Birmingham B1 2HZ
+Registrars
+Capita Registrars
+The Registry
+34 Beckenham Road
+Beckenham
+Kent BR3 4TU
+Principal Bankers
+Barclays Bank plc
+Birmingham Corporate Banking Centre
+PO Box 5960
+15 Colmore Row
+Birmingham B3 2EP
+Standard Life Bank Limited
+Standard Life House
+30 Lothian Road
+Edinburgh EH1 2DH
+Anglo Irish Bank Corporation plc
+10 Old Jewry
+London EC2R 8DN Focus Solutions Group plc
+Cranford House
+Kenilworth Road
+Leamington Spa
+Warwickshire CV32 6RQ
+Tel: +44 (0) 1926 468300
+Fax: +44 (0) 1926 468400
+www.focus-solutions.co.uk
+Annual Report & Accounts Year Ending March 2003
+Focus Solutions Group plc

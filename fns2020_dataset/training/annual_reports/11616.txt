@@ -1,0 +1,1749 @@
+ Osmetech Annual Report 2004    xx
+Osmetech plc
+Annual Report and Accounts 2006 xx    Osmetech Annual Report 2004  
+Osmetech today
+Transforming molecular diagnostics into practical, cost-effective, FDA
+cleared testing solutions.
+As the demand for and acceptance of molecular diagnostic tests
+multiplies, so does the rate of testing decentralization. The movement
+of molecular diagnostic testing into the clinical laboratories of mid-
+size hospitals requires greater simplicity, flexible testing capabilities,
+and cost-effectiveness.
+Osmetech Molecular Diagnostics is focused on providing cutting-
+edge, cost-effective molecular diagnostic technologies and tools that
+enable a broader range of hospitals and laboratories to offer
+molecular diagnostic services for improved patient care.
+Contents
+1 Highlights
+2 Chairman’s statement
+3 Chief executive officer’s review
+8 Board of directors
+9 Report of the directors
+15 Independent auditors’ report
+17 Consolidated profit and loss account
+17 Consolidated statement of total recognised gains and losses
+18 Consolidated balance sheet
+19 Company balance sheet
+20 Consolidated cash flow statement
+20 Reconciliation of net cash flow to movement in net funds
+21 Notes to the consolidated cash flow statement
+23 Notes forming part of the financial statements
+42 Notice of annual general meeting
+45 Form of proxy
+IBC Directors and advisers Highlights
+2006
+• Sales for 2006 of £10.6m (8 months ended 31 December 2005 – £5.6m) – increase of 28%
+on the corresponding 12 month period
+• Operating losses of £12.4m (8 months ended 31 December 2005 – £5.5m) reflects our
+significant investment in our Molecular Diagnostics Division including the first full
+reporting period since Clinical Micro Sensors Inc. was acquired in 2005
+• FDA clearance for eSensor
+®
+Cystic Fibrosis screening test
+• Successful launch of first molecular diagnostics products and commencement of sales
+• July 2006 share placing raises £12.8m before expenses
+Current period
+• Strategic partnership with EPIDAUROS Biotechnologie AG to develop pharmaceutical
+companion diagnostics and novel molecular diagnostic products
+• Sale completed of Critical Care Division (“CCD”) for $44.9m in cash representing a
+substantial return on the original acquisition price of $2.7m
+• Cash resources increased significantly on 31 January 2007 to £27.5m following the sale of
+CCD
+• Agreement to buy-back warrants over 7.8m shares from Motorola (representing 3.85% of
+the issued share capital) for £469,000
+• First pharmacogenetics assay for Warfarin testing and second generation instrument
+platform, the eSensor
+®
+XT-8, planned for clinical trials and FDA submission in the third
+quarter of 2007
+eSensor
+®
+instrument eSensor
+®
+microarray consumable GeneSensor
+™ Chairman’s Statement
+I am pleased to report that 2006 has been another year of considerable achievement for Osmetech.
+Our Molecular Diagnostics Division received FDA clearance for its eSensor
+®
+Cystic Fibrosis screening
+test and has achieved its first sales of diagnostics products in this rapidly developing and strategically
+important market.
+In December 2006 we announced that the sale of our Critical Care Division to our veterinary partner,
+IDEXX Laboratories, Inc. for $44.9m in cash had been agreed. This sale was completed at the end of
+January 2007, crystallising a considerable gain in the value of this business under Osmetech’s ownership
+and management since its acquisition from Roche Diagnostics in April 2003.
+I would like to take this opportunity to thank all of our Critical Care Division employees for their
+dedication, enthusiasm and commitment over the past few years in helping to create a strong and
+successful business in the blood gas market. The Board wishes them well for the future as they enter an
+exciting new chapter under IDEXX’s ownership.
+The sale of the Critical Care Division has demonstrated the skill of the Osmetech management team in
+acquiring and developing underexploited assets and now management is focussed solely on the major
+opportunities available in Molecular Diagnostics market. We are confident that we can deliver similar
+success with our Molecular Diagnostics business, which is now appropriately funded, and I look forward
+to updating shareholders on further progress in due course.
+Gordon Hall
+Chairman
+20 March 2007
+2 Osmetech Annual Report and Accounts 2006 Chief Executive Officer’s review
+Introduction
+Through the recent sale of its Critical Care Division, Osmetech has capitalised on the considerable value
+created in that business since its acquisition from Roche Diagnostics, Inc. in 2003. Following its sale, the
+Group is now wholly focussed on its Molecular Diagnostics business operating in Pasadena and Boston
+in the US.
+Sale of Critical Care Division
+2006 was another year of strong profitable growth for the Critical Care Division. Sales of the blood gas
+and electrolyte product range increased to £10.5m ($19.4m) in 2006 from £5.6m ($9.9m) for the 8 month
+period ended 31 December 2005. Sales increased by 29% when compared to the equivalent 12 month
+period in 2005 of £8.1m, benefiting in particular from VetStat sales to our veterinary distribution partner,
+IDEXX Laboratories, Inc. (‘IDEXX’).
+Notwithstanding the highly satisfactory operating performance of the Division this year, on 18 December
+2006, we announced the proposed sale of the Critical Care Division to IDEXX for $44.9m in cash. This
+sale was approved by shareholders at an Extraordinary General Meeting on 9 January 2007 and the
+transaction was completed on 31 January 2007.
+The Critical Care Division was originally acquired by Osmetech in April 2003 for $2.7m before costs.
+During the period of Osmetech’s ownership, sales more than doubled and a loss making business was
+transformed into profitability. This was achieved principally through selective new product investment
+and the launch of the VetStat in the veterinary market with IDEXX. Osmetech’s developing commercial
+relationship with IDEXX presented an opportunity to sell the Division at an attractive price, representing
+a substantial return on investment.
+Your Board considered that this divestment was in the best interests of the Group as a whole, delivering
+the following benefits:
+• Realises excellent value creation for shareholders
+• Removes any shareholder concerns over the Group’s funding requirements and strengthens its
+balance sheet
+• Provides the necessary funding to enable the continued development of a successful Molecular
+Diagnostics business
+• Osmetech is now well positioned in a high growth market sector with potentially high returns
+Molecular Diagnostics Market
+The molecular diagnostics market is expected to continue to be the fastest growing segment within In
+Vitro Diagnostics (IVD). With an estimated global market worth of $2.6bn in 2006, it is approaching 10%
+of the total IVD market and exhibiting annual growth rates of approximately 20%. Infectious disease and
+genetic testing are the two most rapidly growing areas for molecular diagnostics accounting for
+approximately half of the overall market segment.
+Osmetech is primarily targeting genetic testing, which can be divided broadly into three areas:
+• Diagnosis and Monitoring – evaluating genetic sequences to confirm the presence or progress of
+disease
+• Susceptibility – evaluating genetic mutations to determine susceptibility to a future condition (e.g.,
+cystic fibrosis)
+• Pharmacogenetics – evaluating genetic variations to predict a patient’s response to a particular drug
+Osmetech Annual Report and Accounts 2006 3 Chief Executive Officer’s review
+continued
+Pharmacogenetics or ‘personalised medicine’ is widely anticipated to grow rapidly as treatments are
+more closely tailored to a patient’s genetic make-up. For example, Osmetech is developing a genetic
+test relevant for the anticoagulant Warfarin where the market opportunity is substantial. Optimal doses
+of Warfarin vary among patients with incorrect starting dosages prescribed for 20% of patients, resulting
+in either insufficient or excessive blood thinning.
+Warfarin testing is expected to lead to a reduction in the 85,000 cases of severe bleeding and 17,000
+strokes occurring annually in the US and could decrease national healthcare spending by $1.1bn per
+year as estimated by the American Enterprise Institute and the Brookings Institute. More than 30m
+prescriptions for Warfarin are given annually in the US alone with 3m new patients each year suffering
+from a heart attack or stroke. The total annual number of patients worldwide with conditions for which
+Warfarin could potentially be prescribed is 8.5m.
+Pharmacogenetics is also expected to play a larger role in drug development through the identification
+of genetic mutations and creation of “companion” diagnostics.
+Molecular Diagnostics Division
+Osmetech is developing a strong, complementary portfolio of FDA-approved and development-stage
+products that address the rapidly growing molecular diagnostics market.
+We plan to expand and develop the Division through the following means:
+• Progress with the development and commercialisation of the Group’s existing product pipeline
+including the second generation instrument platform, the eSensor
+®
+XT-8
+• Secure licensing agreements that will add assay content, and therefore revenues, for the Group’s
+instrument platforms
+• Continue to explore selective acquisition opportunities which will strengthen and expand the
+Group’s presence in the molecular diagnostics market
+• Negotiate licensing agreements and enter into strategic partnerships in non-healthcare markets, thereby
+leveraging the strength of the Group’s instrument platforms, technology and intellectual property
+Osmetech’s two instrument platforms, eSensor
+®
+and GeneSensor™ (previously known as OPTI GENE)
+are directly targeting the demand for decentralised testing by providing practical, cost effective
+molecular diagnostic technologies and tools that will enable a broader range of hospitals and
+laboratories to offer molecular diagnostic services. Our strategy has been to design low cost products
+specifically for the diagnostics market rather than by adapting complicated high cost research 
+products.
+eSensor
+®
+The eSensor
+®
+instrument and cartridge consumable system is primarily suited to undertaking relatively
+complex molecular tests which require the analysis, detection or identification of many different targets
+at once. The electrochemical detection technology is protected by strong international intellectual
+property, including 70 patents in the US alone, which have benefited from an investment of
+approximately $100m by Motorola during its period of ownership.
+Earlier this year Osmetech received 510(k) clearance from the US FDA for its Cystic Fibrosis carrier
+detection test and its eSensor
+®
+4800 DNA Detection instrument platform. This FDA approval is a first for
+a combined instrument and consumable Cystic Fibrosis assay. The system assesses whether an individual
+carries mutations in the Cystic Fibrosis gene and is used by adult couples contemplating pregnancy.
+The core technology for the instrument platform and microarray consumable forming part of this
+approval will also be used for running tests for other conditions to be launched in the future.
+4 Osmetech Annual Report and Accounts 2006 Chief Executive Officer’s review
+continued
+eSensor
+®
+XT-8
+Later this year we shall be introducing our second generation instrument, the eSensor
+®
+XT-8 with new
+consumable cartridge, which will be able to routinely run complex assays including the Cytochrome P450
+(“CYP 450”) pharmacogenomics assays described later.
+The eSensor
+®
+XT-8 system will deliver a number of operational, design and performance benefits
+including:
+• Significant reduction in processing time
+• Smaller foot print
+• Modular and expandable with higher throughput potential
+• Integrated CPU
+• Programmable eSensor
+®
+cartridge
+• Increased chip density to enable wider analysis of gene mutations
+• Improved data management capabilities
+A successful third party evaluation for a fully functional prototype XT-8 instrument and our first CYP450
+assay for Warfarin testing took place in December 2006. We now plan to exhibit the platform at the
+Clinical Virology Symposium in the US next month moving to clinical trials in support of an FDA
+submission in the third quarter of 2007. Following FDA approval, we anticipate a launch in the US by the
+end of 2007 with an international launch scheduled for 2008.
+SensiTube™
+The SensiTube™ product line, previously known as OPTI TUBE™, consists of plastic tubes and
+ergonomically designed sealing caps and carousel for use in the Roche LightCycler, a market leading
+instrument used in PCR analysis. SensiTube™ is a cost effective, robust alternative to Roche glass
+capillaries that eliminates the dangers of glass breakage and minimises the risk of laboratory personnel
+being exposed to potentially dangerous samples and glass shards. The same plastic technology has
+been incorporated into consumables to be supplied for use with Osmetech’s GeneSensor™ instrument.
+Osmetech has also granted a worldwide non-exclusive license to Roche for the manufacture and sale of
+plastic consumable vials using this proprietary plastic tube technology, in respect of which the Company
+has recently been granted its first patent.
+GeneSensor™
+The GeneSensor™ instrument is primarily suited to undertaking relatively simple molecular tests. Whilst
+our primary objective is to further develop the commercial potential for our eSensor
+®
+system, we plan to
+fully launch the GeneSensor™ as a research instrument later this year followed by the introduction of an
+FDA-cleared instrument and accompanying Factor V and Factor II IVD tests for thrombophilia in early
+2008. In time we expect that the instrument platform and proprietary consumable will be used for
+testing a wide range of conditions.
+The combination of the eSensor
+®
+and GeneSensor™ products should enable both complex and simple
+molecular diagnostic tests to be performed accurately by hospitals in a cost effective and easy to use
+format. Unlike many competing products, the two products combine both an instrument platform and
+proprietary test specific consumables. New tests launched will use the same instrument platform and
+consumable format thereby increasing sales revenues for each instrument in use.
+Osmetech Annual Report and Accounts 2006 5  Chief Executive Officer’s review
+continued
+The increase in administrative expenses and operating loss for the continuing operations of the Group
+for 2006 reflects both the comparison with an 8 month period for 2005 and the inclusion of the results of
+Clinical Micro Sensors, Inc for a full 12-month period following its acquisition on 26 July 2005. We
+anticipate that administrative expenses for continuing operations will show a marginal increase in 2007
+as more of our Molecular Division’s products reach commercialisation.
+The operating loss for the period of £12.4m compared to a net cash outflow from operating activities of
+£11.2m, with the difference of £1.2m largely explained by the share compensation charge of £0.8m, a
+non-cash item accounted for in accordance with Financial Reporting Standards No.20, “Share Based
+Payment” (FRS 20). Also in accordance with FRS 20 we have restated the prior year charge for share
+compensation charges.
+At 31 December 2006, cash and liquid resources were £7.1m. Following the receipt of the proceeds (net
+of expenses) from the sale of the Critical Care Division, cash and liquid resources on 31 January 2007
+were £27.5m. The majority of our cash and liquid resources are denominated in US dollars and will be
+retained as such to meet the anticipated funding requirements of our Molecular Diagnostics Division
+arising in the same currency.
+We have announced today that we have agreed to acquire the warrants issued to Motorola as
+consideration for the acquisition of Clinical Micro Sensors in July 2005. The warrants are over 7,811,428
+ordinary shares (representing 3.85% of the issued share capital) and will be cancelled by the Company
+thereby removing any dilution effects that would result from their exercise. The cash cost to the
+Company is approximately £469,000, representing 6 pence per warrant which were exercisable into
+ordinary shares at 17.5 pence.
+Outlook
+The importance of the developing global Molecular Diagnostics market with high product margin
+potential is becoming increasingly recognised by healthcare companies, for example GeneOhm and TM
+BioSciences were recently acquired by larger players. Furthermore, healthcare giant Abbott Laboratories
+recently announced that it was to sell its core laboratory diagnostics business to GE Healthcare but
+would retain its Molecular Diagnostics and Diabetes Care (glucose monitoring) businesses. It is also
+likely that the growth of “companion” diagnostics in the pharmacogenomics market segment will lead
+to closer alliances with pharmaceutical companies.
+The sale of our Critical Care blood gas and electrolyte analyser business has enabled Osmetech to
+become a ‘pure play’, well funded molecular diagnostics business operating in a high growth market.
+The Company’s recent business development activities have given Osmetech the financial flexibility to
+execute its strategy of building a portfolio of commercial-stage molecular diagnostic products. We
+expect to be able to add further content in order to develop a pipeline of new molecular diagnostic
+tests to be run on the Company’s instrument platforms. In addition, we anticipate that we will be able to
+secure license agreements and partnerships to leverage the Company’s assets in non-healthcare
+diagnostic markets, where predicted growth rates are similarly attractive.
+We have a growing presence in this exciting market. With our experienced management and a proven
+product technology backed by a strong intellectual property portfolio, Osmetech has considerable
+scope to build significant value in its Molecular Diagnostics Division.
+James White
+Chief Executive Officer
+20 March 2007
+Osmetech Annual Report and Accounts 2006 7 Board of directors
+for the 12 months ended 31 December 2006
+Gordon James Hall,
+Non-Executive Chairman
+Gordon Hall, aged 64, was Managing Director of Shield Diagnostic Group plc (now Axis-Shield plc) until October 1997 and prior to
+this held senior positions at Abbott Laboratories. He was appointed to the Board as executive Chairman on 24 September 1998,
+becoming non-executive Chairman on 1 February 2001.
+James Nicholas Gerald White,
+Chief Executive Officer
+James White, aged 36, was previously a senior consultant in Arthur D Little Limited’s corporate finance practice, where he
+specialised in advising venture capitalists on investments in small and medium sized companies. He was Operations Manager of
+Osmetech from September 1998 until appointed to the Board as Chief Operating Officer on 1 October 1999. He was appointed
+Chief Executive Officer on 22 December 2000.
+David Anthony Sandilands,
+Chief Financial Officer
+David Sandilands, aged 45, was Group Financial Director at Bluebird Toys plc, until its take-over by Mattel Inc. of the USA. Mr
+Sandilands qualified as a Chartered Accountant with Price Waterhouse and was appointed to the Board as Chief Financial Officer
+on 1 July 1999.
+Gordon Bruce Kuenster,
+Non-Executive
+Gordon Kuenster, aged 73, has founded and developed major medical diagnostic companies. He was appointed Group Vice
+President and a director of Squibb Corporation, following its acquisition of Advance Technology Laboratories Inc. He is Chairman
+of UMD Technology Inc, a medical technology company. He was appointed to the Board on 3 February 1998 as Director of
+Development and was appointed Chief Technology Officer on 1 October 1999, becoming a non-executive director on
+3 September 2002.
+Alfred Marek
+Executive (resigned 31 January 2007)
+Alfred Marek, aged 61, was President of Osmetech’s Critical Care Division based in Atlanta, having joined the Company at the time
+of the OPTI acquisition in April 2003. He was previously with AVL and was instrumental in developing their entire blood gas
+business prior to its sale to Roche in 2000. Mr Marek was appointed to the Board on 21 April 2004 and resigned on 31 January
+2007 following the sale of the Critical Care Division to IDEXX Laboratories, Inc.
+Bruce Allen Huebner
+Executive (appointed 12 February 2007)
+Bruce Huebner, aged 56, is President of Osmetech’s Molecular Diagnostics Division and joined the Group in May 2005 just prior to
+the acquisition of Clinical Micro Sensors, Inc. from Motorola Inc. He was previously Executive Vice President and Chief Operating
+Officer of Gen-Probe and President and Chief Operating Officer of Nanogen, two major international companies in the genetics
+and infectious diseases markets.
+8 Osmetech Annual Report and Accounts 2006 Report of the directors
+for the 12 months ended 31 December 2006
+The directors submit their report together with the audited financial statements for the 12 months ended 31 December 2006.
+Results and dividends
+The results of the Group for the year are set out on page 17.
+The directors do not recommend the payment of a dividend (31 December 2005: £NIL)
+As the Company has adopted FRS 20 ‘Share-based Payments’, prior year figures have been restated to reflect the impact of equity
+settled share based compensation plans as set out in notes 1 and 24.
+Principal activities, trading review and future developments
+The principal activity of the Group is the design, development, manufacture and sale of healthcare diagnostics and medical
+devices incorporating sensing technology.
+The principal activities of the subsidiaries, Osmetech Inc and Clinical Micro Sensors Inc, are the same as Osmetech plc. Osmetech
+Technology Inc, is a holding Company. Osmetech GmbH was established as a sales operation having exclusive rights to distribute
+Osmetech’s Critical Care Division products in Germany, prior to the disposal of the Division. Molecular Sensing Limited, Molecular
+Sensors Limited are dormant companies.The principal activity of the seventh subsidiary, Osmetech AESOP Trustee Limited, is to
+act as a trustee to an employee share ownership trust.
+Enhanced Business Review
+Operations
+Osmetech is a fast developing, international healthcare diagnostics business with operations in Boston and Pasadena in the US
+serving the high growth Molecular Diagnostics market targeting hospitals and reference laboratories. Osmetech Molecular
+Diagnostics has been built through the acquisitions and subsequent development of the businesses of Molecular Sensing plc in
+2004 and Clinical Micro Sensors Inc (‘CMS’) in 2005.
+On 31 January 2007, the Group’s Critical Care blood gas and electrolyte analyser business based in Atlanta, US was sold for
+$44.9m representing a significant return on the original investment made when this business was acquired in 2003. Whilst the
+results for 2006 and 2005 include those of the Critical Care Division (“CCD”), these have been separately disclosed as discontinued
+operations. Detailed commentary in relation CCD is not relevant to the future performance of the Group and therefore this review
+concentrates on our Molecular Diagnostics business.
+The financial position and performance of the Group is set out on pages 17 to 20. A review of the business, its markets and future
+developments is included in the Chairman’s Statement and Chief Executive Officer’s Reports set out on pages 2 to 7.
+Business risks
+The Board considers that the principal risks and uncertainties facing the Group may be summarised as follows:
+• Recruitment and retention of employees: The Group operates in a knowledge based industry employing many highly skilled,
+specialist staff. The Group aims to provide a challenging and rewarding working environment for its employees and has share
+options incentives for key staff.
+• Regulatory compliance: Osmetech operates in a regulated industry with its US based operations and market governed by the
+requirements of the US Food and Drug Administration (“FDA”). We have received FDA 510k Pre-marketing Approval for our
+Cystic Fibrosis carrier detection test and eSensor
+®
+4800 DNA Detection instrument platform and it is our intention to produce
+other FDA cleared tests in the future. Both of our US sites operate under current Good Manufacturing Practice (cGMP).
+Securing and maintaining the necessary regulatory approvals, accreditations and quality standards is of fundamental
+importance to the future success of the Group.
+Osmetech Annual Report and Accounts 2006 9 Report of the directors
+continued
+Enhanced Business Review continued
+• Product development: Although the Directors believe that there is a strong and growing demand for the molecular diagnostics
+products being developed by the Group, the ability of these products to meet the specifications demanded and therefore the
+speed of market penetration and the achievability of target prices is not certain. Prior to acquisition or license by Osmetech,
+the Group’s core technologies have received considerable investment and we believe that the principal technological and
+scientific risks have now largely been overcome. Additional efforts are continuing in production scale up in order to meet
+increasing market demands.
+• Market Acceptance of Osmetech’s Products: Commercial success will be dependent upon on the market acceptance of the
+Group’s products, including the ability to: convince customers that the Enlarged Group’s technology is an attractive alternative
+to other technologies; manufacture products in sufficient quantities with acceptable quality and at an acceptable cost; and sell,
+place and service sufficient quantities of the products. The Group believes that the market opportunities for genetic testing in
+particular are considerable, driven by improved patient care and healthcare cost management. These benefits have been
+recognised by the FDA who welcome the prospect of further approved tests to promote the wider use of such testing.
+• Intellectual Property Rights (“IP”). The Group’s success relies in part on maintaining meaningful patent protection on its
+inventions, technologies and discoveries. To compete effectively the Group will depend on its ability to develop and maintain
+proprietary aspects of its technology, and to operate without infringing the proprietary rights of others or, if necessary, to
+obtain rights to third-party proprietary rights. Whilst this is a complex area the Directors believe that Osmetech has a strong IP
+position, particularly in the field of electro-chemical detection. The molecular diagnostics market is at a relatively early stage of
+development and we believe that Osmetech’s IP will create barriers to entry.
+Key performance indicators
+The principal key performance indicators (“KPIs”) are detailed below:
+• As reported on page 27, research and development costs in the year amounted to £5,601,000 (8 months ended 31 December
+2005 – £2,665,000). Included within these total amounts are £4,768,000 (8 months ended 31 December 2005 – £2,120,000)
+relating to continuing operations. In addition to the specific comments in the Chief Executive’s Report, we consider that
+successful progress with product development activities is critical to the future success of the business for which KPIs are
+difficult to quantify. Product development programmes for our Molecular Diagnostics Division are described in detail in the
+Chief Executive’s Report.
+• As reported on page 20, operating cash outflows during the period were £11.2m (8 months ended 31 December 2005 – £4.3m),
+of which £11.2m (8 months ended 31 December 2005 – £4.5m) related to continuing operations.
+• As reported on page 18, the Group had a total of £7,089,000 of cash and liquid resources at 31 December 2006 (2005 –
+£7,207,000). These balances increased significantly on 31 January following the sale of the Critical Care Division.
+• As reported on page 27, the Group increased its average headcount in the year by 34% to 159 full-time equivalent employees
+(2005 – 119). Of these totals, average headcount relating to continuing operations was 75 in the year (2005 – 41). Voluntary staff
+turnover in the year for continuing operations was 15% (2005 – 15%), which we believe to be relatively stable compared with
+our industry peers.
+Charitable and political contributions
+The Group did not make any charitable or political contributions during the year (31 December 2005: £NIL).
+10 Osmetech Annual Report and Accounts 2006 Report of the directors
+continued
+Directors
+The directors of the Company at 31 December 2006 and their interests, all held beneficially, in the ordinary share capital of the
+Company at the balance sheet date were as follows:
+Ordinary Shares of 0.10p each
+31 December 2006 31 December 2005
+G J Hall 104,965 104,965
+J N G White 208,093 208,093
+D A Sandilands 61,597 61,597
+A Marek 26,190 26,190
+G B Kuenster 613,950 33,054
+Directors’ options are disclosed in note 6.
+Mr A Marek resigned as a director on 31 January 2007. Mr B A Huebner was appointed as a director on 12 February 2007
+Mr D A Sandilands was granted Long Term Incentive Awards to acquire 253,963 ordinary shares of 0.10p each in the capital of the
+Company at nominal value on 30 January 2007.
+Save as mentioned above, there have been no changes in the directors or movements in the directors’ interests in the Company’s
+share capital between 31 December 2006 and 20 March 2007.
+In accordance with the Articles of Association and, having been appointed since the date of the last Annual General Meeting,
+Mr B A Huebner retires and, being eligible, offers himself for election as a director at the Annual General Meeting to be held on
+3 May 2007. Mr Huebner’s appointment is terminable by up to 3 months’ notice.
+In accordance with the Articles of Association, Mr G J Hall will retire by rotation and, being eligible, offers himself for re-election.
+Mr G B Kuenster, who is 73 years of age will retire and, being eligible, offers himself for re-election. Mr Hall and Mr Kuenster do
+not have service agreements with the Company. Mr Hall’s and Mr Kuenster’s appointments are terminable by at least 12 months’
+notice.
+Directors’ interests in contracts
+No director was, or is, materially interested in any contract subsisting during, or at the end of the financial year which was
+significant in relation to the business of the Group.
+Substantial shareholdings
+In addition to the directors’ shareholdings shown above, the directors have been notified or are aware of the following interests in
+3 per cent. or more of the issued ordinary share capital of the Company as at 5 March 2007:
+Shareholder Number of Shares Per cent
+MOFO Nominees Limited 18,000,000 8.88
+Chase Nominees Limited (Account USSLEND) 14,050,000 6.93
+Vidacos Nominees Limited 2303 Account 13,246,698 6.53
+Chase Nominees Limited (Account SUTL) 12,892,312 6.36
+Apollo Nominees Limited CRE Account 11,111,111 5.48
+Goldman Sachs Securities (Nominees) Limited ILSEG Account 10,527,497 5.19
+BNY GIL Client Account (Nominees) Limited LST Account 7,235,932 3.57
+Pershing Keen Nominees Limited PSL981 Account 7,021,501 3.46
+HSBC Global Custody Nominee (UK) Limited 934567 Account 6,744,718 3.26
+Osmetech Annual Report and Accounts 2006 11 Report of the directors
+continued
+Compliance
+The Company is mindful of the provisions of the Combined Code. However, as an AIM listed company, the Combined Code is not
+mandatory and the Company has therefore not produced a separate Corporate Governance or Directors’ Remuneration Report.
+Going Concern
+Having reviewed the Group’s budgets and financial projections and after making enquiries, the Directors have a reasonable
+expectation that the Group has adequate resources to continue in operational existence for the foreseeable future. The financial
+statements, therefore, are prepared on a going concern basis.
+Directors’ responsibilities
+The directors are responsible for preparing the Annual Report and financial statements in accordance with applicable laws and
+regulations. Company law requires the directors to prepare financial statements for each financial year. Under that law, the
+directors have elected to prepare the financial statements in accordance with United Kingdom Accounting Standards and
+applicable law. The financial statements are required by law to give a true and fair view of the state of the affairs of the Company
+and of the Group and of the profit and loss of the Group for that period. In preparing those financial statements, the directors are
+required to:
+• select suitable accounting policies and then apply them consistently;
+• make judgements and estimates that are reasonable and prudent and;
+• state whether applicable UK Accounting Standards have been followed, and
+• prepare the financial statements on the going concern basis unless it is inappropriate to presume that the Company will
+continue in business
+Each person who is a director at the date of the approval of this report confirms that:
+1) so far as the director is aware, there is no relevant audit information of which the Company’s auditors are unaware, and:
+2) the director has taken all steps that he ought to have taken as a director in order to make himself aware of any information and
+to establish that the Company’s auditors are aware of that information.
+This confirmation is given and should be interpreted in accordance with the provisions of S234ZA of the Companies Act 1985.
+The directors are responsible for keeping proper accounting records which disclose with reasonable accuracy at any time the
+financial position of the Company and Group and to enable them to ensure that the financial statements comply with the
+Companies Act 1985. They are also responsible for the system of internal control, for safeguarding the assets of the Company and
+hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+The maintenance and integrity of the web site is the responsibility of the directors; the work carried out by the auditors does not
+involve consideration of these matters and, accordingly, the auditors accept no responsibility for any changes that have occurred
+to the information contained in the financial statements since they were initially presented on the web site.
+Legislation in the United Kingdom governing the preparation and dissemination of the financial statements and other information
+included in the annual reports may differ from legislation in other jurisdictions.
+Supplier Payment Policy
+The Company has due regard to the payment terms of suppliers and settles all undisputed accounts in accordance with the
+payment terms agreed with the supplier for each business transaction. The Group had 15 days (31 December 2005 – 39 days) of
+purchases outstanding at the end of the financial year.
+12 Osmetech Annual Report and Accounts 2006 Report of the directors
+continued
+CREST
+The Company’s ordinary shares are eligible for settlement through CREST, the system for securities to be held and transferred in
+electronic form rather than in paper. Shareholders are not obliged to use CREST and can continue to hold and transfer shares in
+paper without loss of rights.
+Independent Auditors
+A resolution to reappoint Deloitte & Touche LLP as the Company’s auditor will be proposed at the Annual General Meeting.
+Electronic Communications
+The Company may deliver shareholder information including Annual and Interim Reports, Forms of Proxy and Notices of General
+Meetings in an electronic format to shareholders.
+Shareholders wishing to receive shareholder information in the conventional printed form will continue to do so and need take no
+further action. If you would like to receive shareholder information in electronic format, please register your request on the
+Company’s Registrar’s electronic database at www.capitaregistrars.com. You will initially need your unique “investor code”, which
+you will find at the top of your share certificate. There is no charge for this service. If you wish to subsequently change your mind,
+you may do so by contacting the Company’s Registrars by post or through their web site.
+If you elect to receive shareholder information electronically, please note that it is the shareholder’s responsibility to notify the
+Company of any change to their name, address, e-mail address or other contact details. Shareholders should also note that, with
+electronic communication, the Company’s obligations will be satisfied when it transmits the notification of availability of
+information or such other document as may be involved to the electronic address it has on file. The Company cannot be held
+responsible for any failure in transmission beyond its control any more than it can for postal failure. In the event of the Company
+becoming aware that an electronic notification is not successfully transmitted, a further two attempts will be made. In the event
+that the transmission is still unsuccessful a hard copy of the notification will be mailed to the shareholder. In the event that specific
+software is required to access information placed on the Company’s website it will be available via the website without charge.
+Before electing for electronic communications shareholders should ensure that they have the appropriate equipment and
+computer capabilities sufficient for the purpose. The Company takes all reasonable precautions to ensure no viruses are present in
+any communication it sends out but cannot accept responsibility for loss or damage arising from the opening or use of any e-mail
+or attachments from the Company and recommends that shareholders subject all messages to virus checking procedures prior to
+use. Any electronic communication received by the Company that is found to contain any virus will not be accepted.
+Should you have any further questions on this please contact the Company’s Registrars, Capita Registrars on 0870 162 3131.
+Annual General Meeting – Explanation of Special Business
+Resolution 6
+The Directors may only allot shares or grant rights over shares if authorised to do so by shareholders. The general authority
+granted at the annual general meeting held on 3 May 2006 is due to expire at the annual general meeting in 2007. Accordingly,
+Resolution 6 will be proposed as an ordinary resolution to grant a new authority to allot unissued share capital up to an aggregate
+nominal value of £67,605 (representing 67,605,000 ordinary shares of 0.10p each, being approximately one third of the total issued
+ordinary share capital as at 20 March 2007). If given, this authority will expire at the earlier of (A) 30 June 2008 and (B) the
+conclusion of the next annual general meeting of the Company to be held in 2008. Other than in respect of the Company’s
+obligations under its employee share schemes, the Directors have no present intention of utilising the authority set out in this
+resolution to issue any of the authorised but unissued share capital of the Company.
+Osmetech Annual Report and Accounts 2006 13 Report of the directors
+continued
+Resolution 7
+The Directors also require additional authority from shareholders to allot shares or grant rights over shares or sell treasury shares
+where they propose to do so for cash and otherwise than to existing shareholders pro rata to their holdings. The general authority
+granted at the annual general meeting held on 3 May 2006 is due to expire at the annual general meeting in 2007. Accordingly,
+Resolution 7 will be proposed as a special resolution to grant such authority. If given, this authority will expire at the earlier of (A)
+30 June 2008 and (B) the conclusion of the next annual general meeting of the Company to be held in 2008. Apart from rights
+issues, open offers and other pre-emptive issues, the authority will be limited to the issue of shares and sale of treasury shares for
+cash up to an aggregate nominal value of £ 40,563 (being 40,563,000 ordinary shares of 0.10p each, representing approximately 20
+per cent. of the issued ordinary share capital at 20 March 2007). This authority does not accord with IPC guidelines, but the
+directors regard the authority as desirable to maximise the options open to the Company in the coming year.
+Resolution 8
+Resolution 8 will give the Company authority to purchase its own shares in the markets up to a limit of 10 per cent. of its issued
+ordinary share capital as at 20 March 2007. The Company will only be able to purchase its own shares pursuant to this authority to
+the extent that it has sufficient distributable reserves. The Company does not currently have any distributable reserves.
+Nevetheless, the Directors believe it is advantageous for the Company to have this authority in place so that, if and when it does
+have such reserves, the Company has the flexibility to make market purchases of its own shares in order to manage its capital
+base.
+If the Company were to be in a position to be able to utilise this authority, the maximum and minimum prices at which it can
+purchase its own shares are stated in the resolution. In the event that shares are purchased, they would either be cancelled (and
+the number of shares in issue would be reduced accordingly) or, subject to the Companies (Acquisition of Own Shares) (Treasury
+Shares) Regulations 2003 (the “Regulations”), retained as treasury shares. The Regulations enable companies to hold shares
+repurchased as treasury shares with a view to possible re-sale at a future date rather than having to cancel them. The Company will
+consider holding repurchased shares pursuant to the authority conferred by this resolution as treasury shares. This would give the
+Company the ability to re-issue treasury shares quickly and cost effectively and would provide the Company with additional
+flexibility in the management of its capital base. In the event that the Company has sufficient distributable reserves, the Directors
+will only exercise this authority if they are satisfied that a purchase would result in an increase in expected earnings per share and
+would be in the interests of shareholders generally.
+By order of the Board
+S A Craig
+Secretary
+20 March 2007
+14 Osmetech Annual Report and Accounts 2006 Independent auditors’ report
+Independent auditors’ report to the members of Osmetech plc
+We have audited the group and individual company financial statements (the “financial statements”) of Osmetech plc for the year
+ended 31 December 2006 which comprise the consolidated profit and loss account, the consolidated and individual company
+balance sheets, the consolidated cash flow statement and its associated notes a) to c), the consolidated statement of total
+recognised gains and losses, the statement of accounting polices and the related notes 1 to 27. These financial statements have
+been prepared under the accounting policies set out therein.
+This report is made solely to the company’s members, as a body, in accordance with section 235 of the Companies Act 1985. Our
+audit work has been undertaken so that we might state to the company’s members those matters we are required to state to them
+in an auditors’ report and for no other purpose. To the fullest extent permitted by law, we do not accept or assume responsibility
+to anyone other than the company and the company’s members as a body, for our audit work, for this report, or for the opinions
+we have formed.
+Respective responsibilities of directors and auditors
+The directors’ responsibilities for preparing the Annual Report and the financial statements in accordance with applicable United
+Kingdom law and United Kingdom Accounting Standards (United Kingdom Generally Accepted Accounting Practice) are set out in
+the Statement of Directors’ Responsibilities.
+Our responsibility is to audit the financial statements in accordance with relevant United Kingdom legal and regulatory
+requirements and International Standards on Auditing (UK and Ireland).
+We report to you our opinion as to whether the financial statements give a true and fair view in accordance with the relevant
+financial reporting framework and are properly prepared in accordance with the Companies Act 1985. We also report to you
+whether in our opinion, the Directors’ report is consistent with the financial statements. In addition, we report to you, if in our
+opinion, the company has not kept proper accounting records, if we have not received all the information and explanations we
+require for our audit, or if information specified by law regarding directors’ remuneration and other transactions with the company
+and other members of the group is not disclosed.
+We read the directors’ report and the other information contained in the Annual Report and consider whether it is consistent with
+the audited financial statements. We consider the implications for our report if we become aware of any apparent misstatements
+or material inconsistencies with the financial statements. Our responsibilities do not extend to any further information outside the
+Annual Report.
+Basis of audit opinion
+We conducted our audit in accordance with International Standards on Auditing (UK and Ireland) issued by the Auditing Practices
+Board. An audit includes examination, on a test basis, of evidence relevant to the amounts and disclosures in the financial
+statements. It also includes an assessment of the significant estimates and judgments made by the directors in the preparation of
+the financial statements, and of whether the accounting policies are appropriate to the circumstances of the company and the
+group, consistently applied and adequately disclosed.
+We planned and performed our audit so as to obtain all the information and explanations which we considered necessary in order
+to provide us with sufficient evidence to give reasonable assurance that the financial statements are free from material
+misstatement, whether caused by fraud or other irregularity or error. In forming our opinion we also evaluated the overall adequacy
+of the presentation of information in the financial statements.
+Osmetech Annual Report and Accounts 2006 15 Independent auditors’ report
+continued
+Opinion
+In our opinion:
+• the financial statements give a true and fair view, in accordance with United Kingdom Generally Accepted Accounting Practice,
+of the state of the group’s and the individual company’s affairs as at 31 December 2006 and of the group’s loss for the year
+then ended;
+• the financial statements have been properly prepared in accordance with the Companies Act 1985; and
+• the information given in the Directors’ Report is consistent with the financial statements.
+Deloitte & Touche LLP
+Chartered Accountants and Registered Auditors
+Manchester
+20 March 2007
+16 Osmetech Annual Report and Accounts 2006 Consolidated profit and loss account
+for the 12 months ended 31 December 2006
+Osmetech Annual Report and Accounts 2006 17
+12 months ended 8 months ended
+31.12.06 31.12..05
+Restated
+Note £ £
+Turnover 2
+Continuing operations 48,635 –
+Discontinued operations 10,522,461 5,588,121
+10,571,096 5,588,121
+Cost of sales
+Continuing operations (31,350) –
+Discontinued operations (6,948,233) (3,428,516)
+(6,979,583) (3,428,516)
+Gross profit
+Continuing operations 17,285 –
+Discontinued operations 3,574,228 2,159,605
+3,591,513 2,159,605
+Administrative expenses
+Continuing operations (12,523,868) (5,428,154)
+Discontinued operations (3,431,356) (2,251,987)
+Total administrative expenses (15,955,224) (7,680,141)
+Operating (loss)/profit 4
+Continuing operations (12,506,583) (5,428,154)
+Discontinued operations 142,872 (92,382)
+(12,363,711) (5,520,536)
+Net finance income 284,582 190,769
+Loss on ordinary activities before taxation (12,079,129) (5,329,767)
+Taxation 8 126,211 185,397
+Loss for the period transferred from reserves 20 (11,952,918) (5,144,370)
+Basic and Diluted Earnings per share:
+Continuing operations (7.31p) (4.61p)
+Discontinued operations 0.09p (0.08p)
+(7.22p) (4.69p)
+Prior year results have been restated to show the effects of the applying FRS 20 ‘Share-based Payments’ as outlined in notes 1 and 24.
+Consolidated statement of total recognised gains and losses
+for the 12 months ended 31 December 2006
+12 months ended 8 months ended
+31.12.06 31.12.05
+Restated
+£ £
+Loss for the financial year/period (11,952,918) (5,144,370)
+Currency translation (loss)/gain on on foreign currency net investments (901,680) 370,553
+Total recognised losses relating to the year/period (12,854,598) (4,773,817)
+Prior year adjustment – FRS 20 (see Note 24) 80,419
+Total gains and losses recognised since last annual report (12,774,179) Consolidated balance sheet 
+at 31 December 2006
+18 Osmetech Annual Report and Accounts 2006
+2006 2005
+Restated
+Note ££ ££
+Fixed assets
+Intangible assets 11 2,049,019 2,062,949
+Tangible assets 12 1,740,419 1,451,766
+3,789,438 3,514,715
+Current assets
+Stocks 14 2,261,293 1,719,302
+Debtors 15 2,020,270 3,019,365
+Investments 16 5,686,021 6,300,000
+Cash at bank and in hand 1,403,085 907,177
+11,370,669 11,945,844
+Creditors: amounts falling due within one year 17 (2,328,575) (2,676,401)
+Net current assets 9,042,094 9,269,443
+Net assets 12,831,532 12,784,158
+Capital and reserves
+Called up share capital 18 7,028,640 6,957,640
+Share premium account 18 51,703,745 39,654,069
+Merger reserve 18 1,885,533 1,885,533
+Other reserves 18 2,136,021 1,354,725
+Profit and loss account 20 (49,922,407) (37,067,809)
+Equity shareholders’ funds 21 12,831,532 12,784,158
+These financial statements were approved by the Board of Directors on 20 March 2007. Company balance sheet
+at 31 December 2006
+Osmetech Annual Report and Accounts 2006 19
+2006 2005
+Restated
+Note ££ ££
+Fixed assets
+Intangible assets 11 36,619 24,132
+Tangible assets 12 76,705 2,345
+Investments 13 23,423,893 11,225,312
+23,537,217 11,251,789
+Current assets
+Debtors 15 254,916 865,789
+Investments 16 5,686,021 6,300,000
+Cash at bank and in hand 368,641 397,570
+6,309,578 7,563,359
+Creditors: amounts falling due within one year 17 (385,064) (414,580)
+Net current assets 5,924,514 7,148,779
+Net assets 29,461,731 18,400,568
+Capital and reserves
+Called up share capital 18 7,028,640 6,957,640
+Share premium account 18 51,703,745 39,654,069
+Merger reserve 18 1,885,533 1,885,533
+Other reserve 18 2,136,021 1,354,725
+Profit and loss account 20 (33,292,208) (31,451,399)
+Equity shareholders’ funds 21 29,461,731 18,400,568
+These financial statements were approved by the Board of Directors on 20 March 2007.
+Signed on behalf of the Board of Directors
+D A Sandilands Director Consolidated cash flow statement
+for the 12 months ended 31 December 2006
+20 Osmetech Annual Report and Accounts 2006
+12 months ended 8 months ended
+31.12.06 31.12.05
+Note £ £
+Net cash outflow from operating activities (a) (11,154,209) (4,327,016)
+Returns on investments and
+servicing of finance (c) 277,996 178,414
+Taxation (c) 384,093 –
+Capital expenditure and financial investment (c) (1,285,738) (576,498)
+Acquisitions and disposals 13 (c) – (340,751)
+Cash outflow before management of liquid (11,777,858) (5,065,851)
+resources and financing
+Management of liquid resources (c) 613,979 (5,300,000)
+Financing (c) 12,120,676 10,291,875
+Increase/(decrease) in cash 956,797 (73,976)
+Reconciliation of net cash flow to movement in net funds
+for the 12 months ended 31 December 2006
+12 months ended 8 months ended
+31.12.06 30.12.05
+Note £ £
+Increase/(decrease) in cash in the period 956,797 (73,976)
+(Decrease)/increase in liquid resources (613,979) 5,300,000
+Exchange differences (460,889) 97,441
+Change in net funds (118,071) 5,323,465
+Net funds at beginning of year/period 7,207,177 1,883,712
+Net funds at end of year/period (c (ii)) 7,089,106 7,207,177 Notes to the consolidated cash flow statement
+for the 12 months ended 31 December 2006
+Osmetech Annual Report and Accounts 2006 21
+(a) Reconciliation of operating loss to operating cash flows
+12 months ended 8 months ended
+31.12.06 31.12.05
+£ £
+Operating (loss)/profit
+Continuing operations (12,506,583) (5,428,154)
+Discontinued operations 142,872 (92,382)
+(12,363,711) (5,520,536)
+Depreciation and amortisation
+Continuing operations 493,810 278,551
+Discontinued operations 251,709 158,092
+745,519 436,643
+Loss on disposal of fixed assets
+Continuing operations – 27,831
+Discontinued operations 8,064 109,082
+8,064 136,913
+Increase in stocks
+Continuing operations (284,475) (190,763)
+Discontinued operations (453,815) (201,204)
+(738,290) (391,967)
+Share compensation charge
+Continuing operations 620,442 385,658
+Discontinued operations 160,854 45,923
+781,296 431,581
+Decrease/(increase) in debtors
+Continuing operations 519,162 (278,184)
+Discontinued operations (19,334) 63,004
+499,828 (215,180)
+(Decrease)/increase in creditors
+Continuing operations 5,004 723,649
+Discontinued operations (91,919) 71,881
+(86,915) 795,530
+Net cash (outflow)/inflow from operating activities
+Continuing operations (11,152,638) (4,481,412)
+Discontinued operations (1,571) 154,396
+(11,154,209) (4,327,016)
+(b) Major non-cash transactions
+There are no major non-cash transactions in the 12 months ended 31 December 2006.The major non-cash transaction in the eight
+months to 31 December 2005 was the consideration for the acquisition of Clinical Micro Sensors, Inc. This comprised entirely of the
+issue of a warrant over ordinary shares. The fair value of the warrant issued was £923,144. Notes to the consolidated cash flow statement
+continued
+22 Osmetech Annual Report and Accounts 2006
+(c) Analysis of cash flows
+(i) Gross cash flows
+12 months ended 8 months ended
+31.12.06 31.12.05
+£ £
+Returns on investments and servicing of finance
+Interest received 277,996 178,414
+Taxation
+Research and Development tax credit received 384,093 –
+Capital expenditure and financial investment
+Payments to acquire intangible fixed assets (257,580) (9,997)
+Payments to acquire tangible fixed assets (1,028,158) (566,501)
+(1,285,738) (576,498)
+Management of liquid resources
+Transfer from/(to) term Deposits 613,979 (5,300,000)
+Financing
+Shares issued 12,780,000 11,000,000
+Share issue expenses (659,324) (708,125)
+12,120,676 10,291,875
+(ii) Analysis of changes in net funds
+At Cash Exchange At
+31.12.05 flows differences 31.12.06
+£££ £
+Cash at bank and in hand 907,177 956,797 (460,889) 1,403,085
+Current asset investments 6,300,000 (613,979) – 5,686,021
+Net Funds 7,207,177 342,818 (460,889) 7,089,106 Notes forming part of the financial statements
+for the 12 months ended 31 December 2006
+Osmetech Annual Report and Accounts 2006 23
+1  Accounting policies
+The financial statements have been prepared under the historical cost convention and are in accordance with applicable United
+Kingdom law and accounting standards. The Company has taken advantage of the exemption conferred by section 230 of the
+Companies Act 1985 from presenting its own profit and loss account. The following accounting policies have all been applied
+consistently throughout the year, with the exception of the policy for share-based payments which is explained in Note 24.
+Basis of preparation
+The financial statements have been prepared on a going concern basis, under the historical cost convention and in accordance
+with the Companies Act 1985 and applicable United Kingdom Accounting Standards.
+Basis of consolidation
+The consolidated accounts incorporate the financial statements of Osmetech plc and all of its subsidiary undertakings made up to
+31 December 2006. The Company uses the acquisition method of accounting to consolidate the results of its subsidiary
+undertakings. The results of subsidiary undertakings are included from the date of acquisition.
+Changes in accounting policies
+The financial statements reflect the adoption of FRS 20 ‘Share-based Payments’ (‘FRS 20’). The prior period figures have been
+restated, as set out in Note 24 to include the cost and balance sheet position under FRS 20.
+Investments
+Investments held as fixed assets are stated at cost less provision for impairment.
+Acquisitions and Disposals
+On acquisition of a business, fair values are attributed to the Group’s share of net separable assets under the acquisition method in
+FRS 6 ‘Acquisitions and Mergers’. Where there is no readily ascertainable market, the fair value of intangible assets purchased as
+part of a business acquisition is limited to an amount that does not create or increase negative goodwill. The results and cash flow
+relating to a business are included in the consolidated profit and loss account and the consolidated cash flow statement from the
+date of acquisition.
+Goodwill
+Purchased goodwill, representing the excess of the fair value of the consideration over the fair value of the assets acquired, is
+capitalised and amortised on a straight line basis over its useful economic life. This is presumed to be between 10 and 15 years
+depending on the business acquired, unless circumstances change significantly resulting in an impairment of the carrying value.
+Turnover
+Turnover represents sales of goods and services to third parties as well as income received from licence and development
+agreements. Turnover is stated exclusive of value added tax and other sales related taxes. Revenue from the sale of goods,
+typically instruments and consumables, is recognised when the goods are shipped or despatched. Revenue from services is
+recognised either in the period invoiced or if the service relates to a specific period, the revenue is recognised evenly over the
+period to which the charges relate.
+Income from licence and development agreements is typically in the form of fees on signature, milestone payments on the
+achievement of pre-determined events and royalties on the sale of the product once marketed. Turnover is recognised when
+licence rights are granted to the extent that the Group has performed its contractual obligations, based on the fair value of the
+right to consideration for each component of the agreement. Unearned amounts are carried forward as deferred income
+Tangible fixed assets
+Tangible fixed assets are stated at cost, net of depreciation and any provision for impairment. Notes forming part of the financial statements
+continued
+24 Osmetech Annual Report and Accounts 2006
+1  Accounting policies continued
+Depreciation
+Depreciation is provided to write off the cost, less estimated residual values, of all tangible fixed assets, except for assets under
+construction, over expected useful lives. It is calculated at the following rates:
+Short leasehold improvements – over the life of lease
+Plant, machinery and laboratory equipment – 10 – 35% per annum on cost
+Office equipment – 25 – 50% per annum on cost
+No depreciation is charged in respect of assets under construction until the assets are fully completed at which point they are
+transferred into plant, machinery and laboratory equipment.
+Taxation
+Current tax, including UK corporation tax, research and development tax credits and foreign tax, is provided at amounts expected
+to be paid or recovered using the tax rates enacted or substantively enacted by the balance sheet date.
+Deferred taxation
+Deferred tax is provided in full on timing differences which result in an obligation at the balance sheet date to pay more tax, or a
+right to pay less tax at a future date, at rates expected to apply when they crystallise based on current tax rates and law. Timing
+differences arise from the inclusion of items of income and expenditure in taxation computations in periods different from those in
+which they are included in the financial statements. Deferred tax assets are recognised to the extent that it is regarded as more
+likely than not that they will be recovered. Deferred tax assets and liabilities are not discounted.
+Finance costs
+Finance costs associated with the issue of debt are deducted from the proceeds of the issue and charged to profit over the term
+of the debt so that the amount charged is at a constant rate on the carrying amount.
+Financial instruments
+In relation to the disclosures made in note 26:
+• Short term debtors and creditors are not treated as financial assets or financial liabilities.
+• The Group does not hold or issue derivative financial instruments for trading purposes.
+• Forward exchange contracts are used to fix the value of the related asset or liability in the contract currency and at the contract
+rate and any gains or losses on these instruments are offset. Where the instrument is used to hedge a committed or probable
+future transaction, gains and losses are deferred until the transaction occurs.
+Foreign currency
+Profit and loss accounts of foreign subsidiary undertakings are translated into sterling at the average rate. Assets and liabilities of
+the foreign subsidiary undertakings are translated into sterling at the rates of exchange ruling on the balance sheet date.
+Exchange differences which arise from translation of the net investment in foreign subsidiary undertakings and the translation of
+the profit and loss between closing rate and average rate are taken to reserves.
+All other differences are taken to the profit and loss account with the exception of differences on foreign currency borrowings,
+which, to the extent that they are used to finance or provide a hedge against foreign equity investments, are taken directly to
+reserves to the extent of the exchange differences arising on the net investment in those enterprises. Notes forming part of the financial statements
+continued
+Osmetech Annual Report and Accounts 2006 25
+1  Accounting policies continued
+Intellectual property rights
+Patent costs are capitalised and written off on a straight line basis over the shorter of the life of the patent or its useful economic
+life. The Group’s other intellectual property rights are stated at cost and amortised over their useful economic lives in relation to
+revenues generated.
+Licences
+Licences are depreciated over the life of the product to which it relates, after the first sale of the product.
+All research and development expenditure is charged to the profit and loss account in the year in which it is incurred.
+Stock
+Stocks are valued at the lower of cost or net realisable value. Cost is calculated as follows:
+Raw materials – cost of purchase on first in, first out basis
+Finished goods – cost of raw materials and labour and attributable overheads based on the normal level of activity.
+Net realisable value is based on estimated selling price less further costs to completion and disposal.
+Pension costs
+Contributions to defined contribution pension schemes are charged to the profit and loss account in the year in which they
+become payable.
+Operating leases
+Rentals under operating leases are charged on a straight line basis over the lease term, even if the payments are not made on
+such a basis.
+Share based compensation arrangements
+The Group operates equity-settled share based compensation plans. In accordance with transitional provisions, FRS 20 has been
+applied to all grants of equity instruments after 7 November 2002 that were unvested as at 1 May 2005.
+The Group issues equity-settled share based payments to certain employees. Equity-settled share based payments are measured
+at fair value at the date of grant. The fair value determined at the grant date is expressed on a straight line basis over the vesting
+period, based on estimates of the number of options that are expected to vest. Fair value is based on both Black-Scholes and
+binomial models, according to the relevant measures of performance.
+At each balance sheet date, the Group revises its estimate of the number of options that are expected to become exercisable with
+the impact of any revision being recognised in the profit and loss account and a corresponding adjustment to reserves over the
+remaining vesting period. The proceeds received net of any transaction costs are credited to share capital (nominal value) and
+share premium when the options are exercised. Notes forming part of the financial statements
+continued
+26 Osmetech Annual Report and Accounts 2006
+2  Turnover
+The turnover is wholly attributable to the Group’s principal activity and is analysed as follows:
+By Destination:
+8 months ended
+12 months ended 31.12.06 31.12.05
+Continuing Discontinued Discontinued
+operations operations Total operations
+£££ £
+United Kingdom – 85,400 85,400 160,378
+Rest of Europe – 1,383,726 1,383,726 810,330
+USA 48,635 6,166,832 6,215,467 2,589,017
+Far East – 2,303,960 2,303,960 1,724,266
+Rest of World – 582,543 582,543 304,130
+48,635 10,522,461 10,571,096 5,588,121
+By country of origin:
+USA 48,635 10,027,500 10,076,135 5,280,235
+Germany – 494,961 494,961 307,886
+48,635 10,522,461 10,571,096 5,588,121
+All of the turnover in the eight months ending 31 December 2005 related to discontinued operations.
+3  Analysis of (loss)/profit before taxation and net assets
+(Loss)/profit before taxation by geographical segment:
+12 months ended 31.12.06 8 months ended 31.12.05 restated
+Continuing Discontinued Continuing Discontinued
+operations operations Total operations operations Total
+£££ £££
+UK (2,468,910) – (2,468,910) (2,302,790) – (2,302,790)
+Rest of Europe – (83,090) (83,090) – (74,802) (74,802)
+USA (9,753,091) 225,962 (9,527,129) (2,943,629) (8,546) (2,952,175)
+(12,222,001) 142,872 (12,079,129) (5,246,419) (83,348) (5,329,767)
+Net assets by geographical segment:
+As at 31.12.06 As at 31.12.05 restated
+Continuing Discontinued Continuing Discontinued
+operations operations Total operations operations Total
+£££ £££
+UK 6,903,667 – 6,903,667 8,137,896 – 8,137,896
+Rest of Europe – 155,782 155,782 – 196,938 196,938
+USA 1,873,651 3,898,432 5,772,083 1,384,912 3,064,412 4,449,324
+8,777,318 4,054,214 12,831,532 9,522,808 3,261,350 12,784,158
+Net assets are allocated to geographical area based on the location of the asset. Notes forming part of the financial statements
+continued
+Osmetech Annual Report and Accounts 2006 27
+4  Operating loss
+12 months ended 8 months ended
+31.12.06 31.12.05
+restated
+£ £
+This is arrived at after charging:
+Amortisation of intangible fixed assets 147,576 89,763
+Depreciation 597,943 346,880
+Auditors’ remuneration – audit services: Osmetech plc 39,000 36,500
+– audit services: Other Group companies 42,663 45,773
+– non audit services 41,624 143,502
+Operating lease rentals – plant and machinery 31,966 19,618
+– other 764,816 428,275
+Research and development 5,601,235 2,665,491
+Loss on disposal of fixed assets 8,064 136,913
+Share compensation charge 781,296 431,581
+5  Employees
+12 months ended 8 months ended
+31.12.06 31.12.05
+£ £
+Staff costs for all employees, including executive directors, consist of:
+Wages and salaries 7,032,936 4,037,277
+Social security costs 579,465 507,785
+Other pension costs 250,473 133,753
+7,862,874 4,678,815
+The average monthly number of employees of the Group during the year, including executive directors, was as follows:
+Number Number
+31.12.06 31.12.05
+Manufacturing 58 46
+Research and development 47 41
+Selling and administration 54 32
+159 119
+6  Directors
+12 months ended 8 months ended
+31.12.06 31.12.05
+£ £
+Emoluments:
+Emoluments 671,645 465,398
+Defined contribution pension scheme payments 63,376 45,342
+735,021 510,740 Notes forming part of the financial statements
+continued
+28 Osmetech Annual Report and Accounts 2006
+6  Directors continued
+12 months ended 8 months ended
+31.12.06 31.12.05
+£ £
+Highest paid director:
+Emoluments 282,628 202,818
+Defined contribution pension scheme payments 25,550 15,800
+308,178 218,618
+There are 3 (2005:3) directors who are members of defined contribution schemes.
+Directors’ interests
+The interests of the directors in ordinary shares of Osmetech plc, which are all held beneficially as reported in the report of the
+directors on page 11.
+Options
+Total options Total options
+on ordinary on ordinary
+shares of Lapsed/waived Granted shares of Exercise
+0.10p during the during the 0.10p Date of Price per Excersisable
+Director 31.12.05 Period Period 31.12.06 Grant share From To
+G J Hall 100,000 – – 100,000 25.09.98 20.0p 21.10.01 21.01.08
+J N G White 6,590,248 – – 6,590,248 02.09.05 0.1p 03.09.05 02.09.15
+493,822 – – 493,822 02.09.05 0.1p 02.10.05 02.09.15
+2,070,280 – – 2,070,280 02.09.05 0.1p 02.10.05 02.09.15
+D A Sandilands 3,295,124 – 3,295,124 02.09.05 0.1p 03.09.05 02.09.15
+493,822 – 493,822 02.09.05 0.1p 02.10.05 02.09.15
+788,229 – 788,229 02.09.05 0.1p 02.10.05 02.09.15
+G B Kuenster 135,000 – – 135,000 26.04.00 262.5p 26.04.03 26.04.10
+100,000 – – 100,000 20.03.01 110.0p 20.03.04 20.03.11
+100,000 – – 100,000 29.01.02 127.5p 29.01.05 29.01.12
+A Marek 1,000,000 – – 1,000,000 01.04.03 23.3p 01.04.04 01.04.13
+1,977,074 – – 1,977,074 02.09.05 0.1p 03.09.05 02.09.15
+The mid-market price of the shares at 31 December 2006 was 25.25p (31 December 2005 – 27.00p) and the range during the period was between 15.75p and 33.75p; (31 December 2005
+– 14.00p and 27.00p).
+7  Net finance income
+12 months ended 8 months ended
+31.12.06 31.12.05
+£ £
+Interest on bank balances and term deposits 284,582 190,769
+284,582 190,769 Notes forming part of the financial statements
+continued
+Osmetech Annual Report and Accounts 2006 29
+8  Tax on loss on ordinary activities
+The tax credit comprises:
+12 months ended 8 months ended
+31.12.06 31.12.05
+restated
+£ £
+Current tax:
+UK Corporation tax receivable (126,146) (185,397)
+Adjustment in respect of prior years research and development tax credit (65) –
+Total tax on loss on ordinary activities (126,211) (185,397)
+The difference between the total current tax shown above and the amount calculated by applying the standard rate of UK
+corporation tax to the loss before tax is as follows:
+12 months ended 8 months ended
+31.12.06 31.12.05
+restated
+£ £
+Loss on ordinary activities before tax (12,079,129) (5,329,767)
+Tax credit at 30% (3,623,739) (1,598,930)
+Effects of
+– losses which are available to set against future profits 3,502,082 1,361,221
+– research and development tax (credit)/charge (93,578) 46,349
+– expenses not deductible for tax purposes 75,352 6,630
+– depreciation in excess of capital allowances 6,192 1,659
+– movement in short term timing differences 7,545 (2,326)
+Adjustment in respect of prior year (65) –
+Total current tax credit (126,211) (185,397)
+Factors that may affect the future tax charge
+A deferred tax asset has not been recognised in respect of timing differences relating to tax losses carried forward as there is
+insufficient evidence that the asset will be recovered. The amount of the asset not recognised at a standard rate of 30% is
+£11.1 million (31 December 2005 – £8.5 million). In addition, a deferred tax asset in respect of capital allowances of £110,000
+(31 December 2005 – £335,000) has not been recognised. These assets will be recoverable if the Group generates profits in the
+future from the same trade in which the losses were incurred.
+9  Loss attributable to the Company
+The loss for the financial year dealt with in the financial statements of the parent company was £1,840,809 (eight months ended
+31 December 2005 as restated – £1,467,667). As permitted by Section 230 of the Companies Act 1985, no separate profit and loss
+account is presented in respect of the parent company. Notes forming part of the financial statements
+continued
+30 Osmetech Annual Report and Accounts 2006
+10  Earnings per share
+12 months ended 8 months ended
+31.12.06 31.12.05
+Weighted average number of shares in issue during the year/period 165,457,028 109,740,819
+(Loss)/profit Loss per (Loss) in Loss per
+in year share period share
+£ pence £ pence
+Continuing operations (12,095,789) (7.31) (5,061,022) (4.61)
+Discontinued operations 142,871 0.09 (83,348) (0.08)
+Total (11,952,918) (7.22) (5,144,370) (4.69)
+FRS 22 requires presentation of diluted Earnings per share when a company could be called upon to issue shares that would
+decrease net profit or increase net loss per share. For a loss making company with outstanding share options, net loss per share
+would only be increased by the exercise of out-of-the-money options. Since it is inappropriate to assume that option holders
+would act irrationally, no adjustment is made to diluted Earnings per share for out-of-the-money share options.
+11  Intangible assets
+Patents and Intellectual Licence
+Trademarks Property Goodwill costs Total
+££££ £
+Group
+Cost
+At beginning of year 278,273 600,000 1,512,759 730,117 3,121,149
+Additions 16,716 – – 240,864 257,580
+Currency translation adjustment – – (68,324) (65,230) (133,554)
+At end of year 294,989 600,000 1,444,435 905,751 3,245,175
+Amortisation:
+At beginning of year 254,142 600,000 204,058 – 1,058,200
+Charge for the year 4,228 – 134,892 8,456 147,576
+Currency translation adjustment – – (9,587) (33) (9,620)
+At end of year 258,370 600,000 329,363 8,423 1,196,156
+Net book value
+At 31 December 2006 36,619 – 1,115,072 897,328 2,049,019
+At 31 December 2005 24,131 – 1,308,701 730,117 2,062,949
+Company
+Cost
+At beginning of year 278,273 600,000 878,273
+Additions 16,715 – 16,715
+At end of year 294,988 600,000 894,988
+Amortisation:
+At beginning of year 254,141 600,000 854,141
+Charge for the year 4,228 – 4,228
+At end of year 258,369 600,000 858,369
+Net book value
+At 31 December 2006 36,619 – 36,619
+At 31 December 2005 24,132 – 24,132 Notes forming part of the financial statements
+continued
+Osmetech Annual Report and Accounts 2006 31
+12  Tangible assets
+Short Plant, machinery
+leasehold Assets under and laboratory Office
+improvements construction equipment equipment Total
+££££ £
+Group
+Cost
+At beginning of year 159,311 44,825 1,326,886 628,446 2,159,468
+Additions 13,166 348,894 340,363 325,735 1,028,158
+Disposals – (8,064) – (16,228) (24,292)
+Currency translation adjustment (18,826) (5,297) (156,812) (72,195) (253,130)
+At end of year 153,651 380,358 1,510,437 865,758 2,910,204
+Depreciation
+At beginning of year 24,483 – 437,521 245,698 707,702
+Provided in the year 38,478 – 338,204 221,261 597,943
+Disposals – – – (16,228) (16,228)
+Currency translation adjustment (5,334) – (74,277) (40,021) (119,632)
+At end of year 57,627 – 701,448 410,710 1,169,785
+Net book value
+At 31 December 2006 96,024 380,358 808,989 455,048 1,740,419
+At 31 December 2005 134,828 44,825 889,365 382,748 1,451,766
+Company
+Cost
+At beginning of year – 4,897 4,897
+Additions 90,771 – 90,771
+At end of year 90,771 4,897 95,668
+Depreciation
+At beginning of year – 2,552 2,552
+Provided in the year 15,170 1,241 16,411
+At end of year 15,170 3,793 18,963
+Net book value
+At 31 December 2006 75,601 1,104 76,705
+At 31 December 2005 – 2,345 2,345 Notes forming part of the financial statements
+continued
+32 Osmetech Annual Report and Accounts 2006
+13  Fixed asset investments
+(a) Subsidiary undertakings
+Investments Loan Total
+££ £
+Company
+Cost
+At beginning of year 3,871,273 14,152,659 18,023,932
+Additions – 12,398,165 12,398,165
+Repayments – (199,584) (199,584)
+At end of year 3,871,273 26,351,240 30,222,513
+Provision for impairment
+At beginning and end of year 645 6,797,975 6,798,620
+Net book value
+At 31 December 2006 3,870,628 19,553,265 23,423,893
+At 31 December 2005 3,870,628 7,354,684 11,225,312
+The following were subsidiary undertakings at the end of the year and have all been included in the consolidated accounts.
+Proportion of
+Country of voting rights and
+incorporation ordinary share
+Name or registration capital held Nature of business
+Osmetech Technology Inc. USA 100% Holding Company
+Osmetech Inc. USA 100%* Same as ultimate parent company
+Clinical Micro Systems Inc. USA 100%* Same as ultimate parent company
+Osmetech GmbH Germany 100% Sales operation
+Molecular Sensing Limited UK 100% Dormant
+Molecular Sensors Limited UK 100% Dormant
+Osmetech AESOP Trustee Limited UK 100% Dormant
+The country of operation is the same as its country of incorporation or registration.
+*Shares held by Osmetech Technology Inc.
+(b) Other investments
+Proportion of
+Country of voting rights and
+incorporation ordinary share
+Name or registration capital held Nature of business
+Atlas Genetics Limited UK 11.7% Electrochemical DNA detection
+OHMx Corporation USA 5.4%* Electrochemical detection
+* Shares held by Clinical Micro Sensors, Inc.
+Both of these investments are in unquoted private companies. The investments were received in exchange for non-cash
+consideration. The fair value of these investments is considered to be zero.
+(c) Acquisitions and disposals
+On 26 July 2005, the Group acquired the entire share capital of Clinical Micro Sensors Inc., from Motorola Inc., for a total
+consideration of £923,144, being the deemed value, under the Black-Scholes model for pricing, of a warrant issued to Motorola to
+subscribe for 7,811,428,ordinary shares at a price of 17.5 pence per share and acquisition costs of £340,751. Notes forming part of the financial statements
+continued
+Osmetech Annual Report and Accounts 2006 33
+13  Fixed asset investments continued
+The acquisition has been accounted for using the acquisition method of accounting. After adjustments to the valuation of assets
+and liabilities to reflect their fair value, the fair value of the assets acquired amounted to £1,263,895. The fair value of these assets
+has now been finalised in the period ended 31 December 2006 and remains unchanged.
+14  Stocks
+31.12.06 31.12.05
+£ £
+Raw materials and work in progress 1,752,110 1,232,552
+Finished goods 509,183 486,750
+2,261,293 1,719,302
+There is no material difference between the replacement cost of stocks and the amount at which they are stated in the financial
+statements.
+The Company has no stock.
+15  Debtors
+31.12.06 31.12..05
+Group Company Group Company
+££ ££
+Due within one year
+Trade debtors 1,422,103 – 1,797,700 3,583
+Other debtors 116,237 10,812 360,408 66,756
+Called up share capital not paid –– 290,000 290,000
+Taxation recoverable 126,146 126,146 384,027 384,027
+Prepayments and accrued income 355,784 117,958 187,230 121,423
+2,020,270 254,916 3,019,365 865,789
+16  Investments – term deposits
+31.12.06 31.12.05
+£ £
+Group and Company
+Cash deposits with terms in excess of 7 days 5,686,021 6,300,000
+17  Creditors: amounts falling due within one year
+31.12.06 31.12..05
+Group Company Group Company
+££ ££
+Trade creditors 647,053 78,697 1,124,036 172,220
+Taxation and social security 21,758 9,524 36,248 25,337
+Accruals and deferred income 1,659,764 296,843 1,516,117 217,023
+2,328,575 385,064 2,676,401 414,580 Notes forming part of the financial statements
+continued
+34 Osmetech Annual Report and Accounts 2006
+18  Share capital and other reserves (Group and Company)
+31.12.06 31.12.05
+£ £
+Authorised:
+Ordinary share capital:
+1,120,000,000 shares of 0.10p each (31 December 2005 – 1,120,000,000 shares of 0.10p each) 1,120,000 1,120,000
+1,200,000,000 deferred shares of 0.99p each (31 December 2005 – 1,200,000,000 shares of 0.99p each) 11,880,000 11,880,000
+Authorised share capital – total 13,000,000 13,000,000
+Allotted, called up and fully paid:
+Ordinary share capital:
+201,354,973 shares of 0.10p each (31 December 2005 – 130,354,973 shares of 0.1p each) 201,355 130,355
+674,978,300 deferred shares of 0.99p each (31 December 2005 – 674,978,300
+deferred shares of 0.99p each) 6,682,285 6,682,285
+6,883,640 6,812,640
+Allotted and called up ordinary share capital:
+Ordinary share capital:
+1,450,000 shares of 0.10p (31 December 2005 – 1,450,000 shares of 0.1p) 1,450 1,450
+14,500,000 deferred shares of 0.99p each (31 December 2005 – 14,500,000 shares of 0.99p each) 143,550 143,550
+145,000 145,000
+Called up share capital – total 7,028,640 6,957,640
+Share
+Share Premium Merger Other
+capital Account Reserve Reserve
+££££
+Movement in the year
+At 1 January 2006 as previously reported 6,957,640 39,654,069 1,885,533 1,435,144
+Prior year adjustment (Note 24) – – – (80,419)
+At 1 January 2006 restated 6,957,640 39,654,069 1,885,533 1,354,725
+Shares issued in the period 71,000 12,709,000 – –
+Share issue costs – (659,324) – –
+Share compensation charge – – – 781,296
+At 31 December 2006 7,028,640 51,703,745 1,885,533 2,136,021
+The following ordinary shares of 0.10p each were issued during the year for cash consideration:
+Date Number Consideration
+11 July 2006 71,000,000 18p
+On 25 July 2005 the Company’s issued and unissued ordinary shares of 1p each in the share capital of the Company were
+subdivided into 1 ordinary share of 0.01p each and 1 deferred share of 0.99p each. On 30 September 2005, a special resolution
+was passed by shareholders consolidating the ordinary shares of 0.01p each in the share capital of the Company into ordinary
+shares of 0.10p each on the basis of 1 ordinary share of 0.10p for every 10 ordinary shares of 0.01p each. The deferred shares have
+no dividend or voting rights. Notes forming part of the financial statements
+continued
+Osmetech Annual Report and Accounts 2006 35
+18  Share capital and other reserves (Group and Company) continued
+Warrants
+The Company had warrants outstanding as follows:
+Number of ordinary shares
+under warrant as at Subscription
+Date 31.12.06 31.12.05 Price Exercisable between
+26 July 2005 7,811,428 7,811,428 17.5p 27 July 2005 to 26 July 2010
+7,811,428 7,811,428
+The warrants were issued to Motorola Inc as consideration for the acquisition of Clinical Micro Sensors Inc. They are exercisable by
+Motorola Inc (in whole or in part) at any time prior to the close of business on 26 July 2010. Any exercise of subscription rights
+must be accompanied by remittance for the subscription price.
+An agreement has been reached, post year end, to buy back these warrants, as disclosed in note 27.
+19  Share based payments
+The Company has granted options under the Osmetech plc Enterprise Management Incentive Plan (“EMI Plan”), the Osmetech
+plc 2003 US Equity Compensation Plan (“US Plan”) and Long Term Incentive Awards (“LTIP’s”) and has entered into individual
+option agreements and unapproved options as follows:
+1. EMI Plan:
+Number of ordinary shares
+under option as at Subscription
+Date 31.12.06 31.12.05 Price Exercisable between
+17 September 2002 75,000 75,000 17.5 p 17 December 2002 and 17 September 2012
+24 February 2003 142,601 142,601 23.9 p 17 December 2003 and 24 February 2013
+13 October 2004 – 1,175 93.6 p 13 October 2004 and 30 July 2011
+2 September 2005 987,644 987,644 0.10p 2 October 2005 and 2 September 2015
+1,205,245 1,206,420 Notes forming part of the financial statements
+continued
+36 Osmetech Annual Report and Accounts 2006
+19  Share based payments continued
+2. US Plan:
+Number of ordinary shares
+under option as at Subscription
+Date 31.12.06 31.12.05 Price Exercisable between
+1 April 2003 1,825,000 2,100,000 23.3p 1 April 2004 and 1 April 2013
+3 August 2005 2,600,000 2,870,000 19.25p 3 August 2006 to 3 August 2015
+29 August 2005 – 275,000 19.25p 29 August 2006 to 29 August 2015
+7 September 2005 – 50,000 19.25p 7 September 2006 to 7 September 2015
+26 September 2005 25,000 25,000 18.10p 26 September 2006 to 26 September 2015
+5 October 2005 500,000 500,000 17p 5 October 2006 to 5 October 2015
+24 October 2005 25,000 25,000 14.75p 24 October 2006 to 24 October 2015
+1 November 2005 515,000 540,000 14.25p 1 November 2006 to 1 November 2015
+7 November 2005 – 50,000 17.5p 7 November 2006 to 7 November 2015
+14 November 2005 – 25,000 20.5p 14 November 2006 to 14 November 2015
+2 December 2005 100,000 100,000 24.25p 2 December 2006 to 2 December 2015
+8 December 2005 170,000 170,000 22.75p 8 December 2006 to 8 December 2015
+24 March 2006 2,810,000 – 22.25p 24 March 2007 to 24 March 2016
+27 March 2006 35,000 – 22.50p 27 March 2007 to 27 March 2016
+18 May 2006 50,000 – 22.25p 18 May 2007 to 18 May 2016
+21 June 2006 780,000 – 18.50p 21 June 2007 to 21 June 2016
+5 July 2006 970,000 – 21.25p 5 July 2007 to 5 July 2016
+10 August 2006 110,000 – 18.75p 10 August 2007 to 10 August 2016
+5 October 2006 250,000 – 16.50p 5 October 2007 to 5 October 2016
+28 November 2006 150,000 – 25.00p 28 November 2007 to 28 November 2016
+10,915,000 6,730,000
+3. Individual Option Agreements:
+Number of ordinary shares
+under option as at Subscription
+Date 31.12.06 31.12.05 Price Exercisable between
+25 September 1998 111,700 111,700 20p 21 October 2001 and 21 October 2008
+26 April 2000 135,000 135,000 262.5p 26 April 2003 and 26 April 2010
+20 March 2001 25,000 25,000 110p 1 March 2004 and 20 March 2011
+20 March 2001 75,000 75,000 110p 20 March 2004 and 20 March 2011
+29 January 2002 100,000 100,000 127.5p 29 January 2005 and 29 January 2012
+24 February 2003 4,500 4,500 23.9p 24 February 2004 and 24February 2013
+13 October 2004 76,375 76,375 34p 13 October 2004 and 22 November 2008
+527,575 527,575
+4. Unapproved Options:
+Number of ordinary shares
+under option as at Subscription
+Date 31.12.06 31.12.05 Price Exercisable between
+2 September 2005 2,858,509 2,858,509 0.10p 2 October 2005 to 2 September 2015
+2,858,509 2,858,509 Notes forming part of the financial statements
+continued
+Osmetech Annual Report and Accounts 2006 37
+19  Share based payments continued
+5. LTIP’s:
+Number of ordinary shares
+under option as at Subscription
+Date 31.12.06 31.12.05 Price Exercisable between
+2 September 2005 14,498,544 14,498,544 0.10p 3 September 2005 to 2 September 2015
+14,498,544 14,498,544
+Employee participation in these schemes is at the discretion of the Remuneration Committee or senior management of the
+Company. Share options granted under LTIPs, EMI Plan and Unapproved Options dated 2 September 2005 are exercisable at a
+price of 0.1 pence per share subject to the achievement of specific non-market based performance criteria. For LTIPs, exercise is
+also subject to the achievement of share price targets. All other options are exercisable at a price equal to equal to the average
+quoted market price of the Company’s shares on the date of grant and generally vest between 1 and 3 years.
+Options are generally exercisable for a period up to 10 years after grant and are forfeited if the employee leaves the group before
+the options vest. At 31 December 2006 all options are equity-settled. Following the sale of the Company’s Critical Care Division
+(“CCD”) on 31 January 2007, the US Plan was amended to allow the Company to cash settle options held by CCD employees
+leaving the Group (“CCD Options”). For those option holders wishing to exercise and immediately sell their shares, the Company
+intends to cash settle any appreciation in value calculated on the difference between the closing bid price of an Osmetech share
+on the date of exercise and the related exercise price. At 31 December 2006, the CCD Options totalled 5,055,000 (2005 –
+2,600,000) and have an exercise period expiring on 31 December 2007.
+Equity settled share-based payments are measured at fair value at the date of grant. The fair value determined at the date of grant
+of equity settled share-based payments is expensed on a straight-line basis over the vesting period, based on the Group’s
+estimate of shares that will eventually vest.
+The fair value of the LTIPs is measured by use of a binomial model. The Black Scholes model is used to determine the fair value of
+other options. The models include adjustments, based on management’s best estimate, for the effects of exercise restrictions and
+behavioural considerations. The option life is derived by the models based on these assumptions and other assumptions identified
+below. Expected volatility is calculated using an analysis of volatility over an historical 3 year period.
+The total expense included within operating loss in respect of share-based payments was £781,000 (8 months ended 31 December
+2005 – £432,000).
+Details of the share options outstanding are as follows:
+12 months ended 31.12.06 LTIPs, EMI Plan and Unapproved Other options (exercise price Other options (exercise price
+Options dated 02.09.05 at or below 25 pence per share) above 25 pence per share)
+Weighted Weighted Weighted
+average average average
+Number exercise price Number exercise price Number exercise price
+of options (pence) of options (pence) of options (pence)
+Outstanding at beginning of period 18,344,697 0.10 7,063,801 20.13 412,550 149.86
+Granted during the period – – 5,230,000 21.24 – –
+Forfeited during the period – – (1,045,000) 20.36 (1,175) 34.00
+Exercised during the period ––––––
+Expired during the period ––––––
+Outstanding at end of period 18,344,697 0.10 11,248,801 20.62 411,375 150.19
+Range of prices 0.10 14.25 – 24.25 34.00 – 262.50
+Contractual remaining life 8.67 years 8.48 years 3.70 years
+Exercisable at end of period 3,846,153 0.10 3,470,468 21.30 411,375 150.19 Notes forming part of the financial statements
+continued
+38 Osmetech Annual Report and Accounts 2006
+19  Share based payments continued
+8 months ended 31.12.05 LTIPs, EMI Plan and Unapproved Other options (exercise price Other options (exercise price
+Options dated 02.09.05 at or below 25 pence per share) above 25 pence per share)
+Weighted Weighted Weighted
+average average average
+Number exercise price Number exercise price Number exercise price
+of options (pence) of options (pence) of options (pence)
+Outstanding at beginning of period – – 6,711,053 23.06 893,753 86.56
+Granted during the period 18,344,697 0.10 4,630,000 18.62 – –
+Forfeited during the period – – (4,277,252) 23.08 (481,203) 32.29
+Exercised during the period ––––––
+Expired during the period ––––––
+Outstanding at end of period 18,344,697 0.10 7,063,801 20.13 412,550 149.86
+Range of prices 0.10 14.25 – 25.00 34.00 – 262.50
+Contractual remaining life 9.67 years 8.75 years 4.70 years
+Exercisable at end of period 769,231 0.10 1,733,801 22.89 412,550 149.86
+For those share options granted in the period, the assumptions (including revisions thereto in relation to LTIPs) used in the
+calculation of the fair values were as follows:
+12 months ended 31.12.06 8 months ended 31.12.05
+LTIPs Other options LTIPs Other options
+Vesting period (years) 42 2.5 1.36
+Expected volatility (%) 69.9 58.5 69.9 69.9
+Expected life (years) 43 4 3.45
+Risk free rate (%) 4.14 4.62 4.14 4.19
+Expected dividend yield (%) 00 00
+Probability of achieving non-market based performance
+criteria (where applicable) (%) 50 100 70 100
+20  Profit and Loss Account (Group and Company)
+Group Company
+££
+At 1 January 2006 as previously reported (37,148,228) (31,531,818)
+Prior year adjustment (Note 24) 80,419 80,419
+At 1 January 2006 restated (37,067,809) (31,451,399)
+Loss for the period (11,952,918) (1,840,809)
+Exchange gain on consolidation (901,680) –
+At 31 December 2006 (49,922,407) (33,292,208) Notes forming part of the financial statements
+continued
+Osmetech Annual Report and Accounts 2006 39
+21  Reconciliation of movements in equity shareholders’ funds
+31.12.06 31.12.05
+Restated
+Group Company Group Company
+££ ££
+Loss for the period (11,952,918) (1,840,809) (5,144,370) (1,467,667)
+Other recognised losses relating to the year/period (901,680) – 370,553 –
+New share capital subscribed including premium 12,120,676 12,120,676 10,291,875 10,291,875
+Share compensation charge 781,296 781,296 512,000 512,000
+Warrants issued –– 923,144 923,144
+Net increase/decrease in equity shareholders’ funds 47,374 11,061,163 6,953,202 10,259,352
+Opening equity shareholders funds as previously stated 12,784,158 18,400,568 5,911,375 8,221,635
+Prior year adjustment (Note 24) –– (80,419) (80,419)
+Opening equity shareholders funds as restated 12,784,158 18,400,568 5,830,956 8,141,216
+Closing equity shareholders funds as restated 12,831,532 29,461,731 12,784,158 18,400,568
+22  Commitments
+At the balance sheet date the Group had annual commitments under noncancellable operating leases as set out below:
+31.12.06 31.12.05
+Land and Land and
+buildings Other buildings Other
+££ ££
+Operating leases which expire:
+Within one year – 15,395 ––
+Between two and five years 777,852 48,406 859,749 35,200
+Over five years –– ––
+777,852 63,801 859,749 35,200
+23  Related party transactions
+The Company has taken advantage of the exemption not to disclose transactions with other Group undertakings as voting rights
+are controlled within the Group and consolidated financial statements are publicly available.
+No director was, or is, materially interested in any contract subsisting during, or at the end of the financial year which was
+significant in relation to the business of the Group. Notes forming part of the financial statements
+continued
+40 Osmetech Annual Report and Accounts 2006
+24  Prior year adjustment
+As a result of adopting FRS 20 “Share based Payments”, the balance sheet has been restated to reflect the impact of equity
+settled share based compensation plans. The effects of this change in accounting policy on the financial statements are disclosed
+below:
+Per 2005 Restated 2005
+Financial FRS 20 financial
+statements adoption statements
+£££
+Group
+Profit and loss account
+Operating loss (5,600,955) 80,419 (5,520,536)
+Net finance income 190,769 – 190,769
+Taxation 185,397 – 185,397
+Loss for the period transferred from reserves (5,224,789) 80,419 (5,144,370)
+Balance sheet
+Fixed assets 3,514,715 – 3,514,715
+Current assets 11,945,844 – 11,945,844
+Creditors: amounts falling due within one year (2,676,401) – (2,676,401)
+Net assets 12,784,158 – 12,784,158
+Called up share capital 6,957,640 – 6,957,640
+Share premium account 39,654,069 – 39,654,069
+Merger reserve 1,885,533 – 1,885,533
+Other reserve 1,435,144 (80,419) 1,354,725
+Profit and loss account (37,148,228) 80,419 (37,067,809)
+12,784,158 – 12,784,158
+25  Pension costs
+The Company makes contributions into money purchase pension schemes for the benefit of its employees. The assets of the
+schemes are held separately from those of the Company in independently administered funds. The pension cost charge represents
+contributions payable and paid by the Company to the funds, and amounted to £250,473 for the year (8 months ended 31
+December 2005 – £133,753). At 31 December 2006, the Company had £33,450 of unpaid pension contributions (31 December 2005
+– £7,900).
+26  Financial instruments
+The numerical disclosures in this note deal with financial assets and financial liabilities as defined in Financial Reporting Standard
+13 (FRS 13) and Financial Reporting Standard 25 (FRS 25)– “Derivatives and Other Financial Instruments: Disclosures”. Certain
+financial assets such as investments in subsidiaries are excluded from the scope of these disclosures.
+As permitted by FRS 13 and FRS 25, short-term debtors and creditors have been excluded from the disclosures other than the
+currency risk disclosures.
+There is no material difference between the fair values and book values of the Group’s financial instruments, either in the current or
+prior year.
+The Group’s treasury activities are designed to provide suitable, flexible funding arrangements to satisfy its requirements. The
+Group uses financial instruments comprising cash and term deposits. The main risks arising from the Group financial instruments
+are interest rate and liquidity risks. The Board reviews policies for managing each of these risks and they are summarised below.
+These policies have remained unchanged from previous years. Notes forming part of the financial statements
+continued
+Osmetech Annual Report and Accounts 2006 41
+26  Financial instruments continued
+The Group aims to achieve a balance between continuity and flexibility of funding by maintaining a range of maturities on its liquid
+resources. The Group also mixes the duration of its deposits to reduce the impact of interest rate fluctuations.
+The Group has limited foreign currency risk since overseas subsidiaries derive revenues and incur expenses denominated
+predominantly in the currencies of the countries in which they operate. All monetary assets and liabilities of the Group are materially
+denominated in the operating or functional currency of the operating unit involved.
+There is no material difference between the fair values and book values of the Group’s financial instruments.
+Interest bearing financial assets
+Functional currency of operations
+31.12.06 31.12.05
+Group Sterling US Dollar Euro Group Sterling US Dollar Euro
+££££ ££££
+Cash 1,403,085 368,640 957,108 77,337 907,177 412,109 370,735 124,333
+Term Deposits 5,686,021 1,900,000 3,786,021 – 6,300,000 6,300,000 – –
+7,089,106 2,268,640 4,743,129 77,337 7,207,177 6,712,109 370,735 124,333
+The sterling and US dollar cash balances attract interest at floating rates based on the Bank of England Base rate and US Prime
+Rate respectively.
+The term deposits are of 34 day’s duration, at a weighted average fixed rate of 4.87% (31 December 2005 – 1 month’s duration,
+4.55%).
+27  Post Balance Sheet Events
+Sale of Critical Care Division
+As noted on pages 2 and 3, the Critical Care Division was sold on 31 January 2007 for a cash sum of $44,900,000 before costs. The
+gain on disposal will be accounted for in the 12 months ended 31 December 2007.
+Cancellation of Warrants
+On 20 March 2007, the Company acquired 7,811,428 warrants previously held by Motorola, Inc. (“Motorola”). The warrants were
+originally issued to Motorola in consideration for Osmetech’s acquisition of Clinical Micro Sensors Inc. which was completed in July
+2005. The warrants entitled Motorola to subscribe for up to 7,811,428 ordinary shares of 0.1 pence each in the capital of Osmetech
+(representing 3.85% of the current issued share capital) at a price of 17.5 pence per share at any time up to 26 July 2010.
+Osmetech has, in return for the cancellation of the warrants, paid to Motorola a total of £468,686 which represents a price of six
+pence per warrant. 42 Osmetech Annual Report and Accounts 2006
+Notice of annual general meeting
+Notice is hereby given that the Annual General Meeting of Osmetech plc (the “Company”) will be held at the offices of Ashurst,
+Broadwalk House, 5 Appold Street, London EC2A 2HA on 3 May 2007 at 11.00 am for the purpose of considering and, if thought
+fit, passing the following resolutions:
+Ordinary Business
+1. To receive and consider the accounts for the 12 months ended 31 December 2006, together with the reports of the directors
+and auditors thereon.
+2. To elect B A Huebner as a director.
+3. To re-elect G J Hall as a director.
+4. To re-elect G B Kuenster as a director.
+5. To re-appoint Deloitte & Touche LLP as auditors of the Company until the conclusion of the next annual general meeting and
+to authorise the directors of the Company to determine their remuneration.
+Special Business
+To consider, and if thought fit, to pass the following resolutions of which number 6 will be proposed as an ordinary resolution and
+numbers 7 and 8 will be proposed as special resolutions:
+6. That, the directors be and they are hereby generally and unconditionally authorised for the purposes of and pursuant to
+section 80 of the Companies Act 1985 (the “Act”) to exercise all the powers of the Company to allot relevant securities (within
+the meaning of section 80(2) of the Act) up to an aggregate nominal amount of £67,605 (representing 67,605,000 ordinary
+shares of 0.10p each) provided that this authority shall, unless renewed, varied or revoked, expire at the earlier of (A) 30 June
+2008 and (B) the conclusion of the next annual general meeting of the Company to be held in 2008 and provided further that
+the Company may before the expiry of such period make any offer, agreement or arrangement which would or might require
+relevant securities to be allotted after such expiry and the directors of the Company may allot relevant securities pursuant to
+any such offer, agreement or arrangement as if the authority hereby conferred had not expired.
+7. That, subject to the passing of Resolution 6 above, the directors of the Company be and they are hereby empowered to both
+allot equity securities (within the meaning of section 94(2) of the Act) of the Company for cash pursuant to the authority
+conferred by Resolution 6 above and to sell relevant shares (as defined in section 94(5) of the Act) held by the Company as
+treasury shares (as defined in section 94(3A) of the Act) (“treasury shares”) for cash (as defined in section 162D(2) of the Act) in
+each case as if section 89(1) of the Act did not apply to any such allotment or sale, provided that this power shall, unless
+renewed, varied or revoked, expire at the earlier of (A) 30 June 2008 and (B) the conclusion of the next annual general
+meeting of the Company to be held in 2008 and provided further that this power shall be limited to the allotment of equity
+securities for cash and the sale of treasury shares:
+(i) in connection with a rights issue, open offer or other pre-emptive issue in favour of ordinary shareholders where the
+equity securities respectively attributable to the interests of all ordinary shareholders are proportionate (as nearly as
+practical) to the respective numbers of ordinary shares held by them but subject to such exclusions or other arrangements
+as the directors may deem necessary or desirable in relation to fractional entitlements, treasury shares, record dates or
+legal or practical problems arising in, or pursuant to, the laws of any territory or the requirement of any regulatory body or
+stock exchange in any territory; and
+(ii) otherwise than pursuant to paragraph (i) above up to an aggregate nominal amount of £40,563 (representing 40,563,000
+ordinary shares of 0.10p each) and provided further that the Company may, at any time before the expiry of such power
+make any offer or enter into any agreement which would or might require equity securities to be allotted, or treasury
+shares to be sold after the expiry of such power and the directors may allot equity securities, or sell treasury shares, in
+pursuance of any such offer or agreement as if such power conferred hereby had not expired. Osmetech Annual Report and Accounts 2006 43
+Notice of annual general meeting
+continued
+8. That the Company is hereby generally and unconditionally authorised for the purposes of section 166 of the Act to make
+market purchases (within the meaning of section 163(3) of Act) of any of its ordinary shares of 0.10p each in the capital of the
+Company on such terms and in such manner as the directors of the Company may from time to time determine, and where
+such shares are held as treasury shares, the Company may use them for the purposes of its employee share schemes provided
+that:
+(i) the maximum number of ordinary shares which may be purchased is 20,281,500 representing approximately 10 per cent.
+of the issued ordinary share capital at 20 March 2007;
+(ii) the minimum price which may be paid for each ordinary share is 0.10p which amount shall be exclusive of expenses, if any;
+(iii) the maximum price which may be paid for each ordinary share is an amount equal to 105 per cent. of the average of the
+middle market quotations for the ordinary shares of the Company as derived from the AIM Appendix to the Daily Official
+List of the London Stock Exchange plc for the five business days immediately preceding the day on which such share is
+contracted to be purchased;
+(iv) unless previously renewed, revoked or varied, this authority shall expire at the earlier of (A) 30 June 2008 and (B) the
+conclusion of the annual general meeting of the Company to be held in 2008; and
+(v) under this authority the Company may make a contract to purchase ordinary shares which would or might be executed
+wholly or partly after the expiry of this authority, and may make purchases of ordinary shares pursuant to it as if this
+authority had not expired.
+By order of the Board Registered Office:
+S A Craig c/o Ashurst
+Secretary Broadwalk House
+5 Appold Street
+London EC2A 2HA
+29 March 2007
+NOTES:
+(1) A member of the Company may appoint one or more proxies to attend and, on a poll, to vote instead of the member. A proxy
+of a member need not also be a member.
+(2) The instrument appointing a proxy, and the power of attorney or other authority (if any) under which it is signed, or a notarially
+certified copy of that power or authority must be deposited with the Company’s Registrars, Capita Registrars, Proxy Processing
+Centre, Telford Road, Bicester, OX26 4LD. You may also deliver it by hand to The Registry, 34 Beckenham Road, Beckenham,
+Kent, BR3 4TU during normal business hours, not less than 48 hours before the time for holding the meeting. A form of Proxy
+accompanies this document for use by members.
+(3) Completion of the Form of Proxy will not preclude a member from attending and voting in person.
+(4) As permitted by Regulation 41 of the Uncertificated Securities Regulations 2001, only those holders of ordinary shares who are
+registered on the Company’s share register as at 11.00 am on 1 May 2007 shall be entitled to attend the Annual General
+Meeting and to vote in respect of the number of shares registered in their names at that time. Changes to entries on the share
+register after 11.00 am on 1 May 2007 shall be disregarded in determining the rights of any person to attend and/or vote at
+the Annual General Meeting.
+(5) The register of directors’ interests in the share capital of the Company, copies of service agreements under which the directors
+of the Company are employed and copies of terms and conditions of appointment of non-executive directors are available for
+inspection at the Company’s registered office during normal business hours from the date of the notice of this meeting until
+the date of the Annual General Meeting and will be available for inspection at the place of the Annual General Meeting for at
+least 15 minutes prior to and during the meeting. 44 Osmetech Annual Report and Accounts 2006 Please insert I/We
+full name
+(Please use block letters)
+and address of
+of
+being member(s) of the above-named company, hereby appoint the Chairman of the Annual General Meeting
+or (see note 1)
+as my/our proxy to vote for me/us and on my/our behalf at the Annual General Meeting of the Company to be held at the offices
+of Ashurst, Broadwalk House, 5 Appold Street, London EC2A 2HA on 3 May 2007 at 11.00 am and at any adjournment thereof.
+I/we request such proxy to vote on the following resolutions as mentioned below (see note 2)
+Signature (see note 3) Dated this day of 2007
+Joint holders (if any) (see note (5))
+Name Name 
+Name Name 
+NOTES:
+(1) If you wish to appoint some other person as your proxy please insert his/her name and address, initial and strike out the words “the Chairman of the Meeting”. A
+proxy need not be a member of the Company. Appointing a proxy will not preclude you from personally attending and voting at the meeting (in substitution for your
+proxy vote) if you subsequently decide to do so.
+(2) Please indicate with an “X” in the appropriate box how you wish your votes cast. Unless otherwise instructed the proxy will exercise his/her discretion as whether, and
+if so how he/she will vote. A withheld vote is not a vote in law and will not be counted in the calculation of votes.
+(3) This Form of Proxy must, in the case of an individual, be signed by the appointer or his/her attorney or, in the case of a corporation, be given under its common seal
+or signed on its behalf by an attorney or a duly authorised officer or, if it is subject to the Companies Act 1985 (as amended), in accordance with Section 36A thereof.
+(4) To be valid this Form of Proxy and any power of attorney or other authority under which it is executed (or a duly notarised copy thereof) must be lodged with the
+Registrars of the Company, Capita Registrars, Proxy Processing Centre, Telford Road, Bicester, OX26 4LD. You may also deliver it by hand to The Registry, 34
+Beckenham Road, Beckenham, Kent, BR3 4TU during normal business hours, not less than 48 hours before the time appointed for the meeting, or adjourned meeting
+at which it is to be used.
+(5) In the case of joint holders of a share the vote of the senior who tenders a vote whether in person or by proxy shall be accepted to the exclusion of the votes of the
+other joint holders and for this purpose seniority shall be determined by the order in which the names stand in the statutory register of members in respect of the
+share.
+(6) Any alteration in this Form of Proxy must be initialled by the person in whose hand it is signed or executed.
+Ordinary Business FOR AGAINST WITHHELD
+1. To receive and consider the accounts for the 12 months ended 31 December 2006,
+together with the reports of the directors and auditors thereon.
+2. To re-elect B A Huebner as a director.
+3. To re-elect G J Hall as a director.
+4. To re-elect G B Kuenster as a director.
+5. To re-appoint Deloitte & Touche LLP as auditors of the Company until the conclusion of
+the next annual general meeting and to authorise the directors of the Company to 
+determine their remuneration.
+Special Business
+6. To authorise the directors to allot shares of the Company up to a maximum
+amount of £67,605.
+7. To empower the directors to allot shares for cash on a pre-emptive basis and otherwise
+up to a maximum amount of £40,563.
+8. To authorise the Company to make market purchases of its ordinary shares up to
+a maximum number of 20,281,500 ordinary shares.
+Osmetech Annual Report and Accounts 2006 45
+✄
+OSMETECH plc: Proxy for use at annual general meeting BUSINESS REPLY Licence Number
+RRHB-RSXJ-GKCY
+Proxy Processing Centre
+Telford Road
+Bicester
+0X26 4LD
+2 2 2
+THIRD FOLD
+FIRST FOLD
+SECOND FOLD   Directors 
+Gordon J Hall (Non-Executive Chairman)
+James N G White (Chief Executive Officer)
+David A Sandilands (Chief Financial Officer)
+Gordon B Kuenster (Non-Executive)
+Bruce A Huebner (Executive)
+Secretary
+Sally A Craig
+Corporate Governance Standing Committees
+Audit Committee
+Gordon J Hall (Chairman)
+Gordon B Kuenster
+Remuneration Committee
+Gordon J Hall (Chairman)
+Gordon B Kuenster
+Correspondence address
+1 Liverpool Street
+London
+EC2M 7QD
+Tel: 020 7849 6027
+Fax: 020 7956 2001
+Registered office (not for correspondence)
+c/o Ashurst
+Broadwalk House
+5 Appold Street
+London EC2A 2HA
+Website: http://www.osmetech.com
+Registered number
+2849544
+Stockbroker and Financial Advisor 
+Hoare Govett Limited
+250 Bishopsgate
+London
+EC2M 4AA
+Auditors
+Deloitte & Touche LLP
+PO Box 500
+2 Hardman Street
+Manchester
+M3 3HF
+Solicitors
+Ashurst
+Broadwalk House
+5 Appold Street
+London
+EC2A 2HA 
+Registrars and transfer office
+Capita Registrars
+Northern House
+Woodsome Park 
+Fenay Bridge
+Huddersfield
+HD8 0LA
+Tel: 0870 162 3131
+Principal banker
+National Westminster Bank plc
+41 Greengate Street
+Stafford
+ST1 2JD
+Directors and advisers xx    Osmetech Annual Report 2004  

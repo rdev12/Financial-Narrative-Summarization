@@ -1,0 +1,107 @@
+ WANDISCO AT A GLANCE
+DATA SYNCHRONISED 
+ACROSS THE WORLD
+36
+new customers
+Our products are differentiated by patented, active-active data replication technology, meeting 
+crucial continuous availability requirements for both Big Data and ALM. We eliminate the costs 
+of data loss, downtime and recovery.
+Big Data
+WANdisco’s patented active-active replication 
+technology enables 100% uptime for global 
+multi-data centre deployments of Hadoop 
+and other data platforms. Access and 
+analyse data anywhere, with the same 
+data available at every location.
+ALM
+The only products that allow widely 
+distributed software development teams 
+using Subversion and Git open source 
+code development tools to collaborate 
+as if they were all in the same location 
+without downtime or data loss.
+WANdisco Fusion platform Subversion and Git
+FUSION HYBRID 
+CLOUD
+Extend your 
+data centre
+FUSION ACTIVE 
+BACKUP
+No data loss
+FUSION ACTIVE DR
+100% availability
+FUSION ACTIVE 
+MIGRATION
+No disruption
+FUSION SDK
+Replicate anything
+FUSION ACTIVE 
+HBASE DR
+Always-on HBASE
+GIT MULTISITE
+Replicated 
+Git services
+ACCESS 
+CONTROL PLUS
+Global access 
+control and audit 
+across SVN and Git
+GERRIT MULTISITE 
+Replicated 
+Gerrit services
+Data  
+replication
+at the heart of our  
+business
+SVN MULTISITE PLUS
+Replicated Subversion 
+services
+Why do companies 
+choose WANdisco?
+Our patented active-active 
+replication technology provides 
+a range of performance and 
+consistency benefits.
+1. Continuous availability
+Removes the bottleneck of a single active 
+store of essential data across data centres, 
+and enables local speed read/write at any 
+global location without downtime or data 
+loss – even during upgrades and maintenance.
+2. 100% utilisation
+Eliminates read-only backup servers 
+by making all servers fully readable 
+and writeable, to take full advantage 
+of the hardware at each location.
+Non-stop replication 24/7/365
+WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 04 4
+patents awarded, 3 pending
+1,000
+support queries solved 
+per year
+87%
+ALM subscription 
+renewal rate
+137
+expanded or 
+renewed contracts
+3. Cluster zoning
+Delegates the most resource-intensive 
+data load and applications to high-spec 
+servers while running less critical batch 
+applications on commodity servers. 
+Eliminates the need for costly hardware.
+4. Multi-data centre ingest
+Ingests data at any number of locations 
+simultaneously, automatically replicates 
+where chosen and enables analysis from 
+anywhere with no single point of failure. 
+5. Selective replication
+Replicates only the specific data 
+required or permitted by regulations. 
+Across several locations, we have architects, engineers and technologists who are among 
+the best in the industry.
+Key Big Data customers Key ALM customers
+Supporting our key customers on a global scale
+WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 05
+OVERVIEW

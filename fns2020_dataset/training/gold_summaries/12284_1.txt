@@ -1,0 +1,661 @@
+ Plasmon Plc
+Annual Report 2003
+Chief Executive’s Review
+6
+2002/3 has been another challenging
+year for Plasmon with difficult economic
+conditions and the continuing decline 
+in our business with IBM depressing
+overall revenues from £61 .6m to £60. 1 m.
+In contrast to the disappointing trading
+performance, our UDO development
+programme made excellent progress in
+2002/3 and we completed successfully
+the transfer of our library business from
+Minneapolis to Colorado Springs.
+Chief Executive’s Review
+Nigel Street
+Chief Executive Plasmon Plc 
+Annual Report 2003
+Chief Executive’s Review
+7
+1 999 2000 2002
+49.9
+70.3
+69.1
+70
+60
+50
+40
+30
+20
+10
+0
+61.6
+2003
+60.1
+0.3
+4.1 4.2
+6.3
+3.4
+(Loss)/profit before tax £ million
+4
+2
+0
+-2
+-4
+-6
+-8
+-10
+2001
+1 999 2000 2002 2003 2001
+T urnover £ million In the first half of 2002/3, the Group
+returned to modest growth with revenues
+3% ahead at £30.1m. As we experienced
+last year , our European operations
+performed better than our business in the
+US where economic conditions remained
+difficult. In the final quarter of 2002/3 our
+US business was further impacted by
+events in the Middle East, and coupled
+with a 10% movement in the average £:$
+exchange rate our overall second half
+revenues declined 7% from the previous
+year . Since the cessation of hostilities we
+are seeing increasing signs of activity in
+the US, but we remain cautious about the
+timing of any upturn in business. In
+contrast, our European business grew
+17% in 2002/3 and we expect to make
+further progress in the coming year .
+In light of the difficult trading conditions
+our US reorganisation has proved both
+timely and extremely necessary. The
+reorganisation was finally completed in
+September 2002 when the last library
+engineers left our Minneapolis engineering
+operation. These engineers were retained
+for six months longer than the
+manufacturing group to complete the new
+Enterprise DVD library range that we
+developed specifically for our major
+medical imaging customers such as
+Siemens Medical. From a peak of some
+314 US employees in 2001, the US
+reorganisation programme reduced the
+headcount to 225 by April 2003. In
+addition, we reduced our European
+headcount by some 20 employees as part
+of our overall cost control programme.
+In 2002/3 our overall product mix remained
+broadly constant and, in line with the sales
+shortfall, our gross margins declined
+slightly to 36.3% from 36.7% the previous
+year . Following our reorganisation,
+operating expenses before UDO
+development expenditure, goodwill
+amortisation and exceptional costs fell by
+£2.0m to £16.4m. At the adjusted pre-tax
+level we achieved a profit of £4.7m
+compared to the £3.7m we achieved the
+previous year . At the pre-tax level we
+significantly reduced our full year loss to
+£3.4m from £6.3m, after goodwill
+amortisation of £1.1m and the final £0.5m
+of US reorganisation costs.
+UDO development expenditure increased
+by 24% to £6.5m in 2002/3 as we entered
+the final development phase of the drive
+and media. The increased expenditure
+was slightly ahead of our original
+expectations and reflected additional
+costs in reworking ASIC parts and the
+consequent increase in quick-turn
+prototype costs to keep the project on
+schedule. In addition to fully expensed
+development costs of £6.5m, we invested
+a further £3.9m in capital equipment in
+2002/3 as the UDO media production
+facility in Melbourn neared completion.
+Despite maintaining significant levels of
+investment in 2002/3, our year-end gearing
+remained comfortable at 34% compared
+to 24% the previous year .
+In March 2003 we secured new £7m
+banking facilities with Venture Finance Plc,
+the UK structured finance subsidiary of
+ABN Amro. These new financing
+arrangements have increased our
+immediate liquidity by some £3.4m and
+will provide sufficient funding to
+complete UDO development and enter
+volume production. Plasmon Plc
+Annual Report 2003
+Chief Executive’s Review
+8
+UDO Development
+Ultra Density Optical (‘UDO’) is the next
+generation of 5.25" drives and media that we
+are developing to succeed the existing
+9.1GB MO products we source from Sony .
+UDO employs the latest blue laser
+technology that provides an increased 30GB
+capacity and a five-fold decrease in
+incremental storage cost over existing MO
+systems. Since commencing development
+in 1999 we have worked closely with HP on
+the project and expect them to become the
+major OEM customer for UDO technology .
+Since the successful demonstration of
+working drives at Comdex last November ,
+we have continued to make good progress
+with our UDO development programme and
+are now reading and writing data reliably in
+form-factor drives. The final phases of the
+development are now underway and involve
+manufacturing increasingly large batches of
+prototype drives and media to de-bug the
+system fully and maximise performance
+and reliability.
+The UDO drive employs four ASIC chips that
+have been specifically designed by Plasmon
+and our development partners. Successful
+development of these ASICs represented
+one of the major risks in the UDO
+programme but three of them are now
+complete and fully tested. The final Optical
+Disc Controller (ODC) chip has exhibited
+some speed limitations during testing but a
+revised design has now been released to
+fabrication which should solve the
+outstanding issues. Our total capital
+investment in the ASICs will be some £3m
+but they are critical to achieving the low
+volume production costs that will allow UDO
+to compete effectively in the market. 
+Another area of significant risk in the UDO
+programme was the availability of blue lasers
+UDO optical media will be
+manufactured in Cambridge and
+will be available in both write-once
+and rewritable formats  Plasmon Plc 
+Annual Report 2003
+Chief Executive’s Review
+9
+from Nichia, our Japanese supplier . In
+December 2002 Nichia announced a new
+agreement to collaborate with Sony on blue
+laser development for use in Sony’ s ‘Blu-ray’
+consumer video products. Nichia also
+informed Plasmon that due to yield problems
+with their existing laser , they were moving to
+a revised laser design employing elements of
+Sony technology . W e have now successfully
+integrated the new lasers into our UDO
+drives and we are confident that their
+performance and reliability will comfortably
+exceed our requirements.
+The opto-mechanical assembly (‘OMA ’) for
+the UDO drive is being developed by Pentax,
+the leading Japanese optical technology
+company . The hard tooling for the OMA is
+now complete and we are currently
+integrating production quality units into our
+prototype drives. Our working relationship
+with Pentax continues to be excellent and we
+have recently despatched one of our
+Japanese speaking engineers to Japan for
+18 months to help transition the OMA to a
+low cost volume production facility .
+UDO media development is also making
+good progress and we now have the majority
+of the disk manufacturing equipment
+installed at our facility in Melbourn. The new
+cleanroom is fully commissioned and when
+complete the production line will have a total
+capacity of some 80,000 write-once and
+rewritable UDO disks per month.
+Development of the phase change recording
+layers for UDO media is proceeding well and
+the specification of the write-once disk is
+now finalised for volume production. This will
+employ a four layer structure based on phase
+change technology licenced from Kodak that
+we also use on our existing 12-inch optical
+disk products. W e are therefore very familiar
+with the manufacturing process for this
+material and are confident a high yield
+process will be achieved.
+The rewritable phase change disk is in its final
+testing phase and will employ an eight layer
+structure to optimise rewrite cycle
+performance, environmental longevity and
+manufacturability . In January 2003 we signed
+a licence agreement with Mitsubishi
+Chemical Media (‘MCM’) for their patents
+and technologies for improving rewrite cycle
+and cross erase performance in phase
+change rewritable media. Using MCM’ s
+technology we have already exceeded the
+UDO specification of 10,000 rewrite cycles
+and with further optimisation, believe that
+25,000 cycles may be achievable.
+MCM are the world’ s largest optical disk
+manufacturer and as well as first class
+technical know-how , they have an excellent
+quality reputation with the major OEM
+customers such as HP and IBM. W e
+continue to work closely with HP on their
+UDO plans and as they move towards UDO
+endorsement they are pressing MCM to be
+the second source media manufacturer .
+Major partners such as HP and MCM will be
+critical in establishing UDO as the de-facto
+standard in professional optical storage and
+we continue to use every effort to secure
+their endorsement of UDO.
+Having established the UDO media
+production facility and commenced trial
+production runs, we are now working on
+improvements to the 0.1mm cover layer
+process to reduce volume production costs.
+W e have recently approved a European
+supplier of optical grade 0.1mm film that has
+reduced our material costs by some 75%
+over Far East suppliers. In addition, we are
+also working on a new liquid spin coating
+technique that is now providing excellent
+uniformity and will dramatically reduce future
+production costs.
+The media cartridge is an important
+component in the overall robustness and
+reliability of UDO technology and has been
+an area of intense focus over the last year .
+W e have recently taken delivery of initial
+samples from the final production tooling and
+are now working with Dai-Nippon, our
+Japanese supplier , to move volume
+production to China to minimise long term
+cartridge manufacturing costs.
+Overall, the UDO development programme
+is progressing well and we are on schedule
+to make initial product deliveries in
+September 2003. As expected, UDO’ s
+common technology base with consumer
+Blu-ray products continues to provide
+technology leverage opportunities and will
+ensure our long-term manufacturing costs
+remain competitive.
+5.25" 42%
+12" 33%
+CD/DVD 11%
+Consultancy 7%
+L TO tape 2%
+Other 5%
+Plasmon product mix 2003
+5.25" 43%
+12" 38%
+CD/DVD 5%
+Consultancy 6%
+L TO tape 2%
+Other 6%
+Plasmon product mix 2002 Plasmon Plc
+Annual Report 2003
+Chief Executive’s Review
+10
+UDO launch plans
+In addition to the drive and media
+development programme, during the past
+year we have invested considerable time
+and resources on our UDO launch plans.
+We successfully recruited new marketing
+leadership in both the US and Europe and
+are now adding business development
+resources specifically focused on UDO to
+our sales and marketing teams.
+The launch programme for UDO initially
+focused on trade shows and started with
+the first demonstration of working UDO
+drives at Comdex in November 2002. We
+also demonstrated the products at the
+AIIM show in New Y ork and Cebit in
+Hanover , which is the largest IT trade show
+in Europe. In addition to the product
+demonstrations, we also presented a
+series of seminars that explained UDO
+technology and its positioning in the
+overall storage market. We received a
+considerable level of interest from these
+initial activities and UDO is now well
+known in the storage industry.
+We are now commencing the second
+phase of our launch activities with a
+technical conference for third party
+software vendors to enable them to
+understand the technology and integrate it
+into their software applications. We are
+also planning a series of press and media
+tours later in the year to generate general
+awareness of UDO and increase its
+exposure as we move into initial
+production shipments.
+The final element of our UDO launch plan
+has focused on potential OEM customers
+and our efforts to educate them and
+support their integration activities. The
+overall response to UDO has been
+excellent and we believe the superior cost-
+UDO drives will be manufactured 
+in our Colorado Springs facility and
+will have an initial capacity of
+30GB. Future generations of UDO
+products will have capacities of 60
+and 120GB Plasmon Plc 
+Annual Report 2003
+Chief Executive’s Review
+11
+performance benefits of the technology
+should attract significant OEM
+endorsement over the coming months. 
+Storage market overview
+The storage market continues to be a
+significant portion of the overall IT market
+and the revenue declines of the last few
+years stabilised in 2002/3. Storage
+technology is now entering a period of
+significant change that will provide a
+number of opportunities and challenges
+for Plasmon in the near future.
+The drive towards networked storage
+continues to gather momentum with the
+goal of eradicating ‘islands of information’
+and making all data available across the
+enterprise. Networked storage is therefore
+driving the requirements for storage area
+networks (‘SAN’) and network attached
+storage (‘NAS’) solutions and the
+consequent need for Plasmon’s optical
+library solutions to integrate seamlessly
+into these environments.
+Another important development in the
+storage market last year was the arrival of
+cheap, high performance Serial-A T A hard
+disk drives. Due to their low cost, these
+products are now being promoted in 
+disk-to-disk back-up solutions that are
+challenging the traditional market for 
+back-up using tape libraries. In addition, the
+low-end tape library market largely moved
+to a commodity model last year with the
+large PC brands beginning to promote
+products directly to the end user , bypassing
+traditional storage hardware channels.
+From Plasmon’s perspective, the most
+important development in the storage
+market has been the recognition of the
+importance of secure archival storage
+following the high profile corporate and
+securities fraud cases in the US last year .
+There are now growing compliance
+regulations in most industry sectors to
+mandate how electronic records must be
+archived. These regulations are driving
+strong interest in data archival products
+such as UDO. These developments have
+also attracted the attention of traditional
+hard disk vendors such as EMC and
+Network Appliance, who are offering
+Serial-A T A disk based solutions with
+enhanced software to prevent data
+deletion as an alternative to traditional
+write-once optical archive solutions.
+These changes and developments in the
+storage market are generally very
+beneficial for Plasmon as we launch our
+UDO archive solutions in the coming year .
+However , the downside is in our tape
+business where we expect revenue growth
+to remain difficult in a market under severe
+margin pressure. In addition, the trend
+towards networked storage solutions will
+require updating of Plasmon’s NAS
+connectivity offerings to improve the ease
+of deployment of our UDO products.
+5.25" T echnology
+Over the past few years, our sales of 5.25"
+optical libraries to IBM have declined by
+some 60% as they continue to sell last
+generation 5.2GB write-once solutions
+and have not adopted the latest 9.1GB
+technology. In December 2002 we signed
+a new contract with IBM to provide native
+support for Plasmon libraries on their
+iSeries (AS400) server platforms. In the
+future, this new agreement will enable
+Plasmon to sell UDO libraries directly to
+the IBM customer base to replace sales of
+the previous generation products we
+currently supply to IBM on an OEM basis.
+Plasmon brand channel sales of 5.25"
+products continued to grow last year but
+failed to make up the IBM shortfall. Overall
+sales of 5.25" technology declined some
+6% to £24.9m as cheaper DVD solutions
+increased their market penetration but we
+also increased our market share in 5.25"
+libraries at the expense of Hewlett
+Packard. Our strengthening position 
+will serve as an ideal launch point for 
+UDO solutions in 2003 when we expect
+the increased capacity and fivefold
+decrease in incremental cost of UDO 
+will drive renewed growth in our core 
+5.25" business.
+During the past year we continued to migrate
+customers to our new G-Series range of
+5.25" libraries and away from the older 
+M-Series products. We now plan to end of
+life the M-Series at the end of 2003 which
+is also planned to be the last shipment date
+for the IBM 3995 variant of the product.
+In late 2002 our automation engineering
+team in Colorado Springs commenced
+development of a new range of entry level
+G-Series libraries. These products will
+have capacities from 24 to 180 cartridges
+and provide market leading features at a
+lower cost than our existing products. 
+First shipments are scheduled to coincide
+with initial UDO shipments in September
+2003 and we are already seeing strong
+OEM interest in the cost/performance
+attributes of the new range. The new
+products have also been designed to
+accommodate our next generation NAS
+hardware internally to provide integrated
+network storage solutions.
+The market for 5.25" products has been 
+in slow decline in recent years as lower
+cost DVD solutions have emerged.
+However , UDO will redress this cost
+disadvantage and we expect some major
+OEM’s to endorse the technology in 2003,
+which will lead to renewed growth for 
+5.25" products and the establishment of
+UDO as the de-facto professional optical
+storage standard. Plasmon Plc
+Annual Report 2003
+Chief Executive’s Review
+12
+12" T echnology
+The 12" business continues to be a major
+part of Plasmon’s total revenue mix but
+overall sales declined some 17% to
+£19.6m. The majority of the reduction
+was in sales of new drives that declined
+58% to £1.4m as 12" solutions become
+prohibitively expensive and customers
+wait for UDO technology. Sales of 12"
+media and service declined a more
+modest 12% in total to £7.5m and
+£10.1m, respectively.
+The change in our 12" business was in line
+with our expectations and the rate of
+decline should slow as new drive sales
+cease and the business becomes a media
+and service annuity. The 12" customer
+base is firmly wedded to write-once optical
+storage solutions and is showing strong
+interest in the significant cost advantages
+of UDO technology. We are now working
+on upgrade and conversion programmes
+to migrate these customers to UDO but
+still expect to enjoy significant revenues
+from 12" media and service for several
+more years.
+CD/DVD
+In response to demand from our major
+medical imaging customers such as
+Siemens Medical and GE Medical, we
+introduced the Enterprise D-Series library
+last year with a capacity of up to 2,175
+discs. The library is derived from our G-
+Series 5.25" platform and its development
+was completed ahead of schedule in late
+2002 by the outgoing Minneapolis
+engineering team. 
+The response to the Enterprise D has been
+excellent and helped CD/DVD sales grow
+139% to £6.5m last year . In mid-year we
+secured Siemens Medical as a major new
+customer for this product and the medical
+imaging market in general is adopting DVD
+technology because of its low cost. The low
+performance of DVD solutions also
+matches the infrequent access
+requirements of the medical imaging
+market, but the reduced reliability and ease
+of use of DVD remains a major concern.
+However , we expect UDO to regain market
+share in this area as it offers higher
+performance and reliability at the same
+price point as DVD based solutions.
+Consultancy
+Our optical media consultancy business
+had another excellent year in 2002/3 with
+revenue growth of 9% to £3.9m compared
+to £3.6m the previous year . During the year
+we signed significant new agreements
+with Intel Research to develop high-
+density phase change storage technology
+and with Unaxis AG, to develop 0.1mm
+cover layer technology for volume Blu-ray
+disc production.
+Our CD-R and DVD-R consultancy
+business with Ciba Specialty Chemicals
+also performed well in 2002/3 and we
+estimate the Plasmon-Ciba Ultragreen CD-
+R dye has a 65% share of the world-wide
+market for CD-R dyes. After a considerable
+delay due to technical issues, Ciba will
+finally launch a new DVD-R dye in mid 2003
+and we expect this to drive significant future
+royalty growth as recording video to DVD’ s
+becomes a mainstream application.
+L TO T ape
+Our L TO tape library business was a major
+disappointment in 2002/3 with revenues flat
+at £1.4m. Although we successfully
+completed our product range with the
+Exabyte autoloader acquisition and
+secured the necessary software support,
+the market has since commodotised with
+the entry of major PC brands such as Dell
+with very aggressive pricing. In light of these
+changes, we are reviewing our overall tape
+strategy to position our products as part of
+higher value added solutions and
+consequently expect to achieve only
+modest growth for this part of our business.
+Software and Connectivity
+Sales of our connectivity solutions, which
+are included in the relevant major product
+category, returned to growth last year with
+revenues increasing 60% to £0.8m. During
+the year we secured Siemens Medical as a
+major new customer for our integrated
+NAS connectivity solution to integrate with
+the Enterprise DVD libraries they also
+purchase from Plasmon. We expect this
+trend for major customers to purchase
+integrated connectivity and library
+solutions from one vendor to increase in
+the future and are already discussing
+another major opportunity in the medical
+imaging market.
+We believe the move to networked storage
+solutions will continue to be a major trend
+within the storage market. Late in 2002 we
+commenced development of a new range
+of NAS-RAID products that will integrate
+internally in our new G-Series libraries and
+will provide industry standard connectivity
+and performance to optical archive
+solutions. The new solutions will be based
+on Serial-A T A RAID and Linux software
+and will significantly reduce the cost and
+complexity of deploying UDO technology.
+Other
+The majority of this business sector
+relates to our optical mastering business
+in Caen which had an excellent year in
+2002/3 and grew revenues by 31% to
+£2.9m. The majority of production is now
+CD-R and DVD video masters which we
+supply to most of the major disc
+manufacturers in the Far East. We are
+now entering volume production of DVD-
+R masters and expect this to drive further
+growth in the coming year.
+Longer term we plan to manufacture
+masters for Blu-ray video discs and during
+the past year we commenced
+development of these products. Our
+experience with UDO is proving highly
+beneficial in this area and should enable
+Plasmon to become a leading supplier of
+masters and stampers for consumer disc
+formats based on blue laser technology. Plasmon Plc 
+Annual Report 2003
+Chief Executive’s Review
+13
+Outlook
+2002/3 has been a year of consolidation
+for Plasmon in which we maintained stable
+revenues and significantly reduced our
+cost base at a time of industry and
+economic downturn. We also made
+excellent progress with our UDO
+development programme and we are
+confident of delivering a world-class
+product and securing major OEM support
+for our technology in the coming year .
+Due to the high profile corporate fraud
+cases of the past few years, the market for
+secure archival storage products that
+provide unalterable records of business
+transactions and agreements is very
+strong. We are therefore launching UDO at
+an ideal time and we believe the inherent
+cost and performance features of UDO will
+ensure it is highly competitive in the
+archival storage market. On this basis we
+look forward to the future with confidence
+and expect UDO technology to deliver
+long-term growth in revenues and
+profitability for the Plasmon Group.
+Sales of integrated storage solutions
+comprising libraries, servers and
+Plasmon storage management
+software are expected to increase
+in the future

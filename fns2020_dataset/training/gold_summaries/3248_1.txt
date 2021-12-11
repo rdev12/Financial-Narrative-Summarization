@@ -1,0 +1,693 @@
+ 04 Ceres Power Holdings plc Annual Report 201 1
+Business 
+Review
+“We believe that Ceres 
+Power’s innovative 
+technology has the 
+potential to offer a 
+unique value proposition. 
+We are working closely 
+with Ceres Power to bring 
+their CHP product to our 
+customers in the UK and 
+enable them to generate 
+flexible, low-carbon 
+electricity in their own 
+home and reduce their 
+energy bills. ”
+Gearóid Lane, Managing Director of 
+British Gas New Markets
+generating electricity on demand 
+powering a range of domestic 
+appliances. The unique ability of 
+the CHP fuel cell product to respond 
+automatically and rapidly to real-time 
+changing energy needs in the home 
+was also demonstrated. Our partner 
+British Gas has confirmed that the 
+ability of the CHP product to increase 
+or decrease power output on demand 
+will enable access to the broadest 
+range of UK households as target 
+customers and will be of significant 
+value to energy utility companies.
+During Q1 2011, and in partnership 
+with British Gas, Ceres completed 
+the installation of five CHP units in 
+family homes across South East 
+England directly replacing the 
+existing conventional gas boilers. 
+The field trial units delivered central 
+heating, hot water and power to the 
+homes and controlled themselves 
+automatically, responding in real-time 
+to the home’s energy needs using a 
+combination of the CHP unit’s Fuel 
+Cell Module (‘FCM’) and boiler. 
+The purpose of this first wave of field 
+trials was to gain valuable real-world 
+experience and to identify issues 
+ahead of deploying the next wave of 
+field trial units in consumers’ homes. 
+I am delighted to join Ceres Power  
+as Chief Executive Officer and excited  
+by the global potential of the Ceres  
+Combined Heat and Power (‘CHP’) 
+product and the opportunity to 
+lead this Group to a successful and 
+vibrant future, delivering significant 
+value to all its stakeholders.
+My first priority, since my appointment 
+in September 2011, has been to 
+conduct a detailed review of the 
+business and the plan to achieve 
+mass market uptake of the Group’s 
+CHP product, with specific focus on 
+the status of the core technology 
+and our internal product validation 
+programme. Ceres Power has had a 
+challenging year and although there 
+have been setbacks which have had 
+an impact on the commercialisation 
+timeline, we should not lose sight 
+of the enormous progress that has 
+been made in the development of 
+our low-cost, wall-mounted residential 
+fuel cell CHP product and the 
+platform this now provides to mass 
+market uptake of the technology. 
+In September 2010, we demonstrated 
+a compact CHP unit installed on 
+a kitchen wall delivering heat for 
+hot water and central heating and  05 Ceres Power Holdings plc Annual Report 201 1
+Technology progress
+The Group has made substantial 
+progress in a number of different 
+areas relating to the core fuel cell 
+technology. Significant improvements 
+have been achieved in reducing 
+the rate of power degradation and 
+increasing long-term cell durability 
+under real-world operating conditions.
+In March 2011, the Group reported 
+that the in-home field trial units had 
+experienced reliability and durability 
+issues. We have made significant 
+progress in resolving all these issues:
+ > boiler tuning and calibration issue 
+causing ignition lock-out has been 
+addressed;
+ > shutdown of FCMs due to water 
+management has been addressed;
+ > interconnect corrosion and 
+resulting power degradation has 
+been addressed with an improved 
+coating through better control of 
+the heat treatment process;
+ > debris from FCM insulation causing 
+power degradation has been 
+addressed. There is no evidence 
+of any ongoing impact on FCM 
+power degradation. Testing is 
+continuing to determine the impact, 
+if any, of low level contaminants on 
+long-term degradation;
+ > cell delamination has been 
+addressed through minor 
+modifications to cell chemistry 
+and refinements to the operating 
+strategy. Development and testing 
+work is under way to further 
+strengthen cell layers and optimise 
+performance; and
+ > the operating strategy of the FCM 
+used in the initial field trials has 
+been confirmed as a significant 
+cause of power degradation. A 
+revised operating strategy has been 
+developed and, in conjunction 
+with improved measurement of 
+operating temperature and tighter 
+control of water and fuel flow to the 
+stack, has significantly reduced the 
+power degradation mechanism. 
+These improvements are currently 
+being validated and the operating 
+strategy optimised.
+Analysis of the power degradation 
+measured in cells operating in the 
+initial field trial CHP units showed 
+that a significant root cause of 
+power loss was cyclic oxidation of 
+the anode. This can occur when fuel 
+is interrupted and electronic and 
+physical leakage is present in the cells. 
+The Group has virtually eliminated 
+electronic leakage and significantly 
+reduced physical leakage of the 
+cells through minor modifications to 
+cell layer chemistry and improved 
+control of the fuel cell manufacturing 
+process. Reducing cell leakage has 
+also increased the cell operating 
+potential to near theoretical limits 
+which reduces the cell heat to power 
+ratio to the lowest levels possible.
+ 
+The new generation of cells has been 
+subjected to aggressive, accelerated 
+stack testing under conditions which 
+stress the anode interface through 
+multiple hot relight and load cycling 
+events. The new cells have shown 
+a substantial improvement, with 
+stacks consistently withstanding over 
+1,000 hot relight events with minimal 
+degradation compared to the rapid 
+degradation measured in the previous 
+cell generation used in our initial field 
+trials. The robustness of the new cells 
+to load cycling was demonstrated 
+using an FCM running on methane 
+subjected to an accelerated test 
+plan of 800 rapid load cycles. 
+No measurable degradation was 
+recorded, providing validation of 
+the cell’s tolerance to electronic 
+stresses caused by load cycling. 
+By designing our product to retrofit in place of a 
+conventional heating appliance, Ceres Power can 
+access an existing market of more than 18 million 
+units per annum globally
+2
+2 BSRIA/AHRI/US DoE/Natural Resources Canada 06 Ceres Power Holdings plc Annual Report 201 1
+Business 
+Review
+Chief Executive Officer’s Review
+Continued
+Water and fuel flows and temperatures 
+are highly integrated and therefore 
+must all operate in concert to 
+provide accurate delivery and 
+control of conditions within the FCM. 
+Improvements have been made 
+in the accuracy of the flow and 
+measurement control of both water 
+and fuel in the system through minor 
+hardware and software changes. 
+By adopting operating strategies 
+which are compatible with the 
+operating tolerances of the entire 
+control system and which also 
+prevent or minimise the likelihood of 
+cell anode oxidation, we achieve 
+significantly improved stack durability. 
+Taken in total, the improvements 
+in cell leakage reduction, input 
+control and operating strategy 
+refinement have resulted in a 
+significant step forward in achieving 
+the long-term durability targets. 
+A significant contribution to long-term  
+cell degradation is the gradual 
+increase in cell electronic series 
+resistance that is believed to arise 
+from an increased level of metal 
+interconnect corrosion. The Group has 
+developed improved interconnect 
+designs which provide the same level 
+of interconnect corrosion resistance 
+and actually increase the power per 
+cell. Short stack testing completed 
+to date (~3,000hrs) with production 
+interconnect coating materials 
+and the optimised heat treatment 
+conditions have achieved power 
+and cell voltage degradation rates of 
+1%/1,000hrs. The Group will continue 
+to perform both accelerated and 
+long-term testing under all potential 
+operating conditions in conjunction 
+with the general field trial programme 
+and we are confident of achieving 
+further improvements in cell durability 
+and long-term degradation. 
+ 
+Route to achieve mass market 
+uptake of Ceres CHP product
+It is clear from my review that Ceres 
+has unique technology and the 
+potential to be a world-class company 
+with the ability to lead the sector. 
+I have been very impressed with the 
+technical and operational capability 
+in the business. Of significant note 
+is that during the past two years, 
+the Group has undertaken to 
+simultaneously develop its core 
+technology, design and engineer 
+the complete CHP product, whilst 
+building a capable engineering 
+and manufacturing organisation; 
+this would be a challenge even 
+for a well-established company. 
+We are now enhancing our 
+organisational capability further 
+and implementing improvements 
+to key processes to reduce overall 
+programme delivery risk; underpinning 
+this will be an improvement in 
+overall organisational effectiveness. 
+These changes will improve the 
+Group’s competency to manage 
+product programmes, rapidly 
+solve product issues and deliver 
+a low risk scale-up capability.
+The current compact CHP 
+design forms the basis of our first 
+generation residential product. 
+This already integrates a boiler and 
+FCM in a single wall-mounted unit 
+and demonstrates a commercially 
+distinctive size, weight and value 
+In July 2011, Ceres Power welcomed the Minister of State for Business 
+and Enterprise, Mark Prisk MP , to conduct the official opening of its 
+volume fuel cell manufacturing facility in Horsham. 
+Ceres Power has created more than 160 highly skilled ‘Green Collar’ 
+jobs at the manufacturing facility in Horsham and the technology 
+centre in Crawley. As part of the Group’s plans for a mass market 
+launch of the CHP product in the UK, the manufacturing facility 
+could be expanded to produce up to 30,000 fuel cell CHP products 
+per annum creating substantial additional skilled jobs in advanced 
+manufacturing engineering, manufacturing operations and in the 
+local supply chain. There are also significant export opportunities for 
+Ceres CHP products globally. 
+During the visit, the Minister saw fuel cells being manufactured and 
+CHP products being assembled and undergoing testing in the 
+Group’s new test facilities. 
+Mark Prisk MP , Minister of State for Business and Enterprise said:
+“It is thanks to innovative research and product development by 
+companies such as Ceres Power that we are leading the world with 
+this sort of technology and which will help us realise our ambition to 
+make the UK a leading high-tech, highly skilled economy. ” 07 Ceres Power Holdings plc Annual Report 201 1
+More than 85% of the 1.5 million gas boilers 
+installed in the UK every year are wall mounted
+3
+ 
+Ceres Power has 
+world-leading 
+technology and a 
+highly differentiated 
+commercial CHP 
+product that is capable 
+of widespread mass 
+market adoption
+proposition to customers, which 
+our UK market partner, British Gas, 
+believes are pre-requisites for a 
+product to achieve widespread 
+consumer adoption. 
+The current CHP prototype validates 
+the concept of a boiler-replacement 
+consumer appliance that can be 
+installed in the majority of the UK’s 
+homes and deliver significant energy 
+bill savings, payments from the Feed-
+in-Tariff (‘FIT’) and carbon reductions. 
+We are today setting out a revised 
+plan to launch a CHP product 
+that meets the requirements of 
+the mass market. The revised 
+timeline, allowing the completion 
+of value engineering, validation 
+testing, performance optimisation 
+and field trials, is as follows:
+ > Second phase of in-home field trials 
+in H2 2012.
+ > First generation sales of CHP 
+product in H1 2014.
+ > Sales of the second generation 
+mass market CHP product in H1 2016.
+The second phase of in-home field 
+trials will now be conducted during 
+H2 2012 to allow sufficient time to 
+conduct CHP product and FCM 
+testing and optimisation in the Group’s 
+test facilities to validate the product 
+and demonstrate that the required 
+performance levels of reliability and 
+durability have been achieved. 
+We plan to execute a launch in 
+H1 2014 of our first generation CHP 
+product that will validate the value 
+proposition of this new product 
+category. The initial product launch 
+will also serve to understand how 
+customers will use the product in 
+their homes and what additional 
+product refinements may need to be 
+carried forward to further enhance 
+the design of the mass volume launch 
+product. Ceres and British Gas are 
+working in collaboration to define the 
+requirements necessary to access the 
+early adopter segment in the UK that 
+maximises our market understanding 
+whilst minimising our commercial risk. 
+3 BSRIA, 2008 08 Ceres Power Holdings plc Annual Report 201 1
+Business 
+Review
+We will use the knowledge gained 
+from customer services, supply chain 
+management and manufacturing 
+to inform the processes required 
+to support the next generation 
+product. This will be based on the 
+same product system platform 
+but will incorporate additional 
+design and value engineering 
+developments to achieve the cost 
+and lifetime targets to secure mass 
+volume uptake. In addition, work 
+will continue with the supply chain 
+to invest in tooling to deliver the 
+mass volumes and component 
+cost targets. We are confident that 
+the inherent low-cost nature of our 
+CHP design will enable these mass 
+market targets to be achieved.
+To de-risk the product development 
+programme to achieve mass volume 
+uptake of our CHP product, we will 
+develop further our collaborations 
+with existing partners and put in place 
+new strategic partner collaborations 
+within the value chain to enable 
+the Group to access world class 
+technical competencies and proven 
+capabilities and successfully leverage 
+their existing access to customers.
+I believe this new timeline is 
+achievable and represents a realistic 
+plan for the Group. It is the best 
+way to deliver a robust, reliable, 
+value-engineered product that is 
+shown to meet our partners’ and 
+customers’ needs. As mentioned 
+previously, the successful delivery 
+of this revised timeline will require 
+some important changes to the 
+business. My task is to embed these 
+changes quickly, and reposition 
+the Group as a high performing 
+organisation, without diverting our 
+focus from delivering results. 
+Operations and manufacturing 
+developments
+During the year, fuel cell 
+manufacturing capacity has been 
+increased and quality improved 
+with an additional furnace and 
+cell production area upgrade. This 
+increase in production capacity 
+has enabled additional testing to 
+be conducted and learning to be 
+incorporated more rapidly. The 
+key operational focus has been 
+the establishment of repeatable 
+production processes, improvements 
+in fuel cell manufacturing quality and 
+reduction in production variation. 
+These recent improvements have 
+led to a manufacturing process 
+capability for fuel cell open circuit 
+voltage of fewer than 1,000 parts per 
+million defects. This is an ongoing 
+process improvement activity and 
+similar improvements are targeted 
+for stack build and FCM assembly. 
+The Group has completed the build 
+of the second phase of the new 
+test facilities which are now fully 
+operational. This has substantially 
+increased the Group’s test capability 
+across cell, stack, FCM and CHP 
+testing and learning from the field trials 
+has been incorporated in the testing 
+protocols that enable extended 
+testing of CHP products under 
+representative in-home conditions. 
+Additional investments have been 
+made in increasing the Group’s data 
+mining capability to ensure that the 
+results from testing can be more 
+effectively analysed to inform the 
+ongoing technical development.
+Ceres has been awarded ISO9001: 2008 
+certification for its Quality Management 
+Systems. The certificate was awarded 
+Chief Executive Officer’s Review
+Continued
+Energy Supply Chain – Ceres CHP Value Proposition
+Generation > Peak smoothing
+ > Reserve capacity to back up renewables
+Transmission + distribution > Improved network utilisation
+ > Deferred asset upgrades
+Energy supply > Deliver on energy efficiency commitments
+ > Enable new energy propositions
+Appliance installation > Retention of existing boiler skills
+ > Rapid rollout
+Consumer  > Reduced energy costs
+ > Minimal disruption
+Government > Reduced emissions
+ > Improved energy security
+ > Reduced cost
+Energy Supply Chain Benefits from Ceres Power CHP Product 09 Ceres Power Holdings plc Annual Report 201 1
+In December 2010, the Group received CE Safety approval for its 
+wall-mounted CHP product from Kiwa Gastec, the leading fuel cell 
+and residential CHP certification body. Receipt of this approval was 
+an important milestone allowing Ceres Power’s CHP products to be 
+installed and operated in occupied consumer homes.
+In partnership with British Gas and using their in-home heating 
+expertise, Ceres completed the installation of five CHP units in family 
+homes across South East England directly replacing the existing 
+conventional gas boilers. The field trial units delivered central 
+heating, hot water and power to the homes and were controlled 
+automatically, responding in real-time to the home’s energy needs 
+using a combination of the CHP unit’s Fuel Cell Module and boiler. 
+The purpose of this first wave of field trials was to gain valuable 
+real-world experience and to identify issues ahead of deploying  
+the next wave of field trial units in consumers’ homes.
+following an audit conducted by 
+the British Standards Institute and 
+demonstrates the Group’s commitment 
+to developing quality systems to underpin 
+volume manufacture and support the 
+requirement of CE marking and FIT.
+Commercial opportunities
+The opportunity for Ceres’ CHP 
+product in international markets is 
+substantial. The Group’s compact 
+wall-mounted product format 
+and low-cost design can deliver 
+substantial value to both households 
+and energy companies in Europe, 
+North America and Asia. Today, our 
+primary focus remains on bringing 
+the CHP product to market in the 
+UK in partnership with British Gas 
+and securing a significant share 
+of the more than 1.5 million boilers 
+that are sold every year in the UK.
+In parallel, we are exploring new 
+opportunities with partners in North 
+America, Europe and Asia. In these 
+markets the Group’s compact 
+low-cost product format can offer 
+valuable benefits to consumers and 
+energy companies when compared 
+to conventional residential boiler 
+and water heater appliances. 
+Ceres’ technology, when deployed 
+in large volumes, can also provide 
+valuable real-time local balancing 
+capacity to relieve grid strain and 
+enable security of supply to be 
+maintained in an environment where 
+a greater proportion of wholesale 
+power production is inflexible.
+Financial
+Commercial revenue for the year 
+decreased by 12% to £0.7m (2010: 
+£0.8m) driven largely by the delay 
+in completing the CHP programme 
+with British Gas and the resultant 
+lower amortisation rate of the 
+up-front milestone payments 
+received. Deferred income, being 
+the difference between milestone 
+payments received and revenue 
+recognised in the Consolidated 
+Statement of Comprehensive Income, 
+decreased to £2.5m (2010: £3.2m) 
+reflecting the revenue recognised 
+in the current year. Other operating 
+income, being monies earned 
+by the Group from government 
+grant-funded programmes, 
+fell to £0.4m (2010: £0.6m).
+“It is thanks to innovative 
+research and product 
+development by 
+companies such as 
+Ceres Power that we are 
+leading the world with 
+this sort of technology 
+and which will help us 
+realise our ambition to 
+make the UK a leading 
+high-tech, highly  
+skilled economy.”
+Mark Prisk MP , Minister of State for  
+Business and Enterprise 10 Ceres Power Holdings plc Annual Report 201 1
+Business 
+Review
+Operating costs increased by 22% to 
+£17.7m (2010: £14.5m). Within operating 
+costs, research and development 
+costs increased by 30% to £12.9m 
+(2010: £9.9m) and administrative 
+expenses increased by 4% to £4.8m 
+(2010: £4.6m). The increase in research 
+and development has been driven 
+by the increase in average monthly 
+headcount from 70 to 105 persons, 
+the costs of developing and procuring 
+the components for the internal and 
+external field trial testing and the 
+increased production of fuel cells from 
+the Horsham manufacturing facility. 
+Interest receivable was in line with 
+the prior year at £0.5m (2010: £0.5m) 
+and, following the redemption in 
+December 2009 of the Group’s holding 
+of UK Government gilts, there was no 
+fair value movement in the current 
+year (2010: £0.1m loss). The Group 
+recorded an income tax credit of 
+£2.3m (2010: £1.1m) consisting of £1.5m 
+estimated income tax recovery in 
+respect of the current financial year 
+and an additional £0.8m recovery in 
+respect of the previous financial year. 
+The loss for the financial year 
+attributable to shareholders increased 
+by 18% to £13.8m (2010: £11.7m) due 
+to the increased operating costs 
+partly offset by higher financial 
+income and increased R&D tax 
+credits. The average number of 
+shares in issue during the year was 
+86.2m (2010: 77.3m), reflecting the 
+effect of the placing that occurred 
+mid-way through the previous 
+financial year. The loss per ordinary 
+share rose to 16.04p from 15.16p 
+in the previous financial year.
+The Group’s net cash used in 
+operating activities increased by 
+£3.4m to £13.4m (2010: £10m). 
+This increase is attributable to the 
+increased operating loss of £3.5m 
+and an unfavourable working 
+capital movement of £0.7m, partly 
+offset by an increased income tax 
+receipt of £0.7m. During the year, 
+the Group invested £2.3m (2010: 
+£2.8m) to purchase additional fuel 
+cell manufacturing equipment and 
+to complete the expansion of the 
+testing facilities and received a 
+capital grant of £0.8m (2010: £0.3m). 
+Total equity-free cash outflow for the 
+year was £14.2m (2010: £12.3m).
+As at the year end the Group held 
+£26.7m (2010: £40.9m) in cash and 
+cash equivalents and short-term 
+investments. The Group’s treasury 
+policy to preserve capital by investing 
+in low-risk, high-quality investments 
+remains unchanged. Surplus 
+funds are invested in short-term 
+low-risk ‘AAA’-rated money market 
+funds and short-term deposits at 
+banks with high credit ratings. 
+The Board anticipates that the 
+Group will raise an initial tranche 
+of funding during the next twelve 
+months to continue the development, 
+testing and trialing of the mains 
+gas residential CHP product as set 
+out in the Chairman’s Statement.
+microCHP opportunity 
+There can be no greater global 
+challenge than the transition to 
+a low-carbon economy that will 
+involve major changes to the way 
+we supply and use energy.
+My examination of the market 
+opportunity that Ceres can address 
+has convinced me that the potential 
+upside is enormous. By designing 
+a product that retrofits in place of a 
+conventional heating appliance, the 
+Group can access an existing market 
+of approximately 1.5 million units per 
+annum in the UK alone, and more than 
+18 million units per annum globally. 
+The timing is right, the world needs 
+cost-effective, cleaner, flexible power 
+generation that can be retrofitted into 
+the built environment; the Ceres CHP 
+product is capable of delivering this.
+Chief Executive Officer’s Review
+Continued
+Outlook
+The Board and Senior Management 
+team are focused on completing 
+the work to enable the Group 
+to achieve CHP product sales 
+in H1 2014 and commence the 
+development in 2012 of the next 
+generation of the CHP product. To 
+achieve this, the Group’s priorities 
+for the next twelve months are:
+ > complete the validation and 
+optimisation of the solutions to the 
+remaining issues from the first phase 
+of in-home field trials;
+ > conduct extended internal testing 
+of CHP products ahead of further 
+in-home field trials;
+ > commence the next phase of 
+in-home field trials; 
+ > commence the development of the 
+next generation of wall-mounted 
+CHP product; 
+ > continue to work with our partner 
+British Gas to refine the details of the 
+UK product launch;
+ > develop the next phase of strategic 
+partner collaborations to further 
+de-risk the commercialisation plan; 
+and 
+ > secure additional funding.
+Ceres faces a number of challenges 
+in the year ahead. I am confident 
+that we can meet these challenges 
+and successfully deliver both 
+the commercialisation plan and 
+significant value to shareholders.
+David Pummell
+Chief Executive Officer
+11 October 2011

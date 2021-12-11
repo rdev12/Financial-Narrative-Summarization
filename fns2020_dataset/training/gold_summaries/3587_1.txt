@@ -1,0 +1,379 @@
+ 06
+ClearSpeed Annual Report and Accounts 2005
+Chief Executive Officer’s review
+Overview
+The strategic priority for ClearSpeed 
+as it entered 2005 was to commence
+the transition from its technology
+development phase to beginning 
+to build out a fully-fledged business.
+Throughout the year the group made
+considerable progress in achieving 
+this goal. 
+ClearSpeed made significant progress 
+in its technical development and won
+its first high-performance computing
+system customer. It launched and
+commenced shipping its first commercial
+product: the Advance
+™
+Board containing
+two CSX600 processors. The group
+believes that an increased awareness 
+of and interest in its technology from
+potential partners and customers is
+confirmation that it is potentially well
+placed to exploit major trends within 
+the industry. 
+Costs were contained and cash outflows
+from operations were in line with group
+expectations. The successful fundraising
+will enable ClearSpeed to capitalise 
+on and develop its position as the
+designer and supplier of the world’s
+fastest and most power-efficient
+multicore processor for 64-bit floating
+point operations.
+Market opportunity
+Growth in demand for high-performance
+computers (HPC) is being driven by 
+a combination of factors, two of which
+are particularly important. 
+Firstly, HPC systems are no longer
+required just by government and
+academic research laboratories, 
+they are now also a critical tool in 
+key industries which we see as the
+wider commercial space for HPC and
+include important sectors such as: 
+• Aerospace and Automotive
+• Life Sciences & Biotechnology 
+• Energy, Oil & Gas 
+• Scientific Computing 
+• Digital Content Creation 
+• Financial Analysis & Modelling 
+Secondly, while specialised systems
+such as IBM’s Blue Gene, or those from
+Cray, NEC and SGI, meet the need for
+special-purpose systems at the very
+high end, in the wider commercial
+space for HPC a fundamental change
+has occurred. Here the use of standard
+processors, those that have delivered 
+so much in terms of the cost and
+capability of PCs and servers, has come
+to dominate. 
+ClearSpeed’s strategy of supplying its
+technology to the HPC market through
+Advance
+™
+Boards requires no chip
+integration and also allows for systems
+upgrades to be easily accommodated,
+both retrospectively and for new cluster
+systems. In addition to the existing
+installed base of HPC cluster systems,
+analysts estimate that 150,000 HPC
+cluster systems were delivered in 2004
+and are forecast to rise to 220,000 HPC
+cluster systems in 2007. Through
+ClearSpeed’s channel partners in the US
+and Far East, the directors are confident
+that ClearSpeed’s technology will be
+selected for other new HPC projects.
+Chief 
+Executive 
+Officer’s 
+review
+“The group believes that an increased awareness of and
+interest in its technology from potential partners and
+customers is confirmation that it is potentially well placed to
+exploit major trends within the industry.” ClearSpeed Annual Report and Accounts 2005
+Chief Executive Officer’s review
+07
+CSX600 
+The world’s fastest and most power-efficient
+multicore microprocessor for 64-bit floating
+point performance
+07
+The group’s strategy of engaging 
+with independent software vendors 
+and suppliers to port code to the
+ClearSpeed processor complements 
+its “Plug and Play” strategy in removing
+barriers to adoption. Workstation users
+with compute-intensive requirements,
+such as computer-aided design and
+engineering, can access the group’s
+technology using the group’s Advance
+™
+Board. The group has entered into
+informal partnerships with various
+independent software vendors, and at
+the Supercomputing Conference in
+Seattle in November 2005 demonstrated
+its technology with Mathematica and
+MATLAB
+®
+software packages. These
+software packages alone are estimated
+to have at least one million users, 
+some of whom are expected to have
+sufficiently intense computing needs 
+to require the processing acceleration
+delivered by ClearSpeed’s solutions.
+Within the embedded systems market,
+the group has also had some initial
+commercial success. For example, 
+a UK-based defence systems vendor 
+has entered into ClearSpeed’s partner
+programme for a project, which has 
+the potential to result in orders for
+thousands of processors.
+Technical development
+It was a major milestone for the group
+that in June 2005 it demonstrated its
+first commercial processor, the CSX600. 
+Offering up to a sustained performance
+of 25 billion 64-bit floating point
+operations per second (25GFLOPS), 
+the CSX600 is the world’s highest
+performance processor for this type 
+of compute-intensive work. Achieving
+this performance level while consuming
+less than 10 watts, the CSX600 is 
+also the world’s most power-efficient
+processor for this type of application
+area. Delivering a processor of this
+capability was a very significant
+achievement of the whole team 
+in 2005. 
+The key benefit of such high levels 
+of performance (when delivered so
+power-efficiently and in a processor
+which is complementary to the main
+processors from companies such as
+AMD, IBM and Intel) is that, by lowering
+both the cost of purchase and the cost
+of ownership of high-performance and
+technical computing systems, the
+CSX600 enables teams – in industries 
+as diverse as aerospace, financials, 
+and oil and gas – to achieve new levels
+of accuracy in a much shorter time 
+than might previously have been
+economically affordable for them,
+making a direct contribution to their
+productivity, time to market and
+competitive advantage.
+Business development and build-out
+The value proposition offered by the
+CSX600 and the group’s Advance
+™
+Board, each of which contains two
+CSX600 processors, was increasingly
+recognised during 2005, and this 
+led to the group having discussions 
+and engagements with numerous
+customers and channel partners
+including Sun Microsystems and NEC.
+The group was also pleased to find that
+its pricing assumptions for such a value
+proposition were also validated, and the
+announcement on 15 November 2005
+that ClearSpeed was selected by the
+Tokyo Institute of Technology as part 
+of a consortium, led by NEC and 
+Sun Microsystems, to develop Japan’s
+largest supercomputer was a further
+major milestone. The order for boards
+for this system was received by the
+group in 2005 and was worth
+approximately $2 million.
+While keeping costs lower than
+expected during the period, the 
+group has continued to develop 
+the capabilities needed to deliver 
+its products to market. ClearSpeed 
+has successfully developed a supply
+chain with partners in the US, who 
+all have the ability to handle volume
+manufacturing. ClearSpeed 
+has also strengthened its marketing 
+and customer support capability. 
+Team
+It is through the talent and commitment
+of the whole team that so much has
+been achieved, both technically and
+commercially, in 2005. The group
+aspires to recruit and retain very
+talented individuals throughout the
+functions that it is developing, and to
+be a rewarding place in which to work.
+The group was therefore pleased that in
+2005 it continued to be able to recruit
+key individuals in both the USA and the
+UK and that turnover within the team
+continues to be very low.
+Trading
+The principal influences on the financial
+performance of ClearSpeed during
+2005 were the continued investment 
+in research and development, 
+a building-out of the business reflected 
+in an increase in marketing and
+administrative expenses and an
+increase in working capital to support
+the increasing sales activity. The
+retained loss for 2005 was £6,412,000,
+up from a loss of £3,753,000 for 2004.
+Turnover for 2005 was £439,000, 
+an increase of 78% on the 2004 
+figure of £247,000. This increase is as 
+a result of the sale of Advance
+™
+Boards,
+following their release to market during
+the fourth quarter. The gross margin for
+2005 was 66% (2004: 58%), reflecting
+both the sales price levels achieved at
+low volumes and the manufacturing
+costs associated with low throughput.  08
+ClearSpeed Annual Report and Accounts 2005
+Chief Executive Officer’s review
+Chief 
+Executive 
+Officer’s 
+review 
+continued
+“The group was successful in meeting most of its goals 
+in 2005, and has created a platform from which to continue
+this progress in 2006.”
+Whilst administrative expenses
+increased to £7,378,000 in 2005 from
+£4,408,000 in 2004, the business
+continued to operate with a lean model
+throughout the period. Investment 
+in the product roadmap continued,
+resulting in research, design and
+development expenses for 2005 
+being £4,677,000. Marketing and
+administrative expenses for 2005 were
+£2,701,000, up by £919,000 on the
+2004 expenses of £1,782,000. The
+majority of the increase was incurred 
+in the second half of 2005 when
+expenses increased by 73% to reflect
+the building-out of sales, marketing 
+and customer support activities
+following the commercial launch 
+of the group’s first product.
+Cash flow and fundraising
+The continued investment in research
+and development and the growth in
+marketing and administrative expenses
+were the principal reasons for the cash
+outflow from operating activities being
+£6,824,000 for 2005, up from
+£4,238,000 for 2004. 
+Purchase of tangible fixed assets 
+in 2005 was £321,000 compared to
+£84,000 in 2004. Office and computer
+equipment with a cost of £216,000 
+was purchased to support the new
+headcount, which increased from an
+average of 35 employees in 2004 to 
+54 employees in 2005. Additionally,
+with the launch to production of the
+company’s first commercial product,
+the Advance
+™
+Board, tooling costing
+£105,000 was incurred.
+During December 2005, ClearSpeed
+raised approximately £20,070,000 
+(net of expenses) by way of a placing.
+The new funds will be used to: 
+• Consolidate the group’s position 
+as the designer and supplier of the
+world’s fastest and most power-
+efficient multicore microprocessor 
+for 64-bit floating point performance
+• Provide additional working capital 
+to finance the commencement of
+volume shipments of the group’s 
+first products, the CSX600 processor
+and Advance
+™
+Board
+• Increase the rate of investment in the
+group’s sales and marketing effort
+• Increase investment in product
+development
+• Strengthen the group’s balance sheet
+Working capital
+The commencement of production of
+the group’s first commercial products
+resulted in an investment of £251,000
+in stock at the end of 2005 (2004: nil).
+Trade debtors increased to £173,000 at
+the end of 2005, an increase of £89,000
+on the balance at the end of 2004,
+reflecting the increase in turnover.
+The renewal of computer-aided design
+licenses during December was the
+principal reason for trade creditors
+being £922,000 at the end of 2005, 
+an increase of £628,000 over the
+comparable figure for 2004. The
+majority of this expenditure was 
+carried forward as a prepayment 
+at the end of 2005.
+Taxation
+Tax credits of £391,000 relating to
+research and development activities
+were received and credited to the 
+profit and loss account during 2005
+compared to £275,000 for the 
+previous year.
+At the end of 2005 the group had 
+an unrecognised deferred tax asset 
+of £11,400,000 (2004: £9,500,000)
+resulting mainly from tax losses. This is
+available indefinitely to offset against
+future taxable profits of the same trade.
+Accounting Standards developments
+In June 2003, the Council of the
+European Union adopted regulations
+requiring listed companies in Member
+States to prepare their consolidated
+financial statements in accordance 
+with International Financial Reporting
+Standards (IFRS) from 2005. In 
+2004 it was decided that AIM-listed
+companies do not need to file their
+accounts under IFRS until 2007. The
+group has decided to adopt IFRS for
+2007 reporting and accordingly the 
+first financial results to be announced
+prepared in accordance with IFRS 
+will be for the first half of 2007.
+Accounting standard FRS20, covering
+the accounting and reporting of
+employee stock options, is required to
+be adopted for 2006, and as a result the
+financial results for the first half of 2006
+will be prepared on this basis.
+Summary
+Focused on commencing the transition
+from its technology development phase
+to beginning to build out a fully-fledged
+business, the group was successful in
+meeting the majority of its goals in
+2005, and there is good reason to
+believe that this has created a platform
+from which to continue this progress
+during 2006.
+Tom Beese
+Chief Executive Officer
+27 March 2006

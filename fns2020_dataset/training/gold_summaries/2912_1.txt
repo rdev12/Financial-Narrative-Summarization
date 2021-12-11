@@ -1,0 +1,356 @@
+ REPORT & ACCOUNTS 2014
+page 10
+STRATEGIC REPORT - CHIEF EXECUTIVE’S REVIEW
+Strategy 
+The commercialisation of Conductive Inkjet Technology’s (“CIT’s”) 
+touch sensor business continues to have a very high focus for the 
+group.  The year ended 31 March 2014 saw a significant increase 
+in revenue over the previous year, albeit market conditions have 
+been more challenging than initially anticipated, hindering our 
+ability to predict adoption and subsequent revenue growth with 
+any	accuracy .	Whilst	progress	in	commercialising	our	touch	sensor	
+technology has not been at the expected pace, our commercial 
+partner Atmel Corporation (“Atmel”) has, so far, announced 
+three design wins with HP , a testament to the potential of this 
+technology. Looking forward we believe that the success of our 
+touch business is now more dependent on the ability of the 
+whole supply chain to be price competitive than on the actual 
+technology	itself .	W e	are	working	closely	with	Atmel	in	this	area.	
+Our coating line in Cambridge is operating well and at high yields 
+and we have significant available capacity to support a future 
+ramp up in demand for XSense™.
+As discussed last year CIT has now created a separate Printed 
+Electronics business focused on commercialising and further 
+developing our novel low cost printed electronic circuits. The 
+addition of a pilot plant for component assembly was completed 
+on schedule and a strategy has been developed to enable a 
+significant push of this technology area throughout the new 
+financial year. Our major focus will be the integration of circuitry 
+into medical devices, however there are several other programs 
+in addition to this that are providing an interesting pipeline of 
+potential products.
+There were significant business wins for our largest operating 
+divisions, Technical Plastics and LED Technologies, and we exited 
+the	year	with	a	record	value	of	new	enquiries.	W e	are	confident	
+that we are entering a strong and sustainable phase of growth in 
+these businesses.
+Our expanded Technical Plastics operation, in Latrobe, USA, 
+is now operational and this has been the catalyst for winning 
+several new medical programs from new and existing customers. 
+In addition we are finalising a lease for a further factory in the 
+Czech	Republic,	adjacent	to	our	existing	facility ,	in	order	to	
+support new business wins from a range of global customers in 
+both the medical and other technical plastic markets. As well as 
+our USA and Czech expansions, we expect to initiate additional 
+manufacturing capacity in our facilities in Mitcham, Shanghai and 
+Bangalore during this current year as we see customer demand 
+increase	for	those	locations.	W e	announced	the	closure	of	our	loss	
+making Harthill, UK operation in early May 2014 and we expect 
+to complete our exit from this facility by the end of the year, with 
+several of the existing programs planned to move to our other 
+manufacturing locations.
+W e	have	now	created	an	aggressive	business	plan	for	Carclo	
+Diagnostic Solutions (“CDS”) focused on the development of a 
+further two programs in addition to the pi-GST kidney marker 
+device test which we are developing in co-operation with 
+EKF Diagnostics plc (“EKF”) and our whole blood coagulation 
+device. The further programs are for a cardiac marker device 
+(“T roponin-l”)	and	an	infectious	disease	device	(“CRP ”)	and	these	
+are both substantial potential markets. In order to support this 
+new business plan we are increasing our investment through the 
+creation of a Cambridge based life sciences group located in our 
+CIT facility to work alongside the existing Daresbury based team. 
+Our LED Technologies businesses are enjoying growth both in 
+W ipac’s	supercar	lighting	sector	as	well	as	the	smaller	LED	Optics	
+area.	W ithin	the	supercar	segment	we	have	secured	multiple	
+new programs and we are in the final stages of negotiations for 
+There were significant 
+business wins for 
+our largest operating 
+divisions REPORT & ACCOUNTS 2014
+page 11
+several others. The program awards will result in significant design 
+and tooling activity over the next three years leading to over five 
+years	of	subsequent	manufacture.	W e	are	increasing	our	research	
+investment into next generation lighting technologies as we enter 
+long-term development partnerships with several of our customers 
+in order to drive further growth in this business.
+W e	divested	our	small	bandsaw	business	at	year	end	leaving	
+our Precision Engineering business solely consisting of our UK 
+and	F rench	aerospace	component	manufacturers.	Whilst	a	large	
+proportion of our business is related to current aircraft build 
+programs, we also supply the aerospace spares market. 
+Business in detail
+Conductive Inkjet Technology (Touch)
+CIT commissioned its coating manufacturing facility on time 
+early in the financial year and all coated film manufacturing was 
+successfully migrated from the original pilot line to the new 
+high-speed line ahead of schedule. Annual sales of coated film 
+amounted to £3.3 million during the year, being a mix of sales for 
+our partner’s production qualification and sales for end customer 
+products. Two program wins were announced during the financial 
+year	(HP	Omni	10™	and	the	HP	EliteBook	Revolve	810	G2™)	and	
+one was subsequently announced soon after (HP ElitePad 1000 
+G2™). All three program wins were for HP products with screen 
+sizes in the range of 10.1” to 11.6”.
+During the financial year there were significant changes within the 
+touch industry as a result of new competitors entering the market 
+and latterly as a result of ITO vendors both lowering ITO prices 
+and also improving electrical performance of these materials. It 
+has been widely reported that there are over 20 companies now 
+claiming to have metal mesh technologies. In practice competition 
+has come mainly from a Japanese and a Chinese metal mesh 
+manufacturer. In order to gain market share our competitors have 
+priced aggressively against ITO based touch sensors, in particular 
+the single layer One Glass Solution (“OGS”) and the more mature 
+Glass Film Film (“GFF”) versions.
+A combination of lower pricing and an aggressive purchasing 
+stance from the OEMs, who are looking to include touch 
+functionality as a standard content into the portable computer 
+segment, has reduced the effective price of touch sensors by 
+around half during the last twelve months. Premiums that were 
+available for larger sensors, (i.e. those over 10”), due to the 
+historical difficulty in manufacturing at these sizes with ITO, are no 
+longer available. The touch sensor market remains an enormous 
+market and manufacturers including HP , ASUS, Lenovo, Dell and 
+a number of Chinese white box manufacturers are all believed to 
+be using metal mesh solutions, from various suppliers, in several 
+of their products and the adoption of metal mesh remains a key 
+strategic objective of the major OEMs.
+CIT has continued to evolve its metal mesh technology with a 
+focus on manufacturing efficiency increases, line width reductions 
+STRATEGIC REPORT - CHIEF EXECUTIVE’S REVIEW
+and substrate agnosticism. The key developments during the 
+year in these areas are either in evaluation trials with our partner 
+or in the final stages of scaled up testing within our Cambridge 
+facility .	W e	are	well	resourced	to	scale	coated	film	output	from	
+our Cambridge operation to support growth in sales of touch 
+sensor materials. There are now limited needs for additional 
+capital expenditure in our operation. During the year our 
+manufacturing effort has been focused on continuing to drive our 
+technology	to	improve	both	output	yields	and	cost	efficiency .	W e	
+are working closely with our partner in order to support the cost 
+competitiveness of our product and assist them to increase market 
+take-up. 
+Carclo Technical Plastics
+Sales increased from £55.3 million to £58.1 million and 
+underlying operating profit increased from £4.0 million to
+£4.6 million. The sales increase came predominantly from growth 
+in key medical accounts. Operating margins improved from 7.1% 
+to 7.9% consistent with our target of achieving 10% margins in 
+the medium term.
+Our	operations	are	located	in	the	USA ,	UK,	Czech	Republic,	
+China and India. Our focus on new business development has 
+been very high and we have won significant new work for our 
+USA and Czech facilities which both performed strongly in the 
+2013/14 financial year. For the USA this new work is centred 
+on our newly expanded Latrobe factory. The increase in Czech 
+activity has resulted in a need for further manufacturing capacity, 
+and therefore we are in the final stages of concluding a lease 
+for an additional 2,800 SQM of manufacturing space in Brno 
+immediately adjacent to our existing building and expect this 
+facility to be active by the autumn of this year. This additional 
+space will enable a significant growth in our Czech plant’s 
+revenues over the coming years. 
+Our Indian facility has also performed well and continues to 
+service	a	major	global	A TM	customer .	W e	are	now	actively	
+pursuing other work from global organisations operating within 
+India and believe that this market will be strong for us in future 
+years. 
+As a result of our efforts, we expect to see significant 
+improvements	in	plant	utilisation	over	the	next	two	years.	W e	
+believe that the new programs we have secured will contribute to 
+performance in the new financial year with the full effect being 
+seen in 2015/16 as new programs tend to only hit efficiency 
+targets after several months of manufacturing.
+Our Chinese operation had a more difficult year with reduced 
+schedules from its major customer.  As part of our business 
+development efforts we have now focused our Chinese plant on 
+targeting programs for international companies serving the local 
+domestic	market.	W e	are	currently	planning	for	the	introduction	
+of class 8 cleanrooms in our Chinese factory and we believe that 
+this improved facility, together with our leading global quality 
+procedures, will be a major growth driver for this operation.  REPORT & ACCOUNTS 2014
+page 12
+STRATEGIC REPORT - CHIEF EXECUTIVE’S REVIEW
+Growth in the UK medical device market has been strong and we 
+have secured several new programs which will deliver growth into 
+our Mitcham facility. 
+In order to improve our utilisation and cost effectiveness we 
+recently announced the closure of our smaller non-medical 
+operation in Harthill, UK. This business had been loss making for 
+several years despite our best efforts and those of our dedicated 
+workforce. These losses were partly attributable to the small size 
+of this plant versus the overhead structure required to manage 
+such a facility. This closure will enable our exit from lower margin 
+work and will also allow a reallocation of the higher margin and 
+more sustainable programs to our other plants.
+W e	are	now	very	well	placed	to	enjoy	an	extended	period	of	high	
+growth and margin enhancement across all of our remaining 
+facilities over the coming years.
+LED Technologies
+Sales in LED Technologies increased from £23.0 to £28.2 million, 
+operating profit was up from £2.2 to £2.6 million. 80.8% of our 
+sales	(2013	–	81.1%)	came	from	our	W ipac	supercar	lighting	
+business with the balance from LED optics.
+W ipac	has	now	secured	new	lighting	programs	for	a	number	of	
+leading global supercar brands. During the financial year we were 
+awarded design and manufacture contracts for six new vehicles. 
+W e	are	also	in	the	final	stages	of	negotiation	for	lighting	contracts	
+for several other vehicles. To put this into perspective, we would 
+normally have anticipated winning two or three lighting contracts 
+per year. These new programs are now in the design phase and 
+will	flow	through	into	manufacturing	in	around	two	to	three	
+years. These new contracts represent a significant step forward 
+for	our	W ipac	business,	as	whilst	the	vehicle	production	numbers	
+are modest across this segment (normally lower than 10,000 
+vehicles per annum per model), the number of models that we 
+will be manufacturing represents a step change on any previous 
+levels.	W e	are	therefore	investing	approximately	£4.0	million	over	
+the next two years into our facilities to ensure that we have the 
+manufacturing and efficiency capabilities to meet our customers’ 
+highly demanding expectations. 
+W e	aim	to	have	a	truly	world	class	manufacturing	operation	as	
+we believe that we can continue to grow strongly within this 
+segment.	W e	now	service	most	of	the	leading	iconic	automotive	
+brands and have focused heavily during the year on building more 
+strategic relationships with our key customers to ensure our own 
+lighting research and development activities and theirs are well 
+aligned.	Revenue	on	new	programs	is	recognised	throughout	the	
+design and manufacturing start-up phase before moving to more 
+traditional piece part pricing and as such we have good visibility 
+over the coming years of how this business is likely to grow.
+The strategy of our Carclo Optics operation has been realigned 
+to provide a greater focus on developing and supplying bespoke 
+‘cluster’ optics for major OEMs rather than smaller individual 
+optics. This strategy has been successful and a number of OEM 
+programs have been brought to market using Carclo Optics 
+during the year. The business increased its turnover by 34.3% 
+in	2013/14.	W e	have	completed	the	lease	on	a	larger	facility	in	
+Aylesbury to relocate from our existing facility in Slough upon 
+the expiry of the lease for that building. This move will combine 
+the Optics design and distribution business with that of our 
+W ipac	aftermarket	distribution	business	to	free	up	space	in	
+W ipac’s	Buckingham	UK	facility .	In	order	to	continue	to	drive	
+momentum into the growth of our optics business, we will move 
+a large proportion of our manufacturing of the Optics from our 
+Technical Plastics business to within our LED Technologies division 
+to simplify customer interaction and increase management focus. 
+W e	are	also	investing	in	new	ranges	of	innovative	optics	enabling	
+both a class leading performance as well as the ability to create 
+custom light clusters which utilise these optics in a low cost 
+modular format.
+W e	expect	our	LED	T echnologies	division	to	maintain	double	digit	
+revenue growth for the coming years and this will drive year on 
+year growth in margins.
+Precision Engineering
+Sales increased from £7.5 to £7.8 million and operating profits 
+remained at £1.5 million. The year was aided by a one-time 
+contract for remedial machining of a Tier 1 supplier’s parts for 
+a major OEM. Adjusted for this one-off revenue the underlying 
+financial	performance	was	lower	year	on	year	and	reflected	
+a reduction in volumes at our French operations due to a 
+combination of lower build rates for a key helicopter customer 
+and lower cable assembly spares for older aircraft. 
+This business will remain profitable and we will continue to 
+focus the business towards OEM supply to replace the inevitable 
+reduction in spares for older aircraft as they are retired.
+W e	disposed	of	the	business,	assets	and	stocks	of	our	Birkett	
+Cutmaster bandsaw business at the end of the year for £0.3 
+million in cash; this disposal will have minimal impact on the 
+division’s future profitability.
+Carclo Diagnostic Solutions 
+Our CDS business has developed fully disposable, novel Point-
+of-Care diagnostics platforms which do not rely on a secondary 
+reader for analysis and quantitative results. CDS platforms 
+integrate	low	cost	electronics	from	CIT	with	microfluidic	
+mouldings from our Technical Plastics business.
+Earlier in the year CDS partnered with EKF Diagnostics plc (“EKF”) 
+to develop its Micropoc-pro platform to be used with EKF’s 
+acute kidney injury marker (“pi-GST”). Initial patient sample trials 
+are now underway; the first indicative results for the platform 
+are encouraging. Further sample trials with larger numbers of 
+devices are planned over the coming months. Aside from the 
+potential commercial rollout of a disposable point of care kidney 
+injury marker device, this joint program has enabled us to rapidly  REPORT & ACCOUNTS 2014
+page 13
+STRATEGIC REPORT - CHIEF EXECUTIVE’S REVIEW
+develop our Micropoc-pro platform and to better understand its 
+likely specificity and sensitivity. 
+Having had CDS as an embryonic technology for several years, it 
+was appropriate to conduct a full strategic review of this business 
+and, working with a leading global medical device consultancy 
+firm, we considered whether our technology was relevant to 
+the industry, whether it was sufficiently unique and whether our 
+market focus was appropriate. The outcome of the review was 
+very positive and provided a strong recommendation on the most 
+suitable market application areas for the current technology base. 
+On the basis of this review, along with information we have 
+received from potential partners, we are now in the process 
+of increasing our investment in CDS in order to realise the 
+high	potential	from	our	technology .	W e	have	commenced	the	
+recruitment of a life sciences technical group based within our 
+CIT Cambridge facility. This new team will work alongside our 
+existing Daresbury team and focus on an aggressive development 
+of our device in a total of four application areas. The first two 
+applications are consistent with our previous effort, being the 
+kidney injury marker (“pi-GST”) and a whole blood coagulation 
+device. In addition we will develop two other devices, the first 
+for a Cardiac Marker (“Troponin-l”) used to diagnose acute 
+myocardial infarction (“AMI”) as well as heart muscle cell death 
+and	a	second	for	an	infectious	disease	marker	(“CRP ”)	used	to	
+diagnose a number of conditions including bacterial infections, 
+cardiac conditions and certain cancers. In all cases we plan to 
+use pre-existing third party reagents during the initial stages 
+of	development.	W e	have	developed	a	detailed	work	plan	
+summarised in Table 1 below.
+ 
+Table 1. CDS Development Timelines
+The markets for the four products identified have a combined value of over £2.5 billion and are growing rapidly. Our business model is 
+focused on the initial development of an optimised demonstration device up until Phase 3, in collaboration with partners, and thereafter 
+licensing deals would be expected to provide either one-off or recurring revenues.
+This business is still in its early stages and there remains a level of technical risk associated with our platforms and their suitability for the 
+chosen application areas. Progress has been sufficiently positive such that we see accelerating our investment as necessary if we are to realise 
+the potential of this development.
+CIT Printed Electronics
+Having already created a high volume and low cost method of creating copper on film circuitry we are now focused on finding appropriate 
+applications for this technology. This printed electronics technology development was the precursor to our touch screen developments and 
+the	focus	on	touch	screens	left	the	simpler	lower	cost	“printed”	version	of	our	technology	sitting	in	the	background.	W e	have	now	created	
+a	standalone	business	within	CIT	tasked	with	commercialising	this	technology .	W e	completed	the	installation	of	pilot	scale	production	
+equipment during the year to add component assembly on to our materials so that we can demonstrate the unique capabilities of this 
+technology to customers and also supply small scale production of functioning product. Our own focus will be on integrating electronics into 
+medical	devices	and	as	such	we	are	working	on	several	technology	demonstrators.	W e	are	also	working	on	a	number	of	other	projects	in	
+printed electronics as well as projects that utilise our fine line technology. Our strategy will be to focus on medium term revenue opportunities 
+which may be supplied from our own facilities or built by external partners.  
+Chris Malley
+10 June 2014
+Phase 1
+Phase 2
+Phase 3
+Commercial 
+Partnership
+Phase 4
+Phase 5
+Prepare Product Definition Document
+Develop prototype assay
+Optimisation of assay and device, R&D scale
+Performance evaluation
+Scale-up device and reagent manufacturing process
+Performance assessment
+Validation
+Verification
+Regulatory submissions
+Launch activities
+Coag
+CAT
+pi-GST
+Pro
+CRP
+CAT
+Troponin-I
+Pro
+Q4’ 2014 Q1’ 2015
+Q3’ 2014 Q1’ 2014 Q3’ 2015 Q1’ 2016
+Q2’ 2015 Q1’ 2015 Q1’ 2016 Q3’ 2016
+Q3’ 2015 Q2’ 2015 Q2’ 2016 Q4’ 2016
+12-months 12-months 12-months 12-months

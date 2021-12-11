@@ -1,0 +1,497 @@
+ 8 Patsystems plc
+I joined the business in January 2006 
+with high expectations that our 
+people, products and the opportunities 
+within our market would enable us to 
+build a highly successful business.
+The results for the financial year ended 
+31 December 2006 are a significant 
+step in our ambition to become a key 
+technology provider to the electronic 
+trading industry and demonstrates 
+that my initial impression as to the 
+fundamental strength of this business 
+was well founded.
+The overall performance of the 
+business has shown a significant 
+improvement compared to the 
+previous year with an operating profit 
+under IFRS of £1.6 million compared to 
+£0.3 million in 2005.
+Underlying turnover has risen 15% to 
+£15.3 million compared to £13.3 million 
+in 2005. Underlying turnover excludes 
+the revenue related to the provision 
+of hardware and hardware support 
+on the Tokyo Grain Exchange project 
+in 2005 which was supplied at a low 
+margin and is one-off in nature.
+Despite the turnover growth the cost 
+base has been closely monitored with 
+the operating expenses being £13.3 
+million compared to £13 million in 2005. 
+TRADING SYSTEMS AND MARKET 
+CONNECTIVITY
+Trading systems revenue increased by 
+15% to £13.3 million during the year.
+The change in ownership of Refco in 
+November 2005 did have a negative 
+impact on recurring revenues in 2006, 
+but revenue from new customers, 
+and growth from existing customers 
+compensated for that revenue 
+shortfall.
+During the year there were 
+three additional installations for 
+two existing customers in new 
+geographical regions and nine 
+installations for new customers 
+to Patsystems. The new customer 
+installations included JPMorgan in 
+London, Citigroup in New York and 
+Singapore, and CFETS, the People’s 
+Bank of China subsidiary, in Shanghai.
+At the start of 2006, we set an 
+objective to establish Pro-Mark, our 
+trading screen for the high-volume 
+David Webber 
+Chief Executive
+I am pleased to announce the 
+first set of financial results for 
+Patsystems under my leadership.
+Chief Executive’s Report professional, within the professional 
+electronic trader community. Though 
+take-up of the screens was slower than 
+anticipated in the first half of the year, 
+by 31 December 2006 we had achieved 
+129 billable users. 
+Throughout the year we have 
+continued to add functionality to both 
+our retail and professional offerings.
+At the Futures and Options Week 
+(FOW) tradeshow in London in June, 
+we launched trailing stops and 
+brackets functionality for the J-Trader 
+product. In the summer, additional 
+functionality to support the trading 
+of CME Eurodollar options, New York 
+Mercantile Exchange NYMEX energy 
+spreads and CBOT agricultural futures 
+was made available in Pro-Mark. We 
+also launched a plug-in tool to enable 
+seamless integration of Microsoft Excel 
+strategy spreadsheets with Pro-Mark.
+Additionally, at the Futures Industry 
+Association (FIA) exposition in Chicago 
+in November 2006, we showcased our 
+new charting capability that is being 
+embedded within both our retail and 
+professional trading systems.
+During the year, all of our customers 
+were upgraded to the latest version 
+of our price distribution servers at an 
+additional charge and all of our major 
+customers took the option to upgrade 
+to the latest version of our transaction 
+servers.
+The Global Trading project achieved 
+our planned milestones for the year 
+with the beta software release being 
+available for the sponsoring customers 
+for the last quarter of the year. Two 
+of our major customers have signed 
+contracts to upgrade to the new core 
+architecture in 2007 and a further three 
+are currently in discussions to schedule 
+their projects for 2007.
+Global Trading provides our customers 
+with the ability to run the system 
+continuously, with the down-time 
+limited only to a minimal weekly 
+clean-up period, and to deploy a 
+number of instances of the software 
+across diverse geographical locations 
+while managing the software as a 
+single instance. Most importantly, it 
+enables our customers, through the 
+Global Order Management capability, 
+to view their overall customers’ 
+trading and position activity. When 
+Global Trading is combined with 
+Risk Informer it enables Patsystems 
+When Global Trading is combined 
+with Risk Informer it enables 
+Patsystems to provide a fully global 
+electronic trading and risk solution.
+Report & Accounts 2006 9
+“Berkeley Futures 
+and Patsystems 
+have worked 
+well together in 
+the support and 
+promotion of 
+Berkeley IQ-Trader.”
+Marc Quinn,  
+Senior Associate 
+Director,  
+Berkeley Futures 10 Patsystems plc
+to provide a fully global electronic 
+trading and risk solution on an open 
+hardware platform.
+The Global Trading product has been 
+designed so that the existing trading 
+front-ends, Pro-Mark and J-Trader, 
+the Risk Informer product and our 
+exchange connections will operate 
+within both the Global Trading 
+solution and the existing core system.
+Connectivity has been further 
+established to a number of additional 
+electronic exchanges, bringing the 
+total supported to 37. Connectivity 
+was established to the Dubai Gold and 
+Commodity Exchange and the Mexican 
+Derivatives Market at the close of the 
+year and we are encouraged by the 
+further business opportunities that 
+connections to new geographies, such 
+as these, will bring to the business.
+RISK SYSTEMS
+The Tamesis business acquired in August 
+2005 is now integrated fully into our 
+operations and we remain confident that 
+Risk Informer, the real-time risk margining 
+product, will fulfil the expectations 
+held at the time of acquisition.
+We have enjoyed tremendous support 
+from Calyon Financial, the Credit 
+Agricole subsidiary, in establishing 
+the Risk Informer product within our 
+market. In March we announced that 
+Calyon Financial chose Risk Informer, 
+after a global selection process, as 
+their preferred product for providing 
+real-time risk margining for their 
+futures business. 
+Subsequent to our financial year-end, 
+and directly resulting from the success 
+of the earlier project, Calyon Financial 
+has announced an extension of that 
+project with Risk Informer to provide 
+risk margining for their spot and 
+forward foreign exchange and foreign 
+exchange options business.
+In October 2007, we announced that 
+CFETS has also contracted to adopt 
+Risk Informer to monitor risk for 
+all the business that their members 
+submit to the CME through the 
+Patsystems CME gateway.
+We enter 2007 with opportunities to 
+provide the global risk management 
+Connectivity has been further 
+established to a number of additional 
+electronic exchanges, bringing the 
+total supported to 37.
+Chief Executive’s Report continued capability to a number of futures 
+clearing merchants.
+EXCHANGE SYSTEMS
+In 2005 we delivered the Tokyo 
+Grain Exchange (TGE) project for 
+the continuous market system. We 
+have continued to provide TGE with 
+additional services through out the year.
+By their nature, opportunities for 
+systems projects for electronic futures 
+exchanges arise infrequently and 
+the selection processes to appoint a 
+vendor are usually in excess of nine 
+months. Hence our business plans for 
+2007 do not presume the winning of 
+a new exchange systems contract. 
+Nevertheless, we have several 
+prospective opportunities that are 
+in the early stages of their selection 
+process and if we should be selected 
+for either of these our 2008 financial 
+results would benefit.
+I am particularly pleased to see how 
+the revenue mix for our exchange 
+business has matured. The increasing 
+proportion of recurring revenue within 
+our exchange business enables us 
+to identify 95% of anticipated 2007 
+revenue coming from established 
+customer relationships and being 
+recurring in nature.
+BRAND AND MARKETING
+With a new range of products and 
+an ambition to be seen within our 
+sector as the technology partner of 
+choice, rather than one of a number 
+of independent software vendors, 
+we decided at the start of 2006 
+to fundamentally review how we 
+position the business in our sector.
+In the first quarter of the year, 
+we carried out extensive market 
+research with our existing customers, 
+prospective customers and technology 
+partners to assess the existing 
+perception of Patsystems within the 
+market. The research made it apparent 
+that for our marketing to successfully 
+support our business growth 
+aspirations, we needed to move 
+perception away from Patsystems as 
+a supplier of excellent trading screen 
+functionality to one of a capable and 
+trusted technology partner.
+In the second quarter of 2006, the 
+target sectors and individuals were 
+identified and the core Patsystems 
+proposition to the market was defined. 
+Report & Accounts 2006 11
+Risk Informer: 
+Is your approach to 
+risk restricting your 
+ability to take on 
+new business?
+Unlock the potential 
+with Risk Informer. 12 Patsystems plc
+On the back of this approach we 
+launched a campaign for Risk Informer 
+during the early summer that produced 
+a good number of new sales prospects, 
+extended awareness in our market 
+place and generated a good level of 
+press coverage.
+In the third quarter, the key brand 
+message and the revisions to our sales 
+collateral, website and exhibition 
+stands were established. At the core 
+of this will be the establishment of the 
+‘Total FlexAbility’ brand. In November 
+at the FIA event in Chicago, we 
+launched the new visual concept for 
+our advertising and exhibition branding 
+and also launched a completely 
+refreshed and restructured website.
+For 2007, we have substantially 
+increased our planned expenditure 
+for marketing to support the ongoing 
+growth of our new products, and our 
+penetration into new asset classes 
+and trading communities. Additional 
+expenditure has been allocated to 
+promote the range of modules within 
+our core offering available to those 
+organisations wishing to take best 
+of breed technology rather than a 
+complete end-to-end solution.
+BUSINESS RISK, STRATEGY AND 
+PRODUCT DEVELOPMENT
+The principal business risks remain the 
+same as in previous years:
+Competition
+The Group operates in a growing 
+but competitive market. There are 
+three major software suppliers in 
+the global electronic trading systems 
+market for futures and options, of 
+which Patsystems is one. There are 
+many smaller companies who supply 
+screens, but not market connectivity. 
+In such a market there is always a 
+risk that customers could move to 
+other competitors and there is always 
+downwards pressure on margins. 
+Patsystems mitigates this risk by 
+supporting it’s brands with appropriate 
+marketing activity and by consistently 
+extending it’s market connectivity 
+as well as improving it’s software, 
+customer support and customer care.
+Customer consolidation
+Consolidation within the financial 
+services industry has occurred over 
+the past few years and further 
+We plan to extend our sales functions in 
+each of our operational regions and we 
+are looking to extend the quality and 
+level of support services we provide.
+Chief Executive’s Report continued consolidation remains a risk. Where 
+consolidation takes place the risk 
+to our business is typically  to the 
+revenues associated with market 
+connectivity and support and 
+maintenance. Patsystems mitigates  
+this risk by actively adding new 
+customers, products and asset 
+categories to our portfolio.
+Our business strategy remains 
+unchanged with the ambition:
+to extend the asset classes we 
+support beyond futures and options 
+on which we currently focus
+to service products converting from 
+open outcry markets to electronic 
+trading; and
+to broaden our presence beyond the 
+locations where we presently operate.
+We believe the reference sites we gain 
+in 2007 will enable Risk Informer to be 
+extended across trading of any type and 
+will ensure that business opportunities 
+are not limited to our historical market 
+of futures and options.
+For our front-end trading screens, we 
+will be looking to extend functionality 
+to strengthen our position in the market.
+For the core system, we plan to extend 
+the functionality to support crossing of 
+internal and external order flow, which 
+•
+•
+•
+will benefit any of our customers 
+considering becoming Systematic 
+Internalisers under the new Markets in 
+Financial Instruments Directive (MiFID).
+Investment in exchange connectivity 
+will continue to be in line with 
+anticipated market demand for new 
+product types and liquidity pools.
+BUSINESS EVOLUTION
+During 2007, we plan to extend 
+our sales functions in each of our 
+operational regions and we are 
+looking to extend the quality and 
+level of support services we provide, 
+particularly in North America.
+Currently, we have sales and support 
+operations in Chicago, London, 
+Report & Accounts 2006 13 New York, Singapore, Sydney and Tokyo. 
+During 2007, we plan to extend our 
+representation in Shanghai, Hong Kong 
+and within North America and consider 
+representation in other geographies. 
+We expect to re-introduce trading 
+systems support in Chicago, in addition 
+to support functions in London and 
+Singapore, to enable us to provide a more 
+seamless support service 24 hours a day.
+We have established performance 
+benchmarks for our key operational 
+areas and these will be monitored 
+through out the year.
+We are instigating a major change 
+in our release policy to enable us to 
+better serve our customers and to 
+enable them to plan their software 
+upgrades more effectively. From the 
+first quarter 2007 onwards, we will 
+switch to quarterly software releases 
+for both our core systems and the 
+front end trading screens.
+EXECUTIVE MANAGEMENT 
+COMMITTEE
+The senior executive team remains 
+broadly the same as at the start of 
+2006 with Kazuaki Takabatake as 
+Head of Asia Pacific, Patrick Kenny 
+responsible for North American 
+operations, Graeme Neilly as Director 
+European sales and global accounts 
+and Jon Regan as Head of new 
+business sales Europe.
+In November 2006, Martin Coen left 
+Patsystems and the opportunity was 
+taken to better align the structure 
+of our operations for the growth 
+opportunities we expect for the 
+business.
+Andy Edwards, as product and 
+development director, has taken 
+responsibility for the aspects of 
+Martin’s role pertaining to product 
+selection and investment so that 
+planning and resource management in 
+this area are more closely aligned to 
+the product development function.
+Kieron O’Toole joined at the start of 
+2007 as Client Services Director, with 
+responsibility for software support, 
+software releases, and trading and risk 
+system installations. Kieron joins us 
+with an accomplished track record in 
+software company operations within 
+the financial sector.
+14 Patsystems plc
+Chief Executive’s Report continued
+…we are confident that we can 
+deliver our planned turnover and 
+profit growth in 2007 and 2008. This organisational change will enable 
+Andy and Kieron to focus on maturing 
+our development, support and 
+implementation functions.
+These six executives, plus Martin 
+Thorneycroft and myself, constitute 
+our Executive Management 
+Committee. I am delighted to be 
+leading such a committed and 
+professional management team.
+STAFF
+I have enjoyed working with the 
+Patsystems staff enormously in 2006, 
+and I thank them for the positive 
+manner in which I was received as the 
+new CEO.
+They should all feel great pride in what 
+they have achieved in the business 
+over the last year and I am sure they 
+share my excitement as to what the 
+future may bring for our company.
+We do envisage a marginal increase 
+in the number of employees over 
+the coming year, as we increase 
+headcount in our sales and support 
+functions. Overall salary costs are 
+budgeted to increase to reflect 
+salary increases and anticipated 
+bonus payments to staff, contingent 
+on achieving the anticipated 2007 
+financial performance.
+BUSINESS OBJECTIVES AND OUTLOOK
+Our key objectives for 2007 are as 
+follows:
+To establish the Patsystems 
+FlexAbility brand and establish 
+ourselves as technology partner of 
+choice within our market place;
+To grow substantially the Pro-Mark 
+installed user-base;
+To establish user communities for 
+both Global Trading and the Risk 
+Informer product;
+To extend our technology into 
+additional asset classes and
+To deliver productivity gains within 
+our product development, delivery 
+and support functions to further 
+increase our operating margin.
+Trading subsequent to the year-end has 
+progressed in line with expectations. 
+Despite the planned amalgamation of the 
+futures trading businesses of Calyon 
+Financial and Fimat we are confident 
+that we can deliver our planned turnover 
+and profit growth in 2007 and 2008.
+David Webber 
+Chief Executive plc
+•
+•
+•
+•
+•
+Report & Accounts 2006 15

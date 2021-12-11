@@ -1,0 +1,2249 @@
+ annual report & accounts 2016 Daily Internet Plc  Annual Report & Accounts 2016 2
+contents
+4 directors, secretary & advisers
+6 highlights
+8 strategic report – chairman’s statement
+9 strategic report – chief executive officer’s report
+11 strategic report – finance director’s report
+16 board of directors’ profile
+18 directors’ report
+22 directors’ remuneration report
+25 corporate governance report
+28 statement of directors’ responsibilities
+30 independent auditor’s report to the members of daily internet plc
+33 consolidated statement of comprehensive income
+35 consolidated statement of financial position
+38 company statement of financial position
+41 consolidated statement of changes in equity
+43 company statement of changes in equity
+45 consolidated statement of cash flows
+48 company statement of cash flows
+50 notes to the consolidated financial statements
+80 notice of annual general meeting Daily Internet Plc  Annual Report & Accounts 2016 3
+directors, secretary  
+and advisers Daily Internet Plc  Annual Report & Accounts 2016 4
+directors, secretary & advisers
+Board of Directors
+John Michael Edelson
+Non-Executive Chairman
+Christopher Neil Evans
+Chief Executive Officer
+Julie Joyce
+Finance Director
+Robert Khalastchy
+Non-Executive Director
+Company Secretary
+Clive Maudsley FCA
+Registered Office
+First Floor, Nelson House
+Park Road, Timperley
+Cheshire WA14 5BZ
+Company Number
+06172239
+Company Website
+investor.daily.co.uk
+Head Office
+Walker House
+Exchange Flags
+Liverpool L2 3YL
+Nominated Adviser & Broker
+Shore Capital and Corporate Ltd
+Bond Street House
+14 Clifford Street
+London W1S 4JU
+Registrar
+Computershare Investor Services plc
+The Pavilions
+Bridgwater Road
+Bristol BS13 8AE
+Lawyers
+Kuit Steinart Levy LLP
+3 St Mary’s Parsonage
+Manchester M3 2RD
+Independent Auditor
+BDO LLP
+3 Hardman Street
+Manchester M3 3AT
+Principal Bankers
+Barclays Bank plc
+One Churchill Place
+London E14 5HP
+Financial PR
+Newgate Communications
+Sky Light City Tower
+50 Basinghall St
+London EC2V 5DE Daily Internet Plc  Annual Report & Accounts 2016 5
+highlights Daily Internet Plc  Annual Report & Accounts 2016 6
+highlights
+Financial
+2016 2015 2016
+(% increase)
+Revenue £4.76m £3.89m 22.4%
+Gross profit £3.00m £2.42m 24.2%
+Gross profit margin 63.0% 62.2% 1.5%
+Adjusted EBITDA* £0.67m £0.41m 62.0%
+Profit/(loss) before tax £0.25m £(0.14)m N/A
+Cash generated from operations** £0.67m £0.35m 91.9%
+Net (Cash)/Debt*** £(0.21)m £0.39m N/A
+Basic EPS (pence) 0.06p (0.02)p N/A
+*Adjusted EBITDA is earnings before interest, taxation, depreciation, amortisation,  
+acquisition costs and fair value adjustments and share based payments
+**Before working capital movements 
+*** Net (Cash)/Debt is calculated as interest bearing debt, including obligations under financial leases, less cash
+Operational
+• Largest Managed Hosting customer upsold and renewed for a further three years 
+• New key contract wins in the Merchant and Distribution sector
+• Strategic partnership with Epicor Software 
+ -    SaaS platform developed for a subset of Epicor customers
+• Re-aligning of cost base completed which included: 
+ -    Closure of Maidenhead office 
+ -    Reduction of headcount in SME division 
+ -    Consolidation of duplicated functions across business units 
+ -    Netplan’s legacy SME business transferred into the Group’s SME division 
+ -    SME server estate consolidated into a common datacentre  Daily Internet Plc  Annual Report & Accounts 2016 7
+strategic report Daily Internet Plc  Annual Report & Accounts 2016 8
+chairman’s statement
+I am pleased to report another year of substantial progress in which we reported positive profitability after tax for the 
+first time. This follows on from us reporting our maiden adjusted EBITDA profit last year. The strong results delivered by 
+the Group for the year ended 31 March 2016 highlight the substantial organic growth we have achieved, coupled with 
+the successful integration of two acquisitions. Both of these acquisitions have now been fully integrated and continue to 
+perform well. 
+The acquisition of Q4Ex Limited alongside the appointment of Chris Evans as CEO, in December 2014, was an important 
+step in transitioning the business from our traditional SME Mass Market roots to one focused on Managed Hosting which is 
+supported by longer term contracts and is consequently higher margin and more profitable.
+Group revenues grew by 22% to £4.76m (2015: £3.91m). Growth was driven by our Managed Hosting division which 
+increased revenues 36%, whilst the SME Mass Market division experienced steady revenue growth of 10%.  Managed 
+Hosting now represents the majority of Group revenues. In the SME Mass Market business we have focused on 
+efficiencies through cost reductions to drive profitability.
+During the year the balance of the outstanding convertible loan notes has been repaid. Consequently at the year end the 
+Group had a net cash position of £0.21m. The strengthening of our balance sheet alongside investment in our capabilities 
+provides the Group with a good platform for future growth. 
+Our dedicated staff have continued to work tirelessly and diligently to continue the growth in the business led by the 
+example set by CEO Chris Evans and we believe this will ensure we can increase our growth in the coming year.
+Michael Edelson
+Chairman
+31 May 2016
+strategic report Daily Internet Plc  Annual Report & Accounts 2016 9
+chief executive officer’s report
+Introduction
+On entering this financial year we set ourselves a number of objectives, including the restructuring of our SME Mass Market 
+division and an increased focus on growing our higher margin Managed Hosting division, while extending the average 
+contract length of our larger Managed Hosting customers.  
+I am pleased to report that we have been successful in delivering on all of our objectives. The re-organisation was 
+completed in the second half of our financial year and the Managed Hosting division now forms the majority of our 
+revenues and remains the primary focus going forward. We also succeeded in ensuring our larger customers were 
+contracted for longer term periods (the majority of which for three years). This has provided the Group with improved 
+visibility of earnings and improved margins.
+Our SME Mass Market division delivered an EBITDA contribution to the Group of £0.56m (2015: £0.28m) whilst Managed 
+Hosting contributed £0.74m (2015: £0.57m). Group adjusted EBITDA was £0.67m, (after central costs of £0.63m) an 
+increase of 62.0% (2015: £0.41m).  
+Operational Review
+Managed Hosting division
+Our Managed Hosting division has maintained its strength in Payment Card Industry Data Security Standard hosting (“PCI 
+DSS”). We are a Level 1 Visa certified Service Provider and we consider this a strong differentiator to many of our peers. 
+The PCI DSS business has continued to perform well with an overall trend of increasing customer spend. In particular, 
+our largest customer renewed and extended the scope of its contract to bring in additional projects and add ‘compute 
+and storage’ capacity to existing resources. This contracted revenue provides considerable forward visibility. We are also 
+seeing an increase in consulting revenue as more of our customers seek help with their overall IT solution, this has in turn 
+assisted in driving further contracted managed services.
+The specialist Merchant and Distribution division of our Managed Hosting business delivered solid growth with a number 
+of key strategic client wins in its sector. We furthered our partnership with Epicor software which, the Directors’ believe, 
+provides the most advanced Enterprise Resource Planning (“ERP”) solution to the Merchant and Distribution industry in 
+the form of their BisTrack suite of products. Our knowledge of this software application has driven consulting revenue and 
+has assisted in creating the differentiator in this sector for our managed services providing a relatively unique one-stop 
+specialist service to this vertical.
+We developed a platform for a subset of Epicor customers effectively allowing them to purchase BisTrack application in a 
+Software as a Service (“SaaS”) model. Work with Epicor is continuing to build a joint sales pipeline for this SaaS product 
+and other managed services.
+Our technical team has also developed a cost effective disaster recovery solution. This solution utilises the Amazon Web 
+Services (“AWS”) public cloud platform allowing our customers to benefit from the ‘pay as you use’ elements of public 
+cloud. We continue to work on other offerings which can leverage a basket of technologies to bring best of breed solutions 
+to our clients in a cost effective manner.
+strategic report Daily Internet Plc  Annual Report & Accounts 2016 10
+We have continued to invest in our Managed Hosting business adding a number of key recruits to expand our technical 
+capabilities. In addition, we continue to invest in our staff, providing technical training and certification. Alongside this we 
+are tracking commercial trends so that we can continue to evolve and capitalise on changes within the Managed Hosting 
+landscape.
+SME Mass Market division
+During the second half of the financial year we completed the re-organisation of our SME Mass Market business. This 
+included the closure of one of our offices; the centralisation of a number of functions, including the removal of some 
+duplicated roles across the Group; and a simplification of management reporting lines. The overall effect was to reduce 
+staff numbers to a level more appropriate to the lower levels of growth expected from this segment. This re-organisation 
+improved overall EBITDA margin and ensured we could focus our efforts on capitalising on the growing opportunities in the 
+more profitable Managed Hosting division, where gross profit is higher and contracts are typically longer term.
+Acquisitions
+The businesses acquired in the previous financial year, being Evohosting and Q4Ex (which now trades as Netplan), have 
+been fully integrated and continue to perform well.
+The Board continues to evaluate acquisitions opportunities to supplement our organic growth but these must fit the 
+board’s stringent acquisition criteria.
+Current Trading and Outlook
+Trading since the financial year-end has been in line with management expectations. During the year we repaid the 
+remaining outstanding convertible loan notes, leaving the Group in a net cash position.
+With the slimming down of cost base in our SME Mass Market segment, the continued growth in our Managed Hosting 
+business along with our cash generation we are well placed going into the 2016/2017 financial year with a strong 
+foundation for future growth.
+We therefore look forward to the year ahead with confidence.
+Chris Evans
+Chief Executive Officer
+31 May 2016 Daily Internet Plc  Annual Report & Accounts 2016 11
+finance director’s report
+All of the Group’s activities relate to delivering IT Services and in particular Cloud based products and services along with 
+consulting. The Group is segmented into SME Mass Market and Managed Hosting.
+The SME Mass Market Division includes the Daily, Namehog and Evohosting Brands and offer Domain Registration, Email 
+Provision and Web Hosting solutions to the mass market.
+The Managed Hosting division includes the Netplan brand and the Q4Ex brand (which now trades under the Netplan 
+umbrella). Netplan offers both public and private cloud hosting using Amazon AWS and Microsoft Azure for its public cloud 
+solutions. The Managed Hosting division also includes PCI DSS consultancy and compliance services along with other IT 
+Managed Services and consulting.
+The revenue split of the divisions is shown below:
+ 
+Revenue by operating 
+segment
+2016
+£’000
+2016
+%
+2015
+£’000
+2015
+%
+SME Hosting 2,249 47% 2,039 52%
+Managed Hosting 2,515 53% 1,852 48%
+Total 4,764 100% 3,891 100%
+It is the Group’s intention to focus on margin while growing the SME Mass Market division by leveraging on the automated 
+systems that have been developed and continue to be developed since the business started in 2007. All acquisitions 
+have been fully integrated to reduce overhead costs, increase supplier discounts and enable cross selling and up-sell 
+opportunities. 
+The focus of the Managed Hosting division is to continue to expand on its Cloud capabilities, its consulting and other 
+managed services, widen its sales and marketing channels by investment in its sales force, and by customer facing 
+marketing.  
+In addition, the Group will look to make strategic acquisitions to accelerate its growth and market penetration.
+ 
+Principal Risks and Uncertainties
+In line with the nature, size and complexity of the business the senior management team work very closely to identify and 
+evaluate areas of risk whilst developing and monitoring action plans to deal with any potential threats. All outcomes are 
+reported to the Board and support is given as necessary to ensure actions are carried out.
+Identifiable areas of risk include:
+• Dependency on key suppliers – the Group is dependent on certain key suppliers for the continued operation of its 
+business, the most significant of which are the supply of third party software and datacentre services. If any of these 
+strategic report Daily Internet Plc  Annual Report & Accounts 2016 12
+suppliers fail in the provision of their services it may have an adverse effect on the Group’s ability to provide services 
+to its customers. However, the Group continually assess suppliers for both price competitiveness and technical 
+innovation and are confident that alternative providers could be found.
+• Customer retention – the Group provides an essential service to its customers. Any diminution in service levels could 
+impact customer retention levels. However, the Group constantly monitors service levels and the low level of customer 
+attrition is evidence of the Group’s ability to provide the level of service required.
+• Network – the datacentres we utilise are linked by fibre that we lease. Should the network fail there would be an 
+adverse impact on the service provided to our customers. The Group has designed its network to have no single point 
+of failure, it connects with transit providers at different geographical locations.
+• Employees – the Group is a service organisation and as such, is dependent on the skills, knowledge and commitment 
+of its staff. The performance of the Group is dependent on retaining its staff. We mitigate this risk by offering 
+competitive reward packages.
+• Search engine optimisation – significant traffic is generated from customers using internet search engines (specifically 
+in the SME Mass Market segment). The Groups SEO performance is continually monitored to both maintain and 
+enhance, as any deterioration could have an adverse impact on Group revenue. The Group has experienced staff who 
+work alongside specialist agencies for this purpose.
+• Acquisitions – the Group has stated that its strategy is to continue to make acquisitions to strengthen its growth. The 
+risk is that we may not be able to find suitable acquisition targets. We mitigate this risk by employing and retaining high 
+quality individuals whose focus is solely to find suitable targets.
+Key Performance Indicator Review
+Revenue Growth 2016 2015
+Revenue £4.76m £3.89m
+Growth 22.4% 66.9%
+Revenue from continuing operations grew by 22.4% largely driven by Managed Hosting which grew 35.8% and SME Mass 
+Market 10.2%, in the previous year this was 174.0% and 6.5%, the higher rates in the previous year were largely down to 
+contributions from acquisitions made in prior periods.
+The adjusted EBITDA margin improved 62.0% to £0.66m (2015: £0.41m).
+Performance Review
+Group revenue for the year grew by 22.4% to £4.76m for the year to 31 March 2016 (2015: £3.89m). Revenue growth was 
+driven by the Managed Hosting division, which consists of the Netplan brand (incorporating Q4Ex), contributing revenues 
+of £2.52m (2015: £1.85m). The SME Mass Market division generated revenues of £2.25m (2015: £2.04m). 
+We continue to have good visibility of future revenues as many of our customers continue to pay in advance for their 
+services and larger customers have entered into multi-year contracts. As at 31 March 2016 there is £0.71m of deferred 
+revenue which will be released to profit in future periods. 
+Gross profit for the year was £3.01m (2015: £2.42m) representing a gross margin of 63.2% (2015: 62.2%). The slight 
+improvement in Gross profit being attributable to the Managed Hosting segment which drives higher margins than the 
+domain driven SME Mass Market division and is a direct result of the revenue to Managed Hosting which now represents  Daily Internet Plc  Annual Report & Accounts 2016 13
+the majority of revenue generated.
+Earnings before interest, taxation, depreciation and amortisation (“EBITDA”) for the year to 31 March 2016 is reported in 
+the financial statements at £0.91m (2015: £0.46m). Included within this figure are acquisition and integration costs, share 
+based payment costs and fair value adjustments, the EBITDA once adjusted for these items is £0.67m (2015: £0.41m). The 
+directors consider that an adjusted EBITDA figure is a more appropriate measure of the underlying performance of the 
+business.
+6 months to 
+September 15 
+£’000
+6 months to 
+March 16
+£’000
+2016
+£’000
+2015
+£’000
+SME Hosting 250 308 558 278
+Managed Hosting 376 366 742 567
+Group Overheads (350) (285) (635) (434)
+Adjusted EBITDA 276 389 665 411
+Balance Sheet
+Net cash inflow from operating activities during the year amounted to £0.65m (2015: £0.39m). Cash at bank at 31 March 
+2016 was £0.51m (2015: £0.43m).
+ 
+Payables falling due within one year are reported at £1.64m (2015: £1.85m). This figure includes an amount of £0.71m 
+(2015: £0.76m) for deferred revenue which will be released to profit in future years. 
+Payables falling due after one year are reported at £0.77m (2015: £1.68m). This figures includes the contingent 
+consideration payable on the Q4Ex acquisition £0.43m (2015: £1.22m), which is the fair value of the amounts payable in 
+shares.
+The Directors are confident there is sufficient working capital within the Group. However, should accretive acquisitions 
+become available the Group may seek to raise additional finance either through debt, equity or a mixture of the two.
+Our People
+Our people are very highly valued and the Directors place considerable emphasis on employees sharing in the success of 
+the Group. This is achieved through the participation in share option schemes. Due to the nature and size of the business, 
+employees are constantly encouraged to communicate with the Group’s senior management to discuss business issues 
+and potential improvements.
+It is the policy of the Group that there should be no unfair discrimination in recruiting and promoting staff, including 
+applicants who are disabled. The Directors are committed to maintaining and developing communication and consultation 
+processes with employees, who in turn are encouraged to develop an awareness of the issues affecting the Group.  Daily Internet Plc  Annual Report & Accounts 2016 14
+Divisional split average as at 31 March 2016 2015
+Board of Directors 4 5
+SME Hosting 12 19
+Managed Hosting 14 10
+Total 30 34
+Gender diversity as at 
+31 March 2016
+Men Women
+Number % Number %
+Board of Directors 3 75% 1 25%
+Senior Managers 4 100% - 0%
+Employees 19 86% 3 14%
+Total 26 87% 4 13%
+This Strategic Report was approved and signed by order of the board.
+Julie Joyce FCCA
+Finance Director
+31 May 2016 Daily Internet Plc  Annual Report & Accounts 2016 15
+board of directors’  
+profile Daily Internet Plc  Annual Report & Accounts 2016 16
+board of directors’ profile
+John Michael Edelson
+Non-Executive Chairman
+Mr Edelson brings a wealth of experience as a Board 
+Director to Daily Internet plc. He has been a Founding 
+Director or Chairman of a number of companies admitted 
+to the AIM market, including Prestbury Group plc, 
+Knutsford Group plc, Mercury Recycling Group plc (now 
+Ironveld plc) and ASOS PLC. He was a non-executive 
+Chairman of Bramhall plc, subsequently renamed Magic 
+Moments Internet plc and then Host Europe plc, which 
+acquired Magic Moments Design Limited in September 
+1999, a company of which Abby Hardoon was one of the 
+founding members. He has also been on the Board of 
+Manchester United Football Club since 1982. 
+Christopher Evans
+Chief Executive
+Mr Evans, studied Software Engineering at Liverpool John 
+Moores University before founding Switch Media Ltd, 
+a web hosting provider. Switch Media was listed in the 
+Deloitte Fast 50 for two years running in 2007 and 2008 
+before being acquired by iomart Group PLC in April 2011. 
+Following the acquisition by Iomart, he was a Director of 
+Iomart’s Easyspace division involved in integrating divisional 
+acquisitions and delivering the financial budget ahead of 
+plan. He was a founder of Q4Ex Ltd (a company acquired 
+by Daily).
+Julie Joyce
+Finance Director
+Mrs. Joyce is a Fellow of the Chartered Association of 
+Certified Accountants. She was employed as Finance 
+Manager at WebFusion Internet Solutions Limited, an 
+internet hosting company which was bought by Magic 
+Moments Internet plc in May 2000. She became Group 
+Financial Controller for Host Europe plc and its Group 
+companies following its acquisition of WebFusion Internet 
+Solutions Limited and continued in this role for the SME 
+Mass Market division of PIPEX Communications plc after 
+the sale to PIPEX in April 2004. She also has extensive 
+auditing and private practice experience, having spent ten 
+years in this sector prior to her move into commerce and 
+industry.
+Robert Khalastchy
+Non-Executive Director
+Mr Khalastchy is a graduate from the University of Sussex 
+where he received a Bachelor’s degree in Electronic 
+Engineering. For the past 20 years he has been involved in 
+commercial property management working with high net 
+worth overseas clients, assisting in the management of 
+their total UK portfolio and various planning applications, 
+as well as the day to day management of the portfolio. In 
+2001 he set up RK Management Limited, a commercial 
+property management company handling a portfolio in 
+excess of £35 million. In 2011 he set up Sterling Property 
+Management, a residential block property management 
+company which manages several prestigious blocks in 
+Central and West London. Daily Internet Plc  Annual Report & Accounts 2016 17
+directors’ report Daily Internet Plc  Annual Report & Accounts 2016 18
+directors’ report
+The Directors present their Annual Report and Audited Financial Statements for the year ended 31 March 2016.
+Principal Activities
+The principal activities of the business are the provision of IT Managed Services and are more particularly explained in the 
+strategic report.
+Business Review and Future Developments
+A review of the Group’s operations and performance during the financial year, setting out the position at the year-end, 
+significant changes in the year and providing an indication of the outlook for the future is contained in the Strategic report 
+on pages 7 to 14.
+Results and Dividends
+The Consolidated Statement of Comprehensive Income for the year is set out on page 33. The Directors do not propose 
+the payment of a Dividend for the year ended 31 March 2016.
+Financial Instruments
+The Group uses various financial instruments. These include bank loans, other loans, finance leases, cash and various 
+items (such as trade receivables and trade payables) that arise directly from its operations. The main purpose of these 
+financial instruments is to raise finance for the Group’s operations. The existence of these financial instruments exposes 
+the Group to a number of financial risks, which are described in more detail below.
+Liquidity Risk
+The Group seeks to manage financial risk by ensuring sufficient liquidity is available to meet foreseeable needs and to 
+invest cash assets safely and profitably. Short-term flexibility is achieved through available cash balances.
+Interest Rate Risk
+The Group finances its operations through a mixture of loan notes, finance leases and ordinary shares. The interest rate on 
+the loan notes and finance leases are fixed. The Group had outstanding loan notes which were repaid in the financial year 
+under report. Daily Internet Plc  Annual Report & Accounts 2016 19
+Credit Risk
+The Group’s principal financial assets are cash, and trade and other receivables. These balances are actively monitored 
+to avoid significant concentrations of credit risk however the total of the cash balances and trade and other receivables 
+represents the maximum exposure to credit risk.
+In order to manage credit risk, the agreement with the customer states preferred collection by direct debit and limits are 
+set for customers based on a combination of payment history and third party credit references. Credit limits are reviewed 
+by the credit control team on a regular basis in conjunction with debt ageing and collection history. For hosting services, 
+the Group predominantly invoices in advance and the agreement with the customer states preferred collection by direct 
+debit, therefore the financial risk in respect of these debtors is limited.
+Directors
+The Directors of the Company who held office during the year are as follows:
+•	 Michael Edelson Chairman
+•	 Christopher Evans Chief Executive
+•	 Julie Joyce Finance Director
+•	 Robert Khalastchy Non-Executive Director
+•	 Abby Hardoon Non-Executive Director (resigned 22 February 2016)
+The interests of current Directors in shares and options are detailed in the Directors’ Remuneration Report on page 23.
+Significant Shareholdings
+As of 12 May 2016 the Company has been notified of the following significant shareholdings:
+Name
+Number of 
+shares
+Percentage 
+holding
+Livingbridge EP LLP 93,495,489 18.32%
+Hargreave Hale Limited (discretionary clients) 65,696,970 12.87%
+Herald Investment Management Limited 41,958,642 8.22%
+Abby Hardoon 31,298,027 6.13%
+Christopher Evans 29,429,288 5.77%
+Michael Edelson 27,584,000 5.40%
+Bob Morton 20,151,515 3.95%
+Arthur Duffy 19,607,842 3.84%
+Paul Jones 19,607,842 3.84%
+Stuart Gibson 17,393,617 3.41% Daily Internet Plc  Annual Report & Accounts 2016 20
+Disclosure of Information to Auditors
+The Directors who held office at the date of approval of this Directors’ report confirm that, so far as they are each aware, 
+there is no relevant audit information of which the Company’s auditors are unaware; and each Director has taken all the 
+steps that he ought to have taken as a director to make himself aware of any relevant audit information and to establish 
+that the Company’s auditors are aware of that information.
+Going Concern
+The Directors have reasonable expectation that the Group has adequate resources to continue to operate for the 
+foreseeable future. For this reason they adopt the going concern basis for preparing the financial statements.
+Annual General Meeting
+The Annual General Meeting will be held on Tuesday, 5 July 2016 at 11.00am at Kuit Steinart Levy LLP, 7th Floor, 
+Blackfriars House, The Parsonage, Manchester M3 2JA. The full wording of the resolutions to be tabled at the forthcoming 
+Annual General Meeting is set out in the notice of the meeting on pages 79 to 82. 
+Auditors
+A resolution to re-appoint BDO LLP as auditors of the company will be put to the Annual General Meeting.
+By order of the Board
+Clive Maudsley FCA
+Company Secretary
+31 May 2016 Daily Internet Plc  Annual Report & Accounts 2016 21
+directors’ remuneration 
+report Daily Internet Plc  Annual Report & Accounts 2016 22
+directors’ remuneration report
+Introduction
+The report is not subject to audit and a resolution to approve it will be proposed at the Company’s Annual General 
+Meeting.
+Remuneration Policy
+The Group has a policy to attract, motivate and reward individuals of the highest calibre who are committed to growing 
+the value of the business and to maximising returns to shareholders. The policy is as relevant to Executive Directors as 
+it is to employees, as we aim to reward Executive Directors and senior employees aligned to the performance of the 
+Group. The remuneration structure for all employees considers remuneration rates of competitors to ensure continuity and 
+commitment.
+Directors’ Service Contracts
+Copies of Directors’ service contracts will be available for inspection at the Annual General Meeting.
+Pension Arrangements
+The Group does not operate a final salary pension scheme. Executive Directors who are entitled to receive pension 
+contributions may nominate a defined contribution scheme into which the Company makes payments on their behalf. 
+Directors’ Remuneration
+A summary of the total remuneration paid to current Directors is set out below:
+Director 
+2016 2015
+Salary
+£’000
+B ene fit s
+in kind 
+£’000
+Total
+£’000
+Salary
+£’000
+B ene fit s
+in kind 
+£’000
+Total
+£’000
+Michael Edelson 40 - 40 18 - 18
+Christopher Evans 96 - 96 39 - 39
+Julie Joyce 86 2 88 66 2 68
+Abby Hardoon 53 1 54 69 5 74
+Robert Khalastchy 12 - 12 10 - 10
+There were no pension contributions within the year. Daily Internet Plc  Annual Report & Accounts 2016 23
+Directors’ Interests in Ordinary Shares of Daily Internet plc
+The Directors in office at the end of the year had interests in the ordinary share capital of the company as shown below:
+Director 
+Number of 
+Ordinary Shares
+Percentage
+ Interest
+Christopher Evans 29,429,288 5.77%
+Michael Edelson 27,584,000 5.40%
+Robert Khalastchy 253,846 0.05%
+Julie Joyce 150,000 0.03%
+Directors’ Interests in Share Options
+The Directors had interests in options over ordinary shares of the Company at the end of the year as shown below:
+Director 
+Total Options Over 
+Ordinary Shares Grant Date Expiry Date
+Michael Edelson - - -
+Julie Joyce 1,000,000 19/12/2012 18/12/2022
+Robert Khalastchy 300,000 19/12/2012 18/12/2022
+Christopher Evans - - -
+Directors’ Warrants
+The Directors held the following warrants over the ordinary shares of the Company at the end of the year as follows:
+Director
+Exercise 
+Price
+No. of 
+Warrants Grant Date Expiry Date
+Michael Edelson 5p 100,000 09/01/12 08/01/22
+Mr Edelson’s warrants are exercisable at any time before 8 January 2022, provided that the Company may require the 
+exercise of these warrants if its shares are traded at a price in excess of 8p per share for a period of 60 business days and 
+an aggregate value of bargains exceeding £60,000 occurs over that period. Daily Internet Plc  Annual Report & Accounts 2016 24
+corporate governance 
+report Daily Internet Plc  Annual Report & Accounts 2016 25
+corporate governance report
+Introduction
+The Directors recognise the importance of, and are committed to, high standards of corporate governance. Although 
+compliance with the UK Corporate Governance Code is not compulsory for AIM companies, and therefore the Directors 
+do not claim compliance with the code, the Directors intend to apply the principles as they consider appropriate to a public 
+company of the size of Daily Internet Plc quoted on AIM, taking into account the recommendations contained in the QCA 
+Guidelines. 
+Board of Directors
+The Board comprises four Directors, two Executives and two Non-Executives, and reflects a blend of different experience 
+and backgrounds. The roles of Chairman (which is a non-executive position) and Chief Executive have been split by the 
+Board and there is a clear division of responsibility between the two. The Board considers Michael Edelson and Robert 
+Khalastchy to be independent in character and judgement notwithstanding their shareholding and/or share options in the 
+Group. The Board, through the Chairman and the Non-Executive Director as well as the Executive Directors, maintains 
+regular contact with its advisers and seeks to ensure that the Board develops an understanding of the views of the major 
+shareholders about the Company. The Board meets regularly throughout the year and is responsible for formulating, 
+reviewing and approving the Company’s strategy, financial activities and operating performance. Day-to-day management 
+is delegated to the Executive Directors who are charged with consulting the Board on all significant matters. Consequently, 
+decisions are made promptly following consultation amongst the Directors concerned where necessary and appropriate. 
+All necessary information is supplied to the Directors on a timely basis to enable them to discharge their duties effectively 
+and all Directors have access to independent professional advice at the Company’s expense, as and when required. The 
+Chairman is available to meet with institutional shareholders to discuss any issues and concerns regarding the Group’s 
+governance. The participation of the private and institutional investors at the AGM is welcomed by the Board. 
+Internal Controls
+The Directors acknowledge their responsibility for the Company’s and the Group’s systems of internal controls, which are 
+designed to safeguard the assets of the Group and ensure the reliability of financial information for both internal use and 
+external publication. Overall control is achieved by a regular detailed reporting system covering both technical progress of 
+a project and the state of the Group’s financial affairs. Any system of internal controls can provide only reasonable, and not 
+absolute, assurance that material financial irregularities will be detected or that risk of failure to achieve business objectives 
+is eliminated. The Directors consider that the system of internal controls operated effectively throughout the financial year 
+and up to the date the financial statements were signed. Based on the size and complexity of the Group, the Board of 
+Directors do not consider that there is a need for any internal audit function. 
+Committees 
+Audit Committee
+The Company has established an Audit Committee that comprises of Michael Edelson and Robert Khalastchy. Michael 
+Edelson is the Chairman of this Committee. The Audit Committee meets at least twice a year and is responsible for 
+reviewing the integrity of the financial statements of the Group, the Group’s compliance with legal and regulatory  Daily Internet Plc  Annual Report & Accounts 2016 26
+requirements, and the adequacy and effectiveness of the Group’s internal financial controls and risk management 
+processes including the extent to which internal audit review is required. It reviews the external auditors’ performance and 
+independence and makes recommendations to the Board on the appointment of the auditors. 
+Remuneration Committee
+The Company has established a Remuneration Committee that comprises Michael Edelson and Robert Khalastchy. 
+Michael Edelson is the Chairman. The Committee meets at least twice a year and is responsible for determining and 
+reviewing with the Board the policy for the remuneration of the Executive Directors and such other members of the 
+executive management it is designated to consider. Within the terms of the agreed policy, it determines the total individual 
+remuneration of the Executive Directors. The Remuneration Committee also approves the design of, and determines 
+targets for, any performance related pay schemes, reviews the design of any share incentive plans, determines the awards 
+to the Executive Directors and determines the policy for, and scope, of pension arrangements for each Executive Director.
+Rule 21 of The AIM Rules 
+The Board will comply with Rule 21 of the AIM Rules relating to Directors’ dealings and will also take all reasonable steps 
+to ensure compliance with that rule by the Group’s applicable employees. The Company has adopted a code on dealing in 
+securities of the Company and will take all reasonable steps to ensure compliance by the Directors and relevant employees 
+in due course. 
+Human Resources
+The Group endeavours to appoint employees with appropriate skills, knowledge and experience for the roles they 
+undertake. The Group has a range of polices which are aimed at retaining and providing incentives for key staff. Objectives 
+are set for departments and employees that are derived from the Group’s business objectives. The Group has a clear and 
+well-understood organisational structure and each employee knows his or her line of accountability Daily Internet Plc  Annual Report & Accounts 2016 27
+statement of directors’ 
+responsibilities Daily Internet Plc  Annual Report & Accounts 2016 28
+statement of directors’ 
+responsibilities
+The Directors are responsible for preparing the Annual Report of the Director’s and the Financial Statements in accordance 
+with applicable law and regulations. 
+Company law requires the Directors to prepare Financial Statements for each financial year. Under that law the Directors 
+have elected to prepare the Group and company financial statements in accordance with International Financial Reporting 
+Standards (IFRSs) as adopted by the European Union. Under company law the Directors must not approve the Financial 
+Statements unless they are satisfied that they give a true and fair view of the state of affairs of the Group and Company 
+and of the profit or loss of the Group for that period. The directors are also required to prepare financial statements in 
+accordance with the rules of the London Stock Exchange for companies trading securities on Alternative Investment 
+Market.
+In preparing these Financial Statements, the Directors are required to:
+• select suitable accounting policies and then apply them consistently;
+• make judgements and accounting estimates that are reasonable and prudent;
+• state whether they have been prepared in accordance with IFRSs as adopted by the European Union, subject to any 
+material departures disclosed and explained in the financial statements;
+• prepare the Financial Statements on the going concern basis unless it is inappropriate to presume that the Company 
+will continue in business.
+The Directors are responsible for keeping adequate accounting records that are sufficient to show and explain the 
+Company’s transactions and disclose with reasonable accuracy at any time the financial position of the company and 
+enable them to ensure that the Financial Statements comply with the requirements of the Companies Act 2006. They are 
+also responsible for safeguarding the assets of the Company and hence for taking reasonable steps for the prevention and 
+detection of fraud and other irregularities.
+Website publication
+The Directors are responsible for ensuring the annual report and the Financial Statements are made available on a website.  
+Financial statements are published on the Company’s website in accordance with legislation in the United Kingdom 
+governing the preparation and dissemination of financial statements, which may vary from legislation in other jurisdictions. 
+The maintenance and integrity of the Company’s website is the responsibility of the Directors. The Directors’ responsibility 
+also extends to the ongoing integrity of the financial statements contained therein.
+By order of the Board
+Clive Maudsley
+Company Secretary
+31 May 2016 Daily Internet Plc  Annual Report & Accounts 2016 29
+independent auditor’s 
+report to the members  
+of daily internet plc Daily Internet Plc  Annual Report & Accounts 2016 30
+independent auditor’s report to the 
+members of daily internet plc
+We have audited the financial statements of Daily Internet PLC for the year ended 31 March 2016 which comprise the 
+Consolidated Statement of Comprehensive Income, the Consolidated Statement of Financial Position, the Company 
+Statement of Financial Position, the Consolidated Statement of Changes in Equity, the Company Statement of Changes 
+in Equity, the Consolidated Statement of Cash Flows, the Company Statement of Cash Flows and the related notes. 
+The financial reporting framework that has been applied in their preparation is applicable law and International Financial 
+Reporting Standards (IFRSs) as adopted by the European Union and, as regards the parent company financial statements, 
+as applied in accordance with the provisions of the Companies Act 2006. 
+This report is made solely to the Company’s members, as a body, in accordance with Chapter 3 of Part 16 of the 
+Companies Act 2006. Our audit work has been undertaken so that we might state to the Company’s members those 
+matters we are required to state to them in an auditor’s report and for no other purpose. To the fullest extent permitted 
+by law, we do not accept or assume responsibility to anyone other than the Company and the Company’s members as a 
+body for our audit work, for this report, or for the opinions we have formed.
+Respective Responsibilities of Directors and Auditors
+As explained more fully in the Statement of Directors’ Responsibilities, the Directors are responsible for the preparation of 
+the financial statements and for being satisfied that they give a true and fair view. Our responsibility is to audit and express 
+an opinion on the financial statements in accordance with applicable law and International Standards on Auditing (UK 
+and Ireland). Those standards require us to comply with the Financial Reporting Council’s (FRC’s) Ethical Standards for 
+Auditors. 
+Scope of the Audit of the Financial Statements
+A description of the scope of an audit of financial statements is provided on the FRC’s website at www.frc.org.uk/
+auditscopeukprivate.
+Opinion on Financial Statements
+In our opinion: 
+• the financial statements give a true and fair view of the state of the Group’s and the Parent Company’s affairs as at 31 
+March 2016 and of the Group’s loss for the year then ended;
+• the Group Financial Statements have been properly prepared in accordance with IFRSs as adopted by the European 
+Union;
+• the Parent Company Financial Statements have been properly prepared in accordance with IFRSs as adopted by the 
+European Union and as applied in accordance with the provisions of the Companies Act 2006; and
+• the Financial Statements have been prepared in accordance with the requirements of the Companies Act 2006. Daily Internet Plc  Annual Report & Accounts 2016 31
+Opinion on other matters prescribed by the Companies Act 2006
+In our opinion the information given in the Strategic Report and the Directors’ Report for the financial year for which the 
+financial statements are prepared is consistent with the financial statements. 
+Matters on which we are required to report by exception
+We have nothing to report in respect of the following matters where the Companies Act 2006 requires us to report to you 
+if, in our opinion:
+• adequate accounting records have not been kept by the parent company, or returns adequate for our audit have not 
+been received from branches not visited by us; or
+• the parent company financial statements are not in agreement with the accounting records and returns; or
+• certain disclosures of directors’ remuneration specified by law are not made; or
+• we have not received all the information and explanations we require for our audit.
+Donald Bancroft (Senior Statutory Auditor)
+For and on behalf of BDO LLP
+Statutory Auditor
+Manchester
+United Kingdom
+31 May 2016
+BDO LLP is a limited liability partnership registered in England and Wales (with registered number OC305127) Daily Internet Plc  Annual Report & Accounts 2016 32
+consolidated statement  
+of comprehensive income Daily Internet Plc  Annual Report & Accounts 2016 33
+consolidated statement  
+of comprehensive income
+Notes
+2016 Group
+£’000
+2015 Group
+£’000
+Revenue 4 4,764 3,891
+Cost of sales - (1,755) (1,469)
+G r o s s	p r o fi t - 3,009 2,422
+Operating expenses before depreciation, 
+amortisation , acquisition and integration 
+costs, fair value adjustments and share 
+based payments
+- 2,343 2,011
+Operating profit before depreciation, amor-
+tisation , acquisition and integration costs, 
+fair value adjustments and share based 
+payments
+- 666 411
+Depreciation - 292 263
+Amortisation of acquired intangibles - 301 272
+Amortisation of purchased intangibles - 18 4
+Acquisition and integration costs - 34 148
+Fair value adjustment 3 (270) (83)
+Share based payments - (8) (118)
+Administrative expenses 5 (2,710) (2,497)
+P r o fi t	( l o s s )	f r o m	o p e r a t i o n s - 299 (75)
+Finance costs - (51) (63)
+P r o fi t	( l o s s )	b e f o r e	t a x a t i o n - 248 (138)
+Taxation 12 54 54
+Total comprehensive income (loss) 
+attributable to the equity holders of the 
+company
+- 302 (84)
+Basic and fully diluted earnings (loss) 
+per share
+11 - -
+Basic earnings (loss) per share - £0.006 £(0.0002)
+Fully diluted earnings (loss) per share - £0.006 £(0.0002)
+The Group’s results are derived from continuing operations. 
+The accompanying notes form an integral part of this consolidated statement of comprehensive income.
+for the year ended 31 march 2016 Daily Internet Plc  Annual Report & Accounts 2016 34
+consolidated statement  
+of financial position Daily Internet Plc  Annual Report & Accounts 2016 35
+consolidated statement  
+of financial position
+Notes
+2016 Group
+£’000
+2015 Group
+£’000
+Assets
+Non-current assets
+Goodwill 13 4,454 4,454
+Intangible assets 13 1,329 1,594
+Property, plant and equipment 14 450 592
+- 6,233 6,640
+Current assets
+Trade and other receivables 16 598 594
+Cash and cash equivalents - 513 426
+- 1,111 1,020
+Total Assets - 7,344 7,660
+Equity and Liabilities
+Equity attributable to the equity 
+shareholders of the parent
+Called up share capital 20 2,552 2,399
+Share premium reserve - 6,493 6,493
+Other reserve - 1,008 656
+Retained losses - (5,118) (5,420)
+- 4,935 4,128
+Non-current liabilities
+Obligations under finance leases 19 91 126
+Contingent consideration due on 
+acquisitions
+17 435 1,225
+Deferred taxation 12 242 327
+- 768 1,678
+Current liabilities
+Trade and other payables 17 718 712
+as at 31 march 2016 Daily Internet Plc  Annual Report & Accounts 2016 36
+Notes
+2016 Group
+£’000
+2015 Group
+£’000
+Deferred Income 17 707 756
+Contingent consideration due on  
+acquisitions
+17 - -
+Convertible loan notes 18 - 103
+Other loans 18 105 175
+Obligations under finance leases 19 111 108
+- 1,641 1,854
+Total Equity and Liabilities - 7,344 7,660
+As permitted by section 408 Companies Act 2006, the holding Company’s profit and loss has not been included in the 
+financial statements.
+The financial statements on pages 33 to 36 were approved by the Board and authorised for issue on 31 May 2016.
+Chris Evans
+Director
+Julie Joyce
+Director Daily Internet Plc  Annual Report & Accounts 2016 37
+company statement  
+of financial position Daily Internet Plc  Annual Report & Accounts 2016 38
+company statement  
+of financial position
+Notes
+2016 Company
+£’000
+2015 Company
+£’000
+Assets
+Non-current assets
+Investments 15 6,576 6,576
+Property, plant and equipment 14 33 3
+- 6,609 6,579
+Current assets
+Trade and other receivables 16 34 9
+Amounts due from subsidiary undertakings 16 - 87
+Cash and cash equivalents - 12 2
+- 46 98
+Total Assets - 6,655 6,677
+Equity and Liabilities
+Called up share capital 20 2,552 2,399
+Share premium reserve - 6,493 6,493
+Other reserve - 1,008 656
+Retained losses - (5,447) (5,061)
+- 4,606 4,487
+Non-current liabilities
+Amounts due from subsidiary undertakings - 1,543 817
+Contingent consideration due on 
+acquisitions
+17 435 1,225
+- 1,978 2,042
+Current liabilities
+Trade and other payables 17 71 45
+Convertible loan notes 18 - 103
+- 71 148
+Total Equity and Liabilities - 6,655 6,677
+as at 31 march 2016 Daily Internet Plc  Annual Report & Accounts 2016 39
+The financial statements on page 38 were approved by the Board and authorised for issue on 31 May 2016.
+Chris Evans
+Director
+Julie Joyce
+Director Daily Internet Plc  Annual Report & Accounts 2016 40
+consolidated statement  
+of changes in equity Daily Internet Plc  Annual Report & Accounts 2016 41
+consolidated statement 
+of changes in equity
+Attributable to equity holders of the parent
+Share 
+Capital
+£’000
+Share 
+Premium 
+Account 
+£’000
+Other 
+Reserve
+£’000
+Accumulated 
+Losses
+£’000
+Total 
+£’000
+At 1 April 2014 2,038 6,185 206 (5,336) 3093
+Loss and comprehensive loss - - - (84) (84)
+Issue of share capital 361 332 571 - 1,264
+Expenses of share issue - (24) (3) - (27)
+Movement in share option reserve - - (118) - (118)
+At 31 March 2015 2,399 6,493 656 (5,420) 4,128
+Profit and comprehensive profit - - - 302 302
+Issue of share capital 153 - 367 - 520
+Expenses of share issue - - (7) - (7)
+Movement in share option reserve - - (8) - (8)
+At 31 March 2016 2,552 6,493 1,008 (5,118) 4,935
+The following describes the nature and purpose of each reserve within equity:
+Reserve Description and purpose
+Share Premium Reserve Amount subscribed for share capital in excess of nominal values.
+Other Reserve
+Amount reserved for share based payments to be released over the life of the 
+instruments and the equity element of convertible loans and the amount sub-
+scribed for share capital in excess of nominal value of acquisition of another 
+company.
+Retained losses
+All other net gains and losses and transactions with owners (e.g. dividends) not 
+recognised elsewhere.
+for the year ended 31 march 2016 Daily Internet Plc  Annual Report & Accounts 2016 42
+company statement  
+of changes in equity Daily Internet Plc  Annual Report & Accounts 2016 43
+company statement 
+of changes in equity
+Attributable to equity holders of the Company
+Share 
+Capital
+£’000
+Share 
+Premium 
+Reserve 
+£’000
+Other 
+Reserve
+£’000
+Retained 
+Losses
+£’000
+Total 
+£’000
+At 1 April 2014 2,038 6,185 206 (4,642) 3,787
+Loss for the period - - - (419) (419)
+Issue of share capital 361 332 571 - 1,264
+Movement in share option reserve - - (118) - (118)
+Expenses of share issue - (24) (3) - (27)
+At 31 March 2015 2,399 6,493 656 (5,061) 4,487
+Loss for the period - - - (386) (386)
+Issue of share capital 153 - 367 - 520
+Movement in share option reserve - - (8) - (8)
+Expenses of share issue - - (7) - (7)
+At 31 March 2016 2,552 6,493 1,008 (5,447) 4,606
+for the year ended 31 march 2016 Daily Internet Plc  Annual Report & Accounts 2016 44
+consolidated statement  
+of cash flows Daily Internet Plc  Annual Report & Accounts 2016 45
+consolidated statement  
+of cash flows
+Notes
+2016 Group
+£’000
+2015 Group
+£’000
+C a s h	fl ow s	u s e d	i n	o p e r a t i n g	a c t i v i t i e s
+Profit (loss) after tax - 302 (84)
+Adjustments for:
+Depreciation and other amortisation 13 / 14 611 539
+Fair Value adjustment on contingent consideration 3 (270) (83)
+Finance costs - 51 63
+Acquisition costs 10 34 84
+Share based payments -        (8)        (118)
+Taxation - (54) (54)
+O p e r a t i n g	c a s h	fl ow s	b e f o r e	m o v e m e n t	i n	wo r k i n g	c a p i t a l - 666 347
+Decrease / (Increase) in trade and other receivables - 58 (201)
+(Decrease) / Increase in trade and other payables - (74) 240
+Net cash used in operating activities 650 386
+C a s h	fl ow s	f r o m	i n v e s t i n g	a c t i v i t i e s
+Payments to acquire property, plant & equipment - (72) (191)
+Payments to acquire intangible assets - (54) -
+Acquisition costs 10 (34) (75)
+Payment for acquisitions net of cash received - - (880)
+Net cash used in investing activities - (160) (1,146)
+C a s h	fl ow s	f r o m	fi n a n c i n g	a c t i v i t i e s
+Net proceeds from issue of ordinary share capital - (7) 408
+Drawdown of invoice discounting facility - 105 175
+Repayment of loan facility - (175) -
+Repayment of loan notes 18 (105) (170)
+Loan note interest paid - (10) (24)
+Interest element of finance lease payments - (39) (32)
+for the year ended 31 march 2016 Daily Internet Plc  Annual Report & Accounts 2016 46
+Notes
+2016 Group
+£’000
+2015 Group
+£’000
+Capital repayment of finance leases - (172) (170)
+N e t	c a s h	(u s e d ) / g e n e r a t e d	f r o m	fi n a n c i n g	a c t i v i t i e s - (403) 187
+Net increase (decrease) in cash and cash equivalents - 87 (573)
+Cash and cash equivalents at the beginning of the year - 426 999
+Cash and cash equivalents at the end of the year - 513 426 Daily Internet Plc  Annual Report & Accounts 2016 47
+company statement  
+of cash flows Daily Internet Plc  Annual Report & Accounts 2016 48
+company statement  
+of cash flows
+Notes
+2016 
+Company
+£’000
+2015 
+Company
+£’000
+C a s h	fl ow s	u s e d	i n	o p e r a t i n g	a c t i v i t i e s
+Loss after tax 23 (386) (419)
+Adjustments for:
+Depreciation - 12 -
+Share based payments - (12) (99)
+Finance costs - 12 32
+Fair Value adjustment on contingent consideration 3 (270) (83)
+Acquisition costs 10 11 84
+O p e r a t i n g	c a s h	fl ow s	b e f o r e	m o v e m e n t	i n	wo r k i n g	c a p i t a l - (633) (484)
+(Increase) in trade and other receivables - (25) (2)
+Increase (decrease) in trade and other payables - 26 (42)
+Net cash used in operating activities - (632) (529)
+C a s h	fl ow s	f r o m	i n v e s t i n g	a c t i v i t i e s
+Payments to acquire property, plant and equipment - (42) (3)
+Acquisition and costs 8 (11) (75)
+Final payment on acquisitions - - (550)
+Payment for shares in subsidiaries - -            (548)
+Net cash used in investing activities - (52) (1,176)
+C a s h	fl ow s	f r o m	fi n a n c i n g	a c t i v i t i e s
+Net proceeds from issue ordinary share capital - (7)               408
+Received from subsidiary company 18 817 1,022
+Repayment of convertible loan - (105) (170)
+Loan note interest paid - (10)               (24)
+N e t	c a s h	f r o m	fi n a n c i n g	a c t i v i t i e s - 695 1,236
+Net increase (decrease) in cash and cash equivalents - 10 (469)
+Cash and cash equivalents at the beginning of the year - 2 471
+Cash and cash equivalents at the end of the year - 12 2
+for the year ended 31 march 2016 Daily Internet Plc  Annual Report & Accounts 2016 49
+notes to the consolidated 
+financial statements Daily Internet Plc  Annual Report & Accounts 2016 50
+notes to the consolidated  
+financial statements
+1. Accounting Policies
+Statement of Compliance
+These Group and Company financial statements have been prepared in accordance with International Financial Reporting 
+Standards (IFRSs and IFRIC interpretations) as endorsed by the European Union (“endorsed IFRS”) and with those parts of 
+the Companies Act 2006 applicable to companies preparing their accounts under endorsed IFRS.
+Basis of Preparation
+The principal accounting policies adopted in the preparation of the Financial Statements are set out below. The policies 
+have been consistently applied to all the years presented, unless otherwise stated. The consolidated financial statements 
+have been prepared under the historical cost basis, except for the revaluation of certain financial liabilities which have been 
+valued in accordance with IAS 39.
+The preparation of financial statements in compliance with adopted IFRS requires the use of certain critical accounting 
+estimates. It also requires Group management to exercise judgement in applying the Group’s accounting policies. The 
+areas where significant judgements and estimates have been made in preparing the Financial Statements and their effect 
+are disclosed in note 2.
+Going Concern
+The Directors have prepared the Financial Statements on a going concern basis which assumes that the Group and the 
+company will continue to meet liabilities as they fall due.
+The directors have reviewed forecasts prepared for the period ending 31 March 2018 and considered the projected trading 
+forecasts and resultant cash flows together with confirmed loan facilities and other sources of finance.
+The Group’s forecasts and projections, taking account of reasonably possible changes in trading performance, show that 
+the Group can continue to operate within the current facilities available to it.
+The Directors therefore have a reasonable expectation that the Group has adequate resources to continue in operational 
+existence for the foreseeable future and thus they continue to adopt the going concern basis of accounting in preparing 
+the financial statements.
+for the year ended 31 march 2016 Daily Internet Plc  Annual Report & Accounts 2016 51
+New Standards and Interpretations Not yet Adopted
+At the date of authorisation of these financial statements, the following standards and interpretations which have not been 
+applied in these financial statements were in issue but not yet effective (and in some cases had not yet been adopted by 
+the EU):
+• IFRS 15 Revenue from Contracts with Customers
+• IFRS 9 Financial instruments
+• IFRS 16 Leases
+The adoption of these standards in future periods may have an impact on the results and net assets of the Group, however 
+it is too early to quantify this.
+Revenue
+Revenue is recognised to the extent that it is probable that the economic benefits associated with the transaction will flow 
+into the Group. Revenue represents the fair value of amounts received or receivable for goods and services provided net 
+of trade discounts and VAT. Revenue from the sale of domain name registrations is recognised when the domain name is 
+registered or renewed. Revenue from value added services is recognised as these services are delivered. Revenue from 
+hosting services is recognised over the life of each contract.
+Basis of Consolidation
+Where the company has control over an investee, it is classified as a subsidiary. The company controls an investee if 
+all three of the following elements are present: power over the investee, exposure to variable returns from the investee, 
+and the ability of the investor to use its power to affect those variable returns. Control is reassessed whenever facts and 
+circumstances indicate that there may be a change in any of these elements of control.
+The consolidated financial statements present the results of the company and its subsidiaries (“the Group”) as if they 
+formed a single entity. Intercompany transactions and balances between group companies are therefore eliminated in full.
+The consolidated financial statements incorporate the results of business combinations using the acquisition method. 
+In the statement of financial position, the acquiree’s identifiable assets, liabilities and contingent liabilities are initially 
+recognised at their fair values at the acquisition date. The results of acquired operations are included in the consolidated 
+statement of comprehensive income from the date on which control is obtained. They are deconsolidated from the date on 
+which control ceases.
+Business Combinations
+All business combinations are accounted for by applying the purchase method. On acquisition, all of the subsidiaries’ 
+assets and liabilities that exist at the date of acquisition are recorded at their fair values reflecting the conditions at that 
+date. The results of subsidiaries acquired in the period are included in the income statement from the date on which 
+control is obtained.
+Goodwill
+Goodwill represents the excess of the cost of a business combination over the total acquisition date fair value of the 
+identifiable assets, liabilities and contingent liabilities acquired. Goodwill is not amortised but is capitalised as an intangible 
+asset with any impairment in carrying value being charged to the consolidated statement of comprehensive income. 
+In determining the fair value of consideration, the fair value of equity issued is the market value of equity at the date of  Daily Internet Plc  Annual Report & Accounts 2016 52
+completion, and the fair value of contingent consideration is based on the expected future cashflows based on whether the 
+directors believe performance conditions will be met and thus the extent to which the further consideration will be payable. 
+Where the fair value of identifiable assets, liabilities and contingent liabilities exceed the fair value of consideration paid, the 
+excess is credited in full to the consolidated statement of comprehensive income on the acquisition date.
+Impairment of Non-Financial Assets
+Impairment tests on goodwill and other intangible assets with indefinite useful economic lives are undertaken annually 
+at the financial year end. Other non-financial assets are subject to impairment tests whenever events or changes in 
+circumstances indicate that their carrying amount may not be recoverable. Where the carrying value of an asset exceeds 
+its recoverable amount (i.e. the higher of value in use and fair value less costs to sell), the asset is written down accordingly.
+ 
+Where it is not possible to estimate the recoverable amount of an individual asset, the impairment test is carried out on 
+the asset’s cash-generating unit (i.e. the lowest Group of assets in which the asset belongs for which there are separable 
+identifiable cash flows that are largely independent of the cash flows from the other assets or Groups of assets). Goodwill 
+is allocated on initial recognition to each of the Group’s cash-generating units that are expected to benefit from the 
+synergies of the combination giving rise to the goodwill.
+The estimated future cash flows are discounted to their present value using a pre-tax discount rate that reflects current 
+market assessments of the time value of money and the risks specific to the asset for which the estimates of future cash 
+flows have not been adjusted.
+Foreign Currencies
+Transactions in foreign currencies are recorded using the rate of exchange ruling at the date of the transaction. Monetary 
+assets and liabilities denominated in foreign currencies are translated using the rate of exchange ruling at the balance sheet 
+date and the gains or losses on translation are included in the consolidated statement of comprehensive income.
+Segment Reporting
+Operating segments are reported in a manner consistent with the internal reporting provided to the chief operating 
+decision maker. The chief operating decision maker has been identified as the Board of Directors.
+Financial Instruments
+Financial instruments are classified and accounted for, according to the substance of the contractual arrangement, as 
+either financial assets, financial liabilities or equity instruments. An equity instrument is any contract that evidences a 
+residual interest in the assets of the company after deducting all of its liabilities.
+Financial Assets
+The Group’s loans and receivables comprise trade and other receivables and cash and cash equivalents in the 
+consolidated statement of financial position. Trade receivables are minimal as the Group operates a cash on delivery 
+model for recurring subscriptions. Trade receivables are stated at their nominal value and an impairment provision will 
+be recognised if there is evidence that the amount is irrecoverable and will be shown in administrative expenses in the 
+Consolidated Statement of Comprehensive Income. Cash and cash equivalents includes cash in hand, deposits held at 
+call with banks.  Daily Internet Plc  Annual Report & Accounts 2016 53
+Share Capital
+Financial instruments issued by the Group are classified as equity only to the extent that they do not meet the definition of 
+a financial liability or financial asset. The Group’s ordinary shares are classified as equity instruments and are recorded at 
+the proceeds received, net of direct issue costs.
+Invoice Discounting
+The Netplan subsidiary has an invoice discounting facility, this is only used for particular large clients who have extended 
+payment terms. As at the year end this was drawn by £105k (2015: £107k) but has since been repaid in full leaving a zero 
+balance on the facility.
+Financial Liabilities
+The Group classifies its financial liabilities into one of two categories, depending on the purpose for which it was acquired. 
+The Group’s accounting policy for each category is as follows:
+• Fair Value Through Profit or Loss – This category comprises only contingent consideration. They are carried in the 
+statement of financial position at fair values which changes in fair value recognised in the consolidated income 
+statement.
+• Other Financial Liabilities – Other financial liabilities include trade payables and other short-term monetary liabilities, 
+which are initially recognised at fair value and subsequently carried at amortised cost using the effective interest rate 
+method.
+Fair Value Measurement Hierarchy
+IFRS 7 requires certain disclosures which require the classification of financial assets and financial liabilities measured at 
+fair value to reflect the significance of the inputs used in making the fair value measurement. The fair value hierarchy has 
+the following levels:
+a. Quoted prices in active markets for identical assets or liabilities (Level 1)
+b. Inputs other than quoted prices included within Level 1 that are observable for the asset or liability, either directly (i.e. 
+as prices) or indirectly (i.e. derived from prices) (Level 2); and
+c. Inputs from the asset or liability that are not based on observable market data (Level 3)
+The level in the fair value hierarchy within which the financial asset or financial liability is categorised is determined on the 
+basis of the lowest level input that is significant to the fair value measurement. Financial assets and financial liabilities are 
+classified in their entirety into only one of the three levels.
+Convertible Debt
+The proceeds received on issue of the Group’s convertible debt are allocated into their liability and equity components. 
+The amount initially attributed to the debt component equals the discounted cash flows using a market rate of interest 
+that would be payable on a similar debt instrument that does not include an option to convert. Subsequently, the debt 
+component is accounted for as a financial liability measured at amortised cost until extinguished on conversion or maturity 
+of the bond. The remainder of the proceeds is allocated to the conversion option and is recognised in the “Other reserve” 
+within shareholders’ equity, net of income tax effects.  Daily Internet Plc  Annual Report & Accounts 2016 54
+Share Based Payments
+The fair value of employee options granted is charged to the consolidated statement of comprehensive income with a 
+corresponding increase in equity. The fair value is measured at grant date and spread over the period during which the 
+employees become unconditionally entitled to the options. The fair value of the options granted is measured using the 
+Black Scholes pricing model, taking into account the terms and conditions upon which the options were granted. 
+Leases
+Assets obtained under hire purchase contracts and finance leases are capitalised as tangible assets and depreciated over 
+the shorter of the lease term and their useful lives. Obligations under such agreements are included in payables net of 
+the finance charge allocated to future periods. The finance element of the rental payment is charged to the consolidated 
+statement of comprehensive income so as to produce a constant periodic rate of charge on the net obligation outstanding 
+in each period. Rentals payable under operating leases are charged against income on a straight line basis over the lease 
+term.
+Property Plant and Equipment
+Items of property, plant and equipment are stated at cost less depreciation. Depreciation is provided at annual rates 
+calculated to write off the cost less estimated residual value of each asset over its expected useful life, as follows:
+Furniture and Equipment 20% – 33.3% reducing balance
+Investment in Subsidiaries
+Fixed asset investments in the Parent Company are shown at cost less provision for impairment.
+Research and Development
+Research expenditure is written off to the consolidated statement of comprehensive income in the year in which the 
+expenditure occurs. Development expenditure is treated in the same way unless the directors are satisfied as to the 
+technical, commercial and financial viability of individual projects, there is an intention to complete and sell the product and 
+the costs can be easily measurable. In this situation, the expenditure is capitalised and amortised expense is included in 
+administrative expenses in the Consolidated Statement of Comprehensive Income over the years during which the Group 
+is to benefit.
+Intangible Assets
+Intangible assets are recognised on business combinations if they are separable from the acquired entity or give rise to 
+other contractual / legal rights. The amounts ascribed to such intangibles are arrived at by using appropriate valuation 
+techniques (see section related to critical estimates and judgements below).
+The significant intangibles recognised by the Group, their estimated useful economic lives and the methods used to 
+determine the cost of intangibles acquired in business combinations are as follows: Daily Internet Plc  Annual Report & Accounts 2016 55
+Intangible Asset Customer relationships
+Estimated UEL 5-7 years
+Valuation Method Estimated discounted cash flow
+Deferred Taxation
+Deferred tax assets and liabilities are recognised where the carrying amount of an asset or liability in the consolidated 
+statement of financial position differs from its tax base, except for differences arising on: 
+• the initial recognition of goodwill; 
+• the initial recognition of an asset or liability in a transaction which is not a business combination and at the time of the 
+transaction affects neither accounting or taxable profit; and 
+• investments in subsidiaries and jointly controlled entities where the Group is able to control the timing of the reversal of 
+the difference and it is probable that the difference will not reverse in the foreseeable future. 
+Recognition of deferred tax assets is restricted to those instances where it is probable that taxable profit will be available 
+against which the difference can be utilised. 
+The amount of the asset or liability is determined using tax rates that have been enacted or substantively enacted by the 
+reporting date and are expected to apply when the deferred tax liabilities/(assets) are settled/(recovered). 
+Deferred tax assets and liabilities are offset when the Group has a legally enforceable right to offset current tax assets and 
+liabilities and the deferred tax assets and liabilities relate to taxes levied by the same tax authority on either: 
+• the same taxable Group company; or 
+• different Group entities which intend either to settle current tax assets and liabilities on a net basis, or to realise the 
+assets and settle the liabilities simultaneously, in each future period in which significant amounts of deferred tax assets 
+or liabilities are expected to be settled or recovered. 
+Deferred tax liabilities are recognised on intangible assets and other temporary differences recognised in business 
+combinations.
+2. Significant Accounting Estimates and Judgements
+The preparation of this financial information requires management to make judgements, estimates and assumptions that 
+affect the amounts reported for assets and liabilities at the period end date and the amounts reported for revenues and 
+expenses during each period. However the nature of estimation means that actual outcomes could differ from those 
+estimates. The key sources of estimation that have a significant impact on the carrying value of assets and liabilities are 
+discussed below.
+Impairment of Goodwill and Other Intangibles
+The Group tests goodwill for impairment on an annual basis in line with the accounting policy noted above. This involves 
+judgement regarding the future development of the business and the estimation of the level of future profitability and cash 
+flows to support the carrying value of goodwill. An impairment review has been performed at the reporting date and no 
+impairment has been identified. More details including carrying values are included in note 13. Daily Internet Plc  Annual Report & Accounts 2016 56
+Impairment of Other Assets
+The Group reviews the carrying value of all other assets for indications of impairment at each period end. If indicators 
+of impairment exist, the carrying value of the asset is subject to further testing to determine whether its carrying value 
+exceeds its recoverable amount. 
+Valuation of Intangibles Acquired in Business Combinations
+Determining the fair value of customer relationships acquired in business combinations requires estimation of the value 
+of the cash flows related to those relationships and a suitable discount rate in order to calculate the present value. More 
+details including carrying values are included in note 13.
+Valuation of Contingent Consideration
+When valuing the contingent consideration still payable on acquisitions, the Group considers various factors including the 
+performance of the acquired entity since acquisition together with its expected performance to the end of the earn-out 
+period. Following the adoption of IFRS 3 (revised) – Business Combinations, contingent consideration is recognised at, and 
+carried thereafter at, fair value. All changes in fair value (other than measurement period adjustments) are reflected in the 
+income statement. 
+Useful Economic Lives of Intangible Assets
+Intangible asset are amortised over their useful economic lives. Useful lives are based on management’s estimates of 
+the period over which the assets will generate revenue, which are periodically reviewed for continued appropriateness. 
+Changes to estimates can result in changes in the carrying values and hence amounts charged to the income statement in 
+particular periods which could be significant.
+3. Financial Instruments – Risk Management
+The Group’s financial instruments comprise cash and liquid resources, convertible bonds and various items such as trade 
+receivables and trade payables that arise directly from its operations.
+There have been no substantive changes in the Group’s objectives, policies and processes for managing those risks or the 
+methods used to measure them from previous periods.
+The Group’s objective is to ensure adequate funding for continued growth and expansion. 
+All of the Group’s financial instruments are carried at amortised cost with the exception of contingent consideration. There 
+is no material difference between the carrying and fair value of its financial instruments, in the current or prior year, due to 
+the instruments bearing interest at fixed rates or being of short term nature. Daily Internet Plc  Annual Report & Accounts 2016 57
+A summary of financial instruments held by category is shown below:
+ 
+Group Company
+Financial assets
+2016
+£’000
+2015
+£’000
+2016
+£’000
+2015
+£’000
+Loans and receivables
+Cash and cash equivalents 513 426 11 2
+Trade receivables 306 425 - -
+T o t a l	fi n a n c i a l	a s s e t s      819      851 11 2
+Group Company
+Financial liabilities
+2016
+£’000
+2015
+£’000
+2016
+£’000
+2015
+£’000
+At amortised cost
+Trade and other payables 563 544 71 45
+Loans and other borrowings 105 278 - 103
+At fair value 668 822 71 148
+Contingent consideration 435 1,225 435 1,225
+T o t a l	fina n c ia l	l ia b i l i t ie s      1,103      2,047 506      1,373
+Per the fair value hierarchy classifications under IFRS 7 Financial Instruments the contingent consideration due on 
+acquisitions shown above are considered to be level 3 financial liabilities as there are no observable inputs for valuation.
+Group
+£’000
+Company
+£’000
+Contingent consideration
+At 1 April 2014
+933 933
+Settled during the year (850) (850)
+Fair value adjustment through Income Statement (83) (83)
+At acquisition 1,225 1,225
+At 31 March 2015 1,225 1,225
+Settled during the year (520) (520)
+Fair value adjustment through Income Statement (270) (270)
+At 31 March 2016 435 435 Daily Internet Plc  Annual Report & Accounts 2016 58
+The fair value adjustment relates to the change in fair value calculation of the contingent consideration expected to be 
+payable on the Q4Ex acquisition completed in the year. 
+Liquidity Risk
+Liquidity risk arises from the Group’s management of working capital and the finance charges and principal repayments on 
+its debt instruments. It is the risk that the Group will encounter difficulty in meeting its financial obligations as they fall due.
+The Group’s policy is to prepare periodic working capital forecasts, allowing an assessment of the cash requirements of 
+the Group and Company, to manage liquidity risk. Cash resources are managed in accordance with planned expenditure 
+forecasts and the directors have regard to the maintenance of sufficient cash resources to fund the Group and Company’s 
+immediate operating requirements and capital expenditure.
+The following table sets out the contractual maturities (representing undiscounted contractual cash-flows) of financial 
+liabilities:
+Group
+At 31st March 2015
+Up to 3 
+months
+£’000
+Between
+3 and 12 
+months
+£’000
+Between
+1 and 2
+years
+£’000
+Between
+2 and 5
+years
+£’000
+Over
+5 years
+£’000
+Trade and other payables 544 - - - -
+Contingent consideration - - 1,225 - -
+Loans and borrowings 175 103 - - -
+Total 719 103 1,225 - -
+Group
+At 31st March 2016
+Up to 3 
+months
+£’000
+Between
+3 and 12
+months
+£’000
+Between
+1 and 2
+years
+£’000
+Between
+2 and 5
+years
+£’000
+Over
+5 years
+£’000
+Trade and other payables 563 - - - -
+Contingent consideration - - 435 - -
+Loans and borrowings 105 - - - -
+Total 668 - 435 - -
+Company
+At 31st March 2015
+Up to 3 
+months
+£’000
+Between
+3 and 12
+months
+£’000
+Between
+1 and 2
+years
+£’000
+Between
+2 and 5
+years
+£’000
+Over
+5 years
+£’000
+Trade and other payables 45 - - - -
+Contingent consideration - - 1,225 - -
+Loans and borrowings - 103 - - -
+Total 45 103 1,225 - - Daily Internet Plc  Annual Report & Accounts 2016 59
+Company
+At 31st March 2016
+Up to 3 
+months
+£’000
+Between
+3 and 12
+months
+£’000
+Between
+1 and 2
+years
+£’000
+Between
+2 and 5
+years
+£’000
+Over
+5 years
+£’000
+Trade and other payables 71 - - - -
+Contingent consideration - - 435 - -
+Loans and borrowings - - - - -
+Total 71 - 435 - -
+Interest Rate Risk
+The Group seeks to minimise exposure to interest rate risk by borrowing at fixed interest rates.
+Credit Risk
+The Group’s exposure to credit risk is limited as the majority of services provided within the SME Mass Market segment are 
+under terms whereby payment is due on delivery or in advance of services provided. The managed hosting division gives 
+30 day terms and historically has had no requirement for doubtful debts. For cash and cash equivalents, the Group only 
+uses recognised banks with high credit ratings.
+Capital Disclosures
+The Group monitors “adjusted capital” which comprises all components of equity (i.e. share capital, share premium, non-
+controlling interest, retained earnings, and revaluation reserve).
+The Group’s objective when maintaining capital are: 
+• to safeguard the entity’s ability to continue as a going concern, so that it can provide returns for shareholders in future 
+periods and benefits for other stakeholders, and
+• to provide an adequate return to shareholders by pricing products and services commensurately with the level of risk.
+The Group sets the amount of capital it requires in proportion to risk. The Group manages its capital structure and makes 
+adjustments to it in the light of changes in economic conditions and the risk characteristics of the underlying assets.
+4. Segmental Analysis
+The chief operating decision maker for the Group is the Board of Directors. The Group reports in two segments:
+• SME Mass Market – this segment provides a range of VPS, shared hosting, email and domain registration services to 
+individuals and SME’s. 
+•  Managed Hosting – this segment provides all forms of Cloud hosting to larger customers. This segment was created 
+on the acquisition of Netplan in November 2013. Q4Ex which provides Cloud and professional services was acquired 
+during the prior year has been included in this segment since acquisition and now trades as Netplan.
+Information regarding the operation of the reportable segments is included below. The performance of each operating 
+segment is based on revenue and earnings before interest, tax, depreciation and amortisation (EBITDA) before any  Daily Internet Plc  Annual Report & Accounts 2016 60
+allocation of Group overheads, share based payments, fair value adjustments or acquisition costs, as the Board believe 
+this is the best measure for performance. The Groups Adjusted EBITDA has been calculated after deducting Group 
+overheads which include the cost of the Board, Group marketing, legal and professional fees. 
+Assets and liabilities are not reviewed on a segmental basis. All segments are continuing operations. The accounting 
+policies of the operating segments are the same as those described in the summary of significant accounting policies. 
+Transactions between segments are accounted for using an arms length commercial basis.
+Revenue by operating 
+segment
+2016
+£’000
+2016
+%
+2015
+£’000
+2015
+%
+SME Hosting 2,249 47% 2,039 52%
+Managed Hosting 2,515 53% 1,852 48%
+Total 4,764 100% 3,891 100%
+No individual customer accounts for more than 10% of the groups revenue.
+The Group operates out of the UK and sells services to the following geographical locations.
+2016
+£’000
+2016
+%
+2015
+£’000
+2015
+%
+UK 3,792 80% 3,066 79%
+Rest of World 972 20% 825 21%
+Total 4,764 100% 3,891 100% Daily Internet Plc  Annual Report & Accounts 2016 61
+2016 2015
+EBITDA 
+before 
+acquisition 
+costs and 
+share based 
+payments
+£’000
+Depreciation 
+and 
+amortisation
+£’000
+P r o fi t	( l o s s )	
+before tax
+£’000
+EBITDA 
+before 
+acquisition 
+costs and 
+share based 
+payments
+£’000
+Depreciation 
+and 
+amortisation
+£’000
+P r o fi t	( l o s s )	
+before tax
+£’000
+SME Hosting 558 (164) 394 278 (150) 128
+Managed Hosting 742 (435) 307 567 (389) 178
+1,300 (599) 701 845 (539) 306
+Group 
+overheads
+(634) (12) (646) (434) - (434)
+Acquisition costs - - (34) - - (148)
+Share based 
+payments
+- - 8 - - 118
+Fair value 
+adjustment
+- - 270 - - 83
+Group interest - - (51) - - (63)
+Total 666 (611) 248 411 (539) (138) Daily Internet Plc  Annual Report & Accounts 2016 62
+5. Expenses
+2016
+£’000
+2015
+£’000
+Auditor’s remuneration
+Group Audit 31 31
+Taxation - compliance 4 2
+Corporate finance - 6
+Other advisory 1 3
+Company Audit 4 4
+D e p r e c i a t i o n	o f	t a n g i b l e	fi x e d	a s s e t s
+Owned 215 156
+Held under finance leases 77 107
+Amortisation of Intangible assets 319 276
+Share based payments (8) (118)
+Staff costs 1,671 1,191
+Rentals payable under operating leases 81 61
+Marketing costs 90 156
+Acquisition and integration costs 34 148
+Other administrative costs 191 474
+Total administrative expenses 2,710 2,497
+6. Finance Expense
+2016
+£’000
+2015
+£’000
+Interest payable on finance leases 39 32
+Other Interest payable 12 31
+Total 51 63 Daily Internet Plc  Annual Report & Accounts 2016 63
+7. Staff Numbers and Costs
+The average number of full time persons employed by the Group, including executive Directors during the year increased 
+by 10% to 31 (2015:28).
+2016 2015
+Research and Development 4 3
+Technical Support 20 16
+Sales and Marketing 1 2
+Executive and Administration 6 7
+Total 31 28
+The aggregate payroll costs including executive Directors but excluding integration salary costs (per note 8) and non-
+executive service fees were as follows:
+2016
+£’000
+2015
+£’000
+Wages and salaries 1,387 1,072
+Social security costs 156 107
+Benefits in kind 6 12
+Benefits in kind 23 -
+Share based payment expense (8) (20)
+Total 1,564 1,171
+Directors and Key Management Personnel
+Key management personnel are those persons having authority and responsibility for planning, directing and controlling 
+the activities of the Group, they are also the Directors of the Company listed on page 19.
+2016
+£’000
+2015
+£’000
+Fees and salaries 287 202
+Social security costs 28 19
+Share based payments (12) -
+Benefits in kind 3 7
+Total 306 228
+The emoluments of the highest paid director Christopher Evans were £96,000 (2015: Mr Abby Hardoon £68,000). Daily Internet Plc  Annual Report & Accounts 2016 64
+The Group does not operate a defined benefits pension scheme and executive Directors who are entitled to receive 
+pension contributions may nominate a defined contribution scheme into which the Company makes pension contributions. 
+No pension contributions have been made in 2016 or 2015, though provision has been made in the accounts for pensions 
+due of £8,700.
+The fees relating to non-executive Directors are in some cases payable to third parties in connection with the provision of 
+their services.
+8. Acquisition Costs
+2016
+£’000
+2015
+£’000
+Professional fees 4 84
+Non – recurring integration costs 30 64
+Total 34 148
+9. Share Based Payments and Warrants
+The Company has granted a number of EMI options. The Directors have the discretion to grant options to subscribe for 
+ordinary shares up to a maximum of 10 per cent of the Company’s issued share capital. Options can be granted to any 
+employee of the Group. There is no performance criteria associated with the options. The weighted average exercise price 
+is 1.76p per share. 
+Rights to options over ordinary shares of the Company are summarised as follows:
+Grant date
+No. of Ordinary Shares
+Exercise 
+period
+Exercise 
+price
+At 
+31 March 
+2015 Granted Waived
+At 
+31 March 
+2015
+24/08/07
+31/07/07 
+to 30/07/17
+0.7p 89,286 - - 89,286
+19/12/12
+19/12/12 
+to 18/12/22
+2p 4,025,000 - (1,850,000) 2,175,000
+12/12/13
+12/12/13 
+to 11/12/23
+1.5p 825,000 - (200,000) 625,000
+02/03/15
+02/03/15 
+to 01/03/25
+1.57p 300,000 - (200,000) 100,000
+14/08/15
+14/08/15 
+to 13/08/25
+1.7p - 1,000,000 - 1,000,000
+21/02/16
+21/02/16 
+to 20/02/26
+1.38p - 475,000 - 475,000
+Total - - 5,239,286 1,475,000 (2,250,000) 4,464,286 Daily Internet Plc  Annual Report & Accounts 2016 65
+The options have been valued, using the Black Scholes method, using the following assumptions:
+Number of instruments granted 89,286 4,025,000 1,900,000
+Grant date 23/03/09 19/12/12 12/12/13
+Expiry date 30/07/17 18/12/22 11/12/23
+Contract term (years) 8.2 10 10
+Exercise price 0.7p 2p 1.5p
+Share price at granting 5p 2.5p 2.125p
+Annual risk free rate (%) 5% 0.5% 0.5%
+Annual expected dividend yield (%) 0% 0% 0%
+Volatility (%) 50% 40% 90%
+Fair value per grant instrument 0.46p 1.36p 1.86p
+Number of instruments granted 300,000 1,000,000 475,000
+Grant date 12/02/15 14/08/15 21/02/16
+Expiry date 11/02/25 13/08/25 20/02/26
+Contract term (years) 10 10 10
+Exercise price 1.57p 1.7p 1.38p
+Share price at granting 1.55p 1.7p 1.77p
+Annual risk free rate (%) 0.5% 0.5% 0.5%
+Annual expected dividend yield (%) 0% 0% 0%
+Volatility (%) 40% 90% 55%
+Fair value per grant instrument 0.8p 1.44p 1.19p
+The inputs to the share valuation model utilised at the grant of option is shown in the tables above. Management has 
+determined volatility using their knowledge of the business.
+At 31 March 2016 there were 5,600,000 outstanding warrants to subscribe for the ordinary share capital of the Company 
+as follows:
+Grant date
+No. of Warrants and Exercise price
+Exercise period 5p Total
+09/01/12 08/01/22 5,600,000 5,600,000
+The fair value of the convertible loan warrants has been calculated at 0.009p based on the following assumptions – share 
+price at granting 1.25p, annual risk free rate 0.5%, and volatility 20%. No provision has been made for the convertible loan 
+note warrants in shared based payments. Daily Internet Plc  Annual Report & Accounts 2016 66
+10. Acquisitions
+There have been no acquisition’s during the period. The Board strategically expect acquisitions to be a common 
+component of growth in the future.
+Acquisitions made during the year to 31 March 2015 were:
+Evohosting Limited
+The Group acquired 100% of the share capital of Evohosting Limited on 20 August 2014. 
+Evohosting provides Domain registration and shared hosting services to individuals and SME’s.
+During the year to 31 March 2015 the Group incurred £50,000 of costs in relation to this acquisition. These costs are 
+included in administrative expenses in the Groups consolidated statement of comprehensive income for the year ended 31 
+March 2015.
+The amount of identifiable net assets assumed at the acquisition date in shown below:
+Recognised amounts of net assets acquired and liabilities assumed Note
+Provisional
+Fair Values
+£’000
+Cash and cash equivalents - 182
+Trade and other receivables - 11
+Property, plant and equipment - 12
+Intangible assets - 367
+Trade and other payables - (131)
+Current income tax liability - (6)
+Deferred tax liability - (73)
+Identifiable net assets - 362
+Goodwill 13 181
+Total consideration 543
+Satisfied by:
+Cash consideration – paid on acquisition 3 543
+The fair value of acquired customer relationships intangible asset has been estimated using a discounted cashflow 
+method, based on the estimated level of profit to be generated from them. A post tax discount rate of 19% was used in the 
+valuation. Customer relationships are being amortised over an estimated useful life of 5 years.
+ 
+Since the acquisition date to 31 March 2015, Evohosting Limited has contributed £250,000 to Group revenues and 
+£80,000 to Group profit. Daily Internet Plc  Annual Report & Accounts 2016 67
+Q4Ex Limited
+The Group acquired 100% of the share capital of Q4Ex Limited (“Q4Ex”) on 10 December 2014. Q4Ex provides managed 
+hosting and application support services.
+During the year to 31 March 2015 the Group incurred £25,000 of costs in relation to this acquisition. These costs are 
+included in administrative expenses in the Groups consolidated statement of comprehensive income for the year ended 31 
+March 2015.
+The amount of identifiable net assets assumed at the acquisition date in shown below:
+Recognised amounts of net assets acquired and liabilities assumed Note
+Provisional
+Fair Values
+£’000
+Cash and cash equivalents - 37
+Intangible assets - -
+Trade and other receivables - 38
+Property, plant and equipment - 48
+Trade and other payables - (43)
+Deferred tax liability - -
+Id en t i fi a b le	ne t	a s se t s - 80
+Goodwill 13 1,655
+1,745
+S at is fi e d	by :
+Consideration - New Ordinary shares issued at 1.7p per share - 520
+Contingent consideration - 1,225
+Total consideration - 1,745
+Since the date of acquisition to 31 March 2015, Q4Ex Ltd has contributed £112,000 to Group revenues and £31,000 to 
+Group profits.  
+The acquisition of Q4Ex Ltd included a contingent consideration consisting three potential hurdle payments (of up to 
+£520,000, £520,000 and £416,000) payable in new Ordinary shares at 1.7p. The contingent consideration is based on the 
+level of earnings before interest, tax, depreciation and amoritisation EBITDA) achieved in a 12 month rolling period less an 
+amount for central re-charges. The earnout period is to 08 December 2017.
+The fair value of deferred consideration has been estimated using the discounted cashflow method based on the timing of 
+the payment of the consideration. A post tax discount rate of 19% was used.
+Pro-Forma Full Year Information
+Had both acquisitions taken place on 1 April 2014, the Group’s revenue for the year to 31 March 2015 would have been 
+£4.3m and the Group’s profit would have been £0.15m Daily Internet Plc  Annual Report & Accounts 2016 68
+11. Earnings Per Share
+2016 2015
+Profit (loss) for the financial year attributable to shareholders £302,000 (£84,000)
+Weighted number of equity shares in issue 483,059,433 456,047,673
+Basic/diluted loss per share £0.0006 (£0.0002)
+Diluted loss per share £0.0006 (£0.0002)
+12. Taxation
+2016
+£’000
+2015
+£’000
+Current tax charge 31 -
+Deferred tax
+Timing differences (85) (54)
+Total tax charge (54) (54)
+Factors affecting the tax charge for the year
+P r o fi t	( l o s s )	o n	o r d i n a r y	a c t i v i t i e s	b e f o r e	t a x a t i o n 248 (138)
+Profit (loss) on ordinary activities before taxation multiplied by the Standard 
+rate of UK corporation tax of 20% (2015:21%)
+34 (29)
+E ff e c t s	o f :
+Tax losses (3) 29
+Total tax charge 31 -
+The Group recognised deferred tax assets and liabilities as follows:
+2016
+£’000
+2015
+£’000
+Deferred tax on customer relationships (267) (327)
+Capital allowances timing differences 25 -
+Deferred tax (liability)/asset (242) (327)
+The Directors have provided for a deferred tax asset based on two year forecasts for the period to 31 March 2018. The tax 
+losses available were approximately £4,513,000 at 31 March 2016 (2015: £4,692,000). The deferred tax asset on these tax 
+losses at 18% (2015: 20%) of £812,000 (2015: £971,000) has not been fully recognised due to the uncertainty of the timing 
+of the recovery. Daily Internet Plc  Annual Report & Accounts 2016 69
+The movement in the deferred tax account during the year was:
+Capital 
+allowances 
+timing 
+di ff er en c e s
+£’000
+Customer 
+relationships
+£’000
+Total
+£’000
+Balance at 1 April 2015 - (327) (327)
+Credited to statement of comprehensive income 25 60 85
+ Balance at 31 March 2016 25 (267) (242)
+13. Intangible Assets
+Group
+Website
+Cost
+£’000
+Development
+Cost
+£’000
+Software
+Cost
+£’000
+Customer
+Relationships
+£’000
+Positive
+Goodwill
+£’000
+Total
+£’000
+At 1 April 2014 166 232 - 1,547 2,576 4,521
+Additions 31 - 3 - - 34
+Acquired from  
+acquisition
+- - 4 367 1,878 2,255
+Disposals - - - - - -
+At 31 March 2015 197 232 7 1,914 4,454 6,810
+At 1 April 2015 197 232 7 1,914 4,454 6,810
+Additions - - 54 - - 54
+Disposals - - - - - -
+At 31 March 2016 197 232 61 1,914 4,454 6,858
+Accumulated amortisation and impairment
+At 1 April 2014 166 223 - 82 - 480
+On disposals - - - - - -
+Charge for the year 3 - 1 272 - 276
+At 31 March 2015 169 232 1 354 - 756
+At 1 April 2015 169 232 1 354 - 756
+On disposals - - - - - -
+Charge for the year 11 - 7 301 - 319
+At 31 March 2016 180 232 8 655 - 1,075 Daily Internet Plc  Annual Report & Accounts 2016 70
+Group
+Website
+Cost
+£’000
+Development
+Cost
+£’000
+Software
+Cost
+£’000
+Customer
+Relationships
+£’000
+Positive
+Goodwill
+£’000
+Total
+£’000
+Net book value
+At 31 March 2014 - - - 1,465 2,576 4,041
+At 31 March 2015 28 - 6 1,560 4,454 6,054
+At 31 March 2016 17 - 53 1,259 4,454 5,783
+The Company held no Intangible assets at 31 March 2016 or 31 March 2015.
+All amortisation and impairment charges are included in the depreciation, amortisation and impairment of non-financial 
+assets classification, which is disclosed as administrative expenses in the statement of comprehensive income.
+During the year, goodwill was reviewed for impairment in accordance with IAS 36 “Impairment of Assets”. No impairment 
+charges arose as a result of this review.
+The recoverable amount is determined based on discounted cash flow basis and is allocated to individual cash generating 
+units. The calculation uses pre-tax cash flow projections based on financial budgets approved by the Board covering a 
+two year period. Cash flows beyond the two year period are extrapolated using the estimated growth rates stated below. 
+The growth rates and margins used to estimate future performance are based on past performance and the experience of 
+growth rates.
+The carrying value of each CGU is as follows:
+2016
+£’000
+2015
+£’000
+SME Hosting 620 598
+Managed Hosting 4,977 5,298
+Total 5,597 5,896
+The assumptions used for the impairment reviews are as follows:
+SME 
+Hosting
+Managed 
+Hosting
+Discount rate 15% 15%
+Growth rate year 2 to year 5 1% 10%
+Terminal growth rate 1% 5%
+Forecast period for which cashflows are estimated 2 year 2 year Daily Internet Plc  Annual Report & Accounts 2016 71
+The Group had no contractual liability for development costs at 31st March 2016. As a result of the impairment testing 
+carried out on the basis of these estimates and assumptions, no impairment provisions are required.
+The recoverable amount for the Managed Hosting exceeds the carrying value of the total net assets by £0.5m. A 1% 
+increase in the discount rate would reduce the recoverable amount by approximately £0.5m. A 4% reduction in the growth 
+rate would reduce the recoverable amount by approximately £0.4m.
+14. Property Plant and Equipment
+Group
+Furniture
+and
+equipment 
+£’000
+Total
+£’000
+At 1 April 2014 973 973
+Additions 316 316
+Disposals (5) (5)
+Acquisition of subsidiary 57 57
+At 31 March 2015 1,341 1,341
+At 1 April 2015 1,341 1,341
+Additions 161 161
+Disposals (11) (11)
+At 31 March 2016 1,491 1,491
+Accumulated depreciation
+At 1 April 2014 491 491
+On disposal (5) (5)
+Charge for the year 263 263
+At 31 March 2015 749 749
+At 1 April 2015 749 749
+On disposal (2) (2)
+Charge for the year 292 292
+At 31 March 2016 1,041 1,041
+Net book value
+At 31 March 2014 482 482
+At 31 March 2015 592 592
+At 31 March 2016 450 450 Daily Internet Plc  Annual Report & Accounts 2016 72
+Included in the net book value of £450,000 (2015: £592,000) for furniture and equipment are assets held under finance 
+leases with a NBV of £151,000 (2015: £269,000). 
+The depreciation for the year on these assets was £77,000 (2014: £107,000).
+Company
+Furniture
+and
+equipment 
+£’000
+Total
+£’000
+At 1 April 2014 - -
+Additions 3 3
+Disposals - -
+At 31 March 2015 3 3
+At 1 April 2015 3 3
+Additions 42 42
+Disposals - -
+At 31 March 2016 45 45
+Accumulated depreciation
+At 1 April 2014 - -
+On disposal - -
+Charge for the year - -
+At 31 March 2015 - -
+At 1 April 2015 - -
+On disposal - -
+Charge for the year 12 12
+At 31 March 2016 12 12
+Net book value
+At 31 March 2014 - -
+At 31 March 2015 3 3
+At 31 March 2016 33 33
+The Company held no finance leases at 31 March 2016 or 31 March 2015. Daily Internet Plc  Annual Report & Accounts 2016 73
+15. Investments
+ 
+Company
+2016
+£’000
+2015
+£’000
+Investment in Subsidiaries 
+At 1 April 2015
+6,576 5,147
+Additions - 2,293
+Impairment - (864)
+Cost 31 March 2016 6,576 6,576
+The Company’s subsidiary undertakings all of which are wholly owned (unless otherwise stated) and included in the 
+consolidated accounts are:
+Undertaking Registration Principal activity
+Daily Internet Services Limited England SME Mass Market Hosting
+Netplan Internet Solutions Limited England Managed hosting
+Netplan LLC* USA Managed hosting
+NameHOG Limited England Dormant
+Q4Ex Limited England Dormant
+18a Bridge Street Limited England Dormant
+*Netplan LLC is a wholly owned subsidiary of Netplan Internet Solutions Ltd
+The recoverable amounts have been determined from discounted cash flow calculations based on cash flow projections 
+from approved budgets covering a two-year period to 31 March 2018. The major assumptions can be found in note 13.  Daily Internet Plc  Annual Report & Accounts 2016 74
+16. Trade and Other Receivables
+Amounts due within one year
+Group 2016
+£’000
+Company 2016
+£’000
+Group 2015
+£’000
+Company 2015
+£’000
+Trade debtors 306 - 425 -
+Other debtors - 11 3 -
+Amounts owed by subsidiary 
+undertakings
+- - - 87
+Prepayments and accrued 
+income
+292 23 166 9
+ Total Debtors 598 34 594 96
+The Group is not exposed to any significant credit risk from trade receivables. The ageing below shows that all debts are 
+less than three months old and there has been no significant bad debt write off during the year, therefore no impairment is 
+required
+Total unimpaired trade receivables which are past due
+2016
+£’000
+2015
+£’000
+Up to 3 months 306 425
+Over 3 months but less than 6 months - -
+Over 6 months but less than 1 year - -
+Total 306 425
+17. Trade and Other Payables
+Amounts falling due within 
+one year
+Group 2016
+£’000
+Company 2016
+£’000
+Group 2015
+£’000
+Company 2015
+£’000
+Trade payables 367 35 357 24
+Corporation tax 62 - 34 -
+Other payables - - 49 -
+Accruals 134 36 104 21
+Total financial liabilities, excluding 
+loans and borrowings measured 
+at amortised cost
+563 71 544 45
+Other taxes and social security 
+costs
+155 - 168 -
+Deferred Income 707 - 756 -
+Total         1,425 71 1,468 45 Daily Internet Plc  Annual Report & Accounts 2016 75
+Contingent consideration 
+due on acquisitions
+Group 2016
+£’000
+Company 2016
+£’000
+Group 2015
+£’000
+Company 2015
+£’000
+Q4Ex Ltd 435 435 1,225 1,225
+The fair value of contingent consideration was based on the present value of cash flows and the market value of the shares 
+to be issued.
+To the extent trade payables and other payables are not carried at fair value in the consolidated balance sheet, book value 
+approximates to fair value at 31 March 2016 and 31 March 2015.
+Maturity group of the financial liabilities, excluding loans and borrowings, classified as financial liabilities measured at 
+amortised cost is shown in note 3.
+18. Loans and Borrowings
+The book value and fair value of loans and borrowings are as follows:
+Non-Current
+Group 2016
+£’000
+Company 2016
+£’000
+Group 2015
+£’000
+Company 2015
+£’000
+Finance lease creditor 91 - 126 -
+Total 91 - 126 -
+Current
+Group 2016
+£’000
+Company 2016
+£’000
+Group 2015
+£’000
+Company 2015
+£’000
+Convertible loan - - 103 103
+Convertible loan 105 - 175 -
+Finance lease creditor 111 - 108 -
+Total 216 - 386 103
+Convertible Loan Note
+During the year twenty-two £5,000 convertible loan notes were redeemed, there are no further convertible loan notes 
+outstanding as at 31 March 2016. Daily Internet Plc  Annual Report & Accounts 2016 76
+19. Leases
+Group Finance Leases
+Future lease payments are due as follows:
+Minimum Lease 
+Payments 2015
+£’000
+Interest
+ 2015
+£’000
+Present 
+Value 2015
+£’000
+Not later than one year 125 17 108
+Later than one year and not later than 5 years 133 7 126
+Later than 5 years - - -
+Total 258 24 234
+Minimum Lease 
+Payments 2016
+£’000
+Interest
+ 2016
+£’000
+Present 
+Value 2016
+£’000
+Not later than one year 126 15 111
+Later than one year and not later than 5 years 97 6 91
+Later than 5 years - - -
+Total 223 21 202
+The Company has no finance leases. 
+Group Operating Leases
+The total future value of minimum lease payments is due as follows:
+Leasehold 
+Property 2016
+£’000
+Other
+2016
+£’000
+Leasehold 
+Property 2015
+£’000
+Other
+2015
+£’000
+Within one year 60 - 78 -
+Within two to five years 131 - 168 -
+After five years 35 - 58 -
+Total 226 - 304 -
+The Company has no operating leases. Daily Internet Plc  Annual Report & Accounts 2016 77
+20. Share Capital
+Group 2016
+£’000
+Company 2016
+£’000
+Group 2015
+£’000
+Company 2015
+£’000
+Allotted, called up and fully paid - - - -
+At start of year 479,791,101 
+Ordinary shares of 0.5p each
+2,399 2,399 2,038 2,038
+Issued during the year 
+30,588,235 Ordinary shares of 
+0.5p
+153 153 361 361
+At end of year 510,379,336 
+Ordinary shares of 0.5p
+2,552 2,552          2,399           2,399 
+During the year the Company issued 30,588,235 ordinary shares of 0.5p each. These were issued at 1.7p per share in part 
+settlement to the Q4Ex shareholders.
+Under the terms of the EMI and unapproved share options a further 46,574,000 ordinary shares could be issued with a 
+nominal value of £232,870.
+21. Contingent Liabilities
+There are no contingent liabilities at the year-end for either the group or company.
+22. Related Party Transactions
+Details of Directors’ remuneration are given in the Directors’ Remuneration Report. Other related party transactions are as 
+follows:
+Transaction 
+value
+Balance Due to 
+Related Party
+Related party relationship Type of Transaction
+2015
+£’000
+2016
+£’000
+2015
+£’000
+2016
+£’000
+Directors
+Use of personal credit cards to 
+pay online suppliers and rent of 
+office building*
+412 450 34 0
+Companies in which directors 
+or their immediate family have a 
+significant / controlling interest
+Provision of management servic-
+es and website design
+17 58 9 1
+*The practice of using personal credit cards to pay anything other than incidental expenses was ceased in the financial 
+year, the company no longer permits this by policy. Daily Internet Plc  Annual Report & Accounts 2016 78
+23. Loss for the Financial Year
+As permitted by section 408 Companies Act 2006, the holding Company’s profit and loss has not been included in the 
+financial statements. The loss for the financial year is made up as follows:
+2016
+£’000
+2015
+£’000
+Holding company’s loss for the year 386 419
+24. Prior Year Restatement
+An amount of £928,000 has been reclassified from the share premium account to the other reserve to reflect the amount 
+subscribed for share capital in excess of nominal value of the acquisition of another company. This has increased the 
+previously reported other reserve by £928,000 and reduced the previously reported share premium reserve by £928,000. 
+This adjustment has had no impact on the reported net assets or loss for the year ended 31 March 2015. Daily Internet Plc  Annual Report & Accounts 2016 79
+notice of annual  
+general meeting Daily Internet Plc  Annual Report & Accounts 2016 80
+notice of annual general meeting
+Notice is hereby given that the Annual General Meeting of Daily Internet plc (Company number: 06172239) will be held on 
+Tuesday, 5 July 2016 at 11.00am at Kuit Steinart Levy LLP, 7th Floor, Blackfriars House, The Parsonage, Manchester M3 
+2JA for the purpose of considering and, if thought fit, passing the resolutions set out below, of which Resolutions 1 to 4 will 
+be proposed as ordinary resolutions and Resolution 5 will be proposed as a special resolution. 
+In addition, it should be noted that the value of the Company’s net assets is now less than half of its called-up share 
+capital. In these circumstances the Directors are required under section 656 of the Companies Act 2006 to consider at a 
+General Meeting of the Company whether any, and if so what, steps should be taken to deal with the situation. In light of 
+the Group’s trend of continued improvement and management expectations of future performance, the Directors do not 
+consider it necessary to have any specific resolutions proposed at the Annual General Meeting but the situation will be 
+considered at the end of the Annual General Meeting.
+Ordinary Business
+To consider and, if thought fit, pass the following resolutions:
+1. TO receive, consider and adopt the Annual Report and Financial Statements for the year ended 31 March 2016, 
+together with the Directors’ and Auditors’ Reports contained therein.
+2. TO reappoint Christopher Evans as a director who retires by rotation.
+3. TO reappoint BDO LLP Chartered Accountants as auditors of the Company and authorise the Directors to fix their 
+remuneration.
+4. THAT the Directors be generally and unconditionally authorised to allot equity securities (as defined in section 560(1) 
+of the Companies Act 2006 (“the Act”)):
+a. up to an aggregate nominal amount of £255,189.67 in connection with an offer by way of a rights issue:
+i. to holders of ordinary shares in proportion (as nearly as may be practicable) to their respective holdings; 
+and
+ii. to holders of other equity securities as required by the rights of those securities or as the Directors 
+otherwise consider necessary,
+but subject to such exclusions or other arrangements as the Directors may deem necessary or expedient in 
+relation to treasury shares, fractional entitlements, record dates, legal or practical problems in or under the laws of 
+any territory or the requirements of any regulatory body or stock exchange; and
+b. in any other case, up to an aggregate nominal amount of £510,379.34 (such amount to be reduced by the nominal 
+amount of any equity securities allotted under resolution 4(a) above in excess of £255,189.67), provided that this 
+authority shall, unless renewed, varied or revoked by the Company, expire 15 months from the date this resolution  Daily Internet Plc  Annual Report & Accounts 2016 81
+is passed or, if earlier, the date of the next annual general meeting of the Company save that the Company may, 
+before such expiry, make offers or agreements which would or might require Relevant Securities to be allotted 
+and the Directors may allot Relevant Securities in pursuance of such offer or agreement notwithstanding that the 
+authority conferred by this resolution has expired. 
+ 
+This resolution revokes and replaces all unexercised authorities previously granted to the Directors to allot Relevant 
+Securities but without prejudice to any allotment of shares or grant of rights already made, offered or agreed to be 
+made pursuant to such authorities. 
+ 
+For the purposes of the resolution: ‘Relevant Securities’ means:
+i. shares in the Company other than shares allotted pursuant to: an employee share scheme (as defined by 
+section 1166 of the CA 2006); a right to subscribe for shares in the Company where the grant of the right 
+itself constituted a Relevant Security; or a right to convert securities into shares in the Company where the 
+grant of the right itself constituted a Relevant Security; and
+ii. any right to subscribe for or to convert any security into shares in the Company other than rights to 
+subscribe for or convert any security into shares allotted pursuant to an employee share scheme (as 
+defined by section 1166 of the CA 2006). References to the allotment of Relevant Securities in the 
+resolution include the grant of such rights.
+Special Business
+As special business, to consider and, if thought fit, pass the following resolutions:
+5. THAT, subject to the passing of resolution 4, the Directors be given the general power to allot equity securities (as 
+defined by section 560 of the Act) for cash, either pursuant to the authority conferred by resolution 4 or by way of a sale 
+of treasury shares, as if section 561(1) of the Act did not apply to any such allotment, provided that this power shall be 
+limited to:
+a. the allotment of ordinary shares of £0.005 (0.5 pence) each (“Ordinary Shares”) pursuant to options granted to 
+directors, employees and consultants to the Company up to an aggregate nominal value of £22,321.43;
+b. the allotment of Ordinary Shares pursuant to warrants granted pursuant to a warrant instrument dated 9 January 
+2012 up to an aggregate nominal value of £28,000;
+c. the allotment of equity securities in connection with an offer by way of a rights issue:
+i. to the holders of ordinary shares in proportion (as nearly as may be practicable) to their respective 
+holdings; and
+ii. to holders of other equity securities as required by the rights of those securities or as the Directors 
+otherwise consider necessary,
+but subject to such exclusions or other arrangements as the Directors may deem necessary or expedient in relation to 
+treasury shares, fractional entitlements, record dates, legal or practical problems in or under the laws of any territory or 
+the requirements of any regulatory body or stock exchange; and Daily Internet Plc  Annual Report & Accounts 2016 82
+d. the allotment (otherwise than pursuant to resolutions 5(a) to (c) above) of equity securities up to an aggregate 
+nominal amount of £255,189.67.
+The power granted by this resolution will expire 15 months from the date this resolution is passed or, if earlier, the 
+conclusion of the Company’s next annual general meeting (unless renewed, varied or revoked by the Company prior to or 
+on such date) save that the Company may, before such expiry make offers or agreements which would or might require 
+equity securities to be allotted after such expiry and the Directors may allot equity securities in pursuance of any such offer 
+or agreement notwithstanding that the power conferred by this resolution has expired.
+This resolution revokes and replaces all unexercised powers previously granted to the Directors to allot equity securities as 
+if section 561(1) of the 2006 Act did not apply but without prejudice to any allotment of equity securities already made or 
+agreed to be made pursuant to such authorities.
+By order of the board
+Clive Maudsley   Registered Office
+Company Secretary  First Floor, Nelson House
+31 May 2016   Park Road, Timperley
+    Cheshire WA14 5BZ Daily Internet Plc  Annual Report & Accounts 2016 83
+Notes
+1. Any member entitled to attend and vote at the Annual General Meeting is entitled to appoint one or more proxies 
+who need not be a member of the Company to attend and to vote instead of the member. Completion and return of a 
+form of proxy will not preclude a member from attending and voting at the meeting in person, should he subsequently 
+decide to do so. 
+2. In order to be valid, any form of proxy and power of attorney or other authority under which it is signed, or a notarially 
+certified or office copy of such power of attorney, must reach the Company’s Registered Office, First Floor, Nelson 
+House, Park Road, Timperley, Cheshire. WA14 5BZ not less than 48 hours (excluding weekends and bank holidays) 
+before the time of the meeting or of any adjournment of the meeting. 
+3. Pursuant to Regulation 41 of the Uncertificated Securities Regulations 2001 the Company specifies that to be entitled 
+to attend and vote at the meeting (and for the purposes of the determination by the Company of the number of votes 
+they may cast), holders of ordinary shares must be entered on the relevant register of securities by 11.00am on 
+Sunday, 3 July 2016. Changes to entries on the relevant register of securities after 11.00am on Sunday, 3 July 2016 
+shall be disregarded in determining the rights of any person to attend and vote at the meeting. 
+4. Copies of the service contracts and letters of appointment of each of the Directors of the Company together with the 
+Register of Directors’ Interests will be available for inspection at the registered office of the company during usual 
+business hours on any weekday (Saturday and public holidays excluded) and at the place of the Annual General 
+Meeting from at least 15 minutes prior to and until the conclusion of the Annual General Meeting. 
+5. The Directors have no present intention of exercising either the allotment authority under resolution 4 or the 
+disapplication of pre-emption rights authority under resolution 5 other than as required pursuant to the authorities set 
+out in paragraphs (a) to (c) of resolution 5. 
+6. The Annual Report and Financial statements can be downloaded from the investor section of our website at the 
+following location https://investor.daily.co.uk/financial-reports/ Daily Internet Plc
+Walker House
+Exchange Flags
+Liverpool L2 3YL
+investor.daily.co.uk

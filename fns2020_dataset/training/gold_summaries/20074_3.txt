@@ -1,0 +1,162 @@
+ ARM Holdings plc  Strategic Report 2014 04
+Chairman’s overview
+Creating the technology that shapes 
+the connected world
+Stuart Chambers
+Chairman
+ARM is the world’s leading semiconductor IP company. We develop 
+and license technology that is at the heart of many of the digital 
+electronics devices sold each year , from smartphones and tablets to 
+sensors and servers. ARM’s microprocessor technology is helping to 
+shape the world we live in as smart chips connect each of us to our 
+friends, to our communities, to our work, and to our online lives. 
+We have embraced the rapid pace of change in our digital world 
+by developing technology that brings new possibilities to a globally 
+connected population.
+ARM is a fast-growing business in a dynamic 
+and competitive market. In 2014 our customers 
+reported that they had shipped 12 billion 
+ARM-based chips, an increase of 16% on 2013. 
+Just under half of those chips were shipped 
+into mobile devices, including smartphones 
+and tablets, where ARM has a high market 
+share. An increasing number of chips were 
+shipped into new markets, including enterprise 
+networking infrastructure and embedded 
+intelligent devices such as microcontrollers 
+and chips for the Internet of Things.
+There have been some challenges in 
+2014. In the ﬁrst half of the year, inventory 
+management in the consumer electronics 
+supply chain led to a slowdown in the 
+sale of chips, especially into smartphones. 
+As the majority of ARM’s royalty revenues 
+are generated from the sales of chips into 
+consumer electronics, we saw slower royalty 
+revenue growth in 2014 than in prior years. 
+In this context, ARM has performed well. 
+Group dollar revenues increased 16% and 
+normalised diluted earnings per share by 17% 
+(IFRS: 28%*). The Board has recommended 
+an increase in the full year dividend for 2014 
+of 23% and, during the year, approved the 
+buyback of 7.9 million shares, demonstrating 
+the Board’s conﬁdence in ARM’s long-term 
+growth opportunities.
+23% 
+Full year dividend growth
+28% 
+IFRS diluted EPS growth*
+17% 
+Normalised diluted EPS growth
+16% 
+Dollar revenue growth
+*Growth based on 2013 EPS before exceptional items. Overview Vision Performance Commitment Financials 05
+The ARM team
+The knowledge and creativity of our people 
+and the ability to deliver customer satisfaction 
+in an increasingly demanding and competitive 
+environment are key determinants of 
+our success. We hired net 461 additional 
+employees, the majority of whom are 
+engineers working in processor design and 
+software development. These new hires were 
+a mix of graduates and experienced talent from 
+all over the world. 
+Board changes 
+In January 2014, ARM announced that Sir John 
+Buchanan was stepping down from the ARM 
+Board due to a medical condition. The Board, 
+management and employees of ARM wish 
+John well, and thank him for his contribution to 
+the business. As for me, it is a privilege and a 
+pleasure to succeed him as Chairman. ARM is 
+an ambitious company with a great opportunity 
+ahead of it and I am delighted to be part of 
+the team.
+In May 2014, ARM announced that Tim Score, 
+ARM’s Chief Financial Officer, had decided to 
+retire in May 2015. In his time as CFO Tim has 
+been a key part of the team transforming ARM 
+over the last 13 years. Tim joined ARM in 2002, 
+and since the end of that year the company 
+has grown normalised earnings per share at a 
+CAGR of about 20%. On behalf of the Board, 
+the management, and the wider ARM team, 
+we thank Tim for his passion and service 
+throughout this period of transformation.
+Chris Kennedy has been appointed to succeed 
+Tim Score as CFO, and will join the Board 
+of ARM Holdings plc as a director once he 
+has completed his commitments with his 
+current employer.
+Dr John Liu joined the Board on 1 December 
+2014 as an independent non-executive 
+director. John, a Chinese national, has many 
+years of experience managing technology 
+companies in Asia, particularly Greater China 
+including Qihoo 360 Technology Co. Ltd and 
+Google Inc.
+Two non-executive directors left the Board 
+in 2014; Philip Rowley stepped down from 
+the Board in May 2014 after serving his nine-
+year term, and Eric Meurice stepped down 
+in March 2014 in order to avoid a potential 
+conﬂict of interest arising. We thank Philip for 
+his hard work and diligence as Chair of the 
+Remuneration Committee, and thank both 
+Philip and Eric for their valuable contributions 
+to Board discussions and decisions.
+The above changes are consistent with our 
+aim of having a Board of the right size and 
+composition, and with the right balance 
+of skills and expertise. Together we have 
+continued to reﬁne ARM’s strategy for growth; 
+to develop and deploy energy-efficient 
+technology; to enable innovation through a 
+broad ecosystem of partners, building on our 
+shared success; and to create superior returns 
+for our shareholders by investing in long-term 
+growth. These investments are focused on 
+our opportunities in the continuing growth 
+of mobile devices, as well as networking 
+infrastructure and the Internet of Things.
+An expanding opportunity 
+Finally, I would like to thank all of ARM’s 
+employees for their effort and contribution in 
+2014. I look forward to seeing how this exciting 
+company, the technology it creates, and the 
+broad ecosystem of semiconductor companies 
+and supporting Partners, will shape the future 
+for our increasingly connected world.
+We have ensured that we have 
+a Board of the right size and 
+composition, and that the team 
+has the right balance of skills 
+and expertise.
+More about people and culture on page 40
+Read more in “Governance”, page 46 06 ARM Holdings plc  Strategic Report 2014 A new angle
+3D Robotics develops innovative, ﬂexible and reliable 
+personal drones and UAV technology for everyday 
+exploration and business applications. The Pixhawk 
+autopilot system is a complete solution for multi-
+platform autonomous vehicles, based on the open-
+source Pixhawk autopilot. It is powered by an 
+STMicroelectronics STM32F427 MCU, featuring a 
+ARM Cortex
+®
+-M4 microcontroller.
+Find out more: 
+3D Robotics drones were used in the ﬁlming  
+of the adventure movie “Sugar Mountain”,  
+released in November 2014. 
+http:/ /goo.gl/2ldbYW
+07 Overview Vision Performance Commitment Financials
+In this section:
+CEO’s statement 08
+rtex
+®
+-M4 microcontroller.
+more:
+tics drones were used in the ﬁlming 
+venture movie “Sugar Mountain”, 

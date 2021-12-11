@@ -1,0 +1,3418 @@
+ Annual report 2005
+Unlocking the Value of Legacy
+TM
+Micro Focus International Plc Annual report 2005 Contents
+1 Micro Focus
+2 Group at a glance
+4 Chairman’s statement
+5 Technology review
+7 Chief Executive Officer’s review of operations
+12 Chief Financial Officer’s review
+14 Board of directors 
+16 Directors’ report
+18 Corporate governance
+23 Corporate social responsibility
+24 Remuneration report
+28 Directors’ responsibilities
+29 Micro Focus International Plc
+29 Independent auditors’ report to the 
+members of Micro Focus International Plc
+30 Balance sheet
+31 Cash flow statement
+32 Notes to the financial statements
+35 Micro Focus International Limited
+35 Independent auditors’ report to the
+members of Micro Focus International
+Limited
+36 Consolidated profit and loss account
+37 Statement of Group total recognised
+gains and losses
+37 Reconciliation of movement in Group
+shareholders’ funds
+38 Consolidated balance sheet
+39 Consolidated cash flow statement
+40 Notes to the financial statements
+63 Historical summary
+64 Directors, Secretary, registered office 
+and advisers
+65 Offices
+66 Glossary
+Agile solutions
+Our Leverage and Extend 
+and Lift and Shift™ solutions
+make it possible to protect
+investment in legacy 
+applications by migrating 
+them to more open and
+flexible contemporary
+platforms. Micro Focus, founded in 1976, is a leading provider of legacy development and
+deployment software. Our Leverage and Extend and Lift and Shift™ solutions
+enable our customers, which include more than 70 of the 2004 Fortune 
+“Global 100” companies, to continue to gain value from their legacy of investment
+in business applications.
+We enable more than 5,000 customers and one million licensed users, across the financial services,
+government, healthcare, retail, manufacturing and software industries, worldwide, to improve their
+efficiency, to take advantage of Web Services and to migrate legacy applications to modern environments.
+We also work with a variety of partners, including systems integrators, platform providers, resellers and
+other technology companies, to extend our capabilities.
+Our ability to deliver evolutionary and cost-effective solutions is sustained by our commitment to
+remaining at the forefront of technology and product development. 
+Because technology platforms are constantly moving
+there will always be a need to unlock strategically
+important business applications from the constraints 
+of older hardware and software platforms. This enables
+our customers to reduce the cost of their IT operations,
+whilst at the same time increasing their agility to meet
+the demands of their businesses with minimal risk.
+Micro Focus calls this simply… 
+Unlocking the Value of Legacy™
+Micro Focus International Plc Annual report 2005 1 2 Micro Focus International Plc Annual report 2005
+Group at a glance
+ Turnover increased 19.3% to $150.6 million 
+(2004: $126.3 million).
+ Turnover increased 15% at constant currency.
+ EBITDA increased 35.0% to $41.7 million (2004: $30.9 million)
+and adjusted EBTIDA increased 45.7% to $48.7 million
+(2004: $33.5 million).
+ Profit on ordinary activities before tax increased 25.6% 
+to $27.7 million (2004: $22.0 million).
+ Basic earnings per share increased 21.8% to 11.91c 
+(2004: 9.78c).
+ Successful IPO in May 2005.
+04 05 04 05 04 05 04 05
+0
+40
+20
+60
+80
+100
+120
+140
+160
+0
+10
+20
+30
+40
+50
+0
+5
+10
+15
+20
+25
+30
+35
+40
+0
+5
+10
+15
+20
+25
+Turnover
+$million
+Adjusted EBITDA
+$million
+Operating profit
+$million
+R&D expenditure
+$million
+8 April 2004
+Microsoft and Micro Focus form the MMA
+New product release to Lift and Shift legacy
+applications to Windows platforms.
+2 June 2004
+Opening of new offices in St Albans, UK.
+17 August 2004
+New product releases to Lift and
+Shift legacy applications to HP and
+IBM eServer platforms.
+30 Sept 2004
+Awarded the status of Microsoft
+Gold Certified Partner.
+4 Dec 2004
+Opening of new offices in Durham,
+North Carolina.
+8 June 2004
+New product release to Leverage
+and Extend IBM mainframe
+applications. Micro Focus International Plc Annual report 2005 3
+Revenues by type
+$million
+Licence fees
+Maintenance fees
+Consulting fees
+79.9
+66.7
+4.1
+Number of employees
+by region
+North America
+Europe and Middle East
+Rest of the world
+210
+253
+23
+Number of employees 
+by function
+General and administration
+Sales and distribution
+Research and development
+159
+183
+144
+Revenues by region
+$million
+North America
+Europe and Middle East
+Rest of the world
+73.2
+57.4
+20.1
+Cost breakdown
+$million
+Cost of sales
+R&D costs
+Selling and distribution costs
+Other admin costs
+48.1
+6.3
+23.4
+36.9
+Number of offices
+North America
+Europe and Middle East
+Rest of the world
+13
+06
+03
+7 Feb 2005
+Single development environment
+based on Microsoft Visual Studio
+announced.
+3 March 2005
+New product release to Leverage and
+Extend legacy applications running on
+Intel® Itanium 2 processor-based platforms.
+14 March 2005
+Won a global award recognising
+exemplary customer service standards
+for the fourth consecutive year.
+17 May 2005 
+Micro Focus International Plc acquired
+the entire share capital of Micro Focus
+International Limited.
+17 May 2005
+The ordinary shares of Micro Focus
+International Plc are admitted to the
+Official List and to the main market of the
+London Stock Exchange for listed securities.
+6 June 2005
+Dr Anthony Hill wins “Technology CEO
+of the Year” award. I am delighted to welcome shareholders to this, the first annual
+report of Micro Focus International Plc. 
+On 17 May 2005, the share capital of Micro Focus International
+Limited (“Operating Company”) was acquired by Micro Focus
+International Plc (“Company”) in a share-for-share exchange with
+the previous shareholders of the Operating Company. On 17 May
+2005, the ordinary shares of the Company were admitted to the
+Official List and to the London Stock Exchange to be traded on 
+its main market for listed securities. This annual report concentrates
+on providing shareholders with consolidated information on the
+Operating Company and its subsidiaries.
+Whilst the Operating Company traces its origins back to 1976 
+the current strategy has evolved since 2001, when the business
+was acquired by Golden Gate Capital, a US-based private equity
+fund. Since that time we have refocused the business on legacy
+development and deployment, a strategy which has formed the
+basis of our success over the past four years. We have increased
+revenues from $79 million for the nine months ended April 2002,
+to $110 million for the comparable nine months ended January
+2005, and further to $151 million for the full year ended 
+30 April 2005.
+Our strategy
+Our strategy is to help our customers leverage their legacy
+assets. We do this by expanding the market for mainframe
+migration, strengthening existing customer relationships,
+extending leveraged sales channels, continuing to develop
+innovative technology and by pursuing selected opportunities for
+acquisition. This is covered in more detail in the Chief Executive
+Officer’s review of operations on pages 7 to 11.
+The IPO
+The Company raised $122 million in the IPO, the net proceeds
+being used to repay the full balance of the debt outstanding
+under facilities with Wells Fargo Foothill, Inc. and DB Zwirn
+Special Opportunities Fund (including early payment fees). 
+This has left the Company with a strong balance sheet to 
+pursue its strategy.
+Our people
+Our board comprises two executive and five non-executive directors.
+Dr Anthony Hill, who has been with the Operating Company or
+one of its antecedents since 1987, became Chief Executive Officer
+and President of the Operating Group in August 2001. Richard Lloyd,
+who has been with the Operating Company or one of its
+antecedents since 1991, became Chief Financial Officer of the
+Operating Group in August 2001. I was pleased to accept the role
+of non-executive Chairman on 4 April 2005. Our other non-
+executive directors are David Dominik and Prescott Ashe, who are
+founders and Managing Directors of Golden Gate Capital, David
+Maloney, who has extensive experience in finance at a number of
+leading companies, and John Browett who was appointed as a non-
+executive director on 1 July 2005 (biographies of the board members
+are shown on page 15).
+We are fortunate to have a highly skilled, experienced and loyal
+family of employees, including a senior management team four
+of whom have been with the Company for more than 20 years.
+I thank my fellow directors, the members of the management
+team and, indeed, all employees for their energy, commitment
+and contribution during the past year, which has been a time 
+of immense change and demanding deadlines.
+The future
+Our business model is continuing to prove its value. Over the past
+year we have achieved greater penetration of our target markets
+and, following the IPO and the repayment of loans, we are
+financially well positioned to maintain profitable growth and 
+to generate cash. I am confident that Micro Focus will continue 
+to prosper and will deliver good value to all its stakeholders.
+Kevin Loosemore Chairman
+3 August 2005
+4 Micro Focus International Plc Annual report 2005
+Chairman’s statement By April 2005, there were approximately 16,000 IBM mainframes
+in use around the world. Many operations supported by 
+legacy applications are based on COBOL. It is estimated that
+more than 200 billion lines of COBOL code are in use today 
+and that COBOL applications continue to process 85% of all
+computer transactions.
+Over time, IT organisations are deploying more business
+applications on Windows, UNIX and Linux operating
+environments. We estimate that the compound annual growth
+rate (CAGR) for Windows, UNIX and Linux deployment software
+will be approximately 7.2% from 2003 to 2008, and that much of
+this new workload will be based on legacy applications. The Web
+Services market, which is fuelling growth in the reuse of legacy
+applications on contemporary platforms, is expected to grow at
+a rate of 42.4% CAGR over the same period.
+Our Leverage and Extend and Lift and Shift™ solutions 
+enable our customers to modernise their legacy using
+contemporary platforms.
+Leverage and Extend 
+This solution enables our customers to: 
+l Leverage existing information technology assets by allowing
+developers to use existing skills and code within a productive
+Windows-based environment and to manage all aspects of
+legacy application development. This significantly improves
+developer productivity, as well as reducing risks relating to
+quality and unavailability; and 
+l Extend legacy applications which deliver core business
+services into new business processes using service-oriented
+architectures and Web Services frameworks quickly and easily.
+Leverage and Extend is used by many large organisations, 
+such as those in the financial, insurance and government 
+sectors, which have invested heavily in legacy IT and which 
+have a strategic commitment to an existing platform – often 
+a mainframe. Leverage and Extend is also used by many
+packaged application providers, such as Lawson and Misys, 
+who embed our software in their applications on a wide 
+range of contemporary platforms.
+Lift and Shift™
+This solution, introduced in 2004, enables organisations to
+reduce their dependence on IBM mainframes when there are
+compelling business reasons to exploit alternative, lower-cost
+platforms. Lift and Shift™ makes it possible to migrate legacy
+applications to lower-cost, more open and flexible contemporary
+platforms, such as Windows, UNIX or Linux, and to reuse existing
+skills and code. Migration can be implemented more quickly,
+more successfully and more economically than writing new
+applications or implementing commercial application packages.
+Combining Leverage and Extend and Lift and Shift™
+The intrinsic strength of these solutions is that they can be
+implemented across a wide range of technologies – individually
+or in combination. When used together, they can transform an 
+IT cost base, increase its scalability and turn legacy applications
+into strategic assets.
+Micro Focus International Plc Annual report 2005 5
+Technology review
+In the 40 years since the IBM mainframe was introduced, more than 
+$1 trillion has been invested in building information technology (IT)
+infrastructures. In those years, technology has developed radically, from
+mainframes to distributed and internet-enabled computing, and from
+programming languages, such as Assembler, COBOL and PL/I, to C, C++ 
+and Java. A significant proportion of the world’s IT infrastructure is still,
+however, based on mainframe or “legacy” technologies and applications,
+and around 70% of business operations are still supported by them.
+WEB SERVICES ARE THE BRIDGE
+FROM THE OLD TO THE NEW.
+$3.6 BILLION MARKET
+OPPORTUNITY FORECAST BY 2008.
+2003-2008 CAGR OF 42%. Our products provide customers with a broad range of rapid
+legacy application development and deployment tools,
+collectively known as Micro Focus Studio and Micro Focus Server.
+These give customers the power to maximise their investments 
+in legacy applications using contemporary architectures and 
+Web Services frameworks, such as .NET, J2EE and XML.
+Micro Focus Studio
+Micro Focus Studio is a collection of development software
+products which are used in a highly-productive, Microsoft
+Windows development environment to Leverage and Extend
+legacy applications, regardless of the platform which is used to
+deploy them. Micro Focus Studio development software is also
+used to Lift and Shift™ legacy applications from mainframes 
+to contemporary platforms. 
+Micro Focus Studio software includes the following products:
+Mainframe Express
+®
+Enterprise Edition is a complete mainframe
+application development and extension environment which provides
+automated code generation, analysis, compilation, debugging and unit
+testing of mainframe applications on a desktop while facilitating the
+flexibility to extend existing transactions to contemporary application
+architectures, such as .NET, J2EE and Web Services.
+Net Express
+®
+with .NET is an integrated development environment
+based on Microsoft Visual Studio, which is used to modernise
+and extend legacy applications for the Microsoft Windows
+platform and the .NET framework. It can be used in conjunction
+with Micro Focus Server Express to deploy applications to UNIX
+and Linux platforms.
+Server Express™ is a development environment based on 
+UNIX and Linux, which is used to modernise and extend legacy 
+applications that are to be deployed on platforms, such as
+RedHat and Novell Linux, HP-UX, IBM AIX and SUN Solaris, 
+with J2EE environments and Web Services framework.
+Revolve
+®
+Enterprise Edition helps developers adapt legacy
+applications more quickly by enabling them to analyse the
+impact of change and to manage large inventories of code.
+Micro Focus Server
+Micro Focus Server is deployment software which customers 
+use to integrate their legacy applications with contemporary
+architectures and Web Services frameworks, and deploy them 
+on all leading contemporary platforms.
+Micro Focus Server software includes the following products:
+Application Server™ is a high-performance execution
+environment which incorporates powerful facilities that enable
+COBOL applications to run on all leading Windows, UNIX 
+and Linux platforms, including support for the latest 64-bit
+technologies.
+Enterprise Server™ is a high-performance transaction processing
+environment. Fully compatible with IBM mainframe technology,
+Enterprise Server enables the deployment of mainframe legacy
+applications and provides seamless integration with .NET and
+J2EE architectures and Web Services frameworks to facilitate 
+the implementation of service-oriented architectures.
+Additional development and deployment tools
+Micro Focus also offers additional legacy development and
+deployment tools. These include Micro Focus APS, Micro Focus
+AppMaster Builder, Micro Focus Enterprise Link
+®
+, Micro Focus
+Object COBOL Developer Suite
+TM
+and Micro Focus Eurosmart.
+6 Micro Focus International Plc Annual report 2005
+Expertise
+We have developed a deep technical
+understanding of legacy technologies
+and contemporary platforms which we
+deliver to our customers in Micro Focus
+Studio and Server products, which,
+amongst other things, provide a complete
+environment for developing IBM mainframe
+applications on a laptop computer.
+Technology review
+  The 12 months to April 2005 have been excellent for Micro Focus
+with revenues up 19.3% to over $150 million. At the same time
+we have substantially improved both profit margins and the cash
+flows from our operations.
+We believe that our success is driven by the need for companies 
+to increase their agility while, at the same time, reducing costs 
+and minimising risk. This imperative has led many to look for ways
+to capitalise on their investment in legacy technology. As much 
+as 80% of an organisation’s software budget may be used to
+maintain and operate legacy applications which have traditionally
+been too inflexible to integrate with one another or with newer
+technologies. The lower cost of contemporary platforms combined
+with technical advances, such as security, flexibility and scalability,
+and the emergence of enabling technologies, such as Web Services
+and service-oriented architectures, has driven many organisations
+to look for ways to re-use their legacy investments.
+Organisations seeking to modernise their IT infrastructure
+broadly have the following alternatives:
+l Improve the development infrastructure for their current
+applications and platforms by increasing developer productivity
+and lowering development costs. We refer to this as Leverage
+and Extend;
+l Extend critical legacy applications and services on current
+platforms to new internal and external user communities by
+using the Internet and contemporary architectures, also part 
+of Leverage and Extend;
+l Move legacy applications from current high-cost or end-of-
+life platforms, such as the mainframe, to more contemporary,
+open and flexible platforms, such as Windows, UNIX and Linux.
+We refer to this as Lift and Shift™; and
+l Replace legacy applications on mainframes with new
+packages or new custom-built applications which run on more
+contemporary, open and flexible platforms, such as Windows,
+UNIX and Linux, often referred to in the industry as Rip 
+and Replace.
+Our legacy application development and deployment software,
+described in the technology review on pages 5 to 6, enables 
+our customers to improve their development infrastructure, 
+to extend legacy applications to new users and to move them 
+to contemporary platforms. We believe that the high costs and
+risks associated with large-scale replacement projects are rarely 
+viable in today’s climate of tight cost and risk management 
+and are, in most instances, unnecessary.
+Customers
+We sell our software through three channels:
+l Direct customers buy our software to maintain and 
+operate core legacy business applications and pay licence 
+and maintenance fees direct to us;
+l Indirect customers buy our software and pay licence and
+maintenance fees through packaged application providers 
+and systems integrators; and
+l Resellers sell Micro Focus software in geographic areas
+where Micro Focus does not have a presence.
+Micro Focus International Plc Annual report 2005 7
+Chief Executive Officer’s review of operations
+Micro Focus in education
+“We were able to preserve our investment 
+in COBOL at low cost and risk because our
+programmers were able to become productive
+so quickly. Leveraging and extending our 
+legacy system was the best option for us, 
+and Micro Focus helped us preserve the 
+value of our legacy investment.”
+John Elliott, Director of Information Technology, Campus Partners Strengths
+Our technology and resources enable businesses to extract 
+value from legacy applications, platforms and architectures 
+in a continually, and rapidly changing, IT environment. Below 
+I highlight the key strengths of the Company which I believe
+place Micro Focus in a unique position to help IT organisations
+across the globe to reduce costs, increase agility and minimise
+risk by leveraging their legacy assets.
+We have deep technical understanding of legacy technologies
+(for example, CICS, IMS, PL/I, Assembler, COBOL, DB2, Rexx, 
+JCL and TSO) combined with that of contemporary platforms,
+(Windows, UNIX and Linux) and architectures (.NET, J2EE and
+Web Services). Our collaboration with specialist technology
+partners supplements this knowledge, giving us and our
+customers access to expertise in legacy technologies, such 
+as Natural, Adabas, IDMS and RPG.
+Our expertise, developed over 30 years, with a strong record of
+technology innovation in legacy development and deployment
+solutions, has resulted in more than one million licensed users 
+of our software around the world. Our customers include more 
+than 70 of the Fortune Global 100 companies. They include
+companies who operate in a wide range of industry sectors,
+including financial services, insurance and government, of
+varying sizes and over a wide geographic area. Approximately
+49% of our turnover is derived from North America, 38% from 
+Europe and the Middle East, and 13% from the rest of the
+world. No single customer dominates. Because our products 
+are deeply integrated into our customers’ core IT systems, 
+we have been able to create and maintain long-term
+relationships with them. 
+We have developed a strong platform, technology, service and
+application partner ecosystem to expand our ability to develop,
+market and distribute our products, and to further support our
+customers’ legacy modernisation initiatives. For example: 
+l Micro Focus is a member of the IBM Partnerworld
+programme. We are a Microsoft Gold Certified Partner and 
+a premier member of Microsoft’s Visual Studio Industry Partner
+programme. In 2004, we jointly announced the formation of 
+the MMA with Microsoft;
+l We founded the Migration and Transformation Consortium,
+a global network of companies which specialises in modernising
+legacy systems with a combination of our software, specialist
+technology and legacy expertise;
+l Systems integrators such as Accenture, CSC and EDS work
+with us to provide migration and deployment services which 
+use our Lift and Shift™ software to minimise the risk of moving
+customers’ applications to a contemporary platform; and
+l Our application partners offer a range of packaged
+applications which feature the latest technology innovations and
+which can be implemented across a wide range of mainframe
+and contemporary platforms.
+8 Micro Focus International Plc Annual report 2005
+Chief Executive Officer’s review of operations
+Innovative
+We have a strong record, based on
+30 years’ experience, of developing
+legacy and deployment solutions to
+enable customers to evolve, rather
+than replace, their technology.
+Micro Focus in financial services
+“With Net Express, CNB has shown that they
+can easily exchange data across legacy and
+new systems, minimising the disruption of
+acquisitions while gaining agility to meet 
+new business requirements as they emerge.”
+Ed Proud, Vice President Information Systems, County National Bank Long-term customer relationships have resulted in a relatively
+stable stream of revenue from recurring maintenance fees, as
+well as from licence fees from packaged application providers. 
+Around 44% of our revenue is derived from maintenance
+contracts and, in the year ended 30 April 2005, around 90% of
+our customers in the US, the UK and Germany (which together
+accounted for approximately 75% of our total maintenance 
+fee revenue) renewed their contracts with us. 
+Our senior management team has more than 110 years’
+combined experience in the software industry. Our technical
+teams, who come from diverse backgrounds, are application,
+platform and software engineering experts, and often choose 
+to stay with us for many years. This stability, combined with our
+expertise, gives us a strong basis on which to execute our strategy.
+Strategy
+Our objective is to be the leading global provider of legacy
+development and deployment software. We believe we will
+achieve this with the strategies outlined below.
+We will endeavour to strengthen relationships with existing
+customers by promoting our complementary Leverage and 
+Micro Focus International Plc Annual report 2005 9
+Micro Focus in energy 
+“As we move proprietary credit card
+programmes to a services-based
+technology environment, Valero needed
+a solution that would allow for a phased
+low-risk approach. One that took
+advantage of existing COBOL assets.”
+Steve DiPaola, Vice President of Administrative Systems
+and Production Support, Valero Energy Corporation
+Global diversity
+More than one million users
+around the world are 
+licensed to use our software: 
+our customers include more 
+than 70 of the Fortune
+Global 100 companies.
+85% OF ALL TRANSACTIONS
+ARE PROCESSED BY LEGACY
+APPLICATIONS. Extend and Lift and Shift™ solutions. We believe that
+opportunities also exist to help systems integrators develop 
+and deploy their own legacy applications.
+The market for mainframe migration is expanding rapidly. 
+We have been involved in more than 20 Lift and Shift™ projects
+since we launched the software in April 2004. We aim to 
+increase awareness of this solution through marketing and 
+by establishing alliances with large systems integrators, and
+software and hardware vendors, including members of the
+MMA. The increasing level of interest from customers and the
+growth in the average size of projects is, we believe, evidence
+that the market for mainframe migration continues to grow.
+We aim to increase indirect sales through packaged application
+providers, systems integrators and resellers by strengthening
+existing relationships with key industry players, such as
+Accenture, EDS and CSC, and by developing new relationships
+with other industry leaders. We intend to continue to 
+10 Micro Focus International Plc Annual report 2005
+Focused
+Our objective is to become
+the leading global provider
+of legacy and deployment
+software. Our common-
+sense approach to upgrading
+customers’ IT drives the
+realisation of this ambition.
+Micro Focus in retail
+“The migration to a Micro Focus environment
+under Windows has enabled us to re-allocate
+the $150,000 we saved by slashing our IT
+budget into business development.
+We expect to experience a dramatic rise 
+in productivity due to the enhanced
+capabilities and increased efficiencies of 
+the system, which has already enabled 
+us to boost customer service and create 
+better methods to market our products.”
+Léo Théberge, CIO, Québec Loisirs
+$1 TRILLION INVESTMENT IN 
+LEGACY OVER LAST 30 YEARS. focus on selling software licences, and the associated
+maintenance, and to rely on our systems integrator partners 
+for professional services. 
+We endeavour to continue to develop innovative technology
+and we will further invest in expanding the features and
+functionality of our technology and products. We intend to
+maintain a leading position in our market for legacy application
+development and deployment software by co-operating with 
+our partners to expand the coverage of our technologies 
+and products.
+We intend to pursue selected technology-based acquisitions 
+to take advantage of the growing mainframe migration market.
+This will enable us to ensure that our technologies cover all the
+necessary legacy and contemporary architectures, platforms and
+applications. Any acquisition will be incremental and will be
+selected to supplement existing products and to expand our
+customer base.
+Helping customers compete in a global economy
+We help customers meet new industry regulations (such as 
+Basel II and Sarbanes-Oxley) and add value to their businesses 
+by enabling them to re-use and extend their legacy investments
+to new internal and external user communities. Our software
+increases the agility of their systems and the effectiveness of
+their employees with minimum risk.
+Micro Focus Leverage and Extend reduces development costs 
+by using available skills and platforms efficiently, and increases
+agility through the use of development tools, based on Windows,
+to extend legacy applications to J2EE, .NET or Web Services.
+Micro Focus Lift and Shift™ lowers hardware and software 
+costs by migrating legacy applications to modern, open and
+extensible platforms. Lift and Shift™ is underpinned by 
+extensive support for mainframe applications on contemporary
+Windows, UNIX and Linux platforms. Because of this, many
+applications can be migrated in a fraction of the time it would
+take to build a new application or to implement a new
+commercial package.
+We are committed to helping organisations protect their
+investment in legacy applications. With the help of our
+technology and over 50 active partners, more than 5,000
+customers have already leveraged their legacy assets.
+Dr Anthony Hill Chief Executive Officer
+3 August 2005
+Micro Focus International Plc Annual report 2005 11
+Chief Executive Officer’s review of operations
+Partnerships
+We have developed an application
+partner system to expand 
+our ability to develop, market 
+and distribute our products and 
+to support our customers’ legacy
+modernisation.
+Micro Focus in partnership
+“Micro Focus and Microsoft have helped
+us position INGENIUM to a wider 
+range of customers without sacrificing 
+the security or scalability we enjoy on the
+mainframe version, which many of our
+customers continue to use. It truly is the
+best of both worlds.”
+Blair Goulet, Senior Vice President, Strategy and Global Initiatives,
+SOLCORP Results of operations
+Overall our results were in line with market expectations. This is an
+excellent set of results reflecting the hard work of all our people.
+On 17 May 2005, the share capital of Micro Focus International 
+Limited (“Operating Company”) was acquired by Micro Focus
+International Plc (“Company”) in a share-for-share exchange with the
+previous shareholders of the Operating Company. On 17 May 2005, 
+the ordinary shares of the Company were admitted to the Official List
+and to the London Stock Exchange to be traded on its main market 
+for listed securities. 
+Turnover
+Turnover for the year ended 30 April 2005 increased by 19.3% 
+to $150.6 million from $126.3 million for the year ended 30 April
+2004. Even after removing the impact of currency fluctuations on
+turnover during the year, turnover increased by 15%. This was an
+excellent performance against the backdrop of the IPO.
+Year ended 30 April
+2005 2004
+$’000 % $’000 %
+Licence fees
+1
+79,860 53.0 64,211 50.9
+Maintenance fees
+1
+66,705 44.3 57,980 45.9
+Consultancy fees
+1
+4,080 2.7 4,077 3.2
+Total turnover 150,645 100.0 126,268 100.0
+Note:
+1 The directors use the split of turnover between licence fees, maintenance fees
+and consultancy fees in order to assess the future revenue flows from the current
+portfolio of customers.
+The increase of 19.3% over the year was principally driven 
+by a 24.4% increase in licence fees and a 15% increase in
+maintenance fees. The increase in licensing turnover was
+principally attributable to increased volumes of licence sales,
+12 Micro Focus International Plc Annual report 2005
+Chief Financial Officer’s review
+particularly in North America, as a result of Micro Focus’ efforts
+to leverage its partners’ distribution networks. Within licence
+sales, the proportion of turnover generated from sales of
+deployment software, particularly with respect to the UNIX
+platform, continued to increase, partially driven by the overall
+industry trend towards the use of service-oriented architectures
+and Web Services frameworks. Contributing to these gains were
+licence fees generated by a new PeopleSoft contract as of 1 May
+2004 and additional sales activities of resellers. However, these
+gains were partially offset by the impact of reduced prices with
+respect to Micro Focus’ development software. 
+The increase in maintenance fees was driven by increasing
+licence sales during the year ended 30 April 2005, as well as
+maintenance renewal fees for licences sold during the prior
+financial year. Consultancy fees during the year continued to
+decrease on an absolute basis and as a percentage of total
+turnover, in line with the Company’s overall strategy with respect
+to the provision of consultancy and training services in the future.
+Cost of sales
+Cost of sales for the year ended 30 April 2005 decreased by
+23.6% to $6.3 million from $8.3 million for the year ended 
+30 April 2004. The decrease in cost of sales was principally 
+driven by a reduction in headcount as a result of the Group’s
+implementation of its partner-centric approach towards
+customer support and a reduction in the level of consulting 
+and training services provided during the year. This has been 
+a significant focus for the board and Micro Focus’ continued
+focus on being a nearly pure software business.
+Costs 
+Selling and distribution costs for the year increased by 21% to
+$48.1 million from $39.7 million for the year ended 30 April 2004.
+The principal driver of the increase was the hiring of additional
+members of the sales force, particularly relationship managers
+for the accounts of systems integrators, in order to capitalise on
+Lift and Shift™ growth opportunities. In addition to initial hiring
+costs, we also paid more commissions to sales personnel during
+the year, principally driven by the growth in the volume of
+development and deployment software sold.  
+Research and development for the year increased by 4.7% to
+$23.4 million from $22.4 million for the year ended 30 April 2004,
+primarily the release of version updates for existing products as
+well as ongoing development of new products and technologies.
+  The absolute cost level of research and development is expected
+to rise, but at a substantially lower rate than turnover.  
+Administrative expenses for the year increased by 20% to 
+$36.9 million from $30.7 million for the year ended 30 April
+2004. The increased costs related primarily to the Global Offer
+and recognition costs, and share-based compensation costs. 
+Operating profit
+Operating profit for the year ended 30 April 2005 increased 
+by 42.3% to $35.9 million from $25.2 million for the year 
+ended 30 April 2004. This is an excellent result and reflects the
+significant economies of scale in our cost structure against
+substantial growth in revenues.
+EBITDA and adjusted EBITDA
+The board, in common with most software companies, pays
+particular attention to EBITDA and adjusted EBITDA as two key
+measures of performance. These are calculated as follows:
+Year ended Year ended
+April 30 2005 April 30 2004
+$’000 $’000
+Operating profit 35,924 25,239
+Depreciation 1,962 1,849
+Amortisation 3,769 3,769
+Earnings before interest tax depreciation 
+and amortisation (EBITDA) 41,655 30,857
+Share-based compensation 3,581 840
+Non-recurring costs
+Management charges 1,200 1,200
+Reorganisation costs 2,302 –
+Redundancy costs – 562
+Adjusted EBITDA 48,738 33,459
+EBITDA increased by 35% and adjusted EBITDA increased by 46%
+over the previous year.  
+Net interest payable
+The increase in net interest payable was attributable to a $1.9 million
+increase in interest charges as a result of higher average outstanding
+loan balances during the year ended 30 April 2005 as compared 
+to the prior year and a $3.4 million charge representing accelerated
+amortisation of issue costs based on the planned early repayment 
+of a portion of the Company’s long-term debt arrangements with
+Wells Fargo Foothill, Inc., and DB Zwirn Special Opportunities Fund. 
+Micro Focus International Plc Annual report 2005 13
+Tax on profit on ordinary activities
+Tax on profit on ordinary activities for the year ended 30 April
+2005 increased to $10.1 million from $7.8 million for the year
+ended 30 April 2004. The increase is principally attributable to
+increased taxes due to increased profitability, both in the United
+Kingdom and abroad, during the year, partially offset by 
+a decrease in deferred taxes.
+Profit for the financial year
+Profit for the year ended 30 April 2005 increased by 23.3% 
+to $17.5 million from $14.2 million for the year ended 
+30 April 2004.
+Dividends
+Dividends paid by Micro Focus during the year ended 30 April
+2005 increased to $78.8 million from $28.5 million for the year
+ended 30 April 2004. Under Cayman law the unrealised profit 
+on the revaluation of an asset may be used to fund a dividend.
+As such the directors obtained an independent valuation of the
+intellectual property held in the Operating Company and its
+subsidiaries; which confirmed the adequacy of the distributable
+reserves under Cayman laws.
+The board intends to adopt a progressive dividend policy
+reflecting the long-term earnings and cash flow potential of
+Micro Focus whilst targetting an initial level of dividend cover
+for the full financial year ended 30 April 2006 of approximately
+2.5 times on a pre-exceptional earnings basis.
+Cash flow
+For the financial year ended 30 April 2005, the Operating
+Company generated a net cash inflow from operating activities
+of $46.4 million (2004: $31.7 million). The increase in net cash
+inflow was driven by the improved operating performance,
+specifically through increased sales of software and the effective
+management of our working capital.  
+Going forward, the Company anticipates that its principal source
+of cash from operating activities will continue to be generated
+by software licence and maintenance fees.  
+The strong cash flow, together with the funds generated from the
+IPO ($122 million), enabled us to pay off the outstanding loans.
+Richard Lloyd Chief Financial Officer
+3 August 2005 14 Micro Focus International Plc Annual report 2005
+Board of directors
+Kevin Loosemore Dr Anthony Hill Richard Lloyd David Dominik
+Prescott Ashe David Maloney John Browett Kevin Loosemore, 46 (Non-executive Chairman)*†‡ Kevin was
+the Chief Operating Officer of Cable & Wireless plc from April
+2003  until 31 March 2005. He was previously President of
+Motorola Europe, Middle East and Africa and, before that, was
+Chief Executive of IBM UK and a member of the IBM Worldwide
+Management Committee. From 1997 to 1999 he was Managing
+Director of De La Rue Card Systems. He has a degree in politics
+and economics from Oxford University.
+Dr Anthony Hill, 55 (Executive director and Chief Executive
+Officer) Anthony became Chief Executive Officer and President
+of the Group in August 2001. He previously filled a number 
+of roles, including UK Country Manager, European Marketing
+Head, Vice President of European Sales and, most recently,
+Senior Vice President and General Manager. Before joining the
+Group in 1987, he was European Manager for software products
+at Scientific Software Intercomp. Anthony has an undergraduate
+degree in mathematics from Oxford University, a masters degree
+in pure mathematics from Newcastle-upon-Tyne University, and 
+a doctorate in applied mathematics from Newcastle-upon-Tyne
+Polytechnic.
+Richard Lloyd, 48 (Executive director and Chief Financial Officer)
+Richard became the Group’s Chief Financial Officer in August
+2001. He previously worked in a variety of finance positions,
+including as European Controller and International Controller
+directing business planning and financial strategies. Before
+joining the Group in 1991, he was Controller at Cullinet Software
+where he managed finance operations for the company’s Europe
+and Middle East division. Richard is a Chartered Secretary.
+David Dominik, 49 (Non-executive director)‡ David has been 
+a Managing Director of Golden Gate Capital since its inception 
+in 2000. He previously spent ten years as a Managing Director 
+at Bain Capital, where he focused on making operationally-
+intensive growth investments, with a particular emphasis on the
+information, software, semiconductor and electronic hardware
+industries. He managed Information Partners, a specialised fund
+within Bain Capital, that focused on opportunities in the
+information services and software markets and also served on
+the investment committee of Brookside, Bain Capital’s public
+equity hedge fund. David has a juris doctor degree from Harvard
+Law School (cum laude) and an AB in social studies (economics
+and history) from Harvard College (magna cum laude; Phi Beta
+Kappa). 
+Prescott Ashe, 38 (Non-executive director) Prescott has been a
+Managing Director of Golden Gate Capital since its inception 
+in 2000. He was previously a principal at Bain, which he joined 
+in 1991 and, before that, was a consultant at the global strategy
+consultancy, Bain & Company. He has more than 14 years’
+experience of private equity investing. He has participated 
+in more than 50 acquisitions/recapitalisations with aggregate
+transaction values in excess of US$5.0 billion. Prescott has a juris
+doctor degree from Stanford Law School and a bachelor of
+science degree in business administration from the University 
+of California at Berkeley.
+David Maloney, 49 (Non-executive director)*†‡ David is a non-
+executive director of Virgin Mobile Holdings (UK) plc. His most
+recent executive role was as Chief Financial Officer of the global
+hotel group Le Meridien Hotels and Resorts. Prior to that he was
+Chief Financial Officer of Thomson Travel Group and Preussag
+Airlines, and Group Finance Director of Avis Europe plc. David is
+a fellow of the Chartered Institute of Management Accountants
+and has a degree in economics from Heriot-Watt University,
+Edinburgh.
+John Browett, 41 (Non-executive director)*† John was appointed 
+to the Micro Focus board on 1 July 2005. He has been Operations
+Director – UK for Tesco since January 2004 and was previously
+responsible, as Chief Executive Officer of Tesco.com, for Tesco’s
+internet business and for Tesco Telecoms. Before joining Tesco 
+in 1998, he worked for The Boston Consulting Group. John has 
+a degree in Natural Sciences from Cambridge and an MBA from
+Wharton Business School.
+* Audit committee
+† Remuneration committee
+‡ Nomination committee
+Micro Focus International Plc Annual report 2005 15
+  The directors of the Company present their report and the
+audited financial statements of the Company for the period
+from incorporation on 21 May 2004 to 30 April 2005 and of 
+the Operating Group for the year ended 30 April 2005. 
+On 17 May 2005 (immediately prior to the IPO), the Company
+became the holding company of the Group by acquiring the
+Operating Company in a share-for-share exchange, pursuant 
+to which the previous shareholders of the Operating Company
+were issued and allotted three ordinary shares in the capital of
+the Company for every one ordinary share they previously held
+in the Operating Company (“Share Exchange”). On 17 May 2005,
+all the ordinary shares of the Company were admitted to the
+Official List and to the London Stock Exchange to be traded 
+on its main market for listed securities.
+The separate financial statements have been presented to
+provide shareholders with information on the performance 
+of the Operating Group.
+On Admission, the Company adopted the policies and procedures
+of the Operating Group. In addition the directors have reviewed
+these policies and procedures in light of the requirements of 
+a listed company. Unless otherwise indicated the policies and
+procedures described are those of the Operating Group.
+The information in the directors’ report and the remuneration
+report relate primarily to the Operating Group.
+Principal activities
+The Company did not trade during the period from the date of
+incorporation to 30 April 2005. 
+The principal activities of the Operating Group during the year
+were the provision of legacy application development and
+deployment software for contemporary platforms.
+Review of business and future developments
+For details regarding the Operating Group’s activity and the
+future developments of the Company, please refer to the Chief
+Financial Officer’s review on pages 12 and 13.
+Dividends
+During the year ended 30 April 2005 the directors of the
+Operating Company recommended and paid dividends amounting
+to $78,800,000 (2004: $28,450,000). 
+Research and development
+For information on the activities of the development team
+please refer to the technology review on pages 5 and 6.
+Donations
+The Company and the Operating Group made no charitable 
+or political donations during the year (2004: nil). 
+Post balance sheet events
+Pursuant to the Share Exchange, the entire ordinary share 
+capital of the Operating Company was acquired by the Company.
+The consideration for this acquisition was three ordinary shares 
+in the Company for every ordinary share previously owned by
+shareholders in the Operating Company.
+On Admission, the Company issued and allotted 51,069,602 
+new ordinary shares. On 20 May 2005, the net proceeds of the
+offering, together with existing funds, were used to enable the
+repayment of all of the outstanding debt of the Operating
+Group, which stood at $110,625,000 at that date. 
+International Financial Reporting Standards
+In June 2002, the Council of the European Union adopted a
+regulation requiring listed companies in its member states to
+prepare their consolidated financial statements in accordance
+with International Financial Reporting Standards (“IFRS”). 
+Under this regulation the Group will prepare its first financial
+statements under IFRS in respect of the year ending 30 April
+2006. A project to implement the conversion from UK GAAP to
+IFRS has been completed and the Company will be in a position
+to report its interim statement for the six-month period to 
+31 October 2005 in accordance with IFRS.
+Directors and their interests
+The directors of the Company who served during the year are 
+as follows:
+Executive
+Dr Anthony Hill (Chief Executive Officer, appointed 12 April 2005)
+Richard Lloyd (Chief Financial Officer, appointed 12 April 2005)
+Non-executive
+Kevin Loosemore (Chairman, appointed 4 April 2005)
+Prescott Ashe (appointed 12 April 2005)
+David Dominik (appointed 12 April 2005)
+David Maloney (appointed 4 April 2005)
+16 Micro Focus International Plc Annual report 2005
+Directors’ report
+  Additionally, John Browett was appointed as a non-executive
+director on 1 July 2005. 
+Details of the interests of the directors and their families in the
+ordinary shares of the Company and the Operating Company, 
+as disclosed in the register of directors’ interests, are given in 
+the remuneration report on pages 24 to 27. 
+Employment policy
+Equal opportunities
+The Group operates an equal opportunities policy. Full
+consideration is given to all job applicants, irrespective of
+gender, age, marital status, disability, sexuality, race, colour,
+religion, ethnic or national origin or any other conditions not
+relevant to the performance of the job, who can demonstrate
+that they have the necessary skills and abilities. 
+Disabled employees 
+With regard to existing employees and those who may become
+disabled, the Group’s policy is to examine ways and means to
+provide continuing employment under its existing terms and
+conditions and to provide training, and career development,
+including promotion, wherever appropriate. All employees
+accept the commitment within this policy that the Group will not
+allow pressure to discriminate or harassment by employees or
+others acting on the Group’s behalf, in respect of sex, age, marital
+status, race, nationality, disability or religious or political beliefs. 
+Employee involvement 
+The Group believes it is important that employees are aware of
+the Group’s business strategy and objectives, to assist employees
+to focus on working towards these goals. Communications at the
+time of key announcements, including presentations by directors
+to all employees, together with briefings throughout the year,
+are part of the communication and consultation programme. 
+In addition, regular meetings are held with staff and managers,
+both to raise issues and to assist with the two-way flow of
+information. 
+Further education, training and development
+Continuing education, training and development are important
+to ensure the future success of the Group. The Group supports
+individuals who wish to obtain appropriate further education
+qualifications and reimburses tuition fees, up to a specified level.
+Training needs of all employees are also analysed during the
+annual appraisal process, at which time a training plan is agreed
+as part of each individual’s ongoing development.
+Share incentive schemes 
+The directors remain committed to the principle that selected
+employees should be able to participate in the Group’s progress
+through share-based incentive schemes. Details of the Operating
+Group’s share-based incentive schemes are given in the
+remuneration report on pages 24 to 27.
+Payment of creditors
+The Group does not follow a specific payment code but has 
+a policy to pay its suppliers in accordance with the specific 
+terms agreed with each supplier. The average number of days’
+purchases outstanding at 30 April 2005 for the Group was 
+31 days (2004: 34 days). 
+Substantial shareholding
+As at 3 August 2005, the latest practicable date before publication
+of this annual report, the Company had been notified in
+accordance with Sections 198 to 208 of the Companies Act 1985,
+of the following interests of more than 3% in the ordinary share
+capital of the Company:
+Ordinary shares Percentage of
+Name of holder of 10 pence each issued capital 
+Golden Gate Capital 120,140,733 60.51
+The Goldman Sachs Group, Inc. 13,232,079 6.66
+Parallax Capital Partners LLC 11,634,000 5.86
+Dr Anthony Hill 7,524,000 3.79
+Annual General Meeting
+The notice convening the Annual General Meeting of the
+Company together with the explanatory notes on the proposed
+resolutions accompanies this annual report. The meeting will be
+held at The Lawn, 22-30 Old Bath Road, Newbury, Berkshire,
+RG14 1QN, UK at 2.00pm on 28 September 2005.
+Auditor
+PricewaterhouseCoopers LLP have indicated their willingness to
+continue in office and a resolution that they be re-appointed
+will be proposed at the Annual General Meeting.
+By order of the board
+Jane Smithard Company Secretary
+3 August 2005
+Micro Focus International Plc Annual report 2005 17 The Combined Code
+The ordinary shares of the Company were admitted to the
+Official List and to the London Stock Exchange to be traded 
+on its main market for listed securities, on 17 May 2005. The
+Company is committed to practising good corporate governance
+of its affairs as part of its management of relationships with its
+shareholders and other stakeholders. 
+Compliance statement
+The directors are committed to ensuring that the Company will
+work towards compliance with the provisions set out in Section 
+1 of the Combined Code. As a private company for the whole 
+of the year ended 30 April 2005, the provisions of the Combined
+Code did not apply to the Operating Group. Furthermore, the
+Company did not form part of the Group until after the Share
+Exchange had taken place on 17 May 2005 and did not seek 
+to comply with the provisions of the Combined Code until it
+became a listed company on Admission. During the current
+financial year the board will assess its practices to ensure the
+Company works towards compliance with the Combined Code
+and will continue to monitor any changes required to be made
+to further develop and enhance its governance policies. 
+The principles set out in the Combined Code cover four areas:
+the board, directors’ remuneration, accountability and audit 
+and shareholder relations. With the exception of directors’
+remuneration (which is dealt with separately in the remuneration
+report on pages 24 to 27) the following section sets out how the
+board has (since Admission) applied such principles.
+The board 
+The Group is controlled by the board, which is responsible for
+the Group’s system of corporate governance. As at 30 April 2005,
+the board comprised six directors:
+Kevin Loosemore Non-executive Chairman
+Dr Anthony Hill Chief Executive Officer
+Richard Lloyd Chief Financial Officer
+David Maloney Non-executive director
+Prescott Ashe Non-executive director
+David Dominik Non-executive director
+Additionally, John Browett was appointed as a non-executive
+director on 1 July 2005.
+The role of the non-executive directors is to ensure that
+independent judgement is brought to board deliberations 
+and decisions. The non-executive directors possess a wide range
+of skills and experience, relevant to the development of the
+Company, which complement those of the executive directors. 
+The Chairman operates in a non-executive capacity and is
+considered by the board to be independent of management 
+and free from any business or other relationship which could
+materially interfere with the exercise of his independent
+judgement. David Maloney, the senior independent non-
+executive director, and John Browett, the recently appointed 
+non-executive director, are also considered by the board to be
+independent. Prescott Ashe and David Dominik are not considered
+by the board to be independent by virtue of their positions
+within Golden Gate Capital.
+All directors are required to retire and submit themselves 
+for re-election at the Annual General Meeting within three 
+years of their appointment and, thereafter, at least every 
+three years. However, in accordance with the Combined Code, 
+all directors will be subject to election by the shareholders at 
+the first Annual General Meeting of the Company after their
+appointment and accordingly the directors will be subject to 
+re-election at the Company’s Annual General Meeting to be 
+held on 28 September 2005. Subject to their re-election and
+Companies Act provisions, the non-executive directors are
+appointed for specified terms. 
+The board has agreed procedures for directors to follow if they
+believe they require independent professional advice in the
+furtherance of their duties and these procedures allow the directors
+to take such advice at the Company’s expense. In addition, all
+the directors have direct access to the advice and services of the
+Company Secretary. The Company Secretary is accountable to the
+board through the Chairman on governance matters. It is the
+responsibility of the Company Secretary to ensure that board
+procedures are followed and all rules and regulations are complied
+with. Under the direction of the Chairman, the Company Secretary’s
+responsibilities include facilitating induction and professional
+development and ensuring the smooth flow of information within
+the board and its committees, and between non-executive directors
+and senior management. Any new director receives a comprehensive,
+formal and tailored induction into the Company’s operations.
+Appropriate training is provided to new directors and is also
+available to other directors as required. The Company has
+arranged directors’ and officers’ insurance on behalf of all 
+the directors. 
+18 Micro Focus International Plc Annual report 2005
+Corporate governance The terms of reference of the Chairman and Chief Executive
+Officer have been agreed with the board and, in accordance
+with best practice, their roles remain separate. 
+As part of its leadership and control of the Company, the board
+has agreed a list of items that are specifically reserved for its
+consideration. These include business strategy, financing
+arrangements, material acquisitions and divestments, approval 
+of the annual budget, major capital expenditure projects, risk
+management, treasury policies and establishing and monitoring
+internal controls. At each meeting, the board reviews progress 
+of the Group towards its objectives, particularly in respect of
+research and development projects, and monitors financial
+progress against budget.
+In the year to 30 April 2006, the board will meet on a regular
+basis approximately every two months, with additional meetings
+when circumstances and business dictate. A schedule of meetings
+has been established. All directors receive an agenda and board
+papers in advance of meetings to help them make an effective
+contribution at the meetings. 
+In addition, the executive directors ensure regular informal contact
+is maintained with non-executive directors. The board makes full
+use of appropriate technology as a means of updating and
+informing all its members. 
+While the board retains overall responsibility for, and control of,
+the Company, day-to-day management of the business is conducted
+by the executive directors. Review of the Group’s principal business
+activities is the responsibility of the senior management (comprising
+the executive directors, together with executives responsible for
+marketing, sales, HR and research) who meet fortnightly.
+Due to the short period of time since Admission, the board has
+not undertaken a formal and rigorous process for the evaluation
+of its own performance and that of its committees and individual
+directors (including the Chairman), as required by Combined
+Code provision A6.1. However, this process is being established
+and, during the course of the current year, will take the form of
+questionnaires and personal interviews with the Chairman.
+It is intended that the Chairman will hold meetings with non-
+executive directors without the presence of executive directors 
+as appropriate. 
+Board committees
+In accordance with best practice, the Company has established
+audit, nomination and remuneration committees, with written
+terms of reference for each, that deal with their respective
+authorities and duties. The full terms of reference of all the
+committees are available from the Company Secretary. The
+Company is aware that the Chairman is not regarded as
+independent for purposes of the Combined Code. It is planned
+that Kevin Loosemore will step down from the remuneration
+and audit committees when other independent non-executives
+are appointed to such committees.
+Audit committee
+The audit committee is comprised entirely of non-executive
+directors of the Company. It is chaired by David Maloney, who 
+the board considers has recent and relevant financial experience.
+The other members are Kevin Loosemore and John Browett. 
+The audit committee has met twice since Admission. The audit
+committee is responsible for reviewing the Group’s annual accounts
+and interim reports prior to their submission for approval to the
+full board. This committee will also monitor the Group’s accounting
+policies, internal financial control systems and financial reporting
+procedures. The audit committee provides a forum through which
+the Group’s external auditor reports to the board. The auditor will
+be invited to attend meetings of the committee on a regular basis
+and will have the opportunity to meet privately with committee
+members in the absence of executive management. The audit
+committee oversees the relationship with the auditor, including
+the independence and objectivity of the auditor (taking into
+account UK professional and regulatory requirements and the
+relationship with the audit firm as a whole) and the consideration
+of audit fees and fees for other non-audit work. In addition, 
+the audit committee develops and recommends to the board 
+a policy designed to ensure that the auditor’s objectivity 
+and independence is not compromised by its undertaking
+inappropriate non-audit work. All significant non-audit work
+commissioned from the external auditor requires audit
+committee approval. 
+As at 30 April 2005 there was no internal audit function. The
+audit committee will discuss the ongoing need for an internal
+audit function and, if established, will be responsible for
+agreeing the annual internal audit plan. 
+Micro Focus International Plc Annual report 2005 19 It is intended that the audit committee will meet at least 
+four times during the forthcoming year (and, additionally 
+as appropriate), and a schedule of meetings for the year has 
+been established. 
+The audit committee’s terms of reference includes a process for
+employees of the Company to raise in confidence concerns about
+possible impropriety in matters of financial reporting or other
+matters.
+The terms of reference of the audit committee include, among
+other things, the following responsibilities:
+l To ensure that the interests of shareholders are properly
+protected in relation to financial reporting and internal control;
+l To monitor the integrity of the financial statements of the
+Company, including its annual and interim reports, preliminary
+results announcements and any other announcement relating 
+to its financial performance;
+l To review the consistency of, and changes to, accounting
+policies;
+l To keep under review the effectiveness of the Company’s
+internal controls and risk management systems;
+l To review the Company’s arrangements for its employees 
+to raise concerns, in confidence, about possible wrongdoing 
+in financial reporting or other matters;
+l To monitor and review the need for, and the effectiveness 
+of, the Company’s internal audit function in the context of the
+Company’s overall risk management system; and
+l To consider and make recommendations to the board in
+relation to the appointment, re-appointment and removal of 
+the Company’s external auditor.
+Nomination committee 
+The nomination committee is comprised entirely of non-executive
+directors of the Company and has met once since Admission. 
+It is chaired by Kevin Loosemore and the other members are
+David Maloney and David Dominik. The nomination committee
+will be responsible to the full board for proposing candidates 
+to the board, having regard to the balance and structure of 
+the board. In appropriate cases, recruitment consultants will 
+also assist in the process. The nomination committee will meet 
+at least twice during the forthcoming year. 
+The terms of reference of the nomination committee include,
+among other things, the following responsibilities:
+l To review the structure, size and composition of the board
+and make recommendations to the board with regard to any
+changes;
+l To identify and nominate, for the approval of the board,
+candidates to fill board vacancies as and when they arise;
+l To give full consideration to succession planning for
+directors and other senior executives; and
+l To keep under review the leadership needs of the Group,
+both executive and non-executive, with a view to ensuring the
+continued ability of the organisation to compete effectively in
+the market place.
+Remuneration committee
+The remuneration committee is comprised entirely of non-
+executive directors of the Company. It is chaired by Kevin
+Loosemore and the other members are David Maloney and 
+John Browett. The remuneration committee has met once since
+Admission. The remuneration committee is responsible for
+reviewing remuneration arrangements for members of 
+the board and for providing general guidance on aspects of
+remuneration policy throughout the Group. The remuneration
+committee will meet at least twice during the forthcoming year. 
+The terms of reference of the remuneration committee include,
+among other things, the following responsibilities:
+l To determine and agree with the board the framework or
+broad policy for the remuneration of the Company’s Chief Executive
+Officer, Chairman, the executive directors, the Company Secretary
+and other members of the executive management (as appointed
+from time to time);
+l To approve the design of salaries for senior managers, and
+determine targets for any performance-related pay schemes
+operated by the Company, and approve the total annual
+payments;
+20 Micro Focus International Plc Annual report 2005
+Corporate governance l To review the ongoing appropriateness and relevance 
+of the remuneration policy;
+l To review the design of all share incentive plans for
+approval by the board and shareholders;
+l To determine the policy for, and scope of, pension
+arrangements for each executive director and other senior
+executives;
+l To determine the total individual remuneration package 
+of each executive director and other senior executives including
+bonuses, incentive payments and share options or other share
+awards; and
+l To oversee any major changes in employee benefits
+structures throughout the Company or Group.
+Accountability and audit
+The board is responsible for the preparation of financial statements
+that present a balanced assessment of the Group’s financial position
+and prospects. This responsibility is administered primarily by the
+audit committee, the terms of reference for which are referred
+to above. 
+Internal controls
+The board is ultimately responsible for establishing and monitoring
+internal control systems throughout the Group and reviewing
+their effectiveness. It recognises that rigorous systems of internal
+control are critical to the Group’s achievement of its business
+objectives, that those systems are designed to manage rather
+than eliminate risk and that they can only provide reasonable and
+not absolute assurance against material misstatement or loss. 
+An ongoing process for identifying, evaluating and managing the
+significant risks faced by the Group is currently being implemented.
+The effectiveness of the Group’s internal control systems will also
+be reviewed by the board during the year. The audit committee’s
+terms of reference include the review of the Group’s internal
+financial control systems. The audit committee will be required
+to report and make recommendations to the board in this area. 
+Human resources
+The Group endeavours to appoint employees with appropriate
+skills, knowledge and experience for the roles they undertake.
+The Group has a range of policies which are aimed at retaining
+and providing incentives for key staff. Objectives are set for
+departments and employees that are derived from the Group’s
+business objectives. The Group has a clear and well-understood
+organisational structure and each employee knows his or her line
+of accountability.
+Announcements
+All major announcements are approved by the Chairman, the
+executive directors and a panel of senior executive management
+and then circulated to the board prior to issue. The Group also
+has internal and external checks to guard against unauthorised
+release of information.
+Financial
+A comprehensive budgeting system allows managers to submit
+detailed budgets which are reviewed and amended by executive
+directors prior to submission to the board for approval. 
+Insurance
+The Group has reviewed its portfolio of insurance policies with
+its insurance broker to ensure that the policies are appropriate
+to the Group’s activities and exposures. 
+Attendance at meetings
+The number of board meetings and committee meetings
+attended by each director in the period following Admission was
+as follows:
+Audit Remuneration Nomination
+Board committee committee committee
+Held Attended Held Attended Held Attended Held Attended
+Kevin Loosemore 4 4 221111
+Dr Anthony Hill 4 4––––––
+Richard Lloyd 4 4 – – – – – –
+David Maloney 4 3 2 2 1 1 1 1
+Prescott Ashe 4 2 – – – – – –
+David Dominik 4 3 – – – – 1 1
+John Browett* 4 1 2 1 1 – – –
+*John Browett was appointed on 1 July 2005 and was therefore
+only available to attend two board meetings and one meeting of
+the audit committee.
+Micro Focus International Plc Annual report 2005 21 Shareholder relations 
+The Company values the views of shareholders and recognises
+their interests in the Group’s strategy and performance. The
+Company will report formally to shareholders twice a year,
+around July (preliminary announcement of annual results) and
+December (interim statement). The annual report will usually be
+mailed to shareholders in August. Separate announcements of
+all material events will be made as necessary. 
+Regular communications will be maintained with institutional
+shareholders and presentations will be given to shareholders
+when the half-year and full-year financial results are announced.
+In addition to the Chief Executive Officer and Chief Financial
+Officer, who have regular contact with investors, Kevin
+Loosemore, Chairman, and David Maloney, Senior Independent
+Director, are available to meet with shareholders as and when
+required. The whole board is kept up to date at its regular
+meetings with the views of shareholders and analysts. External
+analysts’ reports are also circulated to directors.
+The Company’s website (www.microfocus.com) provides an overview
+of the business including its strategy, products and objectives. 
+All Group announcements will be available on the website, and
+new announcements will be published without delay. The terms
+of reference of each of the board’s three committees and other
+important corporate governance documents will be available
+from the Company Secretary. Additionally, the Group’s corporate
+communications department and Chief Financial Officer provide 
+a focal point for shareholders’ enquiries and dialogue
+throughout the year.
+Annual General Meeting
+The Company’s first Annual General Meeting, which will be 
+held on 28 September 2005, will provide an opportunity for 
+the board to meet with all shareholders, and their participation 
+is encouraged. At the meeting, in addition to the statutory business,
+the board will adopt a policy of holding business presentations
+to ensure that an up-to-date picture of the Group’s activities is
+given, following which the board is available for questions from
+shareholders.
+In accordance with the Combined Code recommendations, 
+the Company will count all proxy votes and on each resolution,
+which is voted on a show of hands, the Company will indicate 
+the level of proxies lodged, and number of proxy votes for 
+and against such resolution and the number of abstentions. 
+A resolution will be proposed for each substantive issue and 
+the Chairs of the audit, remuneration, and nomination
+committees will attend to answer questions.
+22 Micro Focus International Plc Annual report 2005
+Corporate governance The board is committed to running the Company in accordance
+with best practice in corporate governance. This commitment
+includes recognition by the Company of the importance of
+taking into account its corporate social responsibilities (“CSR”) 
+in operating the business. In this context, Micro Focus seeks 
+to integrate CSR considerations relating particularly to social,
+ethical and health, safety and environment (“HS&E”) issues 
+in its day-to-day operations. The board acknowledges its duty 
+to ensure the Company conducts its activities responsibly and
+with proper regard for all its stakeholders including employees,
+shareholders, business partners, suppliers and the local
+communities.
+In exercising its corporate social responsibility, Micro Focus seeks
+to ensure that:
+l The board takes account of the significance of social, ethical
+and HS&E issues;
+l Business practices are managed ethically;
+l The business is focused on delivering value to stakeholders;
+l Existing legislation, regulations and guidelines are adhered
+to as a minimum;
+l Employees are recognised as key to the business with
+individual skills and experience being valued and developed; and
+l Health, safety and environmental issues are treated as
+critical areas of concern for the business.
+Social
+The health, welfare and development of the Company’s
+employees remain a priority. With the intent of attracting,
+recruiting, developing and retaining key employees, Micro Focus
+maintains a number of policies and procedures for the benefit 
+of its employees, for example an equal opportunities policy
+approved by Acas. Employee development is encouraged
+through appropriate training.
+Regular and open communication between management and
+employees is viewed as essential for motivating a highly
+educated workforce. Briefings are held regularly to provide
+updates on Company business and to provide opportunity for
+questions and feedback. Review meetings are also held regularly
+within each department. The Company maintains both an
+Internet website which is freely accessible and an intranet site
+accessible to all employees.
+Ethical
+The Company manages its resources prudently to ensure
+appropriate investment is made in its research and development
+programmes and its commercialisation activities. Up-to-date
+security systems are utilised to protect the Company’s IT systems.
+The Company’s intellectual property is protected through an
+appropriate patenting programme. Close attention is paid to
+maintaining relationships with key stakeholders including
+business partners, suppliers and shareholders.  
+Environment
+Micro Focus complies with all local environmental legislation.
+Health safety and environment
+The Company has well-developed health and safety policies and
+procedures, safeguarding staff, contractors and visitors, and it
+complies with current legislation and best practice.
+Micro Focus International Plc Annual report 2005 23
+Corporate social responsibility On 17 May 2005, the Company became the holding company 
+of the Group by acquiring the Operating Company in a share-
+for-share exchange, pursuant to which the previous shareholders
+of the Operating Company were issued and allotted three
+ordinary shares in the capital of the Company for every one
+share held in the Operating Company (“Share Exchange”).
+On 17 May 2005 all the ordinary shares of the Company were
+admitted on to the Official List and to the London Stock
+Exchange to be traded on its main market for listed securities.
+This remuneration report provides information on the
+remuneration of the directors for their services provided to 
+the Operating Group for the year ended 30 April 2005 with
+comparative figures provided for the year ended 30 April 2004.
+As a private entity the Operating Group did not seek to comply
+with the Listing Rules, Schedule 7A of the Companies Act 1985,
+or the Combined Code. This remuneration report provides
+information on the steps already taken and proposed actions, 
+to ensure that the Company complies as a listed company with
+such requirements.
+In accordance with the Companies Act 1985, a resolution to
+approve the remuneration report will be proposed at the
+Company’s Annual General Meeting on 28 September 2005.
+Details of the resolution may be found in the notice of meeting
+accompanying this annual report. The vote will be advisory and
+will be considered carefully by the members of the remuneration
+committee in the formulation and approval of the Company’s
+future remuneration policies.
+The remuneration committee
+Prior to Admission the Company formed the remuneration
+committee (“committee”), which is made up entirely of 
+non-executive directors of the Company. It will meet at least 
+twice during the coming financial year. Kevin Loosemore 
+is the Chairman of the committee, with David Maloney and 
+John Browett its other members. The Company is aware that the
+Chairman is not regarded as independent for the purposes of the
+Combined Code. It is planned that Kevin Loosemore, the Chairman,
+will step down from the committee when other independent non-
+executive directors are appointed to it. Where appropriate the
+committee will invite the views of the Chief Executive Officer
+and the Director of Human Resources, as well as of external
+remuneration consultants.
+Following Admission the committee has been materially assisted
+by New Bridge Street Consultants in providing remuneration
+advice, by Mr Simon Steen of Steen and Co in providing legal
+advice with respect to directors’ service agreements, by Ms Jane
+Smithard, Company Secretary and Legal Counsel, and by
+Linklaters, solicitors, who are external advisers, in providing
+general legal advice and who were already in place as advisers
+when the remuneration committee was formed.
+Remuneration policy
+Previously the remuneration of executive directors was established
+by the non-executive directors of the Operating Company; the
+management team set the policy for employees, including senior
+employees; and the board of the Operating Company approved
+this remuneration as part of the annual budget exercise. The
+Company’s policy on the remuneration of executive directors and
+their direct reports will now be established by the committee and
+approved by the board. The individual remuneration packages 
+of each executive director will be determined by the committee.
+No executive director or employee will participate in discussions
+relating to the setting of their own remuneration.
+The overall budget for the remuneration of employees will
+continue to be approved by the board as part of the annual
+budget-setting exercise.
+The objective of the Group’s remuneration policies is that all
+employees, including executive directors, should receive appropriate
+remuneration for their performance, responsibility, skills and
+experience. Remuneration packages enable the Group to attract
+and retain key employees by ensuring they are remunerated
+appropriately and competitively and that they are motivated to
+achieve the highest level of Group performance in line with the
+best interests of shareholders. 
+It is intended that an appropriate and significant proportion of
+remuneration will be performance related (see details below).
+Performance conditions for performance-related bonuses and
+long-term incentives will represent challenging growth targets
+which are designed to increase shareholder value. The committee
+will review the performance conditions used to ensure that the
+performance conditions are demanding and appropriate.
+24 Micro Focus International Plc Annual report 2005
+Remuneration report It is the board’s intention to award share incentives to executive
+directors and selected employees as appropriate to reward and
+encourage performance. These share incentives will be granted
+at the discretion of the committee. Share options granted under
+pre-IPO share option plans will be fully vested by September
+2007. There are no options currently held by executive directors.
+Non-executive directors do not participate in the Group’s share
+incentives.
+Policies on remuneration take account of the pay structure and
+employment conditions within the Group and also the industry
+sector. To determine the elements and level of remuneration
+appropriate to each executive director the committee considered
+benchmark remuneration data for selected comparable
+technology companies
+Directors’ service contracts
+The Group’s policy in entering into service contracts with executive
+directors is to enable the recruitment of high-quality executives
+and to obtain protection from their sudden departure whether or
+not to competitor companies. In addition, service contracts are an
+important element in maintaining maximum protection for the
+Group’s intellectual property rights and other commercially
+sensitive information.
+The executive directors are employed subject to service contracts.
+The service contracts of executive directors Dr Anthony Hill and
+Richard Lloyd, with the Company, were agreed on 3 August 2005
+and came into immediate effect. The service contract with 
+Dr Anthony Hill provides for a base annual salary of £220,000
+and requires the Company to give 12 months’ notice of
+termination. The service contract with Richard Lloyd provides 
+for a base annual salary of £125,000 and requires six months’
+notice of termination from the Company. The executive directors
+are required to give six months’ notice of the termination of their
+employment should they wish to leave. If an executive director is
+guilty of a material breach of his service contract or commits any
+crime or act of gross misconduct or dishonesty, the Company is
+entitled summarily to terminate the service contract without
+notice and without payment in lieu of notice or other
+compensation. Such a contract term cannot, however, as a rule
+of law, affect the executive director’s statutory rights such as
+rights in respect of unfair dismissal.
+Should an executive director be dismissed other than as
+described above, the Company may pay him, in lieu of notice, 
+a sum equal to his basic pay over his notice period. 
+At the discretion of the committee having regard to the
+Company’s performance at the time of dismissal, the committee
+may in addition pay all or a proportion of the bonus which
+would, but for the dismissal, have become payable during the
+notice period. The Company’s policy on the duration of such
+contracts with executive directors is explained above. The
+executive directors do not currently serve as non-executive
+directors elsewhere and cannot do so without the consent of 
+the board.
+Non-executive directors
+Non-executive directors are appointed by letter of appointment
+for periods not exceeding three years. They receive fees for
+services as members of the board and its committees. The level
+of fees is determined by the board after taking into account
+appropriate advice.
+The fees payable to non-executive directors for 2005-06 are as
+follows:
+Kevin Loosemore £125,000 pa
+David Maloney £60,000 pa
+John Browett £30,000 pa
+David Dominik nil
+Prescott Ashe nil
+Kevin Loosemore and David Maloney signed appointment letters
+with the Company which became effective on 4 April 2005.
+Prescott Ashe and David Dominik are non-independent directors
+of the Operating Company and signed appointment letters 
+with the Company on 29 April 2005 which became effective
+immediately. John Browett signed an appointment letter with
+effect from 1 July 2005. All non-executive directors have
+appointments for a fixed term of three years.
+All of these appointments are subject to the directors being re-
+elected under the rotation provisions in the Company’s Articles
+of Association, and subject to Companies Act provisions. Each
+non-executive director still serving at the end of his term will
+have his appointment reviewed by the board and a further term
+of office may be agreed. Where a non-executive director does
+not serve until the end of his term, the policy is to pay the fees
+due pro rata to the date of cessation.
+Micro Focus International Plc Annual report 2005 25 Remuneration package (audited)
+Executive directors’ remuneration currently comprises annual
+salary, a performance-related bonus, a long-term incentive in 
+the form of share incentives, pension contributions and other
+benefits.
+Annual salary
+The board will approve the overall budget for employee salary
+increases and the committee will agree the specific increases 
+for executive directors and certain other senior members of 
+the management team. In determining appropriate salary levels 
+for each executive director and senior employee, the committee
+will consider both the nature and the status of the Company’s
+operations and the responsibilities, skills, experience and
+performance of the executive director or employee. The
+committee will compare the Group’s remuneration packages 
+for its directors and employees with those for directors and
+employees of similar seniority in companies whose activities 
+are comparable with the Group and with which it competes 
+for staff. The committee has used New Bridge Street Consultants
+in making these comparisons.
+Performance-related bonus
+The executive directors and all other employees, except for sales
+staff, participate in a performance-related bonus scheme. The
+level of commission for sales staff is based on a percentage of
+revenue generated, with the percentages increasing as revenue
+exceeds target levels. The level of bonus for eligible employees 
+is based on overall Group performance in meeting its primary
+financial objectives in worldwide earnings before interest, tax,
+depreciation and amortisation (“EBITDA”) and revenue goals.
+The percentages increase as revenue and profit exceed target.
+Going forward, the remuneration committee will place a
+significant proportion of executive pay “at risk”, so that it is closely
+linked to the interests of shareholders. The committee will ensure
+that challenging and clearly assessable targets are set for executive
+directors. Details of bonuses paid to executive directors by the
+Operating Group in the year to 30 April 2005 are detailed in 
+the remuneration tables below. Bonus levels range between 5%
+and 40% for all other employees based on their role and market
+need. Bonuses are awarded wholly in cash. 
+In respect of the year 2005-06 there will be a cap on bonuses
+payable to executive directors of 150% of base salary.
+Long-term incentives
+The board believes that long-term incentive schemes are
+important in retaining and recruiting high-calibre individuals
+and ensuring that the performance of executives is focused on
+creating long-term shareholder value whilst allowing the Group’s
+cash reserves to be conserved. Further awards of options or free
+shares will be considered by the committee on an ongoing basis. 
+Therefore the Company adopted the Micro Focus International
+Plc Incentive Plan 2005 (the “Plan”) prior to Admission. This is
+intended to provide a flexible framework to allow the Company
+to make awards of free shares in the form of nil-cost options,
+conditional awards or forfeitable shares, or to grant market
+value options (“Awards”). It is intended that the Plan will be
+operated this year.
+The Awards to be granted this year will be subject to an
+earnings per share performance condition designed to drive
+growth over three financial years. The targets for Awards to be
+made during this financial year have not yet been set by the
+remuneration committee but will be challenging and stretching.
+The maximum aggregate value of Awards that can be granted 
+to any individual in any financial year will not exceed two times
+his or her basic salary. For these purposes, the value of the
+Awards is equal to the market value of free shares at the time of
+award or, in the case of market value options, 50% of the
+market value of the shares under option at the time of award.
+This limit may be exceeded only where the committee
+determines that there are exceptional circumstances. 
+Pension contributions
+All employees including executive directors are invited to
+participate in a Group Personal Pension Plan. All major schemes
+are money purchase in nature and, aside from Japan, have 
+no defined benefits. The level of the Group’s contribution varies 
+by country. The Group has no obligation to the pension scheme
+beyond the payment of contributions.
+Pension benefits include death in service. There is no pension for
+a spouse.
+Other benefits
+Benefits in kind for executive directors can include the provision
+of a company car, fuel, life insurance and medical benefits.
+26 Micro Focus International Plc Annual report 2005
+Remuneration report Detailed emoluments of the directors of the Operating Group
+(audited)
+Directors include Richard Lloyd who, whilst not a director of 
+the Operating Company during the year, will be disclosed as 
+a director of the Company in future periods. The aggregate
+remuneration paid to directors was as follows: 
+2005
+Base Benefits 2004
+salary Bonus in kind Pensions Total Total
+£’000 £’000 £’000 £’000 £’000 £’000
+Executive directors
+Dr Anthony Hill 196 209 11 9 425 372
+Richard Lloyd 102 43 9 5 159 148
+298 252 20 14 584 520
+Neither of the non-independent non-executive directors of the
+Operating Company (David Dominik and Prescott Ashe) received
+any emoluments during the year ended 30 April 2005 (2004: nil).
+David Dominik and Prescott Ashe are directors of Golden Gate
+Capital. Details of transactions with related parties are set out in
+note 26 of the financial statements of the Operating Company.
+Gains made by directors of the Operating Group on shares (audited)
+On 28 October 2004 Dr Anthony Hill was given the opportunity 
+to purchase 200,000 class A ordinary shares in the Operating
+Company at a price of $1.67 per share. These shares vested
+immediately and became immediately beneficially held. The
+value (as calculated under FRS 20) on 28 October 2004 was $8.98,
+representing an aggregate gain of $1,407,000. There were no
+other shares or share options issued to directors in the year
+ended 30 April 2005 (2004: nil).
+Directors’ interests in share capital of the Operating Company
+(audited)
+The directors owned the following shares in the Operating
+Company as at 30 April 2005. These interests were all beneficially
+held. On 17 May 2005, prior to the Admission, each ordinary
+share in the Operating Company was exchanged for three shares
+in the Company pursuant to the Share Exchange.
+Dr Anthony Hill Richard Lloyd
+Class of shares A B C A B
+At 1 May 2004 and 
+30 April 2005 1,800,000 400,000 308,000 160,000 40,000
+As at 3 August 2005 the directors owned the following ordinary
+shares in the Company:
+Director Number of ordinary shares
+Kevin Loosemore 76,923
+David Maloney 7,692
+Dr Anthony Hill 7,524,000
+Richard Lloyd 600,000
+David Dominik 0
+Prescott Ashe 0
+John Browett 5,000
+No director was granted, owned or exercised any options during
+the year ended 30 April 2005 (2004: nil) and have not been
+granted any options up to the date of this report.
+There have been no changes in the directors’ interests between 
+1 May 2005 and 3 August 2005 except for the purchase of 5,000
+ordinary shares by John Browett.
+Performance graph
+In accordance with the Company’s aim of complying with
+Schedule 7A of the Companies Act 1985, the Company notes 
+the requirement for the remuneration report to contain a
+performance graph. For the reasons set out in the introduction
+to this report, such a graph is not relevant at this stage. 
+A performance graph will be included within remuneration
+reports for the following years.
+Share option schemes (audited)
+Details of share option schemes are given in note 24 of the
+financial statements of the Operating Company. 
+On behalf of the board
+Kevin Loosemore
+Chairman of the remuneration committee
+3 August 2005
+Micro Focus International Plc Annual report 2005 27 The directors are required by the Companies Act 1985 to prepare
+financial statements for each financial year which give a true and
+fair view of the state of affairs of the Company and the Group 
+and of the profit or loss of the Group for that period. 
+The directors confirm that in preparing the financial statements
+the Company and the Group have used appropriate accounting
+policies, consistently applied and supported by reasonable and
+prudent judgements and estimates, and that all accounting
+standards which they consider to be applicable have been
+followed subject to any explanations and material departures
+disclosed in the notes to the financial statements. 
+The directors further confirm that they consider the Group to 
+be a going concern and the financial statements have been 
+prepared on that basis. 
+The directors have responsibility for ensuring that the Company
+and the Group keep proper accounting records which disclose,
+with reasonable accuracy at any time, the financial position of 
+the Company and the Group and which enable them to ensure
+that the financial statements comply with the Companies Act
+1985. The directors have responsibility for taking such steps as 
+are reasonably open to them to safeguard the assets of the
+Company and the Group and to prevent and detect fraud 
+and other irregularities. 
+The directors are responsible for the maintenance and integrity 
+of the Group’s website and acknowledge that information
+published on the Internet is accessible in countries with different
+legal requirements relating to the preparation and dissemination
+of financial statements. 
+Going concern
+After reviewing the Company’s and the Group’s budget for 
+the next financial year and other longer-term plans, the 
+directors are satisfied that, at the time of approving the financial
+statements, the Group has adequate resources to continue in
+operational existence for the foreseeable future and for a period
+of not less than 12 months from the date of this annual report.
+Therefore, the financial statements have been prepared on 
+a going concern basis.
+By order of the board
+Jane Smithard Company Secretary
+3 August 2005
+28 Micro Focus International Plc Annual report 2005
+Directors’ responsibilities We have audited the financial statements which comprise the
+balance sheet, the cash flow statement and the related notes
+which have been prepared under the historical cost convention
+and the accounting policies set out in the statement of accounting
+policies. We have also audited the disclosures required by part 3
+of Schedule 7A to the Companies Act 1985 contained in the
+remuneration report (“auditable part”).
+Respective responsibilities of directors and auditors
+The directors’ responsibilities for preparing the annual report
+and the financial statements in accordance with applicable
+United Kingdom law and accounting standards are set out in 
+the statement of directors’ responsibilities. The directors are 
+also responsible for preparing the remuneration report.
+Our responsibility is to audit the financial statements and the
+auditable part of the remuneration report in accordance with
+relevant legal and regulatory requirements and United Kingdom
+Auditing Standards issued by the Auditing Practices Board. 
+This report, including the opinion, has been prepared for and
+only for the Company’s members as a body in accordance with
+Section 235 of the Companies Act 1985 and for no other
+purpose. We do not, in giving this opinion, accept or assume
+responsibility for any other purpose or to any other person to
+whom this report is shown or into whose hands it may come
+save where expressly agreed by our prior consent in writing.
+We report to you our opinion as to whether the financial
+statements give a true and fair view and whether the financial
+statements and the auditable part of the remuneration report
+have been properly prepared in accordance with the Companies
+Act 1985. We also report to you if, in our opinion, the directors’
+report is not consistent with the financial statements, if the
+Company has not kept proper accounting records, if we have 
+not received all the information and explanations we require for
+our audit, or if information specified by law regarding directors’
+remuneration and transactions is not disclosed.
+We read the other information contained in the annual report
+and consider the implications for our report if we become aware 
+of any apparent misstatements or material inconsistencies with
+the financial statements. The other information comprises only
+the Chairman’s statement, Chief Financial Officer’s review, the
+directors’ report and the corporate governance statement and
+the unaudited parts of the remuneration report.
+We also, at the request of the directors (because the Company
+applies the Listing Rules as if it had been a listed company at 
+the end of the year), review whether the corporate governance
+statement reflects the Company’s compliance with the nine
+provisions of the 2003 FRC Combined Code specified for our review
+by the Listing Rules of the Financial Services Authority, and we
+report if it does not. We are not required to consider whether the
+board’s statements on internal control cover all risks and controls,
+or form an opinion on the effectiveness of the Company’s corporate
+governance procedures or its risk and control procedures.
+Basis of audit opinion
+We conducted our audit in accordance with auditing standards
+issued by the Auditing Practices Board. An audit includes
+examination, on a test basis, of evidence relevant to the amounts
+and disclosures in the financial statements and the auditable
+part of the remuneration report. It also includes an assessment
+of the significant estimates and judgements made by the
+directors in the preparation of the financial statements, and of
+whether the accounting policies are appropriate to the Company’s
+circumstances, consistently applied and adequately disclosed.
+We planned and performed our audit so as to obtain all the
+information and explanations which we considered necessary 
+in order to provide us with sufficient evidence to give reasonable
+assurance that the financial statements and the auditable part 
+of the remuneration report are free from material misstatement,
+whether caused by fraud or other irregularity or error. In
+forming our opinion we also evaluated the overall adequacy 
+of the presentation of information in the financial statements.
+Opinion
+In our opinion:
+l the financial statements give a true and fair view of the
+state of affairs of the Company at 30 April 2005 and of the cash
+flows of the Company for the period then ended;
+l the financial statements have been properly prepared in
+accordance with the Companies Act 1985; and
+l those parts of the remuneration report required by part 3
+of Schedule 7A to the Companies Act 1985 have been properly
+prepared in accordance with the Companies Act 1985.
+PricewaterhouseCoopers LLP
+Chartered Accountants and Registered Auditors
+Reading
+3 August 2005
+Micro Focus International Plc Annual report 2005 29
+Independent auditors’ report to the members of Micro Focus International Plc
+Micro Focus International Plc 2005
+Notes $
+Current assets
+Cash 2
+Debtors 2 95,354
+Net current assets 95,356
+Total assets less current liabilities 95,356
+Net assets 95,356
+Capital and reserves
+Called up share capital 3 95,356
+Equity shareholder’s funds 4 95,356
+The financial statements set out on pages 30 to 34 were approved by the board on 3 August 2005 and were signed on its behalf by:
+Dr Anthony Hill Director Richard Lloyd Director
+30 Micro Focus International Plc Annual report 2005
+Balance sheet
+as at 30 April 2005
+Micro Focus International Plc Cash flow statement
+for the period ended 30 April 2005
+Micro Focus International Plc Annual report 2005 31
+Period from
+21 May 2004
+to
+30 April 2005
+$
+Financing
+Issue of ordinary share capital 2
+Net cash inflow from financing 2
+Increase in net cash 2
+Cash at 30 April 2005 2
+Micro Focus International Plc Micro Focus International Plc
+Notes to the financial statements
+32 Micro Focus International Plc Annual report 2005
+1 Principal accounting policies
+The financial statements have been prepared under the historical cost convention, the accounting policies set out below and in
+accordance with accounting principles generally accepted in the UK.
+Micro Focus International Plc (“Company”) acquired the entire share capital of Micro Focus International Limited (“Operating
+Company”) on 17 May 2005. The Operating Company has previously adopted US Dollars as its reporting currency. The Company has
+accordingly also adopted US Dollars as its reporting currency.
+The Company did not trade during the period.
+Costs
+The costs incurred by the Company in respect of the Admission to the Official List of the FSA will be charged to the share premium
+account arising on the proposed issue of shares in connection therewith. Such costs were borne by the Operating Company and were
+only charged to the Company upon Admission.  
+2 Debtors
+30 April
+2005
+$
+Other debtors 95,354
+Other debtors represent an undertaking to pay for redeemable preference shares, as is permitted under the provisions of the
+Companies Act. Micro Focus International Plc
+Micro Focus International Plc Annual report 2005 33
+3 Called up share capital
+30 April
+2005
+$
+Authorised
+2,499,500,000 ordinary shares of £0.10 each 476,674,646
+50,000 redeemable preference shares of £1 each 95,354
+Total 476,770,000
+30 April
+2005
+$
+Allotted, called up and fully paid
+One ordinary share of £0.10 –
+50,000 redeemable preference shares of £1 each 95,356
+95,356
+The Company was incorporated on 21 May 2004 with an authorised share capital of 100 ordinary shares of £1 each. On this date one
+ordinary share was issued for a consideration of £1.  
+On 4 April 2005, the Company sub-divided the share capital into 1,000 ordinary shares of £0.10 each. On this date, the Company also
+authorised the creation of redeemable preference shares and authorised and allotted 50,000 redeemable preference shares of £1
+each. The subscription took the form of an undertaking to pay the Company, which under Section 738(2) of the Companies Act is
+deemed to be fully paid.
+On 27 April 2005 the Company increased the authorised ordinary share capital from 1,000 ordinary shares to 2,499,500,000 ordinary
+shares of £0.10 each.
+On 17 May 2005, the Company acquired the entire issued share capital of the Operating Company by way of a share-for-share
+exchange, pursuant to which the previous shareholders of the Operating Company were issued and allotted three ordinary shares in
+the capital of the Company for every one ordinary share they previously held in the Operating Company. On 17 May 2005, 51,069,062
+new ordinary shares in the capital of the Company were issued to institutional investors as part of the IPO and these shares, as well as
+the Company’s existing ordinary shares, were admitted to the Official List and to the London Stock Exchange to be traded on its main
+market for listed securities. The 50,000 redeemable preference shares in issue immediately before the IPO were redeemed and then
+sub-divided and reclassified into ordinary shares of 10 pence each by the Company after the IPO. 4 Reconciliation of movements in shareholders’ funds
+30 April
+2005
+$
+At 21 May 2004
+Issue of share capital 95,356
+At 30 April 2005 95,356
+5 Post balance sheet events
+On 17 May 2005 (immediately prior to Admission), the Company acquired the entire issued share capital of the Operating Company
+by way of a share-for-share exchange, pursuant to which the previous shareholders of the Operating Company were issued and
+allotted three ordinary shares in the capital of the Company for every one ordinary share they previously held in the Operating
+Company. On 17 May 2005, 51,069,062 new ordinary shares in the capital of the Company were issued to institutional investors as
+part of the IPO and these shares, as well as the Company’s existing ordinary shares, were admitted to the Official List and to the
+London Stock Exchange to be traded on its main market for listed securities. The 50,000 redeemable preference shares in issue
+immediately before the IPO were redeemed and then sub-divided and reclassified into ordinary shares of 10 pence each by the
+Company after the IPO.
+34 Micro Focus International Plc Annual report 2005
+Notes to the financial statements
+Micro Focus International Plc We have audited the non-statutory consolidated financial statements which comprise the profit and loss account, the statement of
+total recognised gains and losses, the balance sheet, the cash flow statement and the related notes which have been prepared under
+the historical cost convention and the accounting policies set out on pages 41 to 43.
+Respective responsibilities of directors and auditors
+The directors’ responsibilities for preparing the non-statutory financial statements in accordance with applicable United Kingdom law
+and accounting standards are set out in the statement of directors’ responsibilities. 
+Our responsibility is to audit the non-statutory financial statements in accordance with relevant legal and regulatory requirements and United
+Kingdom Auditing Standards issued by the Auditing Practices Board. This report, including the opinion, has been prepared for and only for
+the Company’s members as a body. We do not, in giving this opinion, accept or assume responsibility for any other purpose or to any other
+person to whom this report is shown or into whose hands it may come save where expressly agreed by our prior consent in writing.
+We report to you our opinion as to whether the non-statutory financial statements give a true and fair view. We also report to you if,
+in our opinion, the directors’ report is not consistent with the non-statutory financial statements, if the Company has not kept proper
+accounting records, if we have not received all the information and explanations we require for our audit, or if information specified
+by law regarding directors’ remuneration and transactions is not disclosed.
+We read the other information contained in the annual report and consider the implications for our report if we become aware 
+of any apparent misstatements or material inconsistencies with the financial statements. The other information comprises only the
+Chairman’s statement, Chief Executive Officer’s review of operations, Chief Financial Officer’s review, the directors’ report and the
+corporate governance statement and the unaudited parts of the remuneration report.
+We also, at the request of the directors (because the Company applies the Listing Rules as if it had been a listed company at the end 
+of the year), review whether the corporate governance statement reflects the Company’s compliance with the nine provisions of the
+Combined Code specified for our review by the Listing Rules, and we report if it does not. We are not required to consider whether
+the board’s statements on internal control cover all risks and controls, or form an opinion on the effectiveness of the Company’s or
+Group’s corporate governance procedures or its risk and control procedures.
+Basis of audit opinion
+We conducted our audit in accordance with auditing standards issued by the Auditing Practices Board. An audit includes examination, on
+a test basis, of evidence relevant to the amounts and disclosures in the non-statutory financial statements. It also includes an assessment
+of the significant estimates and judgements made by the directors in the preparation of the non-statutory financial statements, and of
+whether the accounting policies are appropriate to the Company’s circumstances, consistently applied and adequately disclosed.
+We planned and performed our audit so as to obtain all the information and explanations which we considered necessary in order 
+to provide us with sufficient evidence to give reasonable assurance that the non-statutory financial statements are free from material
+misstatement, whether caused by fraud or other irregularity or error. In forming our opinion we also evaluated the overall adequacy
+of the presentation of information in the non-statutory financial statements.
+Opinion
+In our opinion the non-statutory financial statements give a true and fair view of the state of affairs of the Company and the Group
+at 30 April 2005 and the loss and cash flows of the Group for the year then ended.
+PricewaterhouseCoopers LLP
+Chartered Accountants and Registered Auditors, Reading
+3 August 2005
+Micro Focus International Plc Annual report 2005 35
+Independent auditors’ report to the members of Micro Focus International Limited
+Micro Focus International Limited 2005 2004
+Notes $’000 $’000
+Turnover 3 150,645 126,268
+Cost of sales (6,327) (8,279)
+Gross profit 144,318 117,989
+Selling and distribution costs (48,106) (39,697) 
+Research and development (23,407) (22,350)
+Amortisation of goodwill 8 (3,769) (3,769)
+Share-based compensation payments 24 (3,581) (840)
+Reorganisation costs 5 (2,302) –
+Other administrative expenses (27,229) (26,094)
+Total administrative expenses (36,881) (30,703)
+Operating profit 35,924 25,239
+Net interest payable 4 (8,274) (3,233)
+Profit on ordinary activities before taxation 5 27,650 22,006
+Tax on profit on ordinary activities 6 (10,101) (7,771)
+Profit for the financial year 17,549 14,235
+Dividends 7 (78,800) (28,450)
+Accumulated loss for the financial year 20 (61,251) (14,215)
+Earnings per ordinary share 30
+Basic 11.91c 9.78c
+Diluted 11.66c 9.49c
+Earnings per ordinary share before goodwill amortisation 30
+Basic 14.47c 12.37c
+Diluted 14.16c 12.00c
+All amounts relate to continuing operations.
+There is no material difference between the profit on ordinary activities before taxation and the profit for the years stated above and
+their historical cost equivalents. 
+36 Micro Focus International Plc Annual report 2005
+Consolidated profit and loss account
+for the year ended 30 April 2005
+Micro Focus International Limited 2005 2004
+Notes $’000 $’000
+Profit for the financial year 17,549 14,235
+Exchange adjustments offset in reserves 21 (287) 304
+Total recognised gains for the year 17,262 14,539
+Reconciliation of movement in Group shareholders’ funds
+for the year ended 30 April 2005
+2005 2004
+Notes $’000 $’000
+Profit for the financial year 17,549 14,235
+Dividends (78,800) (28,450)
+20 (61,251) (14,215)
+Exchange adjustments offset in reserves 21 (287) 304
+Proceeds of ordinary shares issued for cash 19 505 7
+Cancellation of treasury shares (1) –
+Adjustment in respect of employee share option plans 3,048 449
+Net change in shareholders’ funds (57,986) (13,455)
+Shareholders’ deficit as at 1 May (13,997) (542)
+Shareholders’ deficit as at 30 April (71,983) (13,997)
+Micro Focus International Plc Annual report 2005 37
+Statement of Group total recognised gains and losses
+for the year ended 30 April 2005
+Micro Focus International Limited 2005 2004
+Notes $’000 $’000
+Fixed assets
+Intangible assets 8 38,635 42,404
+Tangible assets 9 3,667 4,115
+42,302 46,519
+Current assets
+Stock 10 350 312
+Debtors 11 50,245 37,925
+Deferred tax asset 17 3,722 5,998
+Investments 12 8,313 7,166
+Cash at bank and in hand 24,557 17,254
+87,187 68,655
+Creditors: Amounts falling due within one year 13 (91,174) (73,654)
+Net current liabilities (3,987) (4,999)
+Total assets less current liabilities 38,315 41,520
+Creditors: Amounts falling due after more than one year 14 (110,298) (55,517)
+Net liabilities (71,983) (13,997)
+Capital and reserves
+Called up share capital 18 – 1
+Share premium account 19 3,376 2,946
+Profit and loss reserve (deficit) 20 (75,190) (17,062)
+Other reserves 21 (169) 118
+Total shareholders’ deficit (71,983) (13,997)
+The financial statements on pages 36 to 63 were approved by the board of directors on 3 August 2005 and were signed on its behalf by:
+Dr Anthony Hill Director Richard Lloyd Director
+38 Micro Focus International Plc Annual report 2005
+Consolidated balance sheet
+as at 30 April 2005
+Micro Focus International Limited 2005 2004
+Notes $’000 $’000
+Net cash inflow from operating activities 22 46,380 31,726
+Returns on investments and servicing of finance
+Interest received 382 141
+Interest paid (5,274) (3,160)
+Issue costs of new bank loan (2,959) –
+Interest element of finance lease payments (19) –
+Net cash outflow from returns on investments and servicing of finance (7,870) (3,019)
+Taxation (2,368) (2,417)
+Capital expenditure and financial investment
+Purchase of tangible fixed assets (1,360) (1,207)
+Proceeds on disposal of tangible fixed assets 23 –
+Net cash outflow for capital expenditure and financial investment (1,337) (1,207)
+Equity dividends paid to shareholders (78,800) (28,450)
+Net cash outflow before use of liquid resources and financing (43,995) (3,367)
+Management of liquid resources
+(Increase)/reduction in short-term deposits with banks (1,147) (6,440)
+Net cash (outflow)/inflow from the management of liquid resources (1,147) (6,440)
+Financing
+Issue of ordinary share capital 19 505 7
+Capital element of finance lease payments 23 (42) –
+Increase in borrowings 23 50,500 15,550
+Net cash inflow from financing 50,963 15,557
+Increase in net cash 5,821 5,750
+Micro Focus International Plc Annual report 2005 39
+Consolidated cash flow statements
+for the year ended 30 April 2005
+Micro Focus International Limited 1 Basis of preparation 
+These financial statements have been prepared under the historical cost convention and in accordance with accounting principles
+generally accepted in the United Kingdom (“UK GAAP”), solely for the purpose of providing additional financial information
+Consolidation
+The consolidated financial statements comprise Micro Focus International Limited (“Operating Company”), a company incorporated 
+in the Cayman Islands, and its wholly-owned subsidiaries (together “Operating Group”)  for the year to 30 April 2005 with
+comparative information for the year up to 30 April 2004. All significant inter-company balances and transactions have been
+eliminated upon consolidation.
+On 17 May 2005, the share capital of the Operating Company was acquired by Micro Focus International Plc (“Company”) in a share-
+for-share exchange with the previous shareholders of the Operating Company. On 17 May 2005 the ordinary shares of the Company
+were admitted to the Official List, and to the London Stock Exchange to be traded on its main market for listed securities. The
+financial statements of Micro Focus International Plc for the period to 30 April 2005 are shown separately in this annual report.
+The following principal subsidiary undertakings, which are all wholly owned, have been included in the consolidated financial
+statements:
+Company name Country of incorporation Principal activities
+Micro Focus Group Holdings Ireland Holding company
+Micro Focus International Holdings Limited Ireland Sale and support of software
+Micro Focus IP Limited Cayman Islands Sale and support of software
+Micro Focus Limited UK Development, sale and support of software
+Micro Focus GmbH Germany Sale and support of software
+Micro Focus (Canada) Limited Canada Sale and support of software
+Micro Focus NV (Holland) Netherlands Sale and support of software
+Micro Focus (US) Inc USA Development, sale and support of software
+Micro Focus KK Japan Sale and support of software
+Micro Focus Srl Italy Sale and support of software
+Micro Focus SAS France Sale and support of software
+Micro Focus Pty Limited Australia Sale and support of software
+Micro Focus AS Norway Sale and support of software
+Micro Focus NV (Belgium) Belgium Sale and support of software
+These companies operate principally in the country in which they are incorporated.
+40 Micro Focus International Plc Annual report 2005
+Notes to the financial statements
+for the year ended 30 April 2005
+Micro Focus International Limited
+  2 Principal accounting policies
+Turnover
+The Operating Group recognises turnover from sales of software licences to end-users or resellers upon persuasive evidence of an
+arrangement, delivery of the software, and determination that collection of a fixed or determinable fee is reasonably assured. When
+the fees for software upgrades and enhancements, maintenance, consulting and training are bundled with the licence fee, they are
+unbundled using the Operating Group’s objective evidence of the fair value of the elements represented by the Operating Group’s
+customary pricing for each element in separate transactions. If such evidence of fair value exists for all undelivered elements and
+there is no such evidence of fair value established for delivered elements, turnover is first allocated to the elements where evidence
+of fair value has been established and the residual amount is allocated to the delivered elements. If evidence of fair value for any
+undelivered element of the arrangements does not exist, all turnover from the arrangement is deferred until such time that evidence
+of fair value exists for undelivered elements or until all elements of the arrangement are delivered.
+If the arrangement includes acceptance criteria, turnover is not recognised until the Operating Group can objectively demonstrate
+that the software or service can meet the acceptance criteria, or the acceptance period lapses, whichever is earlier.
+The Operating Group recognises licence turnover derived from sales to resellers, upon delivery to the reseller provided that all other
+turnover recognition criteria are met, otherwise turnover is deferred and recognised upon delivery of product to the ultimate end-user. 
+Maintenance turnover is derived from providing technical support and software updates to customers. Maintenance turnover is
+recognised rateably over the term of the contract, which in most cases is one year. Turnover from consulting and training services 
+is recognised as the services are performed. 
+Amounts collected prior to satisfying the above turnover recognition criteria are included in deferred revenue. 
+Foreign currencies
+For the purposes of preparing the consolidated financial statements, the Operating Group has adopted the US Dollar as its reporting
+currency as the majority of its turnover and all of its borrowings are designated in that currency. The Operating Group has
+determined that the functional currency of each subsidiary operation is its respective local currency. The exchange rate of UK Sterling
+to US Dollars at 30 April 2005 was $1.8952 (30 April 2004: $1.8072). Transactions in a foreign currency are recorded by each subsidiary
+at the rate of exchange on the date of the transaction. Monetary assets and liabilities denominated in foreign currencies at the year
+end are translated at the prevailing exchange rate on that date and the exchange gain or loss is recorded in the profit and loss
+account. On consolidation, the results of operations of non-US Dollar operations are translated into the reporting currency at the
+average rate of exchange for each period. Differences arising on the re-translation are taken directly to the foreign currency
+translation reserve. 
+Share options
+The Operating Group has applied the requirements of FRS 20, Share-based payments. In accordance with the transition provisions, 
+FRS 20 has been applied to all grants after 7 November 2002 that were unvested as of 1 January 2005. Grants prior to this date were
+made under the provisions of UITF 17, Employee share schemes. The adoption of FRS 20 represents a change in accounting policy.
+Had UITF 17 have been applied to all periods there would have been an additional charge to the profit and loss account of $37,000 
+in the year to 30 April 2005 (2004: $24,000). There would have been no other impact on the financial statements.
+The Operating Group issues equity-settled and cash-settled share-based payments to certain employees. Equity-settled share-based
+payments are measured at fair value at the date of grant.  
+The fair value determined at the grant date of the equity-settled share-based payments is expensed on a straight-line basis over the
+vesting period, based on the Operating Group’s estimate of shares that will eventually vest. A liability equal to the portion of the
+goods or services received is recognised at the current fair value determined at each balance sheet date for cash-settled share-based 
+Micro Focus International Plc Annual report 2005 41
+Micro Focus International Limited 2 Principal accounting policies (continued)
+payments. Fair value is measured by using the Black-Scholes pricing model. The expected life used in the model has been adjusted,
+based on management’s best estimate, for the effects of non-transferability, exercise restrictions and behavioural considerations.
+Pension costs
+The Operating Group makes contributions to employees’ personal defined-contribution schemes. Payments are charged to the profit
+and loss account in the period to which they relate.
+Financial instruments 
+The Operating Group does not enter into derivative financial instruments and has no financial liabilities other than loans, trade and
+other creditors. 
+The carrying value of the Operating Group’s financial instruments, including cash and cash equivalents, accounts receivable, accounts
+payable and debt accrued liabilities approximate their fair values due to their short maturities. The carrying value of long-term debt
+and other debt approximates fair value and is based on borrowing rates currently available with similar terms and average maturities.  
+Financial instruments that potentially subject the Operating Group to a concentration of credit risk consist primarily of cash equivalents
+and accounts receivable. Cash and cash equivalents are deposited with high-credit quality financial institutions and are regularly
+monitored by management. The Operating Group provides credit to customers in the normal course of business. Collateral is not
+required for those receivables, but ongoing credit evaluations of customers’ financial conditions are performed. The Operating Group
+maintains an allowance for doubtful accounts based upon the expected collectibility of accounts receivable. The Operating Group sells
+products and services to a wide range of customers around the world and, therefore, believes there is no material concentration of 
+credit risk.
+Financial assets
+Financial assets are shown at cost less provision for any impairment in value.
+Cash and current asset investments
+Cash consists of cash in hand and deposits repayable upon demand without penalty. Investments in bank deposits and other interest
+bearing instruments with initial maturities of one year or less are categorised as current asset investments. Such investments are
+carried at cost which approximates fair value. 
+Borrowings
+All borrowings are initially stated at the fair value of the consideration received after deduction of issue costs. Issue costs together
+with finance costs are charged to the profit and loss account over the expected term of the borrowings and represent a constant
+proportion of the balance of capital repayments outstanding.
+Tangible fixed assets
+The cost of tangible fixed assets is purchase cost together with any incidental costs of acquisition. Depreciation is calculated as to
+write-off the cost of tangible fixed assets, less their estimated residual values, on a straight-line basis over the expected useful
+economic life of the assets concerned. The principal annual rates used for this purpose are:
+Leasehold improvements Remainder of the lease term 
+Furniture and fixtures 5 – 7 years 
+Computer equipment 1 – 5 years 
+The Operating Group does not have a policy of revaluing tangible fixed assets.
+42 Micro Focus International Plc Annual report 2005
+Notes to the financial statements
+for the year ended 30 April 2005
+Micro Focus International Limited 2 Principal accounting policies (continued)
+Leases
+Assets held under finance leases are capitalised at their fair value on the commencement of the leases and depreciated over the
+shorter of the period of the lease and the estimated useful economic lives of the assets. The finance charges are allocated over the
+period of the lease in proportion to the capital amount outstanding and are charged to the profit and loss account. Costs in respect
+of operating leases are charged to the profit and loss account on a straight-line basis over the lease term.
+Goodwill
+Goodwill represents the excess of the fair value of the purchase consideration for businesses and shares in subsidiary undertakings
+over the fair value of the net assets acquired. Goodwill is capitalised and amortised on a straight-line basis over its useful life, which
+the directors estimate to be 14 years.
+Impairment of fixed tangible assets and intangible assets 
+Assets that are subject to depreciation or amortisation are reviewed for impairment whenever events or changes in circumstances
+indicate that the carrying amount may not be recoverable. An impairment loss is recognised for the amount by which the asset’s
+carrying amount exceeds its recoverable amount. The recoverable amount is the higher of an asset’s fair value less costs to sell and
+value in use. For the purposes of assessing impairment, assets are grouped at the lowest levels for which there are separately
+identifiable cash flows.
+Research and development 
+Research and development costs are written-off to the profit and loss account as they are incurred.
+Stock
+Stock consists of packaging materials and is stated at the lower of cost and net realisable value. Cost is determined on an average 
+cost basis. Net realisable value is the price at which stocks can be sold in the normal course of business after allowing for the costs 
+of realisation. Provision is made where necessary for obsolete, slow-moving and defective stocks.
+Taxation including deferred tax
+Deferred tax is recognised in respect of all timing differences that have originated but not reversed at the balance sheet date. Where
+transactions or events that result in an obligation to pay more tax in the future, or a right to pay less tax in the future, have occurred
+at the balance sheet date, deferred tax is recognised.
+A net deferred tax asset is recognised as recoverable and therefore recognised only when, on the basis of all available evidence, it can
+be regarded as more likely than not that there will be suitable taxable profits against which to recover carried forward tax losses and
+from which the future reversal of underlying timing differences can be deducted.
+Deferred tax is recognised in respect of the retained earnings of overseas subsidiaries only to the extent that, at the balance sheet
+date, dividends have been accrued as receivable or a binding agreement to distribute past earnings in future periods has been
+entered into by the subsidiary.
+Deferred tax is measured at the average tax rates that are expected to apply in the periods in which the timing differences are
+expected to reverse, based on tax rates and laws that have been enacted or substantively enacted by the balance sheet date. 
+Deferred tax is measured on an undiscounted basis.
+Micro Focus International Plc Annual report 2005 43
+Micro Focus International Limited 3 Segmental reporting
+The directors consider there to be only one class of business being the provision of legacy application development and deployment
+software for contemporary platforms. Therefore, only geographical information is given below.
+Turnover
+2005 2004
+$’000 $’000
+Geographical analysis
+North America 73,173 61,357
+Europe and the Middle East 57,365 47,537
+Rest of the world 20,107 17,374
+Total 150,645 126,268
+There is no material difference between turnover by origin above and turnover by destination. All turnover is derived from external
+customers.
+Profit on ordinary activities before taxation
+2005 2004
+$’000 $’000
+Geographical analysis
+North America 22,532 17,138
+Europe and the Middle East 3,838 4,353
+Rest of the world 9,554 3,748
+35,924 25,239
+Net interest payable (8,274) (3,233)
+Total 27,650 22,006
+Net assets/(liabilities)
+2005 2004
+$’000 $’000
+Geographical analysis
+North America (2,879) (2,955)
+Europe and the Middle East 1,368 5,352
+Rest of the world 2,143 1,336
+632 3,733
+Goodwill 38,635 42,404
+39,267 46,137
+Bank loans (111,250) (60,134)
+Net assets/(liabilities) (71,983) (13,997)
+44 Micro Focus International Plc Annual report 2005
+Notes to the financial statements
+for the year ended 30 April 2005
+Micro Focus International Limited 4 Net interest payable
+2005 2004
+$’000 $’000
+Interest receivable and similar income
+Bank interest 382 141
+Interest payable and similar charges
+Interest payable on bank loans and overdrafts (5,062) (3,160)
+Finance charges on finance leases (19) –
+Amortisation of loan issue costs (224) (214)
+Accelerated amortisation of loan issue costs (3,351) –
+(8,656) (3,374)
+Net interest payable (8,274) (3,233)
+5 Profit on ordinary activities before taxation
+2005 2004
+$’000 $’000
+Profit before taxation is stated after charging/(crediting)
+Staff costs (see note 24) 70,340 61,399
+Depreciation of tangible fixed assets
+Owned assets 1,927 1,849
+Under finance lease 35 –
+Amortisation of goodwill 3,769 3,769
+Loss on disposal of fixed assets 19 –
+Hire of plant and machinery 116 125
+Other operating lease rentals 4,092 3,929
+Foreign exchange differences (149) (50)
+Management charges (see note 26) 1,200 1,200
+Redundancy costs – 562
+Reorganisation costs 2,302 –
+Reorganisation costs
+During the year, the Operating Group incurred expenses of $5,150,000 in relation to the proposed Admission to the London Stock
+Exchange. Those expenses directly related to the issue of ordinary share capital by Micro Focus International Plc were recharged to
+that Company as part of the agreement with the Operating Group. As such an amount of $3,575,000 is recorded in other debtors in
+note 11. Other expenses incurred in preparation for the Admission that do not relate directly to the issue of share capital have been
+borne by the Operating Group. These expenses amount to $1,575,000 in the year ended 30 April 2005.  
+During the year, the Operating Group incurred expenses of $727,000 in relation to the restructuring of the Operating Group in
+preparation for the new loan facility. As these amounts were not directly related to the issuance of the new loan facility they 
+were unable to be amortised over the life of the loan.
+Micro Focus International Plc Annual report 2005 45
+Micro Focus International Limited 5 Profit on ordinary activities before taxation (continued)
+Auditor’s remuneration 
+During the year the Operating Group (including its overseas subsidiaries) obtained the following services from the Operating Group’s
+auditor at costs as detailed below:
+2005 2004
+$’000 $’000
+Audit services – statutory audit 530 519
+Further assurance services  670 194
+Taxation services
+Compliance services 161 151
+Advisory services 1,278 20
+Auditors’ remuneration: other services  1,962 55
+Total 4,601 939
+The Operating Group’s auditors, PricewaterhouseCoopers LLP, provide non-audit services for the Operating Group over and above 
+the external audit (principally tax advice and reporting accountants and due diligence work in connection with the listing of the
+Company). Further assurance services include the additional audits of the nine months ending 31 January 2005 and 2004, the audit 
+of quarterly revenues for the periods from August 2001 to 31 January 2005 and the audit under UK GAAP of the Operating Group 
+for the periods ending 30 April 2002, 30 April 2003 and 30 April 2004. It also included the audit under IFRS of the nine months ending 
+31 January 2005. Other services comprises reporting accountants work and due diligence. Tax advisory services include restructuring
+and reorganisation advice in connection with the listing.
+The board of directors reviews the level of non-audit fees and believes that the Operating Group receives particular benefit from tax
+advice provided by its auditors given their wide and detailed knowledge of the Operating Group. The board is confident that the
+objectivity and independence of the auditors is not impaired in any way by reason of its non-audit work. There were no fees paid 
+in respect of management consultancy.
+46 Micro Focus International Plc Annual report 2005
+Notes to the financial statements
+for the year ended 30 April 2005
+Micro Focus International Limited 6 Tax on profit on ordinary activities
+2005 2004
+$’000 $’000
+Analysis of charge in year
+United Kingdom
+Corporation tax at 30% (2004: 30%) 5,483 1,957
+Double tax relief – (271)
+Foreign tax 2,342 2,577
+Total current tax 7,825 4,263
+Deferred tax
+Origination and reversal of timing differences – United Kingdom 2,276 3,508
+Total deferred tax 2,276 3,508
+Tax on profit on ordinary activities 10,101 7,771
+The tax for the year is different than the standard rate of corporation tax in the UK (30%). The differences are explained below:
+2005 2004
+$’000 $’000
+Profit on ordinary activities before tax 27,650 22,006
+Profit on ordinary activities multiplied by standard rate of corporation tax in the UK of 30% (2004: 30%) 8,295 6,602
+Effects of:
+Expenses not deductible for tax purposes 85 (553)
+Capital allowances in excess of depreciation (2,250) (2,694)
+Other timing differences
+Temporary 240 796
+Permanent – (1,730)
+Tax losses arising – 120
+Tax losses utilised (477) –
+Excess overseas taxation 572 719
+Adjustment in respect of foreign tax rates 1,360 1,003
+Total current tax 7,825 4,263
+Permanent other timing differences relate primarily to the tax effect of deferred revenue acquired within the Operating Group’s
+North American businesses. Tax losses arising relate primarily to the Operating Group’s North American businesses.
+2005 2004
+$’000 $’000
+Equity – ordinary
+Final paid: $0.20 (2004: $1.34) per $0.00001 share 10,000 28,450
+Interim paid: $1.40 (2004: nil) per $0.00001 share 68,800 –
+Total 78,800 28,450
+Micro Focus International Plc Annual report 2005 47
+Micro Focus International Limited 7 Dividends
+Under Cayman Law the unrealised profit on the revaluation of an asset may be used to fund a dividend. As such the directors of the
+Operating Company obtained an independent valuation of the intellectual property held by the Operating Company as at 7 October
+2003. This valuation was then used as the basis of the transfer of the intellectual property by the Operating Company to Micro Focus
+IP Limited, a wholly-owned subsidiary, during the year ended 30 April 2004. Subsequently, the directors have considered the valuation
+of the intellectual property in proposing further dividends, including dividends of $68,800,000 and $10,000,000 in the year ended 
+30 April 2005. A further independent valuation of the intellectual property was performed in April 2005, which further confirmed 
+the adequacy of distributable reserves under Cayman Law. 
+8 Intangible fixed assets 
+Goodwill
+Cost $’000
+At 1 May 2004 and 30 April 2005 52,768
+Accumulated amortisation
+At 1 May 2004 10,364
+Charge for the year 3,769
+At 30 April 2005 14,133
+Net book amount at 30 April 2005 38,635
+Net book amount at 30 April 2004 42,404
+The goodwill arising as a result of the acquisition of the Operating Group from MERANT is being amortised on a straight-line basis
+over the useful economic life, which the directors estimate to be 14 years.
+48 Micro Focus International Plc Annual report 2005
+Notes to the financial statements
+for the year ended 30 April 2005
+Micro Focus International Limited 9 Tangible fixed assets 
+Leasehold Computer Fixtures
+improvements equipment and fittings Total
+Cost $’000 $’000 $’000 $’000
+At 1 May 2004 557 7,882 1,054 9,493
+Exchange adjustments 18 424 55 497
+Additions 291 936 133 1,360
+Disposals – (306) (178) (484)
+At 30 April 2005 866 8,936 1,064 10,866
+Aggregate depreciation
+At 1 May 2004 147 4,536 695 5,378
+Exchange adjustments 5 261 35 301
+Charge for the year 113 1,665 184 1,962
+Disposals – (276) (166) (442)
+At 30 April 2005 265 6,186 748 7,199
+Net book amount at 30 April 2005 601 2,750 316 3,667
+Net book amount at 30 April 2004 410 3,346 359 4,115
+The amounts included within computer equipment include finance leases with a cost of $251,000 (30 April 2004: nil) and a net book
+amount of $216,000 (30 April 2004: nil).  
+10  Stocks
+2005 2004
+$’000 $’000
+Finished goods 350 312
+11  Debtors
+2005 2004
+$’000 $’000
+Amounts falling due within one year:
+Trade debtors 37,128 28,758
+Other debtors 9,280 6,330
+Prepayments and accrued income 3,837 2,837
+Total 50,245 37,925
+Other debtors includes $3,575,000 (2004: nil) incurred in relation to the Admission of Micro Focus International Limited to the Official
+List and the London Stock Exchange. Under an agreement between the Company and the Operating Group these costs were
+recharged to the Company upon Admission.
+Micro Focus International Plc Annual report 2005 49
+Micro Focus International Limited 12  Investments
+2005 2004
+$’000 $’000
+Current asset investments
+Short-term deposits 8,218 7,166
+Other investments 95 –
+8,313 7,166
+Other investments represent a shareholding in 50,000 £1 redeemable preference shares in Micro Focus International Plc. Subsequent
+to the Admission of the Company’s ordinary shares to the Official List and to the London Stock Exchange to be traded on its main
+market for listed securities, the redeemable preference shares were redeemed and then sub-divided and reclassified into ordinary
+shares of 10 pence each.
+13  Creditors: Amounts falling due within one year
+2005 2004
+$’000 $’000
+Bank loans (note 15) 8,010 10,097
+Trade creditors 3,860 1,822
+Corporation tax 11,972 6,321
+Other tax and social security payable 3,241 2,417
+Obligations under finance leases 89 –
+Accruals and deferred income 64,002 52,967
+Total 91,174 73,654
+The bank loans due within one year or on demand are secured. For further details of the loans and the security see note 15.
+14  Creditors: Amounts falling due after more than one year
+2005 2004
+$’000 $’000
+Bank and other borrowings (note 15) 103,240 50,037
+Obligations under finance leases 127 –
+Deferred income 6,931 5,480
+Total 110,298 55,517
+50 Micro Focus International Plc Annual report 2005
+Notes to the financial statements
+for the year ended 30 April 2005
+Micro Focus International Limited 15  Bank and other borrowings 
+2005 2004
+$’000 $’000
+Bank loans:
+Secured 111,250 60,134
+Unsecured – –
+Total 111,250 60,134
+Secured loan
+On 10 August 2001 the Operating Group entered into a term loan facility for $25 million (“facility 1”) to provide working capital and
+to fund the acquisition from MERANT. The term loan was secured by substantially all the assets of the Operating Group and was
+repayable over three years in equal monthly instalments. The loan bore an effective interest rate of base rate plus 3.25%, limited 
+to a floor of 7% per annum. 
+On 19 August 2002, the Operating Group borrowed an additional $7,638,884. Under the amended agreement, a fixed monthly
+amount of $800,000 was payable from 1 September 2002 through to 31 August 2003. Subsequent to this date, monthly repayments
+were made based on the outstanding principal amount of the term loan as at 31 August 2003 over three years in equal monthly
+instalments paid from 1 September 2003 with the last payment being due on 1 August 2006. The effective interest rate remained 
+at the base rate plus 3.25%, limited to a floor of 7% per annum.
+On 4 November 2003, the Operating Group modified this term loan facility, borrowing an additional $24,416,667, bringing the total
+term loan balance outstanding at this date to $40,000,000. The total amount bore interest at the bank base rate plus 0.5%. Principal
+payments were due on the first day of each month at a fixed rate of $850,000 through and including 1 July 2006, at which time all
+outstanding interest and principal would have been due. 
+On 28 March 2003, the Operating Group entered into a further term loan facility for $25 million (“facility 2”) which was due in full 
+on 28 March 2007. The loan was secured by a guarantee from CCG Investments (BVI), LP (Golden Gate Capital Management, LLC) and
+bore interest at a rate equal to the sum of the alternate base rate plus 2.5% per annum. The alternate base rate being the rate per
+annum equal to the higher of (i) the base rate in effect on the day and (ii) the Federal Funds rate in effect on the day plus 0.5%.   
+On 21 October 2004, the Operating Group repaid the amounts outstanding under facility 1 and facility 2 and entered into a new term
+loan agreement for $115 million with Wells Fargo Foothill Capital Corporation. The term loan was secured by substantially all the
+assets of the Operating Group, including the all of the tangible and intangible assets and all inventory balances. Of the cash and 
+cash equivalents held by the Operating Group $10,000,000 was pledged as security and therefore was not available for use by the
+Operating Group. The loan was split into term loan A ($75 million) and term loan B ($40 million). Monthly repayments for term loan 
+A were fixed at $625,000 until 1 October 2005, $710,000 until 1 October 2006 and then $960,000 until maturity. Term loan B was
+repayable in full on 21 October 2008. Term loan A bore interest at LIBOR plus 3%, limited to a floor of 4% and term loan B bore
+interest at LIBOR plus 5%, limited to a floor of 7%. On 20 May 2005 the loan was repaid in full from the proceeds of the Admission 
+of Micro Focus International Plc on to the Official List of the Financial Services Authority. Under the terms of the facility, as a result 
+of an early termination due to the offering of the shares of the Company for public sale, term loan A was subject to a termination
+payment of $306,500 and term loan B was subject to a termination payment of $400,000 (if the loan is repaid prior to 31 July 2005)
+and term loan A is subject to a termination payment of $153,250 and term loan B is subject to a termination payment of $400,000.
+The loan was subject to certain covenants with which the Operating Group had to comply. The Operating Group had to maintain 
+a level of consolidated EBITDA, which, when multiplied by the specified multiples, had to always be above the level of outstanding
+debt. The Operating Group had to also maintain qualified cash of $10 million and was only permitted to make capital expenditures 
+in any one fiscal year of $3 million. The Operating Group did not breach these covenants at any stage of the year to 30 April 2005.
+Micro Focus International Plc Annual report 2005 51
+Micro Focus International Limited 16  Financial instruments
+The Operating Group’s financial instruments comprise cash, liquid resources, loans, and various debtors and creditors, such as trade
+debtors and trade and other creditors that arise directly from its operations. The Operating Group has not entered into any
+significant derivatives transactions.
+The main risks arising from the Operating Group’s financial instruments are credit risk, foreign currency risk and interest rate risk. 
+The board reviews and agrees policies for managing each of these risks and they are summarised below. These policies have been 
+in place since inception on 10 August 2001.
+Credit risk 
+Financial instruments which potentially expose the Operating Group to a concentration of credit risk consist primarily of cash
+equivalents and accounts receivable. Cash equivalents are deposited with high-credit quality financial institutions. The Operating
+Group provides credit to customers in the normal course of business. Collateral is not required for those receivables, but ongoing
+credit evaluations of customers’ financial conditions are performed. The Operating Group maintains an allowance for doubtful debts
+based upon the expected collectibility of accounts receivable. The Operating Group sells products and services to a wide range of
+customers around the world and, therefore, believes there is no material concentration of credit risk.
+Foreign currency risk
+The Operating Group’s reporting currency is the US Dollar. The Operating Group has transactional currency exposures. Such exposures 
+arise from sales or purchases in currencies other than the Operating Group’s functional currency. In addition, the Operating Group 
+has currency exposures to balances in currencies other than the Operating Group’s functional currency. There were no hedging
+transactions in place at the years ended 30 April 2005 and 30 April 2004. 
+Short-term debtors and creditors
+All of the Operating Group’s debtors falling due within one year (other than bank deposits) and creditors falling due within one year
+(other than bank and other borrowings) are excluded from the tables below either due to the exclusion of short-term items or
+because they do not meet the definition of a financial liability, such as tax balances.
+Interest rate risk and maturity profile of financial liabilities
+The interest rate risk profile of the Operating Group’s financial liabilities for the year covered by the consolidated financial statements
+was as follows:
+Total at floating rates Total at fixed rates Total book value
+2005 2004 2005 2004 2005 2004
+$’000 $’000 $’000 $’000 $’000 $’000
+Bank loans and overdraft 111,250 60,134 – – 111,250 60,134
+Finance lease obligations – – 216 – 216 –
+Total 111,250 60,134 216 – 111,466 60,134
+52 Micro Focus International Plc Annual report 2005
+Notes to the financial statements
+for the year ended 30 April 2005
+Micro Focus International Limited 16  Financial instruments (continued)
+Maturity of financial liabilities
+The maturity profile of the carrying amount of the Operating Group’s financial liabilities, other than short-term trade creditors and
+accruals during the period of consolidated financial statements was as follows:
+2005
+Finance lease 2004
+Debt obligations Total Total
+$’000 $’000 $’000 $’000
+In one year or less, or on demand 8,010 89 8,099 10,097
+In more than one year but not more than two years 10,020 89 10,109 10,097
+In more than two years but not more than five years 93,220 38 93,258 39,940
+Total 111,250 216 111,466 60,134
+The weighted average interest rate for the finance lease obligations above was 8.5% and the weighted average period for which the
+interest rate was fixed was 24 months. There were no other financial liabilities with a fixed rate of interest in 2005 or 2004.
+Floating-rate financial liabilities bear interest at rates based on relevant national LIBOR equivalents, which are fixed in advance.
+Interest rate risk and currency profile of financial assets
+Total at floating rates Total book value
+2005 2004 2005 2004
+$’000 $’000 $’000 $’000
+Cash at bank and in hand:
+US Dollars 12,987 9,162 12,987 9,162
+Sterling 1,255 1,704 1,255 1,704
+Euro 7,865 5,918 7,865 5,918
+Other 2,450 470 2,450 470
+24,557 17,254 24,557 17,254
+Current asset investments
+Euro 4,670 6,731 4,670 6,731
+Other 3,643 435 3,643 435
+8,313 7,166 8,313 7,166
+Total 32,870 24,420 32,870 24,420
+Micro Focus International Plc Annual report 2005 53
+Micro Focus International Limited 16  Financial instruments (continued)
+Borrowing facilities
+The Operating Group has the following undrawn but committed revolver credit line available during the period covered by the
+consolidated financial statements in respect of which all conditions precedent had been met at that date:
+2005 2004
+Floating rate Floating rate
+$’000 $’000
+Expiring within one year 750 1,250
+Total 750 1,250
+Fair values of financial assets and financial liabilities
+Fair value is the amount at which a financial instrument could be exchanged in an arm’s length transaction between informed and
+willing parties, other than a forced or liquidation sale and excludes accrued interest. The Operating Group’s financial assets and
+financial liabilities at 30 April 2005 and 30 April 2004 are deemed to be equal to their fair value at those dates.  
+Currency exposures
+The tables below show the extent to which Group companies have monetary assets in currencies other than their local currency.  
+Net foreign currency monetary assets
+Other
+US Dollars Euros currencies Total
+$’000 $’000 $’000 $’000
+30 April  2004
+Functional currency of Group operation:
+US Dollars ––––
+Euro 2,382 – – 2,382
+Sterling 79 116 – 195
+Other 4,180 – – 4,180
+Total 6,641 116 – 6,757
+30 April 2005
+Functional currency of Group operation:
+US Dollars ––––
+Euro 4,371 – – 4,371
+Sterling 20 221 – 241
+Other 1,122 77 115 1,314
+Total 5,513 298 115 5,926
+54 Micro Focus International Plc Annual report 2005
+Notes to the financial statements
+for the year ended 30 April 2005
+Micro Focus International Limited 17 Provisions for liabilities and charges
+Deferred tax asset
+2005 2004
+$’000 $’000
+Deferred tax asset comprises:
+Accelerated capital allowances (6,126) (4,009)
+Tax losses 6,203 6,680
+Other timing differences
+Temporary 3,645 3,278
+Permanent – 49
+Deferred tax asset 3,722 5,998
+At beginning of year 5,998 9,506
+Amount charged to profit and loss (2,276) (3,508)
+At end of year 3,722 5,998
+Permanent other timing differences relate to the tax effect of deferred revenue acquired within the North American businesses.
+Tax losses carried forward at 30 April 2005 relate to the Operating Group’s North American businesses and amount to approximately
+$19 million. Such losses can be carried forward without restriction for 20 years from the year of creation.
+18  Called up share capital
+2005 2004
+number number
+Authorised 
+Class A ordinary shares of $0.00001 each 86,428,000 86,428,000
+Class B ordinary shares at $0.00001 each 2,800,000 2,800,000
+Class C ordinary shares at $0.00001 each 1,386,000 1,386,000
+Class D ordinary shares at $0.00001 each 1,386,000 1,386,000
+Class L ordinary shares at $0.00001 each 8,000,000 8,000,000
+Total 100,000,000 100,000,000
+2005 2004
+number number
+Allotted, called up and fully paid shares of  $0.0001 each
+Class A ordinary shares of $0.00001 each 41,426,245 42,446,720
+Class B ordinary shares at $0.00001 each 2,169,375 1,985,205
+Class C ordinary shares at $0.00001 each 1,386,000 1,386,000
+Class D ordinary shares at $0.00001 each – 1,386,000
+Class L ordinary shares at $0.00001 each 4,143,291 4,143,291
+Total allotted, called up and fully paid share capital 49,124,911 51,347,216
+Micro Focus International Plc Annual report 2005 55
+Micro Focus International Limited 18  Called up share capital (continued)
+2005 2004
+$ $
+Allotted, called up and fully paid
+Total allotted, called up and fully paid share capital 491 513
+During the year ended 30 April 2005 the Operating Company issued 165,525 class A shares at a price of $0.05411 and 184,170 class B
+shares at prices ranging from $0.02 to $0.33 per share as a result of the exercise of options held under the Operating Group’s
+Employee Share Option Plan. 200,000 class A shares at a price of $1.676 per share were also issued directly as part of another share-
+based compensation plan. On 18 April 2005 the Operating Company repurchased and cancelled 1,386,000 class D ordinary shares.
+1,386,000 class A ordinary shares which were previously held as treasury shares were also cancelled at that date.
+Each holder of an ordinary share is entitled to one vote for each share held at all meetings of shareholders and will be entitled to any
+dividends declared by the board of directors. On a return of capital in a winding up (or otherwise in liquidation) (but not in respect 
+of any redemption, commission or purchase by the Operating Company) the holders of class L shares receive a preferential
+distribution equal to firstly the unpaid yield (at 12.5% per annum) and secondly the aggregate unreturned original cost of class L
+shares. After the distribution to class L shareholders, the holders of class A and class D shares are entitled to receive a preferential
+distribution up to three times their aggregate investment. After the distribution to class A and D shareholders, any remaining balance
+is distributable rateably to class L, A, B and D shares up to five times their aggregate investment. Thereafter any remaining balance is
+distributable rateably to class L, A, B and C shareholders. A distribution will only be made upon a liquidation event, or a winding up;
+no distribution will be made in the event of a change in control.
+19 Share premium account
+2005 2004
+$’000 $’000
+At start of year 2,946 2,939
+Premium on shares issued to equity shareholders 505 7
+Cancellation of treasury shares (75) –
+At end of year 3,376 2,946
+20  Profit and loss reserve
+2005 2004
+$’000 $’000
+At start of year (deficit) (17,062) (3,296)
+Retained loss for the year (61,251) (14,215)
+Cancellation of treasury shares 75 –
+Adjustment in respect of employee share option plans 3,048 449
+At year end (deficit) (75,190) (17,062)
+56 Micro Focus International Plc Annual report 2005
+Notes to the financial statements
+for the year ended 30 April 2005
+Micro Focus International Limited 21  Other reserves
+2005 2004
+$’000 $’000
+Foreign currency translation reserve
+At start of year 118 (186)
+Exchange adjustments offset in the year (287) 304
+(Deficit)/surplus at end of year (169) 118
+The foreign currency translation reserve arises upon the translation of wholly-owned foreign operations into US Dollars.
+22  Cash flow from operating activities
+Reconciliation of operating profit to net cash inflow from operating activities:
+2005 2004
+$’000 $’000
+Continuing operations
+Operating profit 35,924 25,239
+Depreciation charge (net of loss on disposals) 1,981 1,849
+Goodwill amortisation 3,769 3,769
+Compensation share-option charge 3,581 840
+(Increase) in stocks (38) (122)
+(Increase) in debtors (12,320) (4,300)
+Increase in creditors 13,483 4,451
+Total net cash inflow from operating activities 46,380 31,726
+23  Reconciliation of movements in net debt
+Finance lease Finance lease
+Debt due Debt due creditor due creditor due
+Cash in hand Current asset after more within one after more within one
+and at bank investment than one year year than one year year Total
+$’000 $’000 $’000 $’000 $’000 $’000 $’000
+At 1 May 2004 17,254 7,166 (50,037) (10,097) – – (35,714)
+Cash flows 5,821 1,147 (49,885) 2,344 42 – (40,531)
+Non-cash movements – – (3,318) (257) (169) (89) (3,833)
+Exchange movements 1,482 – – – – – 1,482
+At 30 April 2005 24,557 8,313 (103,240) (8,010) (127) (89) (78,596)
+Micro Focus International Plc Annual report 2005 57
+Micro Focus International Limited 23  Reconciliation of movements in net debt (continued)
+2005 2004
+$’000 $’000
+Movement in borrowings
+Debt due within one year:
+Repayment of part of bank loan (8,000) (8,866)
+Debt due after one year:
+New secured bank loan 115,000 24,416
+Repayment of part of bank loan (56,500) –
+Increase in borrowings 50,500 15,550
+Issue costs of new bank loan (2,959) (244)
+Cash inflow 47,541 15,306
+24  Employees and directors
+Employee costs
+2005 2004
+$’000 $’000
+Staff costs for the Group during the year
+Wages and salaries 59,257 53,856
+Social security costs 5,769 5,029
+Other pension costs 1,733 1,674
+Cost of employee share schemes 3,581 840
+Total 70,340 61,399
+Average monthly number of people (including executive directors) employed
+Sales and distribution 183 183
+Research and development 144 141
+General and administration 159 159
+Total 486 483
+Details of directors’ emoluments are set out in the remuneration report.
+Share-based compensation
+The Operating Group has three equity-settled share-based compensation plans and one cash-settled share-based compensation plan,
+details of which are provided below. 
+2001 Share Purchase and Option Plan
+The Operating Group has a share-based compensation plan (“plan”) under which employees and directors may be granted options 
+to purchase the Operating Company’s ordinary shares (A and B shares). Under the terms of the plan the options have a maximum
+term of seven years. Whilst options can be exercised at any time, the expected date of a termination event is determined as the
+vesting date and the expected life of the options because no participant is able to transfer any interest in shares obtained under the
+plan until a termination event (described as a sale of over 50% of the assets of the Operating Group or an Initial Public Offering) has
+occurred. As of 30 April 2005, 15,532,000 (2004: 15,532,000) ordinary shares have been authorised for issuance under the plan and
+13,966,840 (2004: 13,907,740) are available for future grant or re-grant.
+58 Micro Focus International Plc Annual report 2005
+Notes to the financial statements
+for the year ended 30 April 2005
+Micro Focus International Limited 24  Employees and directors (continued)
+Options over ordinary shares held by employees under the plan, all of which were exercisable, were as follows:
+Weighted average
+Weighted remaining life (years)
+Range of average 2005 2004
+Options exercise prices exercise price Expected Contractual
+At 1 May 2004 1,462,955 $0.02 – $0.93 $0.17 2.3 5.0
+Granted 51,700 $1.46
+Exercised (349,695) $0.10
+Forfeited (110,800) $0.24
+At 30 April 2005 1,054,160 $0.02 – $1.62 $0.24 0.0 3.8
+The weighted average share price for options exercised during the year was $6.91. Of the 1,054,160 options over ordinary shares
+outstanding at 30 April 2005, 994,860 had an exercise price in the range of $0.02 and $0.39 per share and 59,300 had an exercise price
+in the range of $0.93 and $1.62 per share.
+Options issued under the plan have been valued using the Black-Scholes option-pricing model. No performance conditions were
+included in the fair value calculations. The fair value per option granted and the assumptions used in the calculation are as follows:
+Grant date 18/11/02 18/11/02 27/02/03 04/09/03 19/11/03 04/03/04 18/05/04 04/09/04 18/11/04
+Class of share A B B B B B B B B
+Share price at grant date $2.22 $2.22 $2.63 $3.15 $3.29 $2.94 $3.10 $3.80 $8.98
+Exercise price $0.05 $0.02 $0.02 $0.33 $0.39 $0.93 $1.04 $1.62 $1.40
+Expected volatility 80% 80% 80% 80% 80% 80% 80% 80% 80%
+Expected option life (years) 4 4 3 3 3 2 2 2 1
+Expected dividend yield 0% 0% 0% 0% 0% 0% 0% 0% 0%
+Risk-free interest rate 4% 4% 4% 4% 4% 4% 4% 4% 4%
+Fair value per option $2.17 $2.20 $2.61 $2.87 $2.96 $2.23 $2.30 $2.57 $7.72
+The expected volatility is based on historical volatility of comparable companies over the last three years. The expected life is the
+average expected period to exercise. The risk-free rate is the yield on zero-coupon UK government bonds of a term consistent with
+the expected option life.
+The amount charged through the income statement in relation to the plan for the year ended 30 April 2005 was $1,504,000 
+(2004: $383,000).
+Restricted Share Agreement
+The Operating Group also operates a share-based compensation plan (“agreement”) under which senior management may be granted
+options to purchase the Operating Company’s ordinary shares (A, B and C shares). Under the terms of the agreement the options have 
+a maximum term of ten years.
+Micro Focus International Plc Annual report 2005 59
+Micro Focus International Limited 24  Employees and directors (continued)
+Whilst options can be exercised at various times, the expected date of a termination event is determined as the vesting date and the
+expected life of the options because no participant is able to transfer any interest in shares obtained under the agreement until a
+termination event (as described under the 2001 Share Option Plan) has occurred. As at 30 April 2005 4,388,000 have been authorised
+for issue under the agreement.
+Options issued under the agreement have been valued using the Black-Scholes option-pricing model. No performance conditions were
+included in the fair value calculations. The fair value per option granted and the assumptions used in the calculation are as follows:
+Grant date 18/11/02 18/11/02
+Class of share AB
+Share price at grant date $2.22 $2.22
+Exercise price $0.05 $0.02
+Expected volatility 80% 80%
+Expected option life (years) 44
+Expected dividend yield 0% 0%
+Risk-free interest rate 4% 4%
+Fair value per option $2.17 $2.20
+There were no options over ordinary shares held by employees under the Restricted Share Agreement at any time during the year
+ended 30 April 2005. The amount charged through the income statement in relation to the agreement for the year ended 30 April
+2005 was $137,000 (2004: $67,000).
+Share issue
+The Operating Group also operates a share-based compensation plan under which senior management are granted ordinary shares 
+in the Operating Company. During the year ended 30 April 2005 the Operating Company issued 200,000 class A shares at a price of
+$1.67. This interest became immediately beneficially held. The share price at the date of issue was $8.70, based upon the valuation of
+the Operating Company prepared on a discounted cash flow basis, and therefore the fair value of the services received was $7.03 per
+share. No expected dividends were incorporated in the measurement of the fair value of the shares. The amount charged through 
+the income statement in relation to the share issue for the year ended 30 April 2005 was $1,407,000 (2004: nil).
+Equity Bonus Plan
+On 29 April 2002 the board of directors approved the rules of the Equity Bonus Plan, a cash-settled share-based compensation plan. 
+Under the rules of the Equity Bonus Plan eligible employees are awarded equity bonus units at the discretion of the board of directors.
+The earliest time that units issued under the plan can be realised is the completion of a termination event (described as a sale of over 
+50% of the assets of the Operating Group or an Initial Public Offering). The total number of units issued at 30 April 2005 was 194,625. 
+The amount of any realisation payment for each unit will depend on the market value of one of the Operating Company’s class A shares,
+called the sale price at the time of the termination event. This is compared to the unit’s base price, which is calculated at the time of
+award of the unit with reference to the market value of the Operating Company’s class A shares. The bonus awarded is the difference
+between the sale price and base price, subject to an overall limit on the sale price of ten times the base price (which ranges from $0.05 
+to $1.62).
+The amount charged through the income statement in relation to the Equity Bonus Plan for the year ended 30 April 2005 was
+$533,000 (2004: $390,000).
+60 Micro Focus International Plc Annual report 2005
+Notes to the financial statements
+for the year ended 30 April 2005
+Micro Focus International Limited 25  Operating lease commitments
+The Operating Group had annual commitments under non-cancellable operating leases expiring as follows:
+2005 2004
+Land and Land and
+buildings Other buildings Other
+$’000 $’000 $’000 $’000
+Annual commitments under non-cancellable operating leases expiring:
+Within one year 266 132 1,155 228
+Within two to five years 3,196 326 1,967 392
+After five years 316 11 232 –
+Total 3,778 469 3,354 620
+26  Other related-party transactions
+During the year to 30 April 2005, management charges of $600,000 (2004: $600,000), were paid to a related party, Golden Gate
+Capital, which is the fund manager for CCG Investments (BVI), L.P., the ultimate parent company.
+The interests of Golden Gate Capital, through CCG Investments (BVI), L.P. and other funds under its management, in the Operating
+Company’s ordinary shares of $0.00001 are as follows:
+Number
+A Shares D Shares L Shares
+At 1 May 2004 35,903,620 1,386,000 4,143,291
+Shares cancelled – (1,386,000) –
+At 30 April 2005 35,903,620 – 4,143,291
+During the year to 30 April 2005, management charges of $600,000 (2004: $600,000) were paid to a related party, Parallax Capital,
+which is a minority shareholder.
+27 Post balance sheet events
+On 17 May 2005, the Company acquired the entire issued share capital of the Operating Company by way of a share-for-share
+exchange, pursuant to which the previous shareholders of the Operating Company were issued and allotted three ordinary shares 
+in the capital of the Company for every one ordinary share the previously held in the Operating Company. On 17 May 2005, all the
+ordinary shares of the Company were admitted to the Official List and to the London Stock Exchange to be traded on its main market
+for listed securities.
+On 20 May 2005 the outstanding debt of $110,625,000 was repaid in full.  
+28  Capital commitments and contingencies
+The Operating Group had no capital commitments at 30 April 2005 (30 April 2004: nil). The Operating Group had no contingent
+liabilities, aside from the liability described in note 15, at 30 April 2005 (30 April 2004: nil).
+Micro Focus International Plc Annual report 2005 61
+Micro Focus International Limited 29  Supplementary Information
+Set out below is an annual analysis of revenue recognised between the principal product categories, which the directors use to assess
+the future revenue flows from the current portfolio of customers.
+2005 2004
+$’000 $’000
+Licence 79,860 64,211
+Maintenance 66,705 57,980
+Consulting 4,080 4,077
+Total revenue 150,645 126,268
+30  Earnings per share
+The calculation of basic earnings per share has been based on the earnings attributable to ordinary shareholders of the Operating
+Company and the weighted average number of shares for each period. This is after taking account of the restructuring of the share
+capital resulting in previous shareholders of the Operating Company receiving three ordinary shares in the Company for every one
+share they previously held in the Operating Company. 
+The diluted earnings per share has been calculated after taking account of the share options.
+Supplementary basic and diluted EPS have been calculated to exclude the effect of amortisation of goodwill. The adjusted numbers
+have been provided in order that the effect of the goodwill amortisation on reported earnings can be fully appreciated.
+2005 2004
+Weighted Weighted
+average average
+(Loss)/ number Per share (Loss)/ number Per share
+earnings of shares amount earnings of shares amount
+$’000 ‘000 cents $’000 ‘000 cents
+Basic EPS
+Earnings attributable to ordinary shareholders 17,549 147,375 11.91 14,235 145,574 9.78
+Effect of dilutive securities
+Options 3,162 4,388
+Diluted EPS
+Earnings attributable to ordinary shareholders 17,549 150,537 11.66 14,235 149,962 9.49
+Supplementary EPS to exclude goodwill amortisation
+Basic EPS 17,549 147,375 11.91 14,235 145,574 9.78
+Effect of goodwill amortisation 3,769 3,769
+Basic EPS excluding goodwill amortisation 21,318 147,375 14.47 18,004 145,574 12.37
+Diluted EPS 17,549 150,537 11.66 14,235 149,962 9.49
+Effect of goodwill amortisation 3,769 3,769
+Diluted EPS excluding goodwill amortisation 21,318 150,537 14.16 18,004 149,962 12.00
+62 Micro Focus International Plc Annual report 2005
+Notes to the financial statements
+for the year ended 30 April 2005
+Micro Focus International Limited Nine months
+ended Year to Year to Year to
+30 April 2002 30 April 2003 30 April 2004 30 April 2005
+$’000 $’000 $’000 $’000
+Turnover 78,910 114,913 126,268 150,645
+Cost of sales (5,981) (8,061) (8,279) (6,327)
+Gross profit 72,929 106,852 117,989 144,318
+Selling and distribution costs (26,175) (34,581) (39,697) (48,106)
+Research and development (13,978) (20,214) (22,350) (23,407)
+Amortisation of goodwill (2,826) (3,769) (3,769) (3,769)
+Share-based compensation payments (61) (30) (840) (3,581)
+Reorganisation costs (3,528) – – (2,302)
+Other administrative expenses (14,716) (25,497) (26,094) (27,229)
+Total administrative expenses (21,131) (29,296) (30,703) (36,881)
+Operating profit 11,645 22,761 25,239 35,924
+Net interest payable 9,082 (6,604) (3,233) (8,274)
+Profit on ordinary activities before taxation 2,563 16,157 22,006 27,650
+Tax on profit on ordinary activities (5,093) (5,650) (7,771) (10,101)
+(Loss)/profit for the financial period (2,530) 10,507 14,235 17,549
+Dividends
+From share premium account – (17,500) – –
+From realised and unrealised profit and loss reserves – (11,226) (28,450) (78,800)
+Accumulated loss for the financial period (2,530) (18,219) (14,215) (61,251)
+(Loss)/earnings per ordinary share
+Basic (2.09)c 7.24c 9.78c 11.91c
+Diluted (2.03)c 7.09c 9.49c 11.66c
+Earnings per ordinary share before goodwill amortisation
+Basic 0.24c 9.84c 12.37c 14.47c
+Diluted 0.24c 9.63c 12.00c 14.16c
+Notes
+The Company did not trade before 30 April 2005. Therefore to provide shareholders with meaningful information the directors set
+out above the trading performance of the Operating Company from the time of the acquisition of the assets, liabilities and relevant
+trade from MERANT in August 2001.
+Micro Focus International Plc Annual report 2005 63
+Historical summary
+Micro Focus International Limited Directors
+Kevin Loosemore (Non-executive Chairman)
+Dr Anthony Hill (Executive director and Chief Executive Officer)
+Richard Lloyd (Executive director and Chief Financial Officer)
+David Dominik (Non-executive director)
+Prescott Ashe (Non-executive director)
+David Maloney (Non-executive director)
+John Browett (Non-executive director)
+Company Secretary, registered and head office
+Jane Smithard
+The Lawn
+22-30 Old Bath Road
+Newbury
+Berkshire RG14 lQN
+United Kingdom
+Legal advisers 
+Linklaters
+One Silk Street
+London EC2Y 8HQ
+United Kingdom
+Auditors
+PricewaterhouseCoopers LLP
+9 Greyfriars Road
+Reading
+Berkshire RGl IJG
+United Kingdom 
+Registrars
+Lloyds TSB Registrar
+The Causeway
+Worthing
+West Sussex BN99 6DA
+United Kingdom
+Brokers
+UBS
+2 Finsbury Square
+London EC2 2PP
+United Kingdom
+Goldman Sachs International
+Peterborough Court
+133 Fleet Street
+London EC4A 2BB
+United Kingdom
+64 Micro Focus International Plc Annual report 2005
+Directors, Secretary, registered office and advisers Australia
+Melbourne
+Suite 109
+566 St Kilda Road
+Melbourne
+Victoria 3004
+T: +61(0)3953 32943
+F: +61(0)3951 02822
+Sydney
+Level 1, 845 Pacific Highway
+Chatswood, Sydney
+New South Wales 2067
+T: +61(0)2990 46111
+F: +61(0)2990 46007
+Belgium
+Antwerp
+Uitbreidingstraat 84/3
+2600 Berchem 
+Antwerp
+T: +32(0)3218 2126
+F: +32(0)3218 2229
+Canada
+Montreal
+Suite 228
+750 Marcel Laurin Boulevard
+Montreal 
+Quebec H4M 2M4
+T: +1 800 280 9487
+F: +1 514 855 9853
+France
+Paris
+Tour Atlantique 
+La Defense 9
+1 Place de la Pyramide
+92911 La Defense Cedex
+Paris
+T: +33(0)1557 03013
+F: +33(0)1557 03113
+Germany
+Dortmund
+NL Dortmund
+Emil-Figge Strasse 85
+44227 Dortmund
+T: +49(0)2317 5850
+F: +49(0)2317 585555
+Ismaning
+Carl Zeiss Ring 5
+D-85737 Ismaning
+T: +49(0)8942 0940
+F: +49(0)8942 094444
+Ireland
+Dublin
+Office 104 
+Unit 3013 Lake Drive
+Citywest Business Campus
+Dublin 24
+T: +353(0)1469 3100
+F: +353  (0)1469 3115
+Italy
+Milan
+Via Cola Montana 21
+20159 Milan
+T: +39 0269 43401
+F: +39 0269 434034
+Rome
+Via Caterina Troiani 71/79
+00144 Rome
+T: +39 0652 62191
+F: +39 0652 621935
+Japan
+Tokyo
+6th Floor Sumitomo Fudsan
+Takanawa Park Tower
+20-14 Higashi Gotanda
+Shinagawa-Ku
+Tokyo 141-0022
+T: +81(0)3579 38550
+F: +81(0)3579 8548
+The Netherlands
+Amsterdam
+Regus Schipol Tetra 
+Suite 1-3
+Siriusdreef 17-27, 
+WT, Hoofddorp 2132
+Amsterdam
+T: +31(0)2356 89138
+F: +31(0)2356 89444
+Norway
+Oslo
+Christiania Kontorsenter
+Dronningens Gate 6
+N-0152, Oslo
+T: +47(0)2291 0720
+F: +47(0)2291 0721
+UK
+Newbury
+The Lawn
+22-30 Old Bath Road
+Newbury
+Berkshire
+RG14 1QN
+T: +44(0)1635 32646
+F: +44(0)1635 33966
+Newbury
+Units 1-4 Riverpark Ind Est.
+Ampere Road
+Riverpark Ind Est.
+Newbury 
+Berkshire 
+RG14 2DQ
+T: +44(0)1635 565399
+F: +44(0)1635 528997
+St Albans
+Churchill House
+26/30 Upper Marlborough
+Road
+St Albans 
+Herts
+AL1 3UU
+T: +44(0)1635 32646
+F: +44(0)1635 565525
+US
+Beaverton
+15220 NW Greenbrier Parkway
+Suite 340
+Beaverton 
+Oregon 97006
+T: +1503 716 1100
+F: +1503 614 1862
+Durham
+Suite 230
+4825 Creekstone Drive
+Durham
+North Carolina 27703
+T: +1919 998 5260
+F: +1919 998 5261
+Rockville
+9420 Key West Avenue
+Rockville
+Maryland 20850
+T: +1800 872 6265
++1301 838 5000
+F: +1301 838 5314
+Nashua
+Suite 29A
+76 North Eastern Boulevard
+Nashua
+New Hampshire 03062
+T: +1603 589 2545
+F: +1603 595 7932
+Sunnyvale
+1001 West Maude Avenue
+Sunnyvale
+California 94085
+T: +1408 222 0300 
+F: +1408 222 0303
+Wayne
+480 East Swedesford Road
+Suite 100
+Wayne
+Pennsylvania 19087
+T: +1610 263 3400
+F: +1610 263 3700
+Micro Focus International Plc Annual report 2005 65
+Offices Admission or IPO The admission of the ordinary shares of the
+Company to the Official List and to the London Stock Exchange
+to be traded on its main market for listed securities
+application (In an information technology context) computer
+software designed for a specific business purpose such as a payroll
+application. Micro Focus software products are specialised
+computer applications which are used by IT staff to develop 
+and deploy their own business applications.
+architecture (In an information technology context) sets out
+standard designs and engineering practices to achieve common
+goals – such as the way applications interact with users, with
+each other and with commercial packages. J2EE and Microsoft’s
+.NET provide different architectural blueprints for commonly
+required application services, such as Internet connectivity,
+application security and data integrity.
+Assembler (In an information technology context) a programming
+language which allows direct control of the hardware resources
+(such as the CPU and disks) in a computer system.
+COBOL A programming language (COmmon Business Oriented
+Language), devised by Grace Hopper in 1959 based on the
+principles of simple English language instructions and syntax.
+C and C++ Variants of a low-level programming language based
+on the principles of mathematical operations and logical
+abstractions to represent data being processed.
+code (In an information technology context) computer
+instructions which form the basis of application software written
+using one of many programming languages and converted to 
+a form suitable for execution by application development and
+deployment tools such as those sold by Micro Focus.
+Combined Code The Combined Code on Corporate Governance,
+issued by the Financial Reporting Council in July 2003.
+Company or Micro Focus Except as otherwise herein stated,
+Micro Focus International Plc.
+computer system The computer hardware and software which
+together provide an operational environment for many
+computer applications serving the needs of many end-users.
+deployment (In an information technology context) installation
+of a software application onto a computer system ready for
+operational use in a production environment.
+development (In an information technology context) project
+work undertaken by the IT department of a business (or an
+independent software vendor) to create new software applications
+and to maintain and extend existing software applications.
+end-user (In an information technology context) the person who
+uses a software application. This term is used in this document 
+to refer to the person licensed to use Micro Focus software.
+environment (In an information technology context) describes
+the specific hardware and operating system software that
+provides the operational foundation for many different
+computer applications.
+FSA or Financial Services Authority The UK Financial Services
+Authority.
+Golden Gate Capital Golden Gate Capital and its associates 
+(as that term is defined in the Listing Rules).
+Group The Company and its subsidiaries after Admission.
+Java A programming language which has become very popular
+for new software applications, and in particular for Internet
+applications.
+J2EE An operating environment for Java applications (Java 2
+Enterprise Edition) which provides a standard architecture 
+for commonly required application services, such as Internet
+connectivity, application security and data integrity.
+legacy application Computer software designed for a specific
+business purpose, such as a payroll application, which has been
+in use (deployed) for some time and which forms part of the
+current business environment.
+66 Micro Focus International Plc Annual report 2005
+Glossary Listing Rules The Listing Rules maintained by the FSA in
+accordance with Section 74 of the Financial Services and Markets
+Act 2000 (as amended from time to time).
+Linux A computer operating system which provides a common
+operating platform (environment) for software applications and
+which is available from independent software vendors for use on
+a wide range of contemporary servers such as those sold by SUN
+Microsystems, Hewlett Packard, IBM, Dell and many others.
+mainframe A proprietary computer system which is designed 
+to provide very high levels of reliability, availability and security
+suitable for deploying large-scale mission critical business
+applications. 
+MERANT MERANT plc.
+migration (In an information technology context) a project to
+move an application from one operating platform (environment)
+to another.
+MMA The Mainframe Migration Alliance, formed by Microsoft
+and Micro Focus in April 2004 (see
+http://www.mainframemigration.org).
+.NET An operating environment for Microsoft Windows
+applications (built into recent editions of Microsoft Windows
+Server) which provides a standard architecture for commonly
+required application services, such as Internet connectivity,
+application security and data integrity.
+Operating Company Micro Focus International Limited, a
+company incorporated in the Cayman Islands which, prior to
+Admission, was the holding company of the Operating Group.
+Operating Group The Operating Company and its subsidiaries
+(excluding the Company) prior to Admission.
+Parallax Capital Parallax Capital Partners LLC.
+platform (In an information technology context) describes the
+specific hardware and operating system software that provides
+the operational foundation for many different computer
+applications.
+run (In an information technology context) describes the act of
+operating a computer application.
+service-oriented architecture A software architecture that permits
+the construction of applications in terms of aggregations of
+standard (and thus reusable) business services which potentially
+operate on a wide range and number of interconnected
+computer systems.
+Share Exchange or share-for-share exchange On 17 May 2005
+(immediately prior to the IPO) the Company became the holding
+company of the Group by acquiring the Operating Company in 
+a share-for-share exchange, pursuant to which the previous
+shareholders of the Operating Company were issued and allotted
+three ordinary shares in the capital of the Company for every one
+ordinary share they previously held in the Operating Company.
+systems integrator An individual or company that specialises 
+in building complete computer systems by putting together
+components from different sources. Examples of systems
+integrators include Accenture, CSC and EDS.
+UNIX A computer operating system which provides a common
+operating platform (environment) for software applications 
+and which is available from hardware vendors such as SUN
+Microsystems, Hewlett Packard, IBM, Dell and many others 
+for use on their servers.
+Web Services A collection of technology standards (see
+http://www.ws-i.org) which together provide a common means 
+for disparate IT groups to build computer systems which
+exchange information, often over the Internet. J2EE, .NET and
+Micro Focus tools support Web Services technology standards.
+Windows (In an information technology context) a computer
+operating system sold by Microsoft (and under OEM license
+through many system vendors such as Dell) which provides 
+a common operating platform (environment) for software
+applications.
+Micro Focus International Plc Annual report 2005 67 68 Micro Focus International Plc Annual report 2005
+Forward-looking statements
+Certain statements contained in this annual report, including those under the captions Group at a glance, Chairman’s statement, technology review,
+Chief Executive’s review of operations, Chief Financial Officer’s review, directors’ report, corporate governance and remuneration report constitute
+“forward-looking statements”. All statements other than statements of historical facts included in this annual report, including, without limitation, those
+regarding the Company’s financial condition, business strategy, plans and objectives, are forward-looking statements. These forward-looking statements
+can be identified by the use of forward-looking terminology, including the terms “believes”, “estimates”, “anticipates”, “expects”, “intends”, “may”
+“will” or “should” or, in each case, their negative or other variations or comparable terminology. Such forward-looking statements involve known and
+unknown risks, uncertainties and other factors, which may cause the actual results, performance or achievements of the Company, or industry results, 
+to be materially different from any future results, performance or achievements expressed or implied by such forward-looking statements. Such forward-
+looking statements are based on numerous assumptions regarding the Company’s present and future business strategies and the environment in which
+the Company will operate in the future. Such risks, uncertainties and other factors include, among others: the level of expenditure committed to
+development and deployment applications by organisations; the level of deployment-related turnover expected by the Company; the degree to which
+organisations adopt web-enabled services; the rate at which large organisations migrate applications from the mainframe environment and the
+development of the Lift and Shift market; the continued use and necessity of the mainframe for business critical applications; the degree of competition
+faced by Micro Focus; growth in the information technology services market; general economic and business conditions, particularly in the United States;
+changes in technology and competition; and the Company’s ability to attract and retain qualified personnel. These forward-looking statements speak
+only as at the date of this annual report. Except as required by the FSA, or bylaw, the Company does not undertake any obligation to update or revise
+publicly any forward-looking statement, whether as a result of new information, future events or otherwise. Designed and produced by 
+85
+four.  Printed in England by Cousin, environmentally accredited printers, ISO 14001. Micro Focus International Plc 
+The Lawn
+22-30 Old Bath Road
+Newbury 
+Berkshire UK
+RG14 1QN
+Tel: + 44 (0)1635 32646
+Fax: +44 (0)1635 33966
+Registered No. 5134647
+Micro Focus International Plc Annual report 2005

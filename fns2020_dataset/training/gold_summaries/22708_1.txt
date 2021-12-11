@@ -1,0 +1,186 @@
+ 04 Corero Network Security plc Annual Report & Accounts 2016
+“Our goal is to grow 
+faster than the 
+market by taking 
+share from others. 
+Head to head trials 
+are proving we 
+are the number 
+one solution for 
+real-time DDoS 
+mitigation.”
+ 
+Ashley Stephenson
+Chief Executive Officer
+Results
+Corero revenue for the year ended 31 
+December 2016 was $8.8 million (2015: $8.3 
+million) with SmartWall revenue up 62% 
+over the prior year whilst legacy product 
+revenues declined as expected. The EBITDA 
+loss was $5.1 million (2015: EBITDA loss  
+$6.4 million). 
+The 2016 revenue was lower than expected, 
+impacted by extended sales cycles for the 
+large Tier 1 service provider customer 
+segment and the new as-a-service 
+customers signed in the fourth quarter of 
+2016, where the revenue is recognised 
+monthly over the term of the contract.
+Market dynamics
+2016 marked a turning point for DDoS, as 
+attacks reached new heights in terms of 
+both size and complexity. The Mirai botnet 
+showed us just how powerful an Internet of 
+Things (IoT) powered DDoS attack could 
+really be, with the unprecedented onslaught 
+against DNS provider Dyn in September 
+2016. Overnight, the security considerations 
+around connected devices went from being 
+something that security consultants have 
+long warned about, into a hot button issue 
+that could no longer be ignored. This will 
+only increase with the first Terabit-scale 
+DDoS attack likely to occur in the year 
+ahead, with far-reaching implications and 
+the potential to impact the Internet 
+backbone itself.
+With DDoS attacks costing large enterprises 
+an average of US$500,000 per incident in 
+lost business and IT spending, these 
+increased threats will mean that defending 
+against DDoS attacks will become a top 
+security priority for any organisation that 
+relies on the Internet to conduct business. 
+Our entire digital economy depends upon 
+access to the internet, and so organisations 
+will need to think carefully about business 
+continuity in the wake of such events. 
+In preparing a robust defence against 
+botnets like Mirai, it is important to 
+consider how they work. Effectively acting 
+like a giant cloud computer, botnet-driven 
+attacks are launched and then disappear 
+without leaving enough information for 
+victims to trace its origins. This leaves 
+organisations really no choice but to defend 
+themselves at the edges of the network. 
+Legacy out-of-band scrubbing solutions, 
+which require human intervention and 
+reactive countermeasures to remove the 
+attack, will not be successful, and using such 
+systems will also allow hackers to 
+experiment on networks undetected, 
+finding vulnerabilities and testing new 
+methods through smaller, hidden attacks 
+that don’t meet the threshold for scrubbing.
+The only proper defence is to use an 
+automatic, always-on, in-line DDoS 
+mitigation system, which can monitor all 
+traffic in real-time, negate the flood of 
+attack traffic at the internet edge, eliminate 
+service outages and allow security 
+personnel to focus on uncovering any 
+subsequent malicious activity, such as data 
+breaches or malware deposits. This type of 
+in-line, always-on protection can come in 
+various forms – either on-premises, or 
+purchased as a security service from an 
+upstream provider. It is only through 
+deploying these real-time solutions that 
+organisations will be able to identify and 
+mitigate the most serious botnet-driven 
+DDoS attacks on their networks in the  
+years ahead.
+Chief Executive’s strategic update
+Corero is well positioned to deliver on its goal of being the leading 
+player in the real-time DDoS mitigation market with SmartWall solution 
+validation from over 60 customers and technology validation from NSS 
+Labs, the world’s leading independent security product test laboratory.  Strategic Report Governance Financial Statements Notice of AGM Corporate Directory
+05 Corero Network Security plc Annual Report & Accounts 2016
+Operating performance 
+against strategy
+Our customer wins in the last year have 
+validated the Corero target market for 
+real-time, automatic DDoS mitigation 
+solutions – namely service providers, 
+hosting providers and online enterprises. 
+We have also expanded our addressable 
+market with an as-a-service pricing model 
+targeting emerging companies in this 
+target market who wish to acquire our 
+technology on the more modern pay-as-
+you-grow model rather than larger up-front 
+capital expenditures. Our recently launched 
+SmartProtect program enables customers 
+to monetise DDoS Protection as-a-Service.
+Corero has an increasing number of 
+satisfied customers who are willing to be 
+industry references for the breakthrough 
+levels of automation, security and service 
+that Corero delivers.
+We have delivered on our strategic goals of 
+adding new DDoS attack defences to the 
+SmartWall product and additional forensics 
+and analytics capability. In addition, we 
+announced at the RSA security show in San 
+Francisco in February 2017 the availability of 
+a 100G SmartWall product and we have plans 
+to launch a Cloud enabled product in 2017.
+Corero’s strategy is to work with leading IT 
+and network technology vendors to make 
+DDoS mitigation an integral component of 
+any well-engineered Internet facing 
+network design thereby increasing our 
+go-to-market opportunities. The recently 
+announced technology alliance 
+partnership with Juniper Networks, a US 
+based multinational corporation that 
+develops and markets networking and 
+security products, is the first of such 
+partnerships, and will enable Corero to 
+expand its market reach by leveraging 
+Juniper Networks’ global footprint. 
+Fund raise
+The proposed equity fund raise to be 
+announced on 6 April 2017 will provide the 
+funding required to execute the Company’s 
+strategy and get to the position of being 
+cash generating. 
+Outlook
+We have strengthened our sales leadership 
+with the recent appointment of Andrew 
+Lloyd as President and Executive Vice 
+President Sales. We have also expanded  
+our addressable market via the recently 
+introduced as-a-service purchase model  
+and are encouraged by the potential for 
+strategic go-to-market partnerships such  
+as the alliance with Juniper Networks. 
+The 2017 financial year is off to a good start 
+with Corero’s largest SmartWall contract 
+win to date with a leading Cloud services 
+provider. We expect an increasing number 
+of corporations will see the value of 
+investing in DDoS protection to protect 
+their revenue streams and defend their 
+brand reputations.
+This gives us confidence Corero will deliver 
+revenue growth in 2017.
+Ashley Stephenson
+Chief Executive Officer
+5 April 2017
+“We specifically value the automated attack mitigation functionality. Corero’s SOC monitors 
+conditions for us and responds accordingly. Our team monitors traffic but we don’t have to  
+worry about it. We set it and forget it.”
+Stephen Clark
+Director of IP Networks, BCI Commercial Telecom Systems
+Technology validation
+Corero received 
+“Recommended” 
+rating in NSS Labs DDoS test  
+(March 2016)
+Customer validation
+100% 
+Smartwall support renewal rate for 
+Smartwall deployed customers

@@ -1,0 +1,2921 @@
+ The Power of a 
+Single Platform. 
+Data. Analytics. 
+Decisions. Actions.
+Rosslyn Data Technologies plc
+Annual report and accounts 2015
+Rosslyn Data Technologies plc
+Rosslyn Data Technologies plc Annual report and accounts 2015 About us
+Solving the big 
+data challenge
+Rosslyn Data Technologies helps organisations create new value 
+from previously inaccessible data. Rosslyn’s patented technology 
+has been designed specifically for business users to easily access 
+complex data and turn it into meaningful information via the 
+RAPid Big Data Cloud Analytics Platform.
+The Group services its global list of clients from its headquarters 
+in London, with US offices in Chicago, Denver and New York City. Rosslyn Data Technologies plc Annual report and accounts 2015 01
+Highlights
+Overview
+IFC About us
+01 Highlights 
+02 At a glance
+04 Chairman’s statement
+05 Chief Executive Officer’s statement
+Strategic report
+06 Our business model
+08 Our strategy
+09  Ke y risks
+11 Key performance indicators
+12 Financial review
+Corporate governance
+14 Board of Directors
+16 Directors’ report
+18  Statement of Directors’ responsibilities 
+19 Corporate governance report
+21 Remuneration report
+Financial statements
+24 Independent auditor’s report
+25  Consolidat ed st at ement  
+of comprehensive income
+26  Consolidat ed st at ement 
+of financial position
+27  Consolidated statement of changes 
+in equity
+28  Consolidated statement of cash flows
+29  Notes to the consolidated 
+financial statements 
+45  Independent auditor’s report
+46  Company balance sheet
+47  Company reconciliation of movements 
+in shareholders’ funds
+48  Notes to the Company’s 
+financial statements
+52  Notice of Annual General Meeting
+53  Explanatory notes to the Annual 
+General Meeting notice
+56  Shar eholder inf ormation
+Operational and strategic highlights
+ — Strategic partnership with a Big Four Consultancy which 
+has been revenue generating from the outset and the 
+pipeline is growing
+ — Strategic wins with Coca-Cola Hellenic, CEVA Logistics 
+and a global defence manufacturer
+ — Total client numbers up by over 50%
+ — Key hires made in the UK and the US, delivering 
+operational scalability
+Financial highlights
+ — Group revenues up 37% to £2,826,034 (2014: £2,066,041)
+ — Adjusted EBITDA * loss of £3,468,439 (2014: £2,516,741)
+ — Loss before tax of £3,478,221 (2014: £3,111,733)
+ — Net cash at 30 April 2015 of £4,712,730 (2014: £8,819,458)
+ — Subscription revenue remains strong
+ — Tight financial and operational management delivered 
+a lower cash burn and loss than management expected
+* Adjustment for share-based payment as shown within the Financial review.
+Visit our website to find out more about 
+the products and services we offer at
+www.rosslyndatatechnologies.com
+Chairman’s statement
+Page 04
+Business model
+Page 06
++36.8%
+Group revenues up 37% to £2,826,034
++50.4%
+Total client numbers up by over 50% Rosslyn Data Technologies plc Annual report and accounts 2015
+Overview
+02
+At a glance
+2. RAPid then transforms and enriches this data providing the user with tools to build charts,  
+tables and apps in order to visualise the information.
+The Group’s founding management team has spent 
+over five years developing and commercialising the 
+Group’s data discovery platform, RAPid.
+BI Apps Visualize Integrate Discover Enrich Analyze Cleanse
+About RAPid
+Big data benefits
+We enable organisations of all sizes 
+to easily access and turn complex 
+data into meaningful information 
+to support smarter decisions.
+3. This is all performed over a secure cloud internet connection, giving access  
+to the data from wherever you are.
+1. RAPid extracts, combines and synchronises data from hundreds of sources.
+Accelerate time to value from 
+months to days by automating 
+manual data processes
+Empower business users to improve 
+the quality and relevancy of data 
+in real time
+Accelerate the development, 
+testing and deployment of big 
+data analytical applications
+Generate a faster  
+return-on-investment on your 
+existing big data assets
+Reduce IT infrastructure costs 
+and improve agility by taking 
+big data projects into the cloud
+Quickly integrate semi-structured 
+and unstructured data without the 
+need to code
+Embracing the intelligent concept of 
+“Fail fast, succeed faster,” Rosslyn Analytics’ 
+award-winning RAPid Cloud Data Platform 
+empowers you to: Rosslyn Data Technologies plc Annual report and accounts 2015 03
+As data analysis becomes more mainstream, 
+the Directors believe that every business that wishes 
+to pursue data-driven decisions, at scale, will need 
+to develop cost-effective analytical capabilities 
+and processes.
+According to the MarketsandMarkets study in 2013 more 
+than 13% of companies have cloud analytics and Business 
+Intelligence (BI) solutions and this is expected to reach 
+50% by 2018. The cloud BI market is growing rapidly as 
+compared to traditional on-premise BI solutions driven 
+by significant growth in the amount of internal 
+and external data.
+These solutions are more flexible than traditional IT 
+systems, reducing deployment time, requiring less storage 
+space and having a high processing capacity. Both small 
+and large enterprises are major adopters of cloud analytics 
+services and the Directors expect this trend to continue 
+for the next few years.
+The overall cloud analytics market stands with a total 
+revenue of $7.5bn in 2015, and is expected to grow to 
+$23.1bn at a compound annual growth rate (CAGR) 
+of 25.1% from 2015 to 2020.
+The growth in data is well documented with the majority 
+of industry analysts pointing towards exponential growth 
+in consumer, M2M, mobile and enterprise data while industry 
+players are basing their business models on 5–10x growth 
+in volume of data over the next five years.
+The Directors believe that the enterprise user base is 
+increasingly recognising the return on investment from 
+analysing their data.
+IDC estimates that around a third of data by 2020 will 
+be ‘‘useful data if tagged and analysed’’ . This equates to 
+approximately 13,000 exabytes compared with total big 
+data today of approximately 5,000 exabytes.
+13%
+13% of companies who are utilising cloud analytics
+This figure is expected to grow to 50% by 2018.
+$7.5bn
+Cloud analytics market revenue
+This figure is expected to grow to $23.1bn at a compound annual 
+growth rate of 25.1% from 2015 to 2020.
+1/3
+The amount of useful data by 2020
+This equates to approximately 13,000 exabytes compared to today 
+with approximately 5,000 exabytes.
+Our markets
+Our technology
+RAPid is built to accommodate data in all shapes and sizes, to support any analytics project.
+Relational Database
+Rosslyn Analytics has developed an advanced, highly optimized relational database built 
+on Microsoft SQL Server that provides unrivalled performance and scalability for the largest 
+and most demanding analytic workloads.
+Data Storage Technologies
+RAPid features cutting-edge NoSQL technologies such as Redis, Hadoop, MongoDB 
+and ElasticSearch to power the staging, enrichment and caching of high volumes of data.
+Infrastructure-as-a-Service Cloud Solutions
+RAPid provides organisations with an Infrastructure-as–a-Service running on Azure, enabling 
+clients to host applications on the platform. Rosslyn Data Technologies plc Annual report and accounts 2015
+Overview
+04
+Chairman’s statement
+Rosslyn Analytics is a fine example of British 
+innovation. From its inception, Rosslyn Analytics 
+wasn’t just one of the early originators of  
+cloud-based analytics delivered as a service.”
+Results
+The financial year to 30 April 2015 was the first full year 
+as a public company for Rosslyn Data Technologies plc 
+after the listing on AIM in April 2014. I am delighted with the 
+progress we have made in the year. Our task this year has 
+been to deploy a significant element of the IPO funds into 
+the business to allow a transformation to profitability and 
+organic cash generation to take place. This task is not yet 
+complete and there is further work to do in 2015–16 to 
+achieve our goals but we have made a strong start.
+Group revenue increased by 37% to £2.8m (2014: £2.1m). 
+The second half of the year saw a growth rate of 50% on 
+a year-on-year basis. As we have deployed funds into an 
+enlarged product development team and sales and marketing 
+we have seen an increase in losses at the EBITDA level. In 2015 
+the losses increased to £3.4m (2014: £2.8m before exceptional 
+items). This was somewhat less than we anticipated at the 
+start of the year. 
+We ended the year with net cash balances of £4.7m 
+(2014: £8.8m). The consumption of cash is largely accounted 
+for by the losses in the period and paying the remaining 
+outstanding fees associated with the IPO. The Board believes 
+that we have adequate cash resources to take the Group 
+through to break-even and cash generation.
+Strategy
+The Group’s strategy remains unchanged from the time 
+of our listing. We are committed to growing revenues 
+through a dual-track strategy of direct sales and working 
+with partners. The Group’s relationship with Xerox goes 
+back to 2013. Our relationship continues to grow and we 
+have confidence that this relationship will continue to 
+flourish. They remain our single largest customer.
+During the year we established a new partnership relationship 
+with PricewaterhouseCoopers. This relationship is developing 
+in an encouraging manner and I look forward to reporting 
+on further progress next year. As a result of this relationship 
+PricewaterhouseCoopers LLP stood down as auditors during 
+the year. They took up their appointment in 2013 and acted 
+as reporting accountants during our listing process and as 
+auditors for the financial years 2013 and 2014. I would like 
+to thank them on behalf of all shareholders for their help, 
+support and objectivity. Grant Thornton UK LLP has replaced 
+PricewaterhouseCoopers LLP (PwC) as auditors and we 
+look forward to working with them.
+Our direct sales operation has also had a successful year. We 
+have had a number of notable wins in all the regions in which 
+we operate – the UK, Continental Europe and the US. We are 
+particularly excited by the opportunities we are discovering in 
+North America in the education field. In January we signed a 
+five year agreement with the Florida State University Board of 
+Trustees to provide data analytics services to twelve universities 
+in Florida. We are hopeful that we can continue to expand our 
+footprint in this sector in the months ahead.
+Board changes
+I am delighted to welcome Roger Bullen to the Rosslyn 
+family as a Director of the Company. He takes up his post 
+as Chief Financial Officer on 1 October 2015. He has served with 
+distinction as International Finance and Operations Director at 
+Navigant and his operational experience will be extremely 
+valuable to us as the business grows and develops. He replaces 
+Francis Reid, who announced his departure in May. We are sorry 
+to lose him and wish him well in the future. He has worked with 
+Roger to establish a smooth handover. The Board would like to 
+express its thanks to Francis for all his contribution to the Group’ s 
+development and particularly in steering the IPO process.
+Our staff
+Our business would be nothing without our imaginative and 
+hard-working staff. From the development team to the client 
+support staff, it is an end-to-end effort. Each role is critical 
+to our continued success. On behalf of the Board I would like 
+to thank all of them for their outstanding efforts in the last 
+year and look forward to working with them in the current year.
+Outlook
+I look forward with confidence to the 2015–16 financial year. 
+We are seeing accelerated traction within our Direct Sales, 
+with our clients investing in the benefits our innovative 
+products are bringing to an extremely competitive market.
+I am exceptionally pleased with the progress we have made 
+within our Partnership strategy. Recent announcements 
+from our Partners demonstrate the high regard major players 
+within the industry hold Rosslyn and the RAPid technology 
+platform. Converting these partnerships into healthy revenue 
+streams is key for our growth and our future, but I am 
+optimistic that these partnerships will deliver the results 
+the Company and our shareholders deserve.
+John O’Hara
+Chairman
+16 September 2015 Rosslyn Data Technologies plc Annual report and accounts 2015 05
+I look forward with confidence to the 2015–16 
+financial year. We are seeing the benefits from 
+the investments that we have made and the 
+product suite is becoming extremely 
+competitive in the market.”
+2014–15 was our first full year as an AIM listed company 
+and we have been able to make the significant investments 
+required in developing our product suite on the RAPid 
+platform and increasing our sales and marketing capabilities. 
+Recruitment of quality software engineers and sales people 
+with the requisite knowledge and experience was a challenge 
+but we added 13 highly skilled members to the team. 
+Revenues increased by a healthy 37% to £2.8m in the year 
+with the majority coming from our direct sales team. We are 
+starting to see considerable traction through the partnership 
+route we adopted last year and we have developed a number 
+of new partnership agreements. Some are more advanced 
+than others, and not all will develop into material revenue 
+streams, but the Board believes that this diversification of 
+the revenue stream is important to attaining our strategic 
+targets and will enable us to reduce the cost of client 
+acquisition whilst accelerating our route to market.
+Our gross margin remains strong at a healthy 84.3%, up 
+by 1.2% from last year, and this trend is likely to continue 
+as our revenues increase. I am also confident that our 
+cash position is strong enough to see us through to 
+positive cash flow.
+Since the year end we have signed a series of new 
+contracts. Notable amongst this new business are the 
+contracts with our partners, which have brought a highly 
+diversified client base and provide us with excellent 
+opportunities to demonstrate the value of the RAPid 
+platform to our partners’ clients.
+I look forward with confidence to the 2015–16 financial 
+year. We are seeing the benefits from the investments 
+that we have made and the product suite is becoming 
+extremely competitive in the market. 
+The long-term nature of our contracts means the full effect 
+of our investments will be with us for years to come.
+I would like to join John O’Hara in thanking our employees, 
+without whom none of this would be possible.
+Charlie Clark
+Chief Executive Officer
+16 September 2015
+Chief Executive Officer’s statement Rosslyn Data Technologies plc Annual report and accounts 2015 06
+We have a history of RAPid delivery and seek to provide 
+a high return on investment for clients. Our business model 
+offers a strong recurring revenue stream, customer attrition 
+is low and we believe the demand is growing.
+Our product offering
+Data extraction
+The RAPid platform enables clients to collect data from 
+multiple data sources. In a situation where data is being 
+pulled from multiple sources, the Group’s RAPid extraction 
+technologies and services are able to simultaneously 
+extract and integrate data regardless of its format.
+Data cleansing
+Key source data, such as names and addresses, is often 
+inaccurate due to misspelling, poor data input, duplication 
+and missing fields and therefore of minimal value for any 
+analytics project. The data cleansing technology within 
+the RAPid platform enables the user to drill into the source 
+data through the process of data mining and to then retag 
+such items to enable greater consistency.
+Data enrichment
+Data that is currently analysed in a traditional analytical 
+environment lacks contextual information and therefore 
+provides a shallow perspective on performance, risk and 
+opportunity. This provides the Group’s customers with 
+a deeper, more dynamic and valuable insight into the 
+business opportunities through the creation of an 
+information network.
+Visualisation
+Data visualisation products make data more 
+understandable for the end user. This is particularly 
+useful when vast data sets are being utilised.
+Intellectual property
+How we deliver it
+Highly skilled talent base
+We have some of the brightest engineering 
+talent developing the RAPid platform.
+Research and development is done in house, 
+and ongoing development of our IP is a key 
+part of our growth strategy.
+Strategic report
+Our business model Rosslyn Data Technologies plc Annual report and accounts 2015 07
+How we deliver it
+Partnerships
+Direct sales Dedicated sales team, comprising 
+inside sales reps and direct sales 
+reps, selling RAPid and associated 
+products directly, handling the 
+sales cycle from beginning to end.
+The RAPid platform is used as 
+the foundation for partnership 
+route to market, with partners 
+building applications on RAPid 
+and using as part of their 
+consulting toolkit.
+Customers
+SUBSCRIBE
+Subscriptions
+RAPid cloud 
+delivery 
+platform
+Recurring revenue streams 
+drive high returns and provide 
+funds to further our team 
+capabilities and skills.
+Customers are supported 
+by our client management 
+team to onboard and 
+expand our footprint 
+within organisations. Rosslyn Data Technologies plc Annual report and accounts 2015 08
+The Directors believe the Group is well positioned to pursue 
+its growth strategy through five key initiatives.
+New customer acquisitions 
+in existing markets
+Building on its reputation with existing customers, 
+the Group plans to follow a more aggressive sales 
+and marketing strategy through an increased sales 
+force and enhanced branding within the geographies 
+and industries in which it currently operates.
+Product development
+The Directors intend to develop the Group’s existing 
+technologies by focusing on self-service, integration, 
+cleansing and data enrichment. 
+Partnerships
+The Directors believe that a broadly based set of 
+partnerships provides a diversified route to market. 
+These partnership arrangements allow revenue to 
+grow more quickly than through direct sales alone.
+Geographic expansion
+The Group intends to expand into further 
+geographies by adding further customers 
+and partners in different territories.
+Growth within the existing  
+client base
+Typical customer engagements for the Group start in 
+one division of a client organisation, thereby enabling 
+the Group to leverage this reference point into other 
+departments and workstreams in large multinationals. 
+The Group has a ‘‘land and expand’’ strategy to win 
+initial projects and grow the number of contracts for 
+each customer.
+Strategic report 
+Our strategy Rosslyn Data Technologies plc Annual report and accounts 2015 09
+The Group’s future success depends on its senior 
+management, senior sales and marketing executives and 
+key technical staff. The Group has entered into contractual 
+agreements with these staff members but their continued 
+employment cannot be guaranteed. Failure to retain these 
+staff members may adversely affect the performance and 
+profitability of the Group. It is possible that key staff members 
+may join competitors or establish competitor businesses 
+in their own right.
+The Group continues to invest in improving HR in order 
+to ensure good recruitment and onboarding of new 
+employees. Training is provided as needed within the 
+Group to allow employees to develop the necessary skills 
+for their changing roles. Share options are available to 
+incentivise key staff.
+The Group is involved in the provision of software services. 
+The software industry is in the process of continuous change 
+and development, reflecting technical developments and 
+changing customer requirements. These changes may 
+adversely impact the Group’s prospects. 
+The Group continues to invest significant resources 
+in research and development into the RAPid platform. 
+The Board believes that constantly evolving the product 
+offering best protects the Group against technological change.
+The Group’s reliance on certain key systems and 
+technologies for its continuing operations exposes the 
+Group to significant risk as the systems are vulnerable to 
+interruption and damage. The interruption and damage of 
+the Group’s systems may be due to events beyond the control 
+of the Group; these events include, but are not limited to, 
+natural disasters, telecommunications failures, power losses, 
+computer viruses and terrorist attacks. Downtime arising 
+from such events may have a material detrimental effect 
+upon the Group’s performance and profitability.
+The Group maintains disaster recovery plans. These are 
+designed to allow the business to function properly against 
+many foreseeable events. However, certain events are 
+beyond the management’s ability to build cost-effective 
+solutions. Acts of terrorism and total loss of the internet fall 
+into these categories. Management recognises the Group’s 
+exposure to key systems and seeks to minimise its risk on 
+a cost-realistic basis.
+The Group invests in functions and processes to service 
+customers in an appropriate manner, with a view to 
+achieving high customer retention rates. The anticipated 
+rapid expansion of the Group may place strains upon these 
+functions and processes. There can be no guarantee that 
+the Group will be able to achieve 100% retention rates.
+The Board recognises that customer care is a very 
+important attribute to business in the service sector. 
+Clients are supported by the customer support team. 
+The Board regards customer satisfaction and low churn 
+as important signals. Nevertheless some client turnover 
+can be expected for reasons which do not necessarily 
+reflect poor service. Change of control of a customer, 
+as an example, may give rise to different supplier choices.
+Dependence on key 
+executives and 
+technical personnel
+Technical change
+Reliance on 
+key systems
+Customer risk
+Description Mitigation Risk
+Strategic report
+Key risks Rosslyn Data Technologies plc Annual report and accounts 2015 10
+Strategic report
+Key risks continued
+The sector in which the Group operates is competitive 
+and there can be no certainty that the Group will be able 
+to achieve the market penetration it seeks. There can be 
+no guarantee that Group’ s current competitors or new entrants 
+to the market will not bring superior technologies, products 
+or services to the market. The possibility of similar products 
+and services at a lower price may also be offered to the 
+market. Any of these events may have an adverse effect 
+on the Group.
+The Group sees a competitive market environment as 
+an opportunity as much as a threat. Investment in people, 
+systems and products represents the best defence in 
+a competitive marketplace and the Board continues 
+to invest in all these areas.
+The Group supplies sophisticated and complex computer 
+software to its customers. These products when first 
+introduced, or enhanced, may contain undetected defects 
+that may fail to meet customers’ performance expectations 
+or requirements. Such failures may damage the Group’s 
+reputation and lead to an adverse effect on the Group’s 
+business and financial performance.
+Products and new releases are rolled out to the market, 
+after extensive internal testing, in a progressive manner. 
+The Group seeks to release fully functional products but 
+the nature of software includes a risk of unidentified bugs 
+existing in the system. The Group is capable of rolling back 
+to previous versions of software if absolutely necessary.
+The Group operates in the UK, Continental Europe and 
+the US and is therefore exposed to foreign exchange risk. 
+Foreign exchange risk arises on sales and purchases made 
+in foreign currencies and on recognised assets and 
+liabilities in foreign operations.
+The Group incurs costs in US dollars which offset 
+US dollar revenues. This minimises the revenue account 
+impact. The Group generates euro revenues with minimal 
+euro costs. Euro balances are converted to functional 
+currencies, as required, on a regular basis to avoid 
+adverse currency impacts.
+The Group may be adversely impacted by developments 
+in the political, economic and regulatory environment in 
+which the Group operates. Such risks include, but are not 
+limited to, expropriation, nationalisation, inflation, deflation, 
+changes in interest rates, changes in tax rates and regimes 
+and currency exchange controls.
+A general deterioration in the economic climate in any 
+of the markets in which the Group operates may impact 
+the demand for the Group’s products and services. Such 
+changes in demand may cause an adverse impact on 
+the Group’s performance. It is not always possible to 
+foresee the impact of legislative or regulatory change. 
+These changes may also have an adverse impact on 
+the  Group’s financial performance.
+The Group operates in a diverse range of markets, 
+which offers some regional diversification but many 
+macroeconomic factors and legislative events are 
+beyond the control of the Board.
+Competition risk
+Product risk
+Currency 
+and foreign 
+exchange risk
+Political, economic 
+and legislative risks
+Description Mitigation Risk Rosslyn Data Technologies plc Annual report and accounts 2015 11
+1,296,276
+Deferred revenue (£m)
+£0.68m
+Turnover (£m)
+£2.8m
+1,821,461
+1,835,219
+2,066,041
+11
+12
+13
+14
+215,662
+333,631
+444,988
+522,142
+681,873
+11
+12
+13
+14
+15
+724,267
+Year-end cash and cash equivalents (£m)
+£4.7m
+675,833
+1,673,270
+2,886,520
+11
+12*
+13
+14
+111,034
+1,068,387
+77,221
+9,019,458
+4,712,730
+11
+12
+13
+14
+15
+* 2012 was a 13-month trading period; twelve-month 
+annualised figures are shown for comparative purposes.
+Our performance indicators are in line with our strategy 
+to develop and grow the Company.
+2,826,034 15 3,510,146 15
+20
+Average number of employees
+54
+23
+32
+41
+11
+12
+13
+14
+54 15
+Operating loss before exceptional expenses 
+(£m)
+£3.5m
+Strategic report
+Key performance indicators Rosslyn Data Technologies plc Annual report and accounts 2015 12
+Summary
+Revenue
+Group revenues increased by 37% to £2,826,034 
+(2014: £2,066,041). Proceeds from the IPO in April 2014 were 
+deployed progressively during the year. First half revenue 
+was £1,250,770 (2014: £1,019,411), a growth rate of 23%. 
+Second half revenues were £1,575,264 (2014: £1,046,630), 
+an increase of 50%. On a sequential basis, half-on-half 
+revenues grew in H2 2015 by 26% on those of H1 2015. 
+Management is encouraged by this progressive 
+acceleration of revenue delivery.
+The payback from investing funds into the business takes 
+time and management expects this payback to continue 
+into the current year, and beyond, as the investment into 
+sales and marketing bears fruit. The investment into product 
+development will yield market-ready services to drive further 
+revenue growth; payback here will take longer but should 
+drive incremental returns. The second half growth rate 
+compares a period before the IPO funds were received with 
+a period when the investments in sales and marketing had 
+a chance to start to pay back. The growth rate of over 50% 
+is an encouraging start.
+On a regional basis the US revenues of £800,116 
+(2014: £172,452) now represent some 28% of Group revenues. 
+This has been achieved following a number of material 
+client wins in the last twelve months, perhaps most notably 
+a US$1m five year contract with the Florida State University 
+Board of Trustees. The board represents twelve universities 
+in Florida and Rosslyn Analytics, Inc. provides data analytics 
+services to the group. In 2014 the recorded US revenues were 
+£172,452. This represented sales in the final quarter of 2013–14 
+by Rosslyn Analytics, Inc. Prior to this the final quarter 
+sales to the US had been treated as exports from the UK. 
+The underlying increase in US sales was over 50% in 2014–15.
+The apparent increase in UK revenues was 7% £2,025,918 
+(2014: £1,893,589). This understates the true performance 
+due to the reclassification of UK exports to US domestic 
+sales. The underlying increase was over 20%.
+In the second half of the year we entered into a new 
+relationship with the consulting arm of PwC. This partnership 
+arrangement is proving beneficial to both parties and we 
+look forward to the relationship growing in strength in the 
+coming year. The Xerox partnership continues to develop 
+and we look forward to an expanding relationship in the 
+current year. Management believes that partnerships are 
+an important route to the development of the Rosslyn Group 
+and will continue to explore this route to market. Not all of 
+the relationships will necessarily be successful but experience 
+shows that partners can support the development of Rosslyn’s 
+data analytics business.
+Gross margin
+The gross margin percentage increased from 83.1% in 2014 
+to 84.3% in 2015. This upward trend reflects two factors. 
+First, there is a factor of operational gearing as an element 
+of storage costs is fixed and, second, in April 2015 the UK 
+business switched storage supplier to Microsoft’s Azure 
+platform, following the end of a three year arrangement 
+in the UK. This switch is expected to progressively improve 
+gross margins during 2015–16 as the full year effect kicks in. 
+EBITDA
+On a pre-exceptional basis (2014 included exceptional 
+costs of £223,460) the EBITDA loss increased by 20% to 
+£3,427,456 (2014: £2,845,741). This reflected the investment 
+made into the business from the IPO proceeds to support 
+both sales and marketing and product development. 
+Both the increased investment and expanded EBITDA 
+loss were anticipated events at the time of the IPO. 
+Exceptional items
+There were no exceptional items in the year (2014: £223,460). 
+Last year the Group incurred settlement and legal costs in 
+relation to an employee-related matter. As was stated at 
+the time, the matter was resolved and no further costs 
+are expected.
+Strategic report 
+Financial review Rosslyn Data Technologies plc Annual report and accounts 2015 13
+Other income
+The group received £128,948 (2014: £34,615) of other 
+income from an R&D grant. This income is incremental 
+to the tax credits receivable under corporation tax 
+and represents a one-off grant won under a competitive 
+process. The income in 2014 represents income from one 
+quarter. There is likely to be a final quarter of revenue in 
+2015–16. At this point the grant will be exhausted. At the 
+present time the Group has not entered, or qualified, 
+for a further grant but this is kept under constant review. 
+The Board will submit grant applications where it sees 
+an appropriate benefit. In virtually all cases these grants 
+are competitive and no guarantee can be made as to the 
+likely success of such applications.
+Depreciation, amortisation and impairments
+The accounting policy for website capitalisation was 
+reviewed in the year. The policy in force at the start 
+of the year was that website costs were capitalised and 
+amortised over a two year period. The commercial need 
+to constantly update the Group’s website means that a 
+more appropriate policy is to expense costs as incurred. 
+Messaging needs to be updated frequently; a message 
+from as little as twelve months ago could easily be obsolete. 
+The existing website was fully amortised in the year 
+and incremental costs have been expensed.
+Whilst the absolute amount is not large there was an increase 
+in depreciation during the year. The current year charge 
+was £60,045 (2014: £37,829). This reflects an investment 
+into technology to support the development team and 
+to reflect provision of IT equipment more generally over 
+a larger workforce. Such a step change is not envisaged 
+in the current year.
+Loss before income tax
+The loss before income tax for the year was £3,478,221 
+(2014: £3,111,733). This represents an increased loss 
+of 12%. Excluding the exceptional item in 2014, the 
+increase was 20%, very much in line with the change 
+in pre-exceptional EBITDA.
+Cash flow and funds
+The Group ended the year with cash balances of £4,712,730 
+(2014: £9,019,458). Total cash utilisation in the period was 
+£4,306,728. There were two main uses of cash in the year: 
+the repayment of a £200,000 loan taken out prior to listing 
+in April 2014 and the payment of outstanding fees relating 
+to the listing on 29 April 2014. These fees in aggregate were 
+approximately £1,332,712. The overwhelming proportion 
+related to a payment to the reporting accountant. Whilst there 
+were a number of other minor items, the balance is accounted 
+for by changes in working capital. Trade creditors and other 
+payables have declined. This reflects a return to normalised 
+payment terms to suppliers who supported the business ahead 
+of the listing and, the issue of new shares. Trade and other 
+receivables have expanded, reflecting increased activity levels 
+at the revenue level.
+At the year end deferred revenue was £681,873 
+(2014: £522,142). This represents an increase of 31%. 
+The main changes in the year relate to a running down 
+of the deferred revenue from Xerox and the signing of the 
+contract with the Florida State University Board of Trustees. 
+Xerox made an initial payment to Rosslyn in early 2013 on 
+entering into the partnership arrangement. These funds 
+had been materially exhausted by April 2015.
+Investment into fixed assets in the year to 30 April 2015 was 
+£151,776 (2014: £23,678). This step change reflected a level 
+of catch-up investment across the Group and the provision 
+of appropriate technology to the expanded development 
+team to allow testing in a separate environment. 
+By order of the Board
+Charles Clark
+Chief Executive Officer
+16 September 2015 Rosslyn Data Technologies plc Annual report and accounts 2015 14
+Corporate governance
+Board of Directors
+John O’Hara
+Chairman
+John has more than 30 years of experience in the high-tech industry, 
+having held senior positions with some of the world’s biggest companies 
+including Lotus, IBM, Microsoft and, more recently, Pitney Bowes.
+As president of Pitney Bowes Software and a corporate officer 
+of Pitney Bowes, John has led global expansion initiatives and was 
+responsible for a number of strategic acquisitions across the UK, 
+Europe and Australia. He has previously worked for Microsoft UK as 
+general manager, and Enterprise and Partner Group, where he was 
+responsible for more than $1bn in revenue, and has held senior roles 
+at IBM, Pivotal Corporation and Lotus Development Group.
+John has a Bachelor of Science (Hons) degree in chemistry from 
+the University of Wales Institute of Science and Technology and a 
+Master of Science degree from the University of Manchester.
+Charles Clark
+Chief Executive Officer
+Charlie is a highly experienced and well regarded senior executive. 
+He co-founded Rosslyn Analytics Ltd and, prior to this, was an 
+investment banker.
+Charlie has extensive experience of working with fast-growing companies 
+and the capital markets.
+Consistently recognised as a pioneer and leader in cloud analytics, 
+and for his leadership in establishing Rosslyn Analytics, Charlie is also 
+a prolific writer and speaker on the subjects of data management and 
+cloud analytics.
+Charlie served with the British Army during Desert Storm and holds 
+an MBA from City University Business School, London. He is a Fellow 
+of the Securities Institute and is an Accredited Associate of the Institute 
+for Independent Business.
+Hugh Cox
+Chief Data Officer
+Hugh co-founded Rosslyn Analytics Ltd with Charlie Clark. Hugh is a 
+recognised expert in helping public and private sector organisations 
+tackle business issues through technologies including cloud computing, 
+data management and analytics.
+Hugh has authored and spoken extensively on the subject of data 
+analysis, with particular focus on fraud prevention and detection, 
+through the deployment of cloud-based analytics platforms.
+Prior to establishing Rosslyn Analytics, Hugh held senior positions with 
+COO Investments (EMEA) and Citigroup Private Bank. He also worked 
+for Perot Systems, J.P . Morgan and Logica.
+After leaving the British Army, Hugh gained a Bachelor of Science in 
+computer science and an MBA from City University Business School, London.
+Jeff Sweetman
+Chief Operating Officer
+Jeff has over 15 years’ experience in building and deploying enterprise 
+solutions for global organisations, holding senior positions within FileNet, 
+IBM, Oracle, PeopleSoft and J.D. Edwards, as well as helping to grow a 
+start-up within the Microsoft Dynamics channel. 
+Having lived and worked in Africa, Asia Pacific, Europe and the US,  
+Jeff has a deep understanding of the complex multinational environments 
+within which global organisations need to deploy solutions, as well as 
+experience across ERP , e-procurement, business intelligence and the 
+Software as a Service (SaaS) marketplace.
+Jeff has a degree from Loughborough University and an MBA from London 
+Business School. Rosslyn Data Technologies plc Annual report and accounts 2015 15
+Francis Reid
+Chief Financial Officer
+Francis has more than 20 years of financial, executive leadership and 
+operational management experience in emerging growth companies 
+and financial institutions including investment banking and pension 
+fund management.
+Francis has previously held senior roles with UBS Investment Bank and 
+Gartmore Investment Management and, more recently, maintained the 
+position of chief financial officer at Seadragon Offshore, a privately owned 
+offshore drilling and rig construction company.
+A qualified Chartered Accountant, Francis holds a Bachelor of Arts 
+degree in economics and public administration from London University. 
+Francis stepped down as a Director of the Company on 31 July 2015.
+Bernard Quinn
+Non-Executive Director
+Barney has over 30 years’ experience with application software IT 
+companies and has successfully introduced two UK companies to 
+North America. For 13 years, Barney was a main board director of 
+Sherwood International plc, a provider of software and services to the 
+insurance industry – a key achievement was establishing and running 
+the Sherwood North American operation for three years.
+Barney is currently a non-executive director of Workplace Systems, having 
+previously been CEO, completing an MBO in 2011 with the help of LDC, 
+taking the company private after many years on AIM. He is non-executive 
+chairman of Clearstar Inc., an AIM listed company based in Atlanta. 
+He has also worked with private equity companies and has investments 
+in Voyage Design, a creative company, and Parago Ltd, an asset 
+management software company.
+Edward Stacey
+Non-Executive Director
+Ed has been active in technology venture capital for over 15 years. 
+He was one of the first investors in Autonomy in 1996 and has 
+been instrumental in a number of UK technology companies 
+achieving success. 
+His current venture fund, IQ Capital, has made three successful 
+cash exits to date, to Google, Apple and Beckton Dickinson. IQ Capital 
+is a shareholder of the company and has been a shareholder in 
+Rosslyn Analytics Ltd and, subsequently, in Rosslyn Data Technologies plc 
+since 2010.
+Roger Bullen
+Chief Finance and Operating Officer (from 1 October 2015)
+Roger has more than 20 years of finance, executive and operational 
+leadership experience in technology-based companies, including 
+start-ups, large caps and consulting firms. Roger’s experience covers 
+working with national, US and global companies.
+Roger recently held senior roles with Navigant Consulting Inc. as head 
+of the international division and Sapient Inc. as VP international finance. 
+He has also worked with private equity companies and been successful 
+in taking companies to market and trade sale. 
+Roger has been a shareholder in Rosslyn Analytics Ltd and, 
+subsequently, in Rosslyn Data Technologies plc since Charles 
+and Hugh established Rosslyn. 
+Roger has been a member of the Chartered Institute of Management 
+Accountants since 1990. Rosslyn Data Technologies plc Annual report and accounts 2015 16
+Corporate governance
+Directors’ report
+The Directors present their report and audited 
+consolidated financial statements for the year ended 
+30 April 2015.
+Principal activity
+The principal activity of the Group continued to be the 
+development and provision of data analytics software.
+Business review and future developments 
+A review of the Group’s operations and future developments 
+is covered in the Chief Executive Officer’s Statement together 
+with the Financial Review on page 5 and pages 12 to 13. 
+Financial results
+Details of the Group’s financial results are set out in the 
+consolidated statement of comprehensive income and other 
+components of the financial statements on pages 25 to 51.
+Dividends
+The Directors do not recommend the payment of a 
+dividend (2014: £nil).
+Going concern
+After making enquiries and considering the nature of the 
+business, the Directors believe that the Group has sufficient 
+resources to continue trading for the foreseeable future. 
+Based on this assessment the Directors believe that 
+continuing to adopt a going concern basis for the 
+preparation of the report and consolidated financial 
+statements is appropriate. This is described in more 
+detail in note 2 to the financial statements.
+Annual General Meeting
+On page 52 is the notice of the Company’s Annual General 
+Meeting to be held at The Viceroy Room, The Grosvenor Hotel, 
+101 Buckingham Palace Road, London SW1W OSJ 
+on 28 October 2015 at 11.00am.
+Directors and Directors’ shareholdings
+The Directors who served on the Board and on Board 
+Committees during the year are set out on pages 14 to 15.
+A directors’ and officers’ insurance policy has been put 
+in place to indemnify the Directors against legal actions 
+by third parties.
+Details of the Directors’ remuneration and share option 
+rights are given in the Remuneration Report on pages 21 
+to 23.
+Substantial shareholders
+The Company is informed that, as at 30 April 2015, individual registered shareholdings of more than 3% of the Company’s 
+issued share capital were as follows:
+Shareholder Number of shares
+Percentage of
+ issued ordinary
+ share capital of 
+the Company and
+ voting rights
+IQ Capital Fund 1 LP 11,062,712 14.66%
+Hugh Cox 9,544,910 12.65%
+Charles Clark 9,506,072 12.60%
+Standard Life Investments Limited 4,848,400 6.43%
+Hargreave Hale Limited 4,545,400 6.02%
+Miton Asset Management Limited 4,242,346 5.62%
+Artemis Fund Managers Limited 2,575,000 3.41% Rosslyn Data Technologies plc Annual report and accounts 2015 17
+Research and development
+During the year the Group spent £284,952 (2014: £646,782) 
+on tax relief qualifying research and development for 
+the purpose of enhancing the Group’s product offerings. 
+All amounts were expensed during the year. 
+Employees
+It is the Group’s policy to involve employees in its 
+progress, development and performance. During the 
+year a series of briefings took place to keep employees 
+informed of developments, financial performance and 
+technical changes. The Group is committed to ensuring 
+that equal opportunities are accorded to all its employees 
+irrespective of age, gender and nationality in respect of 
+training, career development and advancement.
+Political and charitable donations
+During the year the Group made no political donations 
+(2014: £nil) and made charitable donations of £nil (2014: £nil).
+Supplier payment policy and practice
+The Group does not operate a standard code in respect 
+of payments to suppliers. The Group agrees terms of payment 
+with individual suppliers and makes payments in accordance 
+with contractual and other legal obligations.
+The ratio, expressed in days, between the amount 
+invoiced to the Group by its suppliers during the year 
+ended 30 April 2015 and the amount owed to its trade 
+creditors at 30 April 2015 was 74 days (2014: 82 days).
+Disclosure of information to auditor
+The Directors who held office at the date of approval of this 
+Directors’ Report confirm that, so far as they are aware, there 
+is no relevant audit information of which the Company’s 
+auditor is unaware, and each Director has taken all the steps 
+that he ought to have taken to make himself aware of any 
+relevant audit information and to establish that the Company’s 
+auditor is aware of that information.
+Independent auditor
+A resolution for the re-appointment of Grant Thornton UK LLP 
+as auditor of the Company is to be proposed at the 
+forthcoming Annual General Meeting.
+By order of the Board
+Charles Clark
+Chief Executive Officer
+16 September 2015 Rosslyn Data Technologies plc Annual report and accounts 2015 18
+Corporate governance
+Statement of Directors’ responsibilities
+in preparation of the financial statements
+The Directors are responsible for preparing the annual 
+report and the accounts in accordance with applicable law 
+and regulations.
+Company law requires the Directors to prepare financial 
+statements for each financial year. Under that law the Directors 
+have prepared the Group financial statements in accordance 
+with International Financial Reporting Standards (IFRSs) as 
+adopted by the European Union, and the parent company 
+financial statements in accordance with United Kingdom 
+Generally Accepted Accounting Practice (United Kingdom 
+Accounting Standards and applicable law). Under company 
+law the Directors must not approve the financial statements 
+unless they are satisfied that they give a true and fair view 
+of the state of affairs of the Group and the Company and 
+of the profit or loss of the Group for that period. In preparing 
+these financial statements, the Directors are required to:
+ — select suitable accounting policies and then apply 
+them consistently;
+ — make judgements and accounting estimates that are 
+reasonable and prudent;
+ — state whether IFRSs as adopted by the European Union 
+and applicable UK Accounting Standards have been 
+followed, subject to any material departures disclosed 
+and explained in the Group and parent company 
+financial statements respectively; and
+ — prepare the financial statements on the going concern 
+basis unless it is inappropriate to presume that the 
+Company will continue in business.
+The Directors are responsible for keeping adequate 
+accounting records that are sufficient to show and explain 
+the Company’s transactions and disclose with reasonable 
+accuracy at any time the financial position of the Company 
+and enable them to ensure that the financial statements 
+comply with the Companies Act 2006. They are also responsible 
+for safeguarding the assets of the Company and the Group 
+and hence for taking reasonable steps for the prevention 
+and detection of fraud and other irregularities.
+The Directors are responsible for the maintenance 
+and integrity of the Company’s website. Legislation in 
+the United Kingdom governing the preparation and 
+dissemination of financial statements may differ 
+from legislation in other jurisdictions. Rosslyn Data Technologies plc Annual report and accounts 2015 19
+Corporate governance report
+As an AIM listed company, Rosslyn Data Technologies plc is 
+not required to comply with the full UK Corporate Governance 
+Code, but the Board believes that compliance with the 
+highest standards of corporate governance is very important. 
+It has adopted many of the best practices set out in the 
+Corporate Governance Guidelines issued by the Quoted 
+Companies Alliance, an alternative governance code 
+particularly aimed at smaller quoted entities.
+Board of Directors and Board committees
+At the end of the financial year the Board of Directors 
+consisted of four Executive and three Non-Executive 
+Directors. The Board believes this to be an appropriate 
+mix of skills and roles to act in the best interests of 
+shareholders and stakeholders. 
+The roles of Chairman and Chief Executive Officer are 
+separate. The Chairman leads Board meetings and Board 
+discussions and has responsibility for the Board’s overall 
+effectiveness. The Chief Executive Officer is responsible for 
+the achievement of the Group’s strategic and commercial 
+objectives, within the context of the Group’s resources 
+and the risk tolerances laid down by the Board.
+Barney Quinn is the senior independent Non-Executive 
+Director and chairs each of the Board’s committees. 
+The Chairman, John O’Hara, is a member of each of the 
+Board committees. Edward Stacey, a Non-Executive Director, 
+is employed by IQ Capital LP , a connected company 
+of IQ Capital Fund 1 LP , the Group’s largest shareholder.
+The Board is responsible to shareholders and provides 
+leadership and direction to the Group. It is the role of the 
+Board to set the strategic direction and goals of the Group 
+within the risk tolerances and control mechanisms the Board 
+believes are appropriate. The Board has a list of matters 
+reserved for its consideration which include, but are not 
+limited to, matters of strategy, risk management, consideration 
+and approval of financial budgets, major capital expenditure 
+decisions, acquisitions and disposals, approval of the interim 
+and final results and the recommendation of any dividends. 
+The Board has three committees, each with defined terms 
+of reference. They are the Audit Committee, the Remuneration 
+Committee and the Nomination Committee.
+The Board meets on a regular basis. During the year from 
+1 May 2014, the Board met twelve times. In addition the 
+Board committees met a number of times. Table 1 shows 
+the attendance of the relevant Directors at these meetings.
+Formal agenda and briefings are prepared for Board 
+meetings, allowing all Directors to participate fully in the 
+meetings. The Directors all have access to independent 
+advice, if required, in respect of their duties from a variety 
+of professional advisers. The Company maintains an 
+appropriate directors’ and officers’ insurance policy in 
+respect of legal actions against the Directors or Officers.
+The performance of the Board is assessed by the 
+Chairman, in conjunction with the Nomination 
+Committee. This assessment includes, but is not limited 
+to, the appropriate level of skill of Board members, the 
+conduct of Board meetings, the decision making process 
+and the effectiveness of the various Board committees.
+Table 1 – Board meetings, showing attendance
+Year to 30 April 2015
+Board Total
+John O'Hara 12/12
+Charles Clark 12/12
+Hugh Cox 11/12
+Jeffrey Sweetman 12/12
+Francis Reid 12/12
+Edward Stacey 12/12
+Bernard Quinn 12/12
+Audit Committee Total
+Bernard Quinn 2/2
+John O’Hara 2/2
+Francis Reid 2/2
+Remuneration Committee Total
+Bernard Quinn 2/2
+John O’Hara 2/2
+Nomination Committee Total
+Bernard Quinn 1/1
+John O’Hara 1/1 Rosslyn Data Technologies plc Annual report and accounts 2015 20
+Corporate governance
+Board committees
+The Board has established three Committees, with clearly 
+defined terms of reference. The membership of these 
+committees and their duties are set out below.
+Audit Committee
+The Audit Committee is chaired by Barney Quinn. 
+John O’Hara is the other permanent member of the 
+Committee, which co-opts other Directors and senior 
+employees as necessary into its deliberations. The Committee 
+is expected to meet at least twice a year. The main 
+responsibilities of the Audit Committee are monitoring 
+the integrity of the Company’s financial systems and 
+statements; reviewing significant reporting issues; 
+and reviewing the effectiveness of the Company’s 
+internal control and risk management systems.
+The Committee is also responsible for overseeing the 
+relationship with the external auditor (including advising 
+on its appointment, agreeing the scope of the audit and 
+reviewing the audit findings). The Committee meets with 
+the external auditor, without the Chief Financial Officer, 
+at least once a year.
+Remuneration Committee
+The Remuneration Committee is chaired by Barney Quinn. 
+John O’Hara is the second permanent member of this 
+committee. Other Directors are co-opted on to the Committee 
+on an adhoc basis. The Committee is expected to meet at 
+least twice a year.
+The responsibilities of the Committee include determining 
+the remuneration of the Chairman, the Executive Directors 
+and other Senior Executives. As part of this role the Committee 
+is responsible for setting the framework for any bonus, 
+incentive or share option schemes. The remuneration 
+of the Non-Executive Directors is agreed between the 
+Chairman and the Executive Directors.
+Nomination Committee
+The Nomination Committee is chaired by Barney Quinn. 
+John O’Hara is the other permanent member of this committee, 
+which co-opts other Directors as necessary for its deliberations. 
+The Committee is responsible for considering the selection, 
+and re-appointment, of the Directors. It is also responsible 
+for identifying and nominating candidates for Board vacancies. 
+The Committee, in conjunction with the Chairman, 
+John O’Hara, reviews the size, structure and composition 
+of the Board and makes recommendations to the Board for 
+any changes. The Committee meets on an as necessary basis.
+Investor relations 
+The Chief Executive Officer and the Chief Financial Officer 
+meet with analysts and institutional shareholders of the 
+Company after the interim and annual results announcements 
+and on an as needed basis at other times in the year to 
+update shareholders on the progress of the Group.
+The Directors encourage the participation of all shareholders, 
+including private shareholders, at the Annual General 
+Meeting. The annual report and accounts is published on 
+the Company’s website, www.rosslyndatatechnologies.com, 
+and can be accessed by shareholders and potential investors.
+Internal control and risk management
+The Board is responsible for the Group’s systems of 
+internal controls and, together with the Audit Committee, 
+reviewing those systems. The systems put in place are 
+designed to manage, limit and control risk but cannot 
+eliminate all risk completely.
+The Executive Directors of the Company are actively involved 
+in the daily management of the operations of the Group. 
+Business risks are regularly identified and appropriate control 
+systems are implemented to manage those risks.
+The Group has quality assurance processes in place for the 
+development and delivery of software. The main operating 
+Company, Rosslyn Analytics Ltd, is ISO 9001:2008 certified, 
+which covers quality management, and ISO 27001:2005, 
+which covers information security management.
+The Group’s internal financial control procedures and 
+monitoring systems include:
+ — an annual budgetary process to set appropriate 
+measurable targets for monitoring Group progress;
+ — financial policies and approval processes to ensure 
+proper authorisation is obtained for spending;
+ — segregation of duties within financial management;
+ — maintenance of proper records for the production 
+of accurate and timely financial information; and
+ — detailed monthly reporting to the Board against the 
+operating budget and analysis of cash management.
+Barney Quinn
+Chairman of the Audit Committee
+16 September 2015
+Corporate governance report continued Rosslyn Data Technologies plc Annual report and accounts 2015 21
+Remuneration report
+As an AIM listed company, Rosslyn Data Technologies plc 
+is not required to comply with the Main Market UK Listing 
+Rules or those aspects of the Companies Act applicable 
+to listed companies regarding the disclosure of directors’ 
+remuneration. However, the Board has chosen to adopt 
+many of the best practices as proposed in the Remuneration 
+Guide for Smaller Quoted Companies by the Quoted 
+Companies Alliance. Unless stated, this report is unaudited.
+Remuneration Committee
+Membership and the responsibilities of this committee are 
+set out below. The Committee is chaired by Barney Quinn. 
+John O’Hara is the other permanent member of the 
+Committee. Other Directors are invited to participate in 
+committee deliberations as required, but are not involved 
+in decisions affecting their own remuneration.
+Meeting and attendance in FY 2014–15
+The Committee met twice in the year, in July 2014 and 
+March 2015. The meetings were attended by the two 
+permanent members of the Committee.
+Remuneration policy
+The objective of the remuneration policy is to ensure 
+that the overall remuneration of the Executive Directors, 
+and key Senior Executives, is designed to attract, retain 
+and motivate them to generate performance aligned to 
+creating sustainable shareholder value, within acceptable 
+risk tolerances. The remuneration of Senior Executives is 
+managed to ensure an appropriate balance relative to 
+other employees in the Group.
+Executive Directors’ remuneration
+In the year under review, Executive Directors’ total 
+remuneration packages comprised:
+ — fixed pay, including base salary and pension 
+contributions; and
+ — variable pay, comprising bonus opportunities and on 
+an individual basis access to the EMI Share Option Scheme.
+Activities during the year
+During the year the Committee undertook the following 
+activities at its meetings:
+ — review of Executive remuneration strategy and policy;
+ — approval of bonuses to the Executive Directors; and
+ — review of proposed grants of share options under the 
+EMI Share Option Scheme and the approval thereof.  Rosslyn Data Technologies plc Annual report and accounts 2015 22
+Corporate governance
+Remuneration report continued
+2014–15 annual bonus
+The table below sets out the aggregate remuneration of the Directors.
+Salary
+£’000
+Bonus
+£’000
+Benefits
+£’000
+Fees
+£’000
+Pension
+£’000
+Share-
+based 
+payments
+£’000
+30 April
+2015 
+Total
+£’000
+30 April
+2014
+ Total
+£’000
+Executive Directors
+Charles Clark 150 70 1 — 12 — 233 135
+Hugh Cox 120 70 6 — 12 — 208 131
+Jeffrey Sweetman
+(i)
+125 70 — — 12 — 207 133
+Francis Reid 120 70 — — 12 — 202 171
+Non-Executive Directors
+John O'Hara 50 — — — — — 50 113
+Barney Quinn 30 — — — — — 30 —
+Edward Stacey
+(ii)
+35 — — — — — 35 —
+IQ Capital Directors Nominees Ltd — — — — — — — 34
+Notes
+(i)  Jeffrey Sweetman was paid US$200,000, an amount equal to the salaries of Hugh Cox and Francis Reid, at the budget rate, when the 
+employment contracts were signed.
+(ii)  Edward Stacey is an employee of IQ Capital Partnership LLP and surrendered his salary to that company. In 2014 he represented 
+IQ Capital Directors Nominees Ltd on the Board.
+Directors’ interests
+The interests of the Directors over the ordinary shares of the Company are as follows:
+Director
+Number of shares
+ held at 
+30 April 2015
+Percentage of
+ issued ordinary
+ share capital
+Charles Clark 9,506,072 12.60%
+Hugh Cox 9,544,910 12.65%
+Jeffrey Sweetman
+(i)
+1,352,760 1.79%
+Francis Reid 75,757 0.10%
+John O'Hara
+(ii)
+920,552 1.22%
+Barney Quinn 30,303 0.04%
+Edward Stacey
+(iii)
+11,062,712 14.66%
+Notes
+(i) Of which 888,960 ordinary shares are held by the trustees of the Jeffrey Sweetman Discretionary Trust.
+(ii) Includes 151,680 ordinary shares held by Sippchoice Trustees Limited as trustee of John O’Hara’s self-invested personal pension.
+(iii) All the 11,062,712 ordinary shares are held by IQ Capital Fund 1 LP , a connected person of Edward Stacey. Rosslyn Data Technologies plc Annual report and accounts 2015 23
+Share options
+The following Directors held share options at 30 April 2015:
+Director Share options Exercise price
+John O’Hara 240,000 0.5p
+Francis Reid 623,000 16.49p
+The following Directors held share options at 30 April 2014:
+Director Share options Exercise price
+John O’Hara 240,000 0.5p
+Francis Reid 320,000 0.8575p
+Approved by the Board and signed on its behalf by:
+Barney Quinn
+Chairman of the Remuneration Committee
+16 September 2015 Rosslyn Data Technologies plc Annual report and accounts 2015 24
+Financial statements
+Independent auditor’s report
+to the members of Rosslyn Data Technologies plc
+We have audited the group financial statements of Rosslyn Data 
+Technologies plc for the year ended 30 April 2015 which comprise 
+the consolidated statement of financial position, the consolidated 
+statement of comprehensive income, the consolidated statement of 
+cash flows, the consolidated statement of changes in equity, and the 
+related notes. The financial reporting framework that has been applied 
+in their preparation is applicable law and International Financial 
+Reporting Standards (IFRSs) as adopted by the European Union.
+This report is made solely to the company’s members, as a body, 
+in accordance with Chapter 3 of Part 16 of the Companies Act 2006. 
+Our audit work has been undertaken so that we might state to the 
+company’s members those matters we are required to state to them 
+in an auditor’s report and for no other purpose. To the fullest extent 
+permitted by law, we do not accept or assume responsibility to anyone 
+other than the company and the company’s members as a body, for 
+our audit work, for this report, or for the opinions we have formed.
+Respective responsibilities of directors and auditor
+As explained more fully in the Directors’ Responsibilities Statement, 
+the directors are responsible for the preparation of the group financial 
+statements and for being satisfied that they give a true and fair view. 
+Our responsibility is to audit and express an opinion on the group financial 
+statements in accordance with applicable law and International Standards 
+on Auditing (UK and Ireland). Those standards require us to comply 
+with the Auditing Practices Board’s Ethical Standards for Auditors.
+Scope of the audit of the financial statements
+A description of the scope of an audit of financial statements 
+is provided on the Financial Reporting Council’s website at  
+www.frc.org.uk/auditscopeukprivate.
+Opinion on financial statements
+In our opinion the group financial statements:
+ — give a true and fair view of the state of the group’s affairs 
+as at 30 April 2015 and of its loss for the year then ended;
+ — have been properly prepared in accordance with IFRSs 
+as adopted by the European Union; and
+ — the financial statements have been prepared in accordance 
+with the requirements of the Companies Act 2006.
+Opinion on other matter prescribed by the Companies Act 2006
+In our opinion the information given in the Strategic Report and 
+Directors’ Report for the financial year for which the group financial 
+statements are prepared is consistent with the group financial statements.
+Matters on which we are required to report by exception
+We have nothing to report in respect of the following matters where the 
+Companies Act 2006 requires us to report to you if, in our opinion:
+ — certain disclosures of directors’ remuneration specified by law 
+are not made; or
+ — we have not received all the information and explanations 
+we require for our audit.
+Other matter
+We have reported separately on the parent company financial statements 
+of Rosslyn Data Technologies plc for the year ended 30 April 2015.
+Nicholas Page
+Senior Statutory Auditor
+for and on behalf of Grant Thornton UK LLP
+Statutory Auditor, Chartered Accountants
+Gatwick
+16 September 2015 Rosslyn Data Technologies plc Annual report and accounts 2015 25
+Consolidated statement of comprehensive income
+for the year ended 30 April 2015
+Note
+ Year ended
+30 April 
+2015
+£
+Year ended
+30 April 
+2014
+£
+Revenue 3 2,826,034 2,066,041
+Cost of sales (442,309) (349,072)
+Gross profit 2,383,725 1,716,969
+Other operating income 128,948 34,615
+Administrative expenses – excluding exceptional items (6,019,581) (4,638,104)
+Administrative expenses – exceptional items 6
+— (223,460)
+Administrative expenses (6,019,581) (4,861,564)
+Operating loss (3,506,908) (3,109,980)
+Finance income 5 28,687 —
+Finance costs 5 — (1,753)
+Loss before income tax 7 (3,478,221) (3,111,733)
+Income tax 8 222,216 148,510
+Loss for the year (3,256,005) (2,963,223)
+Other comprehensive income (18,503) —
+Total comprehensive income (3,274,508) (2,963,223)
+Loss per share Pence Pence
+Basic and diluted loss per share: ordinary shareholders 9 4.34 7.43
+The notes on pages 29 to 44 form part of these financial statements. 26
+Financial statements
+Rosslyn Data Technologies plc Annual report and accounts 2015
+Consolidated statement of financial position
+as at 30 April 2015
+Note
+30 April
+2015
+£
+30 April
+2014
+£
+Assets
+Non-current assets
+Intangible assets 10 — 17,019
+Property, plant and equipment 11 104,005 29,016
+104,005 46,035
+Current assets
+Trade and other receivables 12 1,203,747 714,091
+Corporation tax receivable 218,082 147,643
+Cash and cash equivalents 13 4,712,730 9,019,458
+6,134,559 9,881,192
+Total assets 6,238,564 9,927,227
+Liabilities
+Non-current liabilities
+Deferred tax 15 — (4,134)
+Current liabilities
+Trade and other payables 14 (1,704,224) (1,914,588)
+Financial liabilities – borrowings 17 — (200,000)
+(1,704,224) (2,114,588)
+Total liabilities (1,704,224) (2,118,722)
+Net assets 4,534,340 7,808,505
+Equity
+Called up share capital 18 377,229 377,029
+Share premium 8,515,916 8,515,773
+Share-based payment reserve 288,017 329,000
+Accumulated loss (9,761,381) (6,546,359)
+Translation reserve (18,503) —
+Merger reserve 5,133,062 5,133,062
+Total equity 4,534,340 7,808,505
+The notes on pages 29 to 44 form part of these financial statements.
+The financial statements were approved by the Board of Directors on 16 September 2015 and were signed on its behalf by:
+Charles Clark
+Chief Executive Officer
+16 September 2015 Rosslyn Data Technologies plc Annual report and accounts 2015 27
+Consolidated statement of changes in equity
+for the year ended 30 April 2015
+Note
+Called up
+share capital
+£
+Accumulated
+loss
+£
+Translation
+reserve
+£
+Share-based
+ payment
+ reserve
+£
+Share
+premium
+£
+Merger
+reserve
+£
+Total
+equity
+£
+Balance at 1 May 2014 377,029 (6,546,359) — 329,000 8,515,773 5,133,062 7,808,505
+Issue of share capital (8 December) 18 200 — — — 143 — 343
+Release — 40,983 — (40,983) — — —
+Loss for the year 18 — (3,256,005) — — — — (3,256,005)
+Other comprehensive income — — (18,503) — — — (18,503)
+Balance at 30 April 2015 377,229 (9,761,381) (18,503) 288,017 8,515,916 5,133,062 4,534,340
+The merger reserve arises from the Group reorganisation that occurred on 23 April 2014. Rosslyn Data Technologies plc acquired Rosslyn Analytics Ltd 
+in a share for share transaction. There was no change in rights or proportions of control in the Group as a result of this transaction. As common 
+control exists IFRS 3 was deemed to not apply and this has been accounted for as a capital reorganisation. The difference between the share 
+capital and share premium of the Company and the share capital and share premium of Rosslyn Analytics Ltd at 23 April 2014 is recognised 
+in the merger reserve.
+Following the issue of 8,500,000 new shares on 29 April 2014, by special resolution supported by a solvency statement of the Directors in accordance 
+with Section 642 of the Companies Act 2006, the Company cancelled its share premium account, and the amount of the share premium account 
+so cancelled was credited to a distributable reserve. The cancellation of the share premium account took effect on 9 May 2015.
+The notes on pages 29 to 44 form part of these financial statements.
+Note
+Called up
+share capital
+£
+Accumulated
+loss
+£
+Translation
+ reserve
+£
+Share-based
+ payment 
+reserve 
+£
+Share
+premium
+£
+Merger
+reserve
+£
+Total
+equity
+£
+Balance at 30 April 2013 457 (3,583,136) — — 2,650,001 — (932,678)
+Issue of share capital  
+(28 November and 30 January) 18 97 — — — 2,837,311 — 2,837,408
+Issue of share capital (23 April) 10 — — — — — 10
+Offset of share issue costs — — — — (129,297) — (129,297)
+Share-based payment transactions — — — 329,000 — — 329,000
+Reorganisation of Group (564) — — — (5,358,015) — (5,358,579)
+Issue of share capital (23 April) 18 225,514 — — — — — 225,514
+Issue of share capital (29 April) 18 151,515 — — — 9,848,485 — 10,000,000
+Offset of share issue costs — — — — (1,332,712) — (1,332,712)
+Reorganisation of Group — — — — — 5,133,062 5,133,062
+Total comprehensive income 18 — (2,963,223) — — — — (2,963,223)
+Balance at 30 April 2014 377,029 (6,546,359) — 329,000 8,515,773 5,133,062 7,808,505
+In 2014 specific professional advisory costs of £1,332,712 relating to the Initial Public Offering have been allocated against the share premium 
+reserve and recognised directly in equity.
+The merger reserve arises from the group reorganisation that occurred on 23 April 2014. Rosslyn Data Technologies plc acquired Rosslyn Analytics Ltd 
+in a share for share transaction. There was no change in rights or proportions of control in the Group as a result of this transaction. As common control 
+exists IFRS 3 was deemed to not apply and this has been accounted for as a capital reorganisation. The difference between the share capital and share 
+premium of the Company and the share capital and share premium of Rosslyn Analytics Ltd at 23 April 2014 is recognised in the merger reserve.
+The notes on pages 29 to 44 form part of these financial statements.
+Consolidated statement of changes in equity
+for the year ended 30 April 2014 Rosslyn Data Technologies plc Annual report and accounts 2015 28
+Financial statements
+Consolidated statement of cash flows
+for the year ended 30 April 2015
+Note
+Year ended
+30 April 
+2015
+£
+Year ended
+30 April 
+2014
+£
+Cash flows used in operating activities
+Cash used in operations See below (4,082,046) (2,694,552)
+Finance costs paid 5 — (1,753)
+Corporation tax received 150,880 131,235
+Other comprehensive income (18,503) —
+Net cash used in operating activities (3,949,669) (2,565,070)
+Cash flows used in investing activities
+Purchase of intangible fixed assets 10 (5,626) (19,450)
+Purchase of property, plant and equipment 11 (151,776) (23,678)
+Net cash used in investing activities (157,402) (43,128)
+Cash flows (used in)/generated from financing activities
+New loans in year 16 — 200,000
+Repayment of borrowings (200,000) —
+Proceeds from share issuance 18 343 12,812,444
+Costs of share issuance — (1,462,009)
+Net cash (used in)/generated from financing activities (199,657) 11,550,435
+(Decrease)/increase in cash and cash equivalents (4,306,728) 8,942,237
+Cash and cash equivalents at beginning of year 13 9,019,458 77,221
+Cash and cash equivalents at end of year 13 4,712,730 9,019,458
+Reconciliation of loss before income tax to cash used in operations
+Year ended
+30 April 
+2015
+£
+Year ended
+30 April 
+2014
+£
+Loss before income tax (3,478,221) (3,111,733)
+Depreciation charges 60,045 37,829
+Loss on disposal of fixed assets 13,504 —
+Amortisation charges 22,645 2,950
+Share-based payment transactions — 329,000
+Finance costs — 1,753
+(3,382,027) (2,740,201)
+Increase in trade and other receivables (489,655) (299,410)
+(Decrease)/increase in trade and other payables (210,364) 345,059
+Cash used in operations (4,082,046) (2,694,552)
+The notes on pages 29 to 44 form part of these financial statements. Rosslyn Data Technologies plc Annual report and accounts 2015 29
+Notes to the consolidated financial statements
+for the year ended 30 April 2015
+1. General information
+Rosslyn Data Technologies Ltd was incorporated on 7 February 2014 and on 24 April 2014 converted from a private limited company 
+to Rosslyn Data Technologies plc.
+Rosslyn Data Technologies plc (the “Company”) is a company domiciled in the UK. The address of the registered office is 25 Eccleston Place, 
+London SW1W 9NF. The Company is the ultimate parent company of Rosslyn Analytics Ltd, a company incorporated in the UK, and the ultimate 
+parent company of Rosslyn Analytics, Inc., a company incorporated in the United States of America (collectively, the “Group”). The Group’s 
+principal activity is the provision of data analytics using a proprietary form.
+The principal accounting policies adopted in the preparation of the consolidated financial information are set out below. The policies have been 
+consistently applied to all the years presented.
+2. Accounting policies 
+Basis of preparation
+The Group’s consolidated financial statements have been prepared and approved by the Directors in accordance with International Financial 
+Reporting Standards (as adopted by the EU) and IFRIC interpretations and with those parts of the Companies Act 2006 applicable to companies 
+reporting under IFRS. The financial statements have been prepared under the historical cost convention.
+Going concern
+Notwithstanding that the Group has made losses in the current year, these financial statements have been prepared on the going concern basis, 
+which assumes that the Group will continue to be able to meet its liabilities as they fall due for the foreseeable future. The Directors believe that 
+the Group has sufficient working capital to meet its present requirements for at least the next twelve months from the date of this consolidated 
+financial information.
+Basis of consolidation
+On 23 April 2014 the Company acquired the Group’s previous parent company, Rosslyn Analytics Ltd, via a share-for-share exchange whereby every 
+ordinary share and A preference share in Rosslyn Analytics Ltd was exchanged for eight ordinary shares and eight A preference shares respectively 
+in Rosslyn Data Technologies Ltd (prior to the conversion to a plc on 24 April 2014). On 24 April 2014 the A preference shares were converted into 
+ordinary shares on a one-for-one basis.
+On 29 April 2014, Rosslyn Data Technologies plc’s shares were admitted to trading on AIM. 
+Accordingly these financial statements are presented in the name of the new legal parent, Rosslyn Data Technologies plc, but are a continuation 
+of the financial statements of Rosslyn Analytics Ltd.
+Subsidiaries
+Subsidiaries are entities controlled by the Company. Control exists when the Company has the power, directly or indirectly, to govern the financial 
+and operating policies of an entity so as to obtain benefits from its activities. In assessing control, potential voting rights that presently are exercisable 
+or convertible are taken into account. Control is generally accompanied by a shareholding of more than one-half of the voting rights. The financial 
+information of subsidiaries is included in the consolidated financial information from the date that control commences until the date that control ceases.
+Transactions eliminated on consolidation
+Intragroup balances, and any gains and losses or income and expenses arising from intragroup transactions, are eliminated in preparing the 
+consolidated financial information. 
+Judgements and estimates
+The preparation of the financial statements requires management to exercise judgement in applying the Group’s accounting policies. It also 
+requires the use of estimates and assumptions that affect the reported amounts of assets, liabilities, income and expenses. Actual results may 
+differ from these estimates.
+On an ongoing basis the following areas involve a higher degree of judgement or complexity:
+ — valuation of share-based payments; and
+ — recognition of deferred tax assets. Rosslyn Data Technologies plc Annual report and accounts 2015 30
+Financial statements
+Notes to the consolidated financial statements continued
+for the year ended 30 April 2015
+2. Accounting policies continued
+Revenue recognition
+Revenue is measured at the fair value of consideration received or receivable and represents amounts for services provided to third parties in the 
+normal course of business during the year, net of value added tax and results from the principal activities of the Group.
+Each element of revenue (described below) is recognised only when:
+ — provision of the services has occurred;
+ — the consideration receivable is fixed or determinable; and
+ — collection of the amount due from the customer is reasonably assured.
+(i)  Implementation and set-up fees in connection with the deployment and customisation of the Group’s proprietary solutions are recognised 
+rateably over the term of the related customer contract.
+(ii) Subscription revenue from data analytics services is recognised rateably over the term of the related customer contract.
+(iii) Any revenue arising from consultancy work is recognised in the statement of comprehensive income as such services are delivered.
+Services that have been delivered at the end of a financial period but which have not been invoiced at that time are recognised as revenue in the 
+statement of comprehensive income and shown within accrued revenue in the statement of financial position.
+Advance payments from customers are included within deferred income in the statement of financial position. Such amounts are recognised 
+in the statement of comprehensive income as the services are provided to the customer in accordance with points (i) to (iii) as set out above.
+Cost of sales
+Cost of sales includes utilised data storage costs proportionate to the amount utilised to service customers. Cost of sales does not include salaries 
+and wages.
+Intangible assets
+Website development costs
+Prior to January 2015 costs involved in the development of the Group’s website were capitalised and amortised over two years. The Directors 
+believe the speed of change in website content and design is such that their costs should be expensed as incurred.
+Property, plant and equipment
+Items of property, plant and equipment are stated at cost less accumulated depreciation and impairment losses. Cost includes the original purchase 
+price of the asset and the costs attributable to bringing the asset to its working condition for its intended use. When parts of an item of property, plant 
+and equipment have different useful lives, those components are accounted for as separate items of property, plant and equipment.
+Subsequent costs are included in the asset’s carrying amount or recognised as a separate asset, as appropriate, only when it is probable that 
+future economic benefits associated with the item will flow to the Group and the cost of the item can be measured reliably.
+Gains and losses on disposals are determined by comparing the proceeds with the carrying amount and are recognised in the income statements.
+Depreciation
+Depreciation is provided at the following annual rates in order to write off each asset over its estimated useful life. 
+Computer equipment – 18 to 36 months straight line. 
+Taxation
+Current taxes are based on the results shown in the financial statements and are calculated according to local tax rules, using tax rates enacted 
+or substantively enacted by the statement of financial position date.
+Deferred tax is provided using the statement of financial position liability method, providing for temporary differences between the carrying 
+amounts of assets and liabilities for financial reporting purposes and the amounts used for taxation purposes.
+Temporary differences are not provided for the initial recognition of other assets or liabilities that affect neither accounting nor taxable profit. 
+The amount of deferred tax provided is based on the expected manner of realisation or settlement of the carrying amount of assets and liabilities, 
+using tax rates enacted or substantively enacted at the statement of financial position date. Rosslyn Data Technologies plc Annual report and accounts 2015 31
+2. Accounting policies continued
+Taxation continued
+A deferred tax asset is recognised only to the extent that it is probable that future taxable profits will be available against which the asset 
+can be utilised. Deferred tax assets are reduced to the extent that it is no longer probable that the related tax benefit will be realised.
+Deferred income tax assets and liabilities are offset when there is a legally enforceable right to offset current tax assets against current tax liabilities 
+and when the deferred income tax assets and liabilities relate to income taxes levied by the same taxation authority on either the taxable entity or 
+different taxable entities where there is an intention to settle the balances on a net basis.
+Deferred income tax is provided on temporary differences arising on investments in subsidiaries, except for deferred income tax liability where the 
+timing of the reversal of the temporary difference is controlled by the Group and it is probable that the temporary difference will not reverse in the 
+foreseeable future.
+Research and development
+Expenditure on research activities is recognised as an expense in the period in which it is incurred. Any internally generated development costs 
+are recognised as an asset only if all of the following are met:
+ — an asset is created that can be identified;
+ — it is probable that the asset created will generate future economic benefits; and
+ — the development cost of the asset can be measured reliably.
+Where no internally generated intangible asset can be recognised, development expenditure is recognised as an expense in the period in which 
+it is incurred. 
+Grants receivable
+Grant income is recognised when there is: 1) entitlement to the grant; 2) virtual certainty that it will be received; and 3) sufficient measurability 
+of the amount.
+Foreign currencies
+The functional currency of the Company is pounds sterling because that is the currency of the primary economic environment in which 
+the Company operates. The Company’s presentation currency is pounds sterling.
+Assets and liabilities in foreign currencies are translated into sterling at the rates of exchange ruling at the statement of financial position date. 
+Transactions in foreign currencies are translated into sterling at the rate of exchange ruling at the date of transaction. Exchange differences are 
+taken into account in arriving at the operating result.
+Group companies
+The results and financial position of all the Group entities (none of which has the currency of a hyperinflation economy) that have a functional 
+currency different from the presentation currency are translated into the presentation currency as follows:
+ — assets and liabilities for each statement of financial position presented are translated at the closing rate at the date of that statement 
+of financial position;
+ — income and expenses for each income statement presented are translated at average exchange rates (unless this average is not a reasonable 
+approximation of the cumulative effect of the rates prevailing on the transaction dates, in which case income and expenses are translated 
+at the rate on the dates of the transactions); and
+ — all resulting exchange differences are recognised in other comprehensive income.
+The following exchange rates were applied for £1 at each year end:
+2015 2014
+US dollars 1.53 1.68
+Euros 1.37 1.21
+Retirement benefits
+The Group operates a defined contribution scheme. Contributions payable to the Group’s pension scheme are charged to the income statement 
+in the period to which they relate.
+Financial instruments
+Financial instruments are classified and accounted for, according to the substance of the contractual agreement, as either financial assets, 
+financial liabilities or equity instruments. An equity instrument is any contract that evidences a residual interest in the assets of the Group after 
+deducting all of its liabilities. Rosslyn Data Technologies plc Annual report and accounts 2015 32
+Financial statements
+Notes to the consolidated financial statements continued
+for the year ended 30 April 2015
+2. Accounting policies continued
+Cash and cash equivalents
+Cash and cash equivalents are defined as cash in hand, demand deposits and short-term, highly liquid investments readily convertible to known 
+amounts of cash and subject to insignificant risk of changes in value.
+Trade and other receivables
+Trade receivables are stated at their original invoiced value, as the interest that would be recognised from discounting future cash receipts over the 
+expected credit period is not considered to be material. Trade receivables are reduced by appropriate allowances for estimated irrecoverable amounts.
+Trade and other payables
+Trade payables are stated at their original invoiced value, as the interest that would be recognised from discounting future cash payments over 
+the expected payment period is not considered to be material.
+Financial assets
+Classification
+The Group classifies its financial assets as loans and receivables. Management determines the classification of its financial assets at initial recognition.
+Loans and receivables
+Loans and receivables are non-derivative financial assets with fixed or determinable payments that arise principally through the provision of services 
+to customers. They are initially recognised at fair value and are subsequently stated at amortised cost using the effective interest method. They are 
+included in current assets, except for maturities greater than twelve months after the end of the reporting period. Loans and receivables comprise 
+mainly cash and cash equivalents and trade and other receivables.
+Impairment of financial assets
+Impairment provisions are recognised when there is objective evidence (such as significant financial difficulties on the part of the counterparty 
+or default or significant delay in payment) that the Group will be unable to collect all of the amounts due under the terms receivable, the amount 
+of such a provision being the difference between the net carrying amount and the present value of the future expected cash flows associated 
+with the impaired receivable.
+For trade receivables, which are reported net, such provisions are recorded in a separate provision account with the loss being recognised within 
+other operating costs in the income statement. On confirmation that the trade receivable will not be collectable, the gross carrying value of the 
+asset is written off against the associated provision.
+Share capital and share premium
+Ordinary shares and A preference shares are classified as equity. A preference shares have been deemed equity as they are non-redeemable 
+and do not pay a fixed dividend.
+Share premium is the amount subscribed for share capital in excess of nominal value less any costs directly attributable to the issue of new shares.
+Incremental costs directly attributable to the issue of new shares are shown in share premium as a deduction from the proceeds.
+Share-based payments
+The Group operates an equity-settled, share-based compensation plan, the Enterprise Management Incentive (EMI) Scheme. The fair value of the 
+employee services received in exchange for the grant of the options is recognised as an expense. The total amount to be expensed over the vesting 
+period is determined by reference to the fair value of the options granted calculated using an appropriate option pricing model. Non-market vesting 
+conditions are included in assumptions about the number of options that are expected to vest. At each statement of financial position date, the 
+entity revises its estimates of the number of options that are expected to vest. Options issued under the scheme to Non-Executive Directors and 
+other individuals who are not employees of the UK Company follow the EMI rules but are considered non-qualifying EMI options for tax purposes.
+Borrowings
+Borrowings are recognised initially at fair value, net of transaction costs incurred. Borrowings are subsequently carried at amortised cost; 
+any difference between the proceeds (net of transaction costs) and the redemption value is recognised in the income statement over the period 
+of the borrowings using the effective interest method.
+Provisions
+A provision is recognised in the statement of financial position when the Group has a present legal or constructive obligation as a result of a past 
+event, and it is probable that an outflow of economic benefits will be required to settle the obligation. If the effect is material, provisions are discounted 
+at a rate that reflects current market assessments of the time value of money and, when appropriate, the risks specific to the liability. The increase 
+in the provision due to passage of time is recognised in finance costs.
+Net finance costs
+Finance costs
+Finance costs comprise interest payable on borrowings and direct issue costs. Rosslyn Data Technologies plc Annual report and accounts 2015 33
+2. Accounting policies continued
+Net finance costs continued
+Finance income
+Finance income comprises interest receivable on funds invested. Interest income is recognised in the income statement as it accrues using 
+the effective interest method.
+Convertible loan stock
+The convertible loan stock, a compound financial instrument, can be converted to share capital at the option of the holder, and the number 
+of shares to be issued does not vary with changes in their fair value.
+The liability component of a compound financial instrument is recognised initially at the fair value of a similar liability that does not have an equity 
+conversion option. The equity component is recognised initially at the difference between the fair value of the compound financial instrument as 
+a whole and the fair value of the liability component. Any directly attributable transaction costs are allocated to the liability and equity components 
+in proportion to their initial carrying amounts. Subsequent to initial recognition, the liability component of a compound financial instrument is 
+measured at amortised cost using the effective interest method. The equity component of a compound financial instrument is not re-measured 
+subsequent to initial recognition except on conversion or expiry. The Directors have not split out the equity component as it is not material.
+Borrowings are classified as current liabilities unless the Group has an unconditional right to defer settlement of the liability for at least twelve months 
+after the end of the reporting period.
+New standards, amendments and interpretations
+In the current year, the Group has adopted the following new standards and interpretations:
+ — IFRS 10 Consolidated Financial Statements: This standard provides a single model to be applied in the control analysis for all investees, 
+including entities that currently are special purpose entities in the scope of SIC-12.
+ — IFRS 11 Joint Arrangements: This standard carves out from IAS 31 those cases in which there is a separate vehicle but that separation is 
+overcome by form, contract or other facts and circumstances and removes the choice of equity or proportionate accounting for jointly 
+controlled entities (as was under IAS 31).
+ — IFRS 12 Disclosure of Interests in Other Entities: This standard contains the disclosure requirements for entities that have interests 
+in subsidiaries, joint arrangements (i.e. joint operations or joint ventures), associates and/or unconsolidated structured entities.
+ — IAS 27 Separate Financial Statements (2011): IAS 27 (2011) carries forward the existing accounting and disclosure requirements from 
+IAS 27 (2008) for separate financial statements, with some minor clarifications.
+ — Amendments to IAS 32 and IFRS 7: Offsetting Financial Assets and Financial Liabilities: These amendments clarify offsetting criteria 
+and specific disclosures.
+The adoption of the new standards and amendments above has had no significant impact on the financial statements of the Company.
+At the date of authorisation of the financial statements the following standards and interpretations, which have not been applied in these financial 
+statements, were in issue but not yet effective.
+ — IFRS 15 Revenue from Contracts with Customers: This standard introduces a five-step framework that is applied to all contracts with customers.
+ — IFRIC Interpretation 21 Levies: This interpretation provides guidance on when to recognise a liability for a levy imposed by government.
+ — Amendments to IAS 36: Recoverable Amount Disclosures for Non-Financial Assets: This amends the disclosure requirements in IAS 36 
+Impairment of Assets with regard to the measurement of the recoverable amount of impaired assets.
+The Directors do not expect these standards, amendments and interpretations to have any significant impact on the Group’s financial statements.
+Segment reporting
+Operating segments are reported in a manner consistent with the internal management reporting of the business to the Executive Directors, 
+who have been identified as the Chief Operating Decision Maker.  Rosslyn Data Technologies plc Annual report and accounts 2015 34
+Financial statements
+Notes to the consolidated financial statements continued
+for the year ended 30 April 2015
+3. Segmental reporting
+Management has determined the operating segments based on the operating reports reviewed by the Executive Directors that are used to assess both 
+performance and strategic decisions. Management has identified that the Executive Directors are the Chief Operating Decision Maker in accordance 
+with the requirements of IFRS 8 Operating Segments.
+All segment revenue, loss before taxation, assets and liabilities are attributable to the principal activity of the Group, being the provision of data 
+analytics using a proprietary form.
+Year ended 30 April 2015
+UK
+£
+US
+£
+Total
+£
+Income
+Total revenue 2,025,918 800,116 2,826,034
+Total revenue from external customers 2,025,918 800,116 2,826,034
+EBITDA (3,269,400) (154,818) (3,424,218)
+Depreciation (60,045) — (60,045)
+Amortisation (22,645) — (22,645)
+Exceptional items — — —
+Operating loss (3,352,090) (154,818) (3,506,908)
+Finance income 28,687 — 28,687
+Finance cost — — —
+Loss before income tax (3,323,403) (154,818) (3,478,221)
+Total assets 5,618,671 619,893 6,238,564
+Total liabilities (1,372,982) (331,242) (1,704,224)
+Capital expenditure during the year
+Intangible assets 5,626 — 5,626
+Property, plant and equipment 151,776 — 151,776
+Year ended 30 April 2014
+UK
+£
+US
+£
+Total
+£
+Income
+Total revenue 1,893,589 172,452 2,066,041
+Total revenue from external customers 1,893,589 172,452 2,066,041
+EBITDA (2,492,360) (353,381) (2,845,741)
+Depreciation (37,829) — (37,829)
+Amortisation (2,950) — (2,950)
+Exceptional items (223,460) — (223,460)
+Operating loss (2,756,599) (353,381) (3,109,980)
+Finance cost (1,753) — (1,753)
+Loss before income tax (2,758,352) (353,381) (3,111,733)
+Total assets 9,733,072 194,155 9,927,227 
+Total liabilities (1,883,442) (235,280) (2,118,722) 
+Capital expenditure during the year
+Intangible assets 19,450 — 19,450
+Property, plant and equipment 23,678 — 23,678 Rosslyn Data Technologies plc Annual report and accounts 2015 35
+4. Employees and Directors
+Year ended
+30 April 
+2015
+£
+Year ended
+30 April 
+2014
+£
+Wages and salaries 3,250,434 2,226,553
+Social security costs 321,316 193,300
+Other pension costs 53,150 34,012
+Share-based payment expense – Directors — 196,500
+Share-based payment expense – staff — 132,500
+3,624,900 2,782,865
+The average monthly number of employees during the years was as follows:
+ Year ended
+30 April 
+2015
+Year ended
+30 April 
+2014
+Management 6 4
+Research and development 20 14
+Sales and marketing 28 23
+54 41
+Year ended
+30 April 
+2015
+£
+Year ended
+30 April 
+2014
+£
+Directors’ emoluments 917,643 694,756
+Directors’ pension contributions to money purchase schemes 48,000 22,000
+The number of Directors to whom retirement benefits were accruing was as follows:
+Money purchase schemes 4 1
+During the year no (2014: no) Director exercised share options. 
+Information regarding the highest paid Director is as follows:
+Year ended
+30 April 
+2015
+£
+Year ended
+30 April 
+2014
+£
+Aggregate emoluments 233,303 170,969
+There were pension contributions in respect of the highest paid Director of £12,000 (2014: £nil).
+The highest paid Director exercised nil (2014: nil) share options during the year (see note 23). 
+5. Net finance costs
+ Year ended
+30 April 
+2015
+£
+Year ended
+30 April 
+2014
+£
+Finance income
+Interest receivable 28,687 —
+Finance costs
+Loan interest paid — 1,753
+Net finance costs 28,687 1,753 Rosslyn Data Technologies plc Annual report and accounts 2015 36
+Financial statements
+Notes to the consolidated financial statements continued
+for the year ended 30 April 2015
+6. Exceptional items
+During the year settlement and legal costs of £nil (2014: £223,460) were incurred in respect of an employee-related matter. This matter was resolved 
+in full and no further costs are expected.
+7. Loss before income tax
+The loss before income tax is stated after charging/(crediting):
+ Year ended
+30 April 
+2015
+£
+Year ended
+30 April 
+2014
+£
+Share-based payments — 329,000
+Grants receivable (128,948) (34,615)
+Depreciation – owned assets 60,045 37,829
+Loss on disposal of fixed assets 16,742 —
+Website development amortisation 22,645 2,950
+Auditor’s remuneration 35,000 55,000
+Auditor’s remuneration for non-audit services – tax advisory 6,750 30,000
+Foreign exchange (gains)/losses (38,052) 8,375
+Operating lease rentals 80,341 60,000
+8. Income tax
+Analysis of income tax
+Year ended
+30 April 
+2015
+£
+Year ended
+30 April 
+2014
+£
+Current tax
+Corporation tax on losses of the year (218,082) (147,643)
+Deferred tax
+Origination and reversal of timing differences (see note 15) (4,134) (867)
+Total tax (222,216) (148,510)
+Factors affecting the tax credit
+The differences between the total current tax shown above and the amount calculated applying the standard rate of UK corporation tax to the loss 
+before tax are explained below:
+Year ended
+30 April 
+2015
+£
+Year ended
+30 April 
+2014
+£
+Loss on ordinary activities before tax (3,478,221) (3,111,733)
+Loss on ordinary activities multiplied by the standard rate of corporation tax in the UK of 20.92% 
+(2014: 22.83%) (727,644) (710,407)
+Effects of:
+Disallowable expenses 15,755 4,436
+Unrecognised deferred tax asset on losses 711,889 705,971
+Research and development tax credit (218,082) (147,643)
+Deferred tax (see note 15) (4,134) (867)
+Total tax (222,216) (148,510) Rosslyn Data Technologies plc Annual report and accounts 2015 37
+8. Income tax continued
+Factors affecting the tax credit continued
+The standard rate of corporation tax in the UK changed from 24% to 23% with effect from 1 April 2013. Accordingly, the Group’s profits for the 
+accounting period to 30 April 2013 were taxed at an effective rate of 23.917%. The standard rate of corporation tax in the UK changed from 23% to 
+21% with effect from 1 April 2014. Accordingly, the Group’s profits for the accounting period to 30 April 2014 are taxed at an effective rate of 22.83%.
+In addition to the changes in rates of corporation tax disclosed above, further changes to the UK corporation tax system were announced in the 
+March 2013 UK Budget Statement and substantively enacted as part of the Finance Bill 2013 on 2 July 2013. These included reductions to the main 
+rate of corporation tax by a further 1% to 20% by 1 April 2015. This further rate reduction had been substantively enacted at the balance sheet date 
+and, therefore, the relevant deferred tax balances have been re-measured.
+9. Loss per share
+Basic earnings per share is calculated by dividing the net profit for the year attributable to ordinary shareholders by the weighted average number 
+of ordinary shares outstanding during the year.
+Diluted earnings per share is calculated by dividing the net profit for the year attributable to ordinary shareholders by the weighted average 
+number of ordinary shares outstanding during the year plus the weighted average number of ordinary shares that would be issued on the 
+conversion of all dilutive potential ordinary shares into ordinary shares.
+Year ended
+30 April 
+2015
+Year ended
+30 April 
+2014
+Loss for the year attributable to the owners of the parent £3,274,508 £2,963,223
+Weighted average number of ordinary shares 75,421,595 39,885,226
+Pence Pence
+Basic and diluted loss per share: ordinary shareholders 4.34 7.43
+Earnings per share has been calculated on the basis of the capital restructuring immediately prior to the IPO in accordance with IAS 33.
+10. Intangible assets
+Website
+development
+£
+Cost
+At 1 May 2013 3,500
+Additions 19,450
+At 30 April 2014 22,950
+At 1 May 2014 22,950
+Additions 5,626
+Impairment (28,576)
+At 30 April 2015 —
+Accumulated amortisation
+At 1 May 2013 2,981
+Amortisation for year 2,950
+At 30 April 2014 5,931
+At 1 May 2014 5,931
+Amortisation for year 22,645
+Impairment (28,576)
+At 30 April 2015 —
+Net book value
+At 30 April 2014 17,019
+At 30 April 2015 — Rosslyn Data Technologies plc Annual report and accounts 2015 38
+Financial statements
+Notes to the consolidated financial statements continued
+for the year ended 30 April 2015
+11. Property, plant and equipment
+Computer
+equipment
+£
+Cost
+At 1 May 2013 90,673
+Additions 23,678
+At 30 April 2014 114,351
+At 1 May 2014 114,351
+Additions 151,776
+Disposals (83,696)
+At 30 April 2015 182,431
+Accumulated amortisation
+At 1 May 2013 47,506
+Charge of the year 37,829
+At 30 April 2014 85,335
+At 1 May 2014 85,335
+Charge for the year 60,045
+Impairment (66,954)
+At 30 April 2015 78,426
+Net book value
+At 30 April 2014 29,016
+At 30 April 2015 104,005
+12. Trade and other receivables
+2015
+£
+2014
+£
+Amounts falling due within one year
+Trade receivables due but not past due 419,619 272,770
+Trade receivables past due 146,842 226,120
+Impairment provision — (48,000)
+Trade receivables – net 566,461 450,890
+Other receivables 31,424 18,000
+Prepayments and accrued revenue 569,369 176,548
+VAT 36,493 68,653
+1,203,747 714,091 Rosslyn Data Technologies plc Annual report and accounts 2015 39
+12. Trade and other receivables continued
+Included within the trade receivables past due above are amounts which are not impaired and aged as follows:
+2015
+£
+2014
+£
+Overdue by:
+Up to 30 days 67,787 85,228
+30–60 days 7,688 68,517
+60–90 days 26,400 14,655
+Over 90 days 44,967 9,720
+146,842 178,120
+Trade and other receivables are all current and any fair value difference is not material. Trade receivables are considered past due once they have 
+passed their contracted due date. Trade receivables are reviewed for impairment if they are past due beyond 90 days.
+The below movement on the provision for impairment of trade receivables is as follows:
+2015
+£
+2014
+£
+At start of year 48,000 12,000
+Provision for receivables impairment — 36,000
+Provision release (48,000) —
+At end of year — 48,000
+The provision for impaired receivables has been included in administrative expenses.
+The below represents trade receivables held in foreign currencies at the statement of financial position date:
+2015
+£
+2014
+£
+US dollars — 180,491
+— 180,491 
+13. Cash and cash equivalents
+2015
+£
+2014
+£
+Cash at bank 4,712,730 9,019,458
+The following amounts were held in foreign currencies at the statement of financial position date:
+2015
+£
+2014
+£
+US dollars 286,510 14,497
+Euros 1,087 1,057
+287,597 15,554 Rosslyn Data Technologies plc Annual report and accounts 2015 40
+Financial statements
+Notes to the consolidated financial statements continued
+for the year ended 30 April 2015
+14. Trade and other payables
+2015
+£
+2014
+£
+Current
+Trade payables 257,204 892,310
+Social security and other taxes 87,269 48,219
+Other payables — 9,000
+Accruals and deferred revenue 1,359,751 965,059
+1,704,224 1,914,588
+Included with accruals and deferred revenue is an amount of £681,873 (2014: £522,142) in relation to deferred revenue.
+15. Deferred tax
+Deferred tax relates to the following:
+2015
+£
+2014
+£
+Accelerated capital allowances (14,709) (4,134)
+Deferred tax asset relating to losses 14,709 —
+Deferred tax liability — (4,134)
+The movement in deferred tax is shown below:
+2015
+£
+2014
+£
+Deferred tax liability at start of year (4,134) (5,001)
+Deferred tax asset on losses 14,709 —
+Accelerated capital allowances (10,575) 867
+Deferred tax liability at end of year — (4,134)
+At the balance sheet date the Group had unused tax losses of £1,828,228 (2014: £1,101,630) available for offset against future profits. A deferred tax 
+asset has been recognised in respect of £14,709 (2014: nil) of such losses as these losses would offset any taxable profits arising as a result of the 
+unwinding of the deferred tax liability. No deferred tax asset has been recognised in respect of the remaining £1,813,519 (2013: £1,101,630) due 
+to the unpredictability of future profit streams. Substantially all of the losses may be carried forward indefinitely.
+16. Net funds/(debt)
+Analysis of net funds/(debt)
+Net funds/(debt) is the total of cash and cash equivalents less interest-bearing loans and borrowings and finance lease liabilities. Cash and cash 
+equivalents comprise cash balances, call deposits and other short-term liquid investments such as money market funds which are subject to an 
+insignificant risk of a change in value.
+2015
+£
+2014
+£
+Cash and cash equivalents 4,712,730 9,019,458
+Interest-bearing loans and borrowings (see note 17) — (200,000)
+Net debt 4,712,730 8,819,458 Rosslyn Data Technologies plc Annual report and accounts 2015 41
+17. Financial liabilities – borrowings
+2015
+£
+2014
+£
+Current
+Other loans — 200,000
+— 200,000
+During the prior year, the Group received an interest-bearing loan of £200,000 from a Non-Executive Director. Interest was charged on a daily basis 
+at a rate of 20% per annum. The loan was repaid on 2 May 2014 and the financial statements include interest accrued of £1,753.
+18. Called up share capital
+Allotted, issued and fully paid 
+Number Class Nominal value
+2015 
+£
+2014
+£
+75,445,814 (2014: 75,405,814) Ordinary shares £0.005 (2014: £0.005) 377,229 377,029
+377,229 377,029
+The following fully paid ordinary shares of £0.005 each were allotted during the year ended 30 April 2015 at a premium as shown below:
+On 23 April 2014, the Company entered into a share for share exchange agreement with all of the shareholders of Rosslyn Analytics Ltd as at that date, 
+pursuant to which the Company acquired the entire issued share capital in Rosslyn Analytics Ltd in consideration for the allotment of, in aggregate, 
+28,756,752 ordinary shares and 16,346,032 A preference shares. The Rosslyn Analytics Ltd shareholders were allotted eight ordinary shares of £0.005 
+each for each ordinary share of £0.0001 held by them in Rosslyn Analytics Ltd, and eight A preference shares of £0.005 each for each A preference 
+share of £0.0001 held by them in Rosslyn Analytics Ltd, with the exception of one shareholder who was allotted two fewer ordinary shares of £0.005 
+each to take account of his holding the two issued shares in the Company on the date thereof. The ordinary shares in the Company had the same 
+rights and were subject to the same obligations as the ordinary shares in Rosslyn Analytics Ltd immediately prior to the share for share exchange, 
+and the A preference shares had the same rights and were subject to the same obligations as the A preference shares in Rosslyn Analytics Ltd 
+immediately prior to the share for share exchange.
+By special resolution dated 24 April 2014, with effect immediately prior to listing on 29 April 2014, each of the 16,346,032 A preference shares 
+of £0.005 each in issue were re-designated as ordinary shares of £0.005 each.
+Upon the placing on AIM, 30,303,030 ordinary shares of £0.005 each were allotted at a price including premium of £0.33 per share.
+Allotted during December 2014
+40,000 ordinary shares of £0.005 each at £0.008575 per share.
+19. Leasing agreements 
+The minimum lease payments for the rental of office premises and equipment under non-cancellable operating leases fall as follows:
+2015
+£
+2014
+£
+Within one year 108,848 60,000
+Between one and five years 136,060 135,000
+244,908 195,000
+20. Related party disclosures
+During the year, the Group paid IQ Capital Directors Nominees Ltd, a Group Director during the year, £nil (2014: £33,727) for monthly management 
+services provided. The agreement was undertaken at arm’s length.
+During the prior year, the Group received an interest-bearing loan from Chairman J E O’Hara as described further in note 17.
+The Group entered into a nominated adviser and broker agreement and a placing agreement with Cenkos. On 6 November 2013, Cenkos was paid 
+a commission of £80,002 in aggregate in connection with services provided to the Group relating to the private placing of shares, of which the amount 
+was used by Cenkos to subscribe for 26,173 A preference shares. On 11 December 2013, Cenkos became entitled to payment of commission in the 
+amount of £36,000 in aggregate in connection with services provided to the Group relating to the private placing of shares. A payment was made 
+to Cenkos on 29 April 2014 of £772,815 in respect of services associated with the IPO. Rosslyn Data Technologies plc Annual report and accounts 2015 42
+Financial statements
+Notes to the consolidated financial statements continued
+for the year ended 30 April 2015
+20. Related party disclosures continued
+F H M Reid provided a short-term loan in the amount of £nil (2014: £50,000) to the Group, which has been repaid in full without interest.
+T Cocks, the father of a shareholder of the Company, provided a short-term loan in the amount of £nil (2014: £75,000) to the Group, which has 
+been repaid in full without interest.
+In 2014 the Group granted a warrant to subscribe for 200,000 ordinary shares to T Cocks at an exercise price per share of 38.208425p. This warrant 
+expires three years after the initial listing date, 29 April 2014.
+21. Ultimate controlling party
+There was no ultimate controlling party as at 30 April 2015 or 30 April 2014.
+22. Financial instruments
+Categories of financial instrument
+2015
+£’000
+2014
+£’000
+Current
+Trade and other receivables - loans and receivables 1,422 862
+Trade and other receivables – non-financial assets — —
+1,422 862
+Cash and cash equivalents- loans and receivables 4,712 9,019
+Total loans and receivables 6,134 9,881
+Trade and other payables – other financial liabilities at amortised cost 1,704 2,118
+Trade and other payables – non financial liabilities — —
+1,704 2,118
+Financial risk management
+The Group’s activities expose it to a variety of financial risks: market risk (primarily foreign exchange risk and interest rate risk), credit risk and liquidity 
+risk. The Group’s overall risk management programme focuses on the unpredictability of markets and seeks to minimise potential adverse effects 
+on the Group’s financial performance. Risk management is carried out by the Board and their policies are outlined below.
+a) Market risk
+Foreign exchange risk
+The Group is exposed to translation and transaction foreign exchange risk as it operates within the USA and other countries around the world 
+and therefore transactions are denominated in Sterling, Euro, US Dollars and other currencies. The Group policy is to try and match the timing 
+of the settlement of sales and purchase invoices so as to eliminate, as far as possible, currency exposure.
+The Group does not hedge any transactions and foreign exchange differences on retranslation of foreign currency monetary assets and liabilities 
+are taken to the income statement. 
+The carrying value of the Group’s foreign currency denominated assets and liabilities are set out below:
+2015 2014
+Assets
+£’000
+Liabilities 
+£’000
+Assets
+£’000
+Liabilities
+£’000
+US Dollars 367 233 17 207
+Euros 3 3 — —
+370 236 17 207
+The majority of the group’s financial assets are held in Sterling but movements in the exchange rate of the US Dollar and the Euro against Sterling 
+have an impact on both the result for the year and equity. The Group considers its most significant exposure is to movements in the US Dollar.
+Sensitivity to reasonably possible movements in the US Dollar exchange rate can be measured on the basis that all other variables remain 
+constant. The effect on profit and equity of strengthening or weakening of the US Dollar in relation to sterling by 10% would result in a 
+movement of ±£32,000 (2014: ±£24,000). 
+Interest rate risk
+As the Group carries no borrowings the directors consider that there is no significant interest rate risk. Rosslyn Data Technologies plc Annual report and accounts 2015 43
+22. Financial instruments continued
+b) Credit risk
+Credit risk refers to the risk that a counterparty will default on its contractual obligations resulting in financial loss to the Group. In order to minimise 
+this risk the Group endeavours only to deal with companies which are demonstrably creditworthy and this, together with the aggregate financial 
+exposure, is continuously monitored. The maximum exposure to credit risk is the value of the outstanding amount of £1,203,747 (2014: £714,091).
+Provision of services by members of the Group results in trade receivables which the management consider to be of low risk, other receivables are 
+likewise considered to be low risk. The management do not consider that there is any concentration of risk within either trade or other receivables. 
+No trade or other receivables have been impaired.
+Credit risk on cash and cash equivalents is considered to be small as the counterparties are all substantial banks with high credit ratings. The maximum 
+exposure is the amount of the deposit.
+c) Liquidity risk
+The Group currently holds cash balances in Sterling, US Dollars and Euros to provide funding for normal trading activity. The Group also has access 
+to additional equity funding and, for short term flexibility, overdraft facilities would be arranged with the Group’s bankers. Trade and other payables 
+are monitored as part of normal management routine. Liabilities are disclosed as follows:
+2015
+Within 
+1 year
+£’000
+One to 
+two years
+£’000
+Two to 
+five years
+£’000
+Over 
+five years 
+£’000
+Trade payables 257 — — —
+Accruals 1,360 — — —
+Other 87 — — —
+2014
+Within 
+1 year
+£’000
+One to 
+two years
+£’000
+Two to 
+five years
+£’000
+Over 
+five years 
+£’000
+Trade payables 892 — — —
+Accruals 965 — — —
+Other 57 — — —
+Capital risk management
+The Group’s objectives when managing capital are to safeguard the Group’s ability to continue as a going concern in a volatile and tight credit economy.
+The Group will also seek to minimise the cost of capital and attempt to optimise the capital structure, which currently means maintaining equity 
+funding and keeping debt levels to insignificant amounts of lease funding. Share capital and premium together amount to £8,892 (see page 27).
+Whilst the group does not currently pay dividends it is part of the capital strategy to provide returns for shareholders and benefits for other 
+members in the future. However, the Group is planning growth and it will continue to be important to maintain the Groups credit rating and ability 
+to borrow should acquisition targets become available. 
+Capital for further development of the Group’s activities will, where possible, be achieved by share issues and not by carrying significant debt.  Rosslyn Data Technologies plc Annual report and accounts 2015 44
+Financial statements
+Notes to the consolidated financial statements continued
+for the year ended 30 April 2015
+23. Share-based payment transactions
+The Directors approved the allocation of share-based payments to various staff members ahead of listing to help align employee interests 
+with shareholder returns. Details of the share-based payment arrangement are described below:
+Type of arrangement Enterprise Management Incentive Scheme
+Date granted 31 October 2014
+Number granted 679,516 
+Contractual life 10 years
+Number of employees in scheme 27
+Vesting conditions Vest on grant
+Enterprise Management Incentive Scheme – number of stock options
+2015 2014
+Weighted 
+average
+exercise price
+Outstanding at start of year 1,156,000 — 0.0443p
+Granted 679,516 1,156,000 0.33p
+Forfeited/cancelled (104,000) — 0.01p
+Exercised (40,000) — 0.01p
+Outstanding at end of year 1,691,516 1,156,000 0.1372p
+During the year, the Group recognised an expense of £nil (2014: £329,000) in relation to the scheme.
+Based on the Black Scholes options pricing model, the charge on vesting is immaterial for those options issued during the year. Rosslyn Data Technologies plc Annual report and accounts 2015 45
+We have audited the parent company financial statements of 
+Rosslyn Data Technologies plc for the year ended 30 April 2015 which 
+comprise the company balance sheet, the reconciliation of movements 
+in shareholders’ funds and the related notes. The financial reporting 
+framework that has been applied in their preparation is applicable 
+law and United Kingdom Accounting Standards (United Kingdom 
+Generally Accepted Accounting Practice).
+This report is made solely to the company’s members, as a body, 
+in accordance with Chapter 3 of Part 16 of the Companies Act 2006. 
+Our audit work has been undertaken so that we might state to the 
+company’s members those matters we are required to state to them 
+in an auditor’s report and for no other purpose. To the fullest extent 
+permitted by law, we do not accept or assume responsibility to anyone 
+other than the company and the company’s members as a body, for 
+our audit work, for this report, or for the opinions we have formed.
+Respective responsibilities of directors and auditor
+As explained more fully in the Directors’ Responsibilities Statement, 
+the directors are responsible for the preparation of the parent company 
+financial statements and for being satisfied that they give a true and fair 
+view. Our responsibility is to audit and express an opinion on the parent 
+company financial statements in accordance with applicable law and 
+International Standards on Auditing (UK and Ireland). Those standards 
+require us to comply with the Auditing Practices Board’s Ethical Standards 
+for Auditors.
+Scope of the audit of the financial statements
+A description of the scope of an audit of financial statements 
+is provided on the Financial Reporting Council’s website at  
+www.frc.org.uk/auditscopeukprivate.
+Opinion on financial statements
+In our opinion the parent company financial statements:
+ — give a true and fair view of the state of the company’s affairs 
+as at 30 April 2015;
+ — have been properly prepared in accordance with United Kingdom 
+Generally Accepted Accounting Practice; and
+ — have been prepared in accordance with the requirements 
+of the Companies Act 2006.
+Opinion on other matter prescribed by the Companies Act 2006
+In our opinion the information given in the Strategic Report 
+and Directors’ Report for the financial year for which the financial 
+statements are prepared is consistent with the parent company 
+financial statements. 
+Matters on which we are required to report by exception
+We have nothing to report in respect of the following matters where the 
+Companies Act 2006 requires us to report to you if, in our opinion:
+ — adequate accounting records have not been kept by the parent 
+company, or returns adequate for our audit have not been received 
+from branches not visited by us; or
+ — the parent company financial statements are not in agreement 
+with the accounting records and returns; or
+ — certain disclosures of directors’ remuneration specified by law 
+are not made; or
+ — we have not received all the information and explanations we 
+require for our audit.
+Other matter
+We have reported separately on the group financial statements 
+of Rosslyn Data Technologies plc for the year ended 30 April 2015. 
+Nicholas Page
+Senior Statutory Auditor
+for and on behalf of Grant Thornton UK LLP
+Statutory Auditor, Chartered Accountants
+Gatwick
+16 September 2015
+Independent auditor’s report
+to the members of Rosslyn Data Technologies plc Rosslyn Data Technologies plc Annual report and accounts 2015 46
+Financial statements
+Registered number: 08882249
+Note
+As at
+30 April
+2015
+£
+As at
+30 April
+2014
+£
+Assets
+Fixed assets
+Investments E 8,725,514 8,725,514
+8,725,514 8,725,514
+Current assets
+Debtors F 126,488 176,498
+Cash at bank and in hand G 106,426 8,948,605
+232,914 9,125,103
+Total assets 8,958,428 17,850,617
+Liabilities
+Current liabilities
+Creditors: amounts falling due within one year H (45,156) (8,957,815)
+Total liabilities (45,156) (8,957,815)
+Net assets 8,913,272 8,892,802
+Capital and reserves
+Called up share capital I 377,229 377,029
+Share premium account 8,515,916 8,515,773
+Profit and loss account 20,127 —
+Total shareholders’ funds 8,913,272 8,892,802
+The notes on pages 48 to 51 form part of these financial statements.
+The financial statements were approved by the Board of Directors on 16 September 2015 and were signed on its behalf by:
+Charles Clark
+Chief Executive Officer
+16 September 2015
+Company balance sheet
+as at 30 April 2015 Rosslyn Data Technologies plc Annual report and accounts 2015 47
+Note
+Called up
+share capital
+£
+Share
+premium
+account
+£
+Profit and
+loss account
+£
+Total
+equity
+£
+Balance at 1 May 2014 377,029 8,515,773 — 8,892,802
+Issue of share capital I 200 143 — 343
+Profit for the year — — 20,127 20,127
+Balance at 30 April 2015 377,229 8,515,916 20,127 8,913,272
+Company reconciliation of movements 
+in shareholders’ funds
+for the year ended 30 April 2015 Rosslyn Data Technologies plc Annual report and accounts 2015 48
+Financial statements
+A. General information
+Rosslyn Data Technologies Ltd was incorporated on 7 February 2014 and on 24 April 2014 converted from a private limited company 
+to Rosslyn Data Technologies plc (the “Company”).
+Rosslyn Data Technologies plc is a company incorporated and domiciled in the UK. The address of the registered office is 25 Eccleston Place, 
+London SW1W 9NF. The Group’s principal activity is the provision of management services. 
+The principal accounting policies adopted in the preparation of the Company’s financial information are set out below. The policies have been 
+consistently applied to all the periods presented.
+B. Accounting policies 
+Basis of preparation
+The financial statements have been prepared and approved by the Directors in accordance with United Kingdom Generally Accepted Accounting 
+Practice (UK GAAP) and the Companies Act 2006. The financial statements have been prepared under the historical cost convention.
+The preparation of the financial statements in conformity with UK GAAP requires the use of certain critical accounting estimates and requires 
+management to exercise its judgement in the process of applying the Group’s accounting policies. It also requires the use of assumptions that 
+affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements 
+and the reported amounts of revenues and expenses during the reporting period. Although these estimates are based on management’s best 
+knowledge of current events and actions, actual results may ultimately differ from those estimates.
+Going concern
+The Company financial statements have been prepared on a going concern basis in accordance with the basis of preparing the Group financial 
+statements on a going concern basis.
+Taxation
+Taxation comprises current and deferred tax. Current tax is the expected tax payable (or recoverable) for the current period, using tax rates enacted 
+or substantively enacted at the statement of financial position date.
+Except as otherwise required by accounting standards, full provision without discounting is made for all deferred taxation timing differences 
+which have arisen but not reversed at the statement of financial position date. Timing differences arise when items of income and expenditure 
+are included in tax computations in periods which are different from their inclusion in the financial statements. A deferred tax asset is recognised 
+only to the extent that it is probable that future taxable profits will be available against which the asset can be used.
+Deferred tax assets and liabilities are measured at the tax rate that is expected to apply to the period when the asset is realised or the liability 
+is settled, based on the rates that have been enacted or substantively enacted at the statement of financial position date.
+Cash at bank and in hand
+Cash and cash equivalents are defined as cash in hand, demand deposits and short-term, highly liquid investments readily convertible to known 
+amounts of cash and subject to insignificant risk of changes in value.
+Financial assets
+Impairment of financial assets
+Impairment provisions are recognised when there is objective evidence (such as significant financial difficulties on the part of the counterparty or default 
+or significant delay in payment) that the Company will be unable to collect all of the amounts due under the terms receivable, the amount of such a provision 
+being the difference between the net carrying amount and the present value of the future expected cash flows associated with the impaired receivable.
+For debtors, which are reported net, such provisions are recorded in a separate provision account with the loss being recognised within other 
+operating costs in the profit and loss account. On confirmation that the trade receivable will not be collectable, the gross carrying value 
+of the asset is written off against the associated provision.
+Investments
+Investments are stated at cost less provision for diminution in value. The carrying amounts of the Company’s investments are reviewed for impairment 
+when events or changes in circumstances indicate that the carrying amount of the investment may not be recoverable. If such an indication exists, 
+the investment’s recoverable amount is estimated. An impairment loss is recognised in the statement of comprehensive income whenever the 
+carrying amount of an investment exceeds its recoverable amount.
+Notes to the Company’s financial statements 
+for the year ended 30 April 2015 Rosslyn Data Technologies plc Annual report and accounts 2015 49
+B. Accounting policies continued 
+Share capital and share premium
+Ordinary shares are classified as equity. 
+Share premium is the amount subscribed for share capital in excess of nominal value less any costs directly attributable to the issue of new shares.
+Incremental costs directly attributable to the issue of new shares are shown in share premium as a deduction from the proceeds.
+Provisions
+A provision is recognised in the statement of financial position when the Company has a present legal or constructive obligation as a result of a 
+past event, and it is probable that an outflow of economic benefits will be required to settle the obligation. If the effect is material, provisions are 
+discounted at a rate that reflects current market assessments of the time value of money and, when appropriate, the risks specific to the liability. 
+The increase in the provision due to passage of time is recognised in finance costs.
+C. Result of parent company
+As permitted by Section 408 of the Companies Act 2006, the income statement of the Company is not presented as part of these financial 
+statements. The Company’s result for the financial period is £20,127 (2014: £nil).
+D. Employees and Directors
+The Executive Directors commenced employment with the Company on 29 April 2014. Remuneration costs have been recharged to Rosslyn Analytics Ltd.
+E. Investments
+Shares in subsidiary
+£
+Cost
+At 1 May 2014 8,725,514
+At 30 April 2015 8,725,514
+Net book value
+At 30 April 2015 8,725,514
+At 30 April 2014 8,725,514
+Principal subsidiary undertakings of the Company
+The Company owns directly the whole of the issued and fully paid ordinary share capital of its subsidiary undertaking. The principal undertakings 
+of the Company at 30 April 2015 are presented below:
+Subsidiary Nature of business
+Country of
+incorporation Cost
+Proportion of
+ordinary shares 
+held by Company
+Rosslyn Analytics Ltd Provision of data analytics using a proprietary technology UK £8,725,514 100%
+Rosslyn Analytics, Inc. Provision of data analytics using a proprietary technology US — —
+Rosslyn Analytics, Inc. is a wholly owned subsidiary of Rosslyn Analytics Ltd. 
+F. Trade and other receivables
+2015
+£
+2014
+£
+VAT 29,931 64,907
+Amounts owed by Group undertakings 96,557 111,591
+126,488 176,498
+Amounts owed by Group undertakings are interest free and repayable upon demand. Rosslyn Data Technologies plc Annual report and accounts 2015 50
+Financial statements
+G. Cash at bank and in hand
+2015
+£
+2014
+£
+Cash at bank 106,426 8,948,605
+H. Creditors: amounts falling due within one year
+2015
+£
+2014
+£
+Trade creditors 3,216 399,400
+Amounts owed to Group undertakings — 8,500,000
+Accruals and deferred income 25,000 49,415
+Other creditors — 9,000
+Social security and other taxes 16,940 —
+45,156 8,957,815
+I. Called up share capital
+Allotted, issued and fully paid
+Number Class Nominal value
+2015
+£
+2014
+£
+75,445,814 (2014: 75,405,814) Ordinary shares £0.005 (2014: £0.005) 377,229 377,029
+On 23 April 2014, the Company entered into a share for share exchange agreement with all of the shareholders of Rosslyn Analytics Ltd as at that date, 
+pursuant to which the Company acquired the entire issued share capital in Rosslyn Analytics Ltd in consideration for the allotment of, in aggregate, 
+28,756,752 ordinary shares and 16,346,032 A preference shares. The Rosslyn Analytics Ltd shareholders were allotted eight ordinary shares of £0.005 
+each for each ordinary share of £0.0001 held by them in Rosslyn Analytics Ltd, and eight A preference shares of £0.005 each for each A preference 
+share of £0.0001 held by them in Rosslyn Analytics Ltd, with the exception of one shareholder who was allotted two fewer ordinary shares of £0.005 
+each to take account of his holding the two issued shares in the Company on the date thereof. The ordinary shares in the Company had the same 
+rights and were subject to the same obligations as the ordinary shares in Rosslyn Analytics Ltd immediately prior to the share for share exchange, 
+and the A preference shares had the same rights and were subject to the same obligations as the A preference shares in Rosslyn Analytics Ltd 
+immediately prior to the share for share exchange.
+By special resolution dated 24 April 2014, with effect immediately prior to listing on 29 April 2014, each of the 16,346,032 A preference shares 
+of £0.005 each in issue were re-designated as ordinary shares of £0.005 each.
+Upon the placing on AIM, 30,303,030 ordinary shares of £0.005 each were allotted at a price including premium of £0.33 per share.
+Allotted during December 2014
+40,000 ordinary shares of £0.005 each at £0.008575 per share.
+J. Related party disclosures
+In 2014 the Company granted a warrant to subscribe for 200,000 ordinary shares to T Cocks, the father of a Director of the Company, at an exercise 
+price of 38.208425p per share.
+Included within debtors is an amount of £96,557 (2014: £111,591) due from Rosslyn Analytics Ltd, a subsidiary company. This amount is made 
+up of recharged costs.
+Included within creditors is an amount of £nil (2014: £9,000) due to Cenkos Securities plc in relation to an overpayment to the Company. 
+This amount was repaid on 2 May 2014.
+Included within creditors is an amount of £nil (2014: £8,500,000) due to Rosslyn Analytics Ltd as described in note H.
+K. Ultimate controlling party
+There was no ultimate controlling party as at 30 April 2015.
+Notes to the Company’s financial statements continued
+for the year ended 30 April 2015 Rosslyn Data Technologies plc Annual report and accounts 2015 51
+L. Financial risk management
+The Company’s activities expose it to a variety of financial risks: credit risk, liquidity risk and capital risk.
+Risk management is carried out by the Board of Directors. The Company uses financial instruments to provide flexibility regarding its working 
+capital requirements and to enable it to manage specific financial risks to which it is exposed. Transactions are only undertaken if they relate 
+to actual underlying exposures and hence cannot be viewed as speculative.
+a. Foreign exchange risk
+The Company is not exposed to foreign exchange risk.
+b. Interest rate risk
+The Company is not exposed to interest rate risk.
+c. Credit risk
+The Company trades almost exclusively with its subsidiaries. The credit risk for the Company reflects the risks for the Group. These risks are set out 
+in the Group financial statements.
+d. Liquidity risk
+Cash flow forecasting is performed by management, which monitors rolling forecasts of the Company’s liquidity requirements to ensure it has 
+sufficient cash to meet operational needs.
+e. Capital risk
+The aim of the Company is to maintain sufficient funds to ensure it has adequate working capital to conduct its business operations. It achieves 
+this by either borrowing or raising equity capital from shareholders. Rosslyn Data Technologies plc Annual report and accounts 2015 52
+Financial statements
+Notice is hereby given to the shareholders of Rosslyn Data T echnologies plc 
+(the “Company”) that the Annual General Meeting of the Company will 
+be held at The Viceroy Room, The Grosvenor Hotel, 101 Buckingham 
+Palace Road, London SW1W 0SJ on 28 October 2015 at 11.00am. 
+Shareholders will be asked to consider and, if thought fit, to pass the 
+following resolutions (the “Resolutions”), of which Resolutions 1 to 7 
+will be proposed as ordinary resolutions and Resolution 8 will be 
+proposed as a special resolution.
+Please note that additional information concerning the proposed 
+Resolutions is included in the explanatory notes which accompany 
+and form part of this Notice of Annual General Meeting.
+Ordinary resolutions
+1.  To receive and consider the Company’s annual financial statements, 
+together with the Report of the Directors and of the auditor of the 
+Company, for the year to 30 April 2015.
+2.  To re-appoint Grant Thornton UK LLP as auditor of the Company to 
+hold office from the conclusion of this meeting until the conclusion 
+of the next Annual General Meeting of the Company.
+3.  To authorise the Directors of the Company to determine the 
+auditor’s remuneration.
+4.  To elect Roger Bullen, who retires as a Director having been appointed 
+since the last Annual General Meeting as a Director of the Company.
+5.  To re-elect Charles Clark, who retires as a Director by rotation, 
+as a Director of the Company.
+6.  To re-elect Edward Stacey, who retires as a Director by rotation, 
+as a Director of the Company.
+7.  That in accordance with the Section 551 of the Companies Act 2006 
+(the “2006 Act”) the Directors of the Company be and are generally 
+and unconditionally authorised to exercise all the powers of the 
+Company to allot ordinary shares of £0.005 each in the Company, or 
+to grant rights to subscribe for or to convert any security into shares 
+in the Company provided that the power hereby granted shall be 
+limited to ordinary shares:
+  7.1  up to a maximum nominal amount of £9,460 (in pursuance 
+of the exercise of outstanding options and warrants granted 
+by the Company prior to the date hereof but for no other 
+purpose);
+  7.2  up to an aggregate nominal amount of £19,000 (in addition 
+to the authority conferred in sub paragraph 7.1 above) for 
+the grant or award of further share options or warrants but 
+for no other purpose; and
+  7.3  up to an aggregate nominal value of £37,723 (in addition to 
+the authorities conferred in sub paragraphs 7.1 and 7.2 above) 
+representing approximately 10% of the Company’s issued share 
+capital, provided that these authorities, unless duly renewed, 
+varied or revoked by the Company, will expire on the date which 
+is 15 months from the date of the passing of this resolution or, if 
+earlier, the conclusion of the next Annual General Meeting of the 
+Company to be held after the passing of this resolution, save that 
+the Company may, before such expiry, make offers or agreements 
+which would or might require shares in the Company to be allotted 
+after such expiry and the Directors may allot shares in the Company 
+in pursuance of such an offer or agreement notwithstanding 
+that the authority conferred by this resolution has expired.
+   The authority granted pursuant to this resolution is subject 
+to such exclusions or other arrangements as the Directors 
+may deem necessary or expedient in relation to fractional 
+entitlements, record dates, legal or practical problems in or 
+under the laws of any territory or the requirements of any 
+applicable regulatory body or stock exchange.
+   This resolution revokes and replaces all unexercised powers 
+previously granted to the Directors to allot relevant securities 
+but without prejudice to any allotment of shares or grant of 
+rights already made, offered or agreed to be made, pursuant 
+to such authorities.
+Special resolution
+8.  That subject to and conditional on the passing of Resolution 7, the 
+Directors of the Company be and are hereby authorised pursuant 
+to Section 570 of the 2006 Act to allot equity securities (within the 
+meaning of Section 560 of the 2006 Act) for cash as if Section 561(1) 
+of the 2006 Act did not apply to any such allotment provided that 
+this authority shall be limited to the allotment of shares pursuant to 
+the authorities contained in Resolution 7. This authority, unless duly 
+renewed, varied, or revoked by the Company, will expire on the date 
+which is 15 months from the date of the passing of this resolution 
+or, if earlier, the conclusion of the next Annual General Meeting of 
+the Company to be held after the passing of this resolution, save 
+that the Company may before such expiry make any offer or enter 
+into any agreement which would or might require equity securities 
+to be allotted, or treasury shares sold, after such expiry and the 
+Directors may allot equity securities in pursuance of any such offer 
+or agreement as if the authority conferred by this resolution had 
+not expired.
+By order of the Board
+F&L CoSec Limited
+Company Secretary
+Rosslyn Data Technologies plc
+25 Eccleston Place
+London SW1W 9NF
+16 September 2015
+Notice of Annual General Meeting Rosslyn Data Technologies plc Annual report and accounts 2015 53
+The following notes have been prepared to provide members with information to assess the merits of the resolutions contained within the 
+notice of Annual General Meeting (the “Notice of Annual General Meeting”) convening the Annual General Meeting of the Company to be held at 
+The Viceroy Room, The Grosvenor Hotel, 101 Buckingham Palace Road, London SW1W 0SJ on 28 October 2015 at 11.00am. Capitalised terms 
+used in these notes shall bear the meanings given to them in the Notice of Annual General Meeting.
+Resolution 1 – To receive the annual financial statements (ordinary resolution)
+The Directors will present their report, the Auditor’s Report and the audited financial statements for the financial year ended 30 April 2015 to the 
+meeting. This gives shareholders an opportunity to ask questions on the contents and on the performance of the Company generally. 
+Resolutions 2 and 3 – Re-appointment of the auditor and setting the auditor’s remuneration (ordinary resolutions)
+The Company is required to appoint an auditor at each general meeting at which accounts of the Company are laid before the members of 
+the Company. Grant Thornton UK LLP has indicated its willingness to be re-appointed as auditor of the Company and accordingly Resolution 2 
+proposes that Grant Thornton UK LLP be re-appointed as auditor of the Company. Resolution 3 gives the Directors the authority, in accordance 
+with standard practice, to negotiate and agree the remuneration of the auditor. In practice the Audit Committee will consider and approve the 
+audit fees on behalf of the Board.
+Resolutions 4 to 6 – Election of Directors (ordinary resolutions)
+The Company’s Articles of Association require that any Director appointed by the other Directors of the Company shall retire at the next 
+Annual General Meeting of the Company and also provide that each Director so retiring shall be eligible for re-appointment. Accordingly, 
+Roger Bullen is retiring, and, being eligible, offers himself for election. The Company’s Articles of Association also require one third of Directors 
+to retire by rotation. Accordingly Charles Clark and Edward Stacey are retiring and, being eligible, offer themselves for re-election. Biographical 
+details of each Director can be found within the annual report for the year ending 30 April 2015. The Directors believe that the Board continues 
+to maintain an appropriate balance of knowledge and skills and that the Non-Executive Directors are independent in character and judgement. 
+Accordingly all the Directors recommend that all other Directors be re-elected; however, no Director makes any recommendation in respect of himself.
+Resolution 7 – Authorisation to allot relevant securities (ordinary resolution)
+Under Section 551 of the 2006 Act, the Directors of the Company require the authority of the shareholders of the Company to be able to issue 
+shares in the capital of the Company. This resolution gives authority to the Directors of the Company to allot ordinary shares of £0.005 each in the 
+capital of the Company. Resolution 7.1 allows the Directors to allot ordinary shares in respect of share options and warrants already in existence. 
+Resolution 7.2 permits the Directors to further allot shares up to an aggregate nominal value of £18,850, approximately 5% of the Company’s issued 
+share capital. Resolution 7.3 permits Directors to allot shares up to an aggregate nominal value of £37,700, representing approximately 10% of the 
+Company’s issued share capital. Any further issues of share capital over and above these amounts would require the Directors to seek a fresh approval 
+from shareholders.
+Unless revoked, varied or extended, the Directors’ authorities granted pursuant to this resolution will expire on the earlier of the date which 
+is 15 months after the resolution is passed and the conclusion of the next Annual General Meeting of the Company.
+Resolution 8 – Disapplication of statutory pre-emption rights (special resolution)
+This resolution gives the Directors of the Company the authority to allot equity securities on a non pre-emptive basis solely for the purposes 
+of an allotment of shares in the Company pursuant to an authority given by Resolution 7. It will disapply the statutory pre-emption rights for such 
+allotments until the earlier of the date which is 15 months after the resolution is passed and the conclusion of the next Annual General Meeting 
+of the Company.
+Explanatory notes to the Annual General Meeting notice Rosslyn Data Technologies plc Annual report and accounts 2015 54
+Financial statements
+Further notes
+Annual financial statements
+The Company’s annual financial statements, together with the Report of the Directors and of the auditor, are available to download from the Investors 
+page of the Company’s website (www.rosslynanalytics.com). Shareholders for whom a current address is held will also receive a copy by post.
+Right to ask questions at the Annual General Meeting (AGM)
+Any member attending the meeting has the right to ask questions. The Company must cause to be answered any such question being related 
+to the business being dealt with at the meeting but no such answer need be given if:
+1) to do so would interfere unduly with the meeting or cause confidential information to be disclosed;
+2) the answer has already been given on a website in the form of an answer to a question; or
+3) it is not in the interests of the Company or the good order of the meeting to be answered.
+Shareholders entitled to vote
+Pursuant to Regulation 41 of the Uncertificated Securities Regulations 2001, the Company specifies that only holders of ordinary shares of £0.005 
+registered in the Company’s register of members at 6.00pm on 26 October 2015 (or, if the Annual General Meeting is adjourned, 6.00pm two days 
+prior to the time fixed for the adjourned Annual General Meeting) shall be entitled to attend and vote at the Annual General Meeting in respect 
+of the number of shares registered in their names at that time. Any changes to the Company’s register of members after such time shall be 
+disregarded in determining the rights of any person to attend or vote at the Annual General Meeting.
+Appointment of proxies 
+1.  You are entitled to appoint one or more proxies of your own choice to exercise all or any of your rights to attend, speak and vote at the meeting. 
+A proxy need not be a member of the Company but must attend the meeting in order to represent you. If you appoint more than one proxy, 
+each proxy must be appointed to exercise the rights attached to a different share or shares held by you. You can only appoint proxies using the 
+procedures set out in these notes.
+2.  If you wish to appoint a proxy other than the Chairman of the meeting, please insert their full name in the space provided and delete the words 
+“the Chairman of the meeting or” . Please initial any such alteration. If you hold more than one share you may appoint more than one proxy provided 
+each proxy holder is appointed to exercise rights attached to different shares. A separate form of proxy must be deposited for each proxy appointed. 
+If the proxy is being appointed in relation to less than your full voting entitlement, please enter in the box next to the name of the proxy the 
+number of shares in relation to which they are authorised to act as your proxy; if you sign and return the form and leave this box blank your 
+proxy will be deemed to be authorised in respect of your full voting entitlement.
+3.  To appoint more than one proxy, you may photocopy the form. Please state clearly on each proxy form the number of shares in relation to 
+which the proxy is appointed. Please therefore indicate in the box next to the name of the proxy the number of shares in relation to which they 
+are authorised to act as your proxy. Please also indicate by ticking the box provided if the proxy instruction is one of multiple instructions being 
+given. All forms must be signed and should be returned together in the same envelope. A failure to specify the number of shares each proxy 
+appointment relates to or specifying a number in excess of those held by the member may result in the proxy appointment being invalid. 
+4.  Completion and return of the form of proxy will not preclude you from attending and voting at the meeting in person if you wish. If you do 
+attend the meeting in person, your proxy appointments will automatically be terminated.
+5.  If you want your proxy to vote in a certain way on the resolutions specified please indicate with an “X” in the appropriate boxes. If you fail to 
+select any of the given options your proxy can vote as he or she chooses or can decide not to vote at all. Your proxy can also do this on any 
+other business which may come before the meeting, including amendments to resolutions and any procedural business.
+6.  The “withheld” option on this form of proxy is provided to enable you to instruct your proxy not to vote on any particular resolution. However, 
+a vote withheld is not a vote in law and will not be counted in the calculation of the votes “for” or “against” a resolution.
+7.  In the case of a corporation, this form of proxy must be executed under its common seal or signed on its behalf by its duly authorised officer, 
+attorney or other person authorised to sign.
+8.  In the case of joint holders, the signature of any one holder will be sufficient but the names of all the joint holders should be stated. The vote of the 
+senior joint holder who tenders a vote, whether in person or by proxy, shall be accepted to the exclusion of the votes of other joint holders, and, for 
+this purpose, seniority shall be determined by the order in which the names stand in the register of members in respect of the joint holding.
+9.  To be valid the form of proxy must be completed and signed and received, together with any power of attorney or other authority under which 
+it is signed, by post or (during normal business hours only) by hand to Capita Asset Services, PXS, 34 Beckenham Road, Beckenham BR3 4TU no 
+later than 11.00am on 26 October 2015 (or, in the event that the meeting is adjourned, no later than 11.00am two days prior to the time of any 
+adjourned meeting).
+Explanatory notes to the Annual General Meeting notice 
+continued Rosslyn Data Technologies plc Annual report and accounts 2015 55
+Further Notes continued
+Appointment of proxies continued
+10.  If you wish to change your proxy instruction you should submit a new form of proxy. If you submit more than one valid form of proxy in respect 
+of the same shares held by you, the form of proxy received last will take precedence, provided that any changes to proxy instructions received 
+after the time and date specified in note 9 shall be disregarded.
+11.  If you wish to revoke your proxy appointment you must send a notice to that effect to the Company’s registrars at the address set out in note 9 
+by the time and date set out in note 9. Any revocation notice received after that time and date will be disregarded.
+12.  You may not use any electronic address provided in your proxy form to communicate with the Company for any purposes other than those 
+expressly stated.
+13.  Total voting rights as at 16 September 2015 in the issued share capital of the Company consist of 75,445,814 ordinary shares of £0.005 each, 
+carrying one vote each. Therefore, the total number of voting rights of the Company as at 16 September 2015 is 75,445,814.
+14.  CREST members who wish to appoint a proxy or proxies through the CREST electronic proxy appointment service may do so for the Annual General 
+Meeting of the Company to be held on 28 October 2015 and any adjournment(s) thereof by using the procedures described in the CREST Manual. 
+CREST personal members or other CREST sponsored members, and those CREST members who have appointed a voting service provider, should 
+refer to their CREST sponsors or voting service provider(s), who will be able to take the appropriate action on their behalf. 
+  In order for a proxy appointment or instruction made by means of CREST to be valid, the appropriate CREST message (a “CREST Proxy 
+Instruction”) must be properly authenticated in accordance with Euroclear UK & Ireland Limited’s specifications and must contain the 
+information required for such instructions, as described in the CREST Manual. The message must be transmitted so as to be received by 
+the Company’s agent, Capita Asset Services (CREST participant ID: RA10), no later than 48 hours before the time appointed for the meeting. 
+For this purpose, the time of receipt will be taken to be the time (as determined by the time stamp applied to the message by the CREST 
+Application Host) from which the Company’s agent is able to retrieve the message by enquiry to CREST in the manner prescribed by CREST . 
+  CREST members and, where applicable, their CREST sponsor or voting service provider should note that Euroclear UK & Ireland Limited does 
+not make available special procedures in CREST for any particular messages. Normal system timings and limitations will therefore apply in 
+relation to the input of CREST Proxy Instructions. It is the responsibility of the CREST member concerned to take (or, if the CREST member is a 
+CREST personal member or sponsored member or has appointed a voting service provider, to procure that his CREST sponsor or voting service 
+provider takes) such action as shall be necessary to ensure that a message is transmitted by means of the CREST system by any particular time. 
+In this connection, CREST members and, where applicable, their CREST sponsor or voting service provider are referred in particular to those 
+sections of the CREST Manual concerning practical limitations of the CREST system and timings.
+  The Company may treat as invalid a CREST Proxy Instruction in the circumstances set out in Regulation 35(5)(a) of the Uncertificated Securities 
+Regulations 2001.
+Corporate bodies
+A corporate body may appoint an individual as its representative to exercise any of the powers the body may exercise at meetings of the 
+Company’s shareholders. The representative should bring to the meeting evidence of his or her appointment, unless it has previously been 
+given to the Company.
+Action to be taken
+Shareholders will find enclosed with these notes and the Notice of Annual General Meeting a form of proxy for the Annual General Meeting. 
+Whether or not you intend to attend the Annual General Meeting, you are requested to complete, sign and return the form of proxy in accordance with the 
+instructions printed on it. The completed form of proxy should be returned by post or by hand to Capita Asset Services, PXS, 34 Beckenham Road, 
+Beckenham BR3 4TU so as to arrive no later than 11.00am on 26 October 2015. The completion and return of a form of proxy will not preclude you 
+from attending the meeting and voting in person should you wish to do so.
+Recommendation
+The Directors consider that each of the proposed Resolutions set out in the Notice of Annual General Meeting is in the best interests of the Company 
+and its shareholders as a whole. Accordingly, the Directors unanimously recommend that you vote in favour of the Resolutions, as they and those 
+connected with them intend to do in respect of their own beneficial shareholdings. Rosslyn Data Technologies plc Annual report and accounts 2015 56
+Financial statements
+Share listing
+The Company’s shares are listed on AIM.
+Registrars
+Capita Asset Services
+34 Beckenham Road 
+Beckenham BR3 4TU
+Dividends
+No dividends have been or will be recommended or declared 
+for the year ended 30 April 2015.
+AGM
+The second AGM of the Company will be held on 
+28 October 2015 at 11.00am at The Viceroy Room, 
+The Grosvenor, 101 Buckingham Palace Road,  
+London SW1W 0SJ. 
+Registered in
+England and Wales
+Company number
+08882249
+EPIC/TIDM
+RDT
+ISIN
+GB00BKKX5CP01
+Registered office
+25 Eccleston Place 
+London SW1W 9NF
+Company Secretary
+F&L CoSec Limited
+External auditor
+Grant Thornton UK LLP
+The Explorer Building 
+Fleming Way 
+Manor Royal 
+Crawley RH10 9GT
+Corporate brokers
+Cenkos Securities plc
+6.7.8 Tokenhouse Yard 
+London EC2R 7AS
+Solicitors
+Rosenblatt Solicitors
+9–13 St Andrew Street 
+London EC4A 3AF
+Shareholder information  
+Design Portolio is committed to planting 
+trees or every corporate communications 
+project, in association with Trees or Cities. Rosslyn Data Technologies plc
+25 Eccleston Place 
+London SW1W 9NF
+T: +44 (0) 203 285 8008 
+E: investors@rosslyndatatechnologies.com

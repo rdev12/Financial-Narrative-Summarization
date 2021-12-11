@@ -1,0 +1,525 @@
+ ARM Strategic Report 2015 16
+Simon Segars
+Chief Executive Officer
+In 2015 ARM celebrated its 25th year. From the 
+start, we knew that embedding intelligence into 
+chips to create smart devices was the future of 
+computing. We didn’t know which markets would 
+take off ﬁrst, or how the technology was going 
+to be used, though we always knew that ARM 
+was going to change how and where computing 
+happens, and that this was going to lead to a 
+revolution in the digital products that we all use 
+every day.
+Our ﬁrst real success was in early digital mobile 
+phones. We were in the right place, at the right time, 
+with the right technology. In the early 1990s no one 
+knew that mobile phones were going to become 
+the consumer electronic product that everyone 
+would want to own, or that many semiconductor 
+vendors would want an energy-efficient smart 
+microprocessor to power their mobile phone chips.
+The companies that used our technology in these 
+early chips then started to use ARM processors 
+in chips for other end markets. That led us to 
+invest both in new technology that could be used 
+in powerful applications, and to also invest in 
+applications which needed much smaller processors 
+such as the tiny microcontrollers that will enable the 
+Internet of Things. The result is that ARM technology 
+is now broadly adopted across many devices from 
+sensors to smartphones and, in the future, into 
+servers too. 
+ARM is enabling the companies that will build the 
+chips for this enormous and growing market and we 
+are investing in our business today to take advantage 
+of that opportunity.
+CEO’s strategic perspective
+Investing for long-term growth
+*Based on ARM and market data.
+ARM is becoming 
+increasingly 
+diversiﬁed beyond 
+mobile phones. 
+32%
+*
+ARM’s total  
+market share  
+in 2015
+Mobile  
+computers
+>85%
+Storage
+>90%
+Wearables
+>95%
+Networking 
+infrastructure
+15 %
+Embedded 
+intelligence
+25% We always knew that ARM  
+was going to change how and 
+where computing happens.
+17 ARM Strategic Report 2015 Strategy Performance ce Overv view Financials Com mmitment ARM’s strategy 
+enables the creation 
+of sustainable 
+revenue growth
+This has  
+enabled us to 
+create a sustainable 
+business, ﬁt for  
+the long term
+Adding value 
+to increase 
+royalty revenue 
+per processor
+Entering into  
+new and adjacent  
+markets
+Making it easy  
+for customers to 
+continue to use 
+our products
+Attracting new 
+partners to license 
+our technology
+Helping our 
+customers to  
+increase their 
+market share
+Increasing the  
+number of 
+ARM processors  
+per chip
+Creating new  
+revenue streams  
+from adjacent  
+markets
+Attracting new 
+Partners to license 
+our technology
+Increasing  
+the value of 
+ARM technology  
+in smart devices
+Gaining or  
+maintaining share 
+in long-term 
+growth markets
+ARM Strategic Report 2015 18
+Strategy for long-term growth
+ARM is continuing to invest for long-term sustainable 
+growth. We are investing in our current product 
+portfolio, developing new processors that hit the 
+right performance at the right power and with the 
+right features for both existing and new markets.
+We are investing in new products that will generate 
+new revenue streams; some will be created through 
+organic investments in our engineering teams, and 
+some through acquisitions to accelerate time to 
+market. In 2015 we acquired WiCentric Inc., Sunrise 
+Micro Devices Inc. and Discretix, Inc. (trading as 
+Sansa Security, Inc.), which have expanded our 
+portfolio of products for the Internet of Things. 
+We also acquired the business of Carbon Design 
+Systems, Inc. which provides tools that our 
+semiconductor Partners use to more efficiently 
+design highly complex chips.
+For ARM and our Partners to be successful, we need 
+a broad ecosystem of companies that are building 
+their businesses utilising ARM technology and 
+supporting the ARM architecture. We are investing 
+in this ecosystem to accelerate the adoption of new 
+ARM technology for the markets that we are already 
+in, and also for the markets that we are and will be 
+growing into.
+Investing in new technology is business as usual
+ARM’s business has been created around developing 
+new and innovative technology to meet the demands 
+of future consumer products and enterprise 
+systems. Most of our engineering team is focused 
+on developing the roadmaps for the product-lines 
+that we have today, and we are working closely with 
+market-leading customers to identify their future 
+needs. About 17% of our engineers, led by our CTO, 
+Mike Muller, are looking out even longer term, at 
+what technologies we may be using in  
+10–20 years’ time. 
+We have complemented our own R&D with 
+acquisitions that can accelerate our existing business 
+or become the seed for new technologies and 
+products, servicing new markets and customers. 
+These are often bolt-on acquisitions that we can then 
+scale up to become globally competitive. We also 
+look at more established businesses that may come 
+with existing revenue streams and ecosystems that 
+we can combine with our own.
+Although a lot of this investment is in our engineering 
+teams, we also invest in the supporting people, 
+systems and infrastructure that enable our 
+engineering teams to develop, deliver and support 
+the next generation of products.
+CEO’s strategic perspective
+Continued…
+Creating sustainable growth Overview Commitment Financials Strategy Performance ARM Strategic Report 2015 19
+In the past the vast majority of our people have been 
+devoted to developing technology for the mobile 
+market, and that investment has continued to grow. 
+The mobile market remains important for us in part 
+because many of the products we build for mobile 
+devices end up being used in other markets.
+We are also growing our headcount, with new 
+engineering teams building products speciﬁcally 
+for markets beyond mobile. We have grown this 
+headcount by a factor of three since 2012.
+ARM processor engineering headcount*
+Mobile computing Non-mobile
+12
+13
+14
+2015
+16 forecast
+*Resource allocation based on an estimate of 
+“most likely initial use”. Most ARM technology can 
+be used in both mobile and non mobile devices
+900
+625
+1300
+750
+1600
+1250
+1800
+1625
+550
+1100
+Strategy for the future
+In 2015 we announced our strategy to capture 
+greater revenues in the future by increasing our 
+investments today. In the next few sections, I will 
+outline our strategy in each of our target markets.
+Leadership in mobile computing
+The mobile market remains ARM’s most important 
+market, responsible for nearly half of all ARM-based 
+chip shipments. Although we expect smartphone 
+unit growth to be slower in the future, it remains 
+a major growth driver for ARM over the next 
+few years.
+ARM expanding opportunity in mobile
+The number of chips going into mobile devices, 
+and the sophistication of those chips, is increasing. 
+For ARM, this creates an opportunity to achieve 
+higher royalty revenues from each smart 
+mobile device. 
+Competition amongst smartphone handset vendors 
+is driving innovation. Smartphone vendors now 
+want to introduce a new premium model every 
+year. Therefore, semiconductor companies have to 
+develop more sophisticated chips every year, and 
+are demanding a new platform of ARM technology 
+to develop those chips. ARM is therefore creating a 
+roadmap of products that will provide a complete 
+system of technology on an annual basis to enable 
+each new generation of chips for mobile devices. 
+In 2015, this strategy delivered increased royalty 
+revenue per smart device.
+ARM has been investing in its mobile technology 
+roadmap for nearly 25 years, and we will continue 
+to develop advanced technologies for smart mobile 
+devices. This will enable us to retain a high market 
+share, whilst beneﬁting from higher royalty revenue 
+per chip as companies choose to deploy more 
+advanced ARM technology.
+ARM’s strategy to increase royalty revenue per smart device
+ARMv8-A ARMv8-A is the eighth version of the ARM architecture. It is more 
+advanced than the previous generation, introducing 64-bit computing 
+and improved security features. ARM typically receives a higher royalty 
+percentage from chips based on ARMv8-A technology. ARM started 
+to license this technology in 2009, and by the end of 2015 had signed 
+89 licences with 48 companies. 
+ARMv8-A is gaining share in smartphones and tablets. In 2015 about 
+50% of all smartphones sold were based on ARMv8-A, up from about 
+10% for the whole of 2014. 
+More cores per chip ARM can receive a slightly higher royalty per chip with higher core 
+counts. In 2015 nearly all Android smartphones had an ARM-based 
+application processor that was either quad-core or octa-core. In 2014, 
+nearly all of the chips used in Android phones had an ARM-based 
+application processor that was dual-core or quad-core. So in 2015 
+we saw a signiﬁcant increase in the number of cores per application 
+processor in smartphones, and we beneﬁted from the higher royalty 
+revenue that generated.
+Mali graphics ARM’s Mali graphics processor enables an immersive experience for 
+games and brings user interfaces to life. Initially graphics processors 
+were primarily found in high-end PCs and games consoles. Today, 
+every smartphone has an embedded graphics processor and they are 
+increasingly being designed into vehicle dashboards, cameras and even 
+supercomputers. Mali is also royalty-bearing and has been gaining share. 
+ARM has signed 132 Mali licences with 65 semiconductor companies.
+In 2015 Mali became the highest shipping graphics processor in the 
+smartphone market with a 40% market share. ARM Strategic Report 2015 20
+Accelerating share gains in 
+network infrastructure 
+The networking infrastructure equipment market is 
+an exciting high-value market where we expect to 
+see an increasing deployment of ARM-based chips. 
+Today ARM has a relatively low share of chips 
+shipping into networking infrastructure. However, 
+ARM has been developing technology that can 
+deliver the performance required for the next 
+generation of networking infrastructure equipment, 
+and all of the major semiconductor companies 
+that make chips for this market have licensed an 
+ARM processor. 
+With many semiconductor companies building 
+highly differentiated chips, all based on the ARM 
+architecture, network operators will be able to run 
+the same software across their system regardless of 
+whether it utilises a chip optimised for base-station 
+equipment, a router or a switch. This will make it 
+more efficient for operators to deploy new services 
+across their network, and these services will enable 
+them to generate new sources of revenues.
+During 2015, ARM announced that it was increasing 
+its investment to accelerate its market share 
+in networking infrastructure. These additional 
+investments will be in three areas:
+ARM’s strategy to gain market share  
+in networking infrastructure
+Building better 
+chip technology 
+ARM is investing in the analysis of new 
+workloads that networking chips will need 
+to undertake, which will help our Partners 
+to build more optimised chips and ARM 
+to design more advanced processors 
+and other key technologies for future 
+networking workloads.
+Creation of 
+new software
+Foundational software that operators and 
+enterprises will be using to implement 
+their networks is being developed through 
+industry-wide collaborations. ARM is 
+increasing its investment in some of these 
+collaborations to accelerate the availability 
+of critical components.
+Faster 
+deployments of 
+new technology
+ARM is increasing its engagement with 
+operators and OEMs to help them design 
+these new technologies into future 
+networks, enterprises and data centres.
+Expected result of additional investments
+Increasing investment now will create an opportunity 
+to accelerate our future market share in networking 
+infrastructure. Previously we had indicated that we 
+were targeting our market share in 2020 to be in the 
+range 30–35%. We are now increasing this target to 
+be around 45%.
+Accelerating gains in servers 
+The server market is another new high-value 
+market for ARM technology where we currently 
+have a very low share. Changes within the market 
+are creating new opportunities for ARM’s Partners. 
+Our customers are creating application-speciﬁc chips 
+that are optimised for a speciﬁc set of workloads and 
+thus provide the right amount of performance for 
+lower power than traditional server equipment.
+In 2015, ARM had less than a 1% share of the server 
+market. We have seen progress during the year 
+with six companies manufacturing ARM-based 
+server chips, and we expect another four to start 
+manufacturing in 2016. We have also seen progress 
+in the software ecosystem, with Canonical’s  
+Ubuntu OS software now commercially available, 
+and there are a large number of companies 
+which have ARM-based server software available 
+for developers to start working on. In addition, 
+major server users are evaluating ARM-based 
+technology in cloud deployments, in data 
+centres, in high-performance computing and 
+in enterprise applications.
+For some speciﬁc applications, companies are already 
+seeing the beneﬁts of using an ARM-based server 
+system; see PayPal example in the box below.
+During 2015, ARM announced that it was increasing 
+its investment to accelerate its market share in 
+servers. These additional investments will be in 
+three areas:
+ARM’s strategy to gain  
+market share in servers
+Building better 
+chip technology 
+ARM is investing in the analysis of the 
+workloads that server chips will need to 
+undertake. This will help our Partners 
+to build more optimised chips and ARM 
+to design more advanced processors for 
+future servers.
+Optimising  
+software
+ARM is investing in additional software 
+engineering resources to help accelerate 
+the porting and optimising of software to 
+support ARM-based server systems.
+Faster 
+deployments of 
+new technology
+ARM is increasing its engagement with 
+companies which deploy server technology 
+to help them design ARM-based server 
+systems more quickly.
+Expected result of additional investments
+By increasing investment now we believe that we 
+can accelerate our market share gains in servers. 
+Previously we had indicated that we were targeting 
+our market share in 2020 to be around 20%; we are 
+now increasing this target to be around 25%.
+CEO’s strategic perspective
+Continued…
+Initial server deployment
+PayPal have created a fraud detection 
+system using ARM-based server systems. 
+Compared to traditional data centre 
+equipment there were signiﬁcant savings 
+in cost, power and ﬂoorspace.
+Half the price to buy Seventh the cost to run Tenth the size
+Traditional data centre infrastructure Data centre infrastructure based on ARMv8-A technology Creating new revenue streams 
+from the Internet of Things (Io T)
+The Internet of Things is a potentially huge market 
+consisting of billions of sensors and devices all 
+connected together; embedding intelligence into 
+industrial automation, transport systems, national 
+energy grids, as well as our homes, and potentially 
+enabling a revolution in manufacturing, agriculture, 
+the provision of medical services, and the running of 
+the entire infrastructure of a city.
+The chips that are being deployed into IoT devices 
+are mainly microcontrollers and wireless connectivity 
+chips. These are large and established chip markets 
+where ARM has a growing share. In 2015, our share 
+of the microcontroller market was about 25% and 
+our share of the wireless connectivity chip market 
+was over 60%. ARM processors are therefore being 
+widely adopted as the architecture for many of the 
+chips being deployed to create IoT.
+The Internet of Things can bring huge beneﬁts across 
+the world, but recent history has demonstrated that 
+computer networks can be targeted by hackers who 
+want to disrupt the legitimate users of that network. 
+The Internet of Things has to be built from the 
+beginning with security as a key requirement.
+ARM is therefore investing in new technology that 
+will provide the building blocks for a secure network 
+of embedded devices, and this will help to increase 
+our revenue opportunity from this new market.
+ARM’s strategy to create new revenue 
+streams from the Internet of Things
+Securing the chip
+ARM is investing in technology that will 
+enhance security even for chips costing 
+less than <$1. From early 2016, ARM is 
+introducing new processors designed 
+for microcontrollers and smart sensors 
+that will help secure data inside tiny low-
+cost chips.
+Securing the 
+communications
+In 2015, ARM announced the acquisitions 
+of three companies that have provided the 
+seed for our Cordio radio and mbed OS 
+software. Together these technologies 
+create a communications channel between 
+IoT devices and the network, and also 
+improve the security of that channel.
+Securing the 
+connection to 
+the server
+ARM is investing in its mbed Device Server 
+software that will manage a network of 
+IoT devices throughout their lifetime, from 
+deployment to providing remote updates 
+to retirement.
+In addition ARM is investing to create an ecosystem 
+of Partners that are developing complementary 
+products that utilise ARM’s technology.
+Expected result of additional 
+investments in IoT
+By investing in new technology to help secure 
+the Internet of Things, we have the opportunity 
+to generate additional revenue streams. We are 
+licensing mbed Device Server software as well as 
+getting additional royalty revenue from embedded 
+chips that contain more ARM technology such as 
+processors, physical IP and our new Cordio radio IP.
+Although we are conﬁdent that the Internet of 
+Things is a signiﬁcant opportunity for ARM, there 
+are uncertainties too. We do not know how fast 
+the Internet of Things will grow, how big it will 
+eventually become, or who will be the market 
+leaders. However, we would rather be investing in it 
+now; creating technology that we believe will form 
+a key component for many connected devices, and 
+creating the new ecosystem of companies that will 
+provide the products and systems from which these 
+networks will be formed. We want ARM to be a 
+market leader in the Internet of Things, and the only 
+way to achieve that is to be fully involved.
+Investing to shape  
+the connected world 
+Over the past 25 years ARM’s strategy has been 
+to invest in the energy-efficient technologies that 
+have changed how and where computing happens. 
+Together with our semiconductor Partners, we have 
+helped to shape this connected world. At ARM, we 
+continue to evolve our strategy, and are further 
+investing in new technologies that are taking us 
+into some of the fastest growing and most rapidly 
+changing markets. We believe that the connected 
+world in which we live will lead to increasing market 
+share, increasing revenues and a sustainable business 
+ﬁt for long-term success.
+Simon Segars
+Chief Executive Officer
+Connected embedded devices are becoming critical 
+components in business networks, providing new revenue 
+opportunities for many companies, such as street-side electric 
+vehicle charging points. This is also creating new opportunities 
+for cyber criminals to disrupt markets to steal information or 
+siphon away money. ARM’s mbed Device Server will help to 
+improve the security in an IoT network.
+Overview Commitment Financials Strategy Performance ARM Strategic Report 2015 21 Find out more about innovation  
+in the automotive industry, visit: 
+www.arm.com/markets
+22 ARM Strategic Report 2015
+Making journeys 
+safer and smoother
+Technology can make journeys by car even safer. 
+Cameras inside the car can warn the driver if 
+they are showing signs of tiredness, or becoming 
+distracted. Cameras outside the car look to 
+understand what may be happening and provide 
+additional information to the driver; identifying 
+road signs, or whether a lane is accidentally being 
+crossed, or another vehicle might be in the driver’s 
+blind spot. Eventually this may lead to a car that is 
+capable of driving itself.
+By 2020, we estimate that the market for smart 
+automotive chips will be more than $15 billion, 
+including infotainment, assisted driving technology 
+and improved safety features. By communicating with 
+each other, cars can give 
+immediate information 
+about speed and location, 
+and alerts when braking 
+or changing lane.
+Cars will be more 
+self aware, improving 
+blind spot detection, 
+lane following and 
+collision avoidance.
+Roadside signs will provide 
+additional information about 
+traffic conditions ahead.
+23 ARM Strategic Report 2015 Performance Ove Ove Ove Ove Ove Ove Ove Ove e Ove Ove Ov Ove Ove ve ve Ove Ove Ove Ove Ov Ov Ove O Ove e O O e Overvi rvi rvi r rvi rvi rvi rvi rvi rv rvi i rv rvi rv rv vi v rv r r r rvi v r r ew ew ew ew ew ew ew w ew ew ew ew e ew e ew e ew e ew w Str Str Str Str Str Str Str Str Str Str Str r St tr St S St Str Str Str S S S Str Str Str t S S r r tr Str Str St S Str rate ate ate ate ate ate ate ate t t ate at ate ate ate ate ate ate ate ate ate e at a ate e ate at ate a ate a at tegy gy gy gy y gy gy gy gy gy gy gy y gy y g g gy gy g g gy gy gy gy gy y gy g gy g gy gy gy gy y gy y gy y gy Fin Fi Fin in F Fin Fin Fin Fin Fin Fin Fin Fin Fin Fin Fin n Fin Fin n F Fi in Fin n n F Fin n Fin n Fin Fin Fin i anc anc anc anc anc anc anc anc c anc anc anc n anc anc anc a an anc an nc anc nc n n anc c anc n anc nc c anc anc anc an an ancial al ial ial ial ial ial ial ial ial ial ial al ial ial al al l l i ial a a a al ial al ial al ial l ial l al ls s s s s s s s s s s s s s s s s s s s s s Com Com Com Com Com Com Com Com Com Com om C Com Com Com Com Co om Com Com Com C Com Com Com Co Com Com C Com Com Com m Co om Com C Co om C C C m Com m C Commit mit mit mit mit mit mit mit mi mit mit mit mit mit mit mit mi m mit mit mit mit t t mit mit m mi m mit t t t m m mi m m mit i it it tmen men men men men men e men men men men men men men n men men e men n men m me men e e en n men me men men men en en me men me m men me e men nt t t t t t t t t t t t t t t t t t t t t t t t t t t t

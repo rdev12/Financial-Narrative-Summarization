@@ -1,0 +1,519 @@
+ 6
+This has been a successful year for ARM and 
+an exciting year for me. On 1 July 2013, I 
+succeeded Warren East to become ARM’s 
+Chief Executive Officer and lead the Group 
+through its next stage of development. In his 
+12 years in charge, Warren oversaw:
+  ARM’s strategy to transform mobile 
+phones into smartphones and evolving 
+into tablet computers.
+  ARM technology being chosen for 
+use beyond mobile devices, with our 
+customers deploying ARM-based chips 
+in everything from sensors to servers.
+  More than 45 billion ARM-based chips 
+shipped by 150 companies during 
+his tenure.
+  ARM broadening its technology offering to 
+include a range of processors for different 
+end markets, including graphics processors, 
+and supporting physical IP technology and 
+software tools.
+2013 was my 23rd year at ARM, as I was 
+one of ARM’s original handful of engineers 
+embarking upon a new business designing 
+processors. That small business has now 
+grown into a global technology leader 
+with 2,833 employees. ARM’s success over 
+the years is in no small part down to our 
+collaborative approach in how we manage 
+ourselves internally and in how we work with 
+our industry partners. 
+As the new CEO of ARM, I know that 
+retaining our leadership position is going to 
+be, at times, both challenging and exciting. 
+I am very grateful for the guidance and 
+support I have received from our Chairmen 
+(both retiring and incoming) and my 
+colleagues on the Board since I took on the 
+CEO role. The hard work and support of our 
+executive team and all of ARM’s employees 
+has also been significant to our continuing 
+success, as is the trust of our Partners that 
+ARM will continue to provide them with the 
+best technology for their products. The future 
+holds even more opportunity for ARM and 
+for our Partners as they invest in innovation, 
+and create technologies for decades to come.
+cH ieF executive’ S Statement
+viSiOn FOr tHe Future
+ARM Holdings plc
+Strategic Report 2013 7
+From mobile phones to the internet 
+of things
+ARM technology can be found in billions of 
+mobile and connected devices. In 2013 alone 
+more than one billion smartphones shipped, 
+growing the installed base to approximately 
+two billion, and the smartphone market 
+is forecast to grow at a 10% Compound 
+Annual Growth Rate (CAGR) over the 
+next five years. 
+The impact of mobility and connectivity 
+brings new levels of freedom to consumers 
+to access their data, and much more besides. 
+New products and services have been 
+created, such as downloadable apps and 
+content, and devices that can be wirelessly 
+attached to or controlled by a smartphone. 
+Expanded mobile networks are being 
+deployed and new data centres are being 
+developed as we download more content 
+and generate more data. And now other 
+products and devices are being connected 
+to networks such as healthcare equipment, 
+shipping containers, white goods in the 
+home, industrial equipment and even light 
+bulbs. T ogether, these factors are leading to 
+the creation of a massive “Internet of Things”.
+internet of thin gs
+T o better understand the business drivers for 
+the Internet of Things, we commissioned a 
+report from the Economist Intelligence Unit. 
+Go to www.arm.com/IOT to download 
+the report.
+Go to www.arm.com/IOT  
+to download the report.
+ARM is well positioned to take advantage 
+of the growth in the mobile devices market, 
+to benefit as new networks and data centres 
+are built, and to be the primary technology 
+within embedded computing and the 
+Internet of Things.
+meeting global challenges
+Digital technology based on smarter 
+electronics has played a huge role in making 
+today’s society a better place for all of us. 
+Technology has an even greater role in the 
+challenges that lie ahead. Over the next few 
+pages we look at some of those challenges 
+and how technology is already helping to 
+overcome them.
+One of the best things about being 
+CEO of ARM is seeing our 
+technology used in many of the most 
+innovative products available today. 
+Simon Segars
+Chief Executive Officer
+Our vision Our Performance Our Commitment Our Financial Report ARM Holdings plc
+Strategic Report 2013
+8
+For more information on technology in health and wellness: 
+Daniel Kraft, MD, presenting the “Future of T echnology in 
+Health & Medicine” at ARM’s T echCon 2013
+For more information on how ARM and HP are working together 
+in this area: Martin Fink, CTO HP Labs, presenting on “The New 
+Style of IT & HP’s Moonshot” at ARM’s T echCon 2013
+For more information on how the internet of things can make 
+the world a better and more efficient place: Nandini Ramani, 
+VP Java Platform at Oracle presenting “Enabling Compelling 
+Services for IoT” at ARM’s T echCon 2013
+HP Moonshot: Based on chips using the 
+ARMv7 and ARMv8 Architecture 
+With nearly 10 billion devices connected to 
+the internet and predictions for exponential 
+growth, we’ve reached a point where the 
+space, power , and cost demands of traditional 
+technology are no longer sustainable. 
+HP Moonshot marks the beginning of a new 
+style of IT that will change the infrastructure 
+economics and lay the foundation for the next 
+20 billion devices.
+Health and wellness 
+Many of us are trying to improve our 
+health and fitness by being more active. 
+Some devices now monitor our activity 
+and location, and measure how much we 
+have exercised and how many calories we 
+have burned. These devices can be a useful 
+motivator to encourage us to go for a walk 
+and get some exercise, especially if we have 
+been sat in the office all day. Other devices 
+can be used to provide security for those that 
+are potentially vulnerable such as older people 
+at risk of illness or falls, or young children.
+energy efficiency in networks 
+With smartphones and tablets growing 
+rapidly and the introduction of new devices to 
+connect to the internet, we are entering an age 
+of hyper-connectivity . It is forecast that there 
+will be a five-fold increase in data transferred 
+globally between 2012 and 2017. This is 
+reshaping the requirements for networking 
+infrastructure and our data centres that must 
+carry and store all this data. T o avoid an 
+unsustainable increase in energy consumption 
+and carbon footprint, it is no longer enough to 
+just build “more performance”, operators and 
+equipment must provide “more performance 
+per watt”.
+environment 
+Managing and monitoring the use of natural 
+resources becomes increasingly important 
+as the world’s population grows, and the 
+standard of living increases. Therefore it is 
+important that we maximise the benefit from 
+cultivated land and the use of water and 
+energy, whilst minimising the harmful impact 
+from pollution and waste. Smart electronics 
+can be used to monitor and control the use 
+of critical resources, and ensure that the right 
+amount of water and nutrients is applied to 
+crops. Using cloud-based computing, these 
+sensors can be linked together across very 
+large areas to maximise the productivity of 
+farms and regions.
+cH ieF executive’ S Statement CONTINUED
+ARM-based Pebble Smartwatch
+It was the Pebble that has made the world 
+interested in Smartwatches, with its incredible 
+innovation and great style. Wearers want 
+a watch that connects seamlessly to their 
+devices and can run for days so they can enjoy 
+all the benefits of their smart watch without 
+worrying about performance or battery life.
+Intelligent Agriculture with OnFarm
+OnFarm provides intelligence to farmers 
+to improve their yields and reduce the use 
+of consumables such as water , fertiliser and 
+pesticide. This is achieved by gathering data 
+from multiple sources, including sensors 
+placed in and around crop fields and orchards. 
+With the innovation taking place around 
+ARM-based sensors and the emergence of 
+low-cost and long-range wireless technologies, 
+we see lower-cost devices being deployed in 
+vast numbers to provide granular data to the 
+agricultural industry. 9
+Our vision Our Performance Our Commitment Our Financial Report
+For more information on how Streetline is making parking 
+smarter near you download the Streetline’s Parker app
+For more information on how the Scope tablet is being used 
+in Thai schools: ARM technology is addressing many of the 
+world’s challenges, including education
+For more information on how ARM technology is encouraging 
+innovation around the world: Simon Segars, ARM CEO, 
+presenting his vision for transformative technology at ARM’s 
+T echCon 2013
+Smart Parking with Streetline Networks
+Smart parking reduces traffic and pollution, 
+making happier citizens and more cost- 
+efficient cities. Dust Networks’ wireless 
+mesh network solution, featuring the ARM 
+Cortex
+®
+-M3 processor , enables Streetline 
+Networks to reliably gather the real-time 
+status of municipal metered parking spots, 
+and use that data to reduce traffic congestion.
+Improving education in Thailand with tablets
+The “One T ablet Per Child” (OTPC) policy 
+was launched by Prime Minister Yingluck’s 
+government in 2012 in an attempt to improve 
+Thai education. In 2013, OTPC tablets were 
+provided to the Ministry of Education by firms 
+including Shenzhen Scope, featuring Rockchip 
+RK3066 with dual-core ARM Cortex-A9 
+processor and quad-core ARM Mali-400 MP4 
+Graphics Processing Unit (GPU), with an 
+average cost of around $80 per tablet.
+t ransport 
+In 2008, for the first time in history, over 
+half of the world’s population lived in urban 
+areas and by 2050 this will have risen to 
+70%. Congestion is already a huge problem 
+in many cities, especially in peak commute 
+times. By building intelligence into transit 
+systems and cars, we can make our public 
+transport and private car travel much more 
+efficient. With smarter infrastructure that 
+knows the location of vehicles, and can 
+communicate with them, we can increase the 
+capacity of existing roads and railways, and 
+predict and plan the best routes for travellers, 
+directing vehicles away from accidents or 
+overloaded intersections. 
+productivity through education
+Many parts of the education system haven’t 
+changed for many years, and no longer match 
+the needs and expectations of a modern 
+child, leading to a lack of engagement. At the 
+same time, a large number of children have 
+very little access to information, leading to 
+fewer opportunities for a good education. 
+Some educations systems are looking 
+to both reach a wider audience and to 
+effectively engage with them through the 
+use of technology.
+productivity through lowering 
+the barrier to entrepreneurship 
+New products and services are created 
+when entrepreneurs see an opportunity to 
+enter a new market with the resources to do 
+something about it. Over the last few years 
+computing has become more accessible, so 
+creating a new ARM-based product has never 
+been easier for more people. This is helping 
+to drive a new era of innovation.
+Making (almost) anything with a 3D printer
+Robox
+®
+ is CEL’s 3D printer. You can print 
+with many materials to create solid, usable 
+3D objects and prototypes. It contains an 
+Atmel ATSAM3U2EA microcontroller, 
+powered by an ARM Cortex-M3 processor. ARM Holdings plc
+Strategic Report 2013
+10
+enabling innovation at arm
+ARM employs some of the most creative and 
+innovative people in the industry, who have 
+the vision and drive to develop and deploy the 
+best technology. T ogether with our partners 
+we are developing some of the technology 
+that can make the world a better place for 
+everyone. The ARM team is bound together 
+by a set of principles and behaviours by which 
+we operate. These principles and behaviours 
+have evolved as the Group has developed, 
+and still hold true today. 
+We consider the following as essential 
+elements of the behaviour of an ARM 
+employee in whatever discipline they work: 
+teamwork and selflessness; constructive 
+proactivity; partner and customer focus and 
+responsiveness. In addition, we encourage all 
+employees to take pride in innovation and in 
+their own self-development. 
+The focus of our business model is to create 
+technologies that are well suited for many 
+Partners to use in a diverse range of markets. 
+The creativity of our employees therefore 
+rests in our ability to listen to 
+and understand the needs of our 
+semiconductor and OEM Partners. We then 
+combine their inputs with our own research 
+to create the next generation of our 
+technology designs. This close collaboration 
+with our Partners requires the ARM team 
+to be open to new ideas and suggestions. 
+Internally we encourage managers to take 
+a consensual approach to leading teams, 
+and as those individuals become successful, 
+so we are developing the leaders who will 
+manage the Group within ARM’s broad and 
+diverse ecosystem.
+More than two-thirds of ARM’s employees 
+are engineers, specifying and inventing 
+new technology to be licensed. ARM’s 
+non-engineering employees focus on the 
+deployment of this technology; marketing and 
+sales maintain the essential relationships with 
+our Partners, legal and licensing teams support 
+negotiations, infrastructure teams provide the 
+delivery mechanisms, finance teams manage 
+financial matters, and HR teams support the 
+ongoing development of a high performance, 
+high engagement organisation in which our 
+people can innovate, collaborate and grow.
+Many of our customers are global 
+semiconductor companies, which clearly 
+requires an international focus. T oday we 
+have 31 offices in 15 countries, with R&D 
+development sites in UK, US, China, France, 
+Germany, T aiwan and India. We have 
+a strong culture of encouraging internal 
+communication and interworking between 
+sites. We believe strongly in spending time 
+with our customers and have established 
+offices in the major regions where our 
+customers develop ARM-based products. 
+These shared principles and behaviours have 
+evolved over the last 23 years, during which 
+the ARM team has increased to provide 
+technology to the growing ecosystem of 
+Partners. These shared principles still guide 
+us today and I am confident that they will help 
+the ARM team to continue to develop, create 
+and license technology for years to come.
+  Delivery of results
+  T eamwork and selflessness
+  Constructive proactivity
+  Partner and customer focus
+  Responsiveness
+  Innovation
+  Personal development
+We are  
+Supp Orte D By 
+  Families
+  Communities
+  Local government
+  Suppliers
+  Investors
+We Supp Ort 
+  100s Customers
+  1,000s 
+ecosystem partners
+  1,000,000 Developers
+  Listen and understand 
+customer and Partner needs
+  Partner and customer focus
+  Responsiveness
+  Being a good neighbour to 
+local communities
+  Increasing shareholder value
+external
+arm ’S SHare D principle S an D BeHavi Our S
+2,833  
+empl OyeeS
+internal
+Multi-discipline teams work 
+together to determine strategy
+Manage across diverse companies 
+and ecosystem
+cH ieF executive’ S Statement CONTINUED 11
+Our vision Our Performance Our Commitment Our Financial Report
+Enabling innovation everywhere
+The use of digital technology and smarter 
+electronics will continue to grow as we meet 
+the increasing demands of society, and as 
+previously unconnected devices become 
+smarter and connected into the digital world. 
+This is creating a huge opportunity for the 
+semiconductor industry, and ARM is well 
+positioned to benefit both from increasing 
+sales of computer chips, and also increasing 
+our market share with our smart, power 
+efficient technologies. 
+Mobile communications and mobile 
+computers were just the first markets to 
+need smart electronics, and almost all mobile 
+devices sold today contain at least one 
+ARM-based chip. The smartphone market 
+grew by about half in 2013, with many 
+consumers upgrading from voice-only phones. 
+Over the next few years, the smartphone 
+and mobile computer markets are expected 
+to continue to grow strongly, especially in 
+emerging markets where mobile computers 
+can become an essential tool for education, 
+business and supporting community projects.
+As other devices become smarter and 
+the need for power efficiency increases in 
+other markets, so our opportunities grow. 
+During 2013, we saw high numbers of chips 
+containing our technology being sold into 
+enterprise networking, and the first ARM-
+based server chips sold. We expect these 
+markets to become increasingly significant to 
+us over the next few years.
+ARM is also seeing strong growth in chips for 
+embedded computing that go into a wide 
+range of end applications, from washing 
+machines to robotics. These chips are often 
+very low cost, and sell into a very broad range 
+of markets that add up to huge volumes. 
+In 2013 more than three billion ARM-
+based chips were sold into these products, 
+an increase of 35% on the previous year . 
+Many companies are investing in innovation 
+into these categories of chips to meet the 
+needs of the Internet of Things. In 2013, 
+ARM licensed Cortex-M class processors to 
+47 companies. This market could grow to 
+30 billion chips by 2018.
+Organising for an increasing opportunity
+As ARM technology is increasingly deployed 
+by more companies into more applications, 
+we need to ensure that ARM is organised to 
+meet the challenges of higher expectations 
+from more customers and more end markets. 
+At the beginning of 2014 I restructured 
+the Group to create an organisation that 
+is more scalable and more accountable; 
+one that will offer our customers a more 
+joined-up product portfolio, ensuring better 
+integration of our technologies in our 
+customers’ products. We therefore no longer 
+have separate divisions, but instead a single 
+product development team consisting of 
+seven product groups, all reporting into Pete 
+Hutton, EVP and President Product Groups. 
+Pete will be responsible for the integrated 
+product development and delivery of ARM’s 
+business lines. In addition, he will manage two 
+cross-functional teams that will help ensure 
+alignment between the product groups’ 
+roadmaps and execution.
+These product groups will be further 
+supported by Antonio Viana, EVP and 
+President of Commercial and Global 
+Development, who manages our commercial 
+team, and Ian Drew, EVP and Chief Marketing 
+Officer . T ogether Antonio and Ian will 
+develop the ecosystem of companies that is 
+so important to ARM’s long-term success.
+Well positioned for the future
+ARM’s expertise, technology, business 
+model and ecosystem mean that we are well 
+positioned to take advantage of the growing 
+opportunity as technology meets some of 
+the key challenges that face society. We are 
+also continuing to investigate new markets 
+and opportunities, as well as developing the 
+skills and capability of ARM’s employees so 
+that they can develop the next generation of 
+technology that will enable our customers 
+to create innovative products.
+ARM gains share as our customers use more 
+of our technology in their chips. We work 
+very closely with leaders across the industry 
+to ensure we are developing the right 
+technology for their designs. This collaborative 
+approach comes from ARM’s own internal 
+culture and is something we carefully 
+manage as we grow in size, both in terms of 
+increased headcount and market influence 
+and responsibility.
+As the new CEO of ARM, I am excited by 
+this opportunity. I am confident that ARM’s 
+expertise, together with our Partners’ 
+creativity and diversity, means that we will 
+be at the forefront of the new products and 
+services that will help to make the world a 
+better place for everyone.
+Simon Segars
+Chief Executive Officer
+  Architecture
+  CPU
+  Physical Design
+  Media Processing
+  Systems & Software
+  Development Solutions
+  Partner Enablement
+cOmmercial OperatiOn S
+t ec Hnical OperatiOn S ARM Holdings plc
+Strategic Report 2013
+12
+“Wearable” technology is helping to keep us fit and healthy. Many people 
+use ARM-based digital pedometers to keep track of steps travelled and 
+calories burned. These devices may be synchronised with a smartphone app 
+that can record the calories consumed, and so give information to keep us 
+healthy and motivated. Keep on running.
+More information about embedded ARM-based devices can be found 
+on pages 32–37 and also online.
+www.arm.com/reporting2013
+Helping
+peOple perFO rm 13
+Our Vision Our performance Our Commitment Our Financial Report

@@ -1,0 +1,114 @@
+ FINANCIAL  
+PROGRESS
+Financial highlights
+$2.6m
++3%
+Net cash ($m)
+0.1
+2.5
+2.6
+11
+$(16.0)m
+-11%
+Adjusted EBITDA
+2
+ ($m)
+0.1
+15
+14
+12
+13
+11
+(3.0)
+(7.8)
+(17.9)
+(16.0)
+$11.0m
+-2%
+11 3.9
+Revenue ($m)
+12 6.0
+13 8.0
+14 11.2
+15 11.0
+4.5
+$34.6m
+-4%
+11
+Cash overheads
+1
+ ($m)
+12 11.4
+13 21.7
+14 36.0
+15 34.6
+Big Data
+• New WANdisco Fusion (“Fusion”) 
+product launched
+• Customer base expanded from 10 to 26
+• Customer wins with integrations to both 
+Hadoop distributors and non-Hadoop storage 
+platforms including HPE and Oracle
+• First six Big Data customers have gone live
+• Five scale-up contract expansions
+Application Lifecycle Management (“ALM”)
+• Refocus on Subversion open source 
+version control
+• Refocused sales and marketing focus 
+brought improved sales towards the 
+end of the year
+• Profitability (excluding central 
+overheads) achieved 
+Operational and strategic highlights
+1  Operating costs, excluding cost of sales, plus capitalised 
+product development costs. Annualised cash overheads 
+reduced to approximately $25m by March 2016 
+(31 December 2014: approximately $40m).
+2  EBITDA loss excluding equity-settled share-based payment, 
+capitalised product development costs, acquisition-related 
+items and exceptional items.
+12 14.5
+13 25.7
+14
+15
+WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015 02
+FINANCIAL AND OPERATIONAL HIGHLIGHTS Leading US health 
+and life insurer
+For disaster recovery, recovered data 
+has to be synchronised with live 
+“production” data across its cluster 
+of servers. 
+In addition there is an ingest (capture) and 
+analysis use case – data is continuously 
+captured and continually accessed, with 
+WANdisco’s Fusion ensuring that neither 
+activity impinges on the other. 
+Fusion has achieved results not 
+possible with open source Hadoop. 
+The company sets great store by 
+Fusion achieving this without adding 
+significant workload to computing 
+operations… and concluding the 
+implementation in under a month.
+FIND OUT MORE ABOUT OUR STRATEGY 
+ON PAGE 14
+Fusion sits in front of our cluster, and replicates without having to do reads from inside the 
+cluster. WANdisco’s Fusion adds almost zero overhead to our production cluster, whereas if 
+you use “DistCp” as part of open source Hadoop, you are going to put extra file system load 
+on your cluster and that is going to impact you.
+We ingest all of our raw data, then we transform it and, from there, we use Fusion to replicate 
+it into our analytics cluster. As quick as we’re ingesting it, it becomes available for analytics.
+We do extensive analytics algorithms that are very invasive to our operational cluster. 
+Without Fusion that would have been a very difficult problem to solve. We would have had 
+to scale our operational cluster to an extreme amount to be able to run queries at the same 
+time as ingests and transformations. It would have scaled to a point that was untenable.
+We were able to implement Fusion from start to finish without a proof of concept, 
+and without a whole lot of upfront planning, in less than four weeks.  
+Manager, Database Platform and Engineering
+<4
+weeks’ implementation time
+100%
+uninterrupted data capture
+ANALYTICS AT SCALE
+OVERVIEW
+03 WANDISCO PLC ANNUAL REPORT AND ACCOUNTS 2015

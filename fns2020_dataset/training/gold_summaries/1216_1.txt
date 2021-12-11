@@ -1,0 +1,244 @@
+ 2002 was a challenging year for our industry and for ARM. 
+The strength of our Partnership business model and the
+passion and commitment of our employees, however, enabled
+us to finish 2002 a significantly stronger company than at the
+end of the previous year.
+6 ARM Annual report and accounts 2002
+Chief Executive Officer’s review
+Partnerships 
+Our Partnerships continue to be a key ingredient in our
+commercial success. During 2002, we signed 33 new
+Partners and 70 new licences: 46 multi-use licences and
+24 per-use licences. Of the 33 new Partners signed
+during the year, 23 took per-use licences through our
+Foundry Programme. At the end of 2002, we had 108
+semiconductor Partners compared with 77 at the end 
+of 2001. 
+In the fourth quarter of the year, US-based company
+Flextronics, one of the world’s largest providers of
+electronics manufacturing services, became the first
+licensee in our new Approved Licensing Programme. 
+This enables Flextronics to sub-license ARM products 
+as part of a wider design services offering.
+Significant opportunities exist to license our technology
+to new Partners and to license new technology to our
+existing Partners; for example, in the fourth quarter 
+we announced that LSI Logic, Qualcomm and Texas
+Instruments were among the first five licensees 
+of the ARM1136J-S processor, the first core from 
+the ARM11 microarchitecture, based on the ARMv6
+architecture. In addition to licensing products on a per-
+use basis, we also license non-Central Processing Units
+(CPUs), which include hardware platforms, application
+software, models and peripherals, to new and existing
+Partners.
+The revenue from the licensing of non-CPU technology
+increased during the year to £12.6 million, compared
+with £11.9 million in the previous year. The PrimeXsys
+TM
+Platform, which we launched in 2001, and which
+enables licensees to improve the time-to-market of their
+application solutions, had been licensed to four Partners
+by the end of 2002. During the year, we also announced
+the availability of the PrimeXsys Dual Core Platform,
+which is primarily for use in networking applications.
+In 2002, the proportion of licence revenues earned from
+existing Partners increased to 89%, from 80% in 2001,
+and, as our Partner base grows and the number of
+available products extends, our ability to sign upgrade
+and derivative licences will increase.
+The Foundry Programme
+Our Foundry Programme, which we introduced in 2000,
+continued to expand. Under this Programme, we make
+our technology available to small “fabless” companies
+(companies which do not have the facility to fabricate
+silicon), by licensing it on a per-use basis. The fabless
+companies then have their chips manufactured by 
+one of our Foundry Partners. During the year, four 
+more foundries joined the Programme, making a 
+total of seven. 
+Our first per-use licensee began shipping ARM Powered
+®
+devices in the first quarter of 2002; by the end of the
+year the number of per-use licensees shipping product
+had increased to six. Four of our 19 cores which are
+available for multi-use licensing have been introduced
+into the Foundry Programme.
+When we established the Programme, we envisaged
+that some per-use licensees would upgrade to multi-use
+licences and, to date, four have done so.
+The Programme’s lower up-front licence fees, but 
+higher per-unit royalties, have attracted a large number
+of Partners and have, therefore, increased the number 
+of licences sold without having an adverse impact on
+the pricing of our multi-use licences.
+Royalties and unit shipments
+During 2002, our semiconductor Partners shipped a total
+of 456 million ARM core-based devices, earning total
+royalty revenues of £26.8 million. Royalty revenues are
+affected by many factors, including the number of ARM Partners shipping and the mix of core-based chips being
+sold; the newer cores tend to generate higher per-unit
+payments. Of all the ARM core-based chips sold, 93%
+have been based on ARM7 technology but, as royalties
+are earned on more recent ARM9, ARM10 and ARM11
+core-based chips, we expect the average royalty per
+chip to increase. In the longer term, chips sold by per-
+use licensees will have a positive impact on the average
+royalty rate, reflecting the different business model
+deployed in the Foundry Programme.
+Royalties are now being earned from products being
+shipped in all target end markets – automotive,
+consumer entertainment, imaging, mass storage,
+microcontrollers, networking, secure and wireless. 
+The wireless market, in which we include personal
+organisers, continued to be the largest contributor to
+royalty revenues, accounting for approximately 64%
+(11% of total revenues). 
+Development Systems
+After a very strong start to the year, sales of
+Development Systems slowed and ended the year at
+£23.1 million, marginally down on the £23.3 million
+reported in 2001. Encouragingly, however, sales of the
+RealView
+®
+Development Solution, which is an important
+indicator of the level of ARM technology-based
+development activity, were up year on year. The
+RealView Development Solution provides a complete
+software development solution for creating applications
+based on our architecture.
+We expect our recently-introduced RealView tools to
+have a positive effect on sales in 2003. Revenues from
+the sales of Development System products illustrate the
+global reach of the ARM
+®
+architecture: 40% are sold in
+East Asia, 31% in Europe and 29% in the US; 30% of
+these were sold through our network of distributors.
+Product development
+Research and development continues to be high on our
+agenda. ARM was built on innovation and the new and
+exciting products we develop will be the key to our
+future success. Our objective is to deliver competitive
+advantage to our Partners in all the end markets they
+target. In 2002, our investment in research and
+development increased by 25%, to £48.7 million, 
+and represented 32% of sales.
+In the fourth quarter of 2002, we made the first
+deliveries of the ARM1136J-S core, which is designed 
+to meet the low-power needs of battery-powered and
+high-density embedded applications, and is ideal for
+innovative applications in networking, wireless,
+automotive and consumer entertainment.
+I congratulate the engineers who worked on the
+development of the ARM1136JF-S core, which was
+recently voted IP Processor of 2002, by the analysts 
+of Microprocessor Report.
+During the year, we launched the ARM11 PrimeXsys
+Platform for wireless applications, and the PrimeXsys
+Dual Core Platform for networking applications. These
+platforms provide system developers with all the
+hardware, software and verification IP necessary 
+to design a system on chip (SoC). We also announced 
+a technology collaboration, aimed at prolonging the
+battery life of mobile devices, with National
+Semiconductor.
+Our technology has been licensed to many of the world’s
+leading semiconductor companies and many of our
+Partners have demonstrated their confidence in it by
+increasing the number of products they license from 
+us. Around two-thirds of the top 150 semiconductor
+companies have not yet, however, licensed our
+technology. These opportunities that exist, combined
+with the flexibility of our licensing models and the ARM
+total solution offering, combine to give us confidence 
+in the future.
+Warren East Chief Executive Officer
+ARM Annual report and accounts 2002  7 8 ARM Annual report and accounts 2002
+Review of operations
+forging
+relationships
+The Partnerships we have formed with major
+semiconductor companies, such as Philips, Texas
+Instruments (TI) and Toshiba, have served us well and
+continue to do so. TI, for example, was one of the first
+licensees of the ARM1136J-S product, while Toshiba and
+Philips were two of more than 25 Partners to sign up to
+provide support and technical contributions towards the
+development of the next generation of AMBA™ 3.0
+technology, an established industry methodology for
+system-on-chip (SoC) module assembly. 
+Our overriding culture of meeting the market’s
+constantly evolving needs has led us to develop 
+a number of different styles of Partnership. These range
+from our original business model, under which we
+license our microprocessor cores, to our Foundry
+Programme, which was developed to enable smaller,
+fabless, companies to benefit from our expertise.
+Whereas our larger Partners license our technology 
+on a multi-use basis, the smaller, and typically one-
+product, companies license our IP on a per-use basis.
+They produce silicon through one of our seven Foundry
+Partners (wafer fabricators), which hold licences to
+manufacture using our cores. This enables these smaller
+companies to mitigate risk and to bring their ARM
+Powered products to market quickly.
+More recently, a newer type of Partner has emerged
+to participate in the ARM Approved Licensing
+Programme. This programme enables Partners 
+to sub-license ARM core technology and, thereby 
+to provide their customers with end-to-end services. 
+The benefits to these customers, principally original
+equipment manufacturers (OEMs), of dealing with one
+party for IP , design and manufacturing are lower costs
+and improved time-to-market. Our first Partner in this
+new programme is US-based Flextronics Semiconductor.
+Our Subscription Licence model, which we developed 
+for some of our larger Partners, enables them to pay 
+an annual fee and to use our IP during that period. 
+This saves time and legal costs because Partners are
+able to access our technology on demand under a single
+legal agreement. It also helps us to promote the use of
+our IP in these companies because it gives development
+groups which are planning new designs, quick and easy
+access to our technology.
+Our ARM Technology Access Programme (ATAP)
+extended and formalised our relationship with design
+service companies which, by specialising in designing
+SoC implementations, enable product development
+teams to focus on differentiation and adding value. 
+We verify that each centre is able to meet the needs 
+of the growing number of our Partners which choose 
+to outsource all, or part of, their design or manufacturing
+activities. 
+We introduced a further initiative, our Approved Training
+Centre (ATC) programme, to extend and formalise existing
+relationships. This increases the number of organisations
+which are authorised to provide ARM training. We give
+their teaching staff intensive training and monitor 
+them regularly to ensure that they continue to meet 
+our standards.
+ARM’s many types of Partners include an entire
+community of organisations which align their products
+and services around the ARM architecture. These include
+leading Operating Systems and Real Time Operating
+Systems (RTOS) providers, EDA companies, application
+software providers, and tools developers. Each
+contributes to our network of Partners by enabling 
+a wide range of technology solutions that support the
+development of ARM Powered products. This makes our
+architecture one of the most widely supported 32-bit
+RISC microprocessor solutions available today.
+As the market evolves, we will continue to create
+innovative business models to enable us to take
+advantage of new opportunities as well as to provide
+access to our technology for an entirely new generation
+of companies.
+We have a “can do” culture and have always been
+prepared to find ways to deliver what our Partners need. 
+Above right: Iceberg Alley, off Newfoundland, Canada. Icebergs are usually found in groups, in which they
+stay and migrate. ARM’s relationships with its Partners are similarly stable and long lasting. ARM’s Partnership culture has had a major 
+role to play in the Company’s success and, in recent years, new and different
+Partnership models have been introduced to enable more companies to join 
+the ARM community.
+ARM Annual report and accounts 2002  9

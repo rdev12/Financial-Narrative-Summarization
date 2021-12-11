@@ -1,0 +1,3674 @@
+ Pharmacy
+Annual Report and Accounts
+for the year ended 30 June 2007
+Mental Health & Community Care Primary & Unscheduled Care Electronic Patient Records Ascribe has made major advances this year in improving
+by increasing investment in restructuring and expansion 
+investment in the consolidation and improvement of its
+Contents
+Page 
+1  Highlights for the Year
+3  At a Glance
+6  Executive Chairman’s Statement
+8  Chief Operating Officer’s Review
+10  Financial Review
+14  Board of Directors
+15  Report of the Directors
+17  Corporate Governance Report
+19  Remuneration Report
+Page 
+22  Independent Auditors’ Report
+23  Consolidated Profit and Loss Account
+23  Consolidated Statement of Total Recognised
+Gains and Losses
+24  Consolidated and Company Balance Sheets
+25  Consolidated Cash Flow Statement
+26  Statement of Accounting Policies
+28  Notes Forming Part of the Financial Statements
+43  Notice of Annual General Meeting
+IBC   Directors, Secretary and Advisers • Revenues up 55% to £15.3m (2006: £9.9m)
+• Recurring maintenance revenue at 63% (2006: 62%)
+• Earnings before interest, taxation, depreciation and amortisation
+1
+(EBITDA) 
+increased 54% to £3.7m (2006: £2.4m
+3
+)
+• Adjusted operating profit
+2
+up 55% to £3.5m (2006: £2.3m
+3
+)
+• Operating margin
+2
+of 23% (2006: 23%
+3
+)
+• Adjusted profit before tax
+2
+up 46% to £3.3m (2006: £2.3m
+3
+)
+• Profit before tax up by 11% to £1.7m (2006: £1.5m
+3
+)
+• Operating cash is 121% (2006: 111%
+3
+) of operating profit
+2
+• Adjusted earnings per share
+2
+up 29% to 2.38p (2006: 1.85p
+3
+)
+• Dividend of 0.17p per share proposed - an increase of 31% on last year
+1  
+before charge for share based payments
+2  
+before goodwill amortisation and charge for share based payments
+3  
+restated for prior year adjustment - change in accounting policy for development costs
+Highlights for the year
+Ascribe plc Annual Report & Accounts year ended 30 June 2007 P1
+its integration of acquisitions at a fundamental level 
+of its product development resource, and additional 
+logistical infrastructure. Pharmacy Mental Health & Community Care Primary & Unscheduled Care Electronic Patient Records
+GP Practice Management
+Retail Pharmacy  
+Electronic Transfer of 
+Precriptions
+ePoS Sales Systems
+Patient Medical Records
+Primary Care Secondary Care
+Child Health
+Community Services
+Electronic Prescribing
+Single Assessment Process
+Electronic Discharge Systems
+Substance Misuse Services
+Emergency Departments
+Minor Injury Units
+NHS Messaging
+Social Care
+Acute Mental Health
+Electronic Patient Records
+Medicine Administration
+Hospital Pharmacy
+Robotic Interfaces
+Parenteral Nutrition 
+Equipment Tracking
+Patient Administration 
+Systems  
+Radiology Information 
+Systems 
+Theatres management                                                        
+Markets served by Ascribe that are candidates for 
+a comprehensive Electronic Patient Record system
+Feedback we are getting from our customers about
+our new products and integrated offerings means we
+are confident about the expectations for 2007/8.  Ascribe plc Annual Report & Accounts year ended 30 June 2007 P3
+Ascribe plc is a leading healthcare company that develops and markets software solutions supporting
+patient, clinical and business processes to Primary and Secondary healthcare providers in the UK and 
+overseas. The Group offers solutions that directly improve patient care and deliver financial savings 
+to our customers. Ascribe provides solutions to clinical professionals and sells to Primary and Secondary
+Care health providers rather than through centrally driven political initiatives. Offering patient and
+decision support information to clinicians in context with their activity is the key to our ongoing success.
+Ascribe currently employs over 220 personnel through its seven operating businesses in the UK, 
+Kenya, Australia and New Zealand.
+Ascribe at a Glance
+The Group currently delivers systems for the following
+health requirements:
+• Electronic Patient Records (“EPR”) 
+and Patient Administration Systems (“PAS”)
+• Hospital Pharmacy Departments
+• Electronic Prescribing & Medicine Administration
+• Accident and Emergency and Minor Injury Units
+• Mental Health and Community Care
+• Substance Misuse Systems
+• General Practice
+• Primary Pharmacy and Retail Sales
+• Theatres Management 
+• Radiology Information Systems
+• Electronic Discharge Systems
+• Dispensary Robotic Interfaces
+• Medical Equipment Asset Management
+Ascribe is committed to developing a common integrated
+solution that meets all these needs regardless of care
+location. Our solutions can work as standalone modules
+or as integrated systems - integrating with each other
+and with third party IT systems. Integrated healthcare
+systems such as electronic prescribing and medicines
+administration provide a far more effective safeguard
+to protect patients’ safety, helping to reduce risk and
+providing healthcare professionals with better access
+to patient and medication information.
+In a market that has an increasing demand for clinical
+systems operated by teams of health professionals
+from many disciplines, Ascribe continues to deliver
+innovation, development and sustainable growth. 
+The Group’s goal is to provide ‘birth to death’ records
+that will enable clinicians and healthcare professionals
+to make more informed decisions at ‘the point of care’,
+thereby reducing risk and errors and so provide patients
+with better healthcare. Such a solution is required for
+health organisations to move to their preferred method
+of a patient being treated by multiple carers in multiple
+locations against a common record.
+Competitive Advantages:
+• A robust and mature product suite of healthcare 
+solutions that can be delivered today across primary 
+and secondary care.
+• Strong and scalable infrastructure that employs 
+economies of scale to increase efficiency and 
+reduce wastage. 
+• Development focus on system integration and 
+interoperability – our internal development resource 
+is one of our most significant assets. We can build 
+systems on time and to agreed budgets. Most 
+importantly of all, we consistently deliver healthcare 
+IT solutions that work.
+• Experienced professional workforce, many recruited 
+from within the NHS, helps us to work closely with 
+customers and understand the issues that are key to 
+them. Our support teams respond quickly and 
+professionally and extend our customer relationship 
+well past the point of purchase. Ascribe is well 
+known for its excellent service and support.
+• Many of our solutions are compliant to the standards 
+required by the UK Government’s Connecting for 
+Healthcare (“CfH”) initiative. Separate Products establish 
+basic communication of data
+Integration leads to common resources,
+saving development time & enhancing
+clinical focus
+ePrescribing
+Mental 
+Health & 
+Community
+Care
+Pharmacy
+Patient 
+Master Index
+Patient 
+Master Index
+Patient 
+Master Index
+Security Security Security
+Clinical &
+Demographic
+Database
+EDI – Text transfer of basic information
+Clinical &
+Demographic
+Database
+Clinical &
+Demographic
+Database
+ePrescribing
+Mental 
+Health & 
+Community
+Care
+Pharmacy
+Clinical & Demographic Database
+Patient Master Index
+Security - Access Control
+Medical Record Viewer
+EDI – Text transfer of basic information
+Migrating Product Development to Incorporate
+Greater Integration Integrated Clinical Products Benefits:
+Clinical:
+• Access to patient data is streamlined.
+• Repeat entries of patient data unnecessary.
+• Administration of software is simplified.
+• Patient risks are reduced as current medical 
+data is more easily accessed by the clinician.
+• Allows Ascribe to focus upon delivering     
+‘Clinical benefits’ rather than re-inventing     
+code for shared tasks such as accessing the 
+Patient Master Index.
+Product Development:
+• Development times are reduced as the need to 
+duplicate administrative functions is removed.
+• Reduces duplication of development effort.
+• Supports data interfaces with legacy 3rd party systems.
+Sales:
+• Products can be delivered to market more speedily.
+ePrescribing
+Mental 
+Health & 
+Community
+Care
+Pharmacy
+Clinical & Demographic Database
+Patient Master Index
+Security - Access Control
+Medical Record Viewer
+EDI – Text transfer of basic information
+ePrescribing
+++ =
+Mental 
+Health & 
+Community
+Care
+Pharmacy
+Substance Misuse Service
+Used by DAAT (Drug & Alcohol Teams) to 
+dispense medications and generate reports
+ePrescribing
+++ =
+Order 
+Comms
+Pharmacy
+eDischarge System
+Allowing Hospitals to automatically generate 
+letters to a patient’s GP at the point that 
+the patient is discharged
+Patient
+Administration 
+System
++=
+Emergency
+Care
+System
+Single Patient Admission & 
+Discharge transfer system
+Allowing Hospitals to make a single log-in 
+of Patients’ admission & discharge through 
+their Emergency Dept.
+Patient
+Administration 
+System
++=
+Interfacing
+Engine
+Choose & Book Compliance
+Allowing Hospitals to comply with the CfH 
+Choose & Book appointment scheme.
+“Getting the right data, to the right person, 
+at the right time”
+Combining solutions to meet clinical and 
+administrative demands in healthcare
+Ascribe plc Annual Report & Accounts year ended 30 June 2007 P5 Executive Chairman’s Statement
+Introduction
+I am pleased to report good progress across the
+Group as our acquisitions perform well and we
+see organic growth. Whilst there was uncertainty
+in the market in the last quarter of the financial
+year this is generally resolved at local level,
+where we trade directly with hospital trusts, 
+and leaves us with enormous opportunity and an
+increased sales pipeline. Our challenge has been
+to grow the Group’s operational capacity to meet
+this demand. 
+After a period of consolidation, the Group has an
+excellent platform to undertake and integrate
+further acquisitions. Ascribe has now moved to
+having each Group function under one manager
+and one group-wide control system. The Ascribe
+brand is now evolving and will be further 
+developed. We have maximised our ability to
+respond to defined markets, through our divisions,
+using common group-wide services. 
+Ascribe has invested heavily in the development
+of its integrated suite of software. Some of the
+implementations delayed at the end of our financial
+year were the first customer sites going live on
+our web based platform. This platform enables
+us to install and maintain customers more 
+efficiently and effectively as well as delivering
+all our products as an integrated package. Since
+the year end these customers have gone live on
+the software. This gives me confidence that our
+plans to maximise operational capacity are being
+delivered as well as giving us follow on sales
+opportunities as new and existing customers
+seek to upgrade. 
+The investment in enlarging the Group’s sales
+and marketing team is showing the first signs of
+success as Ascribe has won new sales in overseas
+markets. Since the year end the Group has won
+its first Accident and Emergency contract in
+Australia. We now have many more cross selling
+opportunities as we produce a suite of compatible
+software solutions against a common sales and
+marketing plan. Our customers are able to buy
+all of their solutions from a single supplier and
+use them to complement solutions they already
+have acquired from Ascribe.
+A Successful Year
+Ascribe’s strategy of combining organic growth and
+earnings enhancing acquisitions has continued to fuel
+our growth this year. Turnover has increased by 55%
+to £15.3m (2006: £9.9m). Operating profit before
+goodwill amortisation and share based payments has
+increased 55% to £3.5m (2006: £2.3m restated)
+yielding a return on sales of 23% (2006: 23%).
+Adjusted basic earnings per share for the year
+increased by 29% to 2.38p from 1.85p restated 
+in 2006.
+This year’s record profitability has been fully converted
+into cash – operating cash in 2007 was 121% of 
+operating profit (2006: 111% restated). 
+Strategy
+The business can grow from strength to strength 
+selling at local level. We can add acquisitions to the
+Group with little distraction to gain market share and
+operational capacity. We are maximising our efficiency
+to allow us to operate at higher levels as we expect
+demand to rise further in the coming years.  To ensure
+Ascribe keeps and expands its market share we focus
+on the patient as the end customer in all that we do. Ascribe plc Annual Report & Accounts year ended 30 June 2007 P7
+Market
+Ascribe trades in multiple markets globally and across
+many healthcare sectors, although generally at local
+level. This gives us resilience to current changes in the
+English NHS as well as many cross selling opportunities.
+We currently trade in the UK, Ireland, Australia, New
+Zealand, Malaysia and Hong Kong.  
+Lord Hunt, the minister responsible for Connecting for
+Health stated in May this year that “we can and should
+devolve more to the local level” Whilst this initially
+created uncertainty around the funding model, we
+believe that this gives us a great opportunity in the
+markets we trade. This is now demonstrated in our
+strong pipeline of sales.
+The Group’s overseas markets have performed well
+and new sales are now coming from areas where we
+have invested our sales and marketing efforts.
+The English market has been disappointed by promises
+from the national initiatives that have not been delivered.
+It is quite possible that Ascribe could deliver to the
+English national agenda through various channels such
+as the alternative supplier catalogue (Additional
+Supply Capability and Capacity “ASCC”) or may be
+directly to the Local Service Providers (“LSP’s”). After
+continuing to win in competitive tenders against all
+competition, including that coming from the National
+Programme for IT (“NPfIT”), we know we are able to
+deliver in a market which is now able to make local
+decisions to procure.
+Management and Staff
+Ascribe’s Board has been strengthened by the welcome
+arrival of a new Non-Executive Director, Ian Priestner,
+formerly a member of the Executive Leadership Team
+at United Utilities plc. 
+Having spent the last twelve months consolidating and
+growing the business organically I am proud of what
+the team has achieved. The Group is now capable of
+addressing the wider opportunity ahead of us, improving
+patient care and delivering value to stakeholders. On
+your behalf, I would like to thank the staff at Ascribe
+for all their hard work during the year. 
+Dividend
+The Board has recommended a final dividend of 0.17p
+per share (2006: 0.13p). Subject to shareholder
+approval, the final dividend will be paid on 1 November
+2007 to shareholders on the register at the close of
+business on 12 October 2007.
+Current Trading and Outlook
+Ascribe continues to expand the capacity of the Group
+by maximising our operational synergies, moving
+products to our more efficient web based platform 
+and undertaking further recruitment. This positions
+Ascribe to quickly respond as customers prepare to
+buy locally. 
+The feedback we are getting from our customers
+about the Group’s new products and integrated software
+means we are confident about the expectations for
+2007/8. Many of our customers have extended their
+contracts with us this year giving us assurance about
+our long term maintenance income which still exceeds
+60% of our turnover. 
+Stephen Critchlow
+Executive Chairman Chief Operating Officer’s Review
+Introduction
+Ascribe’s business model is to supply Health IT
+solutions directly to Healthcare Trusts at local
+levels in the UK and overseas.
+Integration and Consolidation
+The Group has undertaken a comprehensive programme
+of integration and consolidation of the businesses
+acquired since flotation designed to ensure we are
+able to take full advantage of our growing market
+opportunity in the UK and overseas.  
+Investment in our key operational activities has
+included consolidation of our software development
+team which has led to improved product management
+and development planning. Core functionality is now
+used across multiple market areas improving efficiency
+and the ability to integrate our software. In parallel
+with the improvement in the effectiveness of software
+development and the wider commercial opportunities
+in the UK and overseas health IT markets, the Board
+has approved the capitalisation of part of its development
+expenditure as permitted by UK GAAP. This capitalisation
+results in an intangible asset that represents the
+investment in new software solutions which will underpin
+future sales over the medium term. 
+The processes used by our project management and
+implementation teams have also been improved with
+teams now able to deliver multiple products. In addition
+to this, our support operations have been consolidated
+and a new customer relationship management system
+has been introduced; together these will provide
+improved robustness and efficiency of our customer
+support. Our finance systems have been replaced to
+provide improved management reporting.
+Operating Divisions 
+Ascribe has four market-based divisions: Pharmacy;
+Electronic Patient Records; Mental Health and Community
+Care; and Primary and Unscheduled Care. Over the
+last twelve months these divisions have seen new
+sales in three broad areas; existing customers looking
+for additional licenses and increased functionality; new
+customers looking for robust and available IT solutions
+that can be easily integrated with their existing systems
+and processes; and thirdly, there is a growing number
+of healthcare providers looking to Ascribe to deliver
+combinations of our products, across multiple 
+departments, on an ongoing basis, to provide a 
+single cohesive and integrated patient-centric solution
+– which we can deliver; Gateshead NHS Health Trust
+being a particular example of a customer who is 
+purchasing multi-product five year contract extensions.
+Many of our contracts yield recurring maintenance
+income for a minimum period of between three and
+five years, being the length of the initial contract, and
+enhance further the visibility of the Group’s earnings.
+Pharmacy
+Ascribe's Pharmacy Division has continued to win new
+health IT contracts during the year and continues to
+install our new web pharmacy software solution in the
+UK and overseas; this product upgrade not only
+increases the scalability of our solution, it also supports
+additional and complimentary pharmacy and reporting
+systems, such as Ascribe’s electronic prescribing and
+medicines management solutions.  
+Primary and Unscheduled Care
+Our Primary and Unscheduled Care Division has
+installed our Accident and Emergency system, Symphony,
+at a number of sites including Guys and St Thomas’,
+and Hammersmith and Charing Cross in London and
+at Dewsbury which becomes one of a group of three
+hospitals operating from a single Symphony database.
+Ascribe’s GP system, Exeter, has passed conformance
+testing for Scottish Enhanced Functionality (SEF)
+Tranche 3. Amongst other benefits this includes tighter
+prescribing safety checks including warnings for similarly
+named drugs. Ascribe plc Annual Report & Accounts year ended 30 June 2007 P9
+Mental Health and Community Care (MH&CC)
+This division continues to perform well within its existing
+user base by selling increased licenses and new feature
+enhancing modules. Major new contracts include a 
+significant new agreement to supply a MH&CC solution
+to Central and North West London NHS Foundation
+Trust. Our customers for this division are represented
+by small dedicated teams and departments through 
+to major trusts, such as Bolton, Salford & Trafford
+Mental Health. 
+Electronic Patient Record (EPR)
+Our EPR division has performed exceptionally well,
+overcoming competition from National Programme
+suppliers. Contract extensions have been sold to West
+Middlesex University Hospital NHS Trust and to County
+Durham and Darlington Foundation NHS Trust as part
+of an extended and expanded contract. New and
+extended contracts have also been sold to customers
+including South Tees Hospitals NHS Trust, Northern
+Lincolnshire and Goole Hospitals NHS Trust and Hull
+and East Yorkshire Hospitals NHS Trust. The division
+also expanded its NPfIT compliant ‘Choose and Book’
+Services and successfully sold this functionality to
+Gateshead Health NHS Trust, Mid Yorkshire Hospitals
+NHS Trust and Benenden. This means that all of
+Ascribe’s Patient Administration System customers will
+have a compliant direct booking service for ‘Choose
+and Book’.
+Sales and Marketing 
+Our overseas activities have performed ahead of
+expectations with orders from new customers, orders
+for new functionality from our current customers as
+well as contracts to upgrade our pharmacy customers
+to the new web based solution. I am pleased to report
+that our international operations have contributed
+14.4% of the Group’s turnover compared to 9.3% in
+2006. Due to a variety of factors our UK turnover has
+not grown as expected. Orders have been delayed in
+the English NHS as localised procurement processes
+are being re-established. We are still in active negotiations
+on all these contracts and expect them to be delivered
+in the year in which we are now trading. Some have
+been achieved in the last few weeks.
+Chris Dickson
+Chief Operating Officer Financial Review
+The year ended 30 June 2007 saw record sales
+and profitability during a period when the business
+invested significant time and funds into the
+integration of the seven acquisitions made by
+Ascribe in the two and a half years since flotation.
+The business is now positioned to continue growing
+organically and to integrate further acquisitions.
+Trading results
+Turnover grew 55% to £15.3m for the year ended 30
+June 2007 (2006: £9.9m) whilst like-for-like organic
+sales growth has increased by an average of 3%.
+Turnover generated from recurring maintenance 
+contracts remains a significant and visible component
+of the Group’s revenue, comprising 63% of sales during
+the year (2006: 62%). The remaining sales, of new
+software solutions, are generated from new and existing
+customers. The Group has an enviable record in 
+competing for new tenders whilst the cross selling
+opportunities from introducing further companies to the
+Group have continued to drive account development
+sales with existing customers.
+The Board’s decision in May 2006 to invest in the
+Australasian market at a time when its web-based
+software solutions were nearly ready for launch has
+created momentum in our overseas sales. The proportion
+of the Group’s sales being generated outside the UK
+and Ireland grew in 2007 to 14.4% (2006: 9.3%) to
+£2.2m representing an organisation with critical mass
+capable of further growth in the region. 
+Operating margins have remained constant during the
+year. The return on sales, before goodwill amortisation
+and share based payments, is 23% (2006: 23%). This
+represents a mix of the impact of increased sales, the
+investment in the integration of the acquired businesses
+in readiness for further growth and the capitalisation
+of development expenditure under the guidelines set
+out under UK GAAP. The Board is committed to the
+continued and targeted investment in research and
+development expenditure, which for 2007 amounted
+to £2.74m (2006: £1.86m).
+Operating profit before goodwill amortisation and
+share based payments was £3.5m compared to £2.3m
+as restated in the previous year. Adjusted EBITDA
+grew to £3.7m (2006: £2.4m restated). Operating
+profit after goodwill amortisation and share based 
+payments grew 24% to £1.9m (2006: £1.5m restated).
+Accounting Policies
+Following the Group’s review of its accounting under
+SSAP 13, Accounting for Research and Development
+Expenditure, the financial statements for the year
+ended 30 June 2006 have been restated to show the
+impact of capitalised expenditure relating to the period
+up to that date.
+During the year the group has capitalised development
+costs of £0.6m (2006: £0.1m restated). A prior year
+adjustment has been made in respect of the capitalised
+development credit relating to the period before 1 July
+2006.
+International Financial Reporting Standards
+The requirement to comply with International Financial
+Reporting Standards (“IFRS”) is effective for accounting
+periods commencing on or after 1 January 2007. Our
+December 2007 Interim Report and June 2008 Annual
+Report will be presented under IFRS.  
+As UK GAAP accounting closely mirrors the IFRS 
+treatment of share based payments and the capitalisation
+of development expenditure, the principal areas that
+will have material impact on the Group results relate
+only to goodwill amortisation and financial instruments.
+Under IFRS the annual goodwill amortisation will cease
+and be replaced by a full impairment review at the
+balance sheet date with any impairment charge being
+written off to the profit and loss account.  Ascribe plc Annual Report & Accounts year ended 30 June 2007 P11
+Interest
+The Group is now a net payer of interest although,
+due to its very seasonal cash flow, the Group is in a
+net cash position for part of the year, including the
+year end as a result of the annual invoicing and payment
+of maintenance contracts. Net interest payable for the
+year was £187k (2006: £(7)k). The Group has a five
+year bank loan and a offsetting overdraft facility with
+RBS, taken out to part fund the consideration of earlier
+acquisitions. Interest is paid at 1.5% over the Royal
+Bank of Scotland plc’s base rate.
+Goodwill
+A charge of £1.54m (2006: £0.59m) for the amortisation
+of goodwill has been made in the year. Amortisation
+represents a full year’s charge for all seven of the
+acquisitions made since flotation.
+Goodwill arising on consolidation continues to be
+amortised over a period of twenty years. Goodwill 
+purchased as part of the acquisition of the healthcare
+division of Jade Health is being amortised over a period
+of five years. In all cases these are the periods that
+the Board believe the Group will derive economic benefit. 
+Taxation
+The tax charge for the year of £0.39m (2006: £0.29m)
+represents an effective rate of tax of 11.6% (2006:
+12.8%) on profit before tax, goodwill amortisation 
+and share based payments. The effective rate of tax
+remains low due to the Group’s ability to utilise the UK
+tax credits arising from investment in research and
+development.
+Share Price Pence
+Adjusted Earnings Per Share Pence Earnings per share
+Adjusted basic earnings per share (“EPS”), before
+goodwill amortisation and share based payments,
+increased 29% to 2.38p (2006: 1.85p restated). Basic
+EPS, calculated after charging goodwill amortisation
+reduced to 1.14p (2006: 1.15p restated).
+Funding and bank facilities
+The Group’s net funds position at 30 June 2007 was
+£0.8m (2006: Net debt £0.5m).  The Group has an
+overdraft facility and a fixed term debt facility with its
+principal banker, the Royal Bank of Scotland plc. 
+The facilities include a term loan facility amounting to
+£3.4m at 30 June 2007 (2006: £2.6m) which will be
+repaid by 30 June 2011 and an overdraft facility of
+£1.6m (2006: £1.6m) The interest charge for both the
+loan and overdraft facilities is 1.5% over the Royal Bank
+of Scotland plc’s base rate. 
+Acquisitions
+Ascribe has not made any acquisitions during 2007 as
+it has focused on the integration of the seven made
+during the two and a half years since flotation. Further
+acquisitions are constantly being considered where they
+are earnings enhancing and represent good value for
+the Group’s stakeholders. 
+Dividends
+In November 2006, a dividend of 0.13p per ordinary
+share was paid in respect of the year ended 30 June
+2006. The Board has recommended to the Group’s
+shareholders that a final dividend of 0.17p per ordinary
+share be paid during the year ending 30 June 2008. 
+Jeremy Lee
+Group Finance Director
+Financial review cont.
+Ascribe plc Annual Report & Accounts year ended 30 June 2007 P12
+Turnover £ Million
+Adjusted Operating Profit £ Million Case Study 1
+Mid Cheshire NHS Hospitals Trust - Ascribe Web Pharmacy
+Mid Cheshire NHS Hospitals Trust selected Ascribe’s Web Pharmacy as their departmental IT solution in Leighton
+Hospital to help deliver improved patient care. The system integrates the Pharmacy’s Dispensary, Stores, Finance &
+Reporting. It will also utilises a software interface to the Hospital’s existing Patient Administration System (PAS) to
+enable a more comprehensive Electronic Patient Record (EPR). Ascribe’s Pharmacy solution was selected by Mid
+Cheshire as the best fit for their clinical and information needs following an open procurement review of competitive
+bids. “Our decision to install Ascribe’s Pharmacy is based upon the strengths of their clinical systems and the
+improvements that these bring to patient-care,” said Alan Denby, Chief Pharmacist of Leighton Hospital.
+Case Study 2
+Rugby House - Substance Misuse System (SMS)
+The Ascribe Substance Misuse System (SMS) is currently being implemented at Rugby House in London to support
+the drug and alcohol services provided by the organisation. Rugby House provides services for those who misuse
+alcohol and drugs, and to enable communities to understand how alcohol and drugs can affect everyday life.
+The Ascribe Substance Misuse System is a fully functional database system that supports drug and alcohol services
+within the provision of DAAT, NHS and non-public organisations. The system supports client management through
+care plans. These are an effective tool for clinicians to address and improve a service user's physical and psychological
+well-being. This is backed up with the in-built production of the core NTA and Home Office datasets (NDTMS, DIP, etc)
+together with the ability to produce reports for local reporting needs.
+The system is based on the successful ePEX Mental Health system that has been developed over the last 20 years 
+to provide support for clinical services and the required national and local downloads.
+As the system can be tailored to support individual customer requirements, consultancy is underway to ensure the
+system is set-up correctly to meet the needs of Rugby House. A full implementation and training plan is in place 
+to ensure the successful delivery of the system.
+Case Study 3
+Central & North West London NHS Foundation Trust – Mental Health IT Solutions
+Central & North West London NHS Foundation Trust (CNWL) is one of the largest Mental Health Trusts in England and
+has just completed the first phase of a two year implementation of Ascribe’s JCC solution. The roll out will be to nearly
+three thousand staff and will incorporate Ascribe’s Prescription Manager Application for Substance Misuse Services.
+CNWL selected Ascribe’s JCC solution as it felt the application was the best fit for its clinical and information needs
+from an options appraisal that included the LSP (Local Service Provider). Configuration of the application is underway
+to meet the requirements for the organisation and will include interfacing to other applications in the local health and
+social care community.
+Case Study 4
+Hinchingbrooke Health Care NHS Trust – Electronic Patient Care - Emergency Care Centre
+In April 2007 Hinchingbrooke Health Care NHS Trust completed the roll-out of the eCaMIS Emergency Care Centre
+system developed by Ascribe PLC to replace their previous A&E system. All clinical data concerning a patient’s visit to
+the Emergency Care Centre (ECC) is recorded in real time by clinical staff at the point of giving care. As a result of
+this, for the first time since the Trust computerised its A&E department in 1994, there has been no backlog of data
+input. This means that GP’s get a meaningful clinical summary of their patients care within the ECC immediately via
+the Clinical Viewer and without delay via a GP letter.
+Case Studies Board of directors
+Stephen Critchlow
+Executive Chairman, Aged 46.
+Stephen is the founder and Executive Chairman of Ascribe
+plc. A member of the Royal Pharmaceutical Society of Great
+Britain, he received his B.Sc. from Manchester University in
+1982 and worked for the NHS as a pharmacist post qualification,
+rising to the position of Director of Pharmacy in 1987 for the
+Royal Manchester Children’s Hospital and Prestwich Hospital.
+He founded ASC Computer Software Ltd in 1989 and managed
+the company through its flotation on AIM in December 2004.
+Jeremy Lee
+Finance Director, Aged 47.
+Jeremy began his professional career as a Chartered
+Accountant for Coopers & Lybrand. In 1987 he was recruited
+by Campbell Soup Co Inc before joining Life Sciences
+International plc in 1992. He was appointed as Finance
+Director for the AIM-listed biotechnology group, Tepnel Life
+Sciences plc in 1998. In 2001 he was recruited by OFEX 
+listed technology company, FeONIC plc and in July 2004 he
+joined Ascribe. Jeremy has considerable experience in 
+acquisitions, public fund-raising activities and of managing
+early stage R&D companies. 
+Chris Dickson
+Chris Dickson, Chief Operating Officer, Aged 47
+Chris undertook his medical education in London before 
+training and working as a GP. In 1994 he joined Independent
+British Healthcare, later becoming operations director of their
+occupational health division. Chris then worked in Hong Kong
+for five years where he managed the medical support for the
+construction of the new airport and later the global medical
+arrangements for Cathay Pacific Airways. Chris was Head of
+Health Care Services at BUPA in the UK before joining
+Hybrid-4 Ltd, a mobile technology solutions, as CEO. 
+David Hughes
+Non-executive Director, Aged 65.
+David joined the Board in 2002 after a career with IBM,
+McDonnell Douglas Information Systems, Apricot Computers
+and latterly Misys plc where he was Managing Director of TIS
+Software Ltd before being appointed Chief Executive Officer
+of ACT Financial Systems Ltd in 1995. He has been successfully
+managing software houses since 1985 both in terms of
+restoring profitability, growing UK and international operations
+and integrating acquired businesses.
+Ian Priestner,
+Non-executive Director, Aged 50.
+Ian is currently a Non-Executive Director of the Walton
+Centre for Neurology and Neurosurgery NHS Trust. Recently
+he has worked as Head of Public Policy and Government
+Relations (UK and International) for British Gas plc and was
+Group Director of Corporate Communications for United
+Utilities plc where he was a member of their Executive
+Leadership Team from 2000 to 2006. In 1979, Ian worked 
+for the Confederation of British Industry in its International
+Affairs Department and later moved to become the Public
+Affairs Specialist for the United States Embassy in London.
+In 1986, Ian became Chief Press Officer for the Social
+Democratic Party.  He later became a Communications
+Consultant for Lowe Bell, and Public Affairs Manager for
+Conoco (UK) Ltd.  Ian holds degrees in International
+Relations and Law. Report of the Directors 
+Ascribe plc Annual Report & Accounts year ended 30 June 2007 P15
+For the year ended 30 June 2007 
+The Directors present the annual report and audited
+financial statements for the year ended 30 June 2007.   
+Principal Activities, Business Review 
+and Future Developments
+The principal activity of the Group is the development,
+supply and support of software solutions for the UK
+and international health market. 
+The Group’s business review for the year is set out in
+the Executive Chairman’s Statement, the Chief Operating
+Officer’s Review and the Financial Review on pages 6
+to 12.  
+Results and Dividends
+The results of the Group are set out in the consolidated
+profit and loss account on page 23. The Directors 
+recommend the payment of a dividend of 0.17p per
+ordinary share (2006: 0.13p). 
+Research and Development
+The Group is continuously developing its software
+products to meet the needs of the health IT market.
+During the year, the Group incurred expenditure on
+software research and development of £2.7m (2006:
+£1.9m).  
+Change in Accounting Polices
+The Group has changed its accounting policy with
+respect to  development costs. Qualifying development
+costs have been capitalised during the year and will be
+amortised over the period that the Group believes it will
+derive economic benefit from the assets.
+Substantial Interest in Shares
+As at 10 September 2007, the Company had been
+notified of the following substantial holdings in its
+issued ordinary share capital:
+Business Risks
+The Board reviews and were possible mitigates known
+business risks. The principal risks include:
+• Political influence on health spending: Changes to 
+political healthcare initiatives cause uncertainty and 
+potential delays to new orders as the full meaning of  
+the changes is understood by Health IT decision 
+makers. The National Programme for IT(“NPfIT”), 
+a central initiative for delivering improved systems 
+in England, has created considerable uncertainty in 
+the Health IT market, not least because of its lack 
+of delivery which has led to an alternative supplier  
+list being developed. Ascribe continues to operate 
+directly with NHS Trusts to mitigate this risk and 
+considers the creation of the alternative list to be a 
+major opportunity for the Group.
+• Delivery of new software: Delivery of fully tested 
+software that meets the needs of clinicians is key to 
+Ascribe’s success. The Group’s Project Management 
+Board reviews and prioritises all development projects
+whilst operational management reviews live 
+development and implementation projects to ensure 
+timely delivery and that risks are minimised.
+• Financial: detailed financial risk  management, 
+objectives and policies are disclosed in note 16 of 
+the financial statements.  
+Directors
+The names of the current Directors together with brief
+biographical details are shown on page 14.  
+The changes to Directors in office during the year
+under review were as follows:
+Appointments
+Ian Priestner 16 July 2007
+Resignations
+Mark Woodbridge 6 February 2007 
+Having being appointed since the last AGM, Ian
+Priestner will offer himself for reappointment.
+Directors’ interests in the shares of the Company are
+disclosed in the Remuneration Report on page 20.
+Number of shares % of total
+AS Critchlow* 15,848,970 13.62
+C K Jones 15,803,747 13.58
+Morgan Stanley Securities Limited 12,495,599 10.74
+Artemis Investment Management Limited 11,962,497 10.28
+A R Bradshaw 11,360,244 9.76
+Jade Direct NZ Limited 5,815,033 5.00
+Legal and General Investment Management Limited 4,300,000 3.70
+* includes shares of connected persons. Ascribe plc Annual Report & Accounts year ended 30 June 2007 P16
+Payment to Creditors
+The policy for all Group suppliers is to set terms of
+payment when agreeing the terms for each business
+transaction and to ensure that the supplier is aware of
+these terms. The Group seeks to abide by those terms
+whenever it is satisfied that the supplier has met the
+contractual obligations.  At 30 June 2007 the number
+of days of the trade creditors for the Group, calculated
+by reference to the total amounts invoices by suppliers
+was 48 days (2006: 45 days).
+Political Contributions 
+and Charitable Donations
+There have been no political contributions during the
+period and charitable donations amounted to £5,000
+(2006: £15,000).
+Corporate Governance
+The corporate governance report is set out on page 17.
+Annual General Meeting
+Formal notice of the forthcoming Annual General
+Meeting, to be held at the Group’s head office in
+Bolton commencing at 10am on 31 October 2007 is
+given on page 43. This notice sets out the resolutions
+to be proposed at the Annual General Meeting, together
+with explanatory notes.  The proxy card for registered
+shareholders is enclosed with this report. 
+There are two items of special business:
+Resolution 7 proposes to grant Directors authority for
+a period of 15 months from the date of the AGM to
+allot a maximum of 23,665,407 relevant securities. 
+Resolution 8 proposes to permit Directors, for a period
+of 15 months from the date of the AGM to allot up to
+11,633,459 equity securities wholly for cash other
+than on a pre-emptive basis to the current shareholders
+pro rata to their existing holdings. This represents
+10% of the aggregate current issued ordinary share
+capital.
+Report of the Directors cont.
+Statement of Directors Responsibilities
+Directors’ Responsibilities
+Company law requires the Directors to prepare financial
+statements for each financial year which give a true and
+fair view of the state of affairs of the Company and the
+Group and of the profit or loss of the Group for that
+year.  In preparing those financial statements, the
+Directors are required to:
+• Select suitable accounting policies and then apply 
+them consistently;
+• Make judgements and estimates that are reasonable 
+and prudent;
+• State whether applicable accounting standards have 
+been followed, subject to any material departure 
+disclosed and explained in the financial statements; 
+and 
+• Prepare the financial statements on the going 
+concern basis unless it is inappropriate to presume 
+that the Group will continue in business.
+The Directors are responsible for keeping proper
+accounting records which disclose with reasonable
+accuracy at any time the financial position of the
+Company and Group and to enable them to ensure
+that the financial statements comply with the
+Companies Act 1985.  They are also responsible for
+safeguarding the assets of the Company and the
+Group and hence for taking reasonable steps for the
+prevention and detection of fraud and other irregularities. 
+The annual report and accounts is available on the
+Group website: www.ascribe.com. The maintenance
+and integrity of the Group’s website is the responsibility
+of the Directors. The work carried out by the auditors
+does not include consideration of these matters.
+Legislation in the UK governing the preparation and
+dissemination of accounts may differ from legislation
+in other jurisdictions.  
+Provision of Information to Auditors
+In so far as each of the Directors are aware:
+• There is no relevant audit information of which the 
+Group’s auditors are unaware; and
+• The Directors individually have taken all steps that 
+they ought to have taken to make themselves aware 
+of any relevant audit information and to establish 
+that the auditors are aware of that information.
+Auditors
+PricewaterhouseCoopers LLP were appointed as auditors
+during the year. They have expressed their willingness
+to continue in office and a resolution to reappoint
+them will be proposed at the annual general meeting.
+By order of the Board
+J S W Lee
+Secretary
+18 September 2007 Ascribe plc Annual Report & Accounts year ended 30 June 2007 P17
+Corporate Governance Report
+Corporate governance, in general terms is the way in
+which a company is controlled and directed and, in
+particular, is concerned with the role of the Board of
+Directors, how the Board and committees of the Board
+operate, and accountability within the Company.
+The Company’s shares are listed on AIM. The Group is
+subject to the AIM Admission Rules of the London
+Stock Exchange and is consequently not required to
+comply fully with best practice corporate governance
+provisions contained within Section 1 of the Combined
+Code appended to the Listing Rules of the Financial
+Services Authority.  However, the Directors believe
+good corporate governance is essential and, having
+considered the provisions of the Combined Code, set
+out below the principles of the Combined Code that
+the Group has adopted and how the Group has applied
+these principles.  The current size of the Group means
+that full compliance with the provisions of the
+Combined Code is not practical or cost effective.
+However, in areas where the Board of Directors
+believe that the provisions set out in the Combined
+Code are paramount to corporate governance, 
+procedures for compliance have been established. 
+The Board
+The Board of Directors includes a balance of Executive
+and Non-Executive Directors.  The Board comprises
+two Non-Executive Directors and three Executive
+Directors.  The Executive Directors are the Executive
+Chairman, the Chief Operations Officer and the Group
+Finance Director.  The Executive Directors and the
+Non-Executive Directors bring a wide range of business
+experience and expertise to the Board’s discussions
+and decision making.  The Board of Directors has put
+in place an organisational structure with clearly defined
+responsibilities and delegation of authority. Biographical
+details of all the Directors are set out on page 14.
+Of the two Non-Executive Directors, the Board considers
+that both are independent of management.  
+The full Board meets formally each month to consider
+all matters of significance for the Group as they arise,
+as well as matters reserved specifically for their 
+consideration. These matters include development of
+business strategy and policy, the review and approval
+of operating budgets and monitoring of business 
+performance against objectives, the approval of significant
+financing and capital expenditure programmes, the
+approval of business alliances and acquisitions and
+disposals, the approval of interim and annual financial
+statements and consideration of matters relating to
+internal control.  The Board is supplied in a timely
+manner with all relevant information to assist it in 
+the discharge of its duties.
+All the Directors have access to the advice and services
+of the Company Secretary, Jeremy Lee, who is responsible
+to the Board for ensuring that Board procedures are
+followed and that applicable rules and regulations are
+complied with. There is a formal procedure for Directors
+to obtain independent professional advice in the 
+furtherance of their duties should that be necessary,
+the cost of which would be met by the company.
+To facilitate the effective running of each individual
+business unit, the Board of Directors has put in place
+an organisation structure with clearly defined lines of
+responsibility and delegation of authority. Senior 
+management meet monthly to monitor and discuss all
+major issues affecting the Group which do not require
+Board Discussion or approval by other Board Committees.
+The Company does not presently have a Nomination
+committee, as it is not believed to be appropriate
+given the Group’s present size.  The Board continues
+to keep this decision under review. All Directors are
+subject to election by shareholders at the first 
+opportunity after their initial appointment, and to 
+re-election thereafter, in accordance with the Articles
+of Association.
+Remuneration
+The Remuneration Committee seeks to ensure that its
+policies on remuneration are such that the Group is
+able to attract and retain high calibre executives, and
+that those executives are rewarded in a way consistent
+with the interests of shareholders.  Remuneration and
+incentive packages are awarded according to the 
+individual’s performance, experience and responsibility.
+The Remuneration Committee comprises both Non-
+Executive Directors and is chaired by David Hughes.
+The Executive Chairman and Finance Director attend
+meetings of the Committee by invitation. The Committee
+meets at least annually and is responsible for making
+recommendations to the Board on the remuneration
+policy of the Executive Directors and senior staff, and
+for determining salaries, incentive payments and
+longer term incentives in the form of share options.
+The remuneration of the Non-Executive Directors is
+set by the Executive Directors ensuring that no
+Director is responsible for the determination of their
+own remuneration.
+In determining the level of remuneration, individual
+performance and competitiveness within the sector is
+considered when setting or reviewing the remuneration
+package of Executive Directors.  Details of Directors
+emoluments are disclosed in the Remuneration Report
+on pages 19 to 21. Ascribe plc Annual Report & Accounts year ended 30 June 2007 P18
+Accountability and Audit
+All the Directors are equally accountable under the law
+for the proper stewardship of the Group’s affairs. The
+Board acts in a way which allows all Directors to bring
+their independent judgement to bear on issues of
+strategy, performance, resources, including key
+appointments and standards of conduct.
+Audit Committee
+The Audit committee comprises both Non-Executive
+Directors and is chaired by David Hughes.  It has 
+primary responsibility for ensuring that the financial
+performance of the Group is properly measured and
+reported on, and for reporting on and reviewing
+reports from the Group’s auditors relating to the
+Group’s accounting controls. The Committee monitors
+the scope, results and cost effectiveness of the audit.
+Internal Control
+The Board of Directors is responsible for ensuring that the
+Group maintains an adequate system of risk management
+and internal control.  Due to the relatively small size
+of the Group, the processes it has employed to identify,
+evaluate and manage significant business risks have
+been informal, and have depended upon the close
+involvement of senior management, including the
+three Executive Directors in all aspects of the Group’s
+operations. 
+The Group has undertaken significant integration in all
+parts of the business during the last 12 months. To
+maintain an adequate system of risk management and
+internal control, the Group is updating its internal 
+control environment which will be appropriate for 
+the Group’s size and complexity.  
+The key elements of the Group’s internal control are:  
+• A clearly defined management structure and delegation
+of authority to committees of the Board, heads of 
+department and individual business divisions;
+• Regular and comprehensive information provided to 
+management, covering financial performance and 
+key performance, including non-financial measures;
+• A detailed budgeting process and rolling strategic 
+plan which is approved by the Board;
+• Procedures for the approval of capital expenditure 
+and business acquisitions; and
+• Monthly monitoring and re-forecasting of results 
+versus budget, with analysis, investigation and 
+action taken in relation to variances. 
+The Group does not currently have an internal audit
+function.  The Board believes that this is appropriate
+given the current size of the Group.
+With the adoption of International Financial Reporting
+Standards in 2007, the Board has assessed the areas
+which it believes the Group is affected by, and is
+developing a plan to address these areas. The Group
+will present its December 2007 Interim Report and
+June 2008 Annual Report under IFRS.
+Relations with Shareholders
+The Company seeks to maintain and enhance its good
+relations with its shareholders.  This is achieved
+through the provision of interim and annual reports;
+through meetings with shareholders and presentations
+to them in general meetings and after major company
+announcements; by responses to individual enquiries;
+and through the Company’s website, www.ascribe.com.
+The Annual General Meeting is the primary opportunity
+to meet individual shareholders, to make presentations
+to them, to encourage their participation through
+questions and to talk informally to them after the formal
+proceedings. Separate resolutions are proposed at the
+Annual General Meeting on each substantially separate
+issue.
+The Board is always ready, where practicable, to enter
+into dialogue with institutional and individual shareholders
+based on the mutual understanding of objectives.
+Corporate governance report cont. Ascribe plc Annual Report & Accounts year ended 30 June 2007 P19
+Remuneration Report
+The remuneration report sets out the Company’s
+remuneration policy and its application to its Directors.
+The Remuneration Committee is appointed by the
+Board and during the year the following Directors
+served:
+David Hughes 
+(Chairman)
+Mark Woodbridge 
+(until 6 February 2007)
+Ian Priestner  
+(from 16 July 2007)
+The Remuneration Committee’s terms of reference are
+set and approved by the Board.
+Directors Contracts
+Each Executive Director has a rolling service contract
+with the Company which may be terminated by either
+party with not less than 12 months’ notice. Non-executive
+Directors have letters of appointment, not service 
+contracts, which are terminable in not less than 12
+months.
+Remuneration Policy
+The Board has appointed the Remuneration Committee
+to ensure that the Company’s Executive Directors are
+rewarded to attract, retain and motivate individuals of
+the appropriate quality at a fair level.
+Performance Graph
+The graph illustrates the relative performance of the
+shares in Ascribe plc against the AIM Allshare Index
+since 1 July 2006.
+Executive Directors’ Remuneration
+The main elements of the Director’s remuneration
+package are as follows:
+• Basic salary – reviewed annually in June; 
+• Benefits including pension contributions, life assurance,
+company car allowance and healthcare; 
+• Annual bonus payment determined on certain financial
+targets agreed by the Committee. 
+Share Option Plans
+Ascribe plc operates approved and unapproved 
+discretionary share option schemes for staff of the
+Group. The Committee decides which individuals
+should participate and the extent of their participation.
+Share options are awarded within the scheme rules
+subject to Inland Revenue rules.
+Pension Benefits
+The Ascribe Group operates a number of Stakeholder
+and Contracted-In Money Purchase schemes where the
+Group matches staff contributions up to a maximum of
+5%. In July 2006 the Group introduced a new on-line
+benefits package across the majority of the Group
+with the intention of harmonising and enhancing 
+benefits across the enlarged business. All Executive
+Directors accrue benefits under Money Purchase
+schemes. In addition the Group operates an executive
+pension scheme whereby Stephen Critchlow and Chris
+Dickson receive a contribution equal to 15% and 10%,
+respectively, of their basic salaries. Access to 
+independent financial advice is provided to all eligible
+staff to ensure that they are aware of the need to
+make adequate provision for retirement.  Ascribe plc Annual Report & Accounts year ended 30 June 2007 P20
+Emoluments
+The remuneration of each Director who served during the year, excluding share options, is set out in the table below.
+The highest paid director was Stephen Critchlow.
+Directors’ Interests in Shares
+The Directors at 30 June 2007 and their interests in the ordinary share capital of the Company at the year end are
+set out below.  Certain Directors have been granted share options, the details of which are set out in the
+Remuneration Report on page 21.
+Remuneration Report cont.
+Executive
+Stephen Critchlow
+Chris Dickson
+Jeremy Lee
+Graham Lewis
+Sub total
+Non-Executive
+David Hughes
+Mark Woodbridge
+Chris Moore
+Sub total
+TOTAL
+Salary &
+fees
+2007
+£’000
+178
+109
+96
+-
+383
+31
+27
+-
+58
+441
+Benefits
+2007
+£’000
+18
+4
+5
+-
+27
+-
+-
+-
+-
+27
+Annual
+Bonus
+2007
+£’000
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Other
+2007
+£’000
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Total
+2007
+£’000
+196
+113
+101
+-
+410
+31
+27
+-
+58
+468
+Total
+2006
+£’000
+239
+8
+105
+255
+607
+26
+20
+15
+61
+668
+Pension
+2007
+£’000
+27
+3
+5
+-
+35
+-
+-
+-
+-
+35
+Pension
+2006
+£’000
+25
+-
+4
+13
+42
+-
+-
+-
+-
+42
+Stephen Critchlow
+David Hughes
+Jeremy Lee
+Chris Dickson
+30 June 2007
+15,848,970
+350,000
+62,000
+300,000
+Number of ordinary shares of 1p each
+30 June 2006
+16,598,970
+350,000
+62,000
+- Ascribe plc Annual Report & Accounts year ended 30 June 2007 P21
+Share Options
+The following chart relates to participation in Ascribe plc Employee Share Option Scheme. The middle market value of
+the Company’s ordinary shares on 30 June 2006 was 57.5p and the range during the year was 29p to 63p.
+Options under the Company’s schemes can normally be exercised only on the achievement of performance criteria set
+by the Remuneration Committee and linked to the underlying performance of the Group.
+* Performance Criteria – annual growth in earnings per share (excluding goodwill amortisation and exceptional items) 
+above the corresponding annual growth in the Retail Price Index.
+1. Company’s Approved Executive Share Option Scheme.
+2. Company’s Unapproved Executive Share Option Scheme.
+Remuneration Report cont.
+S Critchlow*
+S Critchlow*
+S Critchlow*
+C Dickson*
+C Dickson*
+C Dickson*
+J Lee*
+J Lee*
+J Lee*
+D Hughes
+D Hughes*
+D Hughes*
+D Hughes*
+Notes
+1,2
+1,2
+1,2
+1,2
+1,2
+1,2
+1
+1
+1
+2
+2
+2
+2
+Exercise
+Price
+18p
+18p
+18p
+36p
+36p
+36p
+18p
+18p
+18p
+18p
+18p
+18p
+18p
+As at
+1/7/06
+1,000,000
+1,000,000
+1,000,000
+-
+-
+-
+170,000
+170,000
+170,000
+500,000
+34,000
+34,000
+34,000
+Granted 
+in year
+-
+-
+-
+266,667
+266,667
+266,666
+-
+-
+-
+-
+-
+-
+-
+Exercised
+in year
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+As at
+30/6/07
+1,000,000
+1,000,000
+1,000,000
+266,667
+266,667
+266,666
+170,000
+170,000
+170,000
+500,000
+34,000
+34,000
+34,000
+Earliest
+Vesting
+Date
+17/12/05
+17/12/06
+17/12/07
+18/09/07
+18/09/08
+18/09/09
+17/12/05
+17/12/06
+17/12/07
+17/12/06
+17/12/05
+17/12/06
+17/12/07
+Expiry 
+Date
+17/12/14
+17/12/14
+17/12/14
+18/08/16
+18/08/16
+18/08/16
+17/12/14
+17/12/14
+17/12/14
+17/12/14
+17/12/14
+17/12/14
+17/12/14
+Number of shares Ascribe plc Annual Report & Accounts year ended 30 June 2007 P22
+To the Members of Ascribe Plc
+We have audited the group and parent company financial
+statements (the ‘‘financial statements’’) of Ascribe plc
+for the year ended 30 June 2007 which comprise the
+Consolidated Profit and Loss Account, the Consolidated
+Statement of Total Recognised Gains and Losses, the
+Consolidated and Company Balance Sheets, the
+Consolidated Cash Flow Statement and the related
+notes. These financial statements have been prepared
+under the accounting policies set out therein.
+Respective Responsibilities of Directors 
+and Auditors
+The Directors’ responsibilities for preparing the Annual
+Report and the financial statements in accordance with
+applicable law and United Kingdom Accounting Standards
+(United Kingdom Generally Accepted Accounting
+Practice) are set out in the Statement of Directors’
+Responsibilities.
+Our responsibility is to audit the financial statements
+in accordance with relevant legal and regulatory
+requirements and International Standards on Auditing
+(UK and Ireland). This report, including the opinion,
+has been prepared for and only for the company’s
+members as a body in accordance with Section 235 of
+the Companies Act 1985 and for no other purpose.
+We do not, in giving this opinion, accept or assume
+responsibility for any other purpose or to any other
+person to whom this report is shown or into whose
+hands it may come save where expressly agreed by
+our prior consent in writing.
+We report to you our opinion as to whether the financial
+statements give a true and fair view and are properly
+prepared in accordance with the Companies Act 1985.
+We also report to you whether in our opinion the
+information given in the Directors' Report is consistent
+with the financial statements.
+In addition we report to you if, in our opinion, the
+company has not kept proper accounting records, if we
+have not received all the information and explanations
+we require for our audit, or if information specified by
+law regarding directors’ remuneration and other 
+transactions is not disclosed.
+We read other information contained in the Annual
+Report, and consider whether it is consistent with the
+audited financial statements. This other information
+comprises only the Executive Chairman’s Statement,
+the Chief Operating Officer’s Review, the Financial
+Review, the Report of the Directors and the Corporate
+Governance Report. We consider the implications for
+our report if we become aware of any apparent 
+misstatements or material inconsistencies with the
+financial statements. Our responsibilities do not
+extend to any other information.
+Basis of Audit Opinion
+We conducted our audit in accordance with International
+Standards on Auditing (UK and Ireland) issued by the
+Auditing Practices Board. An audit includes examination,
+on a test basis, of evidence relevant to the amounts
+and disclosures in the financial statements. It also
+includes an assessment of the significant estimates
+and judgments made by the Directors in the preparation
+of the financial statements, and of whether the accounting
+policies are appropriate to the group’s and company’s
+circumstances, consistently applied and adequately
+disclosed.
+We planned and performed our audit so as to obtain
+all the information and explanations which we considered
+necessary in order to provide us with sufficient evidence
+to give reasonable assurance that the financial statements
+are free from material misstatement, whether caused
+by fraud or other irregularity or error. In forming our
+opinion we also evaluated the overall adequacy of the
+presentation of information in the financial statements.
+Opinion
+In our opinion: 
+• The financial statements give a true and fair view, 
+in accordance with United Kingdom Generally 
+Accepted Accounting Practice, of the state of the 
+group’s and the parent company’s affairs as at 30 
+June 2007 and of the group’s profit and cash flows 
+for the year then ended;
+• The financial statements have been properly 
+prepared in accordance with the Companies Act 
+1985; and
+• The information given in the Directors' Report is 
+consistent with the financial statements.
+PricewaterhouseCoopers LLP
+Chartered Accountants and Registered Auditors
+Manchester
+18 September 2007
+Independent Auditors’ Report Ascribe plc Annual Report & Accounts year ended 30 June 2007 P23
+Consolidated Profit and Loss Account 
+For the year ended 30 June 2007
+Consolidated Statement of Total Recognised 
+Gains and Losses 
+For the year ended 30 June 2007 
+Continuing operations
+Turnover
+Cost of sales
+Gross profit
+Goodwill amortisation
+Share based payments
+Other administration expenses
+Total administration expenses
+Operating profit before goodwill 
+amortisation and share based payments
+Operating profit
+Bank interest received
+Interest payable
+Profit on ordinary activities before taxation
+Taxation on ordinary activities
+Profit on ordinary activities after taxation
+Basic earnings per share (pence)
+Fully diluted earnings per share (pence)
+2007
+£’000
+15,313
+(1,544)
+13,769
+(1,536)
+(98)
+(10,253)
+(11,887)
+3,516
+1,882
+38
+(225)
+1,695
+(387)
+1,308
+1.14
+1.09
+Restated
+2006
+£’000
+9,881
+(701)
+9,180
+(593)
+(162)
+(6,909)
+(7,664)
+2,271
+1,516
+48
+(41)
+1,523
+(290)
+1,233
+1.15
+1.11
+Note
+1
+3
+4
+4
+5
+7
+7
+Profit for the year
+Currency translation differences on 
+retranslation of subsidiary undertakings
+Total gains and losses recognised
+Effects of prior year adjustments
+Total gains recognised since the last annual report
+2007
+£’000
+1,308
+(12)
+1,296
+121
+1,417
+2006
+£’000
+1,233
+(50)
+1,183 Ascribe plc Annual Report & Accounts year ended 30 June 2007 P24
+Consolidated and Company Balance Sheets
+at 30 June 2007 
+The financial statements on pages 23 to 42 were approved by the Board of Directors on 18 September 2007 and
+were signed on its behalf by:
+A S Critchlow J S W Lee
+Directors
+Fixed assets
+Intangible fixed assets
+Tangible fixed assets
+Investment in subsidiary undertakings
+Current assets
+Debtors: amounts falling due within one year
+Debtors: amounts falling due after more than 
+one year
+Total debtors
+Cash at bank and in hand
+Creditors: amounts falling due within one year
+Net current liabilities
+Total assets less current liabilities
+Creditors: amounts falling due after 
+more than one year
+Net assets
+Capital and reserves
+Called up share capital
+Shares to be issued
+Share premium account
+Merger reserve
+Profit & loss account
+Shareholders’ funds
+Note
+8
+9
+10
+12
+12
+13
+14
+18
+21
+19
+19
+19
+20
+2007
+£’000
+16,815
+507
+-
+17,322
+3,075
+-
+3,075
+4,190
+7,265
+(10,293)
+(3,028)
+14,294
+(3,224)
+11,070
+1,143
+650
+9,220
+561
+(504)
+11,070
+Restated
+2006
+£’000
+19,082
+294
+-
+19,376
+3,124
+-
+3,124
+3,160
+6,284
+(11,330)
+(5,046)
+14,330
+(5,196)
+9,134
+1,142
+-
+9,181
+561
+(1,750)
+9,134
+2007
+£’000
+-
+97
+19,345
+19,442
+1,891
+-
+1,891
+887
+2,778
+(5,260)
+(2,482)
+16,960
+(3,224)
+13,736
+1,143
+650
+9,220
+-
+2,723
+13,736
+Restated
+2006
+£’000
+-
+83
+20,796
+20,879
+892
+2,000
+2,892
+-
+2,892
+(7,210)
+(4,318)
+16,561
+(5,196)
+11,365
+1,142
+-
+9,181
+-
+1,042
+11,365
+Group Company Consolidated Cash Flow Statement 
+for the year ended 30 June 2007 
+Note
+24a
+24b
+Net cash inflow from operating activities
+Return on investments and servicing of finance
+Interest paid
+Interest received
+Taxation:
+Corporation tax paid
+Capital Expenditure and Financial Investment:
+Purchase of tangible fixed assets
+Purchase of intangible fixed assets
+Proceeds from the sale of fixed assets
+Net cashflow from capital expeniture 
+and financial investment
+Acquisitions:
+Net cash acquired with subsidiaries
+Cash consideration and expenses
+Payment of deferred consideration
+Net cashflow from acquisitions
+Equity dividends paid to shareholders
+Net cash inflow/(outflow) before financing
+Financing:
+Fundraising expenses
+Loan advances
+Loan repayments
+Increase /(decrease) in cash
+Year ended 
+30 June 2007
+£’000
+4,287
+(225)
+38
+(187)
+(594)
+(385)
+(788)
+-
+(1,173)
+-
+(38)
+(850)
+(888)
+(148)
+1,297
+-
+1,431
+(557)
+874
+2,171
+Restated Year ended
+30 June 2006
+£’000
+2,528
+(41)
+48
+7
+(319)
+(103)
+(121)
+9
+(215)
+2,424
+(6,803)
+(800)
+(5,179)
+(107)
+(3,285)
+38
+2,600
+(50)
+2,588
+(697)
+Ascribe plc Annual Report & Accounts year ended 30 June 2007 P25 Ascribe plc Annual Report & Accounts year ended 30 June 2007 P26
+Statement of Accounting Policies
+Basis of Preparation
+The financial statements have been prepared on the
+going concern basis under the historical cost convention
+and are in accordance with the Companies Act 1985
+and applicable United Kingdom accounting standards.
+The following principal accounting policies have been
+applied on a consistent basis as set out below with the
+exception of the treatment of development costs and
+shares to be issued which are explained in Note 25 of
+the financial statements:
+Basis of Consolidation 
+The Group financial statements consolidate those of
+the Company and of its subsidiaries up to 30 June
+2007. The results of the other subsidiaries and 
+businesses acquired during the period are included
+from the effective date of acquisition.  Profits and
+losses on intra-Group transactions are eliminated in
+full. On acquisition of a subsidiary, all of the subsidiary’s
+assets and liabilities which exist at the date of acquisition
+are recorded at their fair values reflecting their condition
+at that date.  No profit and loss account is presented
+for the Company, as permitted by Section 230 of the
+Companies Act 1985.
+Goodwill
+Goodwill arising on acquisition of a subsidiary undertaking
+or business is the difference between the purchase
+consideration and the fair value of the assets and 
+liabilities acquired.  Purchased goodwill and goodwill
+arising on consolidation is amortised through the profit
+and loss account over the Directors’ estimate of the
+useful economic life of between 5 and 20 years.
+Impairment tests on the carrying value of goodwill are
+undertaken at the end of the first full financial year
+following acquisition and in other periods if events or
+circumstances change.
+Turnover and Long-term Contracts
+Turnover comprises the value of goods and services
+provided during the period, excluding value added tax, and
+includes income from licences, project implementation,
+installation, support, maintenance, training, consultancy
+and the supply of third party software and hardware.
+Each element of turnover is recognised when 
+i) Delivery of goods or provision of services has 
+taken place;
+ii) There are no significant obligations remaining to 
+be delivered; and
+iii) Collection of the amount due from the customers 
+i reasonably assured.
+The supply of licences is only recognised when the
+software is installed and appropriate training provided. 
+Revenue for project implementation, installation, training
+and consultancy is recognised proportionately as the
+work progresses. The supply of hardware is recognised
+on delivery to the customer. 
+For maintenance sales, only that proportion of revenue
+is recognised which relates to the part of the maintenance
+period falling within the accounting year.
+Income recognised in turnover but not invoiced at the
+period end is recorded in prepayments and accrued
+income in debtors. Where invoices are raised in
+advance of the provision of services they are recorded
+as deferred income in creditors.
+Revenue on long-term contracts is ascertained in a
+manner appropriate to the stage of completion of the
+contract at the period end date, with due regard to
+anticipated future costs. Amounts recoverable on such
+contracts are included within debtors. Payments on
+account in excess of turnover are included within
+creditors. Full provision is made for losses on all 
+contracts in the year in which the loss is first foreseen.
+Research and Development Costs
+All software research and development expenditure is
+expensed in the period in which it is incurred except
+where the development expenditure meets the criteria
+set out in SSAP 13 “Accounting for Research and
+Development Expenditure” when the qualifying 
+expenditure is capitalised and amortised over the 
+period that the group expects to derive economic 
+benefit from the developments currently estimated
+between one and five years. This is a change in
+accounting policy from previous years. 
+Fixed Asset Investments
+Fixed asset investments in subsidiary undertakings are
+stated at cost less provision for permanent diminution in
+value. Cost comprises the aggregate of cash consideration,
+the fair value of shares issued and acquisition expenses.
+Depreciation
+Depreciation is provided to write off the costs, less
+estimated residual values, of all fixed assets on a
+straight-line basis.  It is calculated at the followings
+rates:
+Leasehold improvements 20% per annum or life 
+of the lease if less.
+Fixtures and fittings 20% - 33
+1
+/ 3% per annum.
+Computer equipment 33
+1
+/
+3% per annum.
+Motor vehicles 33
+1
+/
+3% per annum.
+Deferred Consideration 
+The terms of an acquisition may provide that the fair
+value of the purchase consideration, which may be
+payable in cash or shares at a future date, depends on
+uncertain future events such as the future performance
+of the acquired company.  The amounts recognised in
+the financial statements are the fair value of the
+deferred consideration that is reasonably expected to
+be paid at the balance sheet date.  Ascribe plc Annual Report & Accounts year ended 30 June 2007 P27
+Deferred Taxation
+Deferred taxation is recognised in respect of all timing
+differences that have originated but not reversed at
+the balance sheet date where transactions or events
+that result in an obligation to pay more tax in the
+future or a right to pay less tax in the future have
+occurred at the balance sheet date.
+Deferred tax assets are regarded as recoverable and
+recognised in the financial statements when, on the
+basis of available evidence, it is more likely than not
+that there will be suitable taxable profits from which
+the future reversal of the timing differences can be
+deducted. The recoverability of tax losses is assessed
+by reference to forecasts which have been prepared
+and approved by the Board. No timing differences are
+recognised in respect of revalued tangible fixed assets
+or fair value adjustments to acquired tangible fixed
+assets where there is no commitment to sell the asset.
+The deferred tax assets and liabilities are not discounted.
+Foreign Currency Transactions
+Transactions in foreign currencies are recorded at the
+rate of exchange ruling at the date of the transaction.
+Monetary assets and liabilities denominated in foreign
+currencies are translated into sterling with the rate of
+exchange ruling at the balance sheet date, or at the
+contracted rate when covered by a forward exchange
+contract. Differences on exchange arising from the
+retranslation of the opening net investments in subsidiary
+undertakings are taken to reserves and reported in
+the statement of recognised gains and losses. All
+other foreign exchange differences are taken to the
+profit and loss account.  
+Operating Leases
+Operating lease rentals are charged to the profit and
+loss account on an accruals basis over the term of the
+lease.
+Pension Costs
+Contributions to staff and Directors defined contribution
+pension schemes are charged to the profit and loss
+account in the period in which they become payable. 
+Share Based Payments
+The Group has applied the requirements of FRS 20
+“Share-based Payments” in respect of all share options
+issued from the date of incorporation.
+The Group issues share options as a long term incentive
+plan to certain employees.  These share options are
+measured at fair value (excluding the effect of non-
+market based vesting conditions) at the date of grant.
+The fair value determined at the grant date of the
+share-based payments is expensed on a straight line
+basis over the vesting period, based on the estimate
+of the shares that will eventually vest and adjusted for
+the effect of non market-based vesting conditions.
+Fair value is measured using the Black-Scholes model.
+Financial Instruments
+Short term debtors and creditors have not been treated
+as financial assets and liabilities for disclosure purposes.
+The Group does not hold or issue derivative financial
+instruments for trading purposes.
+Dividends
+Interim dividends are recognised when paid and final
+dividends are recognised as a liability when the dividend
+has been approved by the Company’s shareholders.
+Dividends paid are not disclosed on the face of the
+profit and loss account but as a distribution out of 
+profit and loss reserves.   
+Statement of Accounting Policies cont. Ascribe plc Annual Report & Accounts year ended 30 June 2007 P28
+Notes Forming Part of the Financial Statements  
+1 Segmental Analysis
+Turnover is wholly attributable to the principal activities. A geographical analysis of turnover is as follows:
+All turnover by geographical operation is generated by the UK with the exception of £3,004,000 (2006: £490,000),
+generated from Australasia and Africa.  All net assets are held in the UK with the exception of net liabilities of £68,000
+(2006: net liabilities of £26,000), held in Australasia and Africa.
+The Directors believe that there are two distinct business classes being maintenance of software and the supply of
+new software. 
+2 Employees
+The Group operates a defined contribution pension scheme.  The assets of the scheme are held separately from those
+of the Group in an independently administered fund. The pension costs for the period represents contributions
+payable by the Group to these funds and amounted to £349,000 (2006: £152,000).
+At the year end, there was £30,000 unpaid pension contributions (2006: £7,000). 
+United Kingdom
+Rest of the World
+2007
+£’000
+13,107
+2,206
+15,313
+2006 
+£’000
+8,964
+917
+9,881
+Maintenance income
+Income relating to sales of software
+2007
+£’000
+9,619
+5,694
+15,313
+2006 
+£’000
+6,112
+3,769
+9,881
+Staff costs (including Directors) consist of:
+Wages and salaries
+Social security costs
+Pension costs
+Share based payments
+2007
+£’000
+6,288
+602
+349
+98
+7,337
+2006 
+£’000
+4,535
+451
+152
+162
+5,300
+Directors
+Emoluments
+Remuneration for management services
+Amounts paid to Directors’ connected parties for 
+their services
+Company contributions to a defined pension scheme
+Year ended 30 June 2007
+£’000
+437
+31
+35
+503
+Year ended 30 June 2006
+£’000
+627
+41
+42
+710 Notes Forming Part of the Financial Statements cont.
+2 Employees (continued)
+The average number of employees allocated by their principal activity (including directors) during the year was as follows:
+3 Operating Profit
+Included within the remuneration paid to the auditor’s above, was £38,000 in 2006 relating to acquisitions made 
+during that year which were capitalised as part of the cost of acquisitions.
+The Group had annual commitments under non-cancellable operating leases at the balance sheet date which expire in:
+This is arrived at after charging/(crediting):
+Net research and development costs (after capitalisation of 
+£788,000 (2006: £121,000))
+Depreciation of owned assets
+Amortisation of goodwill (note 8)
+Amortisation of capitalised development expenditure (note 8)
+Auditor’s remuneration:
+Fees paid to Company auditors for the audit of the 
+parent Company and consolidated accounts
+The audit of the Company's subsidaries pursuant to legislation
+Taxation services
+Services in relation to acquisitions
+Operating leases:
+Land and buildings
+Other
+Profit on disposal of fixed assets
+2007
+£’000
+2,036
+168
+1,536
+195
+30
+30
+20
+-
+80
+376
+8
+-
+Restated
+2006 
+£’000
+1,735
+118
+593
+-
+15
+30
+5
+38
+88
+248
+35
+(1)
+Within one year
+2 – 5 years
+In more than 5 years
+Land & 
+buildings 
+£’000
+82
+57
+228
+Other
+£’000
+8
+-
+-
+Land & 
+buildings 
+£’000
+27
+87
+220
+Other
+£’000
+3
+2
+0
+2007 2006
+Sales
+Administration
+Research and development
+2007 Number
+73
+52
+76
+201
+2006 Number
+63
+33
+64
+160
+Highest paid Director
+Aggregrate emoluments
+Company contribution to a defined 
+contribution pension scheme
+2007
+£’000
+196
+27
+223
+2006 
+£’000
+239
+25
+264 Ascribe plc Annual Report & Accounts year ended 30 June 2007 P30
+Notes Forming Part of the Financial Statements cont.
+4 Interest
+5 Taxation Charge on Profit on Ordinary Activities
+a) Analysis of charge for the year
+b) Factors affecting tax charge for the year
+The tax charge for the year is different to the standard rate of corporation tax in the UK. 
+The differences are explained below:
+Current tax
+UK corporation tax on profits for the year
+Adjustment with respect to previous periods
+Overseas taxation
+Total current tax
+Deferred tax - current year
+Deferred tax - prior year
+Group taxation
+2007
+£’000
+413
+(37)
+23
+399
+154
+(166)
+387
+2006 
+£’000
+328
+(43)
+5
+290
+-
+-
+290
+Profit on ordinary activities before taxation
+Theoretical tax at UK corporation tax rate of 30%
+Effects of:
+Depreciation in excess of capital allowances
+Amortisation of goodwill
+Utilisation of tax losses
+Marginal relief
+Expenses not deductible for tax purposes
+FRS 20 provision not deductible for tax purposes
+Research and development enhanced deduction
+Capitalised development expenditure
+Timing differences
+Adjustment to tax charge in respect to previous periods
+Current tax charge for the year
+2007
+£’000
+1,695
+509
+(16)
+234
+(6)
+-
+4
+30
+(157)
+(178)
+16
+(37)
+399
+Restated 
+2006 
+£’000
+1,523
+457
+14
+134
+(151)
+(3)
+2
+48
+(95)
+(36)
+(37)
+(43)
+290
+Bank interest receivable
+Interest payable
+2007
+£’000
+38
+(225)
+(187)
+2006 
+£’000
+48
+(41)
+7 Ascribe plc Annual Report & Accounts year ended 30 June 2007 P31
+5 Taxation Charge on Profit on Ordinary Activities (continued)
+c) Factors that may affect future tax charges
+At 30 June 2007, there are corporation tax losses within certain subsidiaries of approximate £217,000 
+(2006: £242,000) which are available for set off against future taxable profits of those same trades.
+A number of changes to the UK Corporation tax system were announced in the March 2007 Budget Statement and
+are expected to be enacted in the 2007 and 2008 Finance Acts. The changes had not been enacted at the balance
+sheet date and these changes are not therefore included in these financial statements.
+The effect of the changes enacted in the Finance Act 2007 would be to reduce the deferred tax liability provided at 
+30 June 2007 by £1,000. This tax decrease would increase profit for the year by £1,000. The decrease in deferred
+tax is due to the reduction in the corporation tax rate from 30% to 28% with effect from 1 April 2008.  
+6 Dividends
+Subject to Shareholder approval at the Annual General Meeting to be held on 31 October 2007, a dividend of £198,000 will be paid to
+shareholders on 1 November 2007.
+7 Earnings Per Share
+Basic earnings per share are calculated by dividing profit for the financial year attributable to ordinary shareholders by the
+weighted average number of shares in issue.  Diluted earning per share is the weighted average number of ordinary shares
+in issue adjusted for the potential ordinary share dilution from share options and shares to be issued.  Adjusted basic earning
+per share is calculated by adding back goodwill amortisation, share based payments and the dividends and appropriations
+relating to non equity shares repaid at flotation, to more accurately reflect the Group’s underlying earnings.
+Notes Forming Part of the Financial Statements cont.
+Profit after taxation (£’000)
+Share based payments (£’000)
+Goodwill amortisation (£’000)
+Profit attributable to ordinary shareholders (£’000)
+Number of shares (thousands)
+Earnings per share (pence)
+Basic weighted average no. of shares (thousands)
+Dilutions arising from share options (thousands)
+Dilution from shares to be issued (thousands)
+Diluted weighted average number of shares
+Basic
+1,308
+-
+-
+1,308
+114,250
+1.14
+-
+-
+-
+-
+Adjusted
+1,081
+98
+1,536
+2,715
+114,250
+2.38
+-
+-
+-
+-
+Diluted
+1,308
+-
+-
+1,308
+120,487
+1.09
+114,250
+4,227
+2,010
+120,487
+Basic
+1,233
+-
+-
+1,233
+107,678
+1.15
+-
+-
+-
+-
+Adjusted
+1,233
+162
+593
+1,988
+107,678
+1.85
+-
+-
+-
+-
+Diluted
+1,233
+-
+-
+1,233
+110,865
+1.11
+107,678
+3,187
+-
+110,865
+2007 2006 Restated
+Dividends payable on equity shares
+Equity dividends paid in the year: 
+0.13 pence per share (2006: 0.10 pence per share)
+Dividends proposed since the year end:
+0.17 pence per share (2006: 0.13 pence per share)
+2007
+£’000
+148
+198
+2006 
+£’000
+107
+148 Ascribe plc Annual Report & Accounts year ended 30 June 2007 P32
+8 Intangible Fixed Assets
+Adjustments to goodwill relate to the cancellation of consideration payable in relation to Park Systems Limited and Arkive Computing
+Limited and the revision to estimated deferred consideration for the acquisition of HE Information Systems Limited (note 11). 
+The assets are being amortised over a period of up to 20 years as this is the period which the Board of Directors believe the Group 
+will derive economic benefit from these assets.
+9 Tangible Fixed Assets
+Notes Forming Part of the Financial Statements cont.
+Group
+Cost:
+At 1 July 2006 
+Additions
+Adjustments
+At 30 June 2007 
+Amortisation:
+At 1 July 2006 
+Charge for the year
+At 30 June 2007 
+Net book value at 30 June 2007 
+Net book value at 30 June 2006
+Total
+£’000
+19,823
+788
+(1,324)
+19,287
+741
+1,731
+2,472
+16,815
+19,082
+Restated
+Development
+Expenditure
+£’000
+121
+788
+-
+909
+-
+195
+195
+714
+121
+Goodwill 
+£’000
+19,702
+-
+(1,324)
+18,378
+741
+1,536
+2,277
+16,101
+18,961
+Cost:
+At 1 July 2006
+Additions
+Reclassifications
+Disposals
+At 30 June 2007
+Amortisation:
+At 1 July 2006
+Charge for the year
+Reclassifications
+Disposals
+At 30 June 2007
+Net book value
+At 30 June 2007
+At 30 June 2006
+Leasehold 
+improvements
+£’000
+260
+130
+-
+-
+390
+216
+27
+-
+-
+243
+147
+44
+Motor 
+vehicles
+£’000
+256
+-
+(29)
+(11)
+216
+190
+26
+(22)
+(7)
+187
+29
+66
+Fixtures & 
+fittings
+£’000
+517
+26
+(298)
+-
+245
+454
+27
+(264)
+-
+217
+28
+63
+Computer
+Equipment
+£’000
+561
+229
+327
+-
+1,117
+440
+88
+286
+-
+814
+303
+121
+Total
+£’000
+1,594
+385
+-
+(11)
+1,968
+1,300
+168
+-
+(7)
+1,461
+507
+294
+Computer 
+equipment
+£’000
+83
+34
+-
+-
+117
+-
+20
+-
+-
+20
+97
+83
+Group Company Ascribe plc Annual Report & Accounts year ended 30 June 2007 P33
+10 Fixed Asset Investments - Company
+The principal subsidiary undertakings are as follows:
+All of the investments are directly held.
+11 Acquisitions
+The Group acquired Barwick Systems Limited (on 14 March 2006), the trade and assets of Jade Healthcare 
+(on 10 May 2006) and HE Information Systems Limited (on 29 June 2006).  These acquisitions have been 
+accounted for using the acquisition method of accounting. At 30 June 2006 provisional figures were used 
+for the fair values. Final fair values have now been determined and are unchanged as shown below:
+1 
+Deferred consideration is payable by means of the issue of ordinary shares to the value of £650,000 after 10 May 2007 subject to  
+the Jade business meeting performance targets. These targets were met and the equity issued on 16 July 2007.
+2 
+Payment of deferred consideration in relation to HE Information Systems Limited is subject to meeting certain performance targets in 
+the three years to 29 June 2009. Based on the results to 30 June 2007 and forecasts, the estimated deferred consideration has been 
+reduced from £2,500,000 (the maximum payable) to £1,500,000. Under the contractual arrangements, deferred consideration once 
+determined is settled 50% in cash and 50% in shares.
+Notes Forming Part of the Financial Statements cont.
+At 1 July 2006
+Adjustment with respect to investments held at 1 July 2006
+At 30 June 2007
+£’000
+20,796
+(1,451)
+19,345
+Name of Company
+ASC Computer Software Ltd
+Protechnic Exeter Ltd
+Footman Walker Associates Ltd
+Barwick Systems Ltd
+HE Information Systems Ltd
+Principal Activity
+Health Software
+Health Software
+Health Software
+Health Software
+Health Software
+Country of Incorporation
+England & Wales
+England & Wales
+England & Wales
+England & Wales
+England & Wales
+% of issued ordinary
+shares held and 
+voting rights
+100
+100
+100
+100
+100
+Acquisition date
+Tangible fixed assets
+Debtors
+Cash at bank and in hand
+Creditors
+Net assets/(liabilities) acquired
+Goodwill
+Total assets acquired
+Less costs of acquisitions
+Satisfied by cash
+Satisfied by equity
+Deferred consideration
+Barwick
+Systems Ltd
+14 March 2006
+£’000
+-
+176
+200
+(271)
+105
+1,971
+2,076
+(76)
+2,000
+2,000
+-
+-
+2,000
+Jade Healthcare 
+10 May 2006
+£’000
+-
+220
+-
+(450)
+(230)
+3,778
+3,548
+(168)
+3,380
+1,500
+1,230
+650
+2
+3,380
+HE Information
+Systems Ltd
+29 June 2006 
+£’000
+94
+598
+2,224
+(1,858)
+1,058
+4,555
+5,613
+(121)
+5,492
+2,994
+998
+1,500
+2
+5,492
+Total
+£’000
+94
+994
+2,424
+(2,579)
+933
+10,304
+11,237
+(365)
+10,872
+6,494
+2,228
+2,150
+10,872 Ascribe plc Annual Report & Accounts year ended 30 June 2007 P34
+12 Debtors
+1 
+Amounts due from subsidiary undertakings are unsecured and do not accrue interest.
+13 Creditors: Amounts falling due within one year
+1 
+Amounts due to subsidiary undertakings are unsecured and do not accrue interest.
+Notes Forming Part of the Financial Statements cont.
+Amounts due within one year:
+Trade debtors 
+Amounts due from subsidiary undertakings
+1
+Amounts recoverable on contracts
+Other debtors
+Prepayments and accrued income
+Deferred taxation
+Amounts due after more than one year:
+Amounts due from subsidiary undertakings
+Total debtors
+2007
+£’000
+2,008
+-
+92
+12
+951
+12
+3,075
+-
+-
+3,075
+2006
+£’000
+2,309
+-
+87
+107
+621
+-
+3,124
+-
+-
+3,124
+2007
+£’000
+-
+1,724
+-
+57
+36
+74
+1,891
+-
+-
+1,891
+2006
+£’000
+-
+787
+-
+51
+54
+-
+892
+2,000
+2,000
+2,892
+Group Company
+Bank overdraft
+Bank loan
+Trade creditors
+Amounts owed to subsidiary undertakings
+1
+Corporation tax
+Other taxation and social security
+Deferred consideration 
+Other creditors
+Deferred income
+Accruals
+2007
+£’000
+-
+700
+1,245
+-
+306
+906
+1,000
+181
+5,628
+327
+10,293
+Restated 
+2006
+£’000
+1,129
+759
+685
+-
+510
+721
+1,000
+53
+5,881
+592
+11,330
+2007
+£’000
+-
+700
+116
+3,358
+8
+4
+1,000
+9
+-
+65
+5,260
+Restated 
+2006
+£’000
+1,129
+759
+155
+3,846
+-
+-
+1,000
+10
+-
+311
+7,210
+Group Company Ascribe plc Annual Report & Accounts year ended 30 June 2007 P35
+Notes Forming Part of the Financial Statements cont.
+14 Creditors: Amounts falling due after more than one year
+15 Bank and Borrowings
+The bank loans are secured by the assets of the group and are denominated in sterling. For details of the Groups
+banking facilities and interest rate exposure see note 16.
+Bank loan
+Deferred consideration (note 11)
+2007
+£’000
+2,724
+500
+3,224
+Restated
+2006
+£’000
+1,791
+3,405
+5,196
+2007
+£’000
+2,724
+500
+3,224
+Restated
+2006
+£’000
+1,791
+3,405
+5,196
+Group Company
+Cash in hand
+Bank loan
+Bank overdraft
+The bank loan and overdraft is repayable as follows:
+Within one year or on demand
+In more than one year but not more than two years
+In more than two years but not more than five years
+2007
+£’000
+(4,190)
+3,424
+-
+(766)
+700
+882
+1,842
+3,424
+2006
+£’000
+(3,160)
+2,550
+1,129
+519
+1,888
+882
+909
+3,679
+2007
+£’000
+(887)
+3,424
+-
+2,537
+700
+882
+1,842
+3,424
+2006
+£’000
+-
+2,550
+1,129
+3,679
+1,888
+882
+909
+3,679
+Group Company Ascribe plc Annual Report & Accounts year ended 30 June 2007 P36
+Notes Forming Part of the Financial Statements cont.
+16 Financial Instruments
+The Group’s financial instruments comprise borrowings, cash and liquid resources and various items such as trade
+debtors and trade creditors that arise directly from its operations and deferred consideration liabilities. The main 
+purpose of these instruments is to raise finance for the Group’s operations. As permitted by Financial Reporting
+Standard 13 Derivatives and Other Financial Instruments, short term debtors and creditors have been excluded. The
+Directors consider the main financial risks to which the Group is exposed to from its operations are interest rate risk,
+liquidity risk and foreign exchange risk.
+Interest rate risk
+The Group seeks to minimise net interest payments by offsetting Group cash balances to limit overdrafts and 
+maximise centrally placed term deposits.
+During the year bank facilities were provided by the Royal Bank of Scotland plc. The bank loan and overdraft facility
+bear interest at a rate of 1.5% above the Royal Bank of Scotland plc’s base rate.
+The Group does not have any financial instruments to hedge against floating interest rate risk.
+All other financial assets and liabilities are non-interest bearing.
+Liquidity risk
+The Group finances its operations through a mixture of retained profits, equity and borrowings. Borrowings are raised
+at Group level and the Group’s policy is to maintain a mixture of short-term and medium-term bank facilities to meet
+foreseeable peak funding requirements.  Short term flexibility is achieved by overdraft facilities.
+As at 30 June 2007, the bank facilities were as follows:
+Overdraft £1,600,000 Next Review date set at June 2008
+Five Year Loan £3,424,000 Next Review date set at June 2011
+The overdraft was unutilised at 30 June 2007.
+Currency risks
+The group does not actively hedge against the effect of exchange rate differences resulting from the translation of
+foreign currency earnings, except in so far as a significant proportion of the foreign currency trade receivables are
+matched by similar denominated trade payables. Material surplus cash balances that are not denominated in sterling
+are promptly converted into sterling.
+Fair values
+The fair value of financial assets and financial liabilities are not considered to be materially different from its book value. 
+Financial assets
+Financial assets comprise net cash at bank and in hand as follows:
+All balances accrue interest at market rates.
+Net cash at bank and in hand
+Sterling
+Australian dollar
+New Zealand dollar
+Kenyan Shilling
+30 June 2007
+£’000
+3,592
+507
+74
+17
+4,190
+30 June 2006
+£’000
+1,675
+341
+9
+6
+2,031 Ascribe plc Annual Report & Accounts year ended 30 June 2007 P37
+Financial liabilities
+Financial liabilities comprise the following:
+All financial liabilites are denominated in Sterling.
+17 Deferred Taxation
+The potential deferred taxation (asset)/liability is as follows:
+Notes Forming Part of the Financial Statements cont.
+Accelerated capital allowances
+Sundry timing differences
+Share based payments
+Capitalised research and development expenditure
+Tax losses
+2007
+£’000
+-
+-
+-
+-
+-
+-
+2006
+£’000
+(84)
+(27)
+-
+-
+(4)
+(115)
+2007
+£’000
+(57)
+(37)
+(78)
+214
+(54)
+(12)
+2006
+£’000
+-
+-
+-
+-
+Unprovided Provided
+Bank overdraft
+Bank loan due within one year
+Bank loan due after more than one year
+Deferred consideration after more than one year
+30 June 2007
+£’000
+-
+700
+2,724
+500
+3,924
+30 June 2006
+£’000
+1,129
+759
+1,791
+3,405
+7,084
+Deferred taxation at 1 July 2006
+Transfered from Profit and Loss Account
+Deferred taxation at 30 June 2007
+£’000
+-
+12
+12 Ascribe plc Annual Report & Accounts year ended 30 June 2007 P38
+18 Share Capital
+Movement in share capital 
+On 20 December 2006, the Company issued 66,940 ordinary shares of 1p each to satisfy an employee share option exercised at 18p
+per share.
+On 5 January 2007, the Company issued 64,103 ordinary shares of 1p each in deferred consideration, at 39p per share, in relation to
+the acquisition of Arkive Computing Ltd completed on 17 June 2005.
+On 14 February 2007, the Company issued 15,000 ordinary shares of 1p each to satisfy an employee share option exercised at 18p
+per share.
+Share options
+The following options of the Ascribe plc Share Option Scheme, which include Director’s share options, 
+were outstanding at 30 June 2007:
+Notes Forming Part of the Financial Statements cont.
+Authorised
+140,000,000 (30 June 2006:140,000,000) 
+ordinary shares of 1p each
+Allotted, called up and fully paid
+114,324,076 (30 June 2006: 114,178,033)
+Ordinary shares of 1p each
+2007
+£’000
+1,400
+1,143
+2006
+£’000
+1,400
+1,142
+At 1 July 2006 
+Issued in respect of the exercise of share options
+Issued in respect of acquisitions
+Allotted, called up and fully paid share capital at 30 June 2007
+2007
+£’000
+1,142
+1
+-
+1,143
+2006
+£’000
+1,070
+-
+72
+1,142
+Date of
+Grant
+17 Dec 2004
+27 May 2005
+19 Dec 2005
+18 Sep 2006
+Total
+At
+1 July 2006
+6,711,551
+500,000
+399,000
+-
+7,610,551
+Issued
+in the year
+-
+-
+-
+821,000
+821,000
+Exercised
+in the year
+(81,940)
+-
+-
+-
+(81,940)
+Lapsed
+in the year
+(126,500)
+(200,000)
+(55,000)
+-
+(381,500)
+At
+30 June 2007
+6,503,111
+300,000
+344,000
+821,000
+7,968,111
+Period 
+of options
+17 Dec 2007
+- 16 Dec 2014
+27 May  2008
+- 26 May 2015
+19 Dec 2008
+- 18 Dec 2015
+18 Sep 2009
+17 Sep 2016
+Price 
+per share
+18p
+24p
+34.5p
+36p Notes Forming Part of the Financial Statements cont.
+Share options cont.
+The Executive Share Option Plan (ESOP) was introduced in December 2004. Under the ESOP the remuneration 
+committee can grant options over shares in the company to employees of the group. Options are granted with a fixed
+exercise price equal to the market price of the shares under the option at the date of grant. The contractual life of an
+option is 13 years. The company does not make annual grants of share options. Options granted under the ESOP will
+become exercisable between one and up to 12 years of the anniversary of the date of grant. Options were valued
+using the Black-Scholes option pricing model. No performance conditions were included in the fair value calculations.
+The fair value per option granted and the assumptions used in the calculation are as follows:
+The expected volatility is based on historical volatility of Ascribe plc and a number of listed companies within the IT
+and Health sectors over the last three years.  The expected life is the average expected period to exercise. The risk
+free rate of return is the yield on zero-coupon UK government bonds of a term consistent with the assumed option
+life. A reconciliation of option movements is shown above.
+The weighted average fair value of options granted in the year was £75,000 (2006: £33,000).
+The weighted average share price during the period for options exercised over the year was £0.36 (2006: £0.345).
+The total charge for the year relating to employee share based payment plans was £98,000 (2006: £162,000), 
+all of which related to equity-settled share based payment transactions. After deferred tax, the total charge was
+£69,000 (2006: £113,000).
+19 Reserves
+Share price at grant date (£)
+Exercise price (£)
+Number of employees
+Shares under option (number)
+Vesting period (years)
+Expected volatility
+Option life (years)
+Expected life (years)
+Risk free rate
+Expected dividends expressed as a dividend yield
+Fair value per option (£)
+17 December
+2004
+0.18
+0.18
+39
+6,503,111
+1-3
+33%
+10
+3
+4.4%
+0.1%
+0.0527
+27 May 
+2005
+0.24
+0.24
+2
+300,000
+3
+30%
+10
+3
+4.3%
+0.3%
+0.0643
+19 December
+2005
+0.345
+0.345
+54
+344,000
+3
+30%
+10
+3
+4.3%
+0.3%
+0.0958
+18 September
+2006
+0.36
+0.36
+10
+821,000
+1-3
+30%
+10
+3
+4.9%
+0.3%
+0.0916
+Group:
+At 1 July 2006 as originally reported
+Prior year adjustments (note 25)
+At 1 July 2006 as restated
+Exchange differences
+Profit for the year
+Share based payments
+Dividend paid
+Issue of shares (net of issue costs)
+At 30 June 2007
+Merger
+reserve
+£’000
+561
+-
+561
+-
+-
+-
+-
+561
+Share 
+premium
+£’000
+9,181
+-
+-
+-
+-
+-
+-
+39
+9,220
+Profit & loss
+account
+£’000
+(1,871)
+121
+(1,750)
+(12)
+1,308
+98
+(148)
+-
+(504)
+2007 2006
+Weighted
+average 
+exercise 
+price 
+36p
+Range of 
+exercise 
+prices 
+34.5 - 36p 
+Number of
+shares
+(‘000) 
+821
+Weighted
+average 
+remaining
+life: 
+Expected 
+2 years
+Weighted
+average 
+remaining
+life: 
+Contractual 
+12 years
+Weighted
+average 
+exercise 
+price 
+34.5p
+Number of
+shares
+(‘000) 
+344
+Weighted
+average 
+remaining 
+life: 
+Expected 
+2 years
+Weighted
+average 
+remaining 
+life: 
+Contractual 
+12 years Ascribe plc Annual Report & Accounts year ended 30 June 2007 P40
+19 Reserves cont.
+As permitted by section 230 of the Companies Act 1985, the parent company’s profit and loss account has not 
+been included in these financial statements. The profit for the financial year for the Company was £1,731,000 
+(2006: £453,000).
+20 Reconciliation of Movements in Equity Shareholders’ Funds
+21 Shares to be Issued
+Deferred consideration of £650,000, payable within one year, relates to the acquisition of Jade Healthcare and is
+dependent upon the financial performance of the business during the period to 10 May 2007.
+On 16 July 2007, following the satisfaction of performance criteria, the Company issued 2,010,517 ordinary shares of
+1p each in deferred consideration, at 32.33p per share, in relation to the acquisition of Jade Healthcare completed on
+10 May 2006.
+Notes Forming Part of the Financial Statements cont.
+Profit for the year
+Equity dividend
+Other recognised losses in the year
+Issue of shares (including premium net of issue costs)
+Shares to be issued
+Share based payments
+Net increase in equity shareholders’ funds
+Opening equity shareholders’ funds
+Prior year adjustments
+Opening equity shareholders’ funds restated
+Closing equity shareholders’ funds
+2007
+£’000
+1,308
+(148)
+(12)
+40
+650
+98
+1,936
+9,134
+-
+9,134
+11,070
+2006
+£’000
+1,233
+(107)
+(50)
+2,274
+-
+162
+3,512
+6,477
+(855)
+5,622
+9,134
+2007
+£’000
+1,731   
+(148)
+-
+40
+650
+98
+2,371
+11,365
+-
+11,365
+13,736
+2006
+£’000
+453
+(107)
+-
+2,274
+-
+162
+2,782
+9,438
+(855)
+8,583
+11,365
+Group Company
+In respect of deferred consideration
+2007
+£’000
+650
+Restated
+2006
+£’000
+-
+2007
+£’000
+650
+Restated
+2006
+£’000
+-
+Group Company
+Company:
+At 1 July 2006
+Profit for the year
+Share based payments
+Dividend paid
+Issue of shares (net of issue costs)
+At 30 June 2007
+Merger
+reserve
+£’000
+561
+-
+-
+-
+-
+561
+Share 
+premium
+£’000
+9,181
+-
+-
+-
+39
+9,220
+Profit & loss
+account
+£’000
+1,042
+1,731
+98
+(148)
+-
+2,723 Ascribe plc Annual Report & Accounts year ended 30 June 2007 P41
+Notes Forming Part of the Financial Statements cont.
+22 Capital Commitments
+The Group contracted for, but did not provide, £178,000 of capital expenditure at 30 June 2007 (30 June 2006: £nil).
+There was no capital expenditure contracted for but not provided for at 30 June 2007 for the Company (£nil: 30 June 2006).
+23 Related Party Transactions
+The Group has the following related party transactions to disclose for the financial year:
+AT Communications plc
+Mr M Woodbridge was Group Finance Director of AT Communications plc. The Group engaged the services of AT
+Communications plc for the supply and installation of IT systems. The Group was invoiced £188,000 during the year,
+on normal commercial terms of which £52,000 was outstanding in the year end up until his resignation on 6 February
+2007. Mr M Woodbridge was the Chairman of the Audit Committee.
+24 Notes to the Cash Flow Statement
+b) Analysis of changes in net (debt)/funds
+Bank overdraft
+Cash at bank
+Debt due within one year
+Debt due after more than one year
+1 July 2006
+£’000
+(1,129)
+3,160
+2,031
+(759)
+(1,791)
+(519)
+Cash flow
+£’000
+1,129
+1,042
+2,171
+59
+(933)
+1,297
+Non-cash
+movement
+£’000
+-
+(12)
+(12)
+-
+-
+(12)
+30 June 2007
+£’000
+-
+4,190
+4,190
+(700)
+(2,724)
+766
+a) Reconciliation of operating profit to net 
+cash inflow from operating activities
+Operating profit
+Depreciation of tangible fixed assets
+Goodwill amortisation
+Capitalised development expenditure amortisation
+Charge for share based payments
+Loss / (profit) on sale of tangible fixed assets
+Decrease / (increase) in debtors
+Increase in creditors
+Net cash inflow from operating activities
+Reconciliation of net cash flow to 
+movement in net funds /(debt)
+Increase / (decrease) in cash
+Cash outflow from increase in debt
+Change in net cash / (debt) arising from cash flow
+Exchange movement
+Opening net (debt) / funds
+Closing net funds / (debt)
+Year ended 30 June 2007
+£’000
+1,882
+168
+1,536
+195
+98
+4
+49
+355
+4,287
+2,171
+(874)
+1,297
+(12)
+(519)
+766
+Restated
+Year ended 30 June 2006
+£’000
+1,516
+118
+593
+-
+162
+(9)
+(606)
+754
+2,528
+(697)
+(2,550)
+(3,247)
+49
+2,679
+(519) Ascribe plc Annual Report & Accounts year ended 30 June 2007 P42
+Notes Forming Part of the Financial Statements cont.
+25 Prior Year Adjustments
+A prior year adjustment has been made with respect to a change in accounting policy in relation to capitalisation of
+Development costs.  
+The group believe that there is significant value to the software development that it undertakes each year and that it
+will be able to derive economic benefits from the developments for a number of subsequent years. Prior years have
+been restated accordingly and the profit and loss account credit for the year ended 30 June 2006 was £121,000. 
+The treatment of contingent deferred consideration as equity has been reconsidered and the accounts adjusted to
+reflect this as a liability in accordance with FRS 25. As a consequence, net assets decreased by £2,155,000 as at 
+30 June 2006. There is no effect on the profits of either 2006 or 2007. Ascribe plc Annual Report & Accounts year ended 30 June 2007 P43
+Notice of Annual General Meeting
+NOTICE IS HEREBY GIVEN that the Annual General Meeting of Ascribe plc will be held at Ascribe House, Brancker Street,
+Westhoughton, Bolton, BL5 3JD, on 31 October 2007 at 10am for the following purposes:
+Ordinary Business
+1. To receive and adopt the report of the Directors and the audited financial statements for the year ended 30 June 2007.
+2. To recommend to the Company’s shareholders that a dividend of 0.17 pence per ordinary share in the capital of the Company be 
+paid for the year ended 30 June 2007.
+3. To approve the Directors’ remuneration report for the year ended 30 June 2007.
+4. To re-appoint PricewaterhouseCoopers LLP as the Company’s auditors to hold office until the conclusion of the next general meeting 
+of the Company at which accounts are laid before the Company and to authorise the Directors of the Company to determine their 
+remuneration.
+5. To appoint Ian Priestner as a Director of the Company.
+6. To re-appoint, as a Director of the Company, David Hughes who is retiring by rotation.
+Special Business
+7. To consider and, if thought fit, pass the following resolution which will be proposed as an ordinary resolution:
+THAT, for the purposes of and pursuant to section 80(1) of the Companies Act 1985 (the “Act”), the Directors of the Company be
+authorised generally and unconditionally to exercise all powers of the Company to allot relevant securities (within the meaning of 
+section 80(2) of the Act) up to an aggregate nominal amount of £236,654 to such persons at such time and upon such terms and
+conditions as they may determine (subject always to the articles of association of the Company) provided this authority and power
+shall, unless renewed, varied or revoked, expire at the conclusion of the next annual general meeting of the Company or 15 months
+from the date of the passing of this resolution (whichever is the earlier) and provided further that the Company may before the expiry
+of such period make any offer, agreement or arrangement which would or might require relevant securities to be allotted after the
+expiry of such period and the Directors of the Company may then allot relevant securities pursuant to any such offer, agreement or
+arrangement as if the authority or power hereby conferred had not expired.
+8. To consider and, if thought fit, pass the following resolution which will be proposed as an special resolution:
+THAT, for the purposes of and pursuant to section 95(1) of the Act, the Directors of the Company be and they are hereby authorised
+and empowered to allot equity securities (within the meaning of section 94 of the Act) pursuant to the general authority and power
+conferred by resolution numbered 8 in this notice of meeting as if section 89(1) of the Act did not apply to any such allotment provided
+that this authority and power shall, unless renewed, varied or revoked, expire at the conclusion of the next annual general meeting of
+the Company or 15 months from the date of the passing of this resolution (whichever is the earlier) and provided further that this
+authority and power shall be limited:
+a. to the allotment of equity securities pursuant to a rights issue or similar offer to ordinary shareholders where the equity securities 
+respectively attributable to the interests of all ordinary shareholders are proportionate or nearly as practical (and taking into 
+account any prohibitions against or difficulties concerning the making of an offer or allotment to shareholders whose registered 
+address or place of residence is overseas and subject to such exclusions as the Directors of the Company may deem necessary or 
+expedient to deal with fractional entitlement or legal and practical difficulties under the laws of, or the requirements of any 
+recognised regulatory body in, any territory) to be respective numbers of ordinary shares held by them;
+b. to the allotment (otherwise than pursuant to paragraph a. above) for cash of equity securities up to an aggregate nominal amount 
+of £116,334.59.
+By order of the Board
+Jeremy Lee Ascribe House
+Company Secretary Brancker Street
+18 September 2007 Westhoughton
+Bolton, BL5 3JD
+Notes:
+1) A member entitled to attend and vote at the meeting may appoint one or more proxies to attend and vote instead of him. A proxy 
+need not be a member of the company. A form of proxy is attached to this notice of general meeting and instructions for use are 
+given on the form; the form must be lodged at the company’s registered offices not less than 48 hours before the time appointed 
+for the holding of the meeting. Completion and return of the form of proxy will not prevent a member from attending and voting 
+at the meeting should he so wish.
+2) The Company pursuant to the Uncertified Securities Regulations 2001, has specified that only holders of ordinary shares registered 
+in the register of members of the Company as at 6.00pm on 29 October 2007 shall be entitled to attend and vote at the meeting in 
+respect of the number of shares registered in their name. Changes in the register of members after 6.00pm on 29 October 2007 
+shall be disregarded in determining the right of any person to attend and vote at the meeting.
+3) The following documents will be available for inspection at the Company’s registered office during normal business hours on any 
+weekday (Saturday and Sundays excluded) from the date of this Notice until the date of the meeting and at the place of the meeting
+from 10.45 on 29 October 2007 until its conclusion: (a) the register of Directors’ interests in the capital of the company, (b) copies 
+of the Directors’ contracts of service.  Ascribe plc Annual Report & Accounts period ended 30 June 2006 P49
+Directors
+A S Critchlow Executive Chairman
+J S W Lee Finance Director
+C Dickson Chief Operating Officer 
+D M Hughes*
+Δ
+Non-Executive Director
+I Priestner*
+Δ
+Non-Executive Director
+* Member of the Audit Committee
+Δ
+Member of the Remuneration Committee
+Secretary
+J S W Lee
+Company Registration Number
+5204003
+Registered Office
+Ascribe House
+Brancker Street
+Westhoughton
+Bolton
+BL5 3JD
+Auditors
+PricewaterhouseCoopers LLP
+Registered Auditors
+101 Barbirolli Square
+Lower Mosley Street
+Manchester
+M2 3PW
+Solicitors
+Pinsent Masons Eversheds LLP
+100 Barborolli  Square Eversheds House
+Manchester 70 Great Bridgewater Street
+M2 3SS Manchester
+M1 5ES
+Nominated Advisor and stockbroker
+Cenkos Securities Limited
+6.7.8 Tokenhouse Yard
+London
+EC2R 7AS
+Registrar
+Neville Registrars Limited
+18 Laurel Lane
+Halesowen
+B63 3DA
+Principal Bankers
+The Royal Bank of Scotland
+1 Spinningfields Square
+Manchester
+M3 3AP
+Designed and produced by Lime Print Solutions Ltd.
+Tel. 01925 244727  email. studio@lime-solutions.net
+Directors, Secretary and Advisers Ascribe plc
+Ascribe House  Brancker Street  
+Westhoughton  Bolton  BL5 3JD
+Telephone +44 (0)870 053 4545
+Fax +44 (0)870 053 3777
+Email info@ascribe.com
+Web www.ascribe.com
+ASCRIBE Annual Report and Accounts for the year ended 30 June 2007

@@ -1,0 +1,3245 @@
+  1 Financial Highlights
+2 Chairman’s Statement
+3 Business Review – Group CEO’s Operating Review
+8 Business Review – Financial Review
+11 Business Review – Directors’ Assessment of Risk
+13 Directors
+14 Directors’ Report
+18 Corporate Governance Statement
+23 Remuneration Report
+29 Statement of Directors’ Responsibilities
+30 Independent Auditors’ Report
+32 Consolidated Income Statement
+34 Consolidated Statement of Recognised Income and Expense
+35 Consolidated Balance Sheet
+36 Consolidated Cash Flow Statement
+38 Company Income Statement
+38 Company Statement of Recognised Income and Expense
+39 Company Balance Sheet
+40 Company Cash Flow Statement
+42 Notes to the Financial Statements
+86 Corporate Directory
+87 Shareholder Information
+Filtronic plc Annual Report 2006
+Contents Financial Highlights
+Continuing
+operations
+2006 2005
+Revenue £221.0m £212.9m
+Operating (loss)/profit £(4.2)m £5.6m
+(Loss)/profit before taxation £(6.9)m £3.9m
+Basic (loss)/earnings per share (11.13)p 5.01p
+Diluted (loss)/earnings per share (11.13)p 5.00p
+Group
+2006 2005
+Revenue £234.6m £262.9m
+Operating (loss)/profit £(4.0)m £11.2m
+(Loss)/profit before taxation £(6.7)m £9.5m
+Gain on sale of discontinued operation £14.1m –
+Basic earnings per share 8.03p 12.44p
+Diluted earnings per share 8.02p 12.41p
+Dividend per share 2.70p 2.70p
+Net debt £12.7m £43.4m
+Total equity £94.4m £93.6m
+Filtronic plc Annual Report 2006 1 Chairman’s Statement
+These are the ﬁrst full year results prepared on the basis of International Financial Reporting Standards adopted by the
+European Union.
+Filtronic has again achieved growth for the continuing activities of the group, with revenue for the year ended 31 May
+2006 increased by 3.8% to £221.0m (2005 £212.9m). The operating result for continuing operations was a loss of £4.2m
+(2005 £5.6m proﬁt). The proﬁt for the period was £6.0m (2005 £9.3m).
+The Board therefore proposes to maintain a ﬁnal dividend of 1.80p (2005 1.80p) payable on 31 October 2006 to
+shareholders on the register on 29 September 2006.
+This has been an eventful year for the group. The Handset Products division was sold in September 2005 for £56.7m,
+including the earn-out. The composition of the Board changed in January 2006 with the resignation of John Roulston as
+Group Chief Executive. The Board requested David Rhodes to move from Chairman to take on this role so that he would
+bring his knowledge and experience of the business and staff to put the group on a stable footing. I took on the role of
+non-executive Chairman on an interim basis whilst the Board seeks my long term successor. 
+On 5 May 2006 we announced that we had entered into exclusive negotiations with Powerwave Technologies, Inc.
+(“Powerwave”) for the sale of the major activities within our Wireless Infrastructure division, resulting in the formal
+agreement of this transaction, which was announced on 12 June 2006. The consideration due is $150m (approximately
+£81m) cash and 20.7m shares of Powerwave’s common stock, and the shareholder circular for this transaction is in
+preparation, with completion of the sale due by 30 September 2006.
+For the other activities of the group, the highlight for the year has been the GaAs semiconductor fabrication facility at
+Newton Aycliffe reaching its target of breakeven by the ﬁnancial year end for the fourth quarter of the ﬁnancial year. The
+Defence Electronics activities opened their new manufacturing facility in New Hampshire, USA in September 2005 which
+provides the base for medium term growth. Also, we are retaining the point to point radio backhaul activity which is
+showing strong growth.
+The cash proceeds from the sale to Powerwave will be used to repay outstanding bank debt and to fund continuing
+investment in the Newton Aycliffe semiconductor facility, along with other corporate working capital requirements. The
+net proceeds from the sale of the Powerwave shares are expected to be returned to shareholders as cash, once they
+are sold. 
+This year also saw the retirement of Alan Needle from the role of Managing Director of the Wireless Infrastructure
+division in December 2005. He initiated the commercial application of the defence technology that created the current
+Wireless Infrastructure activity. As Managing Director, he took the business to ﬂotation in 1994 and, under his leadership,
+Filtronic became the world’s leading independent supplier of transmit/receive modules for mobile base stations. We
+thank him for this considerable contribution.
+Reginald Gott joined the Board as a non-executive director on 13 July 2006 and brings his extensive background in the
+machinery, automation and controls segments of the capital goods market across Europe and North America to
+strengthen the Board.
+I also expect that the Board will continue its active search for my long term replacement, who will be responsible for
+organising the evolution of the management team and completion of the refresh of the members of the Board.
+In supporting us through this eventful year, I would like to thank all of our employees for their dedication to the growth
+of the business as the group continues to evolve and John Roulston for his dedication and contribution. The Board is
+continuing its drive to have the intrinsic value of the group’s operations recognised in the company’s valuation.
+Rhys Williams
+Chairman
+31 July 2006
+2 Filtronic plc Annual Report 2006 Business Review
+– Group CEO’s
+Operating Review
+Summary
+This year has been one of considerable change as I have sought to complete the ﬁnancial restructuring initiated in
+September 2004 and to revitalise the market’s appreciation of the value inherent in the group.
+The Handset Products division was sold in September 2005 to Pulse Electronics (Singapore) PTE Ltd, a subsidiary of
+Technitrol Inc. (“Pulse”) for a total consideration of £56.7m, including the earn-out consideration of £11.3m due in
+August 2006. The initial consideration of £45.4m was used to repay the £44.0m term loan from Barclays and ABN AMRO,
+which had been rescheduled over a ﬁve year term with revised ﬁnancial covenants in July 2005.
+Defence Electronics opened its new manufacturing site in New Hampshire, USA in September 2005, partly to support
+the supply of subsystems to ITT. The UK continued its activities across a range of programmes including the supply of
+subsystem assemblies for the Euroﬁghter Defensive Aids system to Elettronica of Italy and EADS of Germany.
+Compound Semiconductors continued to experience growing demand for its products, so we decided in the ﬁrst half
+of the year to increase capacity as its ﬁnancial performance was on target.
+In January 2006, the Board also asked me to move from being Chairman to take the role of Group Chief Executive on
+John Roulston’s resignation. I undertook to carry out the role for a twelve to eighteen month period with the speciﬁc
+aims of providing leadership to the Wireless Infrastructure division following the retirement of its previous Managing
+Director, Alan Needle, in December 2005, and to support Iain Gibson in setting the direction for the next steps in the
+growth of the Compound Semiconductor and Defence Electronics activities within the Integrated Products division. 
+On appointment, I secured the management team of the Wireless Infrastructure division by ensuring the retention of
+Geoff Fletcher as Managing Director of the division. Subsequently, after a review of the group’s strategic options, the
+Board agreed that the majority of the activities in the Wireless Infrastructure business, covering transmit receive
+modules, integrated power ampliﬁers and remote radio head products, would be acquired by Powerwave. 
+We have subsequently continued to beneﬁt from strengthening growth for the Wireless Infrastructure division arising
+from operators outside North America commissioning systems from OEMs. 
+The outlook for the businesses within the group is set out at the end of this report.
+The segmental analysis of the operating results for continuing operations is as follows:
+Revenue Operating (loss)/proﬁt
+Year ended 31 May 2006 2005 2006 2005
+£m £m £m £m
+Wireless Infrastructure 172.7 177.7 5.5 17.5
+Defence Electronics 32.1 31.6 0.6 3.1
+Compound Semiconductors 20.8 8.6 (5.1) (11.7)
+Central Services – – (4.1) (5.7)
+Inter segment (4.6) (5.0) – –
+Unallocated pension (charge)/credit – – (1.1) 2.4
+1 1 1 1
+221.0 212.9 (4.2) 5.6
+5 5 5 5
+The business segments were redeﬁned with effect from 1 June 2005. The business segment results for the comparative
+period have been re-analysed to be consistent with the current period.
+Filtronic plc Annual Report 2006 3 Business Review
+– Group CEO’s
+Operating Review
+Wireless Infrastructure
+Wireless Infrastructure designs and manufactures the transmit/receive modules, power ampliﬁers and remote radio
+heads for mobile base stations, and point to point backhaul radio products that are primarily used to support mobile
+phone networks. During the year, the activities generated revenues of £172.7m (2005 £177.7m). The core business
+maintained its market leading position supplying all Western OEMs, and reﬂected a static market awaiting the placing
+of certain large contracts in India, China and the US that have started to be placed during the current year. 
+The operating proﬁt was £5.5m (2005 £17.5m), reﬂecting principally pricing pressure that was not able to be fully
+compensated by product redesign, and a slower than planned move of production on high volume product lines from
+Finland to Hungary and from the US to China. We closed our Australian operations in August 2005 at a total cost of
+£1.1m, which is included in this result. During the second half of the ﬁnancial year, the business suffered unseasonally
+low demand during the third quarter and the activity for the fourth quarter included the negative impact of the
+announcement made on 5 May 2006 of discussions with Powerwave. Provision was also made in the second half of the
+ﬁnancial year for the ﬁnalisation of a commercial agreement in respect of a product liability issue with a customer.
+The power ampliﬁer products were manufactured in production quantities for one customer, and we undertook product
+development for another customer on a product scheduled to start production in the second half of the ﬁnancial year
+ending 31 May 2007.
+The principal products for the point to point backhaul radio products are radio transceivers assembled in the UK, which
+use integrated circuits produced by Compound Semiconductors, along with diplex ﬁlters which are manufactured in the
+UK and Hungary. Its customers are leading OEMs in the sector for whom several new products have entered production
+during the year. Further new designs are in qualiﬁcation using our more complex multifunction integrated circuits.
+Compound Semiconductors
+In the past twelve months, the Compound Semiconductors facility at Newton Aycliffe has been undergoing a transition
+from its prior position as a modest producer of Gallium Arsenide (GaAs) pHEMT wafers to being a volume producer of
+these products. They are used mainly in switches in mobile telephones, but also have applications in communication
+equipment and defence applications. While the majority of recent growth stems from expansion in the mobile telephone
+sector, it has also been pleasing that the year has seen initial volume production orders from Selex as they achieve
+success with E-Scan radar sales. While there was some disappointment in sales of merchant semiconductors, to a large
+extent this has been caused by the priority of meeting steep customer demand for switches. One beneﬁt of the
+additional capacity to be created in the future is to allow Compound Semiconductors to establish a stronger presence
+in the merchant semiconductors sector.
+The global mobile handset market is continuing its growth with approximately 815 million handsets sold in 2005, and
+forecast to be over 1 billion handsets sold in 2008. Use of GaAs switches is now speciﬁed for most new handset designs,
+and 80% of handsets manufactured in 2008 are expected to be of a design which contains this type of switch. This switch
+has the advantage that it consumes less power than alternative products for complex switches, and meets demanding
+low-loss and linearity requirements. Competition is from older technologies that use 3 way pin diode or GaAs switches
+combined with band deﬁning ﬁlters. Furthermore, handsets are becoming more complex with increasing switching
+requirements offering the possibility that the quantity of GaAs used per handset will increase further over the next two
+to three years.
+Revenue in the year grew 142% (2005 £8.6m to 2006 £20.8m) and the sequential growth rate in revenue comparing half
+year on half year during the ﬁnancial year was 45%. Operating losses reduced from £11.7m in 2005 to £5.1m in 2006,
+including closure costs of our USA West Coast sales ofﬁce of £0.4m which were incurred in the ﬁrst half of the year.
+4 Filtronic plc Annual Report 2006 It was pleasing that Compound Semiconductors reached its targeted ﬁnancial performance of an operating break even
+run rate over the fourth quarter of the ﬁnancial year to 31 May 2006. This was after absorbing the cost increases
+associated with commissioning a further capacity in the second half of the year. This was before the recognition of the
+release of £2.7m of deferred income in the period arising from the renegotiation of arrangements on past government
+grants. On the basis of this performance and the demand growth mentioned above, the Board has planned further
+expansion in the capacity of Compound Semiconductors in the coming ﬁnancial year.
+Defence Electronics
+For over 25 years Filtronic has supplied complex electromagnetic components and subsystems, most notably for use in
+the ﬁeld of electronic warfare, to defence equipment prime contractors around the world. Although the Defence
+Electronics activities are divided between the UK and the US, the two parts of the company, which are managed as
+separate entities, operate in similar market sectors, reﬂecting the original technology base of the UK company. 
+The UK business (FCL) currently has manufacturing sites in Shipley and at Newton Aycliffe and a small research group in
+Australia. The past ﬁnancial year has seen one of FCL’s larger contracts, for the supply of subsystems for the Euroﬁghter
+project, draw to a close. Consequently, additional focus has been applied to securing new business for future years. 
+Following a review of the future opportunities for the company in the US defence market, the past year has seen a
+signiﬁcant consolidation of the US business. In order to achieve better leverage of the company’s competencies and to
+lay a solid growth path for the company in the US defence market, the Sage manufacturing operation and the Sigtek
+design centre were combined into a new business, Filtronic Signal Solutions (FSS). A new manufacturing site was opened
+in Hudson, New Hampshire in September 2005, which consolidated the two previous manufacturing operations in the
+US, supporting the contract with ITT, following which the management team has been progressively strengthened. A
+major review of the business following these changes resulted in an inventory write down of £1.5m, which was made in
+the interim results for the six months to 30 November 2005.
+Revenue in the year grew 2% (2005 £31.6m to 2006 £32.1m) and operating proﬁt before the inventory write down of
+£1.5m in 2006 was £2.1m (2005 £3.1m).
+Central Research and Development
+Central Research and Development has supported the development of a new power ampliﬁer product for a new
+customer, based on LDMOS technology, that is scheduled to start production in October 2006. It has also undertaken
+development work on remote radio heads for 3G and WiMAX applications in support of the Wireless Infrastructure
+division.
+Business disposals
+This has been a year of major change in the structure of the group with the sale of the Handset Products division in
+September 2005, and agreement for the sale of the Wireless Infrastructure business (transmit/receive modules, power
+ampliﬁers and remote radio heads activities of the Wireless Infrastructure division). 
+The Handset Products division is treated as a discontinued operation. The Handset Products division was a market
+leader in the provision of internal antennas for mobile handsets and was sold to Pulse in September 2005. For the period
+from 1 June 2005 to the date of its sale on 8 September 2005, it generated revenue of £13.6m and an operating proﬁt
+of £0.2m. The total consideration, including the earn-out due in August 2006, was £56.7m, resulting in a proﬁt on disposal
+of £14.1m. 
+Filtronic plc Annual Report 2006 5
+Business Review
+– Group CEO’s
+Operating Review Finance
+The group rescheduled its bank facilities with Barclays and ABN AMRO in July 2005 to be a term loan of £44m repayable
+over ﬁve years and an overdraft of £9m. The term loan was repaid on completion of the sale of the Handset Products
+division in September 2005 and the group’s facilities became a revolving credit facility of £18m available until August
+2008 and an overdraft of £2m. In May 2006, the group secured an additional facility of £15m from its bankers until
+30 November 2006 to fund the expansion of the Compound Semiconductors facility at Newton Aycliffe.
+Capital expenditure
+The group’s capital expenditure for the continuing operations was £13.4m (2005 £8.5m). The capital expenditure was
+incurred principally to increase capacity in Compound Semiconductors in the light of continued growth in customer
+demand, and the completion of the move to the new manufacturing facility in the US for Defence Electronics. Capital
+expenditure in the discontinued Handset Products operation was £1.0m (2005 £4.5m) in the period before disposal. This
+was for the start-up of the manufacturing facility in Hungary and capacity expansion in China.
+Employees
+At 31 May 2006, the group employed 3,353 people in its continuing operations, an increase of 20% since May 2005,
+primarily in Wireless Infrastructure’s manufacturing operations in China and Hungary.
+Outlook
+Wireless Infrastructure
+The Wireless Infrastructure division has experienced continuing strengthened demand in its market, that has been
+reﬂected in the order book in June being extended out from its usual period of around two weeks to twelve weeks and
+this has been accompanied by increased visibility in the forecasts received from customers for later in the ﬁnancial year.
+As a result, production capacity has been increased with output for the largest volume product being doubled since
+January and manufacturing operations in Finland have been restarted to meet demand for a speciﬁc product. In
+addition, demand for point to point backhaul radios has doubled year on year.
+With this increase in demand, pricing has been agreed for a longer period than usual with a key customer.
+It is also well positioned to support Long Term Evolution GSM with its core OEM customers. This outlook for this division
+is focused on growth from its traditional customer base.
+The planned ﬁnancial performance for the Wireless Infrastructure division is therefore that revenue for the ﬁrst half of the
+current ﬁnancial year is expected to increase by more than 25% compared with the preceding half year and, with the
+strength of the current market, customer demand extends well into the second half of the current ﬁnancial year,
+supporting expected continued growth going forward.
+6 Filtronic plc Annual Report 2006
+Business Review
+– Group CEO’s
+Operating Review Business Review
+– Group CEO’s
+Operating Review
+Compound Semiconductors
+For Compound Semiconductors, we are now providing some 20% of the overall mobile handset market with 4-way and
+above mobile phone pHEMT switches, which is around an 80% share of the addressable market. Continued market
+adoption of our type of switches is expected to reach 80% of overall mobile phone market over the coming three years.
+As a result of a detailed assessment of future wafer requirements, we have phased our plans for capacity increase and
+we are currently undertaking this expansion in line with forecast demand for the current ﬁnancial year.
+Therefore our ﬁnancing plan for the growth of Compound Semiconductors requires less than £15m of additional cash
+for this ﬁnancial year, after which the business is targeted to be self-ﬁnancing.
+With the proﬁle of capacity deployment, revenue growth of over 25% is therefore expected per sequential half year for
+the current ﬁnancial year including initial growth in merchant semiconductors and non-switch volume products and
+growth in demand to support ﬁlter and backhaul radio products.
+Defence Electronics
+With its three major contracts substantially complete in the ﬁnancial year ended 31 May 2006, the focus in Defence
+Electronics is to secure new business which will mostly generate replacement revenues over the ﬁnancial year and
+provide a platform for future growth. In both the UK and US, opportunities have been identiﬁed and are being supported
+by appropriate product development activities.
+Pension scheme
+We are expecting to implement changes to the group’s ﬁnal salary pension scheme at the end of the consultation period
+on 31 July 2006 to have beneﬁts based on career average revalued earnings.
+As part of this change to the scheme, the company has agreed to provide additional funding of £4.6m on
+implementation of the changes to the scheme to fund the actuarial deﬁcit at the date of change. The existing
+contribution arrangements remain in place which require that any increases in contribution rates over current levels that
+are required to fund deﬁcits would be made two thirds by employee members and one third by the company.
+Professor J David Rhodes CBE FRS FREng
+Group CEO
+31 July 2006
+Filtronic plc Annual Report 2006 7 Business Review
+– Financial Review
+Results
+Continuing operations generated revenue of £221.0m (2005 £212.9m), resulting in an operating loss of £4.2m
+(2005 5.6m proﬁt). The group loss before tax was £6.7m (2005 £9.5m proﬁt), and the loss after tax was £8.1m (2005 £9.3m
+proﬁt). The operating results are discussed in the Group CEO’s Operating Review, along with a review of the business
+and outlook.
+International Financial Reporting Standards
+The ﬁnancial statements have been prepared for the ﬁrst time on the basis of International Financial Reporting Standards
+as adopted by the European Union (IFRS). The comparative ﬁgures for the year ended 31 May 2005 have been restated
+accordingly.
+The main changes resulting from the implementation of IFRS were the recognition of deﬁned pension scheme liability
+in the balance sheet, no amortisation of goodwill arising on acquisitions, share-based payment expense for share
+options, and a revised accounting policy for research and development that permits capitalisation of expenditure in
+certain circumstances.
+Research and development costs
+Research and development costs of £27.6m (2005 £31.1m) were expensed, which was 11.8% (2005 11.8%) of sales.
+No research and development costs were capitalised in the balance sheet.
+Gain on sale of property
+During the year the group sold a property located on the East coast of the USA for £1.4m and surplus land at Newton
+Aycliffe, County Durham for £2.1m. Together these two sales resulted in a gain on sale of property of £0.5m (2005 £2.4m).
+Interest expense
+Interest expense was reduced to £1.8m (2005 £4.2m) as a result of repaying the £44.0m bank loan during the year with
+the proceeds from the sale of the Handset Products division. 
+Taxation
+The net taxation charge of £1.4m (2005 £0.2m) arises primarily from the group’s operations in China and Finland, where
+taxable proﬁts cannot be relieved by losses available in other jurisdictions. The deferred tax credit arising in 2005 of
+£2.2m was due to the initial recognition of a proportion of the tax losses carried forward by the group’s operations in the
+United States of America as a deferred tax asset in the balance sheet.
+Disposal of Handset Products division
+On 8 September 2005 the Handset Products division was sold for a net consideration of £45.4m plus an earn-out
+consideration of £11.3m, due to be paid in August 2006. The gain on the sale of the division was £14.1m. The Handset
+Products division has been treated as a discontinued operation in the ﬁnancial results for both the years ended 31 May
+2006 and 31 May 2005.
+Capital expenditure
+Capital expenditure of £14.4m (2005 £13.0m) comprised continuing operations £13.4m (2005 £8.5m) and discontinued
+operations £1.0m (2005 £4.5m).
+8 Filtronic plc Annual Report 2006 Business Review
+– Financial Review
+Compound Semiconductors operation at Newton Aycliffe
+The Compound Semiconductor operation at Newton Aycliffe achieved its target of being at run rate breakeven over the
+last quarter of the year ended 31 May 2006. In light of this improved operating performance and increasing customer
+demand, an impairment review of the operation has not been undertaken.
+The Board has approved further ﬁnancing of up to £15.0m for Newton Aycliffe, over the coming ﬁnancial year, to meet
+current demand forecasts. The business is targeted to be self-ﬁnancing thereafter. 
+Deferred income
+Deferred income comprised government grants and the licence fee paid by BAE SYSTEMS Avionics Limited (now SELEX
+SAS) in connection with the Supply and Development Agreement dated 30 November 2001. 
+The arrangements for the regional selective assistance grants in respect of Newton Aycliffe were renegotiated during
+the year. As a result of the renegotiation £2.7m has been released to income, bringing the total deferred grant income
+recognised in the year to £3.9m (2005 £0.7m). No further grants are now due to be received, and there is no deferred
+grant income at 31 May 2006 for recognition in later years. 
+The deferred licence fee income recognised as revenue amounted to £2.3m (2005 £2.3m). The recognition of this
+deferred licence fee income continues until 1 May 2008. 
+Working capital
+At 31 May 2006 net working capital was £48.5m (2005 £52.9m). The reduction was primarily due to the disposal of the
+Handset Products division during the year. Net working capital comprised inventories £33.6m (2005 £34.8m), receivables
+£56.3m (2005 £67.9m) and less payables £41.4m (2005 £49.8m).
+Cash flow and net debt
+Cash inﬂow from operating activities was £0.5m (2005 £18.6m), cash inﬂow from investing activities was £33.7m (2005
+£5.0m outﬂow) and net cash outﬂow from ﬁnancing activities was £30.4m (2005 £12.2m). During the year the £44.0m term
+loan was repaid, and £18.0m revolving credit facilities were drawn, to end the year with net debt of £12.7m (2005 £43.4m),
+reducing gearing from 46% to 13%.
+Financing 
+We amended our bank debt facilities with Barclays and ABN AMRO three times during the year. In July 2005, the term
+loan of £44.0m was agreed over a ﬁve year period along with an overdraft of £9.0m. The term loan was repaid on
+completion of the sale of the Handset Products division in September 2005 and replaced by facilities totalling £20.0m.
+These are a revolving credit facility of £18.0m available until 31 August 2008 and an overdraft of £2.0m. On 31 May 2006,
+a further facility of £15.0m available to 30 November 2006 was arranged for the ﬁnancing of the expansion of Compound
+Semiconductors. Arrangement fees totalling £0.5m have been charged in the year. The arrangement fee of £0.5m for the
+most recent facility arises in the ﬁnancial year ending 31 May 2007.
+Filtronic plc Annual Report 2006 9 Business Review
+– Financial Review
+Defined benefit pension scheme
+The group operates a deﬁned beneﬁt pension scheme for United Kingdom employees. After a consultation period with
+the members of the scheme, which ends on 31 July 2006, it is expected that the beneﬁts under the scheme will change
+from the current ﬁnal salary basis to being based on career average revalued earnings. 
+As part of the change to the scheme, the company has agreed to pay £4.6m into the scheme to fund the actuarial deﬁcit
+at the date of change.
+The deﬁned beneﬁt pension liability in the group and company balance sheets was £20.6m (2005 £16.1m). If the change
+to the basis of the scheme beneﬁts had been in place at 31 May 2006, the deﬁned beneﬁt pension liability would have
+been reduced by approximately £5.0m. This reduction is before the beneﬁt of the company’s additional £4.6m
+contribution to the scheme referred to above.
+Wireless Infrastructure disposal costs
+In the event that the disposal of the majority of the Wireless Infrastructure division to Powerwave is not completed, costs
+for professional fees, related to the preparation for its sale, of approximately £2.6m will be expensed in the ﬁnancial year
+ending 31 May 2007, along with a potential break fee due to Powerwave of up to £2.4m ($4.6m). 
+Charles Hindson BA FCCA MCT
+Group Finance Director
+31 July 2006
+10 Filtronic plc Annual Report 2006 Business Review
+– Directors’
+Assessment of Risk
+Introduction
+More than 85% of the group’s revenue arises from the global communications market through the supply of technology
+based electronic equipment and semiconductor components that are produced in high volume at low prices. This is a
+fast-changing business sector with a limited number of sophisticated customers and has demanding performance
+standards that are set through international competition, resulting in risks to continued operations.
+In our communications activities, we develop products, and their associated production processes and capacity, largely
+at the company’s risk in anticipation of customer requirements; these may represent substantial investment in the
+context of the individual divisions’ operations. 
+Market
+Our principal markets depend on the capital spending plans of the cellular telephone operators and on mobile handset
+acquisition by their subscribers. The spending plans of operators reﬂects demand for both network coverage and the
+introduction of new network facilities, for example high bandwidth services on 2G and 3G technologies. Over the
+medium term, these operators have shown a cycle in their levels of demand, and this affects our level of activity. In
+addition, we have seasonal variations in demand arising from the purchasing proﬁle of our OEM customers.
+We design and manufacture subsystems for our OEMs’ customers. Our ability to grow our presence in sectors of
+subsystems for mobile base stations, in which we are not strongly represented, and to maintain our leading market share
+in transmit/receive modules, depends on our target OEMs’ customers continuing or expanding their current policies on
+purchasing of externally designed and manufactured products. With evolution in product technology and other
+corporate decisions, these policies may change and so reduce our effective addressable market size.
+Our volume semiconductors products are deployed in mobile handsets. This is a market that is being increasing supplied
+by a reducing number of OEMs. Our components are supplied to a limited number of RF system module providers.
+Demand for our products is therefore dependent on us being qualiﬁed in subsystem modules that are selected by the
+OEMs, which will vary with the timing of when such modules are replaced, and by the level of demand for the handsets
+in which these modules are deployed. We provide products both on a foundry basis, manufactured to the customers’
+design and adapted by us for our processes, and using our own designs which generate higher margins. We therefore
+have the risk that our designs may not be selected or that alternative production capacity may be used for products
+provided on the foundry basis.
+As well as these factors, that may result in decreased revenue and earnings, we may also fail to forecast market
+movements correctly so missing opportunities or wrongly predicting product longevity.
+Manufacturing
+In our communications markets, production is demand led and customers may vary their requirements from the business
+at short notice, so leading to changes in levels of goods supplied. Customers expect consistent high quality product and
+reducing prices, to satisfy which we depend upon ongoing adequate control of our complex operating environment and
+provision of the correctly designed technological solutions including achievement of target cost reduction plans.
+Non-performance in these areas may diminish our market position.
+Our products are provided to customers after detailed qualiﬁcation testing. However, this may not test all aspects of the
+product’s design and manufacturing process or may not ensure that the product is viewed as ﬁt for purpose in its
+intended use. Identiﬁcation of these types of problems after release of product to customers creates the risk of being
+required to rectify such product defects. Historically, such work has not had a substantial impact on the ﬁnancial
+performance of the business, although a major defect, leading to a ﬁeld recall, could do so in future.
+Filtronic plc Annual Report 2006 11 Business Review
+– Directors’
+Assessment of Risk
+Achieving sustained proﬁtability of Compound Semiconductors depends on the continued effective utilisation of our
+deployed capacity, including its expansion planned for the coming ﬁnancial year. If this is not achieved, there is a risk of
+both losing business and not achieving ﬁnancial objectives.
+Technology
+Our product competitiveness is strongly inﬂuenced by technology choices at the product concept stage and throughout
+execution of design to product launch. For products in the production cycle, technology insertion is often required as a
+means of achieving price reductions, which underpin sales. The market is time sensitive and opportunities may be lost
+if the technology we develop is not appropriate or ready for exploitation to match market demand, so having an adverse
+effect on business performance.
+Our semiconductor capability is focused on pHEMT GaAs technologies. In the future, alternative technologies may be
+developed to provide equivalent or enhanced functionality on a more cost-effective basis.
+Financial management
+We have organised the Wireless Infrastructure business with our manufacturing predominantly based in low cost areas
+using, where possible, the linkage of currencies to reduce the risk of currency exposures. As a signiﬁcant part of our
+activities support markets that are US dollar denominated, and the majority of our production activity across the group
+is based in China, signiﬁcant weakening of the US dollar or strengthening of the Chinese yuan would unsettle this
+structure for our production resources that is broadly neutral and could result in losses.
+Our semiconductor markets are mainly US dollar denominated with the cost base substantially in sterling, which may
+therefore create margin risks that may not be recoverable through price changes. 
+The ﬁnancial facilities of the group are considered sufﬁcient for its operations, whilst a substantial variation in operating
+performance and working capital outside of the usual levels of activities may not be covered within the level of the
+currently agreed borrowing facilities.
+12 Filtronic plc Annual Report 2006 Directors
+Filtronic plc Annual Report 2006 13
+Executive directors
+Professor J David Rhodes CBE FRS FREng BSc PhD DSc DEng (Hon) DSc (Hon) FIEE FIEEE (aged 62) was
+reappointed as Group Chief Executive Ofﬁcer and resigned as Chairman on 30 January 2006. He had been Chairman
+since founding Filtronic in 1977 and also served as Group Chief Executive Ofﬁcer until John Roulston was appointed on
+6 September 2004. John Roulston resigned on 29 January 2006. Professor Rhodes is Emeritus Professor of electronic and
+electrical engineering at Leeds University and is an internationally recognised ﬁgure in the ﬁeld of circuit theory and
+microwave engineering. He has written over 130 technical papers and books on the subject and has received several
+international awards. In the 1992 New Year’s Honours List he was made an Ofﬁcer, Order of the British Empire, for his
+contribution to science and technology and in 1993 he was elected a Fellow of the Royal Society. In the 2000 New Year’s
+Honours List he was made a Commander, Order of the British Empire, for his contribution to engineering, research and
+industry. In 2003, Professor Rhodes was awarded the Prince Phillip Medal by the Royal Academy of Engineering. He
+became a Foreign Associate of the United States National Academy of Engineering in 2005. Professor Rhodes is a
+non-executive director of Polar Capital Technology Trust PLC.
+Charles Hindson BA FCCA MCT (aged 47) was appointed Group Finance Director in 2004. Prior to joining Filtronic he
+was Finance Director of Eutelsat SA. Previously he held ﬁnance positions with British Gas plc, PricewaterhouseCoopers
+and 3i plc.
+Iain Gibson MA (aged 51) was appointed Chief Executive Ofﬁcer of Integrated Products, which comprises Defence
+Electronics and Compound Semiconductors, in 2005. Prior to joining Filtronic he was Executive Vice President for
+Euroﬁghter Typhoon and Radar with BAE SYSTEMS Avionics Limited.
+Dr Christopher Mobbs BSc PhD MIEEE (aged 44) has been Director of Engineering since 2002. He has served as Chief
+Technical Ofﬁcer since 1997. He joined Filtronic Components as an engineer after graduating from Leeds University
+in 1982.
+Non-executive directors
+Rhys Williams (aged 72) was appointed Chairman on 30 January 2006. He had been the senior non-executive director
+and chairman of the remuneration committee since 1994. A graduate engineer, Mr Williams worked in several GEC
+companies during his career, in the UK, South Africa and Canada, before becoming an executive director of GEC,
+Chairman of Marconi and latterly responsible for research and development group wide. For twelve years he was Pro
+Chancellor and Chairman of the University of Warwick. He is currently Chairman of Radstone Technology plc and a non-
+executive director of Acal plc.
+Richard Blake (aged 70) has been a non-executive director since 1994 and has been chairman of the audit committee
+since 1995. Mr Blake was a partner in Baker Tilly from 1964 until his retirement in 1993. Mr Blake is a non-executive
+director of YooMedia plc.
+Professor Stephen Burbank (aged 59) has been a non-executive director since 1994. Professor Burbank is currently the
+David Berger Professor for the Administration of Justice at the University of Pennsylvania. He is Chairman of the Board of
+the American Academy of Political and Social Science and of the Editorial Committee of the American Judicature Society.
+One of the pre-eminent scholars of litigation procedure and judicial administration in the United States, Professor Burbank
+is also an authority on issues of judicial independence and accountability, having served on the National Commission on
+Judicial Discipline and Removal by appointment of the Speaker of the United States House of Representatives. Since
+2002, by appointment of a federal judge, he has served as Special Master of the National Football League.
+Ian Hardington (aged 42) has been a non-executive director since 1999. Since 30 January 2006 he has been chairman
+of the remuneration committee. Mr Hardington is an analyst with Trinity Capital Limited, an investment management ﬁrm
+located in the United States of America.
+Graham Meek (aged 59) has been a non-executive director since 1999. Since 30 January 2006 he has been the senior
+non-executive director and chairman of the nominations committee. He is Chairman of ICM Computer Group plc and
+SPI Lasers plc and a non-executive director of Capital Gearing Trust plc.
+Reginald Gott (aged 49) was appointed as a non-executive director on 13 July 2006. Since 2002 he has been a director
+of FKI plc, an international diversiﬁed engineering group. He has an extensive background in the machinery, automation
+and controls segments of the capital goods markets across Europe and North America. Directors’ Report
+14 Filtronic plc Annual Report 2006
+The directors present their report and the audited ﬁnancial statements for the year ended 31 May 2006.
+Principal activities
+The principal activities of the group are the design and manufacture of microwave products and compound
+semiconductors for wireless telecommunications systems and military applications.
+Business review and state of the company’s and group’s affairs
+The business review on pages 3 to 12 inclusive contains a review of the group’s business performance and outlook. The
+business review includes the statutory requirements of the enhanced business review.
+The directors are satisﬁed with the state of affairs of the company and the group and believe it is well positioned to grow
+through opportunities offered by the worldwide wireless telecommunications and military markets.
+Financial results and dividend
+The results for the year are set out in the income statement on page 32. The position at the end of the year is shown in
+the balance sheet on page 35.
+Following an interim dividend of 0.90p (2005 0.90p) per ordinary share, the directors are recommending payment of a
+ﬁnal dividend of 1.80p (2005 1.80p), making a full year dividend of 2.70p (2005 2.70p) per ordinary share.
+Research and development
+Research and development costs were £27.6m (2005 £31.1m).
+Directors and their interests
+The directors of the company during the year were as follows:
+Professor J David Rhodes CBE FRS FREng BSc PhD DSc DEng (Hon) DSc (Hon) FIEE FIEEE
+John Roulston FREng FIEE CEng (resigned 30 January 2006)
+Charles Hindson BA FCCA MCT
+Alan Needle MBA FIEE CEng (retired 1 January 2006)
+Iain Gibson MA
+Dr Christopher Mobbs BSc PhD MIEEE
+Rhys Williams
+Richard Blake
+Professor Stephen Burbank
+Ian Hardington
+Graham Meek
+Reginald Gott was appointed a director on 13 July 2006.
+Details of their interests in the share capital of the company are set out in the remuneration report on pages 23 to 28.
+Graham Meek retires by rotation and, being eligible, offers himself for re-election at the annual general meeting.
+Richard Blake and Professor Stephen Burbank, each having served on the Board for more than nine years, retire and
+being eligible, offer themselves for re-election at the annual general meeting.
+Reginald Gott retires and, being eligible, offers himself for election at the annual general meeting. Directors’ Report
+Directors indemnity
+The company has in place directors’ and ofﬁcers’ liability insurance on behalf of its directors and ofﬁcers in accordance
+with the provisions of the Companies Act 1985. In addition, certain directors beneﬁt from an indemnity from the
+company, to the extent not prohibited by law, in respect of losses incurred as a result of the discharge of their duties in
+the management or supervision of any company in the group. The indemnity does not automatically terminate when the
+indemniﬁed person ceases to be a director.
+Substantial shareholdings
+The following shareholders have indicated a holding of 3% or more of the issued share capital of 74,870,956 10p ordinary
+shares as at 21 July 2006.
+Number of % of issued
+10p ordinary shares share capital
+Prudential plc 12,701,925 17.0
+Capital Group Companies Inc. 7,917,682 10.6
+Aberforth Partners LLP 7,259,794 9.7
+SVG Capital plc and SVG Investment Management Limited 6,727,250 9.0
+Legal & General Investment Management Limited 4,575,093 6.1
+Professor J David Rhodes CBE FRS FREng 3,230,001 4.3
+Barclays PLC 2,415,727 3.2
+Strategic Equity Capital 2,330,790 3.1
+1 1
+47,158,262 63.0
+5 5
+Employees
+The group is committed to a policy of equal opportunities in employment by which the group ensures that all aspects
+of selection and retention are based on merit and suitability for the job regardless of sex, marital status, colour, race,
+ethnicity, sexual orientation or disability.
+The group is conscious of its obligations towards disabled persons and tries to ensure that they receive equal
+opportunities. So far as particular disabilities permit, the group will continue to provide employment for any existing
+employee who becomes disabled. The group will also provide relevant training, career development and promotion for
+disabled employees where this is appropriate.
+Corporate & social responsibility
+(i) Health and safety
+The Board is committed to ensuring the health and safety of the group’s employees worldwide and applies high
+standards throughout the group in the control and management of its operations. The group analyses its practices
+and processes using systematic health and safety management techniques and auditing regimes. As part of the
+group’s continued implementation of an occupational health, safety and management system, the group has put
+preventative measures in place that aim to continue to reduce major injuries and lost time accidents. Further
+development of the group’s health and safety management systems took place during the year with some sites
+attaining OHSAS 18001 (health and safety management systems). A training management system is being
+implemented throughout the group to assist managers with the implementation of the group’s health and safety
+objectives.
+Filtronic plc Annual Report 2006 15 Directors’ Report
+(ii) Employee development
+The group operates internationally and its employment policies are designed to meet local regulations and
+requirements. Employee development has been established as one of the group’s key objectives. A training
+management system is being implemented globally thus underlying the group’s commitment to ongoing employee
+development and training.
+(iii) Employee communications
+The group believes in keeping employees fully informed on matters which affect them through communication
+procedures including staff meetings, a group-wide newsletter and a culture which encourages openness and
+interaction between all members of staff. All European sites have put in place works councils that are important for
+raising and sharing certain issues that affect employees. In addition, the group’s United Kingdom sites have
+implemented a forum for information and consultation (“ICON forum”). The ICON forum is designed to be a
+gathering at which employee representatives can review group progress and discuss speciﬁc issues and concerns
+with senior management.
+(iv) The environment
+Care for the environment is an integral part of the group’s business activities worldwide. It is the group’s policy to
+ensure that its facilities throughout the world are safe and acceptable to the communities in which they operate. The
+group is committed to ensure that their impact on the environment is minimised. The group supports and trains its
+personnel to act responsibly in matters relating to the environment. The group takes account of relevant legislation
+and regulations and analyses its practices, processes and products to reduce their environmental impact, and works
+with its customers and suppliers to achieve a high standard of product stewardship. The group’s major
+manufacturing sites have established environmental management systems and have achieved ISO 14001
+certiﬁcation.
+Wherever possible, components and materials are reused or recycled. The reuse, utilisation and recycling of
+packaging is subject to monitoring. The group continues to work with its customers to implement programmes to
+design products for disassembly and recycling, and in particular so as to ensure compliance with the European Union
+directive on waste electrical and electronic equipment and the European Union and Chinese initiatives in relation to
+the restriction of certain hazardous substances in electrical and electronic equipment. The group has introduced
+focused management teams throughout its business to ensure that compliance with these requirements is achieved
+within the required implementation timescales. The group continues to work with major suppliers, contractors and
+customers to assist them in improving their environmental, health and safety performance.
+(v) Social and ethical code of conduct
+A social and ethical code of conduct was drafted during the year and adopted by the Wireless Infrastructure
+business of the group to ensure good working conditions throughout its supply chain. The code sets out the
+standards we demand both of ourselves and of our suppliers. A plan for implementation of the code has been
+agreed with the individual Wireless Infrastructure business sites globally. The code is being actively considered for
+adoption by the remainder of the group.
+16 Filtronic plc Annual Report 2006 Directors’ Report
+Political and charitable contributions
+No contributions were made for political purposes. The group donated £27,000 (2005 £26,000) to various charities.
+Supplier payment policy
+It is the group’s policy to abide by the terms of payment agreed with suppliers in respect of the goods and services
+properly invoiced to the group. At 31 May 2006 trade payables of £27.7m represented 58 days’ purchases, calculated in
+accordance with the requirements of the Companies Act.
+Disclosure of information to the auditors
+The directors who held ofﬁce at the date of approval of this directors’ report conﬁrm that, so far as they are each aware,
+there is no relevant audit information of which the company’s auditors are unaware; and each director has taken all the
+steps that he ought to have taken as a director to make himself aware of any relevant audit information and to establish
+that the company’s auditors are aware of that information.
+Auditors
+A resolution to re-appoint KPMG Audit Plc as auditors will be proposed at the annual general meeting.
+Special business at the annual general meeting
+Remuneration report
+Pursuant to the Directors’ Remuneration Report Regulations 2002 the Board proposes the remuneration report which is
+set out on pages 23 to 28, for approval (resolution 9 in the notice of annual general meeting). No entitlement of a
+director to remuneration is conditional on the resolution being passed but the result of the vote will be taken into
+account in considering the development and operation of the company’s remuneration policy.
+Authority to allot shares
+The Companies Act 1985 requires that the authority of the directors to allot relevant securities shall be subject to the
+approval of shareholders in general meeting or to an authority set out in the company’s Articles of Association.
+Accordingly, an ordinary resolution (resolution 10 set out in the notice of annual general meeting) will be proposed at
+the annual general meeting to renew the authority granted at the annual general meeting held on 30 September 2005
+and thereby authorise the directors to allot unissued ordinary shares of the company up to a total nominal value of
+£2,495,698 (representing one third of the nominal value of the company’s issued share capital).
+A proposal to allow the company to issue shares to shareholders who choose to receive dividends in fully paid ordinary
+shares instead of cash will be put to shareholders in resolution 11.
+The Companies Act 1985 also requires that any equity shares issued wholly for cash must be offered to existing
+shareholders in proportion to their existing holdings. This requirement was disapplied to a limited extent by a resolution
+passed at the annual general meeting held on 30 September 2005 and a special resolution (resolution 12 set out in the
+notice of annual general meeting) will be proposed at the annual general meeting to renew the directors’ authority to
+allot equity shares for cash other than on a pro rata basis. This will be limited to equity shares having a nominal value of
+up to £374,354 (representing 5% of the issued share capital of the company). This authority will terminate no later than
+ﬁfteen months after the passing of the special resolution.
+By order of the Board
+M Moynihan
+Company Secretary
+31 July 2006
+Filtronic plc Annual Report 2006 17 Corporate Governance
+Statement
+The Combined Code on Corporate Governance
+The Board supports the highest standards of corporate governance. For the year ended 31 May 2006 the directors
+conﬁrm that the company has been in compliance with the provisions of section 1 of the Combined Code on Corporate
+Governance.
+The company has ﬁve non-executive directors excluding the chairman, three of whom (Ian Hardington, Graham Meek
+and Reginald Gott) meet all of the speciﬁc criteria for independence set out in the Combined Code. The other two
+directors (Richard Blake and Professor Stephen Burbank) do not meet all of the requirements for independence set out
+in the Code since they have been directors since 1994 but yet are considered to be independent and to provide, ﬁrstly,
+valuable advice to the company given its international reach and complexity and, secondly, continuity during a period
+of change at Board level.
+Internal control
+The Board has overall responsibility for establishing and maintaining the company’s system of internal control. Internal
+control systems are designed to be relevant to the company and the risks to which it is exposed and, by their nature,
+can provide reasonable but not absolute assurance against material misstatement or loss. The key procedures
+established by the directors with a view to providing effective internal control are as follows:
+(a) Control environment and monitoring systems
+The Board usually meets each month and has adopted a schedule of matters which are required to be brought to it
+for decision, thus ensuring that it maintains full and effective control over appropriate strategic, ﬁnancial, operational
+and compliance issues. The Board has put in place an organisational structure with clearly deﬁned lines of
+responsibility and delegation of authority. Additionally, the Board has established an Executive Management Board
+that is responsible for operational matters within the company.
+The division of responsibilities between the Chairman and the Group Chief Executive Ofﬁcer has been set out in
+writing and agreed by the Board.
+The audit committee, which comprises all of the non-executive directors, reviews the effectiveness of the system of
+internal control. The external auditors are engaged to express an opinion on the company’s annual ﬁnancial
+statements. They test the system of internal ﬁnancial control and the information contained within the annual report
+and ﬁnancial statements to the extent necessary for expressing their opinion.
+(b) Major information systems
+The directors have delegated to executive management implementation of the system of internal control
+throughout the company. This includes ﬁnancial controls that enable the Board to meet its responsibilities for the
+integrity and accuracy of the company’s accounting records.
+The Board approves, in aggregate, budgets and other performance targets, the components of which form the
+ﬁnancial objectives for individual operating units. Performance against these targets is reported monthly. Financial
+forecasts are updated and reviewed monthly and include cash ﬂow forecasts.
+18 Filtronic plc Annual Report 2006 Corporate Governance
+Statement
+(c) Main control procedures
+In addition to matters reserved for Board decisions, the company has established a system whereby authority to take
+decisions is distributed throughout the company. This distribution of authority deﬁnes procedures for authorisation
+and approval and sets appropriate levels of responsibility.
+An accounting policies and procedures manual sets out the company’s declared statement of policy in all ﬁnancial
+areas and establishes the control procedures, including segregation of duties, to ensure that these policies are
+implemented.
+(d) Identiﬁcation and evaluation of business risks
+The company has clear principles and procedures that are appropriate to a multinational electronics business. These
+principles are designed to provide an environment of central leadership but with devolved operating responsibility
+as the framework for the exercise of accountability and control by the Board, its committees and executive
+management. The Board directs activities in and allocates resources to the key areas of business development,
+product strategy, research and development, manufacture and ﬁnancial practice.
+Through these ongoing procedures, the Board is able to identify, evaluate and manage the signiﬁcant risks that the
+group faces from time to time.
+The Board has appointed a Technology Advisory Board to provide strategic technical advice to the company. This
+Board comprises leading, internationally respected electronics experts together with outstanding engineering talent
+from within the company.
+The Board has reviewed its approach to the identiﬁcation and evaluation of business risks and has put in place a
+programme to review the main areas of risk identiﬁed for the company on an annual basis at the Board.
+The Board conﬁrms that it has carried out a review of the effectiveness of the system of internal control as it operated
+during the year. The Board undertakes, on an ongoing basis, a review of all aspects of the company’s internal control
+procedures. The review is undertaken by the Board through the receipt and consideration of regular monthly and
+other reports prepared by management on operational, strategic, organisational and ﬁnancial issues. The system of
+ﬁnancial internal audit is carried out at the company’s various locations. The focus this year was on locations
+representing the greatest ﬁnancial and operational risk to the group, and in contemplation of the potential sale of
+the Wireless Infrastructure business. Additionally, areas of operations other than ﬁnance are audited periodically
+either by external agencies or through peer review to ensure compliance with group policies.
+Constitution of the Board
+The Board comprises the Chairman, four executive and ﬁve independent, non-executive directors. Short biographies of
+all of the directors are set out on page 13. The Board considers that its constitution brings both independence and an
+appropriate balance of experience in judging matters of strategy, performance, resources, investor relations, internal
+control and corporate governance. Graham Meek is the senior non-executive director. Each of the directors is proposed
+for re-election at the annual general meeting at least every three years. Those non-executive directors who have served
+longer than nine years on the Board will be subject to annual re-election.
+Filtronic plc Annual Report 2006 19 Corporate Governance
+Statement
+Mr Blake and Professor Burbank each joined the company in 1994. The Board has considered the independence of these
+directors with particular care. Both directors contribute signiﬁcantly through their individual skills, ﬁnancial and legal
+expertise respectively, and their considerable knowledge of both the company and the industry. During the current
+period of transition for the executive members of the Board, they provide continuity as well as contributing to the overall
+balance of the Board. They continue to demonstrate strong independence of management of the Board in the manner
+in which they discharge their duties as directors. Accordingly the Board has decided, in the absence of any other relevant
+factors, that Mr Blake and Professor Burbank are independent non-executive directors. However being mindful of the
+desire to refresh the skills and experiences of the directors, the Board appointed Reginald Gott as an additional non-
+executive director in July 2006. A ﬁrm of professional recruitment consultants has been engaged to identify suitable
+candidates with sufﬁcient, recent and relevant ﬁnancial experience to replace Mr Blake during the current ﬁnancial year.
+The Board has a formal annual system of performance review of the Board, its committees and of all individual directors.
+This has been implemented in the year by way of a written questionnaire completed by all Board members and the
+resulting report has been reviewed by the Board. The performance of individual directors was reviewed by the Chairman.
+The senior non-executive director led an evaluation of the performance of the Chairman.
+Board committees
+The Board has a nominations committee, a remuneration committee and an audit committee. The nominations
+committee comprises the Chairman and all of the non-executive directors and is chaired by Graham Meek, the senior
+non-executive director. The remuneration and audit committees comprise all of the independent non-executive
+directors. Each of these committees operates under terms of reference which have been established by the Board.
+The nominations committee
+The nominations committee is chaired by Graham Meek, the senior non-executive director. The other members are the
+Chairman and the independent non-executive directors: Richard Blake, Professor Stephen Burbank, Ian Hardington and
+since July 2006, Reginald Gott. The nominations committee’s duties are conﬁned to the approval, support or otherwise
+of appointments, re-appointments and termination of employment or engagement of directors and the company
+secretary.
+During the year, the nominations committee appointed external advisors to assist with the appointment of new directors.
+The nominations committee has in place succession plans which have been developed with the assistance of external
+recruitment advisors.
+The remuneration committee
+The remuneration committee is chaired by Ian Hardington. The other members are the other independent
+non-executive directors: Richard Blake, Professor Stephen Burbank, Graham Meek and since July 2006, Reginald Gott.
+The remuneration committee’s responsibilities include ensuring that the remuneration and service contract terms of the
+executive directors and senior management are appropriate. The committee approves the grant of all share options.
+20 Filtronic plc Annual Report 2006 Corporate Governance
+Statement
+The audit committee
+The audit committee is chaired by Richard Blake. The other members are the other independent non-executive
+directors: Professor Stephen Burbank, Ian Hardington, Graham Meek and since July 2006, Reginald Gott. Mr Blake has
+sufﬁcient, recent and relevant ﬁnancial experience. The audit committee meets at least twice a year. The committee
+reviewed its terms of reference during the ﬁnancial year and considered no changes to them were required. They are
+consistent with the current best practice for the size of the company and are available on request from the company
+secretary or on the company’s website.
+The committee met twice during the ﬁnancial year with management and, following each meeting, the committee met
+with the external auditors in private. The chairman of the committee also met privately with the auditors regularly during
+the year. The committee reviewed the following matters and reported its conclusions to the Board:
+● the ﬁnancial statements contained in the company’s annual and interim reports to shareholders
+● various accounting matters, including the company’s accounting policies, raised by management and the external
+auditors in the context of the ﬁnancial statements, including the ﬁrst time adoption of International Financial
+Reporting Standards
+● the effectiveness of internal controls and the group’s internal controls manual
+● authorisation of the amount and purposes of non-audit fees and, in particular in light of the support provided to
+prepare for the disposal of the Handset Products division, ensuring that auditor objectivity and independence were
+not compromised
+● the external auditors’ year end report and the ﬁndings of their work and conﬁrmation that all signiﬁcant matters had
+been satisfactorily treated
+● a full and careful consideration of the performance of the external auditors, which found their work satisfactory and
+contribution effective, as a result of which the committee resolved to recommend the re-appointment of KPMG
+Audit Plc as auditors to the company
+● during the course of the year, the Board has considered the areas of greatest ﬁnancial and operational risk. As a
+result, a number of speciﬁc review projects were carried out. These included, where appropriate, widening the scope
+of the audits and reviews undertaken by the external auditors. The audit committee reviewed the results and
+conclusions of these projects
+The Board has reviewed the composition of the audit committee and is satisﬁed that it has members who have sufﬁcient,
+recent and relevant ﬁnancial experience.
+Filtronic plc Annual Report 2006 21 Corporate Governance
+Statement
+Attendance at Board meetings and committee meetings during the year ended 31 May 2006 was as follows:
+Audit Remuneration
+Board committee committee
+Meetings held 11 2 3
+Directors’ attendance
+Executives
+Professor J David Rhodes 10 n/a n/a
+John Roulston (resigned 30 January 2006) 7 n/a n/a
+Charles Hindson 11 n/a n/a
+Alan Needle (retired 1 January 2006) 7 n/a n/a
+Iain Gibson 10 n/a n/a
+Dr Christopher Mobbs 10 n/a n/a
+Non-executives
+Rhys Williams 11 1 1
+Richard Blake 921
+Professor Stephen Burbank 11 1 3
+Ian Hardington 10 1 2
+Graham Meek 10 2 3
+Relations with investors
+Communications with investors are given high priority. There is regular dialogue with institutional investors including
+presentations after the company’s preliminary announcement of the year-end results and at the half year, which are
+attended by non-executive directors. Analyst reports and feedback from shareholders are discussed at Board meetings.
+The Board uses the annual general meeting to communicate with private and institutional investors and welcomes their
+participation. The Chairman aims to ensure that the chairmen of the audit and remuneration committees are available
+at the annual general meeting to answer questions. Information is also available to all investors by way of the company’s
+website at www.ﬁltronic.com.
+Going concern
+As explained in note 1 of the ﬁnancial statements, the directors have reviewed the budgeted cash ﬂow and other
+relevant information and have a reasonable expectation that the group has adequate resources to continue in
+operational existence for the foreseeable future. For this reason, the directors continue to adopt the going concern basis
+in preparing the ﬁnancial statements.
+22 Filtronic plc Annual Report 2006 Remuneration Report
+for the year ended 31 May 2006
+Composition of the remuneration committee
+During the period 1 June 2005 to 31 May 2006 the remuneration committee consisted of the following non-executive
+directors:
+R J Williams (resigned as chairman and from the committee 30 January 2006)
+I J Hardington (appointed chairman 30 January 2006)
+R J B Blake
+Professor S B Burbank
+E G Meek
+The committee receives advice in its deliberations concerning the remuneration of the executive directors from the
+Group CEO, Professor J D Rhodes. The committee’s recommendations have been accepted by the Board without
+amendment.
+Compliance
+The company has complied with the provisions in the Code of Best Practice relating to Directors’ Remuneration. In
+preparing this report, the provisions in Schedule B to the Combined Code have been followed.
+Policy on remuneration of executive directors and senior executives
+(a) Total level of remuneration
+The committee aims to ensure that remuneration packages offered are competitive and designed to attract, retain
+and motivate executive directors and senior executives.
+(b) The main components
+The company’s policy is to structure remuneration packages so that an appropriate element comprises the grant of
+share options which enables the company to align the interests of employees with those of shareholders.
+The main components of remuneration payable are:
+(i) Salary
+Salary for each executive is determined by the remuneration committee taking into account the performance and
+responsibilities of the individual. Electronic and electrical engineering is an international industry within which there
+is a clear market in executive talent. The overriding factor in determining executive remuneration is market forces.
+Salaries are normally reviewed on 1 July each year.
+(ii) Joining bonus
+Under the terms of his service contract, I A Gibson became entitled to and was paid a deferred joining bonus of
+£70,000 on 31 May 2006.
+(iii) Share options
+The directors believe that the opportunity to participate in the company’s shareholding is a key factor in attracting
+and retaining executives of the right calibre and that share ownership by executive directors and senior executives
+strengthens the link between their personal interests and those of the shareholders. The company’s policy is to grant
+options at the point of recruitment or promotion. All grants of options are determined by the committee. The
+committee takes account of guidelines issued by the Association of British Insurers and the National Association of
+Pension Funds when making awards of options. Pursuant to resolutions of the shareholders passed at the
+extraordinary general meeting held on 17 February 1999, the committee is authorised in exceptional cases to grant
+options to a value of up to eight times an executive’s salary. The terms of vesting and exercise of the directors’ share
+options are the same as those which apply to all option holders.
+Filtronic plc Annual Report 2006 23 Remuneration Report
+for the year ended 31 May 2006
+The remuneration committee has determined that the vesting of options granted under the share option scheme
+will be conditional upon adjusted operating proﬁt targets for the ﬁve ﬁnancial years following the grant of options
+being achieved. These targets will be determined by the remuneration committee annually, principally by reference
+to the budget set for the relevant year, and will be set at a level which the remuneration committee determines will
+be challenging to those concerned. Adjusted operating proﬁt for this purpose is deﬁned as operating proﬁt before
+share-based payments and IAS 19 pension costs in excess of employers’ pension contributions. The adjusted
+operating proﬁt target for the year ended 31 May 2006 was not achieved and accordingly no options vested.
+(iv) Bonus scheme
+During the year the remuneration committee approved the introduction of a bonus scheme for executive level
+employees deemed important to business performance. The bonus scheme is designed to be self-funding
+throughout its range and is intended to provide an incentive to achieve results above budget. A maximum of 30%
+of salary on an individual basis would be payable if all performance conditions (based on revenue and operating
+proﬁt targets) are achieved. It is necessary for the group adjusted operating proﬁt target to be met before the
+divisional revenue and operating proﬁt targets are activated. The group adjusted operating proﬁt target for the year
+ended 31 May 2006 was not achieved and accordingly no bonuses were paid.
+(c) Company policy on contracts of service
+All the executive directors, except for J F Roulston, have rolling service contracts under which the notice period for
+termination by either party is 6 months. J F Roulston had a rolling service contract under which the notice period
+for termination by either party was 9 months reducing to 6 months on 6 September 2006. There are no speciﬁc
+compensation commitments for early termination.
+J F Roulston was paid £379,000 after his resignation. This comprised £216,000 for salary in lieu of notice and holiday
+pay and £163,000 compensation for loss of ofﬁce.
+(d) Company pensions policy
+The company’s policy is to offer UK executives membership of the Filtronic plc Retirement Beneﬁts Scheme.
+UK executive directors who participate in the scheme do so on the same basis as all other UK employees of
+the company. 
+The scheme is a funded, Inland Revenue approved, ﬁnal salary, occupational pension scheme. Its main features are:
+(i) a normal pension age of 65;
+(ii) pension at normal pension age of 1/60th of ﬁnal pensionable salary for each complete year of service;
+(iii) death in service beneﬁt of four times pensionable salary;
+(iv) pensions payable in the event of ill health; 
+(v) spouse’s pension on death;
+(vi) long term disability insurance.
+Pensionable salary is deﬁned as the member’s basic annual salary excluding all bonuses and beneﬁts.
+All scheme beneﬁts are subject to Inland Revenue limits.
+Under the terms of his service contract, R C Hindson is eligible to join the scheme or the company will pay the
+equivalent of the employer’s contribution, currently 10.5% of pensionable salary, into a personal pension plan of his
+choice. R C Hindson joined the scheme on 1 October 2005.
+Under the terms of his service contract, I A Gibson is entitled to an enhanced pension arrangement. In addition to
+being a member of the scheme, he is entitled to additional company pension contributions at a rate of 14.25% of
+pensionable salary to be paid into his personal pension plan.
+24 Filtronic plc Annual Report 2006 Remuneration Report
+for the year ended 31 May 2006
+Filtronic plc Annual Report 2006 25
+For Finnish employees, the Finnish subsidiary contributes to deﬁned contribution plans in accordance with Finnish
+regulations and practices.
+For Hungarian employees, the Hungarian subsidiary contributes to a deﬁned contribution plan in accordance with
+Hungarian regulations and practices.
+For US employees, the US subsidiaries contribute to a deﬁned contribution plan under section 401(k) of the Internal
+Revenue Code.
+For Australian employees, the Australian subsidiary contributes to a deﬁned contribution superannuation fund.
+(e) Company policy on external appointments
+The remuneration committee reviews any request by an executive director with regard to a proposed external
+appointment and deals with each request on its individual merits. The overriding requirement is for each executive,
+as a term of his contract, to devote substantially the whole of his time, skill and attention to the affairs of the group.
+Non-executive directors service contracts and remuneration
+The non-executive directors, except for the Chairman, R JWilliams, have rolling agreements for services with the
+company. These are terminable by the company or the non-executive director on three months notice and are reviewed
+annually by the Board.
+R J Williams has a contract commencing on 30 January 2006, for services as Chairman of Filtronic plc. The term of the
+contract is two years. R J Williams shall resign as a director and Chairman of the company immediately upon the request
+of the Board. In the event of such resignation, R J Williams shall remain as a consultant to the company for the remainder
+of the two years. R J Williams’ fees for the two years are £100,000. The fee is paid on a quarterly basis.
+The Board determines the remuneration of the non-executive directors. Non-executive directors are not entitled to any
+share options, bonuses or pension beneﬁts. Remuneration Report
+for the year ended 31 May 2006
+The information on pages 26 and 27 has been audited.
+Directors’ remuneration
+Compensation Total remuneration
+Salary for loss excluding pension
+or fees Bonuses Beneﬁts of ofﬁce contributions
+2006 2006 2006 2006 2006 2005
+£000 £000 £000 £000 £000 £000
+Executives
+Prof J D Rhodes 256 – 27 – 283 272
+J F Roulston (appointed 6 September 2004
+and resigned 30 January 2006) 386 – 18 163 567 189
+R C Hindson (appointed 14 December 2004) 188 – 13 – 201 73
+A R Needle (retired 1 January 2006) 125 – 9 – 134 209
+I A Gibson (appointed 21 February 2005) 184 70 17 – 271 50
+Dr C I Mobbs 179 – 7 – 186 178
+Prof C M Snowden (resigned 6 April 2005) ––––– 165
+J Samuel (resigned 10 June 2004) ––––– 15
+Non-executives
+R J Williams 37––– 37 30
+R J B Blake 30––– 30 30
+Prof S B Burbank 30––– 30 30
+I J Hardington 30––– 30 30
+E G Meek 30––– 30 30
+111111
+Total 2006 1,475 70 91 163 1,799 1,301
+555555
+Total 2005 1,229 – 72 – 1,301
+55555
+Beneﬁts incorporate all assessable tax beneﬁts arising from employment by the company and relate in the main to the
+provision of a fully expensed company car or car allowance and private medical insurance.
+Directors’ pension benefits
+Deﬁned beneﬁts scheme
+Transfer value
+of increase
+in accrued
+Increase in Increase in Increase in pension
+accrued accrued transfer excluding
+pension pension value less inﬂation less
+excluding including directors’ directors’
+Accrued inﬂation inﬂation Transfer Transfer contributions contributions
+pension at during the during the value at value at during the during the
+31 May 2006 year year 31 May 2006 1 June 2005 year year
+£000 £000 £000 £000 £000 £000 £000
+Prof J D Rhodes 112 13 15 1,847 1,506 328 180
+J F Roulston 3 2 2 37 27 18 16
+R C Hindson 2 2 2 17 – 9 9
+A R Needle 61 6 8 623 474 142 51
+I A Gibson 4 3 3 33 6 17 16
+Dr C I Mobbs 62 7 9 431 324 96 35
+26 Filtronic plc Annual Report 2006 Remuneration Report
+for the year ended 31 May 2006
+R C Hindson joined the deﬁned beneﬁts pension scheme on 1 October 2005. Prior to that, as R C Hindson had not joined
+the deﬁned beneﬁts scheme, he accrued pension contributions of £6,000 (2005 £7,000), which the company has paid into
+his personal pension plan. In addition to his membership of the deﬁned beneﬁts scheme, I A Gibson has accrued
+additional pension contributions of £26,000 (2005 £6,000) which will be paid into his personal pension plan.
+Directors’ shareholdings
+31 May 2006 31 May 2005
+Prof J D Rhodes 3,230,001 3,730,001
+R C Hindson – –
+I A Gibson – –
+Dr C I Mobbs 295,617 295,617
+R J Williams 102,609 102,609
+R J B Blake 8,500 8,500
+Prof S B Burbank 900 900
+I J Hardington – –
+E G Meek 75,000 75,000
+11
+3,712,627 4,212,627
+55
+All of the above shareholdings are held beneﬁcially.
+Prof J D Rhodes sold 500,000 shares at 255p on 12 October 2005.
+A R Needle held 257,202 shares on 31 May 2005. He sold 200,000 shares at 270p on 6 October 2005. He retained the
+remaining 57,202 shares until his retirement on 1 January 2006.
+J F Roulston purchased 10,000 shares at 242p on 13 October 2005. He retained the 10,000 shares until his resignation on
+30 January 2006.
+Directors’ interests in share options
+Granted Forfeited
+Exercise Option 31 May during during 31 May
+Executive Share Option Scheme period price 2005 the year the year 2006
+J F Roulston (resigned 30/01/06) 1/10/2006 – 29/10/2014 148p 300,000 – 300,000 –
+R C Hindson 1/10/2006 – 14/12/2014 198p 200,000 – – 200,000
+I A Gibson 1/10/2006 – 29/4/2015 200p 150,000 – – 150,000
+1111
+Total all directors 650,000 – 300,000 350,000
+5555
+None of the options were exercisable at 31 May 2006.
+Under the terms of his service contract, subject to certain conditions, if R C Hindson remains employed by the group
+until 14 December 2006 he has the right to relinquish his share options in exchange for either 85,000 shares or a £200,000
+cash payment.
+The closing middle market share price on 31 May 2006 was 196p, and on 31 May 2005 it was 197p. The range of closing
+middle market share prices during the year ended 31 May 2006 was 157p – 291p.
+There were no changes to the directors’ interests between 31 May 2006 and 31 July 2006. The company’s register of
+directors’ interests which is open to inspection at the registered ofﬁce contains full details of directors’ shareholdings
+and share options.
+Filtronic plc Annual Report 2006 27 Remuneration Report
+for the year ended 31 May 2006
+Performance graph
+This graph illustrates the performance of the company’s shares measured by Total Shareholder Return (TSR) relative to
+a broad equity market index over the past ﬁve years. The FTSE All Share is considered to be the most appropriate index
+against which to measure performance, as the company has been a constituent of the FTSE All Share throughout the
+ﬁve-year period and the index is widely used. TSR is the measure of the returns that a company has provided for its
+shareholders, reﬂecting share price movements and assuming reinvestment of dividends.
+Total Shareholder Return
+1 June 2001 to 31 May 2006 Weekly Indexed
+Approved by the Board on 31 July 2006 and signed on its behalf by
+M Moynihan
+Company Secretary
+2001 2002 2003 2004 2005 2006
+0
+250
+200
+150
+100
+50
+Filtronic – Total Return Indexed
+FTSE All Share – Total Return Indexed
+Source: Thomson Datastream
+28 Filtronic plc Annual Report 2006 Statement of Directors’
+Responsibilities
+Filtronic plc Annual Report 2006 29
+Statement of directors’ responsibilities in respect of the annual report and the financial statements 
+The directors are responsible for preparing the annual report and the ﬁnancial statements in accordance with applicable
+law and regulations. 
+Company law requires the directors to prepare group and parent company ﬁnancial statements for each ﬁnancial year.
+Under that law they are required to prepare the group ﬁnancial statements in accordance with International Financial
+Reporting Standards as adopted by the European Union (IFRS) and have elected to prepare the parent company
+ﬁnancial statements on the same basis.
+The group and parent company ﬁnancial statements are required by law and IFRS to present fairly the ﬁnancial position
+of the group and the parent company and the performance for that period; the Companies Act 1985 provides in relation
+to such ﬁnancial statements that references in the relevant part of that Act to ﬁnancial statements giving a true and fair
+view are references to their achieving a fair presentation. 
+In preparing each of the group and parent company ﬁnancial statements, the directors are required to: 
+a) select suitable accounting policies and then apply them consistently; 
+b) make judgments and estimates that are reasonable and prudent; 
+c) state whether they have been prepared in accordance with IFRS; and 
+d) prepare the ﬁnancial statements on the going concern basis unless it is inappropriate to presume that the group and
+the parent company will continue in business. 
+The directors are responsible for keeping proper accounting records that disclose with reasonable accuracy at any time
+the ﬁnancial position of the parent company and enable them to ensure that its ﬁnancial statements comply with the
+Companies Act 1985. They have a general responsibility for taking such steps as are reasonably open to them to
+safeguard the assets of the group and to prevent and detect fraud and other irregularities. 
+Under applicable law and regulations, the directors are also responsible for preparing a directors’ report, directors’
+remuneration report and corporate governance statement that comply with that law and those regulations.
+The directors’ are responsible for the maintenance and integrity of the corporate and ﬁnancial information included on
+the company’s website. Legislation in the United Kingdom governing the preparation and dissemination of ﬁnancial
+statements may differ from legislation in other jurisdictions. Independent Auditors’
+Report
+30 Filtronic plc Annual Report 2006
+Independent auditors’ report to the members of Filtronic plc
+We have audited the group and parent company ﬁnancial statements (the ‘’ﬁnancial statements’’) of Filtronic plc for the
+year ended 31 May 2006 which comprise the group and parent company income statements, the group and parent
+company balance sheets, the group and parent company cash ﬂow statements, the group and parent company
+statements of recognised income and expense, and the related notes. These ﬁnancial statements have been prepared
+under the accounting policies set out therein. We have also audited the information in the Directors’ Remuneration
+Report that is described as having been audited.
+This report is made solely to the company’s members, as a body, in accordance with section 235 of the Companies Act
+1985. Our audit work has been undertaken so that we might state to the company’s members those matters we are
+required to state to them in an auditors’ report and for no other purpose. To the fullest extent permitted by law, we do
+not accept or assume responsibility to anyone other than the company and the company’s members as a body, for our
+audit work, for this report, or for the opinions we have formed.
+Respective responsibilities of directors and auditors
+The directors’ responsibilities for preparing the annual report, the directors’ remuneration report and the ﬁnancial
+statements in accordance with applicable law and International Financial Reporting Standards (IFRSs) as adopted by the
+European Union are set out in the statement of directors’ responsibilities on page 29.
+Our responsibility is to audit the ﬁnancial statements and the part of the directors’ remuneration report to be audited in
+accordance with relevant legal and regulatory requirements and International Standards on Auditing (UK and Ireland).
+We report to you our opinion as to whether the ﬁnancial statements give a true and fair view and whether the ﬁnancial
+statements and the part of the directors’ remuneration report to be audited have been properly prepared in accordance
+with the Companies Act 1985 and, as regards the group ﬁnancial statements, Article 4 of the IAS Regulation. We also
+report to you whether in our opinion the information given in the directors’ report is consistent with the ﬁnancial
+statements. The information given in the directors’ report includes that speciﬁc information presented in the business
+review that is cross referenced from the business review section of the directors’ report. We also report to you if, in our
+opinion, the company has not kept proper accounting records, if we have not received all the information and
+explanations we require for our audit, or if information speciﬁed by law regarding directors’ remuneration and other
+transactions is not disclosed.
+We review whether the Corporate Governance Statement reﬂects the company’s compliance with the nine provisions of
+the 2003 FRC Combined Code speciﬁed for our review by the Listing Rules of the Financial Services Authority, and we
+report if it does not. We are not required to consider whether the Board’s statements on internal control cover all risks
+and controls, or form an opinion on the effectiveness of the group’s corporate governance procedures or its risk and
+control procedures.
+We read the other information contained in the annual report and consider whether it is consistent with the audited
+ﬁnancial statements. We consider the implications for our report if we become aware of any apparent misstatements or
+material inconsistencies with the ﬁnancial statements. Our responsibilities do not extend to any other information. Independent Auditors’
+Report
+Filtronic plc Annual Report 2006 31
+Basis of audit opinion
+We conducted our audit in accordance with International Standards on Auditing (UK and Ireland) issued by the Auditing
+Practices Board. An audit includes examination, on a test basis, of evidence relevant to the amounts and disclosures in
+the ﬁnancial statements and the part of the directors’ remuneration report to be audited. It also includes an assessment
+of the signiﬁcant estimates and judgments made by the directors in the preparation of the ﬁnancial statements, and of
+whether the accounting policies are appropriate to the group’s and company’s circumstances, consistently applied and
+adequately disclosed.
+We planned and performed our audit so as to obtain all the information and explanations which we considered
+necessary in order to provide us with sufﬁcient evidence to give reasonable assurance that the ﬁnancial statements and
+the part of the directors’ remuneration report to be audited are free from material misstatement, whether caused by
+fraud or other irregularity or error. In forming our opinion we also evaluated the overall adequacy of the presentation of
+information in the ﬁnancial statements and the part of the directors’ remuneration report to be audited.
+Opinion
+In our opinion:
+● the ﬁnancial statements give a true and fair view, in accordance with IFRSs as adopted by the European Union, of
+the state of the group’s and the parent company’s affairs as at 31 May 2006 and of the group’s and the parent
+company’s proﬁt for the year then ended; 
+● the ﬁnancial statements and the part of the directors’ remuneration report to be audited have been properly
+prepared in accordance with the Companies Act 1985 and, as regards the group ﬁnancial statements, Article 4 of
+the IAS Regulation; and
+● the information given in the directors’ report is consistent with the ﬁnancial statements.
+KPMG Audit Plc
+Chartered Accountants
+Leeds 
+Registered Auditor
+31 July 2006 Consolidated
+Income Statement
+for the year ended 31 May 2006
+Continuing Discontinued
+operations operation Group
+2006 2006 2006
+note £000 £000 £000
+Revenue 11 220,963 13,645 234,608
+55 5
+Operating (loss)/proﬁt 10 (4,238) 198 (4,040)
+Gain on sale of property 523 – 523
+Finance income 17 1,706 – 1,706
+Finance costs 18 (4,934) – (4,934)
+111
+(Loss)/proﬁt before taxation (6,943) 198 (6,745)
+Taxation 19 (1,390) – (1,390)
+111
+(Loss)/proﬁt after taxation (8,333) 198 (8,135)
+Gain on sale of discontinued operation 20 – 14,146 14,146
+111
+(Loss)/proﬁt for the period (8,333) 14,344 6,011
+55 5
+(Loss)/earnings per share
+Basic 21 (11.13)p 19.16p 8.03p
+Diluted 21 (11.13)p 19.15p 8.02p
+The (loss)/proﬁt for the period is attributable to the equity shareholders of the parent company Filtronic plc.
+32 Filtronic plc Annual Report 2006 Consolidated
+Income Statement
+for the year ended 31 May 2005
+Continuing Discontinued
+operations operation Group
+2005 2005 2005
+note £000 £000 £000
+Revenue 11 212,891 49,974 262,865
+55 5
+Operating proﬁt 10 5,650 5,554 11,204
+Gain on sale of property 2,356 – 2,356
+Finance income 17 1,988 – 1,988
+Finance costs 18 (6,005) – (6,005)
+111
+Proﬁt before taxation 3,989 5,554 9,543
+Taxation 19 (241) – (241)
+111
+Proﬁt after taxation 3,748 5,554 9,302
+Gain on sale of discontinued operation 20 –––
+111
+Proﬁt for the period 3,748 5,554 9,302
+55 5
+Earnings per share
+Basic 21 5.01p 7.43p 12.44p
+Diluted 21 5.00p 7.41p 12.41p
+The proﬁt for the period is attributable to the equity shareholders of the parent company Filtronic plc.
+Filtronic plc Annual Report 2006 33 Consolidated Statement of
+Recognised Income
+and Expense
+for the year ended 31 May 2006
+Group
+2006 2005
+£000 £000
+Proﬁt for the period 6,011 9,302
+1 1
+Actuarial loss on deﬁned beneﬁt pension scheme (2,849) (6,784)
+Transfer to income from translation reserve related to business disposal (42) –
+Currency translation movement arising on consolidation (531) 1,314
+1 1
+(3,422) (5,470)
+1 1
+1 1
+Total recognised income and expense for the period 2,589 3,832
+5 5
+The total recognised income and expense for the period is attributable to the equity shareholders of the parent
+company Filtronic plc.
+34 Filtronic plc Annual Report 2006 Consolidated Balance Sheet
+at 31 May 2006
+Group
+2006 2005
+note £000 £000
+Non-current assets
+Goodwill 22 2,723 31,400
+Property, plant and equipment 24 69,248 79,793
+Deferred tax 25 2,249 2,309
+1 1
+74,220 113,502
+1 1
+Current assets
+Inventories 26 33,623 34,802
+Trade and other receivables 27 67,615 67,924
+Income tax receivable 550 –
+Cash and cash equivalents 28 5,293 6,563
+1 1
+107,081 109,289
+1 1
+1 1
+Total assets 181,301 222,791
+1 1
+Current liabilities
+Bank overdraft 29 – 5,958
+Bank revolving credit 29 18,000 –
+Bank loan 29 – 11,000
+Trade and other payables 30 41,412 49,844
+Income tax payable 1,764 1,880
+1 1
+61,176 68,682
+1 1
+Non-current liabilities
+Bank loan 29 – 33,000
+Deﬁned beneﬁt pension 32 20,585 16,149
+Deferred income 33 4,475 10,730
+Deferred tax 34 688 661
+1 1
+25,748 60,540
+1 1
+1 1
+Total liabilities 86,924 129,222
+1 1
+1 1
+Net assets 94,377 93,569
+5 5
+Equity
+Share capital 35 7,484 7,484
+Share premium 36 139,172 139,172
+Translation reserve 36 698 1,302
+Other reserve 36 6,237 5,584
+Accumulated losses 38 (59,214) (59,973)
+1 1
+Total equity 94,377 93,569
+5 5
+The total equity is attributable to the equity shareholders of the parent company Filtronic plc.
+Approved by the Board on 31 July 2006 and signed on its behalf by
+Professor J D Rhodes CBE FRS FREng
+Group CEO
+Filtronic plc Annual Report 2006 35 36 Filtronic plc Annual Report 2006
+Consolidated Cash Flow
+Statement
+for the year ended 31 May 2006
+Group
+2006 2005
+£000 £000
+Cash ﬂows from operating activities
+Proﬁt for the period 6,011 9,302
+Gain on sale of discontinued operation (14,146) –
+Taxation 1,390 241
+Finance costs 4,934 6,005
+Finance income (1,706) (1,988)
+Gain on sale of property (523) (2,356)
+1 1
+Operating (loss)/proﬁt (4,040) 11,204
+Deﬁned beneﬁt pension charge/(credit) 3,624 (422)
+Deﬁned beneﬁt pension contributions paid (2,561) (2,029)
+Share-based payment 240 291
+Depreciation 11,744 14,572
+Loss/(gain) on sale of plant and equipment 402 (235)
+Licence fee released to income (2,335) (2,335)
+Government grants released to income (3,920) (693)
+Government grants received – 1,000
+Government grants repaid – (150)
+Movement in inventories (3,215) 2,107
+Movement in trade and other receivables 1,490 (13,249)
+Movement in trade and other payables 1,086 10,384
+1 1
+Cash ﬂow from operations 2,515 20,445
+Tax paid (1,998) (1,846)
+1 1
+Net cash from operating activities 517 18,599
+1 1 Consolidated Cash Flow
+Statement
+for the year ended 31 May 2006
+Group
+2006 2005
+note £000 £000
+Net cash from operating activities 517 18,599
+1 1
+Cash ﬂows from investing activities
+Proceeds from sale of property 3,508 6,349
+Proceeds from sale of plant and equipment 348 1,555
+Interest received 172 85
+Purchases of property, plant and equipment (14,422) (12,963)
+Sale of discontinued operation 44,138 –
+1 1
+Net cash from investing activities 33,744 (4,974)
+1 1
+Cash ﬂows from ﬁnancing activities
+Bank revolving credit drawn 18,000 –
+Bank loan repaid (44,000) (6,000)
+Bank borrowing facilities fees paid (543) –
+Interest paid (1,841) (4,189)
+Dividends paid (2,021) (2,018)
+1 1
+Net cash from ﬁnancing activities (30,405) (12,207)
+1 1
+Increase in cash and cash equivalents 3,856 1,418
+Currency exchange gain on sale of discontinued operation 1,007 –
+Currency exchange movement (175) 486
+Opening cash and cash equivalents 605 (1,299)
+1 1
+Closing cash and cash equivalents 28 5,293 605
+5 5
+Filtronic plc Annual Report 2006 37 38 Filtronic plc Annual Report 2006
+Company
+Income Statement
+for the year ended 31 May 2006
+Company
+2006 2005
+note £000 £000
+Operating loss 10 (5,213) (3,243)
+Gain on sale of investment in subsidiary 46,210 –
+Impairment of investments in subsidiaries (2,572) (600)
+Provision for doubtful group receivables (6,042) (2,000)
+Dividends from subsidiaries – 2,789
+Finance income 17 1,766 1,702
+Finance costs 18 (4,406) (6,005)
+1 1
+Proﬁt/(loss) before taxation 29,743 (7,357)
+Taxation 19 – –
+1 1
+Proﬁt/(loss) after taxation 29,743 (7,357)
+1 1
+Proﬁt/(loss) for the period 29,743 (7,357)
+5 5
+Company Statement of
+Recognised Income and
+Expense
+for the year ended 31 May 2006
+Company
+2006 2005
+£000 £000
+Proﬁt/(loss) for the period 29,743 (7,357)
+Actuarial loss on deﬁned beneﬁt pension scheme (2,849) (6,784)
+1 1
+Total recognised income and expense for the period 26,894 (14,141)
+5 5 Company
+2006 2005
+note £000 £000
+Non-current assets
+Investments in subsidiaries 23 122,987 126,764
+Property, plant and equipment 24 9,154 9,502
+1 1
+132,141 136,266
+1 1
+Current assets
+Trade and other receivables 27 143,804 123,542
+Cash and cash equivalents 28 2,960 4,000
+1 1
+146,764 127,542
+1 1
+1 1
+Total assets 278,905 263,808
+1 1
+Current liabilities
+Bank overdraft 29 – 6,022
+Bank revolving credit 29 18,000 –
+Bank loan 29 – 11,000
+Trade and other payables 30 46,596 28,805
+Income tax payable 1,491 1,487
+1 1
+66,087 47,314
+1 1
+Non-current liabilities
+Bank loan 29 – 33,000
+Deﬁned beneﬁt pension 32 20,585 16,149
+1 1
+20,585 49,149
+1 1
+1 1
+Total liabilities 86,672 96,463
+1 1
+1 1
+Net assets 192,233 167,345
+5 5
+Equity
+Share capital 35 7,484 7,484
+Share premium 36 139,172 139,172
+Retained earnings 38 45,577 20,689
+1 1
+Total equity 192,233 167,345
+5 5
+Approved by the Board on 31 July 2006 and signed on its behalf by
+Professor J D Rhodes CBE FRS FREng 
+Group CEO
+Filtronic plc Annual Report 2006 39
+Company Balance Sheet
+at 31 May 2006 40 Filtronic plc Annual Report 2006
+Company Cash Flow
+Statement
+for the year ended 31 May 2006
+Company
+2006 2005
+£000 £000
+Cash ﬂows from operating activities
+Proﬁt/(loss) for the period 29,743 (7,357)
+Finance costs 4,406 6,005
+Finance income (1,766) (1,702)
+Dividends from subsidiaries – (2,789)
+Provision for doubtful group receivables 6,042 2,000
+Impairment of investments in subsidiaries 2,572 600
+Gain on sale of investment in subsidiary (46,210) –
+1 1
+Operating loss (5,213) (3,243)
+Share-based payment 15 113
+Deﬁned beneﬁt pension operating charge/(credit) 1,063 (2,451)
+Depreciation 390 384
+Movement in trade and other receivables (14,985) 90,550
+Movement in trade and other payables 17,791 24,623
+1 1
+Cash ﬂow from operations (939) 109,976
+Tax received 4 –
+1 1
+Net cash from operating activities (935) 109,976
+1 1 Company
+2006 2005
+note £000 £000
+Net cash from operating activities (935) 109,976
+1 1
+Cash ﬂows from investing activities
+Interest received 69 31
+Dividends received from subsidiaries – 2,789
+Purchases of property, plant and equipment (42) (175)
+Group transfer of investments in subsidiaries – (120,736)
+Capital repaid by subsidiary – 21,648
+Sale of investment in subsidiary 35,089 –
+1 1
+Net cash from investing activities 35,116 (96,443)
+1 1
+Cash ﬂows from ﬁnancing activities
+Bank revolving credit drawn 18,000 –
+Bank loan repaid (44,000) (6,000)
+Bank borrowing facilities fees paid (543) –
+Interest paid (1,805) (4,189)
+Dividends paid (2,021) (2,018)
+1 1
+Net cash from ﬁnancing activities (30,369) (12,207)
+1 1
+Increase in cash and cash equivalents 3,812 1,326
+Currency exchange gain on sale of investment in subsidiary 1,007 –
+Currency exchange movement 163 290
+Opening cash and cash equivalents (2,022) (3,638)
+1 1
+Closing cash and cash equivalents 28 2,960 (2,022)
+5 5
+Filtronic plc Annual Report 2006 41
+Company Cash Flow
+Statement
+for the year ended 31 May 2006 Notes to the
+Financial Statements
+for the year ended 31 May 2006
+1 Basis of preparation
+Financial position and market conditions
+The group currently has agreed facilities of £35m with its bankers consisting of a term loan of £15m, a revolving
+multicurrency facility of £18m and an overdraft of £2m. Unless previously repaid, the term loan is required to be
+repaid by 30 November 2006 and the revolving facility is required to be repaid by 31 August 2008.
+These existing facility arrangements also require that, in the event that the proposed disposal of the Wireless
+Infrastructure business to Powerwave (as referred to below) does not complete, the group is required to agree
+revised ﬁnancial covenants in relation to its facilities by 30 September 2006.
+The group has signed an agreement with Powerwave for the disposal of its Wireless Infrastructure business for a
+consideration of $150m (approximately £81m) cash and 20.7m shares of Powerwave’s common stock, due for
+completion before 30 September 2006. This has not been completed. On the assumption this completion occurs by
+30 September 2006, the cash consideration received would be utilised to repay existing bank facilities and provide
+additional capital for the remaining group. The directors have prepared business plans and forecasts for the
+remaining group on this basis and believe there to be sufﬁcient working capital for the foreseeable future.
+In the event that a sale does not complete as envisaged, the group would continue with its existing business plans
+incorporating the Wireless Infrastructure business.
+The group currently beneﬁts from sustained demand proﬁles for its volume product divisions that are providing
+good visibility of key customers’ forecast demand well into the second half of the ﬁnancial year ending 31 May 2007.
+The phased rate of increase in Compound Semiconductors’ production capacity, along with its current demand
+continuing to be greater than the growth in its output, as capacity utilisation is increased, limits the uncertainty of
+the ﬁnancial support required for this activity. 
+The group though operates in fast-changing, demand-led markets with a limited number of sophisticated customers
+who demand consistent high quality product. Thus the group remains exposed to changes in demand and issues
+arising from its complex operating environment including achievement of target cost reduction plans.
+As part of their assessment of the appropriateness of the preparation of the ﬁnancial statements on the going
+concern basis, the directors have modelled various scenarios reﬂecting the dynamics referred to above. They are
+therefore conﬁdent that the group’s current facility arrangements would be adequate and that revised ﬁnancial
+covenants would be agreed with the company’s bankers.
+On the bases above, the directors believe that the group will have sufﬁcient working capital for the foreseeable
+future and therefore that it is appropriate for the ﬁnancial statements to be prepared on the going concern basis.
+42 Filtronic plc Annual Report 2006 Notes to the
+Financial Statements
+for the year ended 31 May 2006
+2 Basis of preparation
+International Financial Reporting Standards
+These ﬁnancial statements have been prepared on the basis of International Financial Reporting Standards as
+adopted by the European Union (IFRS). The ﬁnancial statements for the year ended 31 May 2006 are the ﬁrst full IFRS
+ﬁnancial statements for the group and the company. The date of transition to IFRS is 1 June 2004. The ﬁnancial
+statements for the comparative period has been restated on the basis of IFRS. Reconciliations from UK GAAP to IFRS
+of the proﬁt/(loss) for the period and total equity for the comparative period and total equity at the transition date
+are set out in note 3. Explanations of the differences between the UK GAAP and the IFRS ﬁnancial statements are
+provided in note 4. The group has elected to take certain IFRS ﬁrst-time adoption options and these are described
+in note 5.
+The accounting policies adopted when reporting under UK GAAP have been revised where necessary to comply
+with IFRS. The accounting policies adopted by the group and the company under IFRS are laid out in note 6. The
+accounting policies have been applied consistently to both the periods presented in these ﬁnancial statements.
+3 Reconciliations from UK GAAP to IFRS
+The reconciliations from UK GAAP to IFRS of the proﬁt/(loss) for the period and total equity for the comparative
+period and total equity at the transition date 1 June 2004 are as follows:
+Group Company
+2005 2005
+£000 £000
+Proﬁt/(loss) for the period per UK GAAP 5,312 (9,303)
+Goodwill amortisation 2,222 –
+Share-based payments (248) (70)
+Deﬁned beneﬁt pension operating (charge)/credit 2,451 2,451
+Deﬁned beneﬁt pension net ﬁnance cost (435) (435)
+11
+Proﬁt/(loss) for the period per IFRS 9,302 (7,357)
+55
+Group Company
+2005 2004 2005 2004
+£000 £000 £000 £000
+Total equity per UK GAAP 105,778 101,113 181,759 193,040
+Proposed dividends 1,347 1,344 1,347 1,344
+SSAP 24 pension accrual 388 388 388 388
+Deﬁned beneﬁt pension liability (16,149) (11,381) (16,149) (11,381)
+Goodwill amortisation 2,222–––
+Goodwill currency translation movement (17) – – –
+1111
+Total equity per IFRS 93,569 91,464 167,345 183,391
+5555
+Filtronic plc Annual Report 2006 43 Notes to the
+Financial Statements
+for the year ended 31 May 2006
+4 Differences between the UK GAAP and the IFRS financial statements
+Explanations of the differences between the UK GAAP and the IFRS ﬁnancial statements are as follows:
+Presentation of financial statements
+The formats of the income statement, balance sheet and particularly the cash ﬂow statement are different under IFRS
+as compared to those used for UK GAAP .
+Segment reporting
+The reportable business segments were redeﬁned to comply with the requirements of IAS 14 Segment Reporting.
+Each reportable business segment is subject to risks and returns that are different from the other business segments.
+Goodwill
+Goodwill is not amortised under IFRS. Instead goodwill is subject to annual impairment testing, which indicated
+there was no impairment.
+Share-based payment
+Under IFRS, the fair value of share options at the date of grant is expensed in the income statement over the vesting
+periods of the options.
+Defined benefit pension
+IAS 19 Employee Beneﬁts requires the separate recognition of the operating and ﬁnancing costs of the deﬁned
+beneﬁt pension scheme in the income statement. Service costs are spread systematically over the working lives of
+the employees. Financing costs are recognised in the periods in which they arise. There was a past service credit in
+the year ended 31 May 2005 as a result of a reduction in the beneﬁts payable under the scheme. The deﬁned beneﬁt
+pension liability is the present value of the deﬁned beneﬁt obligation less the fair value of the pension scheme
+assets. Actuarial gains and losses are recognised immediately in the statement of recognised income and expense.
+Previously under UK GAAP the deﬁned beneﬁt pension scheme was accounted for in accordance with SSAP 24. The
+SSAP 24 charge to the income statement for the comparative period was the same as the employers pension
+contribution for the period.
+The deﬁned beneﬁt pension costs and pension liability under IAS 19 are the same as disclosed under FRS 17 in the
+UK GAAP ﬁnancial statements for the year ended 31 May 2005.
+Dividends
+Under IFRS, interim dividends are recognised in the period they are declared, and ﬁnal dividends are recognised in
+the period they are approved by shareholders. Dividends are recognised directly in equity, and not in the income
+statement.
+Translation reserve
+Under IFRS, currency translation movements arising from the consolidation of overseas subsidiaries are accumulated
+in the translation reserve, which is a separate component of equity.
+Revaluation reserve
+The UK GAAP revaluation reserve of £106,000 has been reclassiﬁed to accumulated losses under IFRS. The amount
+was the balance on the revaluation reserve at the transition date in respect of assets that are measured on the basis
+of deemed cost under IFRS.
+44 Filtronic plc Annual Report 2006 Notes to the
+Financial Statements
+for the year ended 31 May 2006
+5 IFRS first-time adoption options
+The group has elected to take certain IFRS ﬁrst-time adoption options as follows:
+Business combinations
+All prior business combination accounting has been frozen at the transition date. This includes goodwill on the
+balance sheet and goodwill deducted from equity.
+Share-based payments
+Only share options granted since 7 November 2002 have been fair valued and expensed in the income statement
+over the vesting periods.
+Foreign exchange
+The translation reserve arising from the consolidation of foreign subsidiaries was set to zero at the transition date.
+Filtronic plc Annual Report 2006 45 Notes to the
+Financial Statements
+for the year ended 31 May 2006
+6 Accounting policies
+Basis of accounting
+The ﬁnancial statements have been prepared in accordance with International Financial Reporting Standards as
+adopted by the European Union (IFRS).
+The ﬁnancial statements have been prepared under the historical cost convention.
+The accounting policies have been applied consistently throughout the group.
+Basis of consolidation
+The ﬁnancial statements consolidate the income statements, balance sheets and cash ﬂow statements of the
+company and all of its subsidiaries.
+Subsidiaries are all entities over which the group has the power to govern the ﬁnancial and operating policies.
+Subsidiaries are consolidated from the date on which control is transferred to the group, and are not consolidated
+from the date that control ceases.
+Intra group transactions and balances are eliminated on consolidation.
+Segment reporting
+The business segments are the primary segments and the geographical origin segments are the secondary
+segments. Each reportable segment is subject to risks and returns that are different from the other segments.
+Foreign currency translation
+The functional currency of each group company is the currency of the primary economic environment in which
+the group company operates. The ﬁnancial statements are presented in sterling which is the functional and
+presentational currency of the company.
+Transactions denominated in foreign currencies are translated into the functional currency of each group company
+at the exchange rate ruling at the date of the transaction. Monetary assets and liabilities denominated in foreign
+currencies are translated into sterling at the rate of exchange ruling at the balance sheet date.
+Foreign exchange gains and losses arising on the settlement of such transactions and translation of monetary assets
+and liabilities are recognised in the income statement.
+On consolidation, the ﬁnancial statements of subsidiaries with a functional currency other than sterling are translated
+into sterling as follows:
+– The assets and liabilities in their balance sheets plus any goodwill are translated at the rate of exchange ruling at
+the balance sheet date.
+– The income statements and cash ﬂow statements are translated at the average rate of exchange for the period.
+Currency translation movements arising on the translation of the net investments in foreign subsidiaries are
+recognised in the translation reserve, which is a separate component of equity.
+46 Filtronic plc Annual Report 2006 Notes to the
+Financial Statements
+for the year ended 31 May 2006
+6 Accounting policies (continued)
+Revenue
+Revenue is recognised for goods and services provided to customers during the period. Revenue excludes any
+related value added or sales tax.
+Research and development
+All research costs are expensed as incurred.
+Development costs chargeable to the customer are recognised as an expense in the same period as the associated
+customer revenue.
+Development costs incurred on projects requiring product qualiﬁcation tests to satisfy customer speciﬁcations are
+generally expensed as incurred, reﬂecting the technical risks associated with meeting the resultant product
+qualiﬁcation test.
+Development costs incurred on projects are capitalised where ﬁrstly the technical feasibility can be tested against
+relevant milestones, secondly the probable revenue stream foreseen over the life of the resulting product can
+support the development and thirdly sufﬁcient resources are available to complete the development. These
+capitalised costs are amortised on a straight line basis over the expected life of the associated product.
+Once a new product is qualiﬁed, further development costs are expensed as they arise because they are incurred in
+response to continual customer demand to enhance the product functionality and to reduce product selling prices.
+Government grants
+Government grants related to operating expenditure are recognised in the income statement in the same period as
+the expenditure. Government grants related to capital expenditure are recognised in the income statement over the
+expected life of the assets.
+Operating leases
+Operating lease rentals are charged to the income statement on a straight line basis over the lease term.
+Share-based payments
+The group operates share option schemes, under which share options are granted to certain employees. The
+granting of the share options is a share-based payment.
+The fair value of the share options at the date of grant is calculated using an option pricing model, taking into
+account the terms and conditions applicable to the option grant. The fair value of the number of share options
+expected to vest is expensed in the income statement on a straight line basis over the expected vesting period.
+Each reporting period these vesting expectations are revised as appropriate.
+A credit is made to equity, equal to the share-based payment expense in the period.
+Filtronic plc Annual Report 2006 47 Notes to the
+Financial Statements
+for the year ended 31 May 2006
+6 Accounting policies (continued)
+Goodwill
+Goodwill represents the excess of the cost of acquisitions over the fair value of the net identiﬁable assets of the
+subsidiary acquired at the date of acquisition. Goodwill is stated at cost less any accumulated impairment losses.
+Goodwill, which is allocated to cash generating units, is tested for impairment annually and when there is an
+indication of impairment. If impaired, the goodwill carrying value is written down to its recoverable amount.
+Investments in subsidiaries
+Investments in subsidiaries are stated in the company’s ﬁnancial statements at cost less any accumulated impairment
+losses.
+Investments in subsidiaries are tested for impairment when there is an indication of impairment.
+Property, plant and equipment
+Property, plant and equipment are stated at cost less accumulated depreciation and less any accumulated
+impairment losses.
+Depreciation is provided on a straight line basis over the estimated useful lives of the assets as follows:
+Land Not depreciated
+Buildings 50 years
+Plant and equipment 3 to 10 years
+Property, plant and equipment are tested for impairment when there is an indication of impairment. If impaired, the
+carrying values of the assets are written down to their recoverable amounts.
+Inventories
+Inventories are stated at the lower of cost and net realisable value. Cost comprises weighted average cost of
+materials and components together with attributable direct labour and overheads. Net realisable value is the
+estimated selling price less estimated costs of completion and sale.
+Trade and other receivables
+Trade and other receivables are stated net of any provision for doubtful debts.
+Cash and cash equivalents
+Cash and cash equivalents comprises cash balances and bank deposits with an original maturity of three months or
+less. Bank overdrafts that are repayable on demand and form an integral part of the group’s cash management are
+included as a component of cash and cash equivalents for the purpose of the cash ﬂow statement.
+Net debt
+Net debt is cash and cash equivalents less bank overdrafts, bank revolving credits and bank loans.
+48 Filtronic plc Annual Report 2006 Notes to the
+Financial Statements
+for the year ended 31 May 2006
+6 Accounting policies (continued)
+Defined contribution pension schemes
+Deﬁned contribution pension schemes are operated for overseas employees. Contributions are recognised as an
+expense in the income statement as incurred.
+Defined benefit pension scheme
+A deﬁned beneﬁt pension scheme is operated for United Kingdom employees. The deﬁned beneﬁt pension liability
+is the present value of the deﬁned beneﬁt obligation less the fair value of the pension scheme assets. The deﬁned
+beneﬁt obligation is calculated by independent actuaries using the projected unit measure. The discount rate used
+to calculate the present value of the deﬁned beneﬁt obligation is the yield on AA credit rated corporate bonds that
+have maturity dates approximating the terms of the beneﬁt obligations.
+Service costs are spread systematically over the working lives of the employees, and are recognised within operating
+costs in the income statement. Financing costs are recognised in the periods in which they arise within ﬁnance costs
+in the income statement.
+Actuarial gains and losses arising from experience adjustments and changes in actuarial assumptions are recognised
+immediately in the statement of recognised income and expense.
+Deferred taxation
+Deferred tax is provided using the balance sheet liability method. Provision is made for temporary differences
+between the carrying amounts of assets and liabilities in the ﬁnancial statements and the amounts for taxation
+purposes.
+Temporary differences are not provided for the initial recognition of assets or liabilities that affect neither accounting
+nor taxable proﬁt. No provision is made for differences relating to investments in subsidiaries to the extent that they
+will probably not reverse in the foreseeable future.
+The amount of deferred tax provided is based on the expected manner of realisation or settlement of the carrying
+amount of the assets and liabilities, using tax rates enacted or substantially enacted at the balance sheet date.
+Deferred tax assets are recognised only to the extent that it is probable that future taxable proﬁts will be available
+against which the asset can be utilised.
+Share capital
+Ordinary shares issued are classiﬁed as share capital in equity.
+Dividends
+Interim dividends are recognised in equity in the period they are declared. Final dividends are recognised in equity
+in the period they are approved by shareholders.
+Filtronic plc Annual Report 2006 49 Notes to the
+Financial Statements
+for the year ended 31 May 2006
+6 Accounting policies (continued)
+Non-current assets held for sale and discontinued operations
+Non-current assets and disposal groups classiﬁed as held for sale are recognised at the lower of carrying amount
+and fair value less costs to sell. No depreciation is provided on property, plant and equipment once they are
+classiﬁed as held for sale.
+Non-current assets and disposal groups are classiﬁed as held for sale if their carrying amount will be recovered
+through a sale transaction rather than continuing use. The condition is regarded as met only when the sale is highly
+probable and the asset or disposal group is available for immediate sale in its present condition. The directors must
+be committed to the sale, which should be expected to qualify for recognition as a completed sale within one year
+from the date of classiﬁcation.
+A discontinued operation is a component of the group’s activities that represents a separate business operation.
+Classiﬁcation as a discontinued operation occurs upon disposal or if earlier when the operation meets the criteria to
+be classiﬁed as held for sale.
+7 Accounting estimates and judgements
+The preparation of the ﬁnancial statements requires the use of accounting estimates and judgements, that affect the
+application of accounting policies and reported amounts of assets and liabilities, income and expenses.
+The accounting estimates and judgements are continually evaluated. They are based on historical experience and
+other factors, including expectations of the future, that are believed to be reasonable under the circumstances.
+Actual results may differ from the expected results.
+The accounting estimates and judgements that have a signiﬁcant effect on the ﬁnancial statements are considered
+below. 
+Goodwill
+The carrying amount of goodwill is tested at least annually for impairment. The recoverable amount of the cash
+generating unit has been determined based on value in use calculations using cash ﬂow forecasts. The cash ﬂow
+forecasts require the use of estimates and judgements about the future performance of the cash generating unit.
+Group receivables
+At least annually an assessment is made of the recoverability of group receivables in the company’s balance sheet.
+As a result of this assessment group receivables are provided for if impaired. The assessment of the recoverability
+for certain group receivables is determined based on the cash ﬂow forecasts for the respective subsidiary. The cash
+ﬂow forecasts require the use of estimates and judgements about the future performance of the subsidiary.
+Deferred tax asset
+The recognition of the deferred tax asset relating to tax losses carried forward depends on forecasts of the future
+taxable proﬁts of certain subsidiaries. These forecasts require the use of estimates and judgements about the future
+performance of the respective subsidiaries.
+Defined benefit pension liability
+The carrying amount of the deﬁned beneﬁt pension liability is based on actuarial valuations. The valuations are
+based on estimates and judgements about the future, in particular the average life expectancy of pensioners.
+50 Filtronic plc Annual Report 2006 Notes to the
+Financial Statements
+for the year ended 31 May 2006
+8 Business segment analysis
+The business segments were redeﬁned with effect from 1 June 2005. The business segment results for the
+comparative period have been re-analysed to be consistent with the current period.
+The group comprises the following business segments:
+Wireless Infrastructure
+Wireless Infrastructure designs and manufacturers RF transmit/receive ﬁlters, power ampliﬁers and back haul radio
+products for base stations used in wireless telecommunication networks.
+Defence Electronics
+Defence Electronics designs and manufactures RF components and subsystems for military applications and digital
+signal processing products.
+Compound Semiconductors
+Compound Semiconductors designs and manufactures compound semiconductors for mobile telephone handset,
+wireless infrastructure and defence electronic applications.
+Central Services
+Central Services comprises a central research and development function, along with group management, ﬁnance
+and legal functions.
+Handset Products – discontinued operation
+Handset Products designed and manufactured RF antennas for mobile telephone handsets. The business was sold
+on 8 September 2005.
+Filtronic plc Annual Report 2006 51 Notes to the
+Financial Statements
+for the year ended 31 May 2006
+8 Business segment analysis (continued)
+Group
+2006 2005
+£000 £000
+Revenue
+Wireless Infrastructure 172,700 177,733
+Defence Electronics 32,079 31,590
+Compound Semiconductors 20,756 8,572
+Inter segment (4,572) (5,004)
+1 1
+Continuing operations 220,963 212,891
+Handset Products – discontinued operation 13,645 49,974
+1 1
+234,608 262,865
+5 5
+Operating (loss)/proﬁt
+Wireless Infrastructure 5,525 17,524
+Defence Electronics 564 3,070
+Compound Semiconductors (5,114) (11,701)
+Central Services (4,150) (5,694)
+Unallocated pension (charge)/credit (1,063) 2,451
+1 1
+Continuing operations (4,238) 5,650
+Handset Products – discontinued operation 198 5,554
+1 1
+Operating (loss)/proﬁt (4,040) 11,204
+Gain on sale of property 523 2,356
+Finance income 1,706 1,988
+Finance costs (4,934) (6,005)
+1 1
+(Loss)/proﬁt before taxation (6,745) 9,543
+Taxation (1,390) (241)
+1 1
+(Loss)/proﬁt after taxation (8,135) 9,302
+5 5
+The operating (loss)/proﬁt is stated after crediting the release of deferred income as follows:
+2006 2005
+£000 £000
+Wireless Infrastructure – government grants 416 62
+Defence Electronics – government grants 64 2
+Compound Semiconductors – licence fee 2,335 2,335
+– government grants 3,440 629
+1 1
+6,255 3,028
+5 5
+52 Filtronic plc Annual Report 2006 Notes to the
+Financial Statements
+for the year ended 31 May 2006
+8 Business segment analysis (continued)
+Group
+2006 2005
+£000 £000
+Depreciation
+Wireless Infrastructure 5,792 5,662
+Defence Electronics 1,269 1,824
+Compound Semiconductors 4,293 3,840
+Central Services 390 384
+1 1
+Continuing operations 11,744 11,710
+Handset Products – discontinued operation – 2,862
+1 1
+11,744 14,572
+5 5
+Capital expenditure
+Wireless Infrastructure 5,986 6,362
+Defence Electronics 1,351 913
+Compound Semiconductors 6,070 1,043
+Central Services 42 175
+1 1
+Continuing operations 13,449 8,493
+Handset Products – discontinued operation 973 4,470
+1 1
+14,422 12,963
+5 5
+Filtronic plc Annual Report 2006 53 Notes to the
+Financial Statements
+for the year ended 31 May 2006
+8 Business segment analysis (continued)
+Group
+2006 2005
+£000 £000
+Assets
+Wireless Infrastructure 101,674 104,456
+Defence Electronics 18,790 23,674
+Compound Semiconductors 41,153 33,995
+Central Services 273 1,285
+1 1
+Continuing operations 161,890 163,410
+Handset Products – discontinued operation – 50,509
+1 1
+Total segment assets 161,890 213,919
+Business sale consideration receivable 11,319 –
+Deferred tax 2,249 2,309
+Income tax receivable 550 –
+Cash and cash equivalents 5,293 6,563
+1 1
+Total assets 181,301 222,791
+5 5
+Liabilities
+Wireless Infrastructure 26,902 29,021
+Defence Electronics 8,842 6,245
+Compound Semiconductors 8,789 12,690
+Central Services 1,354 1,414
+1 1
+Continuing operations 45,887 49,370
+Handset Products – discontinued operation – 11,204
+1 1
+Total segment liabilities 45,887 60,574
+Bank overdraft – 5,958
+Bank revolving credit 18,000 –
+Bank loan – 44,000
+Income tax payable 1,764 1,880
+Deﬁned beneﬁt pension 20,585 16,149
+Deferred tax 688 661
+1 1
+Total liabilities 86,924 129,222
+5 5
+54 Filtronic plc Annual Report 2006 Notes to the
+Financial Statements
+for the year ended 31 May 2006
+9 Geographical origin segment analysis
+Group
+2006 2005
+£000 £000
+Revenue
+United Kingdom 116,266 106,447
+Finland 37,651 31,214
+Hungary 3,402 –
+United States of America 53,026 65,880
+China 61,153 57,147
+Australia 1,481 4,300
+Inter segment (52,016) (52,097)
+1 1
+Continuing operations 220,963 212,891
+1 1
+Finland 4,405 23,220
+China 11,067 29,841
+Inter segment (1,827) (3,087)
+1 1
+Discontinued operation 13,645 49,974
+1 1
+234,608 262,865
+5 5
+Operating (loss)/proﬁt
+United Kingdom (15,659) (20,798)
+Finland 1,439 3,041
+Hungary (412) –
+United States of America 343 9,538
+China 11,305 16,198
+Australia (1,254) (2,329)
+1 1
+Continuing operations (4,238) 5,650
+1 1
+Finland (3,190) (2,923)
+China 3,388 8,477
+1 1
+Discontinued operation 198 5,554
+1 1
+Operating (loss)/proﬁt (4,040) 11,204
+Gain on sale of property 523 2,356
+Finance income 1,706 1,988
+Finance costs (4,934) (6,005)
+1 1
+(Loss)/proﬁt before taxation (6,745) 9,543
+Taxation (1,390) (241)
+1 1
+(Loss)/proﬁt after taxation (8,135) 9,302
+5 5
+Filtronic plc Annual Report 2006 55 Notes to the
+Financial Statements
+for the year ended 31 May 2006
+9 Geographical origin segment analysis (continued)
+Group
+2006 2005
+£000 £000
+Depreciation
+United Kingdom 7,817 8,056
+Finland 831 784
+Hungary 68 –
+United States of America 1,498 1,560
+China 1,406 812
+Australia 124 498
+1 1
+Continuing operations 11,744 11,710
+1 1
+Finland – 1,595
+China – 1,267
+1 1
+Discontinued operation – 2,862
+1 1
+11,744 14,572
+5 5
+Capital expenditure
+United Kingdom 8,106 4,285
+Finland 492 273
+Hungary 737 –
+United States of America 2,188 1,549
+China 1,888 2,336
+Australia 38 50
+1 1
+Continuing operations 13,449 8,493
+1 1
+Finland 569 3,757
+China 404 713
+1 1
+Discontinued operation 973 4,470
+1 1
+14,422 12,963
+5 5
+56 Filtronic plc Annual Report 2006 Notes to the
+Financial Statements
+for the year ended 31 May 2006
+9 Geographical origin segment analysis (continued)
+Group
+2006 2005
+£000 £000
+Assets
+United Kingdom 108,006 91,431
+Finland 16,665 18,708
+Hungary 6,097 –
+United States of America 32,396 43,474
+China 17,162 16,794
+Australia 975 1,804
+1 1
+Continuing operations 181,301 172,211
+1 1
+Finland – 41,315
+China – 9,265
+1 1
+Discontinued operation – 50,580
+1 1
+Total assets 181,301 222,791
+5 5
+Liabilities
+United Kingdom 63,390 90,359
+Finland 6,654 6,657
+Hungary 1,952 –
+United States of America 5,276 8,739
+China 9,594 11,504
+Australia 58 717
+1 1
+Continuing operations 86,924 117,976
+1 1
+Finland – 6,213
+China – 5,033
+1 1
+Discontinued operation – 11,246
+1 1
+Total liabilities 86,924 129,222
+5 5
+Filtronic plc Annual Report 2006 57 Notes to the
+Financial Statements
+for the year ended 31 May 2006
+10 Operating (loss)/profit
+Continuing Discontinued
+operations operation Group
+2006 2006 2006
+£000 £000 £000
+Revenue 220,963 13,645 234,608
+555
+Raw materials and consumables 110,924 8,045 118,969
+111
+Wages and salaries 55,021 1,653 56,674
+Social security costs 5,061 338 5,399
+Pension costs 5,223 82 5,305
+Share-based payments 59 181 240
+111
+Staff costs 65,364 2,254 67,618
+111
+Depreciation 11,744 – 11,744
+111
+Other operating charges 37,169 3,148 40,317
+111
+111
+Operating costs 225,201 13,447 238,648
+555
+111
+Operating (loss)/proﬁt (4,238) 198 (4,040)
+555
+The operating loss for continuing operations is stated after charging the costs described in note 12 and crediting
+the income described in note 13.
+58 Filtronic plc Annual Report 2006 Notes to the
+Financial Statements
+for the year ended 31 May 2006
+10 Operating (loss)/profit (continued)
+Continuing Discontinued
+operations operation Group
+2005 2005 2005
+£000 £000 £000
+Revenue 212,891 49,974 262,865
+555
+Raw materials and consumables 100,510 25,277 125,787
+111
+Wages and salaries 55,240 6,891 62,131
+Social security costs 5,196 1,393 6,589
+Pension costs 966 558 1,524
+Share-based payments 228 63 291
+111
+Staff costs 61,630 8,905 70,535
+111
+Depreciation 11,710 2,862 14,572
+111
+Other operating charges 33,391 7,376 40,767
+111
+111
+Operating costs 207,241 44,420 251,661
+555
+111
+Operating proﬁt 5,650 5,554 11,204
+555
+Filtronic plc Annual Report 2006 59 Notes to the
+Financial Statements
+for the year ended 31 May 2006
+10 Operating (loss)/profit (continued)
+Company
+2006 2005
+£000 £000
+Wages and salaries 2,356 1,932
+Social security costs 242 213
+Pension costs 203 161
+Share-based payments 15 70
+1 1
+Staff costs 2,816 2,376
+1 1
+Depreciation 390 384
+1 1
+Other operating charges 2,155 2,226
+1 1
+Research and development costs recharged (to)/from other group companies (1,211) 708
+1 1
+Deﬁned beneﬁt pension operating charge/(credit) 1,063 (2,451)
+1 1
+1 1
+Operating costs 5,213 3,243
+5 5
+1 1
+Operating loss (5,213) (3,243)
+5 5
+11 Revenue analysis by destination
+Group
+2006 2005
+£000 £000
+United Kingdom 10,744 9,865
+Europe 128,050 118,691
+Americas 49,969 58,216
+Asia Paciﬁc 32,200 26,119
+1 1
+Continuing operations 220,963 212,891
+1 1
+United Kingdom 734 1,582
+Europe 9,631 21,562
+Americas 1,814 1,396
+Asia Paciﬁc 1,466 25,434
+1 1
+Discontinued operation 13,645 49,974
+1 1
+1 1
+234,608 262,865
+5 5
+60 Filtronic plc Annual Report 2006 Notes to the
+Financial Statements
+for the year ended 31 May 2006
+12 Reorganisation costs
+Operating (loss)/proﬁt is stated after charging reorganisation costs:
+Group Company
+2006 2005 2006 2005
+£000 £000 £000 £000
+Closure costs of the Wireless Infrastructure facility
+in Australia 1,080 – – –
+Closure costs of the Compound Semiconductors
+facility in California, USA 406 – – –
+Inventory write down in the US Defence
+Electronics business 1,516 – – –
+1 1 1 1
+3,002 – – –
+5 5 5 5
+The write down of the inventory in the US Defence Electronics business has arisen as a result of its strategic
+repositioning and after its move to a new facility.
+13 Government grants released
+During the year £2,717,000 (2005 nil) of deferred government grants, related to the Compound Semiconductors
+facility at Newton Aycliffe, County Durham, were released to income following the renegotiation of their
+arrangements.
+14 Operating items
+Group Company
+2006 2005 2006 2005
+£000 £000 £000 £000
+Operating proﬁt is stated after charging/(crediting):
+Research and development costs 27,647 31,082 559 2,869
+Loss/(gain) on sale of plant and equipment 402 (235) – –
+Operating lease rentals 2,808 3,051 37 49
+Licence fee released (2,335) (2,335) – –
+Government grants released (see note 13) (3,920) (693) – –
+Auditors’ remuneration
+– audit services – statutory audit 315 216 92 63
+– audit related regulatory reporting 15 44 15 44
+– tax services – compliance 25 22 – –
+– advisory 24 20 13 20
+– further assurance services 22 75 – 75
+5 5 5 5
+In addition the auditors were remunerated £568,000 (2005 nil) for services provided in connection with the disposal
+of the Handset Products business, and this is included in the sale costs.
+Filtronic plc Annual Report 2006 61 Notes to the
+Financial Statements
+for the year ended 31 May 2006
+15 Employees
+The average number of people employed by the group comprised:
+Group
+2006 2005
+Number Number
+Business segment
+Wireless Infrastructure 2,305 2,267
+Defence Electronics 327 357
+Compound Semiconductors 291 241
+Central Services 30 34
+1 1
+Continuing operations 2,953 2,899
+Handset Products – discontinued operations 333 1,019
+1 1
+3,286 3,918
+5 5
+Geographical segment
+United Kingdom 991 1,194
+Finland 350 319
+Hungary 122 –
+United States of America 447 461
+China 1,023 816
+Australia 20 108
+Japan – 1
+1 1
+Continuing operations 2,953 2,899
+Finland 64 249
+China 269 770
+1 1
+Discontinued operation 333 1,019
+1 1
+3,286 3,918
+5 5
+The average number of people employed by the company was 30 (2005 34).
+62 Filtronic plc Annual Report 2006 Notes to the
+Financial Statements
+for the year ended 31 May 2006
+16 Compensation of directors and key management
+Details of the remuneration, pension entitlements and share options of the individual directors are set out in the
+remuneration report on pages 23 to 28. The compensation of the directors was:
+2006 2005
+£000 £000
+Salary or fees 1,475 1,229
+Bonuses 70 –
+Beneﬁts 91 72
+Compensation for loss of ofﬁce 163 –
+1 1
+Total remuneration excluding pension contributions and share-based payments 1,799 1,301
+Pension contributions 334 89
+Share-based payments 39 77
+1 1
+2,172 1,467
+5 5
+In addition to the directors of the company, the key management of the group also includes Geoffrey Fletcher,
+Managing Director of the Wireless Infrastructure division. The compensation of Geoffrey Fletcher was:
+2006 2005
+£000 £000
+Salary 173 135
+Bonus – 25
+Beneﬁts 9 8
+1 1
+Total remuneration excluding pension contributions and share-based payments 182 168
+Pension contributions 15 13
+Share-based payments 17 –
+1 1
+214 181
+5 5
+On 16 March 2006 Geoffrey Fletcher was granted 250,000 share options with an exercise price of 171p and exercise
+period 1 October 2007 to 16 March 2016. Under the terms of his service contract, subject to certain performance
+conditions, if he remains employed by the group until 1 October 2007 from that date he will have the right to
+relinquish his share options in exchange for either 85,000 shares or a £200,000 cash payment.
+The directors and key management are related parties.
+Filtronic plc Annual Report 2006 63 Notes to the
+Financial Statements
+for the year ended 31 May 2006
+17 Finance income
+Group Company
+2006 2005 2006 2005
+£000 £000 £000 £000
+Interest income 172 85 69 31
+Expected return on pension scheme assets 1,534 1,381 1,534 1,381
+Currency exchange gains – 522 163 290
+1 1 1 1
+1,706 1,988 1,766 1,702
+5 5 5 5
+18 Finance costs
+Group Company
+2006 2005 2006 2005
+£000 £000 £000 £000
+Interest expense 1,841 4,189 1,805 4,189
+Bank borrowing facilities fees 543 – 543 –
+Interest on pension scheme liabilities 2,058 1,816 2,058 1,816
+Currency exchange losses 492 – – –
+1 1 1 1
+4,934 6,005 4,406 6,005
+5 5 5 5
+19 Taxation
+Group Company
+2006 2005 2006 2005
+£000 £000 £000 £000
+Current taxation
+United Kingdom – 11 – –
+Overseas 1,372 2,424 – –
+1 1 1 1
+1,372 2,435 – –
+1 1 1 1
+Deferred taxation
+Overseas origination and reversal of timing differences 18 70 – –
+Overseas tax losses recognised – (2,264) – –
+1 1 1 1
+18 (2,194) – –
+5 5 5 5
+1 1 1 1
+1,390 241 – –
+5 5 5 5
+The current taxation charge arises primarily from the group’s operations in China and Finland, where taxable proﬁts
+cannot be relieved by losses available in other jurisdictions.
+The deferred taxation credit arose from the group’s operations in the United States of America, where a proportion
+of the deferred tax asset relating to tax losses carried forward has been recognised.
+64 Filtronic plc Annual Report 2006 Notes to the
+Financial Statements
+for the year ended 31 May 2006
+19 Taxation (continued)
+The reconciliation of the effective tax rate is as follows:
+Group Company
+2006 2005 2006 2005
+£000 £000 £000 £000
+(Loss)/proﬁt before taxation (6,745) 9,543 29,743 (7,357)
+1 1 1 1
+(Loss)/proﬁt before taxation multiplied
+by standard rate of corporation tax
+in the UK (30%) (2,024) 30% 2,863 30% 8,923 (30%) (2,207)
+Disallowable items 1% 57 1% 118 0% 27 0% 28
+Disallowable share-based payments 1% 57 0% 21 –– ––
+Depreciation in advance of capital
+allowances 36% 2,422 37% 3,566 0% 46 1% 44
+Tax allowance on impaired goodwill (41%) (2,784) (3%) (319) –– ––
+Other temporary differences 3% 200 (5%) (464) –– 0% (30)
+Deﬁned beneﬁt pension charge/(credit) 7% 476 (6%) (605) 2% 476 (8%) (605)
+Allowable share-based payments
+not recognised 0% 15 1% 54 0% 5 0% 21
+Tax losses carried forward not recognised 93% 6,257 39% 3,713 2% 714 25% 1,873
+Tax losses brought forward utilised –– (27%) (2,564) –– ––
+Start-up years proﬁt exemption
+and rate reduction in China (23%) (1,554) (26%) (2,509) –– ––
+Overseas tax rate differences (26%) (1,732) (38%) (3,633) –– ––
+Non-taxable gain on sale of subsidiary –– –– (47%) (13,863) ––
+Impairment of investments subsidiaries –– –– 3% 772 2% 180
+Provision for doubtful group receivables –– –– 6% 1,812 8% 600
+Dividends from subsidiaries –– –– –– (11%) (836)
+Group relief –– –– 4% 1,088 13% 932
+11111111
+21% 1,390 3% 241 0% – 0% –
+55555555
+Filtronic plc Annual Report 2006 65 Notes to the
+Financial Statements
+for the year ended 31 May 2006
+20 Gain on sale of discontinued operation
+On 8 September 2005 the Handset Products business was sold. The sale is analysed as follows:
+Group
+2006 2005
+£000 £000
+Consideration and costs
+Cash consideration 47,113 –
+Currency exchange gain on consideration 1,007 –
+Additional cash consideration receivable in August 2006 11,433 –
+Sale costs (2,881) –
+Currency translation adjustment 42 –
+1 1
+56,714 –
+5 5
+Assets and liabilities sold
+Goodwill 28,466 –
+Property, plant and equipment 9,425 –
+Inventories 4,064 –
+Trade and other receivables 10,110 –
+Cash and cash equivalents 208 –
+Trade and other payables (9,667) –
+Income tax payable (38) –
+1 1
+Net assets sold 42,568 –
+Gain on sale of discontinued operation 14,146 –
+1 1
+56,714 –
+5 5
+The Handset Products business had the following cash ﬂows:
+2006 2005
+£000 £000
+Cash ﬂows from operating activities (1,567) 10,358
+5 5
+Cash ﬂows from investing activities (973) (4,471)
+5 5
+66 Filtronic plc Annual Report 2006 Notes to the
+Financial Statements
+for the year ended 31 May 2006
+21 (Loss)/earnings per share
+Group
+2006 2005
+£000 £000
+(Loss)/proﬁt for the period
+– continuing operations (8,333) 3,748
+– discontinued operation 14,344 5,554
+1 1
+(Loss)/proﬁt for the period 6,011 9,302
+5 5
+000 000
+Weighted average number of shares 74,842 74,797
+Dilution effect of share options 93 84
+Dilution effect of contingently issuable shares – 45
+1 1
+Diluted weighted average number of shares 74,935 74,926
+5 5
+Basic (loss)/earnings per share
+– continuing operations (11.13)p 5.01p
+– discontinued operation 19.16p 7.43p
+1 1
+Basic earnings per share 8.03p 12.44p
+5 5
+Diluted (loss)/earnings per share
+– continuing operations (11.13)p 5.00p
+– discontinued operation 19.15p 7.41p
+1 1
+Diluted earnings per share 8.02p 12.41p
+5 5
+Filtronic plc Annual Report 2006 67 Notes to the
+Financial Statements
+for the year ended 31 May 2006
+22 Goodwill
+Group
+Goodwill
+£000
+Cost
+At 1 June 2004 30,902
+Currency translation movement 498
+1
+At 31 May 2005 31,400
+Disposal of Handset Products business (28,466)
+Currency translation movement (211)
+1
+At 31 May 2006 2,723
+5
+The goodwill at 31 May 2006 relates to Sage Laboratories, Inc., which is located in the United States of America and
+forms part of the Defence Electronics division.
+Sage Laboratories, Inc. is a cash generating unit, and the recoverable amount was based on value in use calculations.
+The calculations used cash ﬂow projections based on business plans for two years, followed by a further three years
+assuming no growth. A discount rate of 10% has been used in discounting the projected cash ﬂows. The recoverable
+amount resulting from those calculations exceeded the carrying amount of the cash generating unit. Therefore there
+was no impairment of the goodwill at 31 May 2006.
+68 Filtronic plc Annual Report 2006 Notes to the
+Financial Statements
+for the year ended 31 May 2006
+23 Investments in subsidiaries
+Company
+Investments in
+subsidiaries
+£000
+Cost
+At 1 June 2004 36,006
+Capital repaid by subsidiary (21,648)
+Group transfers 120,736
+1
+At 31 May 2005 135,094
+Disposals (1,205)
+Group transfers (7,730)
+1
+At 31 May 2006 126,159
+5
+Impairment losses
+At 1 June 2004 7,730
+Impairment losses in the year 600
+1
+At 31 May 2005 8,330
+Impairment losses in the year 2,572
+Group transfers (7,730)
+1
+At 31 May 2006 3,172
+5
+Carrying amount at 31 May 2006 122,987
+5
+Carrying amount at 31 May 2005 126,764
+5
+Carrying amount at 1 June 2004 28,276
+5
+In the year ended 31 May 2005 the group transfers and capital repaid relate to a group reorganisation undertaken
+to prepare for the disposal of the Handset Products division.
+The impairment losses in the year ended 31 May 2005 relate to Filtronic Cable Communications Limited, Filtronic
+Microtek Limited and Filtronic Broadband Limited. The investments in these subsidiaries were written down to nil
+carrying amount as these subsidiaries had net liabilities and continued to make operating losses.
+The impairment losses in the year ended 31 May 2006 relate to Filtronic Comtek (UK) Limited. The investment in this
+subsidiary was written down to nil carrying amount, as this subsidiary had net liabilities and continued to make
+operating losses.
+All of the company’s investments in subsidiaries are subject to a registered debenture to secure bank borrowing
+facilities.
+The company’s subsidiaries are related parties.
+A complete list of the company’s subsidiaries, all of which are wholly owned, is given in note 45.
+Filtronic plc Annual Report 2006 69 Notes to the
+Financial Statements
+for the year ended 31 May 2006
+24 Property, plant and equipment
+Group
+Land and Plant and
+buildings equipment Total
+£000 £000 £000
+Cost
+At 1 June 2004 47,544 134,425 181,969
+Additions 77 12,886 12,963
+Disposals (5,170) (4,141) (9,311)
+Currency translation movement 264 913 1,177
+111
+At 31 May 2005 42,715 144,083 186,798
+Additions 304 14,118 14,422
+Disposals (3,373) (6,682) (10,055)
+Disposals through sale of the Handset Products business – (25,170) (25,170)
+Currency translation movement 65 (151) (86)
+111
+At 31 May 2006 39,711 126,198 165,909
+555
+Depreciation
+At 1 June 2004 6,580 89,089 95,669
+Depreciation 966 13,606 14,572
+Disposals (500) (3,498) (3,998)
+Currency translation movement 51 711 762
+111
+At 31 May 2005 7,097 99,908 107,005
+Depreciation 925 10,819 11,744
+Disposals (388) (5,932) (6,320)
+Disposals through sale of the Handset Products business – (15,745) (15,745)
+Currency translation movement 25 (48) (23)
+111
+At 31 May 2006 7,659 89,002 96,661
+555
+Carrying amount at 31 May 2006 32,052 37,196 69,248
+555
+Carrying amount at 31 May 2005 35,618 44,175 79,793
+555
+Carrying amount at 1 June 2004 40,964 45,336 86,300
+555
+The group’s United Kingdom land and buildings, with a carrying value of £22,402,000 (2005: £24,148,000), are subject
+to a registered debenture to secure bank borrowing facilities.
+70 Filtronic plc Annual Report 2006 Notes to the
+Financial Statements
+for the year ended 31 May 2006
+24 Property, plant and equipment (continued)
+Company
+Land and Plant and
+buildings equipment Total
+£000 £000 £000
+Cost
+At 1 June 2004 10,867 776 11,643
+Additions 32 143 175
+111
+At 31 May 2005 10,899 919 11,818
+Additions 29 13 42
+111
+At 31 May 2006 10,928 932 11,860
+555
+Depreciation
+At 1 June 2004 1,470 462 1,932
+Depreciation 271 113 384
+111
+At 31 May 2005 1,741 575 2,316
+Depreciation 273 117 390
+111
+At 31 May 2006 2,014 692 2,706
+555
+Carrying amount at 31 May 2006 8,914 240 9,154
+555
+Carrying amount at 31 May 2005 9,158 344 9,502
+555
+Carrying amount at 1 June 2004 9,397 314 9,711
+555
+All of the company’s land and buildings are subject to a registered debenture to secure bank borrowing facilities.
+Filtronic plc Annual Report 2006 71 Notes to the
+Financial Statements
+for the year ended 31 May 2006
+25 Deferred tax asset
+Tax losses available for relief against
+future taxable proﬁts
+Group Company
+2006 2005 2006 2005
+£000 £000 £000 £000
+Opening balance 2,309 – – –
+Deferred tax credit – 2,264 – –
+Currency translation movement (60) 45 – –
+1 1 1 1
+Closing balance 2,249 2,309 – –
+5 5 5 5
+Deferred tax assets which have not been recognised:
+Group Company
+2006 2005 2006 2005
+£000 £000 £000 £000
+Depreciation in advance of capital allowances
+– United Kingdom 12,374 10,050 – –
+Amortisation in advance of tax allowances
+– Overseas – 3,255 – –
+Deﬁned beneﬁt pension liability
+– United Kingdom 6,176 4,845 6,176 4,845
+Other temporary differences
+– Overseas 965 903 – –
+Tax losses available for relief against future
+taxable proﬁts
+– United Kingdom 17,770 14,962 7,266 6,023
+– Overseas 12,072 8,902 – –
+1 1 1 1
+49,357 42,917 13,442 10,868
+5 5 5 5
+The deferred tax assets have not been recognised where the directors consider that it is unlikely that the underlying
+temporary differences will reverse in the foreseeable future.
+The tax losses available for relief against future taxable proﬁts in the United States of America, which have not been
+recognised, amount to £9,645,000 of the total for overseas tax losses of £12,072,000. These amounts are in addition
+to the deferred tax asset of £2,249,000, which has been recognised, relating to tax losses carried forward in the
+United States of America. The tax losses in the United States of America expire in the period 14 to 20 years after 31
+May 2006. The remaining tax losses do not have an expiry date. The other deferred tax assets, which have not been
+recognised, do not expire.
+72 Filtronic plc Annual Report 2006 Notes to the
+Financial Statements
+for the year ended 31 May 2006
+26 Inventories
+Group Company
+2006 2005 2006 2005
+£000 £000 £000 £000
+Raw materials 20,869 19,539 – –
+Work in progress 8,661 7,969 – –
+Finished goods 4,093 7,294 – –
+1 1 1 1
+33,623 34,802 – –
+5 5 5 5
+Inventories are stated net of provisions 6,055 4,207 – –
+5 5 5 5
+27 Trade and other receivables
+Group Company
+2006 2005 2006 2005
+£000 £000 £000 £000
+Trade receivables 50,333 60,838 – –
+Group receivables – – 132,452 122,601
+Business sale consideration receivable 11,319 – 11,319 –
+Other receivables and prepayments 5,963 7,086 33 941
+1 1 1 1
+67,615 67,924 143,804 123,542
+5 5 5 5
+Included in the group’s and company’s other receivables and prepayments at 31 May 2005 was £845,000 for costs
+incurred to 31 May 2005 for professional fees relating to the preparation of the Handset Products division for
+disposal. This included £220,000 of such fees paid to the group auditors, KPMG. These costs are included in the sale
+costs of the transaction in accounting for the disposal in the year ended 31 May 2006.
+The group’s United Kingdom trade receivables of £28,561,000 (2005 £23,350,000) are subject to a registered
+debenture to secure bank borrowing facilities.
+28 Cash and cash equivalents and net debt
+Group Company
+2006 2005 2006 2005
+£000 £000 £000 £000
+Cash and cash equivalents 5,293 6,563 2,960 4,000
+Bank overdraft – (5,958) – (6,022)
+1 1 1 1
+Cash and cash equivalents in the
+cash ﬂow statement 5,293 605 2,960 (2,022)
+1 1 1 1
+Bank revolving credit (18,000) – (18,000) –
+Bank loan – current – (11,000) – (11,000)
+– non-current – (33,000) – (33,000)
+1 1 1 1
+Debt (18,000) (44,000) (18,000) (44,000)
+1 1 1 1
+1 1 1 1
+Net debt (12,707) (43,395) (15,040) (46,022)
+5 5 5 5
+Filtronic plc Annual Report 2006 73 Notes to the
+Financial Statements
+for the year ended 31 May 2006
+29 Bank overdraft, revolving credit and loan
+Group Company
+2006 2005 2006 2005
+£000 £000 £000 £000
+Current liabilities
+Bank overdraft – 5,958 – 6,022
+Bank revolving credit 18,000 – 18,000 –
+Bank loan – 11,000 – 11,000
+1 1 1 1
+18,000 16,958 18,000 17,022
+5 5 5 5
+Non-current liabilities
+Bank loan due between one to two years – 33,000 – 33,000
+5 5 5 5
+The bank loan was repaid during the year with the proceeds from the sale of the Handset Products business.
+The bank overdraft, revolving credit and loan are all denominated in sterling and bear interest at LIBOR plus 2.25%.
+A new bank loan facility of £15,000,000 was made available on 31 May 2006, which bears interest at LIBOR plus
+2.50%.
+The bank overdraft, revolving credit and loan are all secured by ﬁxed and ﬂoating charges over material assets of
+the group and company, including ﬁxed charges over the group’s land and buildings and trade receivables in the
+United Kingdom and investments in subsidiaries.
+At 31 May 2006 the group and company had a bank loan facility of £15,000,000, a bank overdraft facility of £2,000,000
+and a bank revolving credit facility of £18,000,000. At 31 May 2006 the bank loan and overdraft facilities were
+undrawn and all of the £18,000,000 bank revolving credit facility was drawn.
+The bank loan facility expires on 30 November 2006. The bank revolving credit facility expires on 31 August 2008.
+30 Trade and other payables
+Group Company
+2006 2005 2006 2005
+£000 £000 £000 £000
+Trade payables 27,654 37,875 – –
+Group payables – – 45,242 27,391
+Other payables and accruals 13,758 11,969 1,354 1,414
+1 1 1 1
+41,412 49,844 46,596 28,805
+5 5 5 5
+74 Filtronic plc Annual Report 2006 Notes to the
+Financial Statements
+for the year ended 31 May 2006
+31 Defined contribution pension schemes
+For employees in Finland contributions are made to a deﬁned contribution pension plan in accordance with Finnish
+regulations and practices. The pension cost for the year was £1,332,000 (2005 £1,240,000).
+For employees in Hungary contributions are made to a deﬁned contribution pension plan in accordance with
+Hungarian regulations and practices. The pension cost for the year was £43,000 (2005 nil)
+For employees in the United States of America contributions are made to a deﬁned contribution plan under section
+401(k) of the Internal Revenue Code. The pension cost for the year was £400,000 (2005 £274,000).
+For employees in Australia contributions are made to a deﬁned contribution superannuation fund operated by an
+independent insurance company. The pension cost for the year was £81,000 (2005 £209,000).
+32 Defined benefit pension scheme
+A deﬁned beneﬁt pension scheme is operated for United Kingdom employees, which provides retirement beneﬁts
+based on ﬁnal pensionable salary. The assets of the scheme are held in a separate trust fund which is managed by
+independent professional investment managers. Contributions to the scheme are determined by a qualiﬁed actuary
+on the basis of annual actuarial valuations using the projected unit measure. Employer’s contributions are 10.5% of
+pensionable salary and employees’ contributions are 6.0% of pensionable salaries. The estimated amounts of the
+contributions expected to be paid into the scheme in the year ending 31 May 2007 are employer’s contributions 
+£2,386,000 and employees’ contributions £1,306,000.
+The most recent actuarial valuation of the scheme was at 1 July 2005. The results of that valuation have been
+projected to 31 May 2006 and then recalculated based on the following assumptions:
+2006 2005
+Rate of inﬂation 3.1% 2.6%
+Rate of salary increase 3.0% 4.1%
+Rate of increase of pensions in payment 2.8% 2.4%
+Revaluation of deferred pensions 3.1% 2.6%
+Liability discount rate 5.1% 5.0%
+Expected return on scheme assets 7.0% 6.2%
+The average life expectancy in years of a pensioner retiring at the age of 65 was as follows:
+2006 2005
+Male 21.6 18.6
+Female 24.6 21.6
+Filtronic plc Annual Report 2006 75 Notes to the
+Financial Statements
+for the year ended 31 May 2006
+32 Defined benefit pension scheme (continued)
+The amount charged/(credited) to pension operating costs was:
+Group Company
+2006 2005 2006 2005
+£000 £000 £000 £000
+Current service cost 3,127 2,934 3,127 2,934
+Past service charge/(credit) 181 (3,133) 181 (3,133)
+Curtailment charge/(credit) 316 (223) 316 (223)
+Less group employers’ contributions – – (2,561) (2,029)
+1 1 1 1
+3,624 (422) 1,063 (2,451)
+5 5 5 5
+The amount charged to net pension ﬁnance cost was:
+Group and
+Company
+2006 2005
+£000 £000
+Expected return on pension scheme assets 1,534 1,381
+Interest on pension scheme liabilities (2,058) (1,816)
+1 1
+(524) (435)
+5 5
+The actuarial gain/(loss) recognised in the statement of recognised income and expense was:
+Group and
+Company
+2006 2005
+£000 £000
+Actual return less expected return on pension scheme assets 2,249 1,210
+Actuarial gain/(loss) on pension scheme liabilities (5,098) (7,994)
+1 1
+(2,849) (6,784)
+5 5
+The deﬁned beneﬁt pension liability was:
+Group and
+Company
+2006 2005
+£000 £000
+Present value of deﬁned beneﬁt pension scheme liabilities 50,588 39,379
+Fair value of deﬁned beneﬁt pension scheme assets (30,003) (23,230)
+1 1
+Deﬁned beneﬁt pension liability 20,585 16,149
+5 5
+76 Filtronic plc Annual Report 2006 Notes to the
+Financial Statements
+for the year ended 31 May 2006
+32 Defined benefit pension scheme (continued)
+Movements in the present value of the deﬁned beneﬁt pension scheme liabilities were:
+2006 2005
+£000 £000
+Opening balance 39,379 29,683
+Current service cost 3,127 2,934
+Past service charge/(credit) 181 (3,133)
+Curtailment charge/(credit) 316 (223)
+Interest cost 2,058 1,816
+Actuarial loss 5,098 7,994
+Employees’ contributions 1,220 1,014
+Beneﬁts paid (791) (706)
+1 1
+Closing balance 50,588 39,379
+5 5
+Movements in the fair value of the deﬁned beneﬁt pension scheme assets were:
+2006 2005
+£000 £000
+Opening balance 23,230 18,302
+Expected return on assets 1,534 1,381
+Actual return less expected return on assets 2,249 1,210
+Employer’s contributions 2,561 2,029
+Employees’ contributions 1,220 1,014
+Beneﬁts paid (791) (706)
+1 1
+Closing balance 30,003 23,230
+5 5
+The expected rate of return and the fair value of the deﬁned beneﬁt pension scheme assets at the balance sheet
+date were:
+Expected return Fair value
+2006 2005 2006 2005
+£000 £000
+Equities 7.6% 6.5% 23,771 18,573
+Bonds 4.8% 4.8% 5,866 4,397
+Cash 4.5% 4.5% 366 260
+1 1
+7.0% 6.2% 30,003 23,230
+5 5
+Filtronic plc Annual Report 2006 77 Notes to the
+Financial Statements
+for the year ended 31 May 2006
+32 Defined benefit pension scheme (continued)
+The history of the deﬁned beneﬁt pension scheme liabilities and assets and the experience adjustments related to
+them are as follows:
+2006 2005 2004 2003
+£000 £000 £000 £000
+Present value of deﬁned beneﬁt pension scheme
+liabilities 50,588 39,379 29,683 25,486
+Fair value of deﬁned beneﬁt pension scheme
+assets (30,003) (23,230) (18,302) (13,936)
+1 111
+Deﬁned beneﬁt pension liability 20,585 16,149 11,381 11,550
+5 555
+Experience adjustments on:
+Pension scheme liabilities (5,098) (7,994) 532 (3,194)
+5 555
+Percentage of liabilities (10%) (20%) 2% (12%)
+Pension scheme assets 2,249 1,210 933 (2,935)
+5 555
+Percentage of assets 7% 5% 5% (21%)
+33 Deferred income
+Group
+Deferred Deferred Total
+licence government deferred
+fee grants income
+£000 £000 £000
+At 1 June 2004 9,145 3,763 12,908
+Received during the year – 1,000 1,000
+Repaid during the year – (150) (150)
+Released to income during the year (2,335) (693) (3,028)
+111
+At 31 May 2005 6,810 3,920 10,730
+Released to income during the year (2,335) (3,920) (6,255)
+111
+At 31 May 2006 4,475 – 4,475
+555
+The licence fee income is being recognised as revenue in the income statement in equal monthly amounts until
+1 May 2008.
+78 Filtronic plc Annual Report 2006 Notes to the
+Financial Statements
+for the year ended 31 May 2006
+34 Deferred tax liability
+Capital allowances in advance of depreciation
+Group Company
+2006 2005 2006 2005
+£000 £000 £000 £000
+Opening balance 661 582 – –
+Deferred tax charge 18 70 – –
+Currency translation movement 9 9 – –
+1 1 1 1
+Closing balance 688 661 – –
+5 5 5 5
+35 Share capital
+Group and Company
+Ordinary shares of 10p each
+Authorised Issued and fully paid
+Number £000 Number £000
+At 1 June 2004 100,000,000 10,000 74,646,582 7,465
+Shares issued as acquisition consideration – – 131,149 13
+Shares issued as share-based payments – – 64,122 6
+1111
+At 31 May 2005 100,000,000 10,000 74,841,853 7,484
+5555
+At 31 May 2006 100,000,000 10,000 74,841,853 7,484
+5555
+36 Reserves
+Group and Company Group
+Share Shares to Translation Other
+premium be issued reserve reserve
+£000 £000 £000 £000
+At 1 June 2004 137,641 2,255 – 2,020
+Shares issued 1,531 (2,298) – –
+Share-based payments – 43 – –
+Transfer from accumulated losses – – – 3,552
+Currency translation movement arising on
+consolidation – – 1,302 12
+111 1
+At 31 May 2005 139,172 – 1,302 5,584
+Transfer from accumulated losses ––– 622
+Transfer to income related to business disposal – – (42) –
+Currency translation movement arising on
+consolidation – – (562) 31
+111 1
+At 31 May 2006 139,172 – 698 6,237
+555 5
+The other reserve is an undistributable surplus reserve and additional capital of the Chinese subsidiary, Filtronic
+(Suzhou) Telecommunications Products Co. Limited.
+Filtronic plc Annual Report 2006 79 Notes to the
+Financial Statements
+for the year ended 31 May 2006
+37 Dividends
+The dividends recognised in equity and paid during the year were as follows:
+Group and
+Company
+2006 2005
+Per share £000 £000
+Final dividend year ended 31 May 2004 1.80p – 1,344
+Interim dividend year ended 31 May 2005 0.90p – 674
+Final dividend year ended 31 May 2005 1.80p 1,347 –
+Interim dividend year ended 31 May 2006 0.90p 674 –
+1 1
+2,021 2,018
+5 5
+The ﬁnal dividend proposed for the year ended 31 May 2006 is 1.80p per share payable on 31 October 2006 to
+shareholders on the register on 29 September 2006. The ﬁnal dividend will amount to £1,348,000 based on the
+issued share capital of 74,870,956 10p ordinary shares as at 21 July 2006.
+38 Accumulated losses and retained earnings
+Group Company
+Accumulated Retained
+losses earnings
+£000 £000
+At 1 June 2004 (57,917) 36,030
+Proﬁt/(loss) for the period 9,302 (7,357)
+Acturial loss on deﬁned beneﬁt pension scheme (6,784) (6,784)
+Share-based payments 996 818
+Transfer to other reserve (3,552) –
+Dividends (2,018) (2,018)
+11
+At 31 May 2005 (59,973) 20,689
+Proﬁt for the period 6,011 29,743
+Actuarial loss on deﬁned beneﬁt pension scheme (2,849) (2,849)
+Share-based payments 240 15
+Transfer to other reserve (622) –
+Dividends (2,021) (2,021)
+11
+At 31 May 2006 (59,214) 45,577
+55
+39 Reconciliation of movements in total equity
+Group Company
+2006 2005 2006 2005
+£000 £000 £000 £000
+Opening total equity 93,569 91,464 167,345 183,391
+Total recognised income and expense
+for the period 2,589 3,832 26,894 (14,141)
+Share-based payments 240 291 15 113
+Dividends (2,021) (2,018) (2,021) (2,018)
+1 1 1 1
+Closing total equity 94,377 93,569 192,233 167,345
+5 5 5 5
+80 Filtronic plc Annual Report 2006 Notes to the
+Financial Statements
+for the year ended 31 May 2006
+40 Share options
+The share options outstanding and exercisable at 31 May 2006 were as follows:
+Number Number
+Exercise of options of options
+Exercise period price outstanding exercisable
+9/9/1999 – 9/9/2006 231p 7,014 7,014
+30/9/1999 – 30/9/2006 181p 14,930 14,930
+1/10/2000 – 2/12/2006 250p 400,000 400,000
+30/4/2000 – 30/4/2007 309p 25,000 25,000
+4/8/2000 – 4/8/2007 375p 428,650 428,650
+1/10/1999 – 23/1/2008 439p 140,000 120,000
+1/10/1999 – 26/6/2008 291p 12,265 12,265
+1/10/1999 – 26/6/2008 318p 1,560 1,560
+1/10/1999 – 26/6/2008 399p 38,840 –
+1/10/1999 – 3/8/2008 413p 173,500 –
+1/10/1999 – 3/8/2008 414p 837,950 –
+1/10/1999 – 10/8/2008 537p 60,000 –
+1/10/1999 – 17/9/2008 149p 58,205 58,205
+1/10/1999 – 17/9/2008 450p 548,000 364,000
+1/10/1999 – 5/10/2008 383p 504,000 24,000
+1/10/1999 – 9/11/2008 461p 65,000 –
+1/10/2000 – 1/1/2009 612p 45,000 –
+1/10/2000 – 4/3/2009 805p 60,000 –
+1/10/2000 – 10/5/2009 602p 40,000 –
+1/10/2000 – 1/6/2009 732p 10,000 10,000
+1/10/2000 – 14/6/2009 727p 117,415 –
+1/10/2000 – 1/7/2009 745p 95,000 –
+1/10/2000 – 18/7/2009 827p 20,000 –
+1/10/2000 – 2/8/2009 823p 235,000 10,000
+1/10/2000 – 27/8/2009 831p 40,000 –
+1/10/2000 – 13/9/2009 903p 15,000 –
+1/10/2000 – 27/9/2009 897p 15,000 –
+1/10/2000 – 4/10/2009 899p 15,000 –
+1/10/2000 – 11/10/2009 953p 15,000 –
+1/10/2000 – 1/11/2009 1131p 45,300 –
+1/10/2001 – 21/1/2010 1758p 17,500 17,500
+1/10/2001 – 15/5/2010 1020p 58,021 –
+1/10/2001 – 1/6/2010 946p 29,598 –
+1/10/2001 – 4/12/2010 346p 248,056 23,972
+1/10/2002 – 30/3/2011 149p 20,000 –
+1/10/2003 – 14/3/2012 404p 657,337 74,000
+1/10/2004 – 5/6/2012 191p 30,000 –
+1/10/2004 – 7/4/2013 346p 3,600 –
+1/10/2005 – 1/3/2014 451p 140,000 105,000
+1/10/2006 – 14/12/2014 198p 200,000 –
+1/10/2006 – 30/12/2014 190p 45,000 –
+1/10/2006 – 29/4/2015 200p 200,000 –
+1/10/2007 – 16/3/2016 171p 250,000 –
+11
+5,981,741 1,696,096
+55
+Filtronic plc Annual Report 2006 81 Notes to the
+Financial Statements
+for the year ended 31 May 2006
+40 Share options (continued)
+Weighted Weighted
+average average
+exercise Number exercise Number
+price of options price of options
+2006 2006 2005 2005
+Outstanding at the beginning of the period 431p 6,392,107 471p 6,489,422
+Forfeited during the period 343p (660,366) 518p (842,315)
+Granted during the period 171p 250,000 178p 745,000
+1 1
+Outstanding at the end of the period 429p 5,981,741 431p 6,392,107
+5 5
+Exercisable at the end of the period 379p 1,696,096 317p 804,124
+5 5
+The options outstanding at 31 May 2006 have a weighted average remaining contractual life of 3.7 years.
+Under the share option scheme the remuneration committee has a discretion to invite any full time employee who
+is required to devote substantially all of his time to the business of the group to participate in the scheme. Options
+granted under this scheme are generally exercisable in ﬁve equal annual tranches over a ﬁve year period and, except
+in certain circumstances, only if certain performance targets have been satisﬁed. The exercise price for an option is
+the average middle market quotation of Filtronic plc’s ordinary shares as derived from the Ofﬁcial List of the United
+Kingdom Financial Services Authority for the three dealing days prior to the date of grant of the option.
+41 Share-based payments
+Group Company
+2006 2005 2006 2005
+£000 £000 £000 £000
+Share options expense 240 248 15 70
+Other share-based payments – 43 – –
+1 1 1 1
+240 291 15 70
+5 5 5 5
+The share options expense is for share options granted to employees since 7 November 2002. The share options
+expense is the fair value of the share options at the date of grant spread over the expected vesting period of the
+share options. The fair value of the share options at the date of grant is measured using the Black-Sholes model.
+The inputs to the Black-Sholes model and the weighted average fair value of the share options granted during the
+year were as follows:
+Group Company
+2006 2005 2006 2005
+£000 £000 £000 £000
+Number of options granted 250,000 745,000 – 550,000
+Weighted average share price 171p 178p – 171p
+Weighted average exercise price 171p 178p – 171p
+Expected volatility 70% 70% – 70%
+Expected life 4 years 4 years – 4 years
+Risk free interest rate 5% 5% – 5%
+Weighted average fair value 88p 95p – 92p
+Expected volatility is the estimate of the volatility of the share price over the expected life of the share options.
+82 Filtronic plc Annual Report 2006 Notes to the
+Financial Statements
+for the year ended 31 May 2006
+42 Operating lease commitments
+At the balance sheet date there were commitments for lease payments under non-cancellable operating leases,
+which fall due as follows:
+Group Company
+2006 2005 2006 2005
+£000 £000 £000 £000
+Less than one year 2,240 2,612 40 39
+Between one and ﬁve years 3,262 5,886 72 50
+More than ﬁve years 850 2,774 – –
+1 1 1 1
+6,352 11,272 112 89
+5 5 5 5
+Operating leases are for land and buildings, equipment and motor vehicles and the lease terms are for periods of
+four to ten years.
+43 Capital expenditure commitments
+Group Company
+2006 2005 2006 2005
+£000 £000 £000 £000
+Capital expenditure contracted for at the
+balance sheet date but not provided in the
+ﬁnancial statements 5,655 4,130 – –
+5 5 5 5
+44 Financial instruments
+Fair value
+The carrying amount of all the ﬁnancial assets and liabilities approximate to their fair value as described below.
+Cash and cash equivalents comprise bank balances and bank deposits with a maturity of one day.
+Bank revolving credit drawn has a maturity of one month.
+Trade and other receivables are all receivable in less than one year. Trade receivables are generally receivable within
+60 days.
+Trade and other payables are all payable in less than one year. Trade payables are generally payable within 60 days.
+Credit risk
+Credit risk is primarily related to trade receivables. The group’s businesses are concentrated on long term
+relationships with a small number of larger and long established original equipment manufacturers. At 31 May 2006
+the group’s largest customer accounted for 47% (2005 36%) of trade receivables. The group has historically incurred
+only very low levels of unrecoverable receivables. Therefore credit risk is considered to be low.
+Interest rate risk
+The bank loan, revolving credit and overdraft facilities all bear interest at variable rates based on LIBOR. The bank
+borrowing at 31 May 2006 was £18,000,000 drawn on the revolving credit facility. The amount of the bank borrowing
+means that interest rate risk is not considered to be a material risk.
+Filtronic plc Annual Report 2006 83 Notes to the
+Financial Statements
+for the year ended 31 May 2006
+44 Financial instruments (continued)
+Liquidity risk
+At 31 May 2006 there were bank borrowing facilities in place totalling £35,000,000 of which £18,000,000 had been
+drawn. These borrowing facilities reduce to £20,000,000 on 1 December 2006. The borrowing facilities are
+considered sufﬁcient for the foreseeable future as set out in note 1. Short term liquidity is managed using short term
+bank deposits, the bank overdraft and the revolving credit facility.
+Foreign currency risk
+The group’s and company’s reporting currency is sterling, which is also the company’s functional currency. The
+functional currencies of the subsidiaries are sterling, euro, Hungarian ﬂorint, US dollar, Chinese yuan and Australian
+dollars. 
+The group’s results and ﬁnancial position are affected by ﬂuctuations in foreign currency exchange rates.
+To reduce foreign currency risk, where the customer agrees, revenue is billed in the currency that best matches the
+currency of the operating costs incurred. Revenues are predominantly denominated in US dollars and euros. Despite
+matching the currency denomination of revenues and costs as far as possible, a surplus of US dollars and euros has
+been generated over the last two ﬁnancial years, and this situation is expected to continue for the foreseeable
+future. The nature of the group’s businesses means that there is limited visibility of future revenues in each currency.
+Therefore when forward foreign exchange contracts are used to reduce the currency risk on the surplus US dollars
+and euros expected to be generated, they are usually only for short term periods of no more than six months.
+Forward foreign exchange contracts are also used to reduce the foreign currency risk on large transactions, for
+example the disposal of the Handset Products business. Currency swap contracts are used when appropriate to
+manage short term currency imbalances.
+At 31 May 2006 and 31 May 2005 there were no forward foreign exchange contracts or currency swap contracts
+outstanding.
+Surplus cash is held in sterling to match with the sterling bank borrowings.
+If sterling were to strengthen signiﬁcantly against the US dollar and the euro this would have the impact of materially
+reducing the group’s revenue and operating result. Currently the Chinese yuan is closely linked to the US dollar. If
+the Chinese yuan ceased to be linked and appreciated signiﬁcantly against the US dollar this would reduce
+operating margins achieved by our Chinese operation, unless the customers agree to corresponding increases in
+the US dollar denominated selling prices.
+84 Filtronic plc Annual Report 2006 Notes to the
+Financial Statements
+for the year ended 31 May 2006
+45 Subsidiaries
+The subsidiaries at 31 May 2006 were as follows:
+Name of Country of Description of Proportion Activity
+subsidiary incorporation equity held held
+or registration
+Owned by Filtronic plc
+Filtronic Comtek (UK) Limited England & Wales 12.2787p 100% Design and manufacture
+ordinary shares of microwave products
+Filtronic Broadband Limited England & Wales 1p ordinary shares 100% Design and manufacture
+of microwave products
+Filtronic Compound England & Wales £1 ordinary shares 100% Design and manufacture
+Semiconductors Limited of compound
+semiconductors
+Filtronic Components Limited England & Wales £1 ordinary shares 100% Design and manufacture
+of microwave products
+Filtronic Properties Limited England & Wales £1 ordinary shares 100% Property company
+Filtronic QUEST Trustees Limited England & Wales £1 ordinary shares 100% QUEST trustee company
+Filtronic Executive Share Option England & Wales £1 ordinary shares 100% Dormant company
+Trustees Limited
+Filtronic Microtek Limited England & Wales £1 ordinary shares 100% Dormant company
+Filtronic Cable Communications England & Wales 1p ordinary shares 100% Dormant company
+Limited
+Filtronic (Overseas Holdings) England & Wales £1 ordinary shares 100% Holding company
+Limited
+Owned by subsidiaries
+Filtronic Comtek Oy Finland 13,364 ordinary 100% Design and manufacture
+shares of microwave products
+Filtronic Comtek (Hungary) Kft Hungary Ft1 ordinary shares 100% Manufacture of
+microwave products
+Filtronic (Suzhou) China £1 ordinary shares 100% Manufacture of
+Telecommunication microwave products
+Products Co Limited
+Filtronic Pty Limited Australia A$1 ordinary shares100% Design of microwave
+products
+Filtronic Holdings, Inc. USA $1 common stock 100% Holding company
+Filtronic Comtek, Inc. USA $1 common stock 100% Design and manufacture
+of microwave products
+Filtronic Signal Solutions, Inc. USA $1 common stock 100% Design and manufacture
+of digital signal
+processing products
+Sage Laboratories, Inc. USA $0.10 common 100% Design and manufacture
+stock of microwave products
+Sage Laboratories USA $1 common stock 100% Dormant company
+Active Microwave, Inc. stock
+Sage Laboratories USA $1 common stock 100% Dormant company
+Investment Corporation
+Filtronic Compound USA $1 common stock 100% Dormant company
+Semiconductors, Inc.
+Filtronic plc Annual Report 2006 85 Corporate Directory
+Company secretary
+M Moynihan
+Company number
+2891064
+Registered office
+Filtronic plc
+The Waterfront
+Salts Mill Road
+Saltaire
+Shipley
+West Yorkshire
+BD18 3TT
+Tel: 01274 530622
+Fax: 01274 531561
+Registrars
+Capita Registrars
+The Registry
+34 Beckenham Road
+Beckenham
+Kent
+BR3 4TU
+Tel: 0870 162 3100
+Stockbrokers
+JPMorgan Cazenove Limited
+20 Moorgate
+London
+EC2R 6DA
+Tel: 020 7155 5000
+Auditors
+KPMG Audit Plc
+Chartered Accountants
+1 The Embankment
+Neville Street
+Leeds
+LS1 4DW
+Bankers
+Barclays Bank PLC
+10 Market Street
+Bradford
+BD1 1NR
+Financial public relations
+Parkgreen Communications Limited
+Ireland House
+150 New Bond Street
+London
+W1S 2AQ
+Tel: 020 7493 3713 
+86 Filtronic plc Annual Report 2006

@@ -1,0 +1,3287 @@
+ Powered by Ceres
+Ceres Power Holdings plc Annual Report 2013 Who we are
+Ceres Power (“Ceres”) is a leading developer of low cost, compact, metal-supported fuel cell technology for clean, 
+efficient, cost-effective, distributed generation products that can help address the key global energy challenges:
+•	 Increasing energy efficiency
+•	 Reducing CO
+2
+ emissions
+•	 Increasing energy security
+International mass market opportunities exist for cost-effective energy products that can address these global market 
+drivers while also meeting practical requirements such as the ability to run on readily available fuels like Natural Gas or 
+LPG, and be robust to real world operating conditions.
+Ceres Power’s unique compact fuel cell technology can meet these requirements to power homes, business and 
+infrastructure more efficiently than today’s solutions.
+The Ceres fuel cell stacks and Fuel Cell Modules (“FCMs”), supported by our world class manufacturing and systems 
+engineering capability, provide an excellent platform to enable our partners to create a range of products for distributed 
+generation and low carbon power applications. These include:
+•	 Combined Heat and Power (“CHP”) products for homes, operating on mains natural gas or packaged fuels
+•	 Portable and stationary products providing flexible power as alternatives to generators and batteries, operating on 
+packaged fuels including LPG, propane and butane
+•	 Products providing auxiliary power in transport applications
+Ceres was founded in 2001 to commercialise the unique core materials science technology developed at Imperial 
+College during the 1990s. In November 2004, it went public on the AIM market  of the London Stock Exchange. 
+In 2012 Ceres changed its strategy to focus on licensing its technology rather than selling complete CHP products.  
+Today, the Group directly employs approximately 65 people at its development and manufacturing headquarters in 
+Horsham in the UK.
+Contents
+1 Highlights 
+2 Business Opportunity 
+4 Chairman’s Statement 
+6 Chief Executive Officer’s Review 
+10 Board of Directors 
+12 Directors’ Report 
+15 Independent Auditors’ Report 
+16 Consolidated Statement of Comprehensive Income 
+17 Consolidated Balance Sheet 
+18 Consolidated Cash Flow Statement 
+19 Consolidated Statement of Changes in Equity 
+20 Notes to the Consolidated Financial Statements
+38 Independent Auditors’ Report
+39 Company Balance Sheet
+40 Notes to the Consolidated Financial Statements
+44 Directors and Advisors Ceres Power Holdings plc Annual Report 2013   1 
+ 
+ 
+ 
+ 
+ 
+Highlights  
+ 
+During the reporting period: 
+ Restructured the business to reduce recurring operating costs by 44% to £10.2 million 
+ Implemented new business strategy of working with global consumer durable product 
+manufacturers or ‘Original Equipment Manufacturers’ (“OEMs”) with strong balance sheets 
+ Successful targeting of OEM relationships in Japan and South Korea  
+ New Board and Leadership Team appointed 
+ Substantial progress made with the robustness of Ceres unique low cost fuel cell technology 
+ Increase in Fuel Cell Module (“FCM”) gross efficiency to > 50% 
+ Intellectual property portfolio further extended at cell, stack and FCM levels 
+ £15.4 million in net cash and short-term cash investments as at 30 June 2013 
+ 
+After period end: 
+ New CEO appointed, Philip Caldwell, commenced employment on 2 September 2013 
+ Commercial Agreement signed with Korea’s largest boiler manufacturer, KD Navien, in landmark 
+deal in support of new strategy 
+ Commercial traction in Japan with a number of global OEMs in technology validation and test 
+activities  
+ Collaboration Agreement signed with the University of Connecticut to showcase Ceres’ 
+technology and facilitate access to US OEMs and the Department of Energy programmes to 
+drive product development in the US 
+ 
+ 
+   2  Ceres Power Holdings plc Annual Report 2013   
+ 
+ 
+ 
+ 
+ 
+Business Opportunity
+The wider picture 
+Global energy challenges have been well understood for 
+some time; however recent events have increased the 
+need for clean and efficient distributed power 
+generation. World energy demand is predicted to rise by 
+25% (IEA, 2013) over the next decade yet the 
+infrastructure to provide a growing population with the 
+power they need is struggling to meet this growth. 
+Events such as the Fukishima disaster have put more 
+pressure on existing infrastructure, not only in Japan, but 
+also in countries such as Germany where a change of 
+energy policy has resulted in a renewed focus on 
+distributed generation and renewable or cleaner solutions. 
+Discoveries of shale gas reserves in the US closely 
+followed by the rest of the world are extending the use 
+of natural gas as a fuel for the foreseeable future but do 
+not address the underlying issues of how to reduce CO
+2
+ 
+emissions unless new technologies are adopted to 
+generate and distribute power more efficiently. 
+Fuel cells are one of the technologies which can provide 
+cleaner power solutions for a range of market 
+applications such as distributed generation through 
+micro-CHP, backup or primary power for telecoms and 
+transportation. After many years of development we are 
+now seeing widespread commercialisation of fuel cell 
+products, particularly in the Japanese market where 
+sales are being led by global OEMs such as Panasonic, 
+Toshiba and Toyota. Sales of residential micro-CHP units 
+in Japan under the government backed Ene-Farm 
+programme reached 28,000 in 2012 and are continuing 
+to grow. In addition, the South Korean government has 
+committed to subsidising its One Million Green Homes 
+Project for 2020, which is capable of stimulating a similar 
+market for fuel cell technology to that seen in Japan.  
+Whist Japan and Korea lead the way in developing the 
+fuel cell market, developments in other regions are 
+accelerating.  In Germany, the government is supporting 
+field trials of micro-CHP units under its Callux 
+programme and has set a binding CHP target of 25% co-
+generated electricity in power production by 2020.  In 
+the US large scale fuel cell deployments are being 
+backed by bank financing programmes resulting in MWs 
+of installed capacity for applications which provide highly 
+reliable and efficient power to growing energy 
+consumers such as data centres operated by some of the 
+world’s biggest consumer electronics and technology 
+companies. A number of studies for stationary power 
+fuel cell products have suggested that the market size 
+could exceed US$10 billion by 2025.  
+Whilst the potential of fuel cell technology has been 
+demonstrated through successful commercial products 
+sold often with government support through subsidies 
+and feed-in tariffs, the global OEMs still face the major 
+challenge to widespread adoption: of significantly 
+reducing costs while achieving operational robustness 
+and flexibility. Ceres Power technology offers a step 
+change to the existing high temperature solid oxide fuel 
+cell (“SOFC”) technology by providing a lower cost, 
+robust solution that enables its commercial partners, 
+through joint product development and effective 
+technology transfer, to produce the next generation of 
+clean power products with Ceres’ unique proprietary 
+technology at its core.    
+What we do 
+Ceres Power has developed a technology platform that is 
+capable of being mass manufactured using its patented 
+unique metal-supported SOFC technology designed to 
+operate on natural gas and subsequently on a range of 
+other fuels including LPG. 
+Ceres Power’s fuel cell stack is a metal-supported solid 
+state electro-chemical device which is the core of the 
+Fuel Cell Module (“FCM”) which generates electricity and 
+heat directly from reformed fuel and air. Unlike the 
+combustion process in an engine-driven generator, this 
+solid state process is highly efficient, environmentally 
+friendly and quiet. The Ceres stacks and FCMs will form 
+the core of a range of distributed generation products 
+designed with the potential to become the new standard 
+for energy provision in millions of homes and thousands 
+of commercial and industrial applications around the 
+world.  The Group’s initial commercial focus is on the 
+South Korean and Japanese markets, for compact 
+residential Combined Heat and Power (“CHP”) products 
+that replace conventional residential boilers and also 
+produce the majority of a typical home’s electricity 
+needs. However the Ceres technology can be applied to 
+other applications and markets. 
+  Ceres Power Holdings plc Annual Report 2013   3 
+ 
+ 
+ 
+ 
+ 
+ 
+A typical home uses electricity generated by a central power 
+station and transmitted through the electricity grid network 
+and uses a gas boiler to meet its heating and hot water 
+needs. Centralised generation wastes a significant proportion 
+of the energy it uses, through heat losses in the power 
+station and transmission and distribution losses. A CHP 
+product installed in a home and generating electricity at the 
+point of use (so-called distributed generation) avoids these 
+energy losses, capturing the heat for use in domestic hot 
+water and heating in the home. By creating electricity at the 
+point of use in the home, overall efficiency of fossil fuel use 
+can be improved from around 35% for centralised generation 
+to up to 90% for residential CHP. This increase in energy 
+efficiency delivers significant reductions in carbon emissions. 
+ 
+Our technology  
+The patented Ceres fuel cell design comprises thin 
+electrochemical layers deposited onto a porous stainless 
+steel supporting substrate. The cell operates in the 
+temperature range of 500–600°C which is substantially 
+lower than the temperature at which conventional SOFC 
+materials can operate, typically 750–1000°C. The 
+inherently lower operating temperature of Ceres’ unique 
+SOFC technology and the metal-supported design 
+enables the use of proven cost-effective materials and 
+manufacturing processes and a fuel cell stack design that 
+is robust and resistant to thermal and real-world 
+operating cycles. 
+ 
+ 
+The Group continues to develop its world class 
+manufacturing and systems engineering capability to 
+supply initial volumes of its high value core fuel cell 
+technology to its partners and, at a later stage, to offer 
+high volume manufacture under license at various global 
+locations to meet our OEM partners’ needs.  
+Our commercial proposition 
+Ceres Power has extensive and valuable intellectual 
+property rights and know-how in three core areas: the 
+fuel cell stack, the FCM and fuel cell manufacturing, 
+which together will enable our commercial partners to 
+develop and manufacture low carbon power products 
+under license. The Group’s first platform for licensing 
+into the low carbon appliance market is a 1kW stack or 
+FCM to be integrated into wall mounted residential fuel 
+cell CHP products. Such products will be designed to 
+replace conventional household boilers, saving the 
+customer around 25% of their annual total energy costs 
+and reducing the home’s CO
+2
+ emissions. By exploiting its 
+significant fuel cell system engineering experience, Ceres 
+can support and accelerate OEMs and other system 
+integrators to evaluate and develop new low carbon 
+products for residential and other markets. This unique 
+application support capability enables the Group to 
+catalyse uptake of its technology and encourage 
+economies of scale and standardisation across different 
+product platforms.  
+Ceres Power already has a technical and commercial 
+partnership agreement with KDN Navien, South Korea’s 
+largest boiler manufacturer, for the incorporation of its 
+technology into a CHP product and is actively looking to 
+create similar partnerships in Japan, the US and Europe. 
+In Japan, assessment of the technology is being carried 
+out with a number of potential OEM partners. In 
+addition, Ceres Power retains its longstanding 
+partnerships with a range of established corporations 
+such as British Gas and Itho-Daalderop with well-
+established direct channels to millions of customers in 
+the UK, Benelux and Ireland.  New products and market 
+opportunities also exist in the longer term beyond 
+residential CHP, including fuel cell water heaters for the 
+US market, tri-generation, remote industrial power and 
+auxiliary power for transport applications. 
+  4  Ceres Power Holdings plc Annual Report 2013   
+ 
+ 
+ 
+ 
+ 
+Chairman’s Statement 
+The last year has seen the Group make substantial progress against its new 
+strategy in both commercial and technical respects following its successful 
+restructuring and refinancing at the end of 2012.    
+Driven by our technical successes and cost leadership position Ceres is now gaining 
+significant commercial traction and I believe it has truly global potential. 
+ 
+Introduction 
+Since assuming the chair at the end of December 2012, 
+there have been significant changes in the business.  The 
+technology team has been reconfigured to support our 
+new strategy based on core technology only, with product 
+development implemented by our OEM partners.  These 
+partners can bring multiple products to market through 
+their depth of skills and expertise in systems integration, 
+and their balance sheet strength.  The commercial team 
+set out to attract OEMs with the vision to build products 
+with Ceres technology embedded within them and we 
+have made significant progress on all fronts.  Before 
+reporting on this, I would like to thank the previous 
+Chairman, Brian Count, and his Executive Board for their 
+professionalism and dedication to handing over control of 
+the business to the newly appointed executive team and 
+supporting that team in resizing the business.  I would 
+specifically like to single out Rex Vevers, former CFO, and 
+Phil Whalen, formerly the CTO, for individual praise.  I 
+should also like to extend my personal thanks to Steve 
+Callaghan, one of our Non-Executive Directors, who 
+implemented the restructure program and supported the 
+business and leadership team through the second half of 
+the year. His contribution was significant and his many 
+years of working with turnaround situations were 
+invaluable to the Group.  I am extremely pleased to 
+welcome Phil Caldwell, the new CEO, to Ceres, who I refer 
+to later in more detail.  
+ 
+I would now like to turn my attention to progress that has 
+been made and the work still in progress at Ceres whilst 
+outlining our continued strategy for the financial year 
+2013-14 and beyond. 
+Business strategy and market overview 
+In contrast to the previous strategy of aspiring to become 
+a product company, Ceres now focuses only on core 
+technology at cell, stack and Fuel Cell Module (“FCM”) 
+level with accompanying cell manufacturing skills 
+necessary to scale the business.  We seek to engage OEMs 
+with strong balance sheets, systems and product 
+engineering skills in depth, and access to global markets.  
+Our key areas of geographic focus remain South Korea, 
+whose government have supported up to 80% subsidies 
+for micro-CHP domestic installations in conjunction with a 
+One Million Green Homes Project by 2020 initiative, and 
+Japan, where over 28,000 micro combined heat and 
+power (“micro-CHP”) units were sold in 2012.  We are 
+also targeting the US, where Intermediate Temperature 
+SOFC has recently received positive Governmental 
+support, and parts of Western Europe, including Germany 
+where their government has made significant and positive 
+statements in support of Green Power and where 
+subsidies for micro-CHP are noteworthy.   
+ 
+I am particularly pleased with the recently announced 
+Ceres deal with KD Navien, South Korea’s largest boiler 
+manufacturer. This is a landmark deal and clearly 
+demonstrates that the new strategy has found favour 
+with OEMs.  There has also been early commercial 
+traction in Japan which bodes extremely well for the 
+future, and we look forward to working more closely with 
+Japanese partners going forward. We will strive to 
+conclude more significant commercial deals in our target 
+geographies in the coming year.  
+ 
+In addition to micro-CHP applications, we also consider 
+our core technology to be suitable for other vertical 
+applications and will explore commercial partnerships in 
+new markets in the coming year.  
+Fund raise and change of advisors 
+On 18 December 2012, shareholders approved a placing 
+and open offer to raise £3.3 million (before expenses) 
+which provided the minimum level of funding required to 
+undertake the business restructure, and to establish the 
+commercial and technology strategy for the business 
+moving forward. On 28 March 2013, shareholders  Ceres Power Holdings plc Annual Report 2013   5 
+ 
+ 
+ 
+ 
+ 
+approved a placing and open offer to raise £9.5 million 
+(before expenses) which provides funding for the first 
+stages of the revised strategy and new business model.  
+The Group held £15.4 million in net cash and short-term 
+cash investments as at 30 June 2013 and, as previously 
+noted in our interim results, the Board anticipates that 
+further funding will be required in future to fully 
+commercialise the technology.  However, we do expect 
+that successful commercial engagements will also 
+contribute to funding the business in the coming financial 
+year. 
+ 
+During the period Ceres also appointed Nplus1 Singer as 
+its nominated advisor and DAC Beachcroft as its solicitors.  
+For completeness, I can also report that after the period 
+end the Group also appointed Tavistock as its financial PR 
+agency. 
+Technology progress 
+Progress has been impressive and I leave it to the Chief 
+Executive to provide details of this in his report.  Through 
+the remainder of 2013 I expect the technical programmes 
+to continue to deliver to our roadmap. 
+People 
+Ceres has an excellent team which, having been subjected 
+to the stresses associated with a >60% reduction in 
+workforce during 2012, have worked tirelessly during the 
+year, particularly since December, to deliver strong 
+technical and commercial progress.  I salute their 
+endeavour, endurance and sheer passion shown during 
+this year of restructure, refocus and re-engagement 
+around the new Group strategy. Following the 
+restructuring phase all employees were granted share 
+options as both retention and incentivisation measures 
+and all key personnel continue to remain in post. 
+ 
+We have in Philip Caldwell, our new CEO, a highly 
+commercial business leader with ten years’ experience of 
+the fuel cell sector. Phil was previously Corporate 
+Development Director at Intelligent Energy, a sizeable 
+company which specialises in the development of PEM 
+fuel cell systems. He has a strong track record of securing 
+OEM partners, and executing licence deals and 
+agreements with sector leading global companies across 
+automotive, stationary power and consumer electronic 
+applications. In particular he was instrumental in 
+establishing a joint venture with Suzuki Motor 
+Corporation which enabled local manufacture of fuel cells 
+under license in Japan. 
+ 
+I also note that Mike Bretherton, who has been Non-
+Executive Director since December 2012, will step down 
+from the Board on 4 October 2013 following his recent 
+relocation to Guernsey.  We wish him well in the future.  
+Summary 
+The Board of Directors has implemented a business 
+strategy based on the technology at the very core of the 
+Group’s capability, and is of the opinion that Ceres cell, 
+stack and FCM technology has the potential to become 
+the global standard for fuel cells for its target markets. In 
+due course, the Board is confident that it will deliver 
+excellent shareholder value through engineering 
+development, licence, supply and royalty revenues.  The 
+technical and commercial advances over the past 12 
+months have further reinforced Ceres’ position as a 
+unique low cost, efficient and durable technology 
+platform capable of operating in ‘real world’ conditions in 
+multiple vertical and geographic markets. 
+ 
+We believe the current strategy and approach to be in the 
+very best interests of our shareholders. 
+ 
+ 
+ 
+ 
+Alan Aubrey 
+Chairman 
+30 September 2013 
+  6  Ceres Power Holdings plc Annual Report 2013   
+ 
+ 
+ 
+ 
+ 
+Chief Executive Officer’s Review 
+I am pleased to report on the substantial commercial and technical progress made 
+towards our strategy over the past 12 months 
+ 
+Introduction 
+Having only been in the office of the Chief Executive for a 
+matter of weeks, I am happy to report that over the last 
+year Ceres has maintained its market position as the only 
+low cost commercially 
+viable Intermediate 
+Temperature SOFC 
+provider. The Group has 
+made substantial technical 
+and commercial progress, 
+and I am delighted to be in 
+post.  Under the guidance 
+of Steve Callaghan, a 
+member of our Board and 
+turnaround specialist, the 
+Group’s new strategy 
+deployed post-restructure in January 2013 has gained 
+significant commercial traction and our technology claims 
+are being validated by several OEMs.   
+Commercial Update 
+With KD Navien (“KDN”) we have secured the first stage 
+of a long-term partnership funded by KDN where they will 
+collaborate with us with the intention to develop and 
+commercialise a low cost natural gas fuel cell micro-CHP 
+product for the residential and commercial mass market 
+in South Korea, as well as other strategic markets.  Over a 
+12 month period from July 2013, we will provide KDN 
+with our technology to allow them to evaluate its design 
+and operating performance. Additionally over the period, 
+KD Navien and Ceres will begin the design phase for a 
+new 1kW micro-CHP product by leveraging each 
+company’s strengths, developing a product 
+commercialisation plan and agreeing the commercial 
+structures for licensing and development for the next 
+phases of the programme. 
+In Japan we have early stage evaluation of our technology 
+with a number of OEMs which are currently assessing 
+performance and application for a number of different 
+market opportunities. In the US we have entered into a 
+partnership with the University of Connecticut in order to 
+demonstrate the potential of our core technology to US 
+based OEMs.   
+This commercial progress has been successful only due to 
+the technical progress made under the continued 
+leadership of the Technical Director, Dr Mark Selby, and 
+his team.  We have made significant progress around 
+stabilising processes and production techniques to deliver 
+robustness, opening the road to commercialisation for 
+the Group and its partners. 
+Technology progress report 
+The progress made in the technology over the recent 
+period has been excellent in a number of areas and the 
+capability of the technology to be truly disruptive remains 
+in evidence.  In addition, in due course, I believe the 
+technology may be viable for a wider number of higher 
+power generation applications and we shall be evaluating 
+this opportunity over the coming year. 
+Cell and stack development has continued to progress 
+with key improvements demonstrated in robustness and 
+sustained development of highly repeatable volume 
+manufacturing processes. A key area of development has 
+been our ‘robust anode’ concept.  This allows us to have 
+the unique capability of withstanding harsh real life 
+conditions of unplanned stops.  This is a key enabler for 
+developing robust, low cost fuel cell products with our 
+customers.   
+Steady state durability, thermal cycling capability and the 
+ability to withstand harsh emergency stops are the key 
+metrics that are important to our product development 
+partners in their own technology evaluations and we are 
+continuing to demonstrate this in our partner 
+programmes. In accelerated thermal cycling and 
+RedOx/Emergency stop laboratory tests in the harshest 
+possible operating conditions, we have demonstrated 
+around twice the requirement for a consumer micro-CHP 
+product based on this technology. Accelerated testing in 
+these metrics is a good indication of the potential for long 
+life products. In addition, we continue to progress steady 
+state durability on tests that incorporate the latest 
+developments of the technology. 
+We have made rapid progress in Fuel Cell Module 
+(“FCM”) development in the last year, improving 
+efficiency to >50% Gross Electrical Efficiency LHV (Lower  Ceres Power Holdings plc Annual Report 2013   7 
+ 
+ 
+ 
+ 
+ 
+Heating Value). These developments in efficiency improve 
+potential savings for domestic micro-CHP containing the 
+Ceres technology, based on a conservative UK real use 
+case scenario including the current feed-in tariff. This 
+allows an expected payback period for the consumer of 
+less than five years, based on detailed projected product 
+costs.  
+The combination of our fuel cells’ intermediate operating 
+temperature of c.600
+o
+C, fuel reforming process and low 
+cost metals presents a unique set of engineering 
+challenges and opportunities.  Our deep technical 
+understanding in this area, and the intellectual property 
+that results, presents a great opportunity for us to help 
+accelerate our partners’ commercialisation plans for our 
+technology. 
+Across all areas of the technology we continue to 
+generate and protect our intellectual property with the 
+primary goal of accelerating the volume uptake of the 
+core cell technology and subsidy-free fuel cell products. 
+This has already resulted in (and will continue to result in) 
+numerous patent filings which strengthen our position 
+and protect our competitive advantage.  
+The various technology evaluation engagements, which 
+began in early 2013, continue to generate significant 
+activity within the technology team. To support this new 
+aspect of our business, we have recruited a small number 
+of key individuals. In 2014 customer funded activity will 
+be a major work-stream for us.  In parallel to our ongoing 
+customer programmes, we continue to progress our 
+roadmap for the Ceres Technology Platform to meet our 
+customers’ long-term commercial needs.   
+ 
+Dr Mark Selby 
+Director of Technology 
+Dr Selby has been with Ceres Power since 2006 and has led the 
+technology team since February 2013.  He has deep understanding of 
+systems engineering and previously has been responsible for all aspects of 
+Product Development activity.  Prior to joining Ceres Power, he was 
+a Senior Engineer at Ricardo UK Limited.   He has degrees in Electronics, 
+Dynamics and Control Systems awarded by the University of Leeds. 
+ 
+Dr Subhasish Mukerjee 
+Director of Cell and Stack Development 
+Dr. Mukerjee joined the Company in February 2012.  He is responsible for 
+all aspects of the development of cell and stack technology.  He has 
+extensive experience in fuel cells having previously worked at Delphi 
+Corporation as SOFC Technology Leader.  He holds numerous SOFC 
+patents and has published widely on fuel cell technology.  He gained 
+his PhD at Yale University. 
+Manufacturing and operations update 
+We have consolidated our business and manufacturing 
+operations to our Horsham site, allowing development 
+cells and stacks to be produced within a controlled 
+environment.  Our focus on real-world volume 
+manufacturing has been a core part of generating 
+customer traction, as many of the organisations we are 
+engaged with have world class track records and 
+experience of quality-driven manufacturing 
+environments. 
+Manufacturing quality, repeatability and stability have 
+been the focus of the Manufacturing Team over the past 
+12 months. As a result of this and of process and 
+materials development, overall cell yield has continued to 
+improve to up to  80%.  This continuing focus on the 
+manufacturing processes is an essential capability to 
+enable the scale-up of successful volume manufacturing 
+to meet our partners’ needs. 
+Medium-term roadmap 
+Following the restructure at the end of 2012 the Ceres 
+Board agreed a medium-term roadmap to enable it to 
+meet its strategic goals, as discussed below.   
+Commercial  
+The goal over the next five years is to target early stage 
+commercial deals in addition to developing existing 
+relationships, with the aim of translating these into major 
+development programmes and license agreements with 
+OEM partners.  Our unique technology will enable our 
+customers and partners to be market leaders in low cost 
+distributed power generation and will position the Group 
+to set the global standard for fuel cells in our chosen 
+markets.  These early stage commercial agreements are 
+designed to enable partners to develop and trial products 
+based on the Group’s core technology in micro-CHP and 
+other markets.   
+ 
+Ceres is targeting partners with the balance sheet 
+strength and skills to develop product beyond the FCM 
+module and who are able to fully integrate our 
+technology into products. We also expect our partners to 
+be market leaders in their domestic markets with 
+significant international reach. The Group will take the 
+opportunity to leverage developments beyond the FCM, 
+which were completed under the old strategy, to 
+accelerate the go-to-market time for new partners.  
+ 
+The Group recognises the importance of its existing 
+contracts, particularly those with British Gas in the UK and 
+Itho-Daalderop in the Netherlands. Although Ceres’ initial 
+OEM product partners are likely to launch product in their  8  Ceres Power Holdings plc Annual Report 2013   
+ 
+ 
+ 
+ 
+ 
+own countries first, these existing contracts could be 
+important beachheads into Europe for them and other 
+potential partners.   
+Manufacturing  
+Our manufacturing capability and IP are valuable assets to 
+the Ceres business.  The manufacturing capacity at our 
+plant in Horsham is sufficient for our current needs.  In 
+response to anticipated customer and internal demand, 
+the business would expect 
+to increase this 
+manufacturing capacity 
+four-fold on the same site 
+over the next few years by 
+increasing the number of 
+shifts and with a limited 
+targeted amount of capital 
+expenditure, in response 
+to customer and internal 
+demand.   
+ 
+In parallel with manufacturing cells and stacks and 
+assembling FCMs in-house, we will continue to 
+industrialise and stabilise the manufacturing processes 
+with the current aim to invest in a larger scale pilot plant 
+in time.  This will act as a blueprint to enable future 
+partners to mass manufacture under license and will 
+service anticipated initial higher volume demand.  The 
+Group would not expect to make any significant financial 
+commitments in this financial year and we will target a 
+location where significant grants are available to 
+contribute towards capital expenditure.  
+Technology 
+Ceres will continue to industrialise and make continual 
+improvements to its core fuel cell and FCM technology.  
+Improvements to the Ceres Technology Platform will be 
+carefully targeted. The business is focused on developing 
+1kW stacks and FCMs for natural gas, although, with the 
+right level of partner funding, it could also be scaled and 
+utilise alternative fuels for other applications.  The FCM 
+developed to date and the deep in-house system 
+expertise has great value and can accelerate our partners’ 
+route to market. 
+ 
+In addition to its core technology offering, the Group will 
+offer its partners application services and micro-CHP 
+product-related IP which we developed before the change 
+of strategy, which will also accelerate take-up.   
+Financial 
+As a result of the restructuring and change in strategy in 
+the year, recurring operating costs were reduced by 
+£7.9m from £18.1m in 2012 to £10.2m in 2013.  Over the 
+same period the Group’s average headcount fell from 155 
+in 2012 to 76 and currently stands at approximately 65.   
+ 
+During the year Calor Gas and Ceres agreed to end their 
+agreement to develop and supply an LPG-fuelled product 
+for sale in the UK market.  As a result £0.5m of deferred 
+revenue, being the unamortised portion of up-front 
+milestone payments relating to Calor Gas, was released to 
+the Income Statement without any cash impact.  This was 
+the primary reason the revenue for the year increased to 
+£0.5m (2012: £0.2m).  Deferred income of £1.8m relating 
+to the British Gas and Bord Gais Eireann development and 
+supply contracts (2012: £1.8m) remains on the balance 
+sheet.   
+ 
+An income tax credit of £1.3m (2012: £3m) has been 
+recorded in the year, consisting of a £1.0m estimated tax 
+recovery in respect of the current financial year and an 
+additional £0.3m received in respect of the prior year.   
+ 
+The loss for the financial year attributable to shareholders 
+reduced from £14.9m to £11.4m due to reduced 
+expenditure.  The average number of shares in issue 
+increased from 86.2m to 292.8m which was the 
+significant contributor to the reduction in loss per 
+ordinary share of 3.88p (2012: 17.28p).   
+ 
+During the year the Group’s net cash used in operations 
+reduced to £7.3m (2012: £15.4m) reflecting the reduced 
+operating expenditure, a favourable working capital 
+movement and the disposal of property, plant and 
+machinery in the year.  Current equity-free cash burn is 
+forecast to remain steady and be around £9m in the 
+financial year ending 30 June 2014.    
+People 
+The great progress being made in the development of our 
+technology is testament to the talent, robust 
+entrepreneurial spirit and commitment of our employees.  
+We are fortunate in having a united team which works 
+collaboratively across the range of disciplines with 
+knowledge, dedication and passion to deliver great results 
+with every activity we undertake.  
+ 
+We are committed to providing opportunities for our 
+employees to succeed, encourage their innovative 
+thinking and enhance their professional abilities through 
+a range of development opportunities. 
+I extend the Board’s sincere thanks to every one of our 
+team for their personal and collective contribution, and 
+its recognition and appreciation of the ongoing support 
+they receive from their families as they help us pursue  Ceres Power Holdings plc Annual Report 2013   9 
+ 
+ 
+ 
+ 
+ 
+our Group’s mission.  Our success is absolutely a team 
+effort. 
+Summary 
+During the past 12 months Ceres has undertaken a 
+significant change in direction with regard to its go-to-
+market strategy, choosing core technology focus over 
+product.  Product development is now part of the Group 
+strategy only in conjunction with our OEM and system 
+integration partners.  Commercially we have shown that 
+we can attract and transact with world class product 
+organisations and we shall continue to do so.  Technically 
+we have continued to meet and in some cases exceed the 
+standards set by ourselves in the core technology 
+programmes at cell, stack and FCM.  We can demonstrate 
+appropriate levels of efficiency, robustness and 
+manufacturing quality in support of real-world product 
+development programmes for mass market applications.  
+The Group continues to receive validation by OEM 
+partners and other third parties that the core technology 
+is achieving its design goals which underline our belief in 
+the cost leadership potential for this technology. I would 
+like to thank my executive management team for the 
+hard work, pragmatism and tenacity over the past year.  
+Their leadership has anchored Ceres and put us in an 
+extremely strong position for the future. 
+ 
+ 
+ 
+ 
+ 
+Phil Caldwell  
+Chief Executive 
+30 September 2013 
+ 
+   10  Ceres Power Holdings plc Annual Report 2013   
+ 
+ 
+ 
+ 
+ 
+Board of Directors 
+ 
+Alan Aubrey – Chairman 
+Alan joined the Company in December 2012 as Chairman. He is the CEO of IP Group plc, a 
+leading UK intellectual property commercialisation company and major investor in Ceres 
+Power. He is also Non-Executive Chairman of Proactis, an AIM-listed software company and a 
+Non-Executive Director of the Department for Business, Innovation & Skills (BIS). Previously 
+Alan was a partner in KPMG where he specialised in providing advice to fast growing 
+technology businesses. He is a fellow of the Institute of Chartered Accountants of England and 
+Wales. Alan holds a BA in Economics and a MBA. 
+ 
+ 
+Phil Caldwell – Chief Executive Officer 
+Phil joined the Company in September 2013 as CEO. He was previously Corporate Development 
+Director at Intelligent Energy Limited, a company specialising in the development of PEM fuel 
+cell systems, where he was responsible for leading commercial and strategic business 
+development activities, including securing OEM partners, executing licence deals and 
+development agreements in the Far East. Prior to joining Intelligent Energy, Phil was 
+responsible for business development for electrochemical technology within ICI. He has a 
+Masters degree in Chemical Engineering from Imperial College, London, holds an MBA and is a 
+Chartered Engineer. 
+ 
+ 
+Richard Preston – Finance Director 
+Richard joined Ceres Power in 2008 as Financial Controller, performing key finance and 
+programme manager roles across the business. He was appointed to the Board in February 
+2013. Previously Richard held a number of senior roles in business transformation and project 
+finance at Cable & Wireless. He is a Chartered Accountant and Corporate Treasurer and holds 
+an MA in Engineering and Management Studies from the University of Cambridge.  
+ 
+ 
+   Ceres Power Holdings plc Annual Report 2013   11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Steve Callaghan – Non-Executive Director 
+Steve joined Ceres Power in December 2012. He is a turnaround specialist in the technology 
+sector. Before he joined the Company he was Executive Vice President at Torex Retail Holdings 
+owned by Cerberus Private Equity and General Atlantic. Prior to Torex Steve was CEO of MMI 
+Research Limited, the precision geo-location and cell phone intercept business, CEO of Framfab 
+AB, Europe’s largest web design and technology consulting business and CEO of Card Clear plc. 
+He served as an Army officer in the Brigade of Gurkhas and Royal Signals until 1989 and has a 
+degree in Electrical Engineering. 
+ 
+ 
+Mike Lloyd – Non-Executive Director 
+Mike joined Ceres Power in July 2012. He has more than forty years of experience in 
+engineering, manufacturing and supply chain roles in the electrical machinery and power 
+sectors. His senior leadership roles have included Group Manufacturing Director, President of 
+Rolls Royce Gas Turbines Operations, Technical Director of GEC Large Machines and Managing 
+Director of Alstom Transport. Mike is currently Chairman of Magnomatics, a venture capital-
+backed technology company, specialising in the development of innovative magnetic 
+transmission drives for applications including wind turbines and hybrid vehicles. Mike is also a 
+Non-Executive Director of the Office of Rail Regulation and an advisor to Unipart and Cobham 
+plc. He has a BSc in Electrical Engineering, a PhD in Electrical Machines and is a Fellow of the 
+Royal Academy of Engineering. 
+ 
+ 
+Robert Trezona – Non-Executive Director 
+Robert joined the Company in December 2012. He has been working in technology venture for 
+many years, focusing on cleantech and materials opportunities. He is the cleantech lead at IP 
+Group plc and provides sector expertise across IP Group’s portfolio as well as originating and 
+managing investments in high-potential cleantech start-ups. Prior to this he was Head of 
+Research and Development at the Carbon Trust, fuel cell team lead at Johnson Matthey and 
+Ceres Power and strategy consultant for McKinsey and Company.  He holds a PhD in Materials 
+Science from the University of Cambridge.  
+ 
+   12  Ceres Power Holdings plc Annual Report 2013   
+ 
+ 
+ 
+ 
+ 
+Directors’ Report 
+for the year ended 30 June 2013 
+ 
+The Directors present their report and the audited 
+financial statements for the year ended 30 June 2013. 
+ 
+Principal activities 
+During the year the Group restructured and changed its 
+strategy from the development and commercial 
+exploitation of microgeneration products based on the 
+Group’s solid oxide fuel cell technology, to the 
+development and commercialisation of its core fuel cell 
+and fuel cell module technology. 
+ 
+Review of business and future developments 
+Significant developments and operating activities of the 
+Group, as well as the future strategy, business 
+environment and prospects for the Group are discussed in 
+detail in the Chairman’s Statement and the Chief 
+Executive Officer’s Review on pages 4 to 9. 
+ 
+In addition to the Group’s priorities as set out in the Chief 
+Executive Officer’s Review, the Group considers its Key 
+Performance Indicators (“KPIs”) to be revenue and net 
+cash and financial assets measured against 
+predetermined targets. The Directors are very pleased 
+with the progress made in delivering the Group’s key 
+priorities since the restructuring in December 2012 when 
+measured against their targets, as noted in the 
+Chairman’s Statement and the Chief Executive Officer’s 
+Review. 
+ 
+Results and dividends 
+The loss for the financial year was £11,375,000 (2012: 
+£14,900,000). The net cash used in operating activities 
+during the year was £7,349,000 (2012: £15,408,000). At 30 
+June 2013 the Group had net cash and short-term 
+investments of £15,437,000 (2012: £10,178,000). 
+ 
+The Directors do not recommend the payment of a 
+dividend (2012: £nil). 
+ 
+Research and development 
+During the year, the Group incurred expenditure of 
+£7,200,000 (2012: £13,205,000) on research and 
+development, all of which was written off to the 
+Consolidated Statement of Comprehensive Income. The 
+Chief Executive Officer’s Review reports on progress 
+during the year. 
+ 
+Charitable and political contributions 
+The Group made no charitable or political contributions 
+during the year (2012: £nil). 
+ 
+Principal risks and uncertainties 
+In addition to financial risk management which is detailed 
+in note 14 to the financial statements, there are a number 
+of risks and uncertainties which could have a material 
+impact on the execution of the Group’s strategy. Risks are 
+formally reviewed by the Board and appropriate 
+processes and controls put in place to monitor and 
+mitigate them. Key business risks are set out as follows: 
+ 
+Future funding risk 
+The future funding needs of the business are noted on 
+page 5 of the Chairman’s Statement. 
+ 
+Competitive and market risk 
+Future revenues are dependent on the development of 
+markets, the impact on these markets of alternative 
+technologies from competitors, technology obsolescence, 
+fuel prices, feed-in tariffs and changing regulations. 
+ 
+Technology risk 
+Uncertainty still exists regarding the successful 
+development and application of the Company’s fuel cell 
+and fuel cell module technology to potential products. 
+ 
+Intellectual Property protection risk 
+The Group continues to invest in the expansion and 
+protection of its portfolio of intellectual property. The 
+Group’s competitive advantage is at risk of unauthorised 
+parties using the Group’s technology in their own 
+products. Internal procedures and controls are therefore 
+in place to capture all Intellectual Property (‘IP’) and then 
+to prevent or control disclosure to third parties and 
+partners. There is always a degree of uncertainty over the 
+ability to register certain IP rights. IP insurance provides 
+additional protection for agreement, pursuit and defence 
+of IP terms and rights. 
+ 
+Key personnel dependence risk 
+The Directors have put in place short-term incentive 
+schemes for key personnel and granted share options to 
+all employees during the year. These support the existing 
+competitive remuneration packages and restrictive 
+employment covenants already in place. These are aimed 
+at reducing the risk of disruption to operations and 
+damage to the business due to key personnel leaving the 
+business. 
+ 
+Global economic risk 
+Although there have been improvements in the global 
+economy since 2010, there is continued uncertainty 
+around the restructuring of European sovereign debt, 
+which could adversely impact the global economy. The 
+Group is at risk to increased cost and delays through 
+exposure to the default of suppliers if economic 
+conditions do not continue to improve. The Directors 
+continue to closely monitor this risk. 
+ 
+ 
+   Ceres Power Holdings plc Annual Report 2013   13 
+ 
+ 
+ 
+ 
+ 
+Directors 
+The Directors of the Company, who served during the 
+year and up to the date of signing the financial 
+statements unless otherwise stated, are as follows: 
+ 
+Alan Aubrey (Non-Executive Chairman) appointed 18 December 2012 
+Philip Caldwell (Chief Executive Officer) appointed 2 September 2013 
+Richard Preston (Finance Director) appointed 14 February 2013 
+Steve Callaghan (Non-Executive Director) appointed 18 December 2012 
+Mike Bretherton (Non-Executive Director) appointed 18 December 2012 
+– retiring 4 October 2013 
+Mike Lloyd (Non-Executive Director) appointed 3 July 2012 
+Robert Trezona (Non-Executive Director) appointed 18 December 2012 
+Dr Brian Count (Non-Executive Chairman) resigned 18 December 2012 
+David Pummell (Chief Executive Officer) resigned 18 December 2012 
+Rex Vevers (Finance Director) resigned 14 February 2013 
+Dr Phil Whalen (Technology Director) resigned 14 February 2013 
+John Nicholas (Non-Executive Director) resigned 18 December 2012 
+ 
+Substantial shareholders 
+The Company has been notified of the following holdings 
+of 3% or more of the 536,831,973 ordinary shares of 1p 
+each of the Company on 27 September 2013: 
+ 
+Investor 
+Number of 
+ordinary shares Percentage   
+ORA (Guernsey) Limited 151,353,358 28.21% 
+IP Group plc 132,500,000 24.69% 
+Sarasin & Partners LLP 34,929,061 6.51% 
+Henderson Global Investors 33,825,000 6.30% 
+Ali Mortazavi 25,000,000 4.66% 
+ 
+Policy and practice on payment of creditors 
+It is the Group’s policy, for all suppliers, to agree payment 
+terms in advance of the supply of goods and services and 
+to adhere to those payment terms. Trade creditors of the 
+Group at the year end as a proportion of amounts 
+invoiced by suppliers during the year represent 38 days 
+(2012: 45 days). Trade creditors of the Company at the 
+year end as a proportion of amounts invoiced by suppliers 
+during the year represent 17 days (2012: 12 days). 
+ 
+Corporate Governance 
+The Directors recognise the importance of good 
+corporate governance.  The principles of how the UK 
+Corporate Governance Code has been applied are in the 
+Corporate Governance section of the Company’s website 
+(www.cerespower.com), which was last updated on 30 
+September 2013. 
+ 
+Statement of Directors’ responsibilities 
+The Directors are responsible for preparing the Annual 
+Report and the financial statements in accordance with 
+applicable law and regulations. 
+ 
+Company law requires the Directors to prepare financial 
+statements for each financial year. Under that law the 
+Directors have prepared the Group financial statements 
+in accordance with International Financial Reporting 
+Standards (“IFRSs”) as adopted by the European Union, 
+and the parent Company financial statements in 
+accordance with United Kingdom Generally Accepted 
+Accounting Practice (United Kingdom Accounting 
+Standards and applicable law). 
+ 
+Under Company law the Directors must not approve the 
+financial statements unless they are satisfied that they 
+give a true and fair view of the state of affairs of the 
+Group and the Company and of the profit or loss of the 
+Group for that period. In preparing these financial 
+statements, the Directors are required to: 
+ 
+ select suitable accounting policies and then apply 
+them consistently; 
+ make judgements and accounting estimates that are 
+reasonable and prudent; 
+ state whether IFRSs as adopted by the European 
+Union and applicable UK Accounting Standards have 
+been followed, subject to any material departures 
+disclosed and explained in the Group and parent 
+Company financial statements respectively; and 
+ prepare the financial statements on the going 
+concern basis unless it is inappropriate to presume 
+that the Company will continue in business. 
+ 
+The Directors are responsible for keeping adequate 
+accounting records that are sufficient to show and explain 
+the Company’s transactions and disclose with reasonable 
+accuracy at any time the financial position of the 
+Company and the Group and enable them to ensure that 
+the financial statements comply with the Companies Act 
+2006. They are also responsible for safeguarding the 
+assets of the Company and the Group and hence for 
+taking reasonable steps for the prevention and detection 
+of fraud and other irregularities. 
+ 
+The Directors are responsible for the maintenance and 
+integrity of the Company’s website. Legislation in the 
+United Kingdom governing the preparation and 
+dissemination of financial statements may differ from 
+legislation in other jurisdictions. 
+ 
+Going concern 
+After having made appropriate enquiries, the Directors 
+have a reasonable expectation that the Group and 
+Company have adequate resources to progress their 
+established strategy for the foreseeable future. 
+Accordingly, they continue to adopt the going concern 
+basis in preparing these financial statements. 
+ 
+Directors’ statement on disclosure of information to 
+auditors 
+So far as each Director is aware, there is no relevant audit 
+information of which the Company’s auditors are 
+unaware. Each Director has taken all the steps that he 
+ought to have taken as a Director in order to make 
+himself aware of any relevant audit information and to 
+establish that the Company’s auditors are aware of that 
+information. 
+ 
+  14  Ceres Power Holdings plc Annual Report 2013   
+ 
+ 
+ 
+ 
+ 
+ 
+Independent auditors 
+The auditors, PricewaterhouseCoopers LLP, have 
+indicated their willingness to continue in office and a 
+resolution concerning their reappointment will be 
+proposed at the Annual General Meeting. 
+ 
+By order of the Board 
+ 
+Richard Preston 
+Finance Director 
+30 September 2013 
+  Ceres Power Holdings plc Annual Report 2013   15 
+ 
+ 
+ 
+ 
+ 
+Independent Auditors’ Report  
+to the Members of Ceres Power Holdings plc 
+ 
+ 
+We have audited the Group financial statements of Ceres 
+Power Holdings plc for the year ended 30 June 2013 
+which comprise the Consolidated Statement of 
+Comprehensive Income, the Consolidated Balance Sheet, 
+the Consolidated Cash Flow Statement, the Consolidated 
+Statement of Changes in Equity and the related notes. 
+The financial reporting framework that has been applied 
+in their preparation is applicable law and International 
+Financial Reporting Standards (‘IFRSs’) as adopted by the 
+European Union. 
+ 
+Respective responsibilities of Directors and auditors 
+As explained more fully in the Statement of Directors’ 
+responsibilities set out on page 13 the Directors are 
+responsible for the preparation of the Group financial 
+statements and for being satisfied that they give a true 
+and fair view. Our responsibility is to audit and express an 
+opinion on the Group financial statements in accordance 
+with applicable law and International Standards on 
+Auditing (UK and Ireland). Those standards require us to 
+comply with the Auditing Practices Board’s Ethical 
+Standards for Auditors. 
+ 
+This report, including the opinions, has been prepared for 
+and only for the Company’s members as a body in 
+accordance with Chapter 3 of Part 16 of the Companies 
+Act 2006 and for no other purpose. We do not, in giving 
+these opinions, accept or assume responsibility for any 
+other purpose or to any other person to whom this report 
+is shown or into whose hands it may come save where 
+expressly agreed by our prior consent in writing. 
+ 
+Scope of the audit of the financial statements 
+An audit involves obtaining evidence about the amounts 
+and disclosures in the financial statements sufficient to 
+give reasonable assurance that the financial statements 
+are free from material misstatement, whether caused by 
+fraud or error. This includes an assessment of: whether 
+the accounting policies are appropriate to the Group’s 
+circumstances and have been consistently applied and 
+adequately disclosed; the reasonableness of significant 
+accounting estimates made by the Directors; and the 
+overall presentation of the financial statements. In 
+addition, we read all the financial and non-financial 
+information in the Annual Report to identify material 
+inconsistencies with the audited financial statements. If 
+we become aware of any apparent material 
+misstatements or inconsistencies we consider the 
+implications for our report.  
+ 
+Opinion on financial statements 
+In our opinion the Group financial statements: 
+ 
+ give a true and fair view of the state of the Group’s 
+affairs as at 30 June 2013 and of its loss and cash 
+flows for the year then ended; 
+ have been properly prepared in accordance with 
+IFRSs as adopted by the European Union; and 
+ have been prepared in accordance with the 
+requirements of the Companies Act 2006. 
+ 
+ 
+Opinion on other matter prescribed by the Companies 
+Act 2006 
+In our opinion the information given in the Directors’ 
+Report for the financial year for which the Group financial 
+statements are prepared is consistent with the Group 
+financial statements. 
+ 
+Matters on which we are required to report by 
+exception 
+We have nothing to report in respect of the following 
+matters where the Companies Act 2006 requires us to 
+report to you if, in our opinion: 
+ 
+ certain disclosures of Directors’ remuneration 
+specified by law are not made; or 
+ we have not received all the information and 
+explanations we require for our audit. 
+ 
+Other matter 
+We have reported separately on the parent Company 
+financial statements of Ceres Power Holdings plc for the 
+year ended 30 June 2013. 
+ 
+Rosemary Shapland  
+(Senior Statutory Auditor) 
+for and on behalf of PricewaterhouseCoopers LLP 
+Chartered Accountants and Statutory Auditors 
+Gatwick 
+30 September 2013 
+ 
+ 
+  16  Ceres Power Holdings plc Annual Report 2013   
+ 
+ 
+ 
+ 
+ 
+Consolidated Statement of Comprehensive Income  
+for the year ended 30 June 2013 
+ 
+ 
+Note 
+2013  
+£’000 
+2012  
+£’000 
+Revenue 2 523 226 
+Operating costs 3 (13,265) (18,480) 
+Other operating income 3 1 182 
+Operating loss  (12,741) (18,072) 
+Finance Income 4 55 165 
+Loss before income tax 3 (12,686) (17,907) 
+Income tax credit 7 1,311 3,007 
+Loss for the financial year and total comprehensive loss  (11,375) (14,900) 
+Loss per £0.01 ordinary share expressed in pence per share:    
+– basic and diluted 8 (3.88)p (17.28)p 
+ 
+The notes on pages 20 to 37 are an integral part of these consolidated financial statements. 
+ 
+   Ceres Power Holdings plc Annual Report 2013   17 
+ 
+ 
+ 
+ 
+ 
+Consolidated Balance Sheet 
+as at 30 June 2013 
+ 
+ 
+Note 
+2013  
+£’000 
+2012  
+£’000 
+Assets    
+Non-current assets    
+Property, plant and equipment 9 2,181 4,216 
+Other receivables 11 53 81 
+Total non-current assets  2,234 4,297 
+    
+Current assets    
+Trade and other receivables 11 454 583 
+Derivative financial instruments 14 – 7 
+Current tax receivable  1,044 2,400 
+Short-term investments 12 6,207 – 
+Cash and cash equivalents 12 9,230 10,178 
+Total current assets  16,935 13,168 
+    
+Liabilities    
+Current liabilities    
+Trade and other payables 13 (1,350) (1,768) 
+Total current liabilities  (1,350) (1,768) 
+Net current assets  15,585 11,400 
+    
+Non-current liabilities    
+Accruals and deferred income 13 (1,918) (2,354) 
+Provisions for other liabilities and charges 15 (1,293) (365) 
+Total non-current liabilities  (3,211) (2,719) 
+Net assets  14,608 12,978 
+    
+Equity    
+Share capital 16 8,817 4,311 
+Share premium account  72,906 64,821 
+Other reserve  7,463 7,463 
+Profit and loss account (deficit)  (74,578) (63,617) 
+Total equity  14,608 12,978 
+ 
+The notes on pages 20 to 37 are an integral part of these consolidated financial statements. 
+ 
+The financial statements on pages 16 to 37 were approved by the Board of Directors on 30 September 2013 and were signed on its 
+behalf by: 
+ 
+Philip Caldwell  Richard Preston 
+Chief Executive Officer  Finance Director 
+ 
+Ceres Power Holdings plc 
+Registered Number: 5174075 
+ 
+ 
+ 
+   18  Ceres Power Holdings plc Annual Report 2013   
+ 
+ 
+ 
+ 
+ 
+Consolidated Cash Flow Statement 
+for the year ended 30 June 2013 
+ 
+ 
+Note 
+2013  
+£’000 
+2012  
+£’000 
+Cash flows from operating activities    
+Cash used in operations 18 (10,016) (17,515) 
+Income tax received  2,667 2,107 
+Net cash used in operating activities  (7,349) (15,408) 
+    
+Cash flows from investing activities    
+Purchase of property, plant and equipment  (42) (1,335) 
+Movement in short-term investments  (6,207) 8,000 
+Finance income received  57 238 
+Net cash (used in)/generated from investing activities  (6,192) 6,903 
+    
+Cash flows from financing activities    
+Proceeds from issuance of ordinary shares  12,591 2 
+Net cash generated from financing activities  12,591 2 
+Net decrease in cash and cash equivalents  (950) (8,503) 
+Exchange gains/(losses) on cash and cash equivalents  2 (6) 
+  (948) (8,509) 
+Cash and cash equivalents at beginning of year  10,178 18,687 
+Cash and cash equivalents at end of year 12 9,230 10,178 
+    
+ 
+ 
+   Ceres Power Holdings plc Annual Report 2013   19 
+ 
+ 
+ 
+ 
+ 
+Consolidated Statement of Changes in Equity 
+for the year ended 30 June 2013 
+ 
+ 
+ 
+ 
+ 
+Note 
+Share 
+capital 
+£’000 
+Share premium 
+account  
+£’000 
+Other  
+reserve 
+ £’000 
+Profit  
+and loss 
+account  
+ £’000 
+Total 
+£’000 
+At 1 July 2011  4,309 64,821 7,463 (49,185) 27,408 
+       
+Comprehensive income       
+Loss for the financial year  – – – (14,900) (14,900) 
+Total comprehensive loss  – – – (14,900) (14,900) 
+       
+Transactions with owners       
+Issue of shares, net of costs 16 2 _ _ _ 2 
+Share-based payments charge  – – – 468 468 
+Total transactions with owners  2 – – 468 470 
+At 30 June 2012  4,311 64,821 7,463 (63,617) 12,978 
+       
+Comprehensive income       
+Loss for the financial year  – – – (11,375) (11,375) 
+Total comprehensive loss  – – – (11,375) (11,375) 
+       
+Transactions with owners       
+Issue of shares, net of costs 16 4,506 8,085                  – – 12,591 
+Share-based payments charge  – – – 414 414 
+Total transactions with owners  4,506 8,085 – 414 13,005 
+At 30 June 2013  8,817 72,906 7,463 (74,578) 14,608 
+       
+ 
+  20  Ceres Power Holdings plc Annual Report 2013   
+ 
+ 
+ 
+ 
+ 
+Notes to the Consolidated Financial Statements 
+for the year ended 30 June 2013 
+ 
+ 
+1. Summary of significant accounting policies 
+The Company is incorporated and domiciled in the United 
+Kingdom and is registered on the AIM market of the 
+London Stock Exchange.  
+ 
+The principal accounting policies applied in the 
+preparation of these consolidated financial statements 
+are set out below. These policies have been consistently 
+applied to all the years presented, unless otherwise 
+stated. 
+ 
+Basis of preparation 
+The consolidated financial statements of the Group have 
+been prepared in accordance with International Financial 
+Reporting Standards (“IFRS”) as adopted by the European 
+Union, the IFRS Interpretations Committee (“IFRS-IC”) 
+interpretations and those parts of the Companies Act 
+2006 applicable to companies reporting under IFRS.  
+ 
+The Company has elected to prepare its entity financial 
+statements in accordance with United Kingdom Generally 
+Accepted Accounting Practice (‘UK GAAP’) and these are 
+presented on pages 39 to 43. 
+ 
+The consolidated financial statements have been 
+prepared on a historical cost basis except for certain 
+items that have been measured at fair value as detailed in 
+the individual accounting policies below.  
+ 
+Critical accounting estimates and judgements 
+The preparation of financial statements in conformity 
+with IFRS requires management to make judgements, 
+estimates and assumptions that affect the reported 
+amounts of assets and liabilities at the date of the 
+financial statements and the reported amounts of 
+revenues and expenses during the reporting period. 
+Although these estimates are based on management’s 
+best knowledge of the amount, event or actions, actual 
+results may ultimately differ from these estimates. 
+ 
+The estimates and underlying assumptions are reviewed 
+on an ongoing basis. Revisions to accounting estimates 
+are recognised in the period in which the estimate is 
+revised. Material estimates and assumptions are made in 
+particular with regard to: providing for onerous leases; 
+choosing the appropriate method with which to recognise 
+development-related revenue (revenue is recognised over 
+the development phase of each contract based on the 
+costs incurred (‘percentage of completion’)); and 
+recognising R&D tax credits.  
+ 
+Basis of consolidation 
+The consolidated financial statements of Ceres Power 
+Holdings plc include the results of the Company and its 
+wholly owned subsidiaries. Subsidiaries are entities over 
+which the Group has the power to govern the financial 
+and operating policies of the subsidiary. Subsidiaries are 
+consolidated from the date on which control is 
+transferred to the Group and are de-consolidated from 
+the date that control ceases. The purchase method of 
+accounting is used to account for acquisitions and the 
+cost of acquisition is measured as the fair value of assets 
+given, equity instruments issued and liabilities incurred. 
+The accounting policies of subsidiaries have been changed 
+where necessary to ensure consistency with the policies 
+adopted by the Group. 
+ 
+The financial statements of Ceres Power Limited have 
+been consolidated under merger accounting rules. The 
+financial statements of Ceres Intellectual Property 
+Company Limited have been consolidated under 
+acquisition accounting rules.  
+ 
+Intra-Group transactions, profits, losses and balances are 
+eliminated in full on consolidation. 
+ 
+Capital risk management 
+The Group’s objectives, when managing capital, are to 
+safeguard the Group’s ability to continue as a going 
+concern and to maintain an optimal capital structure. 
+Total capital, which is the Group’s primary source of 
+funding, is calculated as ‘Total equity’ as shown in the 
+consolidated balance sheet. The Group protects its capital 
+by eliminating/hedging treasury risks that could expose 
+the Group to the risk of material loss of capital (refer to 
+note 14). 
+ 
+Property, plant and equipment 
+Property, plant and equipment are stated at historical 
+cost less depreciation. Historical cost includes all 
+expenditure that is directly attributable to the acquisition 
+of the assets. Subsequent costs are included in the asset’s 
+carrying amount or recognised as a separate asset, as 
+appropriate, only when it is probable that future 
+economic benefits associated with the asset will flow to 
+the Group and the cost of the asset can be measured 
+reliably. All other repairs and maintenance costs are 
+charged to the Consolidated Statement of Comprehensive 
+Income during the financial period in which they are 
+incurred. 
+ 
+   Ceres Power Holdings plc Annual Report 2013   21 
+ 
+ 
+ 
+ 
+ 
+Depreciation is calculated using the straight-line method 
+to allocate the cost over the estimated useful lives as 
+follows: 
+ 
+Leasehold improvements Ten years or the lease term if shorter  
+Plant and machinery  Three to five years  
+Computer equipment  Three years  
+Fixtures and fittings  Three to ten years 
+ 
+The assets’ residual values and useful lives are reviewed, 
+and adjusted if appropriate, at each balance sheet date.  
+Assets under construction represent the cost of 
+purchasing, constructing and installing property, plant 
+and equipment ahead of their productive use. The 
+category is temporary, pending completion of the assets 
+and their transfer to the appropriate and permanent 
+category of property, plant and equipment. As such, no 
+depreciation is charged on assets under construction. 
+ 
+Cash and cash equivalents 
+Cash and cash equivalents includes cash at bank and in 
+hand, pooled money market funds and short-term 
+deposits with an original maturity of less than or equal to 
+three months, reduced by overdrafts to the extent that 
+there is a right of offset against other cash balances.  
+ 
+Short-term investments 
+These include short-term bank deposits with original 
+maturity greater than three months and less than or 
+equal to 12 months. 
+ 
+Trade and other receivables 
+Trade receivables are recognised initially at fair value and 
+subsequently held at amortised cost less an allowance for 
+any uncollectable amounts that are made when the full 
+amount is no longer considered receivable. Actual bad 
+debts are written off when identified. A provision for 
+impairment of trade receivables is established when there 
+is objective evidence that the Group will not be able to 
+collect all amounts due according to the original terms of 
+the receivables. 
+ 
+Trade payables 
+Trade payables are recognised initially at fair value and 
+subsequently measured at amortised cost using the 
+effective interest method. 
+ 
+Taxation 
+The tax credit represents the best estimate of tax due to 
+the Group at the year end. 
+ 
+Deferred tax is provided in full, using the liability method, 
+on temporary differences between the tax bases of assets 
+and liabilities and their carrying amounts in the 
+consolidated financial statements. Deferred tax assets are 
+recognised to the extent that it is probable that future 
+taxable profit will be available against which the 
+temporary differences can be utilised. 
+ 
+Share-based payments 
+The Group has a number of employee and executive 
+share option and incentive schemes under which it makes 
+equity-settled share-based payments. The fair value at 
+the date of grant of equity-settled, share-based payments 
+is expensed on a straight-line basis over the vesting 
+period, based on the Group’s estimate of shares that will 
+eventually vest. The charge is then credited back to 
+reserves. 
+ 
+Fair value is measured by use of the Black-Scholes and 
+binomial models. The expected lives used in the models 
+have been adjusted, based on the Directors’ best 
+estimates, for the effects of non-transferability, exercise 
+restrictions and behavioural considerations. 
+ 
+Foreign currencies 
+The consolidated financial statements are presented in 
+pounds sterling, which is the Company’s functional and 
+presentational currency. Transactions denominated in 
+foreign currencies are translated into sterling at the 
+actual rate of exchange ruling at the date of the 
+transaction. Monetary assets and liabilities denominated 
+in foreign currencies are translated into sterling at rates 
+ruling at the balance sheet date. Exchange differences are 
+included in the Consolidated Statement of Comprehensive 
+Income. 
+ 
+Pension scheme arrangements 
+The Group operates a defined contribution pension 
+scheme for employees. The assets of the scheme are held 
+separately from those of the Group. The pension costs 
+charged represent contributions paid by the Group to 
+individual pension plans and are charged to the 
+Consolidated Statement of Comprehensive Income as 
+they become payable. 
+ 
+In addition, a stakeholder pension scheme is also 
+available to employees. 
+ 
+Revenue recognition 
+Revenue comprises the fair value of the consideration 
+received or receivable for the sale of goods and services in 
+the ordinary course of the Group’s activities. Revenue is 
+shown net of value added tax, other sales taxes and after 
+eliminating sales within the Group. Amounts received or 
+receivable under development contracts are recognised 
+as revenue when earned, as calculated on a percentage of 
+completion basis, based on costs incurred to total 
+estimated costs over the period that the related work is 
+performed, subject to certainty of receipt of cash, or when 
+any specific conditions in agreements have been met. All 
+costs relating to these development contracts are 
+recorded as research and development expenditure. As 
+revenue represents contributions towards costs incurred, 
+no amounts have been allocated to cost of sales. 
+   22  Ceres Power Holdings plc Annual Report 2013   
+ 
+ 
+ 
+ 
+ 
+Government grants 
+Grants are recognised on a case-by-case basis. Revenue 
+grants are recognised in the Consolidated Statement of 
+Comprehensive Income as other operating income. 
+Capital grants are recognised in property, plant and 
+equipment against the assets to which they relate (and 
+are fully disclosed in note 9 to the financial statements) 
+and are credited to the Consolidated Statement of 
+Comprehensive Income on a straight-line basis over the 
+expected lives of the related assets as a reduced 
+depreciation expense. For grants with no technical 
+milestones, and where recovery is assured, the grant is 
+recognised on an accruals basis in order to match the 
+associated expenditure with the grant. For grants with 
+technical milestones, grants are recognised only when the 
+relevant milestone has been achieved and the associated 
+cash has been received. 
+ 
+Research and development expenditure 
+Research costs are expensed as incurred. Development 
+expenditure is capitalised when it can be separately 
+measured and its future recoverability can be reasonably 
+regarded as assured. Following initial recognition, the 
+related asset is amortised over the period of expected 
+future sales with impairment reviews being carried out at 
+least annually. The asset is carried at cost less any 
+accumulated amortisation and impairment losses.  
+ 
+The Group has not yet capitalised any development costs 
+as the criteria set out in IAS 38, ‘Intangible assets’, have 
+not been met. 
+ 
+Operating leases 
+Leases in which a significant portion of the risks and 
+rewards of ownership are retained by the lessor are 
+classified as operating leases. Payments made under 
+operating leases (net of any incentives received from the 
+lessor) are charged to the Consolidated Statement of 
+Comprehensive Income on a straight-line basis over the 
+period of the lease. Benefits received and receivable as an 
+incentive to sign an operating lease are amortised over the 
+full lease term. 
+ 
+Derivative financial instruments 
+The Group’s activities expose it primarily to the financial 
+risks of changes in foreign currency exchange rates. The 
+Group uses forward foreign exchange contracts to hedge 
+against foreign currency denominated purchase 
+commitments. The use of financial derivatives is governed 
+by the Group’s treasury policy, as approved by the Board. 
+The Group does not use derivative financial instruments 
+for speculative purposes. Details of financial instruments 
+are shown in note 14. 
+ 
+Changes in the fair value of derivative financial 
+instruments that do not qualify for hedge accounting are 
+recognised in the Consolidated Statement of 
+Comprehensive Income as they arise. 
+ 
+Provisions 
+Provisions have been made for future dilapidations costs 
+on leased property and on onerous leases. These 
+provisions are the Directors’ best estimates as the actual 
+costs and timing of future cash flows are dependent on 
+future events. Any difference between expectations and 
+the actual future liability will be accounted for in the 
+period when such determination is made. Details of the 
+Group’s provisions are set out in note 15. 
+ 
+Changes in accounting policy and disclosures  
+(a) New and amended standards adopted by the Group:  
+The following IFRSs or IFRIC interpretations that are 
+effective for the first time for the financial year beginning 
+on or after 1 July 2013 that would be expected to have a 
+material impact on the Group are set out below:  
+ 
+IFRS 13, ‘Fair value measurement’, aims to improve 
+consistency and reduce complexity by providing a precise 
+definition of fair value and a single source of fair value 
+measurement and disclosure requirements for use across 
+IFRSs. The requirements, which are largely aligned 
+between IFRSs and US GAAP, do not extend the use of fair 
+value accounting but provide guidance on how it should 
+be applied where its use is already required or permitted 
+by other standards within IFRSs or US GAAP.  
+ 
+(b) New standards and interpretations not yet adopted:  
+A number of new standards and amendments to 
+standards and interpretations are effective for annual 
+periods beginning after 1 July 2013, and have not been 
+applied in preparing these consolidated financial 
+statements. None of these is expected to have a 
+significant effect on the consolidated financial statements 
+of the Group, except the following set out below:  
+ 
+IFRS 9, ‘Financial instruments’, addresses the 
+classification, measurement and recognition of financial 
+assets and financial liabilities. IFRS 9 was issued in 
+November 2009 and October 2010. It replaces the parts of 
+IAS 39 that relate to the classification and measurement 
+of financial instruments. IFRS 9 requires financial assets to 
+be classified into two measurement categories: those 
+measured as at fair value and those measured at 
+amortised cost. The determination is made at initial 
+recognition. The classification depends on the entity’s 
+business model for managing its financial instruments and 
+the contractual cash flow characteristics of the 
+instrument. For financial liabilities, the standard retains 
+most of the IAS 39 requirements. The main change is that, 
+in cases where the fair value option is taken for financial 
+liabilities, the part of a fair value change due to an entity’s 
+own credit risk is recorded in other comprehensive income 
+rather than the income statement, unless this creates an 
+accounting mismatch. The group is yet to assess IFRS 9’s 
+full impact and intends to adopt IFRS 9 no later than the 
+accounting period beginning on or after 1 January 2015, 
+subject to endorsement by the EU. The group will also 
+consider the impact of the remaining phases of IFRS 9  Ceres Power Holdings plc Annual Report 2013   23 
+ 
+ 
+ 
+ 
+ 
+when completed by the Board. 
+ 
+ 
+2. Revenue and segmental information  
+For management purposes, the Group is organised into 
+one operating segment, which is the development and 
+commercialisation of its core fuel cell and fuel cell module 
+technology.  
+ 
+The Group has adopted IFRS 8, ‘Operating Segments’. 
+IFRS 8 defines operating segments as those activities of 
+an entity about which separate financial information is 
+available and which are evaluated by the Chief Operating 
+Decision Maker to assess performance and determine the 
+allocation of resources. The Chief Operating Decision 
+Maker has been identified as the Chief Executive Officer, 
+the Finance Director, and the Director of Technology. The 
+Directors are of the opinion that under IFRS 8 the Group 
+has only one operating segment, being the development 
+and commercialisation of its core fuel cell and fuel cell 
+module technology. The Chief Executive Officer, the 
+Finance Director, and the Director of Technology assess 
+the performance of the operating segment on financial 
+information which is measured and presented in a manner 
+consistent with that in the financial statements. 
+ 
+The Group’s revenue of £523,000 (2012: £226,000) was 
+derived from one customer in the United Kingdom 
+(£510,000) and one customer in Asia (£13,000) (2012: one 
+customer in the United Kingdom). All of the Group’s non-
+current assets are located in the United Kingdom. 
+ 
+  24  Ceres Power Holdings plc Annual Report 2013   
+ 
+ 
+ 
+ 
+ 
+3. Loss before income tax  
+ 
+2013 
+£’000 
+2012 
+£’000 
+Operating costs are split as follows:   
+Research and development costs 7,200 13,205 
+Administrative expenses - recurring 2,997 4,888 
+ 10,197 18,093 
+Administrative expenses – non-recurring restructuring related 3,068 387 
+ 13,265 18,480 
+   
+Loss before income tax is stated after charging/(crediting):   
+Staff costs, including share-based payments charges (note 5) 5,886 8,999 
+Depreciation on property, plant and equipment (net of amortised grant contributions) 1,322 1,560 
+Restructuring – disposal of property, plant and equipment (net) 759 – 
+Restructuring – termination payments and provisions for onerous leases 2,309 387 
+Operating lease rentals payable – property, plant and machinery 466 456 
+Other operating income – grant income (1) (182) 
+Repairs expenditure on property, plant and equipment 88 226 
+Forward contract losses 7 22 
+Net foreign exchange (gains)/losses (2) 6 
+ 
+Services provided by the Group’s auditor   
+During the year the Group obtained the following services from the Group’s auditor as detailed below:   
+Fees payable to the Company’s auditor for the audit of parent Company and consolidated financial 
+statements 16 24 
+Fees payable to the Company’s auditor for other services   
+– the audit of the Company’s subsidiaries  33 30 
+– other services pursuant to legislation – 4 
+– other services relating to taxation 27 36 
+ 76 94 
+   
+ 
+4. Finance income 
+ 
+2013 
+£’000 
+2012 
+£’000 
+Interest receivable on net cash and short-term investments 55 165 
+   
+ 
+ 
+5. Employees and Directors 
+The average monthly number of persons (including Executive Directors) employed by the Group during the year was: 
+ 
+ 
+2013 
+Number 
+2012 
+Number 
+By activity:   
+Research and development 59 122 
+Administration 17 33 
+ 76 155 
+ 
+   Ceres Power Holdings plc Annual Report 2013   25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2013 
+£’000 
+2012 
+£’000 
+Staff costs (for the above persons) comprised:   
+Wages and salaries, including compensation for loss of office 4,690 7,293 
+Social security costs 532 838 
+Other pension costs (note 6) 250 400 
+Share-based payments (note 17) 414 468 
+ 5,886 8,999 
+   
+ 
+2013 
+£’000 
+2012 
+£’000 
+Directors’ emoluments:   
+Aggregate emoluments 568 756 
+Company contributions to defined contribution pension schemes 20 27 
+Compensation for loss of office 475 – 
+ 1,063 783 
+   
+ 
+2013 
+£’000 
+2012 
+£’000 
+Highest paid Director:   
+Aggregate emoluments 116 206 
+Compensation for loss of office 253 – 
+ 369 206 
+   
+One Director (2012: two Directors) have retirement benefits accruing under defined contribution pension schemes. 
+ 
+   26  Ceres Power Holdings plc Annual Report 2013   
+ 
+ 
+ 
+ 
+ 
+Directors’ emoluments for the year ended 30 June 2013 
+  
+ 
+Salary/fee 
+£ 
+Pension
+1 
+£ 
+Termination 
+Payment 
+£ 
+Total 
+£ 
+Executive     
+Richard Preston
+3
+ 40,250 3,220 – 43,470 
+Rex Vevers
+4
+ 106,469 8,517 111,938 226,924 
+Dr Phil Whalen
+4
+ 106,469 8,517 109,913 224,899 
+David Pummell
+5
+ 115,705 – 253,366 369,071 
+     
+Non-Executive     
+Alan Aubrey
+6
+ 7,962 – – 7,962 
+Steve Callaghan
+2
+ 77,112 – – 77,112 
+Mike Bretherton
+6
+ 7,962 – – 7,962 
+Robert Trezona
+9
+ 7,962 – – 7,962 
+Mike Lloyd
+7
+ 28,615 – – 28,615 
+Dr Brian Count
+5
+ 45,897 – – 45,897 
+John Nicholas
+5
+ 23,443 – – 23,443 
+ 567,846 20,254 475,217 1,063,317 
+ 
+ 
+Directors’ emoluments for the year ended 30 June 2012 
+ 
+Salary/fee 
+£ 
+Pension
+1
+ 
+£ 
+Total 
+£ 
+Executive    
+David Pummell
+ 
+206,371 – 206,371 
+Rex Vevers 170,350 13,628 183,978 
+Dr Phil Whalen 170,350 13,628 183,978 
+    
+Non-Executive    
+Dr Brian Count 100,000 – 100,000 
+Sir David Brown
+8
+ 33,333 – 33,333 
+John Nicholas 45,000 – 45,000 
+Alan Wood
+8
+ 30,000 – 30,000 
+ 
+755,404 27,256 782,660 
+ 
+1 Pension contribution is based on 8% of gross salary and employer’s National Insurance saved on employee pension contributions.  
+2 Steve Callaghan was appointed to the Board on 18 December 2012. Fees totalling £69,375 (2012: £nil) were paid to Steve Callaghan Services Limited, a company of which Steve 
+Callaghan is a Director. 
+3 Appointed to the Board on 14 February 2013.  
+4 Resigned on 14 February 2013.  
+5 Resigned on 18 December 2012. 
+6   Appointed to the Board on 18 December 2012. 
+7   Appointed to the Board on 3 July 2012. 
+8   Resigned on 29 February 2012. 
+9  Appointed to the Board on 18 December 2012.  His fees are paid to IP Group Ltd. 
+ 
+ 
+   Ceres Power Holdings plc Annual Report 2013   27 
+ 
+ 
+ 
+ 
+ 
+Directors’ interests in share options 
+ 
+ 
+At 1 July 
+ 2012 
+ number 
+Granted 
+number Exercised 
+Lapsed/ 
+Surrendered  
+number 
+At 30 June 2013 
+number
+5
+ Exercise price 
+Exercise  
+period 
+Steve Callaghan        
+Options (unapproved) – 2,000,000 (2,000,000) – – £0.01  
+Options (unapproved) – 1,500,000 – – 1,500,000 £0.099 April 2016–April 2023 
+ – 3,500,000 
+ 
+(2,000,000) – 1,500,000   
+        
+Richard Preston        
+Options (approved) 65,000 – – (65,000) – £1.65  
+Sharesave Options (approved) 5,648 – – (5,648) – £0.81  
+Sharesave Options (approved) 11,281 – – (11,281) – £0.40  
+Options (unapproved)
+ 4
+ 44,035 – (44,035) – – £0.05  
+Options (approved) – 400,000 – – 400,000 £0.01 January 2016–January 2023 
+Options (approved) – 400,000 – – 400,000 £0.01 January 2017–January 2023 
+Options (approved) – 400,000 – – 400,000 £0.01 January 2018–January 2023 
+Options (approved) – 400,000 – – 400,000 £0.01 January 2019–January 2023 
+Options (unapproved) – 375,000 – – 375,000 £0.099 April 2016–April 2023 
+Options (unapproved) – 375,000 – – 375,000 £0.099 April 2017–April 2023 
+Options (unapproved) – 375,000 – – 375,000 £0.099 April 2018–April 2023 
+Options (unapproved) – 375,000 – – 375,000 £0.099 April 2019–April 2023 
+ 125,964 3,100,000 (44,035) (81,929) 3,100,000   
+        
+Rex Vevers        
+Options (approved) 46,510 – – – 46,510 £2.15  September 2006–September 2016 
+Options (unapproved) 228,490 – – – 228,490 £2.15 September 2006–September 2016 
+Options (unapproved)
+1
+ 159,375 – – – 159,375 £2.00 December 2010–December 2018 
+Options (unapproved)
+2
+ 239,063 – – – 239,063 £2.00 December 2011–December 2018 
+Options (unapproved)
+3
+ 239,062 – – – 239,062 £2.00 December 2012–December 2018 
+Sharesave options (approved) 5,648 – – (5,648) – £0.81  
+Options (unapproved)
+4
+ 23,518 – – (23,518) – £0.05  
+Sharesave options (approved) 11,281 – – (11,281) – £0.40 July 2014–December 2014 
+ 952,947 – – (40,447) 912,500   
+   
+ 
+    
+Dr Phil Whalen        
+Options (unapproved)
+1
+ 53,125 – – – 53,125 £2.00 September 2011–August 2019 
+Options (unapproved)
+2
+ 79,688 – – – 79,688 £2.00 September 2012–August 2019 
+Options (unapproved)
+3
+ 79,687 – – – 79,687 £2.00 September 2013–August 2019 
+Sharesave options (approved) 11,281 – – (11,281) – £0.40  
+ 223,781 – – (11,281) 212,500   
+        
+Mike Lloyd        
+Options (unapproved) – 750,000 – – 750,000 £0.01 December 2015–December 2022 
+Options (unapproved) – 170,000 – – 170,000 £0.099 April 2016–April 2023 
+ – 920,000 – – 920,000   
+ 
+1 One-off options, exercisable if the share price is greater than or equal to £4 over 20 consecutive trading days at some point in the exercise period.  
+2 One-off options, exercisable if the share price is greater than or equal to £5 over 20 consecutive trading days at some point in the exercise period.  
+3 One-off options, exercisable if the share price is greater than or equal to £6 over 20 consecutive trading days at some point in the exercise period.  
+4 CHP Project Bonus Plan deferred share options.  
+5 Or date of resignation, if earlier. 
+ 
+All options outlined above are fully exercisable at the Director’s discretion during the relevant exercise period.   28  Ceres Power Holdings plc Annual Report 2013   
+ 
+ 
+ 
+ 
+ 
+Key management compensation 
+The Directors are of the opinion that the key management of the Group were the Executive Directors of Ceres Power Holdings plc up until 14 
+February 2013, and from that date were the Chief Executive Officer, the Finance Director and the Director of Technology. The key 
+management compensation is summarised in the following table: 
+ 
+2013 
+£’000 
+2012 
+£’000 
+Salaries and other short-term employment benefits 514 547 
+Post-employment benefits 23 27 
+Termination benefits 475 – 
+Share-based payments 107 144 
+ 1,119 718 
+   
+ 
+6. Pensions 
+The Group operates a defined contribution pension scheme. The assets of the scheme are held separately from those of the Group in 
+independently administered funds. The pension charge represents contributions payable by the Group to the funds and amounted to 
+£250,000 (2012: £400,000). A total of £24,000 (2012: £39,000) was payable to the funds at the year end. 
+ 
+ 
+7. Income tax credit 
+ 
+2013 
+£’000 
+2012 
+£’000 
+UK corporation tax – R&D tax credit (1,044) (2,400) 
+Adjustment in respect of prior periods – R&D tax credit (267) (607) 
+Income tax credit (1,311) (3,007) 
+   
+ 
+No corporation tax liability has arisen during the year (2012: £nil) due to the losses incurred. 
+ 
+A tax credit has arisen as a result of the tax losses being surrendered in respect of research and development expenditure in the current and 
+prior years. 
+ 
+The tax result for the year is different from the standard rate of small profits UK corporation tax of 20% (2012: 20%). The differences are 
+explained below: 
+ 
+2013 
+£’000 
+2012 
+£’000 
+Loss before income tax 12,686 (17,907) 
+Loss before income tax multiplied by the UK tax rate of 20% (2012: 20%) (2,537) (3,581) 
+   
+Effects of:   
+Losses carried forward    980 988 
+Enhanced tax deductions for R&D expenditure (1,141) (2,282) 
+Expenses not deductible for tax purposes 339 154 
+Accelerated capital allowances and other timing differences 460 309 
+Adjustment in respect of prior periods – R&D tax credit (267) (607) 
+Difference between R&D tax credit and small company tax rates 855 2,012 
+Total income tax credit (1,311) (3,007) 
+ 
+ 
+8. Loss per share  
+Basic and diluted loss per £0.01 ordinary share are calculated by dividing the loss for the financial year attributable to ordinary shareholders 
+by the weighted average number of ordinary shares in issue during the year. Given the losses during the year, there is no dilution of losses 
+per share in the year ended 30 June 2013 or in the previous year.  
+ 
+The loss for the financial year ended 30 June 2013 was £11,375,000 (2012: £14,900,000) and the weighted average number of £0.01 (2012: 
+£0.05) ordinary shares in issue during the year ended 30 June 2013 was 292,793,498 (2012: 86,202,251). 
+   Ceres Power Holdings plc Annual Report 2013   29 
+ 
+ 
+ 
+ 
+ 
+9. Property, plant and equipment 
+ 
+Leasehold 
+improvements 
+£’000 
+Plant and 
+machinery 
+£’000 
+Computer 
+equipment 
+£’000 
+Fixtures 
+ and fittings 
+£’000 
+Assets under 
+construction 
+£’000 
+Total 
+£’000 
+Cost       
+At 1 July 2011 2,646 6,637 761 140 280 10,464 
+Additions 253 602 233 3 50 1,141 
+Transfers 89 162 29 – (280) – 
+       
+At 30 June 2012 2,988 7,401 1,023 143 50 11,605 
+Additions – 45 – (5) 6 46 
+Transfers – – 50 – (50) – 
+Disposals (1,523) (750) – – – (2,273) 
+At 30 June 2013 1,465 6,696 1,073 138 6 9,378 
+       
+Accumulated depreciation       
+At 1 July 2011 1,182 3,992 553 102 – 5,829 
+Charge for the year 373 1,332 151 21 – 1,877 
+Amortisation of grant contributions (32) (279) (6) – – (317) 
+       
+At 30 June 2012 1,523 5,045 698 123 – 7,389 
+Charge for the year 305 1,197 168 13  1,683 
+Amortisation of grant contributions (32) (323) (6) – – (361) 
+Disposals (1,208) (306) – – – (1,514) 
+At 30 June 2013 588 5,613 860 136 – 7,197 
+       
+Net book value       
+At 30 June 2013 877 1,083 213 2 6 2,181 
+At 30 June 2012 1,465 2,356 325 20 50 4,216 
+At 30 June 2011 1,464 2,645 208 38 280 4,635 
+       
+ 
+10. Subsidiary undertakings  
+Details of the Company’s subsidiaries at 30 June 2013 are as follows:  
+Name of undertaking Country of incorporation Description of shares held 
+Proportion of nominal value of 
+shares held by the Company 
+Ceres Power Limited England and Wales £0.001 ordinary shares 100% 
+Ceres Intellectual Property Company Limited England and Wales £1.00 ordinary share 100% 
+ 
+The principal activity of Ceres Power Limited is the development and commercialisation of its core fuel cell and fuel cell module technology. 
+The principal activity of Ceres Intellectual Property Company Limited is the administration of registered intellectual property developed 
+within the Group. The results of Ceres Power Limited and Ceres Intellectual Property Company Limited are included within these 
+consolidated financial statements.  
+ 
+   30  Ceres Power Holdings plc Annual Report 2013   
+ 
+ 
+ 
+ 
+ 
+11. Trade and other receivables 
+ 
+2013 
+£’000 
+2012 
+£’000 
+Current:   
+Other receivables 231 301 
+Prepayments and accrued income 223 282 
+ 454 583 
+Non-current:   
+Prepayments and accrued income 53 81 
+ 507 664 
+ 
+There is no difference between the fair value of trade and other receivables and their carrying values and they are not overdue at 30 June 
+2013. There have been no provisions for impairment of receivables during the year (2012: £nil). The carrying amounts of the Group’s trade 
+and other receivables are all denominated in pounds sterling.  
+ 
+ 
+12. Cash and cash equivalents and short-term investments  
+ 
+2013 
+£’000 
+2012 
+£’000 
+Cash at bank and in hand 576 716 
+Money market funds 8,654 9,460 
+Short-term bank deposits < three months – 2 
+Cash and cash equivalents 9,230 10,178 
+Short-term bank deposits > three months 6,207 – 
+ 15,437 10,178 
+ 
+The Group holds surplus funds in accordance with the treasury policy, as set out in note 14. 
+ 
+Interest rate 
+type 
+2013 
+£’000 
+2012 
+£’000 
+Interest rate risk profile of the Group’s financial assets:    
+Cash at bank and in hand Floating 576 716 
+Money market funds Floating 8,654 9,460 
+Short-term bank deposits < three months Floating – 2 
+Short-term bank deposits > three months Floating 6,207 – 
+  15,437 10,178 
+    
+The short-term bank deposit > three months has a notice period of 95 days (2012: fixed terms of between nine and 12 months and earned 
+interest between 1.25% and 2.00%). Floating rate cash deposits, money market funds and other bank deposits earned interest based on 
+relevant UK LIBID-related equivalents. The credit quality of financial assets has been assessed by reference to external credit ratings. 
+ 
+ 
+13. Trade and other payables  
+ 
+2013 
+£’000 
+2012 
+£’000 
+Current:   
+Trade payables 354 527 
+Taxation and social security 83 197 
+Other payables 36 46 
+Accruals and deferred income 877 998 
+ 1,350 1,768 
+Non-current:   
+Accruals and deferred income 1,918 2,354  Ceres Power Holdings plc Annual Report 2013   31 
+ 
+ 
+ 
+ 
+ 
+14. Financial instruments  
+The Group only uses derivative financial instruments to hedge foreign currency exposures arising from an underlying current or anticipated 
+business requirement and not for any speculative purpose. The Group does not currently use derivative instruments to manage its interest 
+rate risk. The Group does not trade in financial instruments.  
+ 
+Fair values of financial assets and financial liabilities  
+There is no difference between the fair value and the carrying value of the Group’s financial assets and financial liabilities. Carrying value 
+approximates to fair value because of the short maturity periods of these financial instruments.  
+  
+Financial risk management  
+The Group’s operations expose it to a variety of financial risks that include credit risk and market risk arising from changes to foreign 
+currency exchange rates and interest rates. The Board reviews and agrees policies for managing each of these risks.  
+ 
+The principal risks addressed are as follows:  
+ 
+Credit risk  
+The Group’s exposure to credit risk arises from holdings of cash and cash equivalents and short-term investments. The Group’s primary 
+objective to manage credit risk is to minimise the risk of a loss of capital and eliminate loss of liquidity having a detrimental effect on the 
+business.  
+ 
+The Group typically places surplus funds into pooled money market funds and bank deposits with durations of up to 12 months. The Group’s 
+treasury policy restricts investments in short-term sterling money market funds to those which carry short-term credit ratings of at least two 
+of AAAm (Standard & Poor’s), Aaa/MR1+ (Moody’s) and AAA V1+ (Fitch) and deposits with banks with minimum long-term rating of A/A-/A3 
+and short-term rating of F-1/A-2/P-2 for banks which the UK Government holds less than 25% ordinary equity.  
+ 
+Interest rate risk  
+Interest rate risk on the Group’s liabilities is minimal.  
+ 
+The Group’s finance income is sensitive to changes in interest rates. A change of 1% in interest rates would have impacted the finance 
+income by £0.1 million (2012: £0.1 million) in the year ended 30 June 2013. 
+ 
+Liquidity risk  
+Cash flow forecasting is performed by the Group. This includes forecasting of the Group’s liquidity requirements to ensure the Group has 
+sufficient cash to meet its operational needs. 
+ 
+Foreign currency exposures  
+The Group seeks to minimise its exposure to fluctuations in exchange rates by taking out forward currency contracts to hedge against foreign 
+currency denominated commitments, when known. At 30 June 2013, 100% (2012: 100%) of foreign currency commitments were either 
+hedged by foreign currency contracts or covered by cash held. Fair value is based on the market price of comparable instruments at the 
+balance sheet date.  
+ 
+The Group does not hold any forward currency contracts at the year end. The mark to market losses of the forward currency contracts held 
+prior to year end in the Consolidated Statement of Comprehensive Income were £7,000 (2012: losses of £22,000).  
+ 
+The following table presents the Group’s assets and liabilities that are measured at fair value at 30 June 2013. 
+ 
+Level 2  
+2013  
+£’000 
+Level 2  
+2012  
+£’000 
+Financial assets at fair value through profit or loss:   
+Derivatives used for hedging – 7 
+ 
+The fair value of financial instruments that are not traded in an active market (for example, over-the-counter derivatives) is determined by 
+using valuation techniques. These valuation techniques maximise the use of observable market data where it is available and rely as little as 
+possible on entity specific estimates. If all significant inputs required to fair value an instrument are observable, the instrument is included in 
+level 2.   32  Ceres Power Holdings plc Annual Report 2013   
+ 
+ 
+ 
+ 
+ 
+The table below shows the extent to which the Group has monetary assets and liabilities in currencies other than pounds sterling. Foreign 
+exchange differences arising on the retranslation of these monetary assets and liabilities are taken to the Consolidated Statement of 
+Comprehensive Income.  
+ 
+2013 
+£’000 
+2012 
+£’000 
+Foreign currency monetary assets:   
+United States dollar 107 157 
+Euro 40 142 
+ 147 299 
+ 
+The Group has net euro denominated trade payables of £17,000 (2012: £48,000) and US dollar denominated trade payables of £39,000 
+(2012: £60,000). 
+ 
+The functional currency of the Company is pounds sterling.  
+ 
+ 
+15. Provisions for other liabilities and charges  
+Property dilapidation and onerous lease provisions charged to the Consolidated Statement of Comprehensive Income are set out below:  
+ 
+Provisions for the year ended 30 June 2013 
+ 
+Property 
+Dilapidations  
+£’000 
+Onerous Leases 
+£’000 
+ 
+Total 
+£’000 
+At 1 July 365 – 365 
+Charged to the Consolidated Statement of Comprehensive Income 195 733 928 
+At 30 June 560 733 1,293 
+ 
+The dilapidation provision recognised is being built up to match the present value of costs to be incurred, which is materially the same as the 
+expected costs to be incurred, in making good the various leasehold properties at the end of their respective leases, details of which are in 
+note 19. The onerous lease provision recognised provides for the full cost of the remaining life of the leases on properties after the date that 
+the company expects these properties to have no further use. 
+ 
+Provisions for the year ended 30 June 2012 
+ 
+Property 
+Dilapidations 
+£’000 
+Onerous Leases 
+£’000 
+ 
+Total 
+£’000 
+At 1 July 228 – 228 
+Charged to the Consolidated Statement of Comprehensive Income 137 – 137 
+At 30 June 365 – 365 
+ 
+Deferred taxation 
+Potential deferred tax assets have not been recognised but are set out below: 
+ 
+2013 
+£’000 
+2012 
+£’000 
+Tax effect of temporary differences because of:   
+Difference between capital allowances and depreciation (1,587) (1,057) 
+Deductions relating to share options (497) – 
+Losses carried forward (10,112) (9,397) 
+Pensions (6) – 
+ 
+ 
+(12,202) (10,454) 
+ 
+The deferred tax assets have not been recognised, as the Directors consider that it is unlikely that the asset will be realised in the 
+foreseeable future. 
+   Ceres Power Holdings plc Annual Report 2013   33 
+ 
+ 
+ 
+ 
+ 
+16. Share capital 
+ 
+2013            2012 
+ Number £’000 Number £’000 
+Allotted and fully paid     
+At 1 July 86,215,662 4,311 86,177,614 4,309 
+Allotted under share option schemes 2,235,838 22 38,048 2 
+Allotted on cash placing & open offer 448,347,623 4,484 – – 
+Ordinary shares of £0.01 each at 30 June (2012 £0.05) 536,799,123 8,817 86,215,662 4,311 
+ 
+On 18 December 2012 each existing ordinary share of £0.05 was sub-divided into 1 new ordinary share of £0.01 and 1 deferred share of 
+£0.04. All shares issued from 18 December 2012 were new ordinary shares of £0.01. The new ordinary shares of £0.01 have the same rights 
+and benefits as the original ordinary shares of £0.05. The deferred shares of £0.04 are not listed and it is intended that all the deferred 
+shares will be surrendered for no value and/or cancelled in due course. 
+ 
+On 18 December 2012 the Company issued 330,000,000 ordinary shares of £0.01 each in a placing and open offer for cash consideration of 
+£3,300,000. On 2 April 2013 the Company issued 118,347,623 ordinary shares of £0.01 each in a placing and open offer for cash 
+consideration of £9,467,810 (before deducting issue costs of £208,050). Also 2,235,838 ordinary shares of £0.01 each were issued on the 
+exercise of employee share options for cash consideration of £31,792 (2012: the Company issued 38,048 £0.05 ordinary shares on exercise 
+of employee share options for consideration of £1,902). 
+ 
+ 
+17. Share options 
+The total charge recognised in the year ended 30 June 2013 relating to employee share-based payments was £414,000 (2012: £468,000). 
+ 
+The Company has a number of share option schemes and savings-related share option plans for its employees and a separate scheme for 
+Executive Directors.  
+  
+2013 
+£’000 
+2012 
+£’000 
+a) 2004 Employees’ share option scheme 280 5 
+b) Executive Directors’ one-off award 75 216 
+c) 2009 Sharesave scheme – 27 
+d) CHP Project Bonus plan – 167 
+c) 2010 Sharesave scheme 17 16 
+c) 2011 Sharesave scheme 42 37 
+  414 468 
+ 
+a) Ceres Power Holdings Limited 2004 Employees’ share option scheme 
+The Company has issued share options under this scheme for Directors and employees, under which approved and unapproved share 
+options were granted, prior to the flotation of the Company in November 2004 and in subsequent years. The Company adopted the ‘Ceres 
+Power Holdings Limited 2004 Employees’ share option scheme’ at the time of flotation. 
+ 
+Under this scheme, Directors and employees hold options to subscribe for £0.01 ordinary shares in Ceres Power Holdings plc at prices 
+ranging from £0.01 to the closing mid-market price on the day preceding the most recent share option grant. All options are equity-settled. 
+The vesting period for all options is generally three years. If the options remain unexercised after a period of ten years from the date of the 
+grant, the options expire. Options are forfeited if the employee chooses to leave the Group before the options vest.  
+ 
+   34  Ceres Power Holdings plc Annual Report 2013   
+ 
+ 
+ 
+ 
+ 
+Movements in the total number of share options outstanding and their relative weighted average exercise price are as follows: 
+ 2013 2012 
+ 
+Number  
+(’000) 
+Weighted 
+average 
+exercise price  
+Number  
+(’000) 
+Weighted  
+average  
+exercise price  
+Outstanding at 1 July 5,426 £0.94 5,782 £0.94 
+Granted 45,693 £0.03 – – 
+Exercised (2,000) £0.01 – – 
+Lapsed (2,404) £0.72 (356) £0.89 
+Outstanding at 30 June 46,715 £0.10 5,426 £0.94 
+Exercisable 3,400 £1.11 5,426 £0.94 
+ 
+The weighted average share price on the exercise date of options was £0.025 (2012: none exercised). 
+ 
+The range of exercise prices for options outstanding at the end of the year is as follows:
+ 
+ 
+ 2013 2012 
+Expiry date – 30 June 
+Weighted 
+average  
+exercise price 
+Number  
+(’000) 
+Weighted 
+average  
+exercise price  
+Number  
+(’000) 
+2014 £0.39 1,937 £0.41 1,938 
+2015 £0.67 189 £0.73 220 
+2016 £2.53 812 £2.42 895 
+2017 £2.18 380 £2.24 420 
+2018 £2.23 45 £2.02 155 
+2019 £0.82 37 £0.96 249 
+2020 – – £1.07 5 
+2023 £0.03 43,315 – – 
+ 
+The options outstanding at the end of the year have a weighted average contractual life of 9.00 years (2012: 2.21 years). 
+ 
+ 
+b) Executive Directors’ one-off award 
+All ‘one-off’ options remain outstanding and unexercisable at 30 June 2013. No options were granted, exercised or lapsed in the year or the 
+previous year.  
+ 
+The expiry dates of options outstanding at the end of the year are as follows:
+ 
+ 
+ 2013 2012 
+Expiry date – 30 June 
+Weighted 
+average 
+exercise price 
+Number  
+(’000) 
+Weighted 
+average 
+exercise price  
+Number  
+(’000) 
+2018 £2.00 1,688 £2.00 1,688 
+2019 £2.00 213 £2.00 213 
+     
+The options outstanding at the end of the year have a weighted average contractual life of 5.57 years (2012: 6.57 years).  
+ 
+   Ceres Power Holdings plc Annual Report 2013   35 
+ 
+ 
+ 
+ 
+ 
+c) Ceres Power Holdings Sharesave scheme 
+No HMRC-approved savings-related share option schemes were implemented during the year or the previous year.   
+ 
+Movements in the total number of share options outstanding and their relative weighted average exercise price are as follows: 
+ 
+ 2013 2012 
+ 
+Number  
+(’000) 
+Weighted 
+average 
+exercise price  
+Number  
+(’000) 
+Weighted 
+average 
+exercise price  
+Outstanding at 1 July 460 £0.52 740 £0.51 
+Lapsed/cancelled (365) £0.53 (280) £0.50 
+Outstanding at 30 June 95 £0.47 460 £0.52 
+Exercisable 10 £1.12 108 £0.81 
+     
+No options were granted in the year or the previous year.  
+ 
+The expiry dates of options outstanding at the end of the year are as follows: 
+ 
+2013 2012 
+Expiry date – 30 June 
+Actual and 
+weighted 
+average 
+exercise price 
+Number 
+(’000) 
+Actual and 
+weighted 
+average 
+exercise price 
+Number 
+(’000) 
+2014 £0.64 30 £1.12 15 
+2015 £0.40 65 £0.40 288 
+ 
+The options outstanding at the end of the year have a weighted average contractual life of 1.08 years (2012: 1.70 years). 
+ 
+ 
+d) CHP Project Bonus plan 
+The CHP Project Bonus plan was a medium-term incentive scheme running from 2009 to 2012 under which a performance-related bonus of 
+cash and nominal value share options was awarded to Executive Directors and senior managers.   These share options, if not exercised, 
+lapsed on 30 June 2013.  
+ 
+No options were granted in the year ended 30 June 2013 (2012: 236,000). 
+ 
+Movements in the total number of share options outstanding and their relative weighted average exercise price are as follows: 
+ 
+ 2013 2012 
+ 
+Number 
+(’000) 
+Actual and 
+weighted 
+average 
+exercise price 
+Number 
+(’000) 
+Actual and 
+weighted 
+average 
+exercise price 
+Outstanding at 1 July 445 £0.05 323 £0.05 
+Granted – – 236 £0.05 
+Exercised (245) £0.05 (38) £0.05 
+Lapsed (200) £0.05 (76) £0.05 
+Outstanding at 30 June – – 445 £0.05 
+Exercisable – – 59 £0.05 
+ 
+The weighted average fair value of options granted in 2012 was £57,057.  The weighted average share price on the day of exercise of options 
+was £0.095 (2012: none exercised).  
+ 
+   36  Ceres Power Holdings plc Annual Report 2013   
+ 
+ 
+ 
+ 
+ 
+Assumptions 
+Fair values of all schemes, apart from the Executive Directors’ one-off award, which was measured using a binomial pricing model, were 
+measured by use of the Black-Scholes pricing model. The inputs to the Black-Scholes model were as follows: 
+ 
+ 
+ 
+2004 Share 
+Scheme 
+2013  
+CHP Project 
+Bonus plan 
+2012 
+Grant date  18 Dec 12–2 Apr 13  
+27 July  
+2011 
+Share price at date of grant (£)  0.025–0.099  0.29 
+Exercise price (£)  0.01–0.099  0.05 
+Expected volatility (%)  70  65 
+Expected option life (years)  Up to 5 years  1.0 
+Average risk-free interest rate (%)  2.3%  3.5 
+Expected dividend yield  Nil  Nil 
+ 
+The exercise prices of options are stated above. The expected life of the options is based on the best estimate of the average number of 
+years expected from grant to exercise. The expected volatility is based on historical volatility of the Company’s shares since it was admitted 
+to AIM. The risk-free rate of return is management’s estimate of the yield on zero-coupon UK Government bonds of a term consistent with 
+the expected option life. 
+ 
+ 
+18. Cash used in operations  
+ 
+2013 
+£’000 
+2012 
+£’000 
+Loss before income tax (12,686) (17,907) 
+Adjustments for:   
+   
+Other finance income (55) (165) 
+Depreciation of property, plant and equipment (net of amortised grant contributions) 1,322 1,560 
+Disposal of property, plant and equipment 759 – 
+Share-based payments charge 414 468 
+Operating cash flows before movements in working capital (10,246) (16,044) 
+Decrease in trade and other receivables 163 307 
+Decrease in trade and other payables (861) (1,915) 
+Increase in provisions 928 137 
+Decrease/(Increase) in working capital 230 (1,471) 
+Cash used in operations (10,016) (17,515) 
+ 
+ 
+19. Operating lease commitments 
+The Group leases premises and office equipment under non-cancellable operating lease agreements. The future aggregate minimum lease 
+payments under non-cancellable operating leases are as follows:
+  
+ 
+ 
+2013 
+Land and  
+buildings 
+and Other 
+ £’000 
+2012 
+Land and  
+buildings 
+and Other 
+ £’000 
+No later than one year 397 461 
+Later than one year and no later than five years 539 907 
+Later than five years – 40 
+ 936 1,408 
+ 
+The property leases have an average minimum term of 3.4 years (2012: 4.4 years). The rentals are fixed for the lease terms subject to 
+periodic rent reviews. The office equipment leases have an average term of 1.6 years (2012: 2.5 years). 
+ 
+   Ceres Power Holdings plc Annual Report 2013   37 
+ 
+ 
+ 
+ 
+ 
+20. Contingent liabilities 
+During the year, the Group recognised grant income in respect of research and development activities of £1,000 (2012: £182,000) as other 
+operating income (see note 3), in accordance with the Group’s accounting policy. The Directors consider that there is a contingent liability 
+only in respect of grants received in the 12 months prior to the balance sheet date. The repayment of grants received prior to this is 
+considered of remote likelihood, as grants may be required to be repaid if the Group does not meet subsequent reporting requirements as 
+specified in the grant offer letters. In addition £705,000 (2012: £705,000) of grants received, or an element thereof, may require repayment 
+if the Group generates revenue (net of expenses and reasonable overheads) from the patent created from the grant. In such case, the Group 
+may be liable to pay back the grant at a rate of 5% of the net revenue generated in any one year. The Directors of the Group believe it is 
+unlikely that any of the grants received will need to be repaid in the foreseeable future. 
+ 
+ 
+21. Capital commitments 
+Capital expenditure that has been contracted for but has not been provided for in the financial statements amounts to £93,000 as at 30 June 
+2013 (2012: £4,000), in respect of the acquisition of property, plant and equipment. 
+ 
+ 
+22. Related party transactions 
+The Group’s related parties are its Directors, Steve Callaghan Services Limited, ORA (Guernsey) Ltd. which held 28.21% of ordinary shares at 
+30 June 2013 (2012: none), and IP Group Limited which held 24.69% of ordinary shares at 30 June 2013 (2012: none). ORA (Guernsey) Ltd. 
+has appointed Mike Bretherton as a Non-Executive Director and IP Group has appointed Alan Aubrey as Chairman and Robert Trezona as a 
+Non-Executive Director. Compensation paid to the Group’s Directors is disclosed in note 5. Transactions with IP Group Limited during the 
+year amounted to £29,770 (2012: £nil) comprising primarily of legal and recruitment services, and there was an outstanding balance due of 
+£4,000 at 30 June 2013 (2012: £nil). The outstanding balance with IP Group Limited was due 30 days after the invoice date to be settled for 
+cash. There were no other related party transactions in the year or the previous year. 
+ 
+ 
+ 
+   38  Ceres Power Holdings plc Annual Report 2013   
+ 
+ 
+ 
+ 
+ 
+Independent Auditors’ Report  
+to the Members of Ceres Power Holdings plc 
+ 
+We have audited the parent Company financial 
+statements of Ceres Power Holdings plc for the year 
+ended 30 June 2013 which comprise the Company 
+Balance Sheet and the related notes. The financial 
+reporting framework that has been applied in their 
+preparation is applicable law and United Kingdom 
+Accounting Standards (‘United Kingdom Generally 
+Accepted Accounting Practice’). 
+ 
+Respective responsibilities of Directors and auditors 
+As explained more fully in the Statement of Directors’ 
+responsibilities set out on page 13 the Directors are 
+responsible for the preparation of the parent Company 
+financial statements and for being satisfied that they give 
+a true and fair view. Our responsibility is to audit and 
+express an opinion on the parent Company financial 
+statements in accordance with applicable law and 
+International Standards on Auditing (UK and Ireland). 
+Those standards require us to comply with the Auditing 
+Practices Board’s Ethical Standards for Auditors. 
+ 
+This report, including the opinions, has been prepared 
+for and only for the Company’s members as a body in 
+accordance with Chapter 3 of Part 16 of the Companies 
+Act 2006 and for no other purpose. We do not, in giving 
+these opinions, accept or assume responsibility for any 
+other purpose or to any other person to whom this 
+report is shown or into whose hands it may come save 
+where expressly agreed by our prior consent in writing. 
+ 
+Scope of the audit of the financial statements 
+An audit involves obtaining evidence about the amounts 
+and disclosures in the financial statements sufficient to 
+give reasonable assurance that the financial statements 
+are free from material misstatement, whether caused by 
+fraud or error. This includes an assessment of: whether 
+the accounting policies are appropriate to the parent 
+Company’s circumstances and have been consistently 
+applied and adequately disclosed; the reasonableness of 
+significant accounting estimates made by the Directors; 
+and the overall presentation of the financial statements. 
+In addition, we read all the financial and non-financial 
+information in the Annual Report to identify material 
+inconsistencies with the audited financial statements. If 
+we become aware of any apparent material 
+misstatements or inconsistencies we consider the 
+implications for our report.  
+ 
+Opinion on financial statements  
+In our opinion the parent Company financial statements: 
+  
+ give a true and fair view of the state of the 
+Company’s affairs as at 30 June 2013; 
+ have been properly prepared in accordance with 
+United Kingdom Generally Accepted Accounting 
+Practice; and 
+ have been prepared in accordance with the 
+requirements of the Companies Act 2006.  
+ 
+ 
+Opinion on other matter prescribed by the Companies 
+Act 2006 
+In our opinion the information given in the Directors’ 
+Report for the financial year for which the parent 
+Company financial statements are prepared is consistent 
+with the parent Company financial statements.  
+ 
+Matters on which we are required to report by 
+exception  
+We have nothing to report in respect of the following 
+matters where the Companies Act 2006 requires us to 
+report to you if, in our opinion: 
+ 
+ adequate accounting records have not been kept by 
+the parent Company, or returns adequate for our 
+audit have not been received from branches not 
+visited by us; or 
+ the parent Company financial statements are not in 
+agreement with the accounting records and returns; 
+or 
+ certain disclosures of Directors’ remuneration 
+specified by law are not made; or 
+ we have not received all the information and 
+explanations we require for our audit. 
+ 
+Other matter 
+We have reported separately on the Group financial 
+statements of Ceres Power Holdings plc for the year 
+ended 30 June 2013.  
+ 
+Rosemary Shapland 
+(Senior Statutory Auditor) 
+for and on behalf of PricewaterhouseCoopers LLP 
+Chartered Accountants and Statutory Auditors 
+Gatwick 
+30 September 2013 
+ 
+  Ceres Power Holdings plc Annual Report 2013   39 
+ 
+ 
+ 
+ 
+ 
+Company Balance Sheet 
+as at 30 June 2013 
+ 
+ 
+Note 
+2013  
+£’000 
+2012  
+£’000 
+Fixed assets    
+Investments 4 6,097 5,754 
+    
+Current assets    
+Debtors: amounts falling due after more than one year 5 1,672 1,435 
+Debtors: amounts falling due within one year 5 32 26 
+Short-term investments  6,207 2 
+Cash at bank and in hand  8,835 9,667 
+  16,746 11,130 
+Creditors: amounts falling due within one year 6 (109) (324) 
+Net current assets  16,637 10,806 
+Total assets less current liabilities  
+ 
+22,734 16,560 
+    
+Net assets  22,734 16,560 
+    
+Capital and reserves    
+Called up share capital 8 8,817 4,311 
+Share premium account 9 72,906 64,821 
+Profit and loss account 9 (58,989) (52,572) 
+Total shareholders’ funds 10 22,734 16,560 
+ 
+The financial statements on pages 39 to 43 were approved by the Board of Directors on 30 September 2013 and were signed on its  
+behalf by: 
+ 
+Philip Caldwell  Richard Preston 
+Chief Executive Officer  Finance Director 
+  
+Ceres Power Holdings plc 
+Registered Number: 5174075 
+  40  Ceres Power Holdings plc Annual Report 2013   
+ 
+ 
+ 
+ 
+ 
+Notes to the Company Financial Statements 
+for the year ended 30 June 2013 
+ 
+ 
+1. Accounting policies 
+These separate financial statements of the Company 
+have been prepared on the going concern basis, under 
+the historical cost convention and in accordance with the 
+Companies Act 2006 and applicable accounting standards 
+in the United Kingdom. A summary of the more 
+important accounting policies, which have been 
+reviewed by the Board of Directors in accordance with 
+Financial Reporting Standard (“FRS”) 18, ‘Accounting 
+policies’, and which have been applied consistently 
+except where noted, is set out below. 
+ 
+Fixed asset investments 
+The investment in Ceres Power Limited is accounted for 
+under merger accounting principles and is shown at the 
+nominal value of shares issued as consideration for the 
+undertaking less any amount written off to reflect a 
+permanent diminution in value. The investment in Ceres 
+Intellectual Property Company Limited is stated at cost 
+less any amount written off to reflect a permanent 
+diminution in value.  
+ 
+Current asset investments 
+Current asset investments comprise money market funds 
+and bank deposits that are not repayable on demand.  
+ 
+Amounts owed by Group undertakings 
+Amounts owed by Group undertakings are recognised 
+and carried at the original invoice amount less an 
+allowance for any uncollectable amounts that are made 
+when the full amount is no longer considered receivable. 
+A provision for impairment of amounts owed by Group 
+undertakings is established based on estimated 
+recoverable amounts.  
+ 
+Deferred taxation 
+The Company applies FRS 19, ‘Deferred tax’, which 
+requires provision to be made in respect of timing 
+differences between the treatment of certain items for 
+accounting and tax purposes. Deferred tax assets are 
+recognised only to the extent that they are regarded as 
+recoverable. Deferred tax assets and liabilities are not 
+discounted. 
+ 
+Share-based payments 
+Share options 
+The Group has a number of employee and executive 
+share option and award schemes under which it makes 
+equity-settled share-based payments. The fair value at 
+the date of grant of equity-settled, share-based 
+payments is expensed on a straight-line basis over the 
+vesting period, based on the Group’s estimate of shares 
+that will eventually vest. The charge is then credited back 
+to reserves.  
+ 
+The fair value of employee share options is calculated 
+using a Black-Scholes or binomial model. In accordance 
+with FRS 20, ‘Share-based payment’, the resulting cost is 
+charged to the profit and loss account over the vesting 
+periods of the plans. The value of the charge is adjusted 
+to reflect the expected and actual levels of options 
+vesting. FRS 20 has been applied to all grants of equity 
+instruments after 7 November 2002 that were unvested 
+as of 1 January 2006 and to all later grants. 
+ 
+Options are granted both to employees of the Company 
+and to employees of the Group. All share-based 
+compensation related to subsidiary employees has been 
+recharged to the subsidiary undertaking by way of a 
+capital contribution to the subsidiary. This capital 
+contribution for the current year has increased 
+investment value by £343,000 (2012: £375,000) with the 
+corresponding credit posted to reserves. 
+ 
+Pension scheme arrangements 
+The Company operates a defined contribution pension 
+scheme for employees. The assets of the scheme are 
+held separately from those of the Company. The pension 
+costs charged represent contributions paid by the 
+Company to individual pension plans and are charged to 
+the profit and loss account as they become payable. 
+ 
+In addition, a stakeholder pension scheme is also 
+available to employees. 
+ 
+Research and development expenditure 
+Expenditure on research and development is written off 
+to the profit and loss account as incurred.  
+  
+Related party transactions 
+The Company has taken advantage of the exemption 
+available to parent companies under FRS 8, ‘Related 
+Party Disclosures’, not to disclose transactions and 
+balances with wholly owned subsidiaries.  
+ 
+2. Loss for the year 
+The Company has taken advantage of the exemption 
+available under section 408 of the Companies Act 2006 
+and has not presented its profit and loss account. The 
+Company’s result for the year was a loss of £6,831,000 
+(2012: £15,584,000), which is stated after charging 
+£16,000 (2012: £15,000) for remuneration receivable by 
+the Company’s auditors for the auditing of the financial 
+statements. The loss for the year includes a provision of 
+£5.5 million provision against amounts owing to the 
+Company by Ceres Power Limited (2012: £15 million).  Ceres Power Holdings plc Annual Report 2013   41 
+ 
+ 
+ 
+ 
+ 
+3. Employees and Directors 
+The average monthly number of persons (including Executive Directors) employed by the Company during the year was: 
+ 
+ 
+2013  
+Number 
+2012  
+Number 
+By activity:   
+Administration 1 1 
+ 
+The only employee of the Company during the year was also a Director and highest paid Director of the Company. 
+ 
+2013  
+£’000 
+2012  
+£’000 
+Staff costs (for the above persons):   
+Wages and salaries, including compensation for loss of office 377 207 
+Social security costs 53 33 
+ 430 240 
+ 
+A total of £nil (2012: £nil) was payable in respect of pension contributions by the Company at the year end. 
+ 
+Further information on Directors’ emoluments, see note 5 to the consolidated financial statements. 
+ 
+ 
+4. Fixed asset investments 
+In subsidiary companies: 
+ 
+2013  
+£’000 
+2012  
+£’000 
+Cost and net book value:   
+At 1 July 5,754 5,379 
+Capital contributions arising from FRS 20 share-based payment charge 343 375 
+At 30 June 6,097 5,754 
+ 
+The capital contributions arising from the FRS 20 share-based payment charge are due to the Company granting share options to the 
+employees of Ceres Power Limited.  
+ 
+The Company’s investments comprise interests in Group undertakings, details of which are shown below: 
+Name of undertaking Country of incorporation Description of shares held 
+Proportion of nominal 
+value of shares held  
+by the Company 
+Ceres Power Limited England and Wales £0.001 ordinary shares 100% 
+Ceres Intellectual Property Company Limited England and Wales £1.00 ordinary share 100% 
+ 
+The principal activity of Ceres Power Limited is the development and commercialisation of its core fuel cell and fuel cell module technology. 
+The principal activity of Ceres Intellectual Property Company Limited is the administration of registered intellectual property developed 
+within the Group. The results of Ceres Power Limited and Ceres Intellectual Property Company Limited are included within the consolidated 
+financial statements. The Directors believe that the carrying value of investments is supported by their underlying net assets, or the net 
+present value of projected future cash flows. 
+ 
+ 
+   42  Ceres Power Holdings plc Annual Report 2013   
+ 
+ 
+ 
+ 
+ 
+5.  Debtors 
+ 
+2013  
+£’000 
+2012  
+£’000 
+Amounts falling due within one year:   
+Other debtors 7 13 
+Prepayments and accrued income 25 13 
+ 32 26 
+   
+Amounts falling due after more than one year:   
+Amounts owed by Group undertakings 1,672 1,435 
+ 1,704 1,461 
+ 
+The amounts owed by Group undertakings comprise inter-company loans and recharges. No specific repayment or interest terms are 
+associated with these amounts. As of 30 June 2013, a provision of £59,316,000 (2012: £53,861,000) has been made against the inter-
+company loan to Ceres Power Limited, reflecting management’s best estimate of the recoverable amount.  
+ 
+A subordination agreement exists between the Company and Ceres Power Limited. Amounts owed by Ceres Power Limited to the Company 
+of £59,316,000 (2012: £53,861,000) are subordinated to all other creditors of Ceres Power Limited. 
+ 
+ 
+6. Creditors: amounts falling due within one year 
+ 
+2013  
+£’000 
+2012  
+£’000 
+Trade creditors 14 13 
+Taxation and social security 8 37 
+Other creditors – 1 
+Accruals and deferred income 87 273 
+ 109 324 
+ 
+ 
+7. Deferred Taxation 
+ 
+Potential deferred tax assets have not been recognised but are set out below: 
+ 
+2013  
+£’000 
+ 2012  
+£’000 
+Tax effect of timing differences because of:   
+Deductions relating to share options (11) – 
+Losses carried forward (819) (700) 
+ (830) (700) 
+   
+The deferred tax assets have not been recognised as the Directors consider that it is unlikely that the asset will be realised in the foreseeable 
+future.  
+ 
+ 
+8. Called up share capital 
+ 
+2013 2012 
+ Number £’000 Number £’000 
+Allotted and fully paid     
+Ordinary shares of £0.01 each (2012: £0.05) 536,799,123 8,817 86,215,662 4,311 
+ 
+Details of shares issued in the period are provided in note 16 to the Group financial statements. Details of share options are disclosed in note 
+17 to the Group financial statements. 
+ 
+   Ceres Power Holdings plc Annual Report 2013   43 
+ 
+ 
+ 
+ 
+ 
+9. Reserves 
+ 
+Share premium 
+account  
+£’000 
+Profit and loss  
+account  
+£’000 
+At 1 July 2012 64,821 (52,572) 
+Premium on shares issued:   
+    New shares issued on cash placing (net) 8,076  – 
+    Exercise of share options 9 – 
+Loss for the financial year – (6,831) 
+Share-based payments charge – 414 
+At 30 June 2013 72,906 (58,989) 
+ 
+ 
+10. Reconciliation of movements in shareholders’ funds 
+ 
+2013  
+£’000 
+2012  
+£’000 
+Loss for the financial year (6,831) (15,584) 
+Proceeds of issue of ordinary share capital 12,799 2 
+Share issue costs (208) – 
+Share-based payments charge 414 468 
+Net change in shareholders’ funds 6,174 (15,114) 
+Opening shareholders’ funds 16,560 31,674 
+Closing shareholders’ funds 22,734 16,560 
+   
+ 
+   44  Ceres Power Holdings plc Annual Report 2013   
+ 
+ 
+ 
+ 
+ 
+Directors and Advisors  
+Directors of Ceres Power Holdings plc 
+Alan Aubrey (Non-Executive Chairman) 
+Phil Caldwell (Chief Executive Officer) 
+Richard Preston (Finance Director) 
+Steve Callaghan (Non-Executive Director) 
+Mike Bretherton (Non-Executive Director) 
+Mike Lloyd (Non-Executive Director) 
+Robert Trezona (Non-Executive Director) 
+ 
+Registered number 
+5174075 
+ 
+Company secretary 
+Bruce Girvan 
+ 
+Registered office 
+Viking House 
+Foundry Lane 
+Horsham 
+West Sussex 
+RH13 5PX 
+ 
+Independent auditors 
+PricewaterhouseCoopers LLP 
+Chartered Accountants and Statutory Auditors 
+First Point 
+Buckingham Gate 
+Gatwick 
+West Sussex 
+RH6 0NT 
+ 
+Solicitors 
+DAC Beachcroft LLP 
+Portwall Place 
+Portwall Lane 
+Bristol 
+BS99 7UD 
+ 
+Bankers 
+National Westminster Bank plc 
+South Kensington Station Branch 
+PO Box No 592 
+18 Cromwell Place 
+London 
+SW7 2LB 
+ 
+Nominated advisor (NOMAD) 
+Nplus1 Singer Advisory LLP 
+One Bartholomew Lane 
+London 
+EC2N 2AX 
+ 
+Brokers 
+Nplus1 Singer Advisory LLP 
+One Bartholomew Lane 
+London 
+EC2V 2AX 
+ 
+Registrar 
+Computershare Investor Services PLC 
+PO Box 82 
+The Pavilions 
+Bridgwater Road 
+Bristol 
+BS99 7NH 
+ 
+‘Ceres Power’ and ‘Powered by Ceres’ are registered trademarks belonging to the Group. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   www.cerespower.com
+Ceres Power Holdings plc
+Viking House
+Foundry Lane
+Horsham
+West Sussex
+RH13 5PX

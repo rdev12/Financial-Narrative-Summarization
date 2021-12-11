@@ -1,0 +1,152 @@
+ 04
+ClearSpeed Annual Report and Accounts 2005
+Chairman’s statement
+Introduction
+ClearSpeed made considerable 
+progress during 2005, achieving a
+number of significant milestones in 
+its markets and product development
+whilst at the same time containing
+costs. These included delivering the
+world’s highest performance processor
+for 64-bit floating point operations, 
+and culminated in December in both
+the group’s first commercial product 
+– the Advance
+™
+Board – becoming
+available, and a successful fundraising
+which has placed the group in the
+position of being well funded to 
+address a potentially substantial 
+market opportunity. 
+Financial results
+The group was successful in controlling
+both its costs and cash, while at the
+same time undertaking a substantial
+product development programme and
+achieving the steady building-out of the
+other capabilities needed to support
+the increasing level of commercial
+activities. The year finished in line with
+group expectations: the retained loss
+was £6,412,000 and the cash outflow
+from operations was £6,824,000.
+Turnover increased to £439,000 for the
+year, compared to £247,000 for the
+previous year. The growth in revenues
+principally occurred towards the end 
+of the year when the group’s first
+commercial product began to ship 
+to customers. The revenue for the
+second half of the year was £293,000.
+The group finished the year with a
+significantly strengthened balance sheet
+following the raising of approximately
+£20,070,000 (net of expenses) by way
+of a placing. 
+Technical progress
+Since ClearSpeed floated on AIM 
+in July 2004, the group has made
+considerable progress in achieving 
+its technical goals.
+During 2005, a key focus was the
+continued development of the group’s
+first commercial products: the CSX600
+processor and the Advance
+™
+Board
+which has two CSX600 processors. 
+The CSX600 was demonstrated for 
+the first time at the International
+Supercomputer Conference at
+Heidelberg in June, and is both the
+world’s highest performance 64-bit
+floating point processor and the world’s
+most power-efficient processor for
+these performance levels. 
+Commercial progress
+Following the important milestone 
+at Heidelberg in June, in August the
+group was invited by Intel to co-present
+at the Intel Developer Forum in San
+Francisco on the use of the CSX600
+with Intel processors running Intel’s
+Math Kernel Library. In November, 
+the group demonstrated the Advance
+™
+Board at the Supercomputing
+Conference in Seattle and was very
+pleased that demonstrations of this
+board was also given on the stands of
+AMD, IBM, Intel and Sun Microsystems.
+“The order from Sun Microsystems for the Tokyo 
+Institute of Technology is a significant milestone 
+in the group’s development.”
+Chairman’s
+statement ClearSpeed Annual Report and Accounts 2005
+Chairman’s statement
+05
+On 15 November 2005, the first day 
+of that conference, the Tokyo Institute
+of Technology announced that
+ClearSpeed, as part of a consortium 
+led by NEC and Sun Microsystems, had
+been selected to deliver Japan’s highest
+performance supercomputer. Sun has
+announced that, in its first phase, this
+computer will use 360 ClearSpeed
+Advance
+™
+Boards. 
+Offering power-efficient performance
+and using 96 cores in its CSX600
+processor, the group was also pleased
+that 2005 was the year in which
+performance per watt was identified 
+as “the new metric” for the industry, 
+and that multicore processing became
+established as a dominant trend in the
+continued development of processors
+for the computing industry.
+Board
+During 2005 the board made two 
+key appointments. In September 
+Paul Webb, who has extensive
+experience in technology companies,
+was appointed chief financial officer.
+Also in September, Shanker Trivedi was
+appointed as a non-executive director.
+Shanker has recently joined Callidus
+Software as vice-president and chief
+marketing officer, and previously was
+vice-president of datacentre solutions
+for Sun Microsystems Inc. and before
+that vice-president and managing
+director of Sun Microsystems in 
+the UK.
+Outlook
+I am pleased to report that since 
+the end of 2005 the group has
+continued to make valuable progress.
+The order from Sun Microsystems for
+the Tokyo Institute of Technology has
+been shipped, which is a significant
+milestone in the group’s development.
+At the same time, discussions with
+other customers are progressing
+satisfactorily. 
+As a result of the recent fundraising, 
+the successful development and
+demonstration of the CSX600 processor,
+and the increasing commercial activity,
+the board believes that ClearSpeed 
+is well placed to make further
+substantial progress.
+David Sebire
+Chairman
+27 March 2006 
++78%
+Increase in turnover
+£22.2m
+Year-end cash

@@ -1,0 +1,415 @@
+ Chief Executive Officer’s review of operations
+A 32% year-on-year growth in dollar revenues 
+in 2004 and the positive trend in our order backlog 
+indicate that the ARM stand-alone business is in
+robust shape. We look forward to 2005 with confidence 
+as we start to realise the benefits arising from the acquisition
+of Artisan at the end of the year.
+The year was one of growth and achievement for ARM, both
+operationally and strategically. Following a year of consolidation 
+in 2003, we increased licensing activity and revenues, made two
+acquisitions and expanded into new markets. As 2004 ended, the
+business community was understandably cautious about external
+factors, such as the weak dollar and the global economic climate, 
+but our achievements during the year demonstrate that we are 
+strongly positioned to continue to flourish in 2005.
+Acquisition of Artisan Components, Inc.
+We completed the acquisition of Artisan on 23 December 2004; 
+the combined company’s product portfolios and sales channel now
+provide one of the broadest offerings of system-on-chip (SoC) IP to our
+expanded customer base. We expect the amalgamation of the ARM and
+Artisan businesses to increase revenue, save costs by consolidating
+selected corporate functions, deliver an attractive margin structure and
+generate strong cash flow.
+The combined company will seek to leverage Artisan’s expertise in
+physical IP design – the essential building blocks of integrated circuits –
+with ARM’s expertise in designing microprocessors. As a result, we will
+be able to develop highly-optimised components for use in, and with,
+our microprocessors, creating the potential to produce substantial
+benefits for end users, such as reduced power consumption and
+increased processor speed.
+The integration of the businesses is proceeding as planned. The former
+Artisan business now forms our Physical IP group, and one worldwide
+sales force is responsible for selling the full range of products. ARM’s
+office in Los Gatos, California, closed in February 2005 and employees
+relocated to Artisan’s Sunnyvale facility, our new US headquarters.
+Shipments and licensing activity
+The electronics industry in general had a good year with growth 
+across all our key markets. The sales of ARM Powered products 
+provide a powerful indicator of our success: shipments in a single 
+year exceeded the one billion mark for the first time. Total shipments
+increased 63%, from 782 million in 2003 to 1.3 billion. Most new-
+generation 3G mobile phones will be ARM Powered and the increasing
+adoption of the technology has accelerated shipments in this market.
+There were also significant increases in shipments of ARM Powered
+digital cameras; storage devices, such as hard disk drives; automotive
+products and consumer electronics.
+Licensing activity was also strong: 65 licences (31 multi-use licences
+and 34 per-use licences) were signed in 2004, compared with 51 in
+2003. Of the 65 licences, 15 were for ARM11 products, 31 for ARM9
+products, 15 for ARM7 products, three for next-generation ARM
+processors and one architecture licence. Fifteen companies became 
+new ARM Partners, bringing the total to 140. Two of our new Partners
+took multi-use licences and 13 took per-use licences. Total licensing
+revenues in 2004 were £59.4 million – 39% of total revenues –
+compared with £50.8 million, or 40%, in 2003. 
+Licensing activity demonstrated the breadth of our technology offer as
+well as the longevity of our products. For example, our Partners have
+been licensing products in the ARM7 family for more than 11 years, 
+and we expect the licensing of ARM7 family products to continue 
+for some time.
+The industry’s commitment to ARM11 technology, and to complementary
+ARM technologies such as TrustZone™ security software and Jazelle 
+Java acceleration technology, was emphasised by the 15 new ARM11
+licences signed in 2004 (making a total of 25 to date). As ARM11
+family products move into the mainstream licensing phase, it is
+encouraging that licensing of the next generation of ARM technology
+began in 2004: we signed three Partners for our “Tiger” product. Other
+new technologies planned for delivery in 2005 are now available for
+licensing, and we will release details of them during 2005.
+The strong licensing performance increased the order backlog in 
+the fourth quarter of the year, with the result that it was approximately
+30% higher at the end of 2004 than at the end of 2003. Revenues
+from licensing of products other than microprocessors comprised 18%
+of the total in 2004, compared with 17% in 2003.
+Product development, new technology and partnerships
+The announcement in October 2004 of our new Cortex™ family of
+microprocessors received an enthusiastic welcome from Partners. Cortex
+products will enable them to benefit from the incorporation of new
+features into microprocessors at various performance points. The first
+member of the family, the ARM Cortex-M3 processor, is targeted at
+extremely cost-sensitive embedded applications, such as microcontrollers,
+automotive body systems and white goods. 
+A further significant technology was announced in May 2004 at the
+Embedded Processor Forum in San Jose, California. Commonly known 
+as a “data engine”, the ARM OptimoDE solution enables flexible, low-
+cost devices to be designed and developed at performance levels which
+6 ARM Annual report and accounts 2004 cannot be achieved by conventional design. By the end of 2004, we
+had welcomed the first four licencees of OptimoDE technology, which
+can be used for any application that requires computationally intensive
+data and signal processing, including video, wireless LAN, audio, imaging
+and consumer entertainment. Comprising a configurable data engine
+(signal processor), together with related IP and tools, it will be used in
+systems alongside existing ARM technologies, including the electronic
+system level (ESL) design tools from Axys.
+The acquisition of Axys, a provider of fast, accurate, integrated,
+processor and system modelling and simulation solutions, brings ESL
+expertise to our RealView® design tools portfolio. The ESL products
+reduce overall system costs by enabling designs to be modelled early 
+in the development cycle, speeding time-to-market and minimising
+design errors.
+In July we established an Embedded Software group to capitalise on
+opportunities to generate revenues from software. This team will build
+on the foundation of the existing Jazelle
+®
+Java acceleration technology,
+Intelligent Energy Manager (IEM) technology, TrustZone security
+software and Swerve (co-developed with Superscape Group plc)
+technology. It will bring more focus to the development of enabling
+software technology to support growth in microprocessor and physical
+IP licensing, Development Systems and data engines revenues.
+In October, we held the first ARM Developers’ Conference in Santa Clara.
+This epitomised the ARM Connected Community: it brought together
+more than 2,000 delegates and 100 exhibitors from across the world.
+The attendees all had a common interest – a desire to play a role in 
+the development of solutions based on ARM IP . The event was an
+unqualified success and we are already organising the 2005 conference. 
+Revenue and margins
+Healthy licensing activity and significant growth in shipments of ARM
+Powered products had a positive impact. In sterling, revenue rose by
+19% compared with 2003; in dollar terms, the growth was even more
+impressive, at 32%. Effective cost control resulted in our operating profit
+margin increasing gradually towards our target of around 30%. On the
+basis of our performance over the past 12 months, we are looking
+forward with optimism. 
+People
+In the summer of 2004 we accelerated recruitment and, by the end of
+the year, had 1,171 full-time employees, including 347 who joined the
+Company as part of the Artisan acquisition, up from 740 in December
+2003. The decision to increase headcount was underpinned by our
+confidence in our potential for growth. We recruited in most areas 
+of the business but, in particular, boosted the Development Systems
+team and expanded technical sales and marketing. At the year end, 
+the Company had 546 employees in the UK, 454 in the US, 79 in
+continental Europe, 51 in India and 41 in the Asia Pacific region.
+The future
+Our investments in important developing markets, combined with 
+the acquisitions of Axys and Artisan, are evidence of our belief that the
+future offers great opportunities for the development of our business.
+Together, they will facilitate the design of highly-optimised, cost-
+effective systems, which incorporate hardware and software, resulting
+in faster time to revenue for our Partners, their customers and, of
+course, for us.
+The two acquisitions we made in 2004 have set us ahead of the
+competition. Add to this the momentum from the royalties earned and
+licences signed in 2004, our ever-expanding Partner network and the
+exciting new applications currently being developed to run on our
+processors, and our reasons for optimism are clear. 
+Warren East Chief Executive Officer
+ARM Annual report and accounts 2004 7 8 ARM Annual report and accounts 2004
+ARM IP makes 
+life easier by being at the heart 
+of countless products used at home, 
+from plasma TVs to washing machines and 
+from gaming consoles to refrigerators
+Review of operations/at home
+Take a look back over the past five years and ask, “How has technology
+improved?” It was not that long ago that all but the most expensive 
+TVs were large boxes that took up an entire corner of a room; gaming
+machines were slow, and mobile phones had monochrome screens 
+and limited battery life. 
+Naturally, we only know the shortcomings of past technology in
+retrospect. At the time, not even well-informed consumers knew what
+future technology would deliver. ARM, on the other hand, had a pretty
+good idea. 
+This is because ARM has been a part of the technology innovation for 
+20 years. Our technology can be found at the heart of countless products.
+At home, at work and on the move, our IP is playing a central role in
+the quest for ever faster, less power hungry, more secure, increasingly
+portable and more compact digital products.
+Plasma-screen TVs, for example, are rapidly replacing traditional models.
+As well as being more stylish, space efficient and offering high-quality
+audio-visual entertainment, they are increasingly affordable. Similarly,
+gaming machines offer vastly enhanced performance and capabilities:
+vivid sound, high-definition graphics and dynamic gameplay. The
+gaming experience – on consoles and on handheld devices – is a huge
+improvement over previous models.
+The latest generation of mobile phones has redefined the boundaries 
+of wireless communications. 3G technology, which is becoming widely
+adopted around the world, offers video phone and music download in
+the palm of the hand.
+We have played a significant role, along with our Partners, in the
+development of these and other technology-based products. Although
+consumers are unaware of what lies inside the products they use, the
+world’s leading semiconductor manufacturers have licensed our IP and it
+is their products – the small, yet increasingly powerful, microprocessors
+– which have enabled greater innovation by the manufacturers of digital
+devices. This has enabled these companies to create products that
+appeal to an increasing group of consumers. Whereas technology
+products used to be confined to specific niches, microprocessors – 
+and, therefore, ARM – are now everywhere.
+This is reflected in the royalties that we earn every time an ARM
+Powered product is shipped. In 2004, shipments exceeded the one
+billion mark per year and, as microprocessors are used in a wider range
+of consumer products including white goods such as washing machines
+and refrigerators, the number and type of ARM Powered products will
+continue to increase. ARM Annual report and accounts 2004 9
+Manufacturers of digital products are driven by the need to stay ahead
+of the competition and to respond quickly to consumer demand. As 
+a result, microprocessors must be faster, more versatile, smaller and
+more energy efficient. Development times for new products shorten
+every year. Consistently meeting and exceeding such demands is our
+speciality and our success is derived from the unique relationships 
+we share with our multitude of Partners.
+This is illustrated by the ARM Connected Community which now embraces
+more than 200 Partners from across the technology spectrum. Bringing
+together many types of technology companies including semiconductor
+manufacturers, development tools suppliers and operating system (OS)
+vendors, we provide the foundation for some of the industry’s most
+exciting developments.
+Technology is constantly changing, but ARM continues to be devoted 
+to its partnership business model. Through interaction, the sharing 
+of information and ideas and close collaboration, companies across 
+the globe are working with ARM, and one another, to create the next
+generation of technology-based products for use at home.
+ARM IP is at the heart of many 
+of the digital products used in
+everyday life. Our technology 
+enables innovative new developments
+in home entertainment and
+communications, and can be found in
+everything from feature-rich mobile
+phones to next-generation plasma-
+screen TVs, stereo systems and
+gaming consoles – even concept
+products such as an ARM Powered
+DVD coffee maker.
+Our technology is not only present in
+products used for entertainment, it can 
+be found in many household items that 
+we take for granted such as washing
+machines, refrigerators and home security
+systems. ARM IP is central to the
+microprocessors that power these 
+and similar items. 10 ARM Annual report and accounts 2004
+Review of operations/at work
+ARM IP makes life more efficient, enabling its
+Partners to create more functional products by 
+increasing performance and decreasing power 
+consumption
+Microprocessors have been ubiquitous in the workplace for more than
+two decades: virtually everyone now uses microprocessor technology 
+on a daily basis. It is not surprising, therefore, that just as our IP powers
+countless technology products at home, we have a considerable, and
+increasing presence, in the world of work.
+Many ARM Powered products are used at home and at work. Personal
+digital assistants (PDAs), for example, have become a regular feature 
+of many people’s lives and offer a wealth of instantly accessible
+information. Like so many other technology products, each generation
+of PDAs is smaller, more powerful and offers greater battery life than 
+its predecessor, and we continue to play a significant role in the
+ongoing revolution.
+Mobile devices offer even greater functionality. Some contain multiple
+ARM microprocessors: one for processing information, for example, 
+and another for networking functions. In addition, the latest handheld
+computers are also wireless devices. The adoption of industry standards,
+such as Bluetooth and WLAN, has helped narrow the gap between the
+capabilities of mobile and wireless and wireline technologies.
+One reason for our success in this, and all markets, is our focus on
+enabling our Partners to develop increasingly innovative applications
+based on our architecture. Although we are committed to introducing
+new IP , our reputation is built on much more than the capabilities of 
+our designs. ARM Development Systems provides a comprehensive
+range of solutions to help developers make the most of ARM IP . These
+complement our processors and include software, and hardware tools
+which are designed to speed time-to-market, while also reducing the
+risk and cost of development. 
+In addition, we have partnerships with a wide range of providers 
+of complementary solutions, from suppliers of embedded OS and
+development environments, to specialists in electronic design automation
+(EDA), to application software providers. Our partnerships with the
+leaders in these fields give our silicon Partners considerable advantages
+in the quest for ever-more innovative products.
+By combining our IP with third-party software, our silicon Partners
+design microprocessors which push the boundaries of performance 
+and power efficiency. The net result for users is greater functionality,
+improved efficiency and faster communications. The contemporary
+office communicates like never before. Flexibility and mobility are key
+factors. Many products, including printers, are now wireless devices. 
+At the same time, they combine scanning and photocopying functions, ARM Annual report and accounts 2004 11
+The convergence of mobile
+communication and PDA computing
+technologies, which is being driven
+by our Partners’ ARM Powered
+solutions, is making information
+instantly accessible to everyone,
+whether in the home or at work.
+and produce high-quality output in a fraction of the time of previous
+generations – and at less cost. 
+Again, ARM IP is at the heart of the networking and storage markets.
+ARM Powered products include the servers, modems and firewalls that
+ensure high performance, reliable and secure connections within and
+between offices around the world.
+Our microproccessors are ideally suited to the storage market, to enable
+OEMs to pack increasingly large amounts of media into smaller devices.
+Whether it is a hard disk drive, a memory card or a personal storage
+device that plugs into a Universal Serial Bus (USB) port, performance
+and affordability are vital considerations.
+With the recent advancements in
+wireless technology, ARM IP is able
+to play a vital role in bringing freedom
+and convenience to the workplace.
+Our technology powers a range of
+products that can communicate to
+each other without wires, and that
+increase the scope of where and 
+how we do business – from handheld
+computers and smart phones to fax
+machines and printers.
+ARM is also at the heart of the
+technology that supports and connects
+people in the traditional workplace
+environment. Our IP can be found in
+the IT servers and modems that are
+used everyday and that we rely on to
+ensure high-performance and efficiency.
+ARM Powered products are also found in other work environments.
+From mobile bar code readers, to electronic test and measurement
+equipment, and to factory and warehouse automation systems, the
+ARM architecture is gaining support across an increasingly diverse range
+of applications.
+Each new product that incorporates ARM IP strengthens our connection
+with the continuing technology revolution that touches everyone’s 
+lives. At home and at work, wherever you live and whatever you do, 
+it is likely that you will use an ARM Powered product at some point 
+in your day.  12 ARM Annual report and accounts 2004
+Review of operations/on the move
+ARM IP makes life more fun for 
+consumers by enabling our Partners 
+to shape tomorrow’s world today: 
+now we can take photographs 
+with our mobile phones 
+and talk to our friends 
+through our TVs
+Not long ago, pocket-sized video cameras, video phones and biometric
+identification systems existed only in futuristic movies. Now, these
+products are commonplace and often ARM Powered, and they confirm
+that the future of everyday technology is more exciting than ever.
+When travelling between work and home, enjoying leisure time or
+simply buying groceries, ARM Powered products play an increasing 
+role in everyday life.
+The automotive market is a prime example. By 2007, it is estimated
+that the average mid-range car will contain up to 70 microprocessors.
+The latest ARM Powered products in this market include advanced anti-
+lock braking systems and GPS navigation that provides a 3D view of the
+road ahead. Our IP has also been used by the creators of a solar-
+powered car. 
+ARM Powered products also protect your money. In the past, bank 
+and credit cards, for example, stored data on a magnetic strip. The 
+new generation of smartcards takes security to a new level with 
+highly-secure microprocessors which greatly reduce the incidence of
+fraud. Our architecture is also in electronic point-of-sale (EPoS)
+terminals, PinPads and ATMs. 
+Security is an increasingly important issue for many people – but so is
+having fun. Our technology is used as much in portable audio-visual
+products as it is in the security market. 
+Some of the world’s most advanced digital cameras, for example, are
+ARM Powered. From affordable models for amateur photographers, to
+those used by professionals, more and more digital cameras incorporate
+our architecture. Our IP makes it possible to hold a video conference
+through the family TV; it also makes it possible to produce digital video
+cameras the size of a pack of playing cards.
+For decades, magnetic tape was a chosen medium for portable sound
+and vision. A standard audio tape stored 90 minutes of music; now,
+personal audio players give music lovers on the move immediate
+access to thousands of songs and hours of enjoyment. The storage
+capacity of personal audio players is an important buying criterion, but
+so is size and battery life. On all counts, ARM Powered products have
+set the standard. Only a few years ago, it would have been impossible
+to store more than 2,500 songs on any device but now, products which
+do just that are available. And many, including the market leaders, are
+based on the ARM architecture. ARM Annual report and accounts 2004 13
+Some ARM Powered products combine digital music and still pictures 
+in one device. Indeed, convergence is an irresistible trend in the
+technology industry. In the same way that technology has crossed 
+the divide between home and work, it has also occupied the space 
+in between. 
+Technology is now so well established that traditional boundaries
+between products’ functions and where they are used are becoming
+blurred. As a result, the world’s microprocessor manufacturers and 
+the OEMs that design the technology products we use every day are
+demanding more. These companies need complete solutions which
+encompass microprocessor IP , physical IP , development tools, software
+and a host of complementary third-party products. For this reason, 
+ARM is uniquely positioned for the future. 
+Take a look forward over the next five years and ask “How much will
+technology change?” Nobody has the definitive answer, but you can be
+sure ARM has a good idea. We will continue to be at the heart of
+advanced digital devices – at home, at work and on the move.
+The ARM architecture is used in many
+of the most advanced digital cameras
+and camera phones. Our IP is at the
+forefront of this field, enabling the
+development of ever-faster and more
+compact devices.
+Our solutions are not only a part of 
+the visual technology revolution but
+also the audio, with many market-
+leading personal audio players now
+being ARM Powered. We also play 
+a central role in the technology that
+enables innovative new products such
+as cardio-vascular monitor watches.
+Not only is ARM technology at the
+heart of your car, it also plays a role 
+in protecting your money. Credit and
+debit cards, ATMs and PinPads now
+use microprocessors, many of which
+are ARM Powered, to store data and 
+to prevent fraud. 
+Our IP is playing an increasingly large
+role in the automotive world, especially
+in terms of safety. An average car 
+may contain up to 70 microprocessors
+powering devices from satellite
+navigation to anti-lock braking systems.

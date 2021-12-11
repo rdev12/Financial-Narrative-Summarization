@@ -1,0 +1,198 @@
+ Axeon at-a-glance
+ Axeon Holdings plc  
+ Annual Report & Accounts 2005
+Our global presence
+Axeon’s locations
+With a UK headquarters, Axeon is 
+also positioned to address the main 
+automotive market centres in Germany 
+and in the USA.
+About us
+March 05  Product Announcement 
+– Vindax daughtercard to integrate 
+with Infineon Powertrain Starter Kit  
+for their Tricore device.
+May 05  Announcement of ITI Energy 
+project using Vindax technology for 
+advanced Li-ion battery management 
+system.
+June 05  AIM admission, placing of 
+ordinary shares raising £1.3 million net 
+of fees.
+August 05  Product Announcement 
+– Vindax classifier S-Function.
+September 05  Product Announcement 
+– Vindax daughtercard for Freescale 
+MPC5554 Development system.
+September 05  Product Announcement 
+– VX1064 Processor Core.
+March 06   Acquisition of Advanced 
+Batteries Limited, now Axeon Power 
+Limited. 
+March 06   Institutional placing of 
+ordinary shares raising £4.0 million  
+net of fees.
+April 06  Product Announcement 
+– dSPACE extension to S-function 
+classifier.
+April 06  Agreement signed with 
+Modec to become the exclusive 
+supplier of battery management 
+systems and battery cassettes for 
+Modec’s new electric vehicle.
+What we do
+The group has two core businesses. 
+Axeon Technologies creates and 
+licences advanced engine control 
+and diagnostics technology for the 
+automotive and industrial markets. Its 
+key products are neural network parallel 
+processing microprocessors which can 
+be embedded in automotive engine 
+controller units, and the related design 
+tools and intellectual property arising 
+therefrom. These products are branded 
+under the Vindax name. Axeon Power 
+designs, sources cells for and assembles 
+Li-ion battery packs for the portable 
+device, mobility and automotive markets.
+The group’s key customers are the 
+automotive and chip manufacturers, 
+and the manufacturers of portable 
+and mobile products requiring power 
+supplies. The main benefits of the 
+group’s technologies are reduced 
+system costs, improved fuel and 
+power efficiency and reduced  
+carbon emissions.
+Where we operate
+Axeon’s head office is in Aberdeen 
+where the initial technology was 
+developed and 12 employees, mainly 
+from the electronics design and 
+function development teams of Axeon 
+Technologies, are based. 
+ 
+Our Dundee site is home to the 21 
+employees in Axeon Power working  
+on battery pack design and assembly.
+In addition there are 2 staff in Frankfurt, 
+Germany and a presence in Detroit, 
+USA who handle customer liaison in 
+these key global automotive centres.
+Who we are
+Axeon was founded in 1998 by Hamish 
+Grant the Chief Executive Officer. The 
+group is run by a board of 7 directors 
+who blend strong industry specific and 
+public company experience. In addition 
+to Hamish there are two executive 
+directors and four non-executives 
+including Charles Matthews the 
+chairman. A further 6 senior individuals 
+along with the executive directors form 
+the overall management team sharing 
+leading industry experience between 
+them. The total headcount of the group 
+is currently 35.
+Where we’re going
+In June 2005 Axeon completed 
+one of its short-term business goals 
+– securing a listing on the London Stock 
+Exchange’s junior market, AIM. This 
+milestone brings access to new capital 
+markets, working capital and increased 
+profile. It gives a strong platform 
+from which the group can achieve 
+the growth and profitability to match 
+the vision and ambitions of the board 
+from providing products to the highest 
+level in global automotive and other 
+targeted markets. The ambitions of the 
+founders of the group are reflected in 
+today’s management and employees. 
+The group’s vision and arena is a  
+global one.
+Key events 2005/2006 Misfire detection
+Engine misfire is the lack of 
+combustion in the cylinder due to 
+e.g. absence of spark, poor fuel 
+metering or poor compression. 
+Misfires result in un-combusted or 
+partially combusted fuel gases being 
+released into the exhaust system, 
+increasing pollution levels from the 
+engine and permanently damaging 
+the catalytic converter. Because of this, 
+environmental agencies require all 
+gasoline-fuelled vehicles to include a 
+reliable misfire-detection system in the 
+on-board diagnostics of their ECU.
+Axeon has shown that Vindax is 
+capable of reliably detecting misfires 
+in engines with a large number of 
+cylinders to the strict performance 
+levels required by current and 
+incoming legislation.
+By using Vindax technology, this 
+normally processor intensive task can 
+be unloaded from the main processor 
+of the engine control unit. In addition, 
+Vindax has ample capacity for the 
+task allowing other suitable engine 
+diagnostic or management tasks 
+to run on the same physical Vindax 
+implementation.
+                    Axeon Holdings plc   
+Annual Report & Accounts 2005 
+Our products
+Axeon Technologies’ range of 
+Vindax products includes: the Vindax 
+processor architecture, implemented 
+as a fully synthesisable IP core; the 
+Vindax development system (VDS), 
+the key tool in developing solutions 
+using Vindax technology; and the 
+Vindax S-Function and dSPACE 
+tools which allow simulations of the 
+developed solutions to be tested 
+and updated in real-time within the 
+original problem environment. 
+Axeon Power provides a turnkey 
+service from Li-ion battery pack 
+design through supply chain 
+management and volume assembly, 
+with a key competence in the 
+design of the battery management 
+electronics. Battery packs are 
+supplied for a wide range of products 
+from handheld devices through 
+mobility and utility vehicles to larger 
+commercial vehicles.
+Typical product applications
+Battery package supply
+In April 2006 Axeon Power signed an 
+agreement with Modec to become 
+the exclusive supplier of its battery 
+management systems, battery 
+cassettes and charging stations for its 
+new zero emission city delivery van.
+  
+Initially Axeon will supply battery 
+cassettes using Sodium Nickel Chloride 
+cells and are developing a Lithium Ion 
+(‘Li-ion’) alternative for introduction 
+next year. Both battery chemistries 
+provide more than three times the 
+energy density of traditional lead acid 
+batteries, enabling the Modec vehicles 
+to carry 2 tonnes for up to 100 miles at 
+speeds of up to 50mph. 
+  
+Modec were looking to keep their 
+number of suppliers to a manageable 
+level and selected Axeon Power 
+to look after their battery package 
+requirements for delivery to 
+production line after a European 
+search for partners.
