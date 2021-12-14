@@ -4,6 +4,8 @@
 
 Narrative sections contain textual information and reviews by the firm’s management and board of directors. They usually contain textual information and reviews by the firm’s management and board of directors instead of statistics and tables. 
 
+More information can be found at FNS[http://wp.lancs.ac.uk/cfie/fns2022/]
+
 ## Dataset
 The task dataset has been extracted in TXT format from UK annual reports published in PDF file format.
 
